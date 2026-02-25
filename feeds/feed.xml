@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Feb 2026 08:34:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Feb 2026 09:40:42 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Feb 2026 08:34:19 GMT</pubDate>
+        <pubDate>Wed, 25 Feb 2026 09:40:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Pakistan wary after Afghanistan air strikes]]></title>
+            <description><![CDATA[[Asia Pacific] Pakistan wary after Afghanistan air strikes]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/1f21b3cf0ad7</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/1f21b3cf0ad7</guid>
+            <pubDate>Wed, 25 Feb 2026 15:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/pak-afghan-15226-1772010718.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bomb threat against Australia PM linked to Chinese dance group]]></title>
+            <description><![CDATA[[World] Bomb threat against Australia PM linked to Chinese dance group]]></description>
+            <link>https://bdnews24.com/world/d62fc16e2d3f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/d62fc16e2d3f</guid>
+            <pubDate>Wed, 25 Feb 2026 15:05:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/albanese-250226-01-1772010277.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 of a family burnt in Chandpur gas blast]]></title>
+            <description><![CDATA[[Bangladesh] 3 of a family burnt in Chandpur gas blast]]></description>
+            <link>https://bdnews24.com/bangladesh/ba8b7f129c2c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ba8b7f129c2c</guid>
+            <pubDate>Wed, 25 Feb 2026 14:48:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/dhaka-burn-hospital-250226-01-1772007430.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gas pressure likely to dip on Wednesday]]></title>
+            <description><![CDATA[[Bangladesh] Gas pressure likely to dip on Wednesday]]></description>
+            <link>https://bdnews24.com/bangladesh/d9b6c8cde53a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d9b6c8cde53a</guid>
+            <pubDate>Wed, 25 Feb 2026 14:35:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025February/SM/ctg-gas-crisis-06112018-02-1740129198.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Bangladesh committed to democracy: envoy at UK Parliament]]></title>
             <description><![CDATA[[Bangladesh] Bangladesh committed to democracy: envoy at UK Parliament]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/4f879289ec37</guid>
             <pubDate>Wed, 25 Feb 2026 11:16:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/bogra-medical-1771992846.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[S Korea's birthrate rises amid signs of easing demographic crisis]]></title>
-            <description><![CDATA[[Asia Pacific] S Korea's birthrate rises amid signs of easing demographic crisis]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/0000ab729964</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/0000ab729964</guid>
-            <pubDate>Wed, 25 Feb 2026 11:14:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/s-korea-25226-1771996450.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UK to enforce travel permit requirement on foreign visitors]]></title>
-            <description><![CDATA[[Travel & Tourism] UK to enforce travel permit requirement on foreign visitors]]></description>
-            <link>https://bdnews24.com/travelandtourism/4a9606f90cbf</link>
-            <guid isPermaLink="true">https://bdnews24.com/travelandtourism/4a9606f90cbf</guid>
-            <pubDate>Wed, 25 Feb 2026 11:05:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024December/SM/uk-flag-03122024-01-1733246615.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Verdict on Samrat’s corruption case Wednesday]]></title>
-            <description><![CDATA[[Bangladesh] Verdict on Samrat’s corruption case Wednesday]]></description>
-            <link>https://bdnews24.com/bangladesh/2189be7014ad</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2189be7014ad</guid>
-            <pubDate>Wed, 25 Feb 2026 10:55:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025October/SM/samrat-1761206770.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bill Gates 'took responsibility' over Epstein links: foundation]]></title>
-            <description><![CDATA[[People] Bill Gates 'took responsibility' over Epstein links: foundation]]></description>
-            <link>https://bdnews24.com/people/81241c3a6586</link>
-            <guid isPermaLink="true">https://bdnews24.com/people/81241c3a6586</guid>
-            <pubDate>Wed, 25 Feb 2026 10:44:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/bill-gates-19226-1771473291.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
