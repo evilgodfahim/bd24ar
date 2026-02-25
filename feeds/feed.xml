@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Feb 2026 18:47:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Feb 2026 19:43:47 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Feb 2026 18:47:16 GMT</pubDate>
+        <pubDate>Wed, 25 Feb 2026 19:43:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[129 journalists killed in 2025, mostly by Israel: CPJ]]></title>
+            <description><![CDATA[[World] 129 journalists killed in 2025, mostly by Israel: CPJ]]></description>
+            <link>https://bdnews24.com/world/0550c79031ae</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/0550c79031ae</guid>
+            <pubDate>Thu, 26 Feb 2026 01:24:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/gaza-israel-war-20022026-01-1771566081.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India's Modi visits Israel amid US-Iran tensions]]></title>
+            <description><![CDATA[[World] India's Modi visits Israel amid US-Iran tensions]]></description>
+            <link>https://bdnews24.com/world/bec66b99bd40</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/bec66b99bd40</guid>
+            <pubDate>Thu, 26 Feb 2026 01:22:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025September/SM/modi-urges-indians-21092025-01-1758458956.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US tariff hike to reach 15% or more: Greer]]></title>
+            <description><![CDATA[[World] US tariff hike to reach 15% or more: Greer]]></description>
+            <link>https://bdnews24.com/world/612d33e21c75</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/612d33e21c75</guid>
+            <pubDate>Thu, 26 Feb 2026 01:05:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/trump-renews-sc-attack-23022026-01-1771852831.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Countries update travel alerts amid Iran tensions]]></title>
+            <description><![CDATA[[Middle East] Countries update travel alerts amid Iran tensions]]></description>
+            <link>https://bdnews24.com/world/middle-east/930c099788f0</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/930c099788f0</guid>
+            <pubDate>Thu, 26 Feb 2026 00:58:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/diplomats-25022026-1772024058.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[3 Bangladeshis injured in Lisbon shooting]]></title>
             <description><![CDATA[[Bangladesh] 3 Bangladeshis injured in Lisbon shooting]]></description>
@@ -22,7 +54,7 @@
             <link>https://bdnews24.com/bangladesh/2905ed4fc1f6</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/2905ed4fc1f6</guid>
             <pubDate>Thu, 26 Feb 2026 00:32:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-02/9021c496-de82-40e2-9272-b4d04091c11d/dmch_emergency_department_230223_04.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/binty-death-school-student-250226-1772046122.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[US expands Iran sanctions over oil, arms]]></title>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/600ef3949c58</guid>
             <pubDate>Wed, 25 Feb 2026 20:57:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/dig-office-rajshahi-250226-01-1772027028.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Manchester United’s plan delivers profit despite revenue drop]]></title>
-            <description><![CDATA[[Sport] Manchester United’s plan delivers profit despite revenue drop]]></description>
-            <link>https://bdnews24.com/sport/4cfde0486994</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/4cfde0486994</guid>
-            <pubDate>Wed, 25 Feb 2026 20:46:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/manchester-united-25022026-1772030706.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Retired general set for Myanmar parliament]]></title>
-            <description><![CDATA[[Neighbours] Retired general set for Myanmar parliament]]></description>
-            <link>https://bdnews24.com/neighbours/28e9d041c9ab</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/28e9d041c9ab</guid>
-            <pubDate>Wed, 25 Feb 2026 20:42:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/khin-yi-250226-01-1772028249.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pilkhana massacre an assault on sovereignty: PM]]></title>
-            <description><![CDATA[[Bangladesh] Pilkhana massacre an assault on sovereignty: PM]]></description>
-            <link>https://bdnews24.com/bangladesh/c94d5f8b55fc</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c94d5f8b55fc</guid>
-            <pubDate>Wed, 25 Feb 2026 20:27:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/pm-tareque-rahman-bdr-250626-01-1772028395.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chelsea, West Ham fined for London derby brawl]]></title>
-            <description><![CDATA[[Sport] Chelsea, West Ham fined for London derby brawl]]></description>
-            <link>https://bdnews24.com/sport/19ceb872deb5</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/19ceb872deb5</guid>
-            <pubDate>Wed, 25 Feb 2026 20:14:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/chelsea-25022026-1772028786.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
