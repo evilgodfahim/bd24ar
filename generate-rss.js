@@ -39,6 +39,14 @@ async function fetchWithFlareSolverr(url) {
   }
 }
 
+// Parse "Published : 25 Feb 2026, 11:05 AM" into a Date object
+function parsePublishDate(text) {
+  if (!text) return new Date();
+  const cleaned = text.replace("Published :", "").trim();
+  const parsed = new Date(cleaned);
+  return isNaN(parsed.getTime()) ? new Date() : parsed;
+}
+
 async function generateRSS() {
   try {
     // Fetch page content using FlareSolverr
@@ -47,62 +55,24 @@ async function generateRSS() {
     const $ = cheerio.load(htmlContent);
     const items = [];
 
-    // Scrape lead article from Cat-lead section
-    $("section.Cat-lead .Cat-lead-wrapper").each((_, el) => {
+    // Scrape archive articles from #data-wrapper inside .SubCat-wrapper
+    $("#data-wrapper .SubCat-wrapper").each((_, el) => {
       const $wrapper = $(el);
       const $link = $wrapper.find("a").first();
-      
-      const title = $link.find("h1").text().trim();
+
       const href = $link.attr("href");
-      const description = $link.find("p").text().trim();
-      const imgSrc = $link.find("img").attr("src");
-
-      if (title && href) {
-        const link = href.startsWith("http") ? href : baseURL + href;
-        items.push({ 
-          title, 
-          link, 
-          description,
-          image: imgSrc
-        });
-      }
-    });
-
-    // Scrape sidebar articles from Cat-list
-    $("section.Cat-lead .Cat-list").each((_, el) => {
-      const $list = $(el);
-      const $link = $list.find("a").first();
-      
       const title = $link.find("h5").text().trim();
-      const href = $link.attr("href");
+      const category = $link.find(".category-arch").text().trim();
+      const publishTimeText = $link.find(".publish-time").text().trim();
       const imgSrc = $link.find("img").attr("src");
 
       if (title && href) {
         const link = href.startsWith("http") ? href : baseURL + href;
-        items.push({ 
-          title, 
-          link, 
-          description: "",
-          image: imgSrc
-        });
-      }
-    });
-
-    // Scrape "Read More" section articles
-    $("section.Cat-readMore .rm-container").each((_, el) => {
-      const $container = $(el);
-      const $link = $container.find("a").first();
-      
-      const title = $link.find("h5, h4, h3").text().trim();
-      const href = $link.attr("href");
-      const imgSrc = $link.find("img").attr("src");
-
-      if (title && href) {
-        const link = href.startsWith("http") ? href : baseURL + href;
-        items.push({ 
-          title, 
-          link, 
-          description: "",
+        items.push({
+          title,
+          link,
+          description: category ? `[${category}] ${title}` : title,
+          date: parsePublishDate(publishTimeText),
           image: imgSrc
         });
       }
@@ -117,15 +87,15 @@ async function generateRSS() {
         title: "No articles found yet",
         link: baseURL,
         description: "RSS feed could not scrape any articles.",
-        date: new Date().toUTCString()
+        date: new Date()
       });
     }
 
     // Create RSS feed
     const feed = new RSS({
-      title: "The Daily Star – Opinion",
-      description: "Latest opinion pieces from The Daily Star",
-      feed_url: `${baseURL}/opinion`,
+      title: "bdnews24.com – Latest News",
+      description: "Latest news from bdnews24.com archive",
+      feed_url: `${targetURL}/feed.xml`,
       site_url: baseURL,
       language: "en",
       pubDate: new Date().toUTCString()
@@ -136,7 +106,7 @@ async function generateRSS() {
         title: item.title,
         url: item.link,
         description: item.description || "",
-        date: new Date(),
+        date: item.date || new Date(),
         enclosure: item.image ? { url: item.image } : undefined
       });
     });
@@ -150,9 +120,9 @@ async function generateRSS() {
 
     // Create dummy feed on error
     const feed = new RSS({
-      title: "The Daily Star – Opinion (dummy feed)",
+      title: "bdnews24.com (error fallback)",
       description: "RSS feed could not scrape, showing placeholder",
-      feed_url: `${baseURL}/opinion`,
+      feed_url: `${targetURL}/feed.xml`,
       site_url: baseURL,
       language: "en",
       pubDate: new Date().toUTCString()
