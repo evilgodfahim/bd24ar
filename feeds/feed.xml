@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Star – Opinion]]></title>
-        <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
+        <title><![CDATA[bdnews24.com – Latest News]]></title>
+        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Feb 2026 05:14:09 GMT</lastBuildDate>
-        <atom:link href="https://bdnews24.com/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Feb 2026 05:14:09 GMT</pubDate>
+        <lastBuildDate>Wed, 25 Feb 2026 05:18:59 GMT</lastBuildDate>
+        <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Wed, 25 Feb 2026 05:18:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[No articles found yet]]></title>
-            <description><![CDATA[RSS feed could not scrape any articles.]]></description>
-            <link>https://bdnews24.com</link>
-            <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Wed, 25 Feb 2026 05:14:09 GMT</pubDate>
+            <title><![CDATA[Janata Bank officer dies at Bogura  rehab centre]]></title>
+            <description><![CDATA[[Bangladesh] Janata Bank officer dies at Bogura  rehab centre]]></description>
+            <link>https://bdnews24.com/bangladesh/4f879289ec37</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4f879289ec37</guid>
+            <pubDate>Wed, 25 Feb 2026 11:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/bogra-medical-1771992846.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[S Korea's birthrate rises amid signs of easing demographic crisis]]></title>
+            <description><![CDATA[[Asia Pacific] S Korea's birthrate rises amid signs of easing demographic crisis]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/0000ab729964</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/0000ab729964</guid>
+            <pubDate>Wed, 25 Feb 2026 11:14:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/s-korea-25226-1771996450.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK to enforce travel permit requirement on foreign visitors]]></title>
+            <description><![CDATA[[Travel & Tourism] UK to enforce travel permit requirement on foreign visitors]]></description>
+            <link>https://bdnews24.com/travelandtourism/4a9606f90cbf</link>
+            <guid isPermaLink="true">https://bdnews24.com/travelandtourism/4a9606f90cbf</guid>
+            <pubDate>Wed, 25 Feb 2026 11:05:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024December/SM/uk-flag-03122024-01-1733246615.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Verdict on Samrat’s corruption case Wednesday]]></title>
+            <description><![CDATA[[Bangladesh] Verdict on Samrat’s corruption case Wednesday]]></description>
+            <link>https://bdnews24.com/bangladesh/2189be7014ad</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2189be7014ad</guid>
+            <pubDate>Wed, 25 Feb 2026 10:55:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025October/SM/samrat-1761206770.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bill Gates 'took responsibility' over Epstein links: foundation]]></title>
+            <description><![CDATA[[People] Bill Gates 'took responsibility' over Epstein links: foundation]]></description>
+            <link>https://bdnews24.com/people/81241c3a6586</link>
+            <guid isPermaLink="true">https://bdnews24.com/people/81241c3a6586</guid>
+            <pubDate>Wed, 25 Feb 2026 10:44:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/bill-gates-19226-1771473291.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Takeaways from Trump's State of the Union address to Congress]]></title>
+            <description><![CDATA[[Americas] Takeaways from Trump's State of the Union address to Congress]]></description>
+            <link>https://bdnews24.com/world/americas/d0cc5f39f520</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/d0cc5f39f520</guid>
+            <pubDate>Wed, 25 Feb 2026 10:32:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/donald-trump-250226-01-1771993974.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nepal’s rapper-turned-mayor eyes PM post]]></title>
+            <description><![CDATA[[Asia Pacific] Nepal’s rapper-turned-mayor eyes PM post]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/057d6d4c0fff</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/057d6d4c0fff</guid>
+            <pubDate>Wed, 25 Feb 2026 10:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/nepal-ex-mayor-25226-1771992946.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Epstein accusers, Olympians invited to State of the Union speech]]></title>
+            <description><![CDATA[[Americas] Epstein accusers, Olympians invited to State of the Union speech]]></description>
+            <link>https://bdnews24.com/world/americas/8defe37928b1</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/8defe37928b1</guid>
+            <pubDate>Wed, 25 Feb 2026 10:07:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/us-capitol-240226-01-1771916022.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cartels exploit fake news after drug lord’s death in Mexico]]></title>
+            <description><![CDATA[[World] Cartels exploit fake news after drug lord’s death in Mexico]]></description>
+            <link>https://bdnews24.com/world/3489f101b55e</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/3489f101b55e</guid>
+            <pubDate>Wed, 25 Feb 2026 10:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/mexico-25226-1771992143.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Saudi bans poultry, egg imports from Bangladesh]]></title>
+            <description><![CDATA[[Business] Saudi bans poultry, egg imports from Bangladesh]]></description>
+            <link>https://bdnews24.com/business/4da77a0386b8</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/4da77a0386b8</guid>
+            <pubDate>Wed, 25 Feb 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2022-10/012a3730-5ca9-4036-8d9c-4e498804394e/bagerhat_Egg.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[On invasion anniversary, UN says Ukraine cannot be divided]]></title>
+            <description><![CDATA[[Europe] On invasion anniversary, UN says Ukraine cannot be divided]]></description>
+            <link>https://bdnews24.com/world/europe/babc92f93cb7</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/babc92f93cb7</guid>
+            <pubDate>Wed, 25 Feb 2026 09:48:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/ukraine-crisis-un-250226-01-1771991317.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump touts economic record in State of the Union]]></title>
+            <description><![CDATA[[World] Trump touts economic record in State of the Union]]></description>
+            <link>https://bdnews24.com/world/8ae585793dfe</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/8ae585793dfe</guid>
+            <pubDate>Wed, 25 Feb 2026 09:18:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/trump-25226-1771989438.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK police wrap up search at Andrew’s former home]]></title>
+            <description><![CDATA[[World] UK police wrap up search at Andrew’s former home]]></description>
+            <link>https://bdnews24.com/world/f1ca2a039926</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/f1ca2a039926</guid>
+            <pubDate>Wed, 25 Feb 2026 08:55:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/uk-police-25226-1771988144.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bodo/Glimt stun Inter to reach last 16]]></title>
+            <description><![CDATA[[Sport] Bodo/Glimt stun Inter to reach last 16]]></description>
+            <link>https://bdnews24.com/sport/b942a3396961</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/b942a3396961</guid>
+            <pubDate>Wed, 25 Feb 2026 04:33:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/bodo-glimt-250226-01-1771972350.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexico guarantees smooth 2026 World Cup]]></title>
+            <description><![CDATA[[Sport] Mexico guarantees smooth 2026 World Cup]]></description>
+            <link>https://bdnews24.com/sport/d08d38386aca</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/d08d38386aca</guid>
+            <pubDate>Wed, 25 Feb 2026 04:11:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/claudia-sheinbaum-250226-01-1771971014.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran ready to take steps for US deal]]></title>
+            <description><![CDATA[[World] Iran ready to take steps for US deal]]></description>
+            <link>https://bdnews24.com/world/a51861cdd1d6</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/a51861cdd1d6</guid>
+            <pubDate>Wed, 25 Feb 2026 02:06:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/majid-takht-ravanchi-250226-01-1771969469.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Awami League stirs again—what is the plan?]]></title>
+            <description><![CDATA[[Politics] Awami League stirs again—what is the plan?]]></description>
+            <link>https://bdnews24.com/politics/34752e84f6c0</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/34752e84f6c0</guid>
+            <pubDate>Wed, 25 Feb 2026 01:34:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024August/SM/awami-league-office-bb-avenue-050824-19-1724009988.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pakistan, Afghan troops clash after airstrikes]]></title>
+            <description><![CDATA[[World] Pakistan, Afghan troops clash after airstrikes]]></description>
+            <link>https://bdnews24.com/world/0d830f7a61e9</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/0d830f7a61e9</guid>
+            <pubDate>Wed, 25 Feb 2026 01:14:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025October/SM/people-chaman-131025-01-1760364797.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[European leaders reaffirm support for Ukraine]]></title>
+            <description><![CDATA[[World] European leaders reaffirm support for Ukraine]]></description>
+            <link>https://bdnews24.com/world/3b796b72e850</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/3b796b72e850</guid>
+            <pubDate>Wed, 25 Feb 2026 01:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/zelensky-eu-25022026jpg-1771960197.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Diplomacy key to Iran-US deal, Tehran warns]]></title>
+            <description><![CDATA[[World] Diplomacy key to Iran-US deal, Tehran warns]]></description>
+            <link>https://bdnews24.com/world/3ceb31dd8e47</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/3ceb31dd8e47</guid>
+            <pubDate>Wed, 25 Feb 2026 01:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/2026-01-30t122955z-2146616444-rc2obja1z7pu-rtrmadp-3-iran-crisis-turkey-1771966611.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
