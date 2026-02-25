@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Feb 2026 11:32:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Feb 2026 12:34:30 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Feb 2026 11:32:05 GMT</pubDate>
+        <pubDate>Wed, 25 Feb 2026 12:34:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Google disrupts Chinese-linked hacking network]]></title>
+            <description><![CDATA[[Technology] Google disrupts Chinese-linked hacking network]]></description>
+            <link>https://bdnews24.com/technology/0c5f555a829c</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/0c5f555a829c</guid>
+            <pubDate>Wed, 25 Feb 2026 18:19:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/google-25022026-1772021918.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man to die for killing wife in Bhatara]]></title>
+            <description><![CDATA[[Bangladesh] Man to die for killing wife in Bhatara]]></description>
+            <link>https://bdnews24.com/bangladesh/0ed93e70cfee</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0ed93e70cfee</guid>
+            <pubDate>Wed, 25 Feb 2026 17:38:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025December/SM/lower-court-021225-01-1764668994.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Benfica dodge Prestianni talk before Madrid clash]]></title>
+            <description><![CDATA[[Sport] Benfica dodge Prestianni talk before Madrid clash]]></description>
+            <link>https://bdnews24.com/sport/3414c0f1cdea</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/3414c0f1cdea</guid>
+            <pubDate>Wed, 25 Feb 2026 17:34:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/prestianni-25022026-1772019203.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Samra swaps snowy Canada for IPL dream]]></title>
             <description><![CDATA[[Sport] Samra swaps snowy Canada for IPL dream]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/43a33019fe15</guid>
             <pubDate>Wed, 25 Feb 2026 14:27:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/ban-uk-flags-25226-1772008029.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[68,768 students to get scholarships]]></title>
-            <description><![CDATA[[Education] 68,768 students to get scholarships]]></description>
-            <link>https://bdnews24.com/education/95b5bd0d6c99</link>
-            <guid isPermaLink="true">https://bdnews24.com/education/95b5bd0d6c99</guid>
-            <pubDate>Wed, 25 Feb 2026 14:25:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025September/SM/jsc-exam-azimpur3-1758025928.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[DMP chief Sazzat Ali quits]]></title>
-            <description><![CDATA[[Bangladesh] DMP chief Sazzat Ali quits]]></description>
-            <link>https://bdnews24.com/bangladesh/928266aa6b62</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/928266aa6b62</guid>
-            <pubDate>Wed, 25 Feb 2026 14:02:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024November/SM/sheikh-md-sazzad-ali-301124-01-1732976908.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Court chaos: Protests as Barishal Bar Association chief held]]></title>
-            <description><![CDATA[[Bangladesh] Court chaos: Protests as Barishal Bar Association chief held]]></description>
-            <link>https://bdnews24.com/bangladesh/2739cef04d40</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2739cef04d40</guid>
-            <pubDate>Wed, 25 Feb 2026 13:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/barisal-advocate-arrest-250226-01-1772003726.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
