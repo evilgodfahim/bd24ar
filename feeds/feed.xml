@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Feb 2026 22:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Feb 2026 23:19:11 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Feb 2026 22:19:48 GMT</pubDate>
+        <pubDate>Wed, 25 Feb 2026 23:19:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Dramatic ousting of BB governor as businessman takes helm]]></title>
+            <description><![CDATA[[Business] Dramatic ousting of BB governor as businessman takes helm]]></description>
+            <link>https://bdnews24.com/business/f7e5ec532fd8</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/f7e5ec532fd8</guid>
+            <pubDate>Thu, 26 Feb 2026 04:32:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/ahsan-mansor-mustakur-rahman-250226-01-1772058138.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[NZ oust co-hosts Sri Lanka from T20 WC]]></title>
+            <description><![CDATA[[Sport] NZ oust co-hosts Sri Lanka from T20 WC]]></description>
+            <link>https://bdnews24.com/sport/5eb204705177</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/5eb204705177</guid>
+            <pubDate>Thu, 26 Feb 2026 04:21:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025February/SM/bracewell-shines-250225-01-1740468754.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Blast at Cox’s Bazar gas station injures 15]]></title>
             <description><![CDATA[[Bangladesh] Blast at Cox’s Bazar gas station injures 15]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/8317f673e3a8</guid>
             <pubDate>Wed, 25 Feb 2026 21:29:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/suresh-sallay-25022026-1772033293.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Barcelona doubles tourism tax to fund housing]]></title>
-            <description><![CDATA[[Travel & Tourism] Barcelona doubles tourism tax to fund housing]]></description>
-            <link>https://bdnews24.com/travelandtourism/0b1d1519d584</link>
-            <guid isPermaLink="true">https://bdnews24.com/travelandtourism/0b1d1519d584</guid>
-            <pubDate>Wed, 25 Feb 2026 21:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/barcelona-25022026-1772033248.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh to examine Yunus govt’s trade deal with US]]></title>
-            <description><![CDATA[[Business] Bangladesh to examine Yunus govt’s trade deal with US]]></description>
-            <link>https://bdnews24.com/business/a48f86ab47e1</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/a48f86ab47e1</guid>
-            <pubDate>Wed, 25 Feb 2026 21:27:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/abdul-muktadir-250226-01-1772027672.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
