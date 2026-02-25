@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Feb 2026 20:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Feb 2026 21:24:55 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Feb 2026 20:23:32 GMT</pubDate>
+        <pubDate>Wed, 25 Feb 2026 21:24:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Blast at Cox’s Bazar gas station injures 15]]></title>
+            <description><![CDATA[[Bangladesh] Blast at Cox’s Bazar gas station injures 15]]></description>
+            <link>https://bdnews24.com/bangladesh/360fab280172</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/360fab280172</guid>
+            <pubDate>Thu, 26 Feb 2026 02:26:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/coxbazar-gas-station-fire-250226-01-1772046983.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mostaqur's Tk 860mn loan rescheduling under spotlight]]></title>
+            <description><![CDATA[[Business] Mostaqur's Tk 860mn loan rescheduling under spotlight]]></description>
+            <link>https://bdnews24.com/business/6bd803b7e16a</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/6bd803b7e16a</guid>
+            <pubDate>Thu, 26 Feb 2026 02:23:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/hera-sweaters-new-governor-250226-1772048536.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[129 journalists killed in 2025, mostly by Israel: CPJ]]></title>
             <description><![CDATA[[World] 129 journalists killed in 2025, mostly by Israel: CPJ]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/business/a48f86ab47e1</guid>
             <pubDate>Wed, 25 Feb 2026 21:27:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/abdul-muktadir-250226-01-1772027672.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man shot dead after ‘tiff’ in Raozan]]></title>
-            <description><![CDATA[[Bangladesh] Man shot dead after ‘tiff’ in Raozan]]></description>
-            <link>https://bdnews24.com/bangladesh/e42c39c1b174</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e42c39c1b174</guid>
-            <pubDate>Wed, 25 Feb 2026 21:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024May/SM/rauzan-police-station-060524-01-1714987424.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rajshahi DIG issues ‘special order’ for AL leaders]]></title>
-            <description><![CDATA[[Bangladesh] Rajshahi DIG issues ‘special order’ for AL leaders]]></description>
-            <link>https://bdnews24.com/bangladesh/600ef3949c58</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/600ef3949c58</guid>
-            <pubDate>Wed, 25 Feb 2026 20:57:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/dig-office-rajshahi-250226-01-1772027028.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
