@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Feb 2026 01:00:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 03:33:05 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Feb 2026 01:00:01 GMT</pubDate>
+        <pubDate>Thu, 26 Feb 2026 03:33:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[4 attackers killed in Florida speedboat raid: Cuba]]></title>
+            <description><![CDATA[[World] 4 attackers killed in Florida speedboat raid: Cuba]]></description>
+            <link>https://bdnews24.com/world/280994baf81d</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/280994baf81d</guid>
+            <pubDate>Thu, 26 Feb 2026 09:27:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/cuba-26226-1772076388.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Death toll from Brazil floods rises to 46]]></title>
+            <description><![CDATA[[World] Death toll from Brazil floods rises to 46]]></description>
+            <link>https://bdnews24.com/world/31faa9912b0c</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/31faa9912b0c</guid>
+            <pubDate>Thu, 26 Feb 2026 09:11:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/brazil-25226-1771997397.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US-Iran talks to resume amid military threat]]></title>
+            <description><![CDATA[[World] US-Iran talks to resume amid military threat]]></description>
+            <link>https://bdnews24.com/world/dd17d1cc1647</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/dd17d1cc1647</guid>
+            <pubDate>Thu, 26 Feb 2026 09:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/us-iran-26226-1772075051.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Vinicius scores as Real reach last 16]]></title>
             <description><![CDATA[[Sport] Vinicius scores as Real reach last 16]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/cacbef94fce9</guid>
             <pubDate>Wed, 25 Feb 2026 23:01:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/ekushey-book-fair-preparation-250226-044-1772037833.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mansur exits with reserves above $30bn]]></title>
-            <description><![CDATA[[Economy] Mansur exits with reserves above $30bn]]></description>
-            <link>https://bdnews24.com/economy/27b11ffd17bf</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/27b11ffd17bf</guid>
-            <pubDate>Wed, 25 Feb 2026 22:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/01-dr-ahsan-h-mansur-pri-210317-0003-1772035858.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Apple, Amazon took 'too long' to remove anti-competitive clauses]]></title>
-            <description><![CDATA[[World] Apple, Amazon took 'too long' to remove anti-competitive clauses]]></description>
-            <link>https://bdnews24.com/world/6e39ab52780e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/6e39ab52780e</guid>
-            <pubDate>Wed, 25 Feb 2026 22:18:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/apple-amazon-25022026-1772036214.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nahid demands impeachment, arrest of President Shahabuddin]]></title>
-            <description><![CDATA[[Politics] Nahid demands impeachment, arrest of President Shahabuddin]]></description>
-            <link>https://bdnews24.com/politics/a4ce0eee65d7</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/a4ce0eee65d7</guid>
-            <pubDate>Wed, 25 Feb 2026 22:14:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/nahid-ncp-250226-02-1772033129.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
