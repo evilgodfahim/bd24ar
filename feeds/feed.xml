@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Feb 2026 23:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 01:00:01 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Feb 2026 23:19:11 GMT</pubDate>
+        <pubDate>Thu, 26 Feb 2026 01:00:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Vinicius scores as Real reach last 16]]></title>
+            <description><![CDATA[[Sport] Vinicius scores as Real reach last 16]]></description>
+            <link>https://bdnews24.com/sport/4d0417b500ee</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/4d0417b500ee</guid>
+            <pubDate>Thu, 26 Feb 2026 05:41:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/vinicius-goal-260226-01-1772056832.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PSG see off late Monaco]]></title>
+            <description><![CDATA[[Sport] PSG see off late Monaco]]></description>
+            <link>https://bdnews24.com/sport/de2710bab8a0</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/de2710bab8a0</guid>
+            <pubDate>Thu, 26 Feb 2026 05:29:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/psg-monaco-250226-01-1772062093.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Dramatic ousting of BB governor as businessman takes helm]]></title>
             <description><![CDATA[[Business] Dramatic ousting of BB governor as businessman takes helm]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/politics/a4ce0eee65d7</guid>
             <pubDate>Wed, 25 Feb 2026 22:14:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/nahid-ncp-250226-02-1772033129.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Governor change reflects new govt’s priorities: Khosru]]></title>
-            <description><![CDATA[[Bangladesh] Governor change reflects new govt’s priorities: Khosru]]></description>
-            <link>https://bdnews24.com/bangladesh/151246de1a11</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/151246de1a11</guid>
-            <pubDate>Wed, 25 Feb 2026 22:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/finance-minister-250226-01-1772032483.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sri Lanka arrests ex-intelligence chief over 2019 ‘bombings’]]></title>
-            <description><![CDATA[[World] Sri Lanka arrests ex-intelligence chief over 2019 ‘bombings’]]></description>
-            <link>https://bdnews24.com/world/8317f673e3a8</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/8317f673e3a8</guid>
-            <pubDate>Wed, 25 Feb 2026 21:29:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/suresh-sallay-25022026-1772033293.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
