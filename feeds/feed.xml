@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Feb 2026 07:42:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 08:32:16 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Feb 2026 07:42:36 GMT</pubDate>
+        <pubDate>Thu, 26 Feb 2026 08:32:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Pybus embraces move to Afghanistan as coach]]></title>
+            <description><![CDATA[[Cricket] Pybus embraces move to Afghanistan as coach]]></description>
+            <link>https://bdnews24.com/cricket/09354949f5aa</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/09354949f5aa</guid>
+            <pubDate>Thu, 26 Feb 2026 14:24:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/pybus-embraces-afghans-coach-260226-01-1772094230.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[DU metro station shut for 2 hours]]></title>
+            <description><![CDATA[[Bangladesh] DU metro station shut for 2 hours]]></description>
+            <link>https://bdnews24.com/bangladesh/8d8fc398b28f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8d8fc398b28f</guid>
+            <pubDate>Thu, 26 Feb 2026 14:01:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-12/55b48830-50d5-4c82-847b-cdd1105ff8fd/metro_rail_tsc_station_131223_002.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Court orders steps for Interpol red notice on Tulip]]></title>
+            <description><![CDATA[[Bangladesh] Court orders steps for Interpol red notice on Tulip]]></description>
+            <link>https://bdnews24.com/bangladesh/9af6fe8a9819</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9af6fe8a9819</guid>
+            <pubDate>Thu, 26 Feb 2026 13:46:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025December/SM/tulip-011225-01-1764568677.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[100 held in Mohammadpur raids]]></title>
             <description><![CDATA[[Bangladesh] 100 held in Mohammadpur raids]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/51414ed62b51</guid>
             <pubDate>Thu, 26 Feb 2026 10:24:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/nepal-youth-26226-1772079844.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[HK court overturns Jimmy Lai's fraud conviction, sentencing]]></title>
-            <description><![CDATA[[World] HK court overturns Jimmy Lai's fraud conviction, sentencing]]></description>
-            <link>https://bdnews24.com/world/f8e43d2b05f2</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/f8e43d2b05f2</guid>
-            <pubDate>Thu, 26 Feb 2026 10:22:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/hk-jimmy-lai-090226-01-1770609324.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nepal Polls: Who’s competing, what’s at stake?]]></title>
-            <description><![CDATA[[World] Nepal Polls: Who’s competing, what’s at stake?]]></description>
-            <link>https://bdnews24.com/world/374e705f121d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/374e705f121d</guid>
-            <pubDate>Thu, 26 Feb 2026 10:13:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/nepal-election-260226-1772086762.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blitzer joins bidding war for IPL cricket teams]]></title>
-            <description><![CDATA[[Sport] Blitzer joins bidding war for IPL cricket teams]]></description>
-            <link>https://bdnews24.com/sport/74c95eee8120</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/74c95eee8120</guid>
-            <pubDate>Thu, 26 Feb 2026 10:08:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/ipl-final-260226-01-1772078870.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
