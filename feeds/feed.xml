@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Feb 2026 21:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 22:24:55 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Feb 2026 21:22:58 GMT</pubDate>
+        <pubDate>Thu, 26 Feb 2026 22:24:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Premier League to debut streaming service in Singapore]]></title>
+            <description><![CDATA[[Sport] Premier League to debut streaming service in Singapore]]></description>
+            <link>https://bdnews24.com/sport/915ca3e337ae</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/915ca3e337ae</guid>
+            <pubDate>Fri, 27 Feb 2026 04:20:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/villa-chelsea-drop-21022026-01-1771697025.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[US regulator may share World Liberty bank application]]></title>
             <description><![CDATA[[World] US regulator may share World Liberty bank application]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/politics/c933bc083432</guid>
             <pubDate>Thu, 26 Feb 2026 23:07:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/bogura-bnp-badsha-260226-01-1772117593.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Instagram to alert parents on teen suicide searches]]></title>
-            <description><![CDATA[[Technology] Instagram to alert parents on teen suicide searches]]></description>
-            <link>https://bdnews24.com/technology/c89d23e3bc19</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/c89d23e3bc19</guid>
-            <pubDate>Thu, 26 Feb 2026 23:02:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/instagram-suicide-alert-26022026-01-1772125271.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
