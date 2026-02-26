@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Feb 2026 06:44:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 07:42:36 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Feb 2026 06:44:20 GMT</pubDate>
+        <pubDate>Thu, 26 Feb 2026 07:42:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[100 held in Mohammadpur raids]]></title>
+            <description><![CDATA[[Bangladesh] 100 held in Mohammadpur raids]]></description>
+            <link>https://bdnews24.com/bangladesh/d5b2426a2b0d</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d5b2426a2b0d</guid>
+            <pubDate>Thu, 26 Feb 2026 13:29:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/mohammadpur-arrest-260226-01-1772090457.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[SG toughened up for later stages: Enrique]]></title>
+            <description><![CDATA[[Sport] SG toughened up for later stages: Enrique]]></description>
+            <link>https://bdnews24.com/sport/ad992ed57361</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/ad992ed57361</guid>
+            <pubDate>Thu, 26 Feb 2026 13:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/psg-toughened-up-enrique-260226-01-1772090138.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Missile, drone strikes hit Ukraine overnight]]></title>
+            <description><![CDATA[[World] Missile, drone strikes hit Ukraine overnight]]></description>
+            <link>https://bdnews24.com/world/13fe042510d6</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/13fe042510d6</guid>
+            <pubDate>Thu, 26 Feb 2026 13:14:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/ukraine-crisis-26226-1772090008.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Constant criticism affected players: Shanaka]]></title>
+            <description><![CDATA[[Sport] Constant criticism affected players: Shanaka]]></description>
+            <link>https://bdnews24.com/sport/7611874ae1f8</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/7611874ae1f8</guid>
+            <pubDate>Thu, 26 Feb 2026 13:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/constant-criticism-affected-sl-players-260226-01-1772089919.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[DU students accused of assaulting women at TSC]]></title>
+            <description><![CDATA[[Campus] DU students accused of assaulting women at TSC]]></description>
+            <link>https://bdnews24.com/campus/0b03d291d3af</link>
+            <guid isPermaLink="true">https://bdnews24.com/campus/0b03d291d3af</guid>
+            <pubDate>Thu, 26 Feb 2026 13:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/du-harrasment-260226-1772089389.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Babita, Sattar, Marina get Ekushey Padak]]></title>
+            <description><![CDATA[[Arts & Literature] Babita, Sattar, Marina get Ekushey Padak]]></description>
+            <link>https://bdnews24.com/arts/2516468c8ef7</link>
+            <guid isPermaLink="true">https://bdnews24.com/arts/2516468c8ef7</guid>
+            <pubDate>Thu, 26 Feb 2026 13:01:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/ekushe-padak-bobita-260226-01-1772089256.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jamaat slates ‘mob culture’ at Bangladesh Bank]]></title>
+            <description><![CDATA[[Politics] Jamaat slates ‘mob culture’ at Bangladesh Bank]]></description>
+            <link>https://bdnews24.com/politics/882dceafaf1a</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/882dceafaf1a</guid>
+            <pubDate>Thu, 26 Feb 2026 12:53:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/ahsan-ullah-bb-250226-01-1772029736.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[How China is masking drone flights in potential Taiwan rehearsal]]></title>
             <description><![CDATA[[World] How China is masking drone flights in potential Taiwan rehearsal]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/74c95eee8120</guid>
             <pubDate>Thu, 26 Feb 2026 10:08:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/ipl-final-260226-01-1772078870.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US to permit resale of Venezuelan oil to Cuba]]></title>
-            <description><![CDATA[[World] US to permit resale of Venezuelan oil to Cuba]]></description>
-            <link>https://bdnews24.com/world/9a0804f0c7f0</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/9a0804f0c7f0</guid>
-            <pubDate>Thu, 26 Feb 2026 10:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/us-treasury-26226-1772078640.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[5 women weave new dreams after darkness]]></title>
-            <description><![CDATA[[Bangladesh] 5 women weave new dreams after darkness]]></description>
-            <link>https://bdnews24.com/bangladesh/eaf5757824c9</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/eaf5757824c9</guid>
-            <pubDate>Thu, 26 Feb 2026 10:02:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/mymensingh-women-250226-05-1772076302.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI hires ex-Apple models head from Meta: report]]></title>
-            <description><![CDATA[[Technology] OpenAI hires ex-Apple models head from Meta: report]]></description>
-            <link>https://bdnews24.com/technology/ac612c0b057f</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/ac612c0b057f</guid>
-            <pubDate>Thu, 26 Feb 2026 09:52:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025August/SM/openai-logo-060825-01-1754458549.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[FBI obtained Patel, Wiles phone records during Biden administration]]></title>
-            <description><![CDATA[[World] FBI obtained Patel, Wiles phone records during Biden administration]]></description>
-            <link>https://bdnews24.com/world/7e9d8cdcd8fc</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/7e9d8cdcd8fc</guid>
-            <pubDate>Thu, 26 Feb 2026 09:39:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/fbi-kash-patel-260226-01-1772077167.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spain’s 1981 coup leader Antonio Tejero dies]]></title>
-            <description><![CDATA[[People] Spain’s 1981 coup leader Antonio Tejero dies]]></description>
-            <link>https://bdnews24.com/people/726b11e4bffd</link>
-            <guid isPermaLink="true">https://bdnews24.com/people/726b11e4bffd</guid>
-            <pubDate>Thu, 26 Feb 2026 09:38:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/antonio-tejero-26226-1772077050.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4 attackers killed in Florida speedboat raid: Cuba]]></title>
-            <description><![CDATA[[World] 4 attackers killed in Florida speedboat raid: Cuba]]></description>
-            <link>https://bdnews24.com/world/280994baf81d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/280994baf81d</guid>
-            <pubDate>Thu, 26 Feb 2026 09:27:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/cuba-26226-1772076388.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Death toll from Brazil floods rises to 46]]></title>
-            <description><![CDATA[[World] Death toll from Brazil floods rises to 46]]></description>
-            <link>https://bdnews24.com/world/31faa9912b0c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/31faa9912b0c</guid>
-            <pubDate>Thu, 26 Feb 2026 09:11:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/brazil-25226-1771997397.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
