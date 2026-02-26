@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Feb 2026 17:50:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 18:35:55 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Feb 2026 17:50:52 GMT</pubDate>
+        <pubDate>Thu, 26 Feb 2026 18:35:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[GDP growth falls to 5-year low]]></title>
+            <description><![CDATA[[Economy] GDP growth falls to 5-year low]]></description>
+            <link>https://bdnews24.com/economy/e3ab4ec8eb38</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/e3ab4ec8eb38</guid>
+            <pubDate>Fri, 27 Feb 2026 00:33:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-05/a18f1583-e7e6-46f8-84f5-9de1b2e92af2/may_day_labourers_010523_01.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Debt repayments exceed foreign aid inflow in 7 months]]></title>
+            <description><![CDATA[[Economy] Debt repayments exceed foreign aid inflow in 7 months]]></description>
+            <link>https://bdnews24.com/economy/e76ac38654ca</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/e76ac38654ca</guid>
+            <pubDate>Thu, 26 Feb 2026 23:54:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024December/SM/dollar-030620-01-1735479909.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Denmark to hold polls: PM bets on Greenland]]></title>
             <description><![CDATA[[World] Denmark to hold polls: PM bets on Greenland]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/ec7834b273da</guid>
             <pubDate>Thu, 26 Feb 2026 20:40:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/coxsbazar-gas-burn-260226-01-1772113601.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Governor will revive idle factories: spokesperson]]></title>
-            <description><![CDATA[[Economy] Governor will revive idle factories: spokesperson]]></description>
-            <link>https://bdnews24.com/economy/6417fd61c235</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/6417fd61c235</guid>
-            <pubDate>Thu, 26 Feb 2026 20:39:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/bb-governor-spokesperson-260226-01-1772109823.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4 arrested day over abduction of Secretariat employee's son]]></title>
-            <description><![CDATA[[Bangladesh] 4 arrested day over abduction of Secretariat employee's son]]></description>
-            <link>https://bdnews24.com/bangladesh/062c51c40bb0</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/062c51c40bb0</guid>
-            <pubDate>Thu, 26 Feb 2026 20:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/hazaribagh-murder-briefing-police-260126-01-1772109950.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
