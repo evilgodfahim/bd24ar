@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Feb 2026 21:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 22:12:32 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Feb 2026 21:17:44 GMT</pubDate>
+        <pubDate>Fri, 27 Feb 2026 22:12:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Rehan, Jacks late show leads England to win over NZ]]></title>
+            <description><![CDATA[[Cricket] Rehan, Jacks late show leads England to win over NZ]]></description>
+            <link>https://bdnews24.com/cricket/b9723113df9b</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/b9723113df9b</guid>
+            <pubDate>Sat, 28 Feb 2026 04:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/untitled-1-1772211836.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Pakistan bombs Kabul as its ‘open war’ risks long crisis]]></title>
             <description><![CDATA[[World] Pakistan bombs Kabul as its ‘open war’ risks long crisis]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/politics/cc07d2b60778</guid>
             <pubDate>Fri, 27 Feb 2026 23:52:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/jubaida-rahman-ifter-270226-1772211952.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[South Sudan at 'dangerous point': UN]]></title>
-            <description><![CDATA[[World] South Sudan at 'dangerous point': UN]]></description>
-            <link>https://bdnews24.com/world/0022e6deccc0</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/0022e6deccc0</guid>
-            <pubDate>Fri, 27 Feb 2026 23:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025December/SM/sudanese-people-171225-01-1765993398.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
