@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Feb 2026 20:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 21:17:44 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Feb 2026 20:16:50 GMT</pubDate>
+        <pubDate>Fri, 27 Feb 2026 21:17:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Pakistan bombs Kabul as its ‘open war’ risks long crisis]]></title>
+            <description><![CDATA[[World] Pakistan bombs Kabul as its ‘open war’ risks long crisis]]></description>
+            <link>https://bdnews24.com/world/4821ab3d7525</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/4821ab3d7525</guid>
+            <pubDate>Sat, 28 Feb 2026 02:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/pakistan-afghanistan-conflict-270226-1772221037.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[BNP leader beaten to death in Rajshahi]]></title>
             <description><![CDATA[[Bangladesh] BNP leader beaten to death in Rajshahi]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/0022e6deccc0</guid>
             <pubDate>Fri, 27 Feb 2026 23:36:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025December/SM/sudanese-people-171225-01-1765993398.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Inside Narsingdi ‘rape-murder’ case and local claims]]></title>
-            <description><![CDATA[[Bangladesh] Inside Narsingdi ‘rape-murder’ case and local claims]]></description>
-            <link>https://bdnews24.com/bangladesh/45ae4ac811c1</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/45ae4ac811c1</guid>
-            <pubDate>Fri, 27 Feb 2026 23:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/narsingdi-murder-260226-01-1772092767.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
