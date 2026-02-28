@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Feb 2026 12:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 13:30:03 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Feb 2026 12:20:17 GMT</pubDate>
+        <pubDate>Sat, 28 Feb 2026 13:30:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Airlines cancel flights amid Iran strikes]]></title>
+            <description><![CDATA[[World] Airlines cancel flights amid Iran strikes]]></description>
+            <link>https://bdnews24.com/world/635e4c37a8f0</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/635e4c37a8f0</guid>
+            <pubDate>Sat, 28 Feb 2026 19:25:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/flight-cancel-28022026-01-1772285090.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US trade deal stuns CPD]]></title>
+            <description><![CDATA[[Bangladesh] US trade deal stuns CPD]]></description>
+            <link>https://bdnews24.com/bangladesh/7a317c674a42</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7a317c674a42</guid>
+            <pubDate>Sat, 28 Feb 2026 19:23:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/cpd-khondakar-moazzem-280226-01-1772270666.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tarique joins Jamaat’s Iftar party]]></title>
+            <description><![CDATA[[Politics] Tarique joins Jamaat’s Iftar party]]></description>
+            <link>https://bdnews24.com/politics/049f9b8a6c05</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/049f9b8a6c05</guid>
+            <pubDate>Sat, 28 Feb 2026 19:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/tarique-rahman-jamat-islamai-iftar-280228-01-1772281795.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump warns Americans may die amid US strikes]]></title>
+            <description><![CDATA[[World] Trump warns Americans may die amid US strikes]]></description>
+            <link>https://bdnews24.com/world/037aca35a37b</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/037aca35a37b</guid>
+            <pubDate>Sat, 28 Feb 2026 18:21:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/trump-warns-americans-die-28022026-01-1772281257.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[US-Israeli attack triggers fear, panic in Iran]]></title>
             <description><![CDATA[[World] US-Israeli attack triggers fear, panic in Iran]]></description>
@@ -25,12 +57,12 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2022-11/73276616-2a6b-47c5-89ca-c6f6d6d1fbd4/shahjalal_international_airport_parking_bay_131122_01.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Iran targets US bases after joint US-Israel strikes]]></title>
-            <description><![CDATA[[World] Iran targets US bases after joint US-Israel strikes]]></description>
+            <title><![CDATA[Iran school death toll rises to 51]]></title>
+            <description><![CDATA[[World] Iran school death toll rises to 51]]></description>
             <link>https://bdnews24.com/world/75c86cea7d56</link>
             <guid isPermaLink="true">https://bdnews24.com/world/75c86cea7d56</guid>
             <pubDate>Sat, 28 Feb 2026 14:37:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/us-israel-attack-iran-280226-04-1772276201.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/iran-crisis-strikes-280226-01-1772285278.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Russia suspends flights to Iran, Israel]]></title>
@@ -73,8 +105,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025February/SM/burn-institute-021224-013-1739675974.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[US, Israel launch strikes on Iran]]></title>
-            <description><![CDATA[[World] US, Israel launch strikes on Iran]]></description>
+            <title><![CDATA[US, Israel strike Iran, targeting its top leaders]]></title>
+            <description><![CDATA[[World] US, Israel strike Iran, targeting its top leaders]]></description>
             <link>https://bdnews24.com/world/100658ccec8f</link>
             <guid isPermaLink="true">https://bdnews24.com/world/100658ccec8f</guid>
             <pubDate>Sat, 28 Feb 2026 12:53:00 GMT</pubDate>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/bc7ea6873d40</guid>
             <pubDate>Sat, 28 Feb 2026 11:03:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/habiganj-clash-280226-01-1772251073.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Argentina Senate approves Milei-backed labour reform]]></title>
-            <description><![CDATA[[Economy] Argentina Senate approves Milei-backed labour reform]]></description>
-            <link>https://bdnews24.com/economy/8f863140633c</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/8f863140633c</guid>
-            <pubDate>Sat, 28 Feb 2026 10:45:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/argentina-senate-28226-1772253849.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘I saw nothing’: Bill Clinton to Epstein investigators]]></title>
-            <description><![CDATA[[People] ‘I saw nothing’: Bill Clinton to Epstein investigators]]></description>
-            <link>https://bdnews24.com/people/248cf522e319</link>
-            <guid isPermaLink="true">https://bdnews24.com/people/248cf522e319</guid>
-            <pubDate>Sat, 28 Feb 2026 10:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/chappaqua-28226-1772252841.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump admin can’t terrorise Minnesota refugees: US judge]]></title>
-            <description><![CDATA[[World] Trump admin can’t terrorise Minnesota refugees: US judge]]></description>
-            <link>https://bdnews24.com/world/6a037a109549</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/6a037a109549</guid>
-            <pubDate>Sat, 28 Feb 2026 10:10:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/minnesota-28226-1772251761.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bolivian military plane crash kills 15]]></title>
-            <description><![CDATA[[World] Bolivian military plane crash kills 15]]></description>
-            <link>https://bdnews24.com/world/91ed3d952595</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/91ed3d952595</guid>
-            <pubDate>Sat, 28 Feb 2026 10:05:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/bolivia-military-plane-crash-280226-1772251260.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
