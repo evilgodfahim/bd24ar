@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Feb 2026 08:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 09:15:15 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Feb 2026 08:15:10 GMT</pubDate>
+        <pubDate>Sat, 28 Feb 2026 09:15:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Israel, US launch strikes on Iran]]></title>
+            <description><![CDATA[[World] Israel, US launch strikes on Iran]]></description>
+            <link>https://bdnews24.com/world/75c86cea7d56</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/75c86cea7d56</guid>
+            <pubDate>Sat, 28 Feb 2026 14:37:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/us-israel-attack-iran-280226-01-1772266452.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russia suspends flights to Iran, Israel]]></title>
+            <description><![CDATA[[World] Russia suspends flights to Iran, Israel]]></description>
+            <link>https://bdnews24.com/world/5301e8930aae</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/5301e8930aae</guid>
+            <pubDate>Sat, 28 Feb 2026 14:31:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/russia-flight-28226-1772267463.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Mohon Raihan to get Bangla Academy award]]></title>
             <description><![CDATA[[Bangladesh] Mohon Raihan to get Bangla Academy award]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/9c61b474300a</guid>
             <pubDate>Sat, 28 Feb 2026 09:36:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/trump-28226-1772249739.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India, EU agree WTO guardrails, digital trade rules in draft deal]]></title>
-            <description><![CDATA[[Business] India, EU agree WTO guardrails, digital trade rules in draft deal]]></description>
-            <link>https://bdnews24.com/business/aba58084d4ab</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/aba58084d4ab</guid>
-            <pubDate>Sat, 28 Feb 2026 09:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026January/SM/modi-ursula-230126-01-1769156054.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Paramount strikes $110bn deal for Warner Bros]]></title>
-            <description><![CDATA[[Business] Paramount strikes $110bn deal for Warner Bros]]></description>
-            <link>https://bdnews24.com/business/b4fe6efb4536</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/b4fe6efb4536</guid>
-            <pubDate>Sat, 28 Feb 2026 09:21:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/warner-bros-28226-1772248858.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
