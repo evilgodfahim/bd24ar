@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Feb 2026 03:03:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 04:45:59 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Feb 2026 03:03:51 GMT</pubDate>
+        <pubDate>Sat, 28 Feb 2026 04:45:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[‘I saw nothing’: Bill Clinton to Epstein investigators]]></title>
+            <description><![CDATA[[People] ‘I saw nothing’: Bill Clinton to Epstein investigators]]></description>
+            <link>https://bdnews24.com/people/248cf522e319</link>
+            <guid isPermaLink="true">https://bdnews24.com/people/248cf522e319</guid>
+            <pubDate>Sat, 28 Feb 2026 10:28:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/chappaqua-28226-1772252841.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump admin can’t terrorise Minnesota refugees: US judge]]></title>
+            <description><![CDATA[[World] Trump admin can’t terrorise Minnesota refugees: US judge]]></description>
+            <link>https://bdnews24.com/world/6a037a109549</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/6a037a109549</guid>
+            <pubDate>Sat, 28 Feb 2026 10:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/minnesota-28226-1772251761.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bolivian military plane crash kills 15]]></title>
+            <description><![CDATA[[World] Bolivian military plane crash kills 15]]></description>
+            <link>https://bdnews24.com/world/91ed3d952595</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/91ed3d952595</guid>
+            <pubDate>Sat, 28 Feb 2026 10:05:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/bolivia-military-plane-crash-280226-1772251260.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US backs Pakistan’s ‘right to defend’ against Afghan Taliban]]></title>
+            <description><![CDATA[[World] US backs Pakistan’s ‘right to defend’ against Afghan Taliban]]></description>
+            <link>https://bdnews24.com/world/b7fe67292c41</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/b7fe67292c41</guid>
+            <pubDate>Sat, 28 Feb 2026 09:55:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/aghan-soldier-28226-1772250865.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA['Sometimes you have to use force': Trump on Iran]]></title>
+            <description><![CDATA[[World] 'Sometimes you have to use force': Trump on Iran]]></description>
+            <link>https://bdnews24.com/world/9c61b474300a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/9c61b474300a</guid>
+            <pubDate>Sat, 28 Feb 2026 09:36:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/trump-28226-1772249739.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India, EU agree WTO guardrails, digital trade rules in draft deal]]></title>
+            <description><![CDATA[[Business] India, EU agree WTO guardrails, digital trade rules in draft deal]]></description>
+            <link>https://bdnews24.com/business/aba58084d4ab</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/aba58084d4ab</guid>
+            <pubDate>Sat, 28 Feb 2026 09:34:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026January/SM/modi-ursula-230126-01-1769156054.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Paramount strikes $110bn deal for Warner Bros]]></title>
+            <description><![CDATA[[Business] Paramount strikes $110bn deal for Warner Bros]]></description>
+            <link>https://bdnews24.com/business/b4fe6efb4536</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/b4fe6efb4536</guid>
+            <pubDate>Sat, 28 Feb 2026 09:21:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/warner-bros-28226-1772248858.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Rehan, Jacks late show leads England to win over NZ]]></title>
             <description><![CDATA[[Cricket] Rehan, Jacks late show leads England to win over NZ]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/5592487827dc</guid>
             <pubDate>Sat, 28 Feb 2026 00:33:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/natore-si-injured-270226-01-1772215839.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Afghan women at risk over Taliban curbs in healthcare: UN expert]]></title>
-            <description><![CDATA[[World] Afghan women at risk over Taliban curbs in healthcare: UN expert]]></description>
-            <link>https://bdnews24.com/world/154e7fba434f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/154e7fba434f</guid>
-            <pubDate>Sat, 28 Feb 2026 00:23:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/afghan-women-healthcare-28022026-01-1772216564.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 buses set ablaze at Chandpur]]></title>
-            <description><![CDATA[[Bangladesh] 3 buses set ablaze at Chandpur]]></description>
-            <link>https://bdnews24.com/bangladesh/1595734e7b98</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1595734e7b98</guid>
-            <pubDate>Sat, 28 Feb 2026 00:21:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/chandpur-bus-fire-270226-01-1772212901.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rubio will travel to Israel amid Iran tensions]]></title>
-            <description><![CDATA[[World] Rubio will travel to Israel amid Iran tensions]]></description>
-            <link>https://bdnews24.com/world/77a21cb1996a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/77a21cb1996a</guid>
-            <pubDate>Sat, 28 Feb 2026 00:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/rubio-travel-israel-27022026-01-1772215447.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Satellite images show aircraft build-up at Saudi base]]></title>
-            <description><![CDATA[[World] Satellite images show aircraft build-up at Saudi base]]></description>
-            <link>https://bdnews24.com/world/53ff63b098d3</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/53ff63b098d3</guid>
-            <pubDate>Sat, 28 Feb 2026 00:03:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/ppp-1772215379.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ekushey Book Fair hums to life on second day]]></title>
-            <description><![CDATA[[Bangladesh] Ekushey Book Fair hums to life on second day]]></description>
-            <link>https://bdnews24.com/bangladesh/09d8a430a7e1</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/09d8a430a7e1</guid>
-            <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/ekushey-book-fair-270226-018-1772202948.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Poland urges citizens to leave Iran, Israel, Lebanon]]></title>
-            <description><![CDATA[[World] Poland urges citizens to leave Iran, Israel, Lebanon]]></description>
-            <link>https://bdnews24.com/world/9121de146c89</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/9121de146c89</guid>
-            <pubDate>Fri, 27 Feb 2026 23:55:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/diplomats-25022026-1772024058.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Zubaida wants women at center of development]]></title>
-            <description><![CDATA[[Politics] Zubaida wants women at center of development]]></description>
-            <link>https://bdnews24.com/politics/cc07d2b60778</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/cc07d2b60778</guid>
-            <pubDate>Fri, 27 Feb 2026 23:52:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/jubaida-rahman-ifter-270226-1772211952.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
