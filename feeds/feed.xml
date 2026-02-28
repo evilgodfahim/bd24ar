@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Feb 2026 04:45:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 05:24:32 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Feb 2026 04:45:59 GMT</pubDate>
+        <pubDate>Sat, 28 Feb 2026 05:24:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[50 injured in Habiganj clash]]></title>
+            <description><![CDATA[[Bangladesh] 50 injured in Habiganj clash]]></description>
+            <link>https://bdnews24.com/bangladesh/bc7ea6873d40</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/bc7ea6873d40</guid>
+            <pubDate>Sat, 28 Feb 2026 11:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/habiganj-clash-280226-01-1772251073.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Argentina Senate approves Milei-backed labour reform]]></title>
+            <description><![CDATA[[Economy] Argentina Senate approves Milei-backed labour reform]]></description>
+            <link>https://bdnews24.com/economy/8f863140633c</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/8f863140633c</guid>
+            <pubDate>Sat, 28 Feb 2026 10:45:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/argentina-senate-28226-1772253849.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[‘I saw nothing’: Bill Clinton to Epstein investigators]]></title>
             <description><![CDATA[[People] ‘I saw nothing’: Bill Clinton to Epstein investigators]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/a7e76e69b309</guid>
             <pubDate>Sat, 28 Feb 2026 00:39:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/us-nominate-wfp-chief-28022026-01-1772217491.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Garo families in Sylhet face eviction, civil society protests]]></title>
-            <description><![CDATA[[Bangladesh] Garo families in Sylhet face eviction, civil society protests]]></description>
-            <link>https://bdnews24.com/bangladesh/8a0972311f49</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8a0972311f49</guid>
-            <pubDate>Sat, 28 Feb 2026 00:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/sylhet-eviction-panic-270226-01-1772209374.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[SI injured by son’s accidental shot]]></title>
-            <description><![CDATA[[Bangladesh] SI injured by son’s accidental shot]]></description>
-            <link>https://bdnews24.com/bangladesh/5592487827dc</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5592487827dc</guid>
-            <pubDate>Sat, 28 Feb 2026 00:33:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/natore-si-injured-270226-01-1772215839.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
