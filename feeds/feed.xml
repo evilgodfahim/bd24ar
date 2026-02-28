@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Feb 2026 17:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 18:16:11 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Feb 2026 17:10:28 GMT</pubDate>
+        <pubDate>Sat, 28 Feb 2026 18:16:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump's Iran strikes mark biggest foreign policy gamble]]></title>
+            <description><![CDATA[[World] Trump's Iran strikes mark biggest foreign policy gamble]]></description>
+            <link>https://bdnews24.com/world/fda4e129dee6</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/fda4e129dee6</guid>
+            <pubDate>Sun, 01 Mar 2026 00:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-strike-policy-gamble-28022026-01-1772302048.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[CAMPE demands curriculum, exam system reforms]]></title>
+            <description><![CDATA[[Education] CAMPE demands curriculum, exam system reforms]]></description>
+            <link>https://bdnews24.com/education/c9cc968ed6af</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/c9cc968ed6af</guid>
+            <pubDate>Sun, 01 Mar 2026 00:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/rasheda-chowdhury-280226-02-1772296904.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladeshi worker injured in Kuwait drone strike: embassy]]></title>
+            <description><![CDATA[[Bangladesh] Bangladeshi worker injured in Kuwait drone strike: embassy]]></description>
+            <link>https://bdnews24.com/bangladesh/42c44d8045a8</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/42c44d8045a8</guid>
+            <pubDate>Sun, 01 Mar 2026 00:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/kuwait-airport-drone-attack-280226-01-1772301023.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[IAEA sees no 'radiological impact' from Iran strikes]]></title>
+            <description><![CDATA[[World] IAEA sees no 'radiological impact' from Iran strikes]]></description>
+            <link>https://bdnews24.com/world/835fcb96a5b5</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/835fcb96a5b5</guid>
+            <pubDate>Sat, 28 Feb 2026 23:41:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/iaea-no-impact-28022026-01-1772300398.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Govt offers stay for stranded Middle East flyers]]></title>
+            <description><![CDATA[[Bangladesh] Govt offers stay for stranded Middle East flyers]]></description>
+            <link>https://bdnews24.com/bangladesh/cb3a96f627d0</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cb3a96f627d0</guid>
+            <pubDate>Sat, 28 Feb 2026 23:39:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/passenger-suffering-hazrat-shahjalal-international-airport-280226-019-1772292708.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nahid eyes local govt polls to solidify NCP’s political footprint]]></title>
+            <description><![CDATA[[Politics] Nahid eyes local govt polls to solidify NCP’s political footprint]]></description>
+            <link>https://bdnews24.com/politics/4cf922e53b91</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/4cf922e53b91</guid>
+            <pubDate>Sat, 28 Feb 2026 23:29:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/nahid-islam-ncp-iftar-280226-1772295407.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Trump told Iran attack risky but rewarding]]></title>
             <description><![CDATA[[World] Trump told Iran attack risky but rewarding]]></description>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/1429bce53b74</guid>
             <pubDate>Sat, 28 Feb 2026 20:42:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/bangladesh-ambassy-doha-280226-1772286424.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Global reaction to Israeli, US attacks on Iran]]></title>
-            <description><![CDATA[[World] Global reaction to Israeli, US attacks on Iran]]></description>
-            <link>https://bdnews24.com/world/eb027f109b48</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/eb027f109b48</guid>
-            <pubDate>Sat, 28 Feb 2026 20:06:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/iran-attack-280226-01-1772287484.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yunus vacates Jamuna]]></title>
-            <description><![CDATA[[Bangladesh] Yunus vacates Jamuna]]></description>
-            <link>https://bdnews24.com/bangladesh/f8ad786de02f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f8ad786de02f</guid>
-            <pubDate>Sat, 28 Feb 2026 20:00:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/muhammad-yunus-leaving-jamuna-280226-005-1772278248.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Russian Rosatom evacuates people from Iran]]></title>
-            <description><![CDATA[[World] Russian Rosatom evacuates people from Iran]]></description>
-            <link>https://bdnews24.com/world/346ddc2c787d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/346ddc2c787d</guid>
-            <pubDate>Sat, 28 Feb 2026 19:43:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/service-member-120226-01-1770902271.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Macron urges urgent UNSC meeting on Iran]]></title>
-            <description><![CDATA[[World] Macron urges urgent UNSC meeting on Iran]]></description>
-            <link>https://bdnews24.com/world/d9595a72bf77</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/d9595a72bf77</guid>
-            <pubDate>Sat, 28 Feb 2026 19:31:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/macron-unsc-meeting-28022026-01-1772285417.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Airlines cancel flights amid Iran strikes]]></title>
-            <description><![CDATA[[World] Airlines cancel flights amid Iran strikes]]></description>
-            <link>https://bdnews24.com/world/635e4c37a8f0</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/635e4c37a8f0</guid>
-            <pubDate>Sat, 28 Feb 2026 19:25:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/flight-cancel-28022026-01-1772285090.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US trade deal stuns CPD]]></title>
-            <description><![CDATA[[Bangladesh] US trade deal stuns CPD]]></description>
-            <link>https://bdnews24.com/bangladesh/7a317c674a42</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7a317c674a42</guid>
-            <pubDate>Sat, 28 Feb 2026 19:23:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/cpd-khondakar-moazzem-280226-01-1772270666.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
