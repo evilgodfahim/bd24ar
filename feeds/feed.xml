@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Feb 2026 16:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 17:10:28 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Feb 2026 16:13:13 GMT</pubDate>
+        <pubDate>Sat, 28 Feb 2026 17:10:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump told Iran attack risky but rewarding]]></title>
+            <description><![CDATA[[World] Trump told Iran attack risky but rewarding]]></description>
+            <link>https://bdnews24.com/world/ed6da50b796f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ed6da50b796f</guid>
+            <pubDate>Sat, 28 Feb 2026 22:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/trump-iran-risky-rewards-28022026-01-1772297359.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[IFAB approves new rules to curb time-wasting]]></title>
+            <description><![CDATA[[Sport] IFAB approves new rules to curb time-wasting]]></description>
+            <link>https://bdnews24.com/sport/827dc29f9373</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/827dc29f9373</guid>
+            <pubDate>Sat, 28 Feb 2026 22:38:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/ifab-new-rules-28022026-01-1772296651.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Targeted by airstrikes, Khamenei has Iran in iron grip]]></title>
+            <description><![CDATA[[World] Targeted by airstrikes, Khamenei has Iran in iron grip]]></description>
+            <link>https://bdnews24.com/world/35873bdb7e01</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/35873bdb7e01</guid>
+            <pubDate>Sat, 28 Feb 2026 22:29:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/khamenei-iran-iron-grip-28022026-01-1772296063.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Oil majors and traders halt Hormuz shipments amid US-Iran conflict]]></title>
             <description><![CDATA[[World] Oil majors and traders halt Hormuz shipments amid US-Iran conflict]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/7a317c674a42</guid>
             <pubDate>Sat, 28 Feb 2026 19:23:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/cpd-khondakar-moazzem-280226-01-1772270666.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tarique joins Jamaat’s Iftar party]]></title>
-            <description><![CDATA[[Politics] Tarique joins Jamaat’s Iftar party]]></description>
-            <link>https://bdnews24.com/politics/049f9b8a6c05</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/049f9b8a6c05</guid>
-            <pubDate>Sat, 28 Feb 2026 19:03:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/tarique-rahman-jamat-islamai-iftar-280228-01-1772281795.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump warns Americans may die amid US strikes]]></title>
-            <description><![CDATA[[World] Trump warns Americans may die amid US strikes]]></description>
-            <link>https://bdnews24.com/world/037aca35a37b</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/037aca35a37b</guid>
-            <pubDate>Sat, 28 Feb 2026 18:21:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/trump-warns-americans-die-28022026-01-1772281257.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US-Israeli attack triggers fear, panic in Iran]]></title>
-            <description><![CDATA[[World] US-Israeli attack triggers fear, panic in Iran]]></description>
-            <link>https://bdnews24.com/world/b420f146d958</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/b420f146d958</guid>
-            <pubDate>Sat, 28 Feb 2026 17:21:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/iran-28226-1772277643.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
