@@ -4,17 +4,25 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Feb 2026 10:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 11:09:17 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Feb 2026 10:12:24 GMT</pubDate>
+        <pubDate>Sat, 28 Feb 2026 11:09:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Dhaka grounds all Middle East-bound flights]]></title>
+            <description><![CDATA[[Bangladesh] Dhaka grounds all Middle East-bound flights]]></description>
+            <link>https://bdnews24.com/bangladesh/05044c7baeb1</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/05044c7baeb1</guid>
+            <pubDate>Sat, 28 Feb 2026 16:48:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2022-11/73276616-2a6b-47c5-89ca-c6f6d6d1fbd4/shahjalal_international_airport_parking_bay_131122_01.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Iran targets US bases after joint US-Israel strikes]]></title>
             <description><![CDATA[[World] Iran targets US bases after joint US-Israel strikes]]></description>
             <link>https://bdnews24.com/world/75c86cea7d56</link>
             <guid isPermaLink="true">https://bdnews24.com/world/75c86cea7d56</guid>
             <pubDate>Sat, 28 Feb 2026 14:37:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/us-israel-attack-iran-280226-01-1772266452.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/us-israel-attack-iran-280226-04-1772276201.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Russia suspends flights to Iran, Israel]]></title>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/b7fe67292c41</guid>
             <pubDate>Sat, 28 Feb 2026 09:55:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/aghan-soldier-28226-1772250865.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA['Sometimes you have to use force': Trump on Iran]]></title>
-            <description><![CDATA[[World] 'Sometimes you have to use force': Trump on Iran]]></description>
-            <link>https://bdnews24.com/world/9c61b474300a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/9c61b474300a</guid>
-            <pubDate>Sat, 28 Feb 2026 09:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/trump-28226-1772249739.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
