@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Mar 2026 04:11:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 05:43:11 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Mar 2026 04:11:11 GMT</pubDate>
+        <pubDate>Sun, 01 Mar 2026 05:43:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[China urges immediate ceasefire after US, Israel strike Iran]]></title>
+            <description><![CDATA[[World] China urges immediate ceasefire after US, Israel strike Iran]]></description>
+            <link>https://bdnews24.com/world/16b68d812129</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/16b68d812129</guid>
+            <pubDate>Sun, 01 Mar 2026 11:41:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/israel-us-strike-iran-010326-01-1772343650.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[More strikes aimed at Iran after US, Israeli assault kills Khamenei]]></title>
+            <description><![CDATA[[World] More strikes aimed at Iran after US, Israeli assault kills Khamenei]]></description>
+            <link>https://bdnews24.com/world/9803c802463f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/9803c802463f</guid>
+            <pubDate>Sun, 01 Mar 2026 11:21:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/khamenei-killed-1772342459.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Xiaomi says February EV deliveries topped 20,000]]></title>
+            <description><![CDATA[[Automobile] Xiaomi says February EV deliveries topped 20,000]]></description>
+            <link>https://bdnews24.com/automobile/2472cd5127dd</link>
+            <guid isPermaLink="true">https://bdnews24.com/automobile/2472cd5127dd</guid>
+            <pubDate>Sun, 01 Mar 2026 10:58:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/xiaomi-car-011026-01-1772341072.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Berkshire Hathaway profit falls]]></title>
+            <description><![CDATA[[Business] Berkshire Hathaway profit falls]]></description>
+            <link>https://bdnews24.com/business/0528c8e2bdad</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/0528c8e2bdad</guid>
+            <pubDate>Sun, 01 Mar 2026 10:48:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/gregory-abel-berkshire-011026-01-1772340462.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI details layered protections in US defence department pact]]></title>
+            <description><![CDATA[[Technology] OpenAI details layered protections in US defence department pact]]></description>
+            <link>https://bdnews24.com/technology/63a808a35217</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/63a808a35217</guid>
+            <pubDate>Sun, 01 Mar 2026 10:37:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/openai-logo-011026-01-1772339823.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan fires at Pakistani jets over Kabul]]></title>
+            <description><![CDATA[[World] Afghanistan fires at Pakistani jets over Kabul]]></description>
+            <link>https://bdnews24.com/world/8bf2839b49ef</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/8bf2839b49ef</guid>
+            <pubDate>Sun, 01 Mar 2026 10:18:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/taliban-soldiers-011026-01-1772338632.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why is the US attacking Iran?]]></title>
+            <description><![CDATA[[World] Why is the US attacking Iran?]]></description>
+            <link>https://bdnews24.com/world/82ccd2dd9427</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/82ccd2dd9427</guid>
+            <pubDate>Sun, 01 Mar 2026 10:15:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-attack-iran-011026-01-1772338463.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Ayatollah Khamenei embodied fearsome anti-Western rule]]></title>
             <description><![CDATA[[World] Ayatollah Khamenei embodied fearsome anti-Western rule]]></description>
@@ -17,8 +73,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-khamenei-011026-01-1772336730.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Iran's supreme leader Khamenei is dead]]></title>
-            <description><![CDATA[[World] Iran's supreme leader Khamenei is dead]]></description>
+            <title><![CDATA[Iran's Supreme Leader Khamenei is dead]]></title>
+            <description><![CDATA[[World] Iran's Supreme Leader Khamenei is dead]]></description>
             <link>https://bdnews24.com/world/89c8978b4ca4</link>
             <guid isPermaLink="true">https://bdnews24.com/world/89c8978b4ca4</guid>
             <pubDate>Sun, 01 Mar 2026 09:36:00 GMT</pubDate>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/88270fabf4e3</guid>
             <pubDate>Sun, 01 Mar 2026 00:25:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/tangail-joaher-280226-01-1772300878.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump's Iran strikes mark biggest foreign policy gamble]]></title>
-            <description><![CDATA[[World] Trump's Iran strikes mark biggest foreign policy gamble]]></description>
-            <link>https://bdnews24.com/world/fda4e129dee6</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/fda4e129dee6</guid>
-            <pubDate>Sun, 01 Mar 2026 00:08:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-strike-policy-gamble-28022026-01-1772302048.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[CAMPE demands curriculum, exam system reforms]]></title>
-            <description><![CDATA[[Education] CAMPE demands curriculum, exam system reforms]]></description>
-            <link>https://bdnews24.com/education/c9cc968ed6af</link>
-            <guid isPermaLink="true">https://bdnews24.com/education/c9cc968ed6af</guid>
-            <pubDate>Sun, 01 Mar 2026 00:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/rasheda-chowdhury-280226-02-1772296904.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladeshi worker injured in Kuwait drone strike: embassy]]></title>
-            <description><![CDATA[[Bangladesh] Bangladeshi worker injured in Kuwait drone strike: embassy]]></description>
-            <link>https://bdnews24.com/bangladesh/42c44d8045a8</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/42c44d8045a8</guid>
-            <pubDate>Sun, 01 Mar 2026 00:03:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/kuwait-airport-drone-attack-280226-01-1772301023.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[IAEA sees no 'radiological impact' from Iran strikes]]></title>
-            <description><![CDATA[[World] IAEA sees no 'radiological impact' from Iran strikes]]></description>
-            <link>https://bdnews24.com/world/835fcb96a5b5</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/835fcb96a5b5</guid>
-            <pubDate>Sat, 28 Feb 2026 23:41:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/iaea-no-impact-28022026-01-1772300398.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt offers stay for stranded Middle East flyers]]></title>
-            <description><![CDATA[[Bangladesh] Govt offers stay for stranded Middle East flyers]]></description>
-            <link>https://bdnews24.com/bangladesh/cb3a96f627d0</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cb3a96f627d0</guid>
-            <pubDate>Sat, 28 Feb 2026 23:39:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/passenger-suffering-hazrat-shahjalal-international-airport-280226-019-1772292708.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nahid eyes local govt polls to solidify NCP’s political footprint]]></title>
-            <description><![CDATA[[Politics] Nahid eyes local govt polls to solidify NCP’s political footprint]]></description>
-            <link>https://bdnews24.com/politics/4cf922e53b91</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/4cf922e53b91</guid>
-            <pubDate>Sat, 28 Feb 2026 23:29:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/nahid-islam-ncp-iftar-280226-1772295407.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump told Iran attack risky but rewarding]]></title>
-            <description><![CDATA[[World] Trump told Iran attack risky but rewarding]]></description>
-            <link>https://bdnews24.com/world/ed6da50b796f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ed6da50b796f</guid>
-            <pubDate>Sat, 28 Feb 2026 22:50:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/trump-iran-risky-rewards-28022026-01-1772297359.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
