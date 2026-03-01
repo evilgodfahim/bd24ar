@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Mar 2026 16:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 17:13:42 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Mar 2026 16:13:46 GMT</pubDate>
+        <pubDate>Sun, 01 Mar 2026 17:13:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Youth rally calls for Inu’s release]]></title>
+            <description><![CDATA[[Bangladesh] Youth rally calls for Inu’s release]]></description>
+            <link>https://bdnews24.com/bangladesh/cbf3bee3edd2</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cbf3bee3edd2</guid>
+            <pubDate>Sun, 01 Mar 2026 22:37:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jasad-free-inu-demand-010326-1772378892.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heatwaves, storms forecast for late March]]></title>
+            <description><![CDATA[[Bangladesh] Heatwaves, storms forecast for late March]]></description>
+            <link>https://bdnews24.com/bangladesh/085a3cdc84b9</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/085a3cdc84b9</guid>
+            <pubDate>Sun, 01 Mar 2026 22:25:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/06-hot-summer-210414-0019-1772382256.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russia plans evacuation of 500 citizens from Iran]]></title>
+            <description><![CDATA[[World] Russia plans evacuation of 500 citizens from Iran]]></description>
+            <link>https://bdnews24.com/world/df95df2a2445</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/df95df2a2445</guid>
+            <pubDate>Sun, 01 Mar 2026 22:20:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/azerbaijani-010325-1772382037.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Pakistan high commissioner meets home minister]]></title>
             <description><![CDATA[[Bangladesh] Pakistan high commissioner meets home minister]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/6ba7c98151c4</guid>
             <pubDate>Sun, 01 Mar 2026 19:19:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/blast-in-bahrain-280226-1772273924.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fuel prices unchanged for March]]></title>
-            <description><![CDATA[[Business] Fuel prices unchanged for March]]></description>
-            <link>https://bdnews24.com/business/db9848f6f59a</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/db9848f6f59a</guid>
-            <pubDate>Sun, 01 Mar 2026 19:12:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024September/SM/petrol-pump-010924-03-1725185229.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil jumps 10% on Iran conflict]]></title>
-            <description><![CDATA[[World] Oil jumps 10% on Iran conflict]]></description>
-            <link>https://bdnews24.com/world/30939b8366c8</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/30939b8366c8</guid>
-            <pubDate>Sun, 01 Mar 2026 19:06:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/oil-01032026-1772370305.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anti-war protesters march on US, Israeli embassies in Athens]]></title>
-            <description><![CDATA[[World] Anti-war protesters march on US, Israeli embassies in Athens]]></description>
-            <link>https://bdnews24.com/world/84bb84dad493</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/84bb84dad493</guid>
-            <pubDate>Sun, 01 Mar 2026 18:52:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/uk-withdraws-iran-staff-27022026-01-1772207958.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
