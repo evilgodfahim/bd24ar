@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Mar 2026 09:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 10:13:45 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Mar 2026 09:18:22 GMT</pubDate>
+        <pubDate>Sun, 01 Mar 2026 10:13:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US-Iran conflict disrupts thousands of flights]]></title>
+            <description><![CDATA[[Aviation] US-Iran conflict disrupts thousands of flights]]></description>
+            <link>https://bdnews24.com/aviation/bdd8e36801c7</link>
+            <guid isPermaLink="true">https://bdnews24.com/aviation/bdd8e36801c7</guid>
+            <pubDate>Sun, 01 Mar 2026 15:37:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/jebel-ali-airport-010326-01-1772357821.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Middle East flights resume at Ctg airport]]></title>
+            <description><![CDATA[[Aviation] Middle East flights resume at Ctg airport]]></description>
+            <link>https://bdnews24.com/aviation/292444acf59c</link>
+            <guid isPermaLink="true">https://bdnews24.com/aviation/292444acf59c</guid>
+            <pubDate>Sun, 01 Mar 2026 15:21:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2022-11/c9d69874-0204-4082-95e8-f746d4b7aab3/shah_amanat_international_airport_131122_02.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Finance Minister Khosru hospitalised]]></title>
             <description><![CDATA[[Bangladesh] Finance Minister Khosru hospitalised]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/c29f8ebc2a44</guid>
             <pubDate>Sun, 01 Mar 2026 09:46:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-khamenei-011026-01-1772336730.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran's Supreme Leader Khamenei is dead]]></title>
-            <description><![CDATA[[World] Iran's Supreme Leader Khamenei is dead]]></description>
-            <link>https://bdnews24.com/world/89c8978b4ca4</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/89c8978b4ca4</guid>
-            <pubDate>Sun, 01 Mar 2026 09:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-ali-khamenei-01032026-01-1772336106.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man City move two points behind Arsenal]]></title>
-            <description><![CDATA[[Sport] Man City move two points behind Arsenal]]></description>
-            <link>https://bdnews24.com/sport/8ffe82c0bd6d</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/8ffe82c0bd6d</guid>
-            <pubDate>Sun, 01 Mar 2026 02:31:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/man-city-010326-01-1772310624.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
