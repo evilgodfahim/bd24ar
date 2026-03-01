@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Mar 2026 06:31:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 07:25:10 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Mar 2026 06:31:57 GMT</pubDate>
+        <pubDate>Sun, 01 Mar 2026 07:25:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Mohon Raihan wants to receive Bangla Academy award from PM]]></title>
+            <description><![CDATA[[Bangladesh] Mohon Raihan wants to receive Bangla Academy award from PM]]></description>
+            <link>https://bdnews24.com/bangladesh/cf7127272027</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cf7127272027</guid>
+            <pubDate>Sun, 01 Mar 2026 13:23:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mohon-rayhan-010326-01-1772346843.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jamaat chief expresses ‘deep sorrow’ over Khamenei’s death]]></title>
+            <description><![CDATA[[Politics] Jamaat chief expresses ‘deep sorrow’ over Khamenei’s death]]></description>
+            <link>https://bdnews24.com/politics/f3092ea4da96</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/f3092ea4da96</guid>
+            <pubDate>Sun, 01 Mar 2026 12:49:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025July/SM/shafiqur-rahman-290725-01-1753799318.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Iran missiles brings war to Gulf doorstep]]></title>
             <description><![CDATA[[World] Iran missiles brings war to Gulf doorstep]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/9e6d7df655f5</guid>
             <pubDate>Sun, 01 Mar 2026 00:58:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/yamal-hat-trick-01032026-01-1772305015.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka sets up hotlines for expats in 6 conflict-hit nations]]></title>
-            <description><![CDATA[[Bangladesh] Dhaka sets up hotlines for expats in 6 conflict-hit nations]]></description>
-            <link>https://bdnews24.com/bangladesh/53349fe171f8</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/53349fe171f8</guid>
-            <pubDate>Sun, 01 Mar 2026 00:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-crisis-gulf-bahrain-010326-01-1772304582.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[CIA said hardline IRGC likely to replace Khamenei if he died]]></title>
-            <description><![CDATA[[World] CIA said hardline IRGC likely to replace Khamenei if he died]]></description>
-            <link>https://bdnews24.com/world/1c5457d18b90</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/1c5457d18b90</guid>
-            <pubDate>Sun, 01 Mar 2026 00:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/cia-hardline-irgc-replace-01032026-01-1772303689.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
