@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Mar 2026 19:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 20:12:58 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Mar 2026 19:14:02 GMT</pubDate>
+        <pubDate>Sun, 01 Mar 2026 20:12:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Hasina, Quader backed for acquittal over ‘Uprising killings’]]></title>
+            <description><![CDATA[[Bangladesh] Hasina, Quader backed for acquittal over ‘Uprising killings’]]></description>
+            <link>https://bdnews24.com/bangladesh/b6757641947d</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b6757641947d</guid>
+            <pubDate>Mon, 02 Mar 2026 01:20:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-03/ac34ec2c-b5ee-4819-a051-92b024eac1e7/pm_mymensing_110323_01.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[23 die in Pakistan as crowds react after Iran strikes]]></title>
+            <description><![CDATA[[World] 23 die in Pakistan as crowds react after Iran strikes]]></description>
+            <link>https://bdnews24.com/world/9c76fafac9da</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/9c76fafac9da</guid>
+            <pubDate>Mon, 02 Mar 2026 01:18:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/pakistan-02032026-1772392669.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[US strikes on Iran: Only 1 in 4 Americans approves]]></title>
             <description><![CDATA[[World] US strikes on Iran: Only 1 in 4 Americans approves]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/dea4824c0752</guid>
             <pubDate>Sun, 01 Mar 2026 21:43:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/oil-01032026-1772370305.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 tankers damaged in Gulf amid US-Iran conflict]]></title>
-            <description><![CDATA[[World] 3 tankers damaged in Gulf amid US-Iran conflict]]></description>
-            <link>https://bdnews24.com/world/6009e3ba1591</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/6009e3ba1591</guid>
-            <pubDate>Sun, 01 Mar 2026 21:19:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/iran-partially-shuts-hormuz-17022026-01-1771338266.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Case filed against TV actor Zaher Alvi over wife’s death]]></title>
-            <description><![CDATA[[Bangladesh] Case filed against TV actor Zaher Alvi over wife’s death]]></description>
-            <link>https://bdnews24.com/bangladesh/1f2f13d97cf4</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1f2f13d97cf4</guid>
-            <pubDate>Sun, 01 Mar 2026 21:17:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/zaher-alvi-wife-ekra-280226-01-1772278998.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
