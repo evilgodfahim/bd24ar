@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Mar 2026 07:25:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 08:16:53 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Mar 2026 07:25:10 GMT</pubDate>
+        <pubDate>Sun, 01 Mar 2026 08:16:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Biman reschedules two Saudi flights]]></title>
+            <description><![CDATA[[Aviation] Biman reschedules two Saudi flights]]></description>
+            <link>https://bdnews24.com/aviation/f48013f8ae97</link>
+            <guid isPermaLink="true">https://bdnews24.com/aviation/f48013f8ae97</guid>
+            <pubDate>Sun, 01 Mar 2026 14:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/passenger-suffering-hazrat-shahjalal-international-airport-280226-005-1772292547.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM seeks update on Bangladeshis in Middle East]]></title>
+            <description><![CDATA[[Bangladesh] PM seeks update on Bangladeshis in Middle East]]></description>
+            <link>https://bdnews24.com/bangladesh/58c1619d9423</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/58c1619d9423</guid>
+            <pubDate>Sun, 01 Mar 2026 13:51:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/israel-us-strike-in-iran-iran-280226-01-1772303359.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump cheers death of Khamenei]]></title>
+            <description><![CDATA[[World] Trump cheers death of Khamenei]]></description>
+            <link>https://bdnews24.com/world/0e28edd05660</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/0e28edd05660</guid>
+            <pubDate>Sun, 01 Mar 2026 13:33:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-1326-1772350317.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US-Bangla keeps Saudi, Oman flights on regular schedule]]></title>
+            <description><![CDATA[[Aviation] US-Bangla keeps Saudi, Oman flights on regular schedule]]></description>
+            <link>https://bdnews24.com/aviation/0efab7fa5e22</link>
+            <guid isPermaLink="true">https://bdnews24.com/aviation/0efab7fa5e22</guid>
+            <pubDate>Sun, 01 Mar 2026 13:30:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/passenger-suffering-hazrat-shahjalal-international-airport-280226-007-1772292623.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Mohon Raihan wants to receive Bangla Academy award from PM]]></title>
             <description><![CDATA[[Bangladesh] Mohon Raihan wants to receive Bangla Academy award from PM]]></description>
@@ -41,8 +73,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/israel-us-strike-iran-010326-01-1772343650.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[More strikes aimed at Iran after US, Israeli assault kills Khamenei]]></title>
-            <description><![CDATA[[World] More strikes aimed at Iran after US, Israeli assault kills Khamenei]]></description>
+            <title><![CDATA[More strikes aimed at Iran, Trump issues new warning]]></title>
+            <description><![CDATA[[World] More strikes aimed at Iran, Trump issues new warning]]></description>
             <link>https://bdnews24.com/world/9803c802463f</link>
             <guid isPermaLink="true">https://bdnews24.com/world/9803c802463f</guid>
             <pubDate>Sun, 01 Mar 2026 11:21:00 GMT</pubDate>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/da2f9b247a18</guid>
             <pubDate>Sun, 01 Mar 2026 01:44:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/passenger-suffering-hazrat-shahjalal-international-airport-280226-018-1772292708.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[NZ reach semis after Pakistan exit T20 WC]]></title>
-            <description><![CDATA[[Cricket] NZ reach semis after Pakistan exit T20 WC]]></description>
-            <link>https://bdnews24.com/cricket/1252adbc8180</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/1252adbc8180</guid>
-            <pubDate>Sun, 01 Mar 2026 01:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/nz-pak-010326-01-1772307192.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Respect sovereignty of nations: Bangladesh]]></title>
-            <description><![CDATA[[Bangladesh] Respect sovereignty of nations: Bangladesh]]></description>
-            <link>https://bdnews24.com/bangladesh/0ab969bd5d05</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0ab969bd5d05</guid>
-            <pubDate>Sun, 01 Mar 2026 01:21:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/us-israel-attack-iran-280226-03-1772275984.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Liverpool surge to 5-2 win over West Ham]]></title>
-            <description><![CDATA[[Sport] Liverpool surge to 5-2 win over West Ham]]></description>
-            <link>https://bdnews24.com/sport/c21f74deb6a4</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/c21f74deb6a4</guid>
-            <pubDate>Sun, 01 Mar 2026 01:00:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/liverpool-010326-01-1772305159.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yamal hat-trick as Barca go 4 points clear]]></title>
-            <description><![CDATA[[Sport] Yamal hat-trick as Barca go 4 points clear]]></description>
-            <link>https://bdnews24.com/sport/9e6d7df655f5</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/9e6d7df655f5</guid>
-            <pubDate>Sun, 01 Mar 2026 00:58:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/yamal-hat-trick-01032026-01-1772305015.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
