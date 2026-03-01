@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Mar 2026 20:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 21:12:29 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Mar 2026 20:12:58 GMT</pubDate>
+        <pubDate>Sun, 01 Mar 2026 21:12:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iranian changes must be used properly: Zelensky]]></title>
+            <description><![CDATA[[World] Iranian changes must be used properly: Zelensky]]></description>
+            <link>https://bdnews24.com/world/0bac302791ba</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/0bac302791ba</guid>
+            <pubDate>Mon, 02 Mar 2026 02:38:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/zelensky-050226-1770262616.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[EU nations demand ‘maximum restraint’ as Iran conflict escalates]]></title>
+            <description><![CDATA[[World] EU nations demand ‘maximum restraint’ as Iran conflict escalates]]></description>
+            <link>https://bdnews24.com/world/b043f8c147ea</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/b043f8c147ea</guid>
+            <pubDate>Mon, 02 Mar 2026 02:36:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/operation-epic-fury-2326-1772397330.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Hasina, Quader backed for acquittal over ‘Uprising killings’]]></title>
             <description><![CDATA[[Bangladesh] Hasina, Quader backed for acquittal over ‘Uprising killings’]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/3c949f9a6638</guid>
             <pubDate>Sun, 01 Mar 2026 22:02:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-12/e075b7d2-a406-4703-97cf-c9f77fa3c08f/dmp_headquarter_031223.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Local govt secretary removed, 5 DCs pulled]]></title>
-            <description><![CDATA[[Bangladesh] Local govt secretary removed, 5 DCs pulled]]></description>
-            <link>https://bdnews24.com/bangladesh/7a9bf1b71a74</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7a9bf1b71a74</guid>
-            <pubDate>Sun, 01 Mar 2026 21:46:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/local-gov-rejaul-maksud-010326-01-1772375656.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Russia warns of oil choke if Hormuz closes]]></title>
-            <description><![CDATA[[World] Russia warns of oil choke if Hormuz closes]]></description>
-            <link>https://bdnews24.com/world/dea4824c0752</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/dea4824c0752</guid>
-            <pubDate>Sun, 01 Mar 2026 21:43:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/oil-01032026-1772370305.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
