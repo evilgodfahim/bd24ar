@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Mar 2026 21:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 22:11:44 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Mar 2026 21:12:29 GMT</pubDate>
+        <pubDate>Sun, 01 Mar 2026 22:11:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Chelsea decision-making unacceptable, says Rosenior]]></title>
+            <description><![CDATA[[Sport] Chelsea decision-making unacceptable, says Rosenior]]></description>
+            <link>https://bdnews24.com/sport/659f5cd292ee</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/659f5cd292ee</guid>
+            <pubDate>Mon, 02 Mar 2026 03:53:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/pedro-chelsea-3226-1772401970.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arsenal down Chelsea, Man Utd go third]]></title>
+            <description><![CDATA[[Sport] Arsenal down Chelsea, Man Utd go third]]></description>
+            <link>https://bdnews24.com/sport/5eba1379b373</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/5eba1379b373</guid>
+            <pubDate>Mon, 02 Mar 2026 03:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/arsenal-chelsea-3226-1772401831.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Iranian changes must be used properly: Zelensky]]></title>
             <description><![CDATA[[World] Iranian changes must be used properly: Zelensky]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/df95df2a2445</guid>
             <pubDate>Sun, 01 Mar 2026 22:20:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/azerbaijani-010325-1772382037.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan high commissioner meets home minister]]></title>
-            <description><![CDATA[[Bangladesh] Pakistan high commissioner meets home minister]]></description>
-            <link>https://bdnews24.com/bangladesh/97a3754dd1b2</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/97a3754dd1b2</guid>
-            <pubDate>Sun, 01 Mar 2026 22:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/home-minister-pakistan-high-commisioner-010326-01-1772378477.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[DMP reshuffles 4 deputy commissioners]]></title>
-            <description><![CDATA[[Bangladesh] DMP reshuffles 4 deputy commissioners]]></description>
-            <link>https://bdnews24.com/bangladesh/3c949f9a6638</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3c949f9a6638</guid>
-            <pubDate>Sun, 01 Mar 2026 22:02:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-12/e075b7d2-a406-4703-97cf-c9f77fa3c08f/dmp_headquarter_031223.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
