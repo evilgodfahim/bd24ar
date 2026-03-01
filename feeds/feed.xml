@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Mar 2026 11:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 12:22:00 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Mar 2026 11:11:21 GMT</pubDate>
+        <pubDate>Sun, 01 Mar 2026 12:22:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Global reaction to Khamenei killing]]></title>
+            <description><![CDATA[[World] Global reaction to Khamenei killing]]></description>
+            <link>https://bdnews24.com/world/78660082c979</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/78660082c979</guid>
+            <pubDate>Sun, 01 Mar 2026 17:49:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/khamenei-killed-1772342459.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Army must be pulled from field eventually: home minister]]></title>
+            <description><![CDATA[[Bangladesh] Army must be pulled from field eventually: home minister]]></description>
+            <link>https://bdnews24.com/bangladesh/6743b89d5a57</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6743b89d5a57</guid>
+            <pubDate>Sun, 01 Mar 2026 17:40:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024August/SM/army-check-post-banglamotor-aam-090824-1723225875.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US-sanctioned tanker hit off Oman coast]]></title>
+            <description><![CDATA[[World] US-sanctioned tanker hit off Oman coast]]></description>
+            <link>https://bdnews24.com/world/37f858c114f1</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/37f858c114f1</guid>
+            <pubDate>Sun, 01 Mar 2026 17:33:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/iran-attack-280226-01-1772287484.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[In polarised Iran, Khamenei's death triggers celebrations, grief]]></title>
             <description><![CDATA[[World] In polarised Iran, Khamenei's death triggers celebrations, grief]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/16b68d812129</guid>
             <pubDate>Sun, 01 Mar 2026 11:41:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/israel-us-strike-iran-010326-01-1772343650.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[More strikes aimed at Iran, Trump issues new warning]]></title>
-            <description><![CDATA[[World] More strikes aimed at Iran, Trump issues new warning]]></description>
-            <link>https://bdnews24.com/world/9803c802463f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/9803c802463f</guid>
-            <pubDate>Sun, 01 Mar 2026 11:21:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/khamenei-killed-1772342459.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Xiaomi says February EV deliveries topped 20,000]]></title>
-            <description><![CDATA[[Automobile] Xiaomi says February EV deliveries topped 20,000]]></description>
-            <link>https://bdnews24.com/automobile/2472cd5127dd</link>
-            <guid isPermaLink="true">https://bdnews24.com/automobile/2472cd5127dd</guid>
-            <pubDate>Sun, 01 Mar 2026 10:58:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/xiaomi-car-011026-01-1772341072.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Berkshire Hathaway profit falls]]></title>
-            <description><![CDATA[[Business] Berkshire Hathaway profit falls]]></description>
-            <link>https://bdnews24.com/business/0528c8e2bdad</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/0528c8e2bdad</guid>
-            <pubDate>Sun, 01 Mar 2026 10:48:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/gregory-abel-berkshire-011026-01-1772340462.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
