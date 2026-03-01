@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Mar 2026 01:07:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 04:11:11 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Mar 2026 01:07:43 GMT</pubDate>
+        <pubDate>Sun, 01 Mar 2026 04:11:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Ayatollah Khamenei embodied fearsome anti-Western rule]]></title>
+            <description><![CDATA[[World] Ayatollah Khamenei embodied fearsome anti-Western rule]]></description>
+            <link>https://bdnews24.com/world/c29f8ebc2a44</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/c29f8ebc2a44</guid>
+            <pubDate>Sun, 01 Mar 2026 09:46:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-khamenei-011026-01-1772336730.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran's supreme leader Khamenei is dead]]></title>
+            <description><![CDATA[[World] Iran's supreme leader Khamenei is dead]]></description>
+            <link>https://bdnews24.com/world/89c8978b4ca4</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/89c8978b4ca4</guid>
+            <pubDate>Sun, 01 Mar 2026 09:36:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-ali-khamenei-01032026-01-1772336106.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Man City move two points behind Arsenal]]></title>
             <description><![CDATA[[Sport] Man City move two points behind Arsenal]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/ed6da50b796f</guid>
             <pubDate>Sat, 28 Feb 2026 22:50:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/trump-iran-risky-rewards-28022026-01-1772297359.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[IFAB approves new rules to curb time-wasting]]></title>
-            <description><![CDATA[[Sport] IFAB approves new rules to curb time-wasting]]></description>
-            <link>https://bdnews24.com/sport/827dc29f9373</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/827dc29f9373</guid>
-            <pubDate>Sat, 28 Feb 2026 22:38:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/ifab-new-rules-28022026-01-1772296651.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Targeted by airstrikes, Khamenei has Iran in iron grip]]></title>
-            <description><![CDATA[[World] Targeted by airstrikes, Khamenei has Iran in iron grip]]></description>
-            <link>https://bdnews24.com/world/35873bdb7e01</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/35873bdb7e01</guid>
-            <pubDate>Sat, 28 Feb 2026 22:29:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/khamenei-iran-iron-grip-28022026-01-1772296063.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
