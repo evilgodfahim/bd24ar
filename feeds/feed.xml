@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Mar 2026 08:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 09:18:22 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Mar 2026 08:16:53 GMT</pubDate>
+        <pubDate>Sun, 01 Mar 2026 09:18:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Finance Minister Khosru hospitalised]]></title>
+            <description><![CDATA[[Bangladesh] Finance Minister Khosru hospitalised]]></description>
+            <link>https://bdnews24.com/bangladesh/d5d21fe86e96</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d5d21fe86e96</guid>
+            <pubDate>Sun, 01 Mar 2026 15:15:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025October/SM/amir-khashru-mahmud-chowdhury-271025-1761579580.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[9 die in Pakistan clashes after Khamenei death]]></title>
+            <description><![CDATA[[World] 9 die in Pakistan clashes after Khamenei death]]></description>
+            <link>https://bdnews24.com/world/ac634db1136a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ac634db1136a</guid>
+            <pubDate>Sun, 01 Mar 2026 14:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/pakistan-010326-01-1772356056.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[In Khamenei's absence, Larijani emerges as power broker in Iran]]></title>
+            <description><![CDATA[[World] In Khamenei's absence, Larijani emerges as power broker in Iran]]></description>
+            <link>https://bdnews24.com/world/5fd62c0f2b81</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/5fd62c0f2b81</guid>
+            <pubDate>Sun, 01 Mar 2026 14:44:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/ali-larijani-010326-01-1772354632.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Biman reschedules two Saudi flights]]></title>
             <description><![CDATA[[Aviation] Biman reschedules two Saudi flights]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/8ffe82c0bd6d</guid>
             <pubDate>Sun, 01 Mar 2026 02:31:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/man-city-010326-01-1772310624.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Messi, Inter Miami to visit White House]]></title>
-            <description><![CDATA[[Sport] Messi, Inter Miami to visit White House]]></description>
-            <link>https://bdnews24.com/sport/5fe9982d7406</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/5fe9982d7406</guid>
-            <pubDate>Sun, 01 Mar 2026 02:10:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/messi-white-house-01032026-01-1772309380.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[England Lions match in Abu Dhabi cancelled]]></title>
-            <description><![CDATA[[Sport] England Lions match in Abu Dhabi cancelled]]></description>
-            <link>https://bdnews24.com/sport/7d6af9ce6a30</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/7d6af9ce6a30</guid>
-            <pubDate>Sun, 01 Mar 2026 01:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/abu-dhabi-010326-01-1772308535.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka flight chaos: Hundreds stranded amid uncertainty]]></title>
-            <description><![CDATA[[Bangladesh] Dhaka flight chaos: Hundreds stranded amid uncertainty]]></description>
-            <link>https://bdnews24.com/bangladesh/da2f9b247a18</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/da2f9b247a18</guid>
-            <pubDate>Sun, 01 Mar 2026 01:44:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/passenger-suffering-hazrat-shahjalal-international-airport-280226-018-1772292708.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
