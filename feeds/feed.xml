@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Mar 2026 04:01:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 05:43:12 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Mar 2026 04:01:57 GMT</pubDate>
+        <pubDate>Mon, 02 Mar 2026 05:43:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[British air base in Cyprus hit by suspected drone strike]]></title>
+            <description><![CDATA[[World] British air base in Cyprus hit by suspected drone strike]]></description>
+            <link>https://bdnews24.com/world/ac8d9055fc47</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ac8d9055fc47</guid>
+            <pubDate>Mon, 02 Mar 2026 11:01:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/british-base-020326-01-1772423793.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oil prices jump, stocks skid on Middle East turmoil]]></title>
+            <description><![CDATA[[Business] Oil prices jump, stocks skid on Middle East turmoil]]></description>
+            <link>https://bdnews24.com/business/e0b1f72dbba4</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/e0b1f72dbba4</guid>
+            <pubDate>Mon, 02 Mar 2026 10:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/stock-market-050126-01-1770179135.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump, Israel pushing Middle East into abyss with Iran attack: Russia]]></title>
+            <description><![CDATA[[World] Trump, Israel pushing Middle East into abyss with Iran attack: Russia]]></description>
+            <link>https://bdnews24.com/world/52ed49596433</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/52ed49596433</guid>
+            <pubDate>Mon, 02 Mar 2026 10:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/tehran-attack-020326-01-1772424490.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[US officials sceptical of regime change in Tehran]]></title>
             <description><![CDATA[[World] US officials sceptical of regime change in Tehran]]></description>
@@ -17,12 +41,12 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-regime-change-us-020326-01-1772423044.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Israel strikes Beirut's southern suburbs]]></title>
-            <description><![CDATA[[World] Israel strikes Beirut's southern suburbs]]></description>
+            <title><![CDATA[Israel strikes Lebanon following Hezbollah attacks]]></title>
+            <description><![CDATA[[World] Israel strikes Lebanon following Hezbollah attacks]]></description>
             <link>https://bdnews24.com/world/b8c083f39357</link>
             <guid isPermaLink="true">https://bdnews24.com/world/b8c083f39357</guid>
             <pubDate>Mon, 02 Mar 2026 09:02:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/beirut-2326-1772420400.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-war-020326-01-1772426102.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Chelsea decision-making unacceptable, says Rosenior]]></title>
@@ -121,8 +145,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/manchester-united-25022026-1772030706.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[3 US troops killed in initial Iran operation]]></title>
-            <description><![CDATA[[World] 3 US troops killed in initial Iran operation]]></description>
+            <title><![CDATA[As US announces Iran war casualties, poll signals challenge for Trump]]></title>
+            <description><![CDATA[[World] As US announces Iran war casualties, poll signals challenge for Trump]]></description>
             <link>https://bdnews24.com/world/049d5fe23bd2</link>
             <guid isPermaLink="true">https://bdnews24.com/world/049d5fe23bd2</guid>
             <pubDate>Sun, 01 Mar 2026 23:42:00 GMT</pubDate>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/d697fc07b8e8</guid>
             <pubDate>Sun, 01 Mar 2026 23:35:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/narayangonj-two-dead-010326-01-1772381836.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[48 leaders killed in strikes on Iran: Trump]]></title>
-            <description><![CDATA[[World] 48 leaders killed in strikes on Iran: Trump]]></description>
-            <link>https://bdnews24.com/world/66bce7b17b54</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/66bce7b17b54</guid>
-            <pubDate>Sun, 01 Mar 2026 23:21:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/48-killed-strikes-01032026-01-1772385673.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gulf firms reel as Iran strikes trigger shutdowns]]></title>
-            <description><![CDATA[[Business] Gulf firms reel as Iran strikes trigger shutdowns]]></description>
-            <link>https://bdnews24.com/business/be5461ef2e00</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/be5461ef2e00</guid>
-            <pubDate>Sun, 01 Mar 2026 23:14:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/gulf-firms-reel-01032026-01-1772385206.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Youth rally calls for Inu’s release]]></title>
-            <description><![CDATA[[Bangladesh] Youth rally calls for Inu’s release]]></description>
-            <link>https://bdnews24.com/bangladesh/cbf3bee3edd2</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cbf3bee3edd2</guid>
-            <pubDate>Sun, 01 Mar 2026 22:37:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jasad-free-inu-demand-010326-1772378892.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
