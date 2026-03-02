@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Mar 2026 09:35:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 10:33:30 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Mar 2026 09:35:51 GMT</pubDate>
+        <pubDate>Mon, 02 Mar 2026 10:33:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bangladeshi killed in Bahrain missile strike]]></title>
+            <description><![CDATA[[Bangladesh] Bangladeshi killed in Bahrain missile strike]]></description>
+            <link>https://bdnews24.com/bangladesh/6de9a5e61eef</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6de9a5e61eef</guid>
+            <pubDate>Mon, 02 Mar 2026 16:21:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tareq-bahrain-020326-01-1772446275.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[One citizen dead, more than 3,000 evacuated in Iran: China]]></title>
             <description><![CDATA[[World] One citizen dead, more than 3,000 evacuated in Iran: China]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/business/e0b1f72dbba4</guid>
             <pubDate>Mon, 02 Mar 2026 10:47:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/stock-market-050126-01-1770179135.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump, Israel pushing Middle East into abyss with Iran attack: Russia]]></title>
-            <description><![CDATA[[World] Trump, Israel pushing Middle East into abyss with Iran attack: Russia]]></description>
-            <link>https://bdnews24.com/world/52ed49596433</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/52ed49596433</guid>
-            <pubDate>Mon, 02 Mar 2026 10:08:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/tehran-attack-020326-01-1772424490.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
