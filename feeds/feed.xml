@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Mar 2026 17:35:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 18:30:13 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Mar 2026 17:35:45 GMT</pubDate>
+        <pubDate>Mon, 02 Mar 2026 18:30:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Pakistan, Afghanistan refuse to retreat on fifth day of clashes]]></title>
+            <description><![CDATA[[World] Pakistan, Afghanistan refuse to retreat on fifth day of clashes]]></description>
+            <link>https://bdnews24.com/world/9ae0401a61f1</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/9ae0401a61f1</guid>
+            <pubDate>Tue, 03 Mar 2026 00:23:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/pakistan-afghanistan-conflict-270226-1772221037.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Default loans drop to 31%]]></title>
+            <description><![CDATA[[Economy] Default loans drop to 31%]]></description>
+            <link>https://bdnews24.com/economy/410ff3bcb5d1</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/410ff3bcb5d1</guid>
+            <pubDate>Tue, 03 Mar 2026 00:18:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024October/SM/banking-bank-note-money-prime-ap-180216-1728931314.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gulf ministers laud Bangladesh's solidarity in difficult times]]></title>
+            <description><![CDATA[[Bangladesh] Gulf ministers laud Bangladesh's solidarity in difficult times]]></description>
+            <link>https://bdnews24.com/bangladesh/a0a60577c1f7</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a0a60577c1f7</guid>
+            <pubDate>Mon, 02 Mar 2026 23:37:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/israel-us-strike-in-iran-iran-280226-01-1772303359.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[US struggles to secure Congo’s ‘war zone minerals’ despite pact]]></title>
             <description><![CDATA[[World] US struggles to secure Congo’s ‘war zone minerals’ despite pact]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/20959e213873</guid>
             <pubDate>Mon, 02 Mar 2026 20:29:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/khalilur-rahaman-020326-01-1772462022.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tehran hospital, state TV building hit in strikes]]></title>
-            <description><![CDATA[[Image] Tehran hospital, state TV building hit in strikes]]></description>
-            <link>https://bdnews24.com/media-en/image/fc76feea20c6</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/fc76feea20c6</guid>
-            <pubDate>Mon, 02 Mar 2026 20:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/gandhi-hotel-hospital-tehran-020326-04-1772457384.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Liverpool's Wirtz out of Wolves game]]></title>
-            <description><![CDATA[[Sport] Liverpool's Wirtz out of Wolves game]]></description>
-            <link>https://bdnews24.com/sport/e8b6238a5b22</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/e8b6238a5b22</guid>
-            <pubDate>Mon, 02 Mar 2026 20:16:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/liv-wirtz-out-02032026-01-1772460951.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran conflict widens to Lebanon]]></title>
-            <description><![CDATA[[World] Iran conflict widens to Lebanon]]></description>
-            <link>https://bdnews24.com/world/19885795290f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/19885795290f</guid>
-            <pubDate>Mon, 02 Mar 2026 20:15:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-conflict-lebanon-02032026-01-1772460861.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
