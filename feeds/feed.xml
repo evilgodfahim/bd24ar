@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Mar 2026 08:30:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 09:35:51 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Mar 2026 08:30:01 GMT</pubDate>
+        <pubDate>Mon, 02 Mar 2026 09:35:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[One citizen dead, more than 3,000 evacuated in Iran: China]]></title>
+            <description><![CDATA[[World] One citizen dead, more than 3,000 evacuated in Iran: China]]></description>
+            <link>https://bdnews24.com/world/db2c2bc024e7</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/db2c2bc024e7</guid>
+            <pubDate>Mon, 02 Mar 2026 15:30:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-anti-us-billboard-020326-01-1772443773.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ULAB hosts ‘Linking Minds’ forum]]></title>
+            <description><![CDATA[[Campus] ULAB hosts ‘Linking Minds’ forum]]></description>
+            <link>https://bdnews24.com/campus/efd98b5b2cce</link>
+            <guid isPermaLink="true">https://bdnews24.com/campus/efd98b5b2cce</guid>
+            <pubDate>Mon, 02 Mar 2026 15:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/ulab-linking-minds-02032026-01-1772442226.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Will Mohon Raihan take Bangla Academy award?]]></title>
+            <description><![CDATA[[Bangladesh] Will Mohon Raihan take Bangla Academy award?]]></description>
+            <link>https://bdnews24.com/bangladesh/4f99f2ffd918</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4f99f2ffd918</guid>
+            <pubDate>Mon, 02 Mar 2026 14:54:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/mohon-raihan-260226-01-1772105891.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US halts immigrant visas for Bangladeshis]]></title>
+            <description><![CDATA[[Bangladesh] US halts immigrant visas for Bangladeshis]]></description>
+            <link>https://bdnews24.com/bangladesh/89761192d937</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/89761192d937</guid>
+            <pubDate>Mon, 02 Mar 2026 14:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026January/SM/us-visa-restriction-140126-1768410335.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lebanon's Hezbollah chief now 'target for elimination': Israel]]></title>
+            <description><![CDATA[[World] Lebanon's Hezbollah chief now 'target for elimination': Israel]]></description>
+            <link>https://bdnews24.com/world/222febd8f66c</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/222febd8f66c</guid>
+            <pubDate>Mon, 02 Mar 2026 14:37:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/israel-katz-020326-01-1772440592.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Saudi Aramco shuts Ras Tanura refinery after drone strike: source]]></title>
+            <description><![CDATA[[Business] Saudi Aramco shuts Ras Tanura refinery after drone strike: source]]></description>
+            <link>https://bdnews24.com/business/adefa2d8e9d0</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/adefa2d8e9d0</guid>
+            <pubDate>Mon, 02 Mar 2026 14:33:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/aramco-020326-01-1772440369.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Melita Mehjabeen becomes National Bank chair]]></title>
             <description><![CDATA[[Business] Melita Mehjabeen becomes National Bank chair]]></description>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/52ed49596433</guid>
             <pubDate>Mon, 02 Mar 2026 10:08:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/tehran-attack-020326-01-1772424490.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US officials sceptical of regime change in Tehran]]></title>
-            <description><![CDATA[[World] US officials sceptical of regime change in Tehran]]></description>
-            <link>https://bdnews24.com/world/e0bed6e536ab</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/e0bed6e536ab</guid>
-            <pubDate>Mon, 02 Mar 2026 09:44:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-regime-change-us-020326-01-1772423044.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel strikes Lebanon following Hezbollah attacks]]></title>
-            <description><![CDATA[[World] Israel strikes Lebanon following Hezbollah attacks]]></description>
-            <link>https://bdnews24.com/world/b8c083f39357</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/b8c083f39357</guid>
-            <pubDate>Mon, 02 Mar 2026 09:02:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-war-020326-01-1772426102.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chelsea decision-making unacceptable, says Rosenior]]></title>
-            <description><![CDATA[[Sport] Chelsea decision-making unacceptable, says Rosenior]]></description>
-            <link>https://bdnews24.com/sport/659f5cd292ee</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/659f5cd292ee</guid>
-            <pubDate>Mon, 02 Mar 2026 03:53:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/pedro-chelsea-3226-1772401970.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arsenal down Chelsea, Man Utd go third]]></title>
-            <description><![CDATA[[Sport] Arsenal down Chelsea, Man Utd go third]]></description>
-            <link>https://bdnews24.com/sport/5eba1379b373</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/5eba1379b373</guid>
-            <pubDate>Mon, 02 Mar 2026 03:50:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/arsenal-chelsea-3226-1772401831.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iranian changes must be used properly: Zelensky]]></title>
-            <description><![CDATA[[World] Iranian changes must be used properly: Zelensky]]></description>
-            <link>https://bdnews24.com/world/0bac302791ba</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/0bac302791ba</guid>
-            <pubDate>Mon, 02 Mar 2026 02:38:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/zelensky-050226-1770262616.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[EU nations demand ‘maximum restraint’ as Iran conflict escalates]]></title>
-            <description><![CDATA[[World] EU nations demand ‘maximum restraint’ as Iran conflict escalates]]></description>
-            <link>https://bdnews24.com/world/b043f8c147ea</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/b043f8c147ea</guid>
-            <pubDate>Mon, 02 Mar 2026 02:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/operation-epic-fury-2326-1772397330.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
