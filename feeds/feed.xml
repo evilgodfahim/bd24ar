@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Mar 2026 18:30:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 19:28:56 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Mar 2026 18:30:13 GMT</pubDate>
+        <pubDate>Mon, 02 Mar 2026 19:28:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Barca must make ‘impossible possible’: Flick]]></title>
+            <description><![CDATA[[Sport] Barca must make ‘impossible possible’: Flick]]></description>
+            <link>https://bdnews24.com/sport/8b36777df898</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/8b36777df898</guid>
+            <pubDate>Tue, 03 Mar 2026 01:11:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/barca-laliga-230226-01-1771784673.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tottenham fined over fans’ racist behaviour at Frankfurt]]></title>
+            <description><![CDATA[[Sport] Tottenham fined over fans’ racist behaviour at Frankfurt]]></description>
+            <link>https://bdnews24.com/sport/4f4cc7c0f43d</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/4f4cc7c0f43d</guid>
+            <pubDate>Tue, 03 Mar 2026 01:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/epl-wrapup-spurs-man-utd-110226-01-1770782480.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Middle East war grounds 131 flights from Dhaka]]></title>
+            <description><![CDATA[[Bangladesh] Middle East war grounds 131 flights from Dhaka]]></description>
+            <link>https://bdnews24.com/bangladesh/0ce88799a4d0</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0ce88799a4d0</guid>
+            <pubDate>Tue, 03 Mar 2026 00:59:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/passenger-suffering-hazrat-shahjalal-international-airport-010326-022-1772375148.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Pakistan, Afghanistan refuse to retreat on fifth day of clashes]]></title>
             <description><![CDATA[[World] Pakistan, Afghanistan refuse to retreat on fifth day of clashes]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/db043973ff74</guid>
             <pubDate>Mon, 02 Mar 2026 20:56:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025December/SM/pete-hegseth-031225-01-1764737620.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Military called after Pakistan Iran protests]]></title>
-            <description><![CDATA[[World] Military called after Pakistan Iran protests]]></description>
-            <link>https://bdnews24.com/world/0bb8cbe97b3f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/0bb8cbe97b3f</guid>
-            <pubDate>Mon, 02 Mar 2026 20:43:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/pakistan-010326-01-1772356056.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Season’s first rainfall in Dhaka]]></title>
-            <description><![CDATA[[Image] Season’s first rainfall in Dhaka]]></description>
-            <link>https://bdnews24.com/media-en/image/c7f0274a139b</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/c7f0274a139b</guid>
-            <pubDate>Mon, 02 Mar 2026 20:31:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rain-hatirjheel-020326-063-1772456285.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh prioritises citizens amid Middle East conflict]]></title>
-            <description><![CDATA[[Bangladesh] Bangladesh prioritises citizens amid Middle East conflict]]></description>
-            <link>https://bdnews24.com/bangladesh/20959e213873</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/20959e213873</guid>
-            <pubDate>Mon, 02 Mar 2026 20:29:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/khalilur-rahaman-020326-01-1772462022.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
