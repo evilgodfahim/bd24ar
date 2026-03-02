@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Mar 2026 10:33:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 11:25:27 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Mar 2026 10:33:30 GMT</pubDate>
+        <pubDate>Mon, 02 Mar 2026 11:25:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Khamenei's death brings Khomeini's grandson into focus]]></title>
+            <description><![CDATA[[World] Khamenei's death brings Khomeini's grandson into focus]]></description>
+            <link>https://bdnews24.com/world/b3117d10c8a5</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/b3117d10c8a5</guid>
+            <pubDate>Mon, 02 Mar 2026 17:24:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/hassan-khomeini-3226-1772450592.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh ‘saddened’ by Khameni killing]]></title>
+            <description><![CDATA[[Bangladesh] Bangladesh ‘saddened’ by Khameni killing]]></description>
+            <link>https://bdnews24.com/bangladesh/46dca16a5bda</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/46dca16a5bda</guid>
+            <pubDate>Mon, 02 Mar 2026 17:17:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/iran-khamenei-killing-usa-020326-1772433861.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Minister assures support for crew stranded in UAE port]]></title>
+            <description><![CDATA[[Bangladesh] Minister assures support for crew stranded in UAE port]]></description>
+            <link>https://bdnews24.com/bangladesh/40853433591d</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/40853433591d</guid>
+            <pubDate>Mon, 02 Mar 2026 16:33:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/banglar-joyjatra-020326-02-1772442483.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Bangladeshi killed in Bahrain missile strike]]></title>
             <description><![CDATA[[Bangladesh] Bangladeshi killed in Bahrain missile strike]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/f72fd8b2770f</guid>
             <pubDate>Mon, 02 Mar 2026 11:53:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/kuwait-city-020326-01-1772430750.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[War fallout grounds 25 flights at Ctg airport]]></title>
-            <description><![CDATA[[Bangladesh] War fallout grounds 25 flights at Ctg airport]]></description>
-            <link>https://bdnews24.com/bangladesh/f27457d6c61f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f27457d6c61f</guid>
-            <pubDate>Mon, 02 Mar 2026 11:44:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026January/SM/chattogram-airport-runway-081225-03-1769827504.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[British air base in Cyprus hit by suspected drone strike]]></title>
-            <description><![CDATA[[World] British air base in Cyprus hit by suspected drone strike]]></description>
-            <link>https://bdnews24.com/world/ac8d9055fc47</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ac8d9055fc47</guid>
-            <pubDate>Mon, 02 Mar 2026 11:01:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/british-base-020326-01-1772423793.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil prices jump, stocks skid on Middle East turmoil]]></title>
-            <description><![CDATA[[Business] Oil prices jump, stocks skid on Middle East turmoil]]></description>
-            <link>https://bdnews24.com/business/e0b1f72dbba4</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/e0b1f72dbba4</guid>
-            <pubDate>Mon, 02 Mar 2026 10:47:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/stock-market-050126-01-1770179135.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
