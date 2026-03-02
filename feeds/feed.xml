@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Mar 2026 14:34:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 15:30:37 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Mar 2026 14:34:48 GMT</pubDate>
+        <pubDate>Mon, 02 Mar 2026 15:30:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Ben Gurion Airport set for limited reopening]]></title>
+            <description><![CDATA[[World] Ben Gurion Airport set for limited reopening]]></description>
+            <link>https://bdnews24.com/world/3709cdfa71eb</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/3709cdfa71eb</guid>
+            <pubDate>Mon, 02 Mar 2026 21:29:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025June/SM/about-24062025-01-1750785854.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eid bus, train ticket sales begin Tuesday]]></title>
+            <description><![CDATA[[Bangladesh] Eid bus, train ticket sales begin Tuesday]]></description>
+            <link>https://bdnews24.com/bangladesh/f815edf7bcd0</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f815edf7bcd0</guid>
+            <pubDate>Mon, 02 Mar 2026 21:20:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/kamlapur-railway-station-pandemic-240521-007-1772464823.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russians can leave Iran via Turkmenistan: embassy]]></title>
+            <description><![CDATA[[World] Russians can leave Iran via Turkmenistan: embassy]]></description>
+            <link>https://bdnews24.com/world/f89543d25b31</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/f89543d25b31</guid>
+            <pubDate>Mon, 02 Mar 2026 21:15:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/iran-protes-23226-1771817713.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[8 injured in Mohammadpur gas cylinder explosion]]></title>
+            <description><![CDATA[[Bangladesh] 8 injured in Mohammadpur gas cylinder explosion]]></description>
+            <link>https://bdnews24.com/bangladesh/d7d08031397c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d7d08031397c</guid>
+            <pubDate>Mon, 02 Mar 2026 20:59:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/dhaka-burn-hospital-250226-01-1772007430.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran war will not be endless: Pentagon]]></title>
+            <description><![CDATA[[World] Iran war will not be endless: Pentagon]]></description>
+            <link>https://bdnews24.com/world/db043973ff74</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/db043973ff74</guid>
+            <pubDate>Mon, 02 Mar 2026 20:56:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025December/SM/pete-hegseth-031225-01-1764737620.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Military called after Pakistan Iran protests]]></title>
+            <description><![CDATA[[World] Military called after Pakistan Iran protests]]></description>
+            <link>https://bdnews24.com/world/0bb8cbe97b3f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/0bb8cbe97b3f</guid>
+            <pubDate>Mon, 02 Mar 2026 20:43:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/pakistan-010326-01-1772356056.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Season’s first rainfall in Dhaka]]></title>
             <description><![CDATA[[Image] Season’s first rainfall in Dhaka]]></description>
@@ -22,7 +70,7 @@
             <link>https://bdnews24.com/bangladesh/20959e213873</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/20959e213873</guid>
             <pubDate>Mon, 02 Mar 2026 20:29:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-interministrial-020336-02-1772461730.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/khalilur-rahaman-020326-01-1772462022.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Tehran hospital, state TV building hit in strikes]]></title>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/f1539979dfa4</guid>
             <pubDate>Mon, 02 Mar 2026 17:51:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/salahuddin-ahmod-020326-01-1772450996.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[IAEA sees no Iran nuclear site damage, Tehran claims otherwise]]></title>
-            <description><![CDATA[[Middle East] IAEA sees no Iran nuclear site damage, Tehran claims otherwise]]></description>
-            <link>https://bdnews24.com/world/middle-east/ef6c1e18e836</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/ef6c1e18e836</guid>
-            <pubDate>Mon, 02 Mar 2026 17:46:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/natanz-020326-01-1772451884.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Supreme Court reviews gun ban for illegal drug users]]></title>
-            <description><![CDATA[[World] US Supreme Court reviews gun ban for illegal drug users]]></description>
-            <link>https://bdnews24.com/world/cabdb1f28258</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/cabdb1f28258</guid>
-            <pubDate>Mon, 02 Mar 2026 17:39:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/sc-strikes-tariffs-20022026-01-1771607069.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[LPG prices stay unchanged for March]]></title>
-            <description><![CDATA[[Bangladesh] LPG prices stay unchanged for March]]></description>
-            <link>https://bdnews24.com/bangladesh/be01f0d39ec9</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/be01f0d39ec9</guid>
-            <pubDate>Mon, 02 Mar 2026 17:32:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026January/SM/lpg-gas-strike-dhaka-080126-1767870824.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran strikes cast doubt on N Korea-Trump nuclear talks prospects]]></title>
-            <description><![CDATA[[World] Iran strikes cast doubt on N Korea-Trump nuclear talks prospects]]></description>
-            <link>https://bdnews24.com/world/ccfdf54bf174</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ccfdf54bf174</guid>
-            <pubDate>Mon, 02 Mar 2026 17:32:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-north-korea-020326-01-1772458093.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eminent citizens urge release of detainees in 'political' cases]]></title>
-            <description><![CDATA[[Bangladesh] Eminent citizens urge release of detainees in 'political' cases]]></description>
-            <link>https://bdnews24.com/bangladesh/569bda59e3eb</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/569bda59e3eb</guid>
-            <pubDate>Mon, 02 Mar 2026 17:32:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/2022-12/de4a7fdd-85ca-4f96-8bd6-8f98bf99b70e/arrest_bnp_police_clash_paltan_071222_33.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Khamenei's death brings Khomeini's grandson into focus]]></title>
-            <description><![CDATA[[World] Khamenei's death brings Khomeini's grandson into focus]]></description>
-            <link>https://bdnews24.com/world/b3117d10c8a5</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/b3117d10c8a5</guid>
-            <pubDate>Mon, 02 Mar 2026 17:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/hassan-khomeini-3226-1772450592.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
