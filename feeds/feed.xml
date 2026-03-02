@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Mar 2026 07:41:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 08:30:01 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Mar 2026 07:41:18 GMT</pubDate>
+        <pubDate>Mon, 02 Mar 2026 08:30:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Melita Mehjabeen becomes National Bank chair]]></title>
+            <description><![CDATA[[Business] Melita Mehjabeen becomes National Bank chair]]></description>
+            <link>https://bdnews24.com/business/6128b3b03f62</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/6128b3b03f62</guid>
+            <pubDate>Mon, 02 Mar 2026 14:28:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/melita-mehjabin-020326-01-1772438871.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Amazon cloud unit flags issues at Bahrain, UAE data centres]]></title>
+            <description><![CDATA[[Technology] Amazon cloud unit flags issues at Bahrain, UAE data centres]]></description>
+            <link>https://bdnews24.com/technology/cda4bcda61d3</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/cda4bcda61d3</guid>
+            <pubDate>Mon, 02 Mar 2026 14:22:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/aws-020326-01-1772439694.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM orders launch of women-only bus service in Dhaka]]></title>
+            <description><![CDATA[[Bangladesh] PM orders launch of women-only bus service in Dhaka]]></description>
+            <link>https://bdnews24.com/bangladesh/39064a8a62fb</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/39064a8a62fb</guid>
+            <pubDate>Mon, 02 Mar 2026 14:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/untitled-1-1772438667.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladeshi vessel stuck at UAE port amid war]]></title>
+            <description><![CDATA[[Bangladesh] Bangladeshi vessel stuck at UAE port amid war]]></description>
+            <link>https://bdnews24.com/bangladesh/d1740d3b512e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d1740d3b512e</guid>
+            <pubDate>Mon, 02 Mar 2026 13:48:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mv-banglar-joyjatra-020326-01-1772435703.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[PM consults experts on overhaul of Dhaka traffic system]]></title>
             <description><![CDATA[[Bangladesh] PM consults experts on overhaul of Dhaka traffic system]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/b043f8c147ea</guid>
             <pubDate>Mon, 02 Mar 2026 02:36:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/operation-epic-fury-2326-1772397330.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hasina, Quader backed for acquittal over ‘Uprising killings’]]></title>
-            <description><![CDATA[[Bangladesh] Hasina, Quader backed for acquittal over ‘Uprising killings’]]></description>
-            <link>https://bdnews24.com/bangladesh/b6757641947d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b6757641947d</guid>
-            <pubDate>Mon, 02 Mar 2026 01:20:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-03/ac34ec2c-b5ee-4819-a051-92b024eac1e7/pm_mymensing_110323_01.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[23 die in Pakistan as crowds react after Iran strikes]]></title>
-            <description><![CDATA[[World] 23 die in Pakistan as crowds react after Iran strikes]]></description>
-            <link>https://bdnews24.com/world/9c76fafac9da</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/9c76fafac9da</guid>
-            <pubDate>Mon, 02 Mar 2026 01:18:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/pakistan-02032026-1772392669.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US strikes on Iran: Only 1 in 4 Americans approves]]></title>
-            <description><![CDATA[[World] US strikes on Iran: Only 1 in 4 Americans approves]]></description>
-            <link>https://bdnews24.com/world/adafddbbbb9a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/adafddbbbb9a</guid>
-            <pubDate>Mon, 02 Mar 2026 01:07:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/israel-attack-iran-280226-1772261450.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thousands stranded at airports as 94 Middle East flights cancelled]]></title>
-            <description><![CDATA[[Bangladesh] Thousands stranded at airports as 94 Middle East flights cancelled]]></description>
-            <link>https://bdnews24.com/bangladesh/9c74588681a1</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9c74588681a1</guid>
-            <pubDate>Mon, 02 Mar 2026 00:55:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/passenger-suffering-hazrat-shahjalal-international-airport-010326-047-1772375148.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
