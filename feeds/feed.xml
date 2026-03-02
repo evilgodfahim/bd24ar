@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Mar 2026 01:01:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 04:01:57 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Mar 2026 01:01:05 GMT</pubDate>
+        <pubDate>Mon, 02 Mar 2026 04:01:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US officials sceptical of regime change in Tehran]]></title>
+            <description><![CDATA[[World] US officials sceptical of regime change in Tehran]]></description>
+            <link>https://bdnews24.com/world/e0bed6e536ab</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e0bed6e536ab</guid>
+            <pubDate>Mon, 02 Mar 2026 09:44:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-regime-change-us-020326-01-1772423044.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel strikes Beirut's southern suburbs]]></title>
+            <description><![CDATA[[World] Israel strikes Beirut's southern suburbs]]></description>
+            <link>https://bdnews24.com/world/b8c083f39357</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/b8c083f39357</guid>
+            <pubDate>Mon, 02 Mar 2026 09:02:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/beirut-2326-1772420400.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Chelsea decision-making unacceptable, says Rosenior]]></title>
             <description><![CDATA[[Sport] Chelsea decision-making unacceptable, says Rosenior]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/cbf3bee3edd2</guid>
             <pubDate>Sun, 01 Mar 2026 22:37:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jasad-free-inu-demand-010326-1772378892.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heatwaves, storms forecast for late March]]></title>
-            <description><![CDATA[[Bangladesh] Heatwaves, storms forecast for late March]]></description>
-            <link>https://bdnews24.com/bangladesh/085a3cdc84b9</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/085a3cdc84b9</guid>
-            <pubDate>Sun, 01 Mar 2026 22:25:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/06-hot-summer-210414-0019-1772382256.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Russia plans evacuation of 500 citizens from Iran]]></title>
-            <description><![CDATA[[World] Russia plans evacuation of 500 citizens from Iran]]></description>
-            <link>https://bdnews24.com/world/df95df2a2445</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/df95df2a2445</guid>
-            <pubDate>Sun, 01 Mar 2026 22:20:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/azerbaijani-010325-1772382037.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
