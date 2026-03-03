@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Mar 2026 12:30:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 13:50:27 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Mar 2026 12:30:23 GMT</pubDate>
+        <pubDate>Tue, 03 Mar 2026 13:50:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[4th day of Iran war: smoke and blood engulf cities]]></title>
+            <description><![CDATA[[Middle East] 4th day of Iran war: smoke and blood engulf cities]]></description>
+            <link>https://bdnews24.com/world/middle-east/17a6d8ce1403</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/17a6d8ce1403</guid>
+            <pubDate>Tue, 03 Mar 2026 19:49:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/tehran-strikes-030326-01-1772515379.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gulf tensions 'great anxiety': India]]></title>
+            <description><![CDATA[[World] Gulf tensions 'great anxiety': India]]></description>
+            <link>https://bdnews24.com/world/7381e3824ec1</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/7381e3824ec1</guid>
+            <pubDate>Tue, 03 Mar 2026 19:30:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/gulf-firms-reel-01032026-01-1772385206.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Biman puts off 6 Middle East routes]]></title>
+            <description><![CDATA[[Bangladesh] Biman puts off 6 Middle East routes]]></description>
+            <link>https://bdnews24.com/bangladesh/d7bf4c65ce91</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d7bf4c65ce91</guid>
+            <pubDate>Tue, 03 Mar 2026 19:24:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/passenger-suffering-hazrat-shahjalal-international-airport-010326-047-1772375148.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[World Cup ticket rush amid turmoil]]></title>
+            <description><![CDATA[[Sport] World Cup ticket rush amid turmoil]]></description>
+            <link>https://bdnews24.com/sport/bb147569dba7</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/bb147569dba7</guid>
+            <pubDate>Tue, 03 Mar 2026 19:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/world-cup-030326-01-1772543756.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russia raises concern over Iran’s Bushehr plant safety]]></title>
+            <description><![CDATA[[Middle East] Russia raises concern over Iran’s Bushehr plant safety]]></description>
+            <link>https://bdnews24.com/world/middle-east/e5d0530b9070</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/e5d0530b9070</guid>
+            <pubDate>Tue, 03 Mar 2026 19:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025June/SM/bushehr-plant-200625-01-1750358375.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[30,000 displaced in Lebanon shelters, more expected: UN]]></title>
+            <description><![CDATA[[World] 30,000 displaced in Lebanon shelters, more expected: UN]]></description>
+            <link>https://bdnews24.com/world/1eb48f020014</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/1eb48f020014</guid>
+            <pubDate>Tue, 03 Mar 2026 18:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/shelter-03032026-1772542163.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel war could push Iran, Arabs to seek nuclear weapons: Russia]]></title>
+            <description><![CDATA[[World] Israel war could push Iran, Arabs to seek nuclear weapons: Russia]]></description>
+            <link>https://bdnews24.com/world/0bab0bd5c8b3</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/0bab0bd5c8b3</guid>
+            <pubDate>Tue, 03 Mar 2026 18:43:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-3326-2-1772536548.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[JCD, Shibir hold counter-rallies after Dhaka Polytechnic clashes]]></title>
             <description><![CDATA[[Campus] JCD, Shibir hold counter-rallies after Dhaka Polytechnic clashes]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/c26513f57cc4</guid>
             <pubDate>Tue, 03 Mar 2026 14:23:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/muhammad-yunus-030326-01-1772524624.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why Iran’s move on the Strait of Hormuz matters]]></title>
-            <description><![CDATA[[World] Why Iran’s move on the Strait of Hormuz matters]]></description>
-            <link>https://bdnews24.com/world/772494a581d5</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/772494a581d5</guid>
-            <pubDate>Tue, 03 Mar 2026 13:30:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/strait-of-hormuz-030326-01-1772522952.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[July Charter order, referendum ordinance under HC scrutiny]]></title>
-            <description><![CDATA[[Bangladesh] July Charter order, referendum ordinance under HC scrutiny]]></description>
-            <link>https://bdnews24.com/bangladesh/074c60c0a658</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/074c60c0a658</guid>
-            <pubDate>Tue, 03 Mar 2026 13:14:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024July/SM/high-court-supreme-court-1720703894-1721132090.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PM orders removal of congratulatory billboards across Dhaka]]></title>
-            <description><![CDATA[[Bangladesh] PM orders removal of congratulatory billboards across Dhaka]]></description>
-            <link>https://bdnews24.com/bangladesh/d894fb4fd4ad</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d894fb4fd4ad</guid>
-            <pubDate>Tue, 03 Mar 2026 13:13:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025December/SM/banner-festoon-tarique-rahman-231225-009-1766504815.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Night buses sell out as Eid ticket sales open]]></title>
-            <description><![CDATA[[Bangladesh] Night buses sell out as Eid ticket sales open]]></description>
-            <link>https://bdnews24.com/bangladesh/35d49ba1ca72</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/35d49ba1ca72</guid>
-            <pubDate>Tue, 03 Mar 2026 12:55:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/eid-bus-030326-00-1772518244.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump hosts Merz against backdrop of Iran strikes]]></title>
-            <description><![CDATA[[World] Trump hosts Merz against backdrop of Iran strikes]]></description>
-            <link>https://bdnews24.com/world/d5d02fb9b726</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/d5d02fb9b726</guid>
-            <pubDate>Tue, 03 Mar 2026 12:35:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/friedrich-merz-030326-01-1772519718.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Airline ticket prices soar on Asia-Europe routes]]></title>
-            <description><![CDATA[[Aviation] Airline ticket prices soar on Asia-Europe routes]]></description>
-            <link>https://bdnews24.com/aviation/b6d71b047eaa</link>
-            <guid isPermaLink="true">https://bdnews24.com/aviation/b6d71b047eaa</guid>
-            <pubDate>Tue, 03 Mar 2026 12:30:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/emirates-3326-1772519295.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Attack on Iran could buoy Trump in talks with Xi]]></title>
-            <description><![CDATA[[World] Attack on Iran could buoy Trump in talks with Xi]]></description>
-            <link>https://bdnews24.com/world/609dedf3a030</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/609dedf3a030</guid>
-            <pubDate>Tue, 03 Mar 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-xi-030326-01-1772517554.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
