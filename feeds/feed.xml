@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Mar 2026 15:37:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 16:32:52 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Mar 2026 15:37:05 GMT</pubDate>
+        <pubDate>Tue, 03 Mar 2026 16:32:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Drug-resistant ‘superbug’ found in Dhaka hospitals: icddr,b]]></title>
+            <description><![CDATA[[Health] Drug-resistant ‘superbug’ found in Dhaka hospitals: icddr,b]]></description>
+            <link>https://bdnews24.com/health/aa44a234167a</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/aa44a234167a</guid>
+            <pubDate>Tue, 03 Mar 2026 22:18:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/icu-super-bug-icddrb-research-030326-1772553879.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran UN envoy denies contact with US on talks]]></title>
+            <description><![CDATA[[World] Iran UN envoy denies contact with US on talks]]></description>
+            <link>https://bdnews24.com/world/a61f7c88e313</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/a61f7c88e313</guid>
+            <pubDate>Tue, 03 Mar 2026 22:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-teahran-030326-01-1772554198.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran war raises new risks for US economy]]></title>
+            <description><![CDATA[[World] Iran war raises new risks for US economy]]></description>
+            <link>https://bdnews24.com/world/ac4bbc56c3a0</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ac4bbc56c3a0</guid>
+            <pubDate>Tue, 03 Mar 2026 22:02:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/stock-market-050126-01-1770179135.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Apple updates MacBooks with M5 chips]]></title>
+            <description><![CDATA[[Technology] Apple updates MacBooks with M5 chips]]></description>
+            <link>https://bdnews24.com/technology/d6ba3b3c9ee8</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/d6ba3b3c9ee8</guid>
+            <pubDate>Tue, 03 Mar 2026 21:48:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/2023-10/44b13be4-7823-4afd-88a0-128f25655716/apple_logo_311023_01.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Health, arts education will be mandatory]]></title>
+            <description><![CDATA[[Education] Health, arts education will be mandatory]]></description>
+            <link>https://bdnews24.com/education/b775304c8b2a</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/b775304c8b2a</guid>
+            <pubDate>Tue, 03 Mar 2026 21:45:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-12/068a89e2-c965-4855-9788-fbe6aad4b5d9/moualvibazar_flowers_high_school_051223_05.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Reeves vows to keep UK economy steady]]></title>
             <description><![CDATA[[Middle East] Reeves vows to keep UK economy steady]]></description>
@@ -30,7 +70,7 @@
             <link>https://bdnews24.com/bangladesh/61682c03508c</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/61682c03508c</guid>
             <pubDate>Tue, 03 Mar 2026 20:59:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/import/bangla-media/2013/02/07/sitakunda-map.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/babu-sheikh-arrest-030326-1772550606.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[US stockpiles let it fight wars ‘forever’: Trump]]></title>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/e5d0530b9070</guid>
             <pubDate>Tue, 03 Mar 2026 19:12:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025June/SM/bushehr-plant-200625-01-1750358375.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[30,000 displaced in Lebanon shelters, more expected: UN]]></title>
-            <description><![CDATA[[World] 30,000 displaced in Lebanon shelters, more expected: UN]]></description>
-            <link>https://bdnews24.com/world/1eb48f020014</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/1eb48f020014</guid>
-            <pubDate>Tue, 03 Mar 2026 18:50:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/shelter-03032026-1772542163.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel war could push Iran, Arabs to seek nuclear weapons: Russia]]></title>
-            <description><![CDATA[[World] Israel war could push Iran, Arabs to seek nuclear weapons: Russia]]></description>
-            <link>https://bdnews24.com/world/0bab0bd5c8b3</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/0bab0bd5c8b3</guid>
-            <pubDate>Tue, 03 Mar 2026 18:43:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-3326-2-1772536548.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[JCD, Shibir hold counter-rallies after Dhaka Polytechnic clashes]]></title>
-            <description><![CDATA[[Campus] JCD, Shibir hold counter-rallies after Dhaka Polytechnic clashes]]></description>
-            <link>https://bdnews24.com/campus/f9c574939376</link>
-            <guid isPermaLink="true">https://bdnews24.com/campus/f9c574939376</guid>
-            <pubDate>Tue, 03 Mar 2026 17:59:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/chatrodol-shibir-protest-030326-01-1772535939.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Sad to see’ US-UK ties deteriorate over Iran strikes: Trump]]></title>
-            <description><![CDATA[[World] ‘Sad to see’ US-UK ties deteriorate over Iran strikes: Trump]]></description>
-            <link>https://bdnews24.com/world/43f317d63801</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/43f317d63801</guid>
-            <pubDate>Tue, 03 Mar 2026 17:47:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/starmer-trump-030326-01-1772513569.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UN urges investigation into 'horrific' attack on Iran school]]></title>
-            <description><![CDATA[[Middle East] UN urges investigation into 'horrific' attack on Iran school]]></description>
-            <link>https://bdnews24.com/world/middle-east/d56f92e991ac</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/d56f92e991ac</guid>
-            <pubDate>Tue, 03 Mar 2026 17:25:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/mike-waltz-030326-01-1772537091.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
