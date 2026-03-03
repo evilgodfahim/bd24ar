@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Mar 2026 19:31:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 20:20:56 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Mar 2026 19:31:20 GMT</pubDate>
+        <pubDate>Tue, 03 Mar 2026 20:20:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Germany helping with Iran strikes: Trump]]></title>
+            <description><![CDATA[[World] Germany helping with Iran strikes: Trump]]></description>
+            <link>https://bdnews24.com/world/09fbeaaefc17</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/09fbeaaefc17</guid>
+            <pubDate>Wed, 04 Mar 2026 01:53:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-merz-030326-01-1772567552.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Russian hawks fear Trump after Iran strike]]></title>
             <description><![CDATA[[World] Russian hawks fear Trump after Iran strike]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/16c7a9cb4dfc</guid>
             <pubDate>Tue, 03 Mar 2026 22:33:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/qatar-doha-030326-01-1772555534.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Drug-resistant ‘superbug’ found in Dhaka hospitals: icddr,b]]></title>
-            <description><![CDATA[[Health] Drug-resistant ‘superbug’ found in Dhaka hospitals: icddr,b]]></description>
-            <link>https://bdnews24.com/health/aa44a234167a</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/aa44a234167a</guid>
-            <pubDate>Tue, 03 Mar 2026 22:18:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/icu-super-bug-icddrb-research-030326-1772553879.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
