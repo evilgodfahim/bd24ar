@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Mar 2026 11:23:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 12:30:23 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Mar 2026 11:23:11 GMT</pubDate>
+        <pubDate>Tue, 03 Mar 2026 12:30:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[JCD, Shibir hold counter-rallies after Dhaka Polytechnic clashes]]></title>
+            <description><![CDATA[[Campus] JCD, Shibir hold counter-rallies after Dhaka Polytechnic clashes]]></description>
+            <link>https://bdnews24.com/campus/f9c574939376</link>
+            <guid isPermaLink="true">https://bdnews24.com/campus/f9c574939376</guid>
+            <pubDate>Tue, 03 Mar 2026 17:59:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/chatrodol-shibir-protest-030326-01-1772535939.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Sad to see’ US-UK ties deteriorate over Iran strikes: Trump]]></title>
+            <description><![CDATA[[World] ‘Sad to see’ US-UK ties deteriorate over Iran strikes: Trump]]></description>
+            <link>https://bdnews24.com/world/43f317d63801</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/43f317d63801</guid>
+            <pubDate>Tue, 03 Mar 2026 17:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/starmer-trump-030326-01-1772513569.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[UN urges investigation into 'horrific' attack on Iran school]]></title>
+            <description><![CDATA[[Middle East] UN urges investigation into 'horrific' attack on Iran school]]></description>
+            <link>https://bdnews24.com/world/middle-east/d56f92e991ac</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/d56f92e991ac</guid>
+            <pubDate>Tue, 03 Mar 2026 17:25:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/mike-waltz-030326-01-1772537091.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[No proof Iran was developing nuclear weapons: Russia]]></title>
             <description><![CDATA[[World] No proof Iran was developing nuclear weapons: Russia]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/609dedf3a030</guid>
             <pubDate>Tue, 03 Mar 2026 12:00:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-xi-030326-01-1772517554.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[CJA urges govt to free jailed journalists]]></title>
-            <description><![CDATA[[Bangladesh] CJA urges govt to free jailed journalists]]></description>
-            <link>https://bdnews24.com/bangladesh/3ee68adbe5e1</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3ee68adbe5e1</guid>
-            <pubDate>Tue, 03 Mar 2026 11:53:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024September/SM/shyamal-dutta-170924-01-1726562799.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 to die, 8 jailed for life over Munshiganj murder]]></title>
-            <description><![CDATA[[Bangladesh] 3 to die, 8 jailed for life over Munshiganj murder]]></description>
-            <link>https://bdnews24.com/bangladesh/1376e83bc329</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1376e83bc329</guid>
-            <pubDate>Tue, 03 Mar 2026 11:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/killing-case-030326-01-1772516282.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran war may take 'some time', but not years: Netanyahu]]></title>
-            <description><![CDATA[[Middle East] Iran war may take 'some time', but not years: Netanyahu]]></description>
-            <link>https://bdnews24.com/world/middle-east/18ce6d06efb1</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/18ce6d06efb1</guid>
-            <pubDate>Tue, 03 Mar 2026 11:25:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/tehran-strikes-030326-01-1772515379.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
