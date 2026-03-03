@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Mar 2026 04:03:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 05:40:25 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Mar 2026 04:03:20 GMT</pubDate>
+        <pubDate>Tue, 03 Mar 2026 05:40:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iran war may take 'some time', but not years: Netanyahu]]></title>
+            <description><![CDATA[[Middle East] Iran war may take 'some time', but not years: Netanyahu]]></description>
+            <link>https://bdnews24.com/world/middle-east/18ce6d06efb1</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/18ce6d06efb1</guid>
+            <pubDate>Tue, 03 Mar 2026 11:25:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/tehran-strikes-030326-01-1772515379.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK's Starmer defends actions over Iran]]></title>
+            <description><![CDATA[[World] UK's Starmer defends actions over Iran]]></description>
+            <link>https://bdnews24.com/world/1348d7be5083</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/1348d7be5083</guid>
+            <pubDate>Tue, 03 Mar 2026 10:54:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/starmer-trump-030326-01-1772513569.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Intelligence warns of Iranian attacks on US after Khamenei's death]]></title>
+            <description><![CDATA[[World] Intelligence warns of Iranian attacks on US after Khamenei's death]]></description>
+            <link>https://bdnews24.com/world/132358479dd4</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/132358479dd4</guid>
+            <pubDate>Tue, 03 Mar 2026 10:33:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/khamenei-billboard-030326-01-1772512383.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Dubai's safe-haven status is being put to the test]]></title>
+            <description><![CDATA[[World] How Dubai's safe-haven status is being put to the test]]></description>
+            <link>https://bdnews24.com/world/0b5cf461a4c4</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/0b5cf461a4c4</guid>
+            <pubDate>Tue, 03 Mar 2026 10:13:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/dubai-burj-khalifa-030326-01-1772511124.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[US Marines fired on protesters storming consulate in Karachi]]></title>
             <description><![CDATA[[World] US Marines fired on protesters storming consulate in Karachi]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/750774141b62</guid>
             <pubDate>Mon, 02 Mar 2026 22:47:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-reckless-starmer-02032026-01-1772469974.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prime minister’s Bogura visit cancelled]]></title>
-            <description><![CDATA[[Politics] Prime minister’s Bogura visit cancelled]]></description>
-            <link>https://bdnews24.com/politics/f52c72b8958d</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/f52c72b8958d</guid>
-            <pubDate>Mon, 02 Mar 2026 22:37:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026January/SM/bogura-tariq-rahman-300126-01-1769772132.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nahid questions interim advisor’s foreign ministry role]]></title>
-            <description><![CDATA[[Bangladesh] Nahid questions interim advisor’s foreign ministry role]]></description>
-            <link>https://bdnews24.com/bangladesh/3cada987cc63</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3cada987cc63</guid>
-            <pubDate>Mon, 02 Mar 2026 22:20:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/nahid-islam-chattogram-020326-01-1772465784.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Qatar LNG, Saudi refinery, Israeli fields down due to strikes]]></title>
-            <description><![CDATA[[Business] Qatar LNG, Saudi refinery, Israeli fields down due to strikes]]></description>
-            <link>https://bdnews24.com/business/51cf9a0f1474</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/51cf9a0f1474</guid>
-            <pubDate>Mon, 02 Mar 2026 22:12:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/qatar-saudi-lng-down-02032026-01-1772467870.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US diplomat Paul Kapur to visit Dhaka]]></title>
-            <description><![CDATA[[Bangladesh] US diplomat Paul Kapur to visit Dhaka]]></description>
-            <link>https://bdnews24.com/bangladesh/14cfbb149612</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/14cfbb149612</guid>
-            <pubDate>Mon, 02 Mar 2026 22:07:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025February/SM/paul-kapur-130225-01-1739446520.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
