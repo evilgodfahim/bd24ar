@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Mar 2026 18:32:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 19:31:20 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Mar 2026 18:32:07 GMT</pubDate>
+        <pubDate>Tue, 03 Mar 2026 19:31:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Russian hawks fear Trump after Iran strike]]></title>
+            <description><![CDATA[[World] Russian hawks fear Trump after Iran strike]]></description>
+            <link>https://bdnews24.com/world/49599f2d1cc1</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/49599f2d1cc1</guid>
+            <pubDate>Wed, 04 Mar 2026 01:02:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-3326-2-1772536548.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US will cut all trade with Spain: Trump]]></title>
+            <description><![CDATA[[World] US will cut all trade with Spain: Trump]]></description>
+            <link>https://bdnews24.com/world/ed668decc78f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ed668decc78f</guid>
+            <pubDate>Wed, 04 Mar 2026 00:55:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/trump-28226-1772249739.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM orders LNG spot market readiness]]></title>
+            <description><![CDATA[[Business] PM orders LNG spot market readiness]]></description>
+            <link>https://bdnews24.com/business/95acc85a5040</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/95acc85a5040</guid>
+            <pubDate>Wed, 04 Mar 2026 00:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/hormuz-iran-war-020326-1772481072.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[China urges Israel to end Iran strikes]]></title>
             <description><![CDATA[[World] China urges Israel to end Iran strikes]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/health/aa44a234167a</guid>
             <pubDate>Tue, 03 Mar 2026 22:18:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/icu-super-bug-icddrb-research-030326-1772553879.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran UN envoy denies contact with US on talks]]></title>
-            <description><![CDATA[[World] Iran UN envoy denies contact with US on talks]]></description>
-            <link>https://bdnews24.com/world/a61f7c88e313</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/a61f7c88e313</guid>
-            <pubDate>Tue, 03 Mar 2026 22:10:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-teahran-030326-01-1772554198.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran war raises new risks for US economy]]></title>
-            <description><![CDATA[[World] Iran war raises new risks for US economy]]></description>
-            <link>https://bdnews24.com/world/ac4bbc56c3a0</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ac4bbc56c3a0</guid>
-            <pubDate>Tue, 03 Mar 2026 22:02:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/stock-market-050126-01-1770179135.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Apple updates MacBooks with M5 chips]]></title>
-            <description><![CDATA[[Technology] Apple updates MacBooks with M5 chips]]></description>
-            <link>https://bdnews24.com/technology/d6ba3b3c9ee8</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/d6ba3b3c9ee8</guid>
-            <pubDate>Tue, 03 Mar 2026 21:48:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/2023-10/44b13be4-7823-4afd-88a0-128f25655716/apple_logo_311023_01.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
