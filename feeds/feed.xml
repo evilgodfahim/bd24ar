@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Mar 2026 07:34:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 08:26:52 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Mar 2026 07:34:39 GMT</pubDate>
+        <pubDate>Tue, 03 Mar 2026 08:26:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Yunus declared himself 'VVIP' days before polls]]></title>
+            <description><![CDATA[[Bangladesh] Yunus declared himself 'VVIP' days before polls]]></description>
+            <link>https://bdnews24.com/bangladesh/c26513f57cc4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c26513f57cc4</guid>
+            <pubDate>Tue, 03 Mar 2026 14:23:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/muhammad-yunus-030326-01-1772524624.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Why Iran’s move on the Strait of Hormuz matters]]></title>
             <description><![CDATA[[World] Why Iran’s move on the Strait of Hormuz matters]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/7fdeddbd2948</guid>
             <pubDate>Tue, 03 Mar 2026 01:39:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025February/SM/faruk-ahmed-200225-1740049447.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Barca must make ‘impossible possible’: Flick]]></title>
-            <description><![CDATA[[Sport] Barca must make ‘impossible possible’: Flick]]></description>
-            <link>https://bdnews24.com/sport/8b36777df898</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/8b36777df898</guid>
-            <pubDate>Tue, 03 Mar 2026 01:11:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/barca-laliga-230226-01-1771784673.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
