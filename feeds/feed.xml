@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Mar 2026 17:34:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 18:32:07 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Mar 2026 17:34:00 GMT</pubDate>
+        <pubDate>Tue, 03 Mar 2026 18:32:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[China urges Israel to end Iran strikes]]></title>
+            <description><![CDATA[[World] China urges Israel to end Iran strikes]]></description>
+            <link>https://bdnews24.com/world/591c71f534c6</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/591c71f534c6</guid>
+            <pubDate>Wed, 04 Mar 2026 00:23:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025August/SM/wang-yi-190825-01-1755609063.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russian oil exports crippled by strikes and weather, limiting gains]]></title>
+            <description><![CDATA[[Business] Russian oil exports crippled by strikes and weather, limiting gains]]></description>
+            <link>https://bdnews24.com/business/f17a88871f03</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/f17a88871f03</guid>
+            <pubDate>Wed, 04 Mar 2026 00:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/russian-oil-exports-crippled-03032026-01-1772561721.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Paul Kapur reaches Dhaka to ‘boost strategic ties’]]></title>
+            <description><![CDATA[[Bangladesh] Paul Kapur reaches Dhaka to ‘boost strategic ties’]]></description>
+            <link>https://bdnews24.com/bangladesh/4ca3e96326b5</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4ca3e96326b5</guid>
+            <pubDate>Wed, 04 Mar 2026 00:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/paul-kapur-dhaka-03032026-01-1772554961.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Colours of Dol blend with book fair festivities]]></title>
+            <description><![CDATA[[Bangladesh] Colours of Dol blend with book fair festivities]]></description>
+            <link>https://bdnews24.com/bangladesh/e00582adb14f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e00582adb14f</guid>
+            <pubDate>Tue, 03 Mar 2026 23:57:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/book-fair-holi-030326-01-1772554430.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Markram keeps unbeaten S Africa grounded before semi]]></title>
+            <description><![CDATA[[Cricket] Markram keeps unbeaten S Africa grounded before semi]]></description>
+            <link>https://bdnews24.com/cricket/c31e28919ed5</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/c31e28919ed5</guid>
+            <pubDate>Tue, 03 Mar 2026 23:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/markram-keep-sa-grounded-03032026-01-1772560160.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kevin Spacey faces UK sexual assault lawsuits]]></title>
+            <description><![CDATA[[World] Kevin Spacey faces UK sexual assault lawsuits]]></description>
+            <link>https://bdnews24.com/world/f43e1cd4a789</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/f43e1cd4a789</guid>
+            <pubDate>Tue, 03 Mar 2026 23:48:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/2023-07/6e331145-78e9-45f1-a607-b6152bc972a9/kavin_spacey_260723_02.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Each to their own: Guardiola]]></title>
+            <description><![CDATA[[Sport] Each to their own: Guardiola]]></description>
+            <link>https://bdnews24.com/sport/176730b831e5</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/176730b831e5</guid>
+            <pubDate>Tue, 03 Mar 2026 23:45:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/set-piece-debate-guardiola-03032026-01-1772559878.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Iran strikes on Gulf may widen war]]></title>
             <description><![CDATA[[World] Iran strikes on Gulf may widen war]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/technology/d6ba3b3c9ee8</guid>
             <pubDate>Tue, 03 Mar 2026 21:48:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/2023-10/44b13be4-7823-4afd-88a0-128f25655716/apple_logo_311023_01.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Health, arts education will be mandatory]]></title>
-            <description><![CDATA[[Education] Health, arts education will be mandatory]]></description>
-            <link>https://bdnews24.com/education/b775304c8b2a</link>
-            <guid isPermaLink="true">https://bdnews24.com/education/b775304c8b2a</guid>
-            <pubDate>Tue, 03 Mar 2026 21:45:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-12/068a89e2-c965-4855-9788-fbe6aad4b5d9/moualvibazar_flowers_high_school_051223_05.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Reeves vows to keep UK economy steady]]></title>
-            <description><![CDATA[[Middle East] Reeves vows to keep UK economy steady]]></description>
-            <link>https://bdnews24.com/world/middle-east/4b25773e3197</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/4b25773e3197</guid>
-            <pubDate>Tue, 03 Mar 2026 21:21:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2024October/SM/reeve-100524-01-1728118565.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vibrant moments in powdered hues of Dol festival]]></title>
-            <description><![CDATA[[Image] Vibrant moments in powdered hues of Dol festival]]></description>
-            <link>https://bdnews24.com/media-en/image/672096c5b9cb</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/672096c5b9cb</guid>
-            <pubDate>Tue, 03 Mar 2026 21:12:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/holi-dhakeshwari-temple-030326-067-1772537933.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man arrested over Sitakunda child murder]]></title>
-            <description><![CDATA[[Bangladesh] Man arrested over Sitakunda child murder]]></description>
-            <link>https://bdnews24.com/bangladesh/61682c03508c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/61682c03508c</guid>
-            <pubDate>Tue, 03 Mar 2026 20:59:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/babu-sheikh-arrest-030326-1772550606.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US stockpiles let it fight wars ‘forever’: Trump]]></title>
-            <description><![CDATA[[World] US stockpiles let it fight wars ‘forever’: Trump]]></description>
-            <link>https://bdnews24.com/world/dd00a81ff24f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/dd00a81ff24f</guid>
-            <pubDate>Tue, 03 Mar 2026 20:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-strike-policy-gamble-28022026-01-1772302048.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[March 3, 2026]]></title>
-            <description><![CDATA[[Image] March 3, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/6a4b8fd08c91</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/6a4b8fd08c91</guid>
-            <pubDate>Tue, 03 Mar 2026 20:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tarique-rahman-030326-003-1772536834.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[New law to stop cheating via digital devices: education minister]]></title>
-            <description><![CDATA[[Education] New law to stop cheating via digital devices: education minister]]></description>
-            <link>https://bdnews24.com/education/f5b63c67b1e9</link>
-            <guid isPermaLink="true">https://bdnews24.com/education/f5b63c67b1e9</guid>
-            <pubDate>Tue, 03 Mar 2026 20:22:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/ehsanul-haque-milon-030326-01-1772533693.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
