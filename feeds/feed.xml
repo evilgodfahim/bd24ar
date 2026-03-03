@@ -4,10 +4,82 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Mar 2026 16:32:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 17:34:00 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Mar 2026 16:32:52 GMT</pubDate>
+        <pubDate>Tue, 03 Mar 2026 17:34:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iran strikes on Gulf may widen war]]></title>
+            <description><![CDATA[[World] Iran strikes on Gulf may widen war]]></description>
+            <link>https://bdnews24.com/world/34cc228e86d8</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/34cc228e86d8</guid>
+            <pubDate>Tue, 03 Mar 2026 23:33:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/blast-manama-bahrain-010326-01-1772346098.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Santner wants 'perfect game' to halt S Africa]]></title>
+            <description><![CDATA[[Cricket] Santner wants 'perfect game' to halt S Africa]]></description>
+            <link>https://bdnews24.com/cricket/87ac5d60b964</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/87ac5d60b964</guid>
+            <pubDate>Tue, 03 Mar 2026 23:30:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/santner-perfect-game-s-africa-03032026-01-1772558953.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bengaluru to return to Chinnaswamy Stadium after safety improvements]]></title>
+            <description><![CDATA[[Cricket] Bengaluru to return to Chinnaswamy Stadium after safety improvements]]></description>
+            <link>https://bdnews24.com/cricket/4dc3a715f80f</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/4dc3a715f80f</guid>
+            <pubDate>Tue, 03 Mar 2026 23:22:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/bengaluru-return-stadium-03032026-01-1772558520.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[4 new secretaries appointed]]></title>
+            <description><![CDATA[[Bangladesh] 4 new secretaries appointed]]></description>
+            <link>https://bdnews24.com/bangladesh/668320c54b93</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/668320c54b93</guid>
+            <pubDate>Tue, 03 Mar 2026 23:19:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024August/SM/ansar-secretariate-250824-03-1724591596.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[39 stranded US-Bangla crew return from Dubai]]></title>
+            <description><![CDATA[[Bangladesh] 39 stranded US-Bangla crew return from Dubai]]></description>
+            <link>https://bdnews24.com/bangladesh/c232b0e36ca0</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c232b0e36ca0</guid>
+            <pubDate>Tue, 03 Mar 2026 23:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/us-bangla-dubai-030326-01-1772553065.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rodrygo out of WC with injury: Real Madrid]]></title>
+            <description><![CDATA[[Sport] Rodrygo out of WC with injury: Real Madrid]]></description>
+            <link>https://bdnews24.com/sport/0501032be1a6</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/0501032be1a6</guid>
+            <pubDate>Tue, 03 Mar 2026 22:54:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/rodrygo-injury-wc-out-03032026-01-1772556770.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Padma Bridge 15th loan installment due in March]]></title>
+            <description><![CDATA[[Bangladesh] Padma Bridge 15th loan installment due in March]]></description>
+            <link>https://bdnews24.com/bangladesh/f32bab58eabd</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f32bab58eabd</guid>
+            <pubDate>Tue, 03 Mar 2026 22:44:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/toll-plaza-traffic-jam-padma-bridge-260622-11-1772547436.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Middle East war could delay US arms to Ukraine: Poland]]></title>
+            <description><![CDATA[[World] Middle East war could delay US arms to Ukraine: Poland]]></description>
+            <link>https://bdnews24.com/world/808d78ecf151</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/808d78ecf151</guid>
+            <pubDate>Tue, 03 Mar 2026 22:39:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/kosiniak-kamysz-030326-01-1772555924.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US urges Americans to leave Middle East]]></title>
+            <description><![CDATA[[Middle East] US urges Americans to leave Middle East]]></description>
+            <link>https://bdnews24.com/world/middle-east/16c7a9cb4dfc</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/16c7a9cb4dfc</guid>
+            <pubDate>Tue, 03 Mar 2026 22:33:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/qatar-doha-030326-01-1772555534.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Drug-resistant ‘superbug’ found in Dhaka hospitals: icddr,b]]></title>
             <description><![CDATA[[Health] Drug-resistant ‘superbug’ found in Dhaka hospitals: icddr,b]]></description>
@@ -95,78 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/education/f5b63c67b1e9</guid>
             <pubDate>Tue, 03 Mar 2026 20:22:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/ehsanul-haque-milon-030326-01-1772533693.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump told me of ‘some great times’ with Epstein: Clinton]]></title>
-            <description><![CDATA[[World] Trump told me of ‘some great times’ with Epstein: Clinton]]></description>
-            <link>https://bdnews24.com/world/8a42e1dff1fa</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/8a42e1dff1fa</guid>
-            <pubDate>Tue, 03 Mar 2026 20:11:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025December/SM/trump-epstein-photos-13122025-01-1765595226.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Qatar extends all entry visas for a month]]></title>
-            <description><![CDATA[[Bangladesh] Qatar extends all entry visas for a month]]></description>
-            <link>https://bdnews24.com/bangladesh/a9a6febb34fa</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a9a6febb34fa</guid>
-            <pubDate>Tue, 03 Mar 2026 20:10:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/qatar-attack-iran-030326-1772547254.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yunus broke no rules: Shafiqul]]></title>
-            <description><![CDATA[[Bangladesh] Yunus broke no rules: Shafiqul]]></description>
-            <link>https://bdnews24.com/bangladesh/31ef61266c0b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/31ef61266c0b</guid>
-            <pubDate>Tue, 03 Mar 2026 20:00:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/muhammad-yunus-030326-012-1772545580.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saudi Aramco eyes crude reroute from Strait of Hormuz]]></title>
-            <description><![CDATA[[Business] Saudi Aramco eyes crude reroute from Strait of Hormuz]]></description>
-            <link>https://bdnews24.com/business/e7296c87a619</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/e7296c87a619</guid>
-            <pubDate>Tue, 03 Mar 2026 19:54:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/saudi-aramco-030326-01-1772546067.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4th day of Iran war: smoke and blood engulf cities]]></title>
-            <description><![CDATA[[Middle East] 4th day of Iran war: smoke and blood engulf cities]]></description>
-            <link>https://bdnews24.com/world/middle-east/17a6d8ce1403</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/17a6d8ce1403</guid>
-            <pubDate>Tue, 03 Mar 2026 19:49:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/tehran-strikes-030326-01-1772515379.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gulf tensions 'great anxiety': India]]></title>
-            <description><![CDATA[[World] Gulf tensions 'great anxiety': India]]></description>
-            <link>https://bdnews24.com/world/7381e3824ec1</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/7381e3824ec1</guid>
-            <pubDate>Tue, 03 Mar 2026 19:30:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/gulf-firms-reel-01032026-01-1772385206.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Biman puts off 6 Middle East routes]]></title>
-            <description><![CDATA[[Bangladesh] Biman puts off 6 Middle East routes]]></description>
-            <link>https://bdnews24.com/bangladesh/d7bf4c65ce91</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d7bf4c65ce91</guid>
-            <pubDate>Tue, 03 Mar 2026 19:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/passenger-suffering-hazrat-shahjalal-international-airport-010326-047-1772375148.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[World Cup ticket rush amid turmoil]]></title>
-            <description><![CDATA[[Sport] World Cup ticket rush amid turmoil]]></description>
-            <link>https://bdnews24.com/sport/bb147569dba7</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/bb147569dba7</guid>
-            <pubDate>Tue, 03 Mar 2026 19:16:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/world-cup-030326-01-1772543756.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Russia raises concern over Iran’s Bushehr plant safety]]></title>
-            <description><![CDATA[[Middle East] Russia raises concern over Iran’s Bushehr plant safety]]></description>
-            <link>https://bdnews24.com/world/middle-east/e5d0530b9070</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/e5d0530b9070</guid>
-            <pubDate>Tue, 03 Mar 2026 19:12:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025June/SM/bushehr-plant-200625-01-1750358375.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
