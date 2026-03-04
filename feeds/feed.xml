@@ -4,10 +4,82 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Mar 2026 12:29:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Mar 2026 13:47:47 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 04 Mar 2026 12:29:04 GMT</pubDate>
+        <pubDate>Wed, 04 Mar 2026 13:47:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Man confesses to killing girl in Sitakunda]]></title>
+            <description><![CDATA[[Bangladesh] Man confesses to killing girl in Sitakunda]]></description>
+            <link>https://bdnews24.com/bangladesh/3b2c481978f3</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3b2c481978f3</guid>
+            <pubDate>Wed, 04 Mar 2026 19:44:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/babu-sheikh-arrest-030326-1772550606.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BNP, Jamaat ‘consented’ to US trade deal: Khalilur]]></title>
+            <description><![CDATA[[Bangladesh] BNP, Jamaat ‘consented’ to US trade deal: Khalilur]]></description>
+            <link>https://bdnews24.com/bangladesh/dfa13ac5477f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/dfa13ac5477f</guid>
+            <pubDate>Wed, 04 Mar 2026 19:32:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/paul-kapur-khalilur-040326-01-1772606284.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel economy faces $3bn weekly hit from Iran war]]></title>
+            <description><![CDATA[[World] Israel economy faces $3bn weekly hit from Iran war]]></description>
+            <link>https://bdnews24.com/world/ac4a75125208</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ac4a75125208</guid>
+            <pubDate>Wed, 04 Mar 2026 19:30:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/2023-10/653e85c8-3ce8-47ba-aedd-543513fb7dc5/israel_bank_091023_01.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Spain defies Trump over Iran war stance]]></title>
+            <description><![CDATA[[World] Spain defies Trump over Iran war stance]]></description>
+            <link>https://bdnews24.com/world/672e74929ddc</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/672e74929ddc</guid>
+            <pubDate>Wed, 04 Mar 2026 19:18:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-pedro-040326-01-1772613032.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[46 flights cancelled at Ctg airport in 5 days]]></title>
+            <description><![CDATA[[Bangladesh] 46 flights cancelled at Ctg airport in 5 days]]></description>
+            <link>https://bdnews24.com/bangladesh/fd17428ca374</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/fd17428ca374</guid>
+            <pubDate>Wed, 04 Mar 2026 19:11:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/shah-amanat-airport-1772624840.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hezbollah’s Iran war move deepens isolation in Lebanon]]></title>
+            <description><![CDATA[[World] Hezbollah’s Iran war move deepens isolation in Lebanon]]></description>
+            <link>https://bdnews24.com/world/b567ddb48181</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/b567ddb48181</guid>
+            <pubDate>Wed, 04 Mar 2026 18:59:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-war-020326-01-1772426102.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euro zone bonds steady as Iran war impact assessed]]></title>
+            <description><![CDATA[[World] Euro zone bonds steady as Iran war impact assessed]]></description>
+            <link>https://bdnews24.com/world/2a3a57ee3c86</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/2a3a57ee3c86</guid>
+            <pubDate>Wed, 04 Mar 2026 18:56:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/dollar-banknote-us-iran-flags-040326-01-1772601246.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Female teacher stabbed to death at Islamic University]]></title>
+            <description><![CDATA[[Campus] Female teacher stabbed to death at Islamic University]]></description>
+            <link>https://bdnews24.com/campus/579809de7d24</link>
+            <guid isPermaLink="true">https://bdnews24.com/campus/579809de7d24</guid>
+            <pubDate>Wed, 04 Mar 2026 18:40:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/islami-university-040326-01-1772626129.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US Congress votes on Iran war powers]]></title>
+            <description><![CDATA[[World] US Congress votes on Iran war powers]]></description>
+            <link>https://bdnews24.com/world/53d13510bc22</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/53d13510bc22</guid>
+            <pubDate>Wed, 04 Mar 2026 18:36:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/2024-04/69a94128-f111-4619-855c-960a070b5990/us_capitol_building_200424_01.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Adidas store in Israel hit by bomb: CCO]]></title>
             <description><![CDATA[[World] Adidas store in Israel hit by bomb: CCO]]></description>
@@ -30,7 +102,7 @@
             <link>https://bdnews24.com/bangladesh/7001f240dddf</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/7001f240dddf</guid>
             <pubDate>Wed, 04 Mar 2026 17:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/import/media/2021/12/15/nagar-bhaban-victory-day-beautification-151221-02.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/iqbal-hasan-mahmud-at-ministry-meetibg-040326-1772627557.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[PM Tarique orders authorities to issue ‘e-health’ card]]></title>
@@ -95,78 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/a01c281f28b2</guid>
             <pubDate>Wed, 04 Mar 2026 14:31:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-pedro-040326-01-1772613032.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Remove non-tariff barriers to boost investment: US to Bangladesh]]></title>
-            <description><![CDATA[[Economy] Remove non-tariff barriers to boost investment: US to Bangladesh]]></description>
-            <link>https://bdnews24.com/economy/96c8d018c899</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/96c8d018c899</guid>
-            <pubDate>Wed, 04 Mar 2026 14:29:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/paul-kapur-muktadir-040326-01-1772610842.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Verdict deferred in Rampura crimes against humanity case]]></title>
-            <description><![CDATA[[Bangladesh] Verdict deferred in Rampura crimes against humanity case]]></description>
-            <link>https://bdnews24.com/bangladesh/464cf617713b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/464cf617713b</guid>
-            <pubDate>Wed, 04 Mar 2026 14:16:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025December/SM/international-crimes-tribunal-111125-002-1765101831.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bahrain prince visits Bangladeshis injured in Iran attacks]]></title>
-            <description><![CDATA[[Middle East] Bahrain prince visits Bangladeshis injured in Iran attacks]]></description>
-            <link>https://bdnews24.com/world/middle-east/64179b548413</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/64179b548413</guid>
-            <pubDate>Wed, 04 Mar 2026 13:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bahrain-hospital-040326-01-1772607379.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[173 flights cancelled at Dhaka airport in five days]]></title>
-            <description><![CDATA[[Aviation] 173 flights cancelled at Dhaka airport in five days]]></description>
-            <link>https://bdnews24.com/aviation/22dc48c74e17</link>
-            <guid isPermaLink="true">https://bdnews24.com/aviation/22dc48c74e17</guid>
-            <pubDate>Wed, 04 Mar 2026 13:45:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/passenger-suffering-hazrat-shahjalal-international-airport-010326-022-1772375148.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tehran to host farewell for Khamenei]]></title>
-            <description><![CDATA[[Middle East] Tehran to host farewell for Khamenei]]></description>
-            <link>https://bdnews24.com/world/middle-east/35bfc39f5b01</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/35bfc39f5b01</guid>
-            <pubDate>Wed, 04 Mar 2026 13:30:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/khamenei-4326-1772609356.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[S Africa's Lekota, who led breakaway from ANC, dies]]></title>
-            <description><![CDATA[[People] S Africa's Lekota, who led breakaway from ANC, dies]]></description>
-            <link>https://bdnews24.com/people/a0c19ccb826f</link>
-            <guid isPermaLink="true">https://bdnews24.com/people/a0c19ccb826f</guid>
-            <pubDate>Wed, 04 Mar 2026 13:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/mosiuoa-lekota-safrica-040326-01-1772609297.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US envoy Paul Kapur meets foreign minister]]></title>
-            <description><![CDATA[[Bangladesh] US envoy Paul Kapur meets foreign minister]]></description>
-            <link>https://bdnews24.com/bangladesh/9dc1bf649bf6</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9dc1bf649bf6</guid>
-            <pubDate>Wed, 04 Mar 2026 13:12:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/paul-kapur-khalilur-040326-01-1772606284.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu’s alliance with Trump tested as Iran war widens]]></title>
-            <description><![CDATA[[World] Netanyahu’s alliance with Trump tested as Iran war widens]]></description>
-            <link>https://bdnews24.com/world/ee226daa9db3</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ee226daa9db3</guid>
-            <pubDate>Wed, 04 Mar 2026 12:58:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025September/SM/trump-netanyahu-301025-01-1759203550.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA['I really don't care' if Iran plays in WC: Trump]]></title>
-            <description><![CDATA[[World] 'I really don't care' if Iran plays in WC: Trump]]></description>
-            <link>https://bdnews24.com/world/6fb081032eb3</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/6fb081032eb3</guid>
-            <pubDate>Wed, 04 Mar 2026 12:43:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-4326-1772606515.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
