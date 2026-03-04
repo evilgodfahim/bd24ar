@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Mar 2026 06:32:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Mar 2026 07:30:30 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 04 Mar 2026 06:32:17 GMT</pubDate>
+        <pubDate>Wed, 04 Mar 2026 07:30:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[S Africa's Lekota, who led breakaway from ANC, dies]]></title>
+            <description><![CDATA[[People] S Africa's Lekota, who led breakaway from ANC, dies]]></description>
+            <link>https://bdnews24.com/people/a0c19ccb826f</link>
+            <guid isPermaLink="true">https://bdnews24.com/people/a0c19ccb826f</guid>
+            <pubDate>Wed, 04 Mar 2026 13:28:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/mosiuoa-lekota-safrica-040326-01-1772609297.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US envoy Paul Kapur meets foreign minister]]></title>
+            <description><![CDATA[[Bangladesh] US envoy Paul Kapur meets foreign minister]]></description>
+            <link>https://bdnews24.com/bangladesh/9dc1bf649bf6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9dc1bf649bf6</guid>
+            <pubDate>Wed, 04 Mar 2026 13:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/paul-kapur-khalilur-040326-01-1772606284.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu’s alliance with Trump tested as Iran war widens]]></title>
+            <description><![CDATA[[World] Netanyahu’s alliance with Trump tested as Iran war widens]]></description>
+            <link>https://bdnews24.com/world/ee226daa9db3</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ee226daa9db3</guid>
+            <pubDate>Wed, 04 Mar 2026 12:58:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025September/SM/trump-netanyahu-301025-01-1759203550.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA['I really don't care' if Iran plays in WC: Trump]]></title>
+            <description><![CDATA[[World] 'I really don't care' if Iran plays in WC: Trump]]></description>
+            <link>https://bdnews24.com/world/6fb081032eb3</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/6fb081032eb3</guid>
+            <pubDate>Wed, 04 Mar 2026 12:43:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-4326-1772606515.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI looking at contract with NATO]]></title>
+            <description><![CDATA[[Technology] OpenAI looking at contract with NATO]]></description>
+            <link>https://bdnews24.com/technology/83227ccaaa50</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/83227ccaaa50</guid>
+            <pubDate>Wed, 04 Mar 2026 12:36:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/openai-logo-011026-01-1772339823.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[US raises visa, green card processing fee]]></title>
             <description><![CDATA[[Americas] US raises visa, green card processing fee]]></description>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/0f02b37ad349</guid>
             <pubDate>Wed, 04 Mar 2026 09:15:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/donald-trump-040326-01-1772594096.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pentagon names first US soldiers killed in Iran war]]></title>
-            <description><![CDATA[[Americas] Pentagon names first US soldiers killed in Iran war]]></description>
-            <link>https://bdnews24.com/world/americas/a2620b2b21e3</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/a2620b2b21e3</guid>
-            <pubDate>Wed, 04 Mar 2026 09:12:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-soldiers-killed-iran-040326-01-1772593935.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Germany helping with Iran strikes: Trump]]></title>
-            <description><![CDATA[[World] Germany helping with Iran strikes: Trump]]></description>
-            <link>https://bdnews24.com/world/09fbeaaefc17</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/09fbeaaefc17</guid>
-            <pubDate>Wed, 04 Mar 2026 01:53:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-merz-030326-01-1772567552.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Russian hawks fear Trump after Iran strike]]></title>
-            <description><![CDATA[[World] Russian hawks fear Trump after Iran strike]]></description>
-            <link>https://bdnews24.com/world/49599f2d1cc1</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/49599f2d1cc1</guid>
-            <pubDate>Wed, 04 Mar 2026 01:02:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-3326-2-1772536548.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US will cut all trade with Spain: Trump]]></title>
-            <description><![CDATA[[World] US will cut all trade with Spain: Trump]]></description>
-            <link>https://bdnews24.com/world/ed668decc78f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ed668decc78f</guid>
-            <pubDate>Wed, 04 Mar 2026 00:55:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/trump-28226-1772249739.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PM orders LNG spot market readiness]]></title>
-            <description><![CDATA[[Business] PM orders LNG spot market readiness]]></description>
-            <link>https://bdnews24.com/business/95acc85a5040</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/95acc85a5040</guid>
-            <pubDate>Wed, 04 Mar 2026 00:50:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/hormuz-iran-war-020326-1772481072.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
