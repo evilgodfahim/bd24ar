@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Mar 2026 04:01:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 05:40:05 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Mar 2026 04:01:01 GMT</pubDate>
+        <pubDate>Thu, 05 Mar 2026 05:40:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US charter flight repatriating Americans from Middle East]]></title>
+            <description><![CDATA[[Americas] US charter flight repatriating Americans from Middle East]]></description>
+            <link>https://bdnews24.com/world/americas/562858f6c5a6</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/562858f6c5a6</guid>
+            <pubDate>Thu, 05 Mar 2026 11:30:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/us-state-dept-240226-01-1771903392.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[2 die in Jamalpur road accident]]></title>
+            <description><![CDATA[[Bangladesh] 2 die in Jamalpur road accident]]></description>
+            <link>https://bdnews24.com/bangladesh/bbaa36828d5a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/bbaa36828d5a</guid>
+            <pubDate>Thu, 05 Mar 2026 11:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jamalpur-acc-050326-01-1772683520.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[China to build 'birth-friendly society']]></title>
+            <description><![CDATA[[Asia Pacific] China to build 'birth-friendly society']]></description>
+            <link>https://bdnews24.com/world/asia-pacific/88447baf95b2</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/88447baf95b2</guid>
+            <pubDate>Thu, 05 Mar 2026 10:17:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/2024-03/5d8aa598-34a8-412a-98c6-1004b998c8eb/china_wedding_260324_01.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Asian shares surge, led by KOSPI]]></title>
+            <description><![CDATA[[Economy] Asian shares surge, led by KOSPI]]></description>
+            <link>https://bdnews24.com/economy/e3ed25d16ecd</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/e3ed25d16ecd</guid>
+            <pubDate>Thu, 05 Mar 2026 10:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/korea-curency-dealers-050326-01-1772683677.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arsenal seize control as Man City slip]]></title>
+            <description><![CDATA[[Sport] Arsenal seize control as Man City slip]]></description>
+            <link>https://bdnews24.com/sport/7868381204e3</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/7868381204e3</guid>
+            <pubDate>Thu, 05 Mar 2026 10:02:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/epl-arsenal-manchester-city-050326-01-1772683285.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[10-man Newcastle end Man Utd’s unbeaten run]]></title>
             <description><![CDATA[[Sport] 10-man Newcastle end Man Utd’s unbeaten run]]></description>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/4039ded08b25</guid>
             <pubDate>Thu, 05 Mar 2026 01:18:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026January/SM/pentagon-us-240126-02-1769262985.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Licences of 10 doctors suspended over 'negligence']]></title>
-            <description><![CDATA[[Bangladesh] Licences of 10 doctors suspended over 'negligence']]></description>
-            <link>https://bdnews24.com/bangladesh/afdc83bb6c4b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/afdc83bb6c4b</guid>
-            <pubDate>Thu, 05 Mar 2026 00:54:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bmdc-building-220623-01-1772645991.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sramik Dal leader shot dead in Khulna]]></title>
-            <description><![CDATA[[Bangladesh] Sramik Dal leader shot dead in Khulna]]></description>
-            <link>https://bdnews24.com/bangladesh/b2f62101f6eb</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b2f62101f6eb</guid>
-            <pubDate>Thu, 05 Mar 2026 00:46:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/khulna-masum-040326-01-1772648395.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US banks on alert for cyber threats as Iran war escalates]]></title>
-            <description><![CDATA[[World] US banks on alert for cyber threats as Iran war escalates]]></description>
-            <link>https://bdnews24.com/world/acd01fce8f24</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/acd01fce8f24</guid>
-            <pubDate>Thu, 05 Mar 2026 00:44:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2024July/SM/fed-reserve-building-180724-01-1721272304.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran envoy seeks sympathy, not ‘logistics’]]></title>
-            <description><![CDATA[[Bangladesh] Iran envoy seeks sympathy, not ‘logistics’]]></description>
-            <link>https://bdnews24.com/bangladesh/413d65071f35</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/413d65071f35</guid>
-            <pubDate>Thu, 05 Mar 2026 00:22:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/iran-ambassador-briefing-040326-02-1772642302.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Russian LNG tanker sinks, Moscow blames Ukraine]]></title>
-            <description><![CDATA[[World] Russian LNG tanker sinks, Moscow blames Ukraine]]></description>
-            <link>https://bdnews24.com/world/a4e07c2cfe8e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/a4e07c2cfe8e</guid>
-            <pubDate>Wed, 04 Mar 2026 23:55:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/oil-gas-prices-iran-040326-01-1772595200.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
