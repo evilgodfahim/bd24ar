@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Mar 2026 07:34:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 08:27:01 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Mar 2026 07:34:28 GMT</pubDate>
+        <pubDate>Thu, 05 Mar 2026 08:27:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[BNP delegation meets US envoy Kapur]]></title>
+            <description><![CDATA[[Bangladesh] BNP delegation meets US envoy Kapur]]></description>
+            <link>https://bdnews24.com/bangladesh/50272acb7fb2</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/50272acb7fb2</guid>
+            <pubDate>Thu, 05 Mar 2026 14:19:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/abdul-moyeen-khan-050326-1772696471.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US-Bangla flight returns 378 passengers stranded in Dubai]]></title>
+            <description><![CDATA[[Aviation] US-Bangla flight returns 378 passengers stranded in Dubai]]></description>
+            <link>https://bdnews24.com/aviation/f771362655b0</link>
+            <guid isPermaLink="true">https://bdnews24.com/aviation/f771362655b0</guid>
+            <pubDate>Thu, 05 Mar 2026 14:15:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-bangla-crew-5326-01-1772698501.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘We’re gambling with our lives…’]]></title>
+            <description><![CDATA[[Bangladesh] ‘We’re gambling with our lives…’]]></description>
+            <link>https://bdnews24.com/bangladesh/991e5d1f6528</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/991e5d1f6528</guid>
+            <pubDate>Thu, 05 Mar 2026 13:43:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/banglar-joyjatra-050326-01-1772697511.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[PM Tarique reduces light, AC use at office]]></title>
             <description><![CDATA[[Bangladesh] PM Tarique reduces light, AC use at office]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/americas/6efb7356c610</guid>
             <pubDate>Thu, 05 Mar 2026 09:16:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-strike-5326-1772680485.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nepal's long history of political instability]]></title>
-            <description><![CDATA[[Asia Pacific] Nepal's long history of political instability]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/b4cc146e380b</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/b4cc146e380b</guid>
-            <pubDate>Thu, 05 Mar 2026 09:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/nepal-5336-1772679750.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nepal goes to the polls]]></title>
-            <description><![CDATA[[Asia Pacific] Nepal goes to the polls]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/fd9d3355fa62</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/fd9d3355fa62</guid>
-            <pubDate>Thu, 05 Mar 2026 08:58:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/nepal-vote-5326-1772679463.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[England have belief, skills to take down India: Brook]]></title>
-            <description><![CDATA[[Cricket] England have belief, skills to take down India: Brook]]></description>
-            <link>https://bdnews24.com/cricket/9da71e49c285</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/9da71e49c285</guid>
-            <pubDate>Thu, 05 Mar 2026 02:42:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/captain-brook-050326-01-1772656865.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
