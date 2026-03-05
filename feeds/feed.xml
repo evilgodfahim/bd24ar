@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Mar 2026 08:27:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 09:31:06 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Mar 2026 08:27:01 GMT</pubDate>
+        <pubDate>Thu, 05 Mar 2026 09:31:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Sony-Smart showroom now in Bogura]]></title>
+            <description><![CDATA[[Business] Sony-Smart showroom now in Bogura]]></description>
+            <link>https://bdnews24.com/business/e16c2781ec66</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/e16c2781ec66</guid>
+            <pubDate>Thu, 05 Mar 2026 14:44:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/sony-smart-bogura-05032026-01-1772700231.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[BNP delegation meets US envoy Kapur]]></title>
             <description><![CDATA[[Bangladesh] BNP delegation meets US envoy Kapur]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/economy/773b409fe1e3</guid>
             <pubDate>Thu, 05 Mar 2026 09:27:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025August/SM/man-china-280826-01-1756386731.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Senate backs Trump on Iran strikes]]></title>
-            <description><![CDATA[[Americas] US Senate backs Trump on Iran strikes]]></description>
-            <link>https://bdnews24.com/world/americas/6efb7356c610</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/6efb7356c610</guid>
-            <pubDate>Thu, 05 Mar 2026 09:16:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-strike-5326-1772680485.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
