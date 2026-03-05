@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Mar 2026 20:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 21:22:54 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Mar 2026 20:26:24 GMT</pubDate>
+        <pubDate>Thu, 05 Mar 2026 21:22:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Samson hails hard work after India reach T20 final]]></title>
+            <description><![CDATA[[Cricket] Samson hails hard work after India reach T20 final]]></description>
+            <link>https://bdnews24.com/cricket/be971d0f542c</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/be971d0f542c</guid>
+            <pubDate>Fri, 06 Mar 2026 03:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/sanju-samson-060326-01-1772744878.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Wrexham look to past glories to topple Chelsea]]></title>
             <description><![CDATA[[Sport] Wrexham look to past glories to topple Chelsea]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/c409fe6df506</guid>
             <pubDate>Thu, 05 Mar 2026 22:38:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2024-02/25eee4d3-087e-4e6d-a05a-e1a881790d2b/bangladesh_bank_120224_01.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US opposes IAEA resolution condemning Ukraine grid attack]]></title>
-            <description><![CDATA[[World] US opposes IAEA resolution condemning Ukraine grid attack]]></description>
-            <link>https://bdnews24.com/world/9e7f00cf5411</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/9e7f00cf5411</guid>
-            <pubDate>Thu, 05 Mar 2026 22:27:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/2022-09/57241013-77cc-4aa9-a7ba-628f2add65c8/iaea_logo_080922_01.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
