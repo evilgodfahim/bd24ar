@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Mar 2026 05:40:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 06:35:31 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Mar 2026 05:40:05 GMT</pubDate>
+        <pubDate>Thu, 05 Mar 2026 06:35:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Man killed in Narayanganj power struggle]]></title>
+            <description><![CDATA[[Bangladesh] Man killed in Narayanganj power struggle]]></description>
+            <link>https://bdnews24.com/bangladesh/f571d4a836ad</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f571d4a836ad</guid>
+            <pubDate>Thu, 05 Mar 2026 12:33:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/narayangonjo-murder-050226-01-1772688769.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[50 flights cancelled in Ctg over 6 days]]></title>
+            <description><![CDATA[[Aviation] 50 flights cancelled in Ctg over 6 days]]></description>
+            <link>https://bdnews24.com/aviation/df75e36af492</link>
+            <guid isPermaLink="true">https://bdnews24.com/aviation/df75e36af492</guid>
+            <pubDate>Thu, 05 Mar 2026 12:31:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/shah-amanat-airport-1772624840.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Abu Sayed murder: Verdict in crimes against humanity case Apr 9]]></title>
+            <description><![CDATA[[Bangladesh] Abu Sayed murder: Verdict in crimes against humanity case Apr 9]]></description>
+            <link>https://bdnews24.com/bangladesh/44ba2dc0cb1b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/44ba2dc0cb1b</guid>
+            <pubDate>Thu, 05 Mar 2026 12:01:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024July/SM/rangpure-sayeed-170724-1-1721213428.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[US charter flight repatriating Americans from Middle East]]></title>
             <description><![CDATA[[Americas] US charter flight repatriating Americans from Middle East]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/cricket/505dd4f3ece1</guid>
             <pubDate>Thu, 05 Mar 2026 02:19:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/babar-azam-050326-01-1772655480.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Liverpool set for Wrexham friendly]]></title>
-            <description><![CDATA[[Sport] Liverpool set for Wrexham friendly]]></description>
-            <link>https://bdnews24.com/sport/6684b433e959</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/6684b433e959</guid>
-            <pubDate>Thu, 05 Mar 2026 01:38:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/liverpool-050326-01-1772653020.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Expatriates caught in Gulf war’s grip]]></title>
-            <description><![CDATA[[Bangladesh] Expatriates caught in Gulf war’s grip]]></description>
-            <link>https://bdnews24.com/bangladesh/925d7d76062d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/925d7d76062d</guid>
-            <pubDate>Thu, 05 Mar 2026 01:23:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/passenger-suffering-hazrat-shahjalal-international-airport-280226-005-1772292547.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pentagon sought 13 critical minerals before Iran strikes]]></title>
-            <description><![CDATA[[World] Pentagon sought 13 critical minerals before Iran strikes]]></description>
-            <link>https://bdnews24.com/world/4039ded08b25</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/4039ded08b25</guid>
-            <pubDate>Thu, 05 Mar 2026 01:18:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026January/SM/pentagon-us-240126-02-1769262985.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
