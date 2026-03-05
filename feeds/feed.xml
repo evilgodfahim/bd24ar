@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Mar 2026 10:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 11:25:02 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Mar 2026 10:27:33 GMT</pubDate>
+        <pubDate>Thu, 05 Mar 2026 11:25:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[PM orders language training to boost overseas employment]]></title>
+            <description><![CDATA[[Bangladesh] PM orders language training to boost overseas employment]]></description>
+            <link>https://bdnews24.com/bangladesh/c41f3d79dbe2</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c41f3d79dbe2</guid>
+            <pubDate>Thu, 05 Mar 2026 17:22:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/pm-tarequ-rahman-050326-01-1772709739.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Khaleda Zia among 20 recipients of Independence Award]]></title>
+            <description><![CDATA[[Bangladesh] Khaleda Zia among 20 recipients of Independence Award]]></description>
+            <link>https://bdnews24.com/bangladesh/281bf6aede4e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/281bf6aede4e</guid>
+            <pubDate>Thu, 05 Mar 2026 17:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025December/SM/khaleda-zia-291125-401-1767064535.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sri Lanka says trying to safeguard lives on second Iranian ship]]></title>
+            <description><![CDATA[[World] Sri Lanka says trying to safeguard lives on second Iranian ship]]></description>
+            <link>https://bdnews24.com/world/89da452ee4a4</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/89da452ee4a4</guid>
+            <pubDate>Thu, 05 Mar 2026 16:31:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/injured-iranian-sailors-050326-01-1772706568.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Journalist Anis Alamgir granted bail in one case]]></title>
             <description><![CDATA[[Bangladesh] Journalist Anis Alamgir granted bail in one case]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/7868381204e3</guid>
             <pubDate>Thu, 05 Mar 2026 10:02:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/epl-arsenal-manchester-city-050326-01-1772683285.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[10-man Newcastle end Man Utd’s unbeaten run]]></title>
-            <description><![CDATA[[Sport] 10-man Newcastle end Man Utd’s unbeaten run]]></description>
-            <link>https://bdnews24.com/sport/8cafa58de6e1</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/8cafa58de6e1</guid>
-            <pubDate>Thu, 05 Mar 2026 10:00:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/epl-newcastle-manchester-united-050326-01-1772683130.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Judge orders US Customs to process Trump tariff refunds]]></title>
-            <description><![CDATA[[Americas] Judge orders US Customs to process Trump tariff refunds]]></description>
-            <link>https://bdnews24.com/world/americas/04c147d3326c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/04c147d3326c</guid>
-            <pubDate>Thu, 05 Mar 2026 09:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-tariffs-refunds-050326-01-1772682970.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pentagon identifies two soldiers killed in Iran war]]></title>
-            <description><![CDATA[[Americas] Pentagon identifies two soldiers killed in Iran war]]></description>
-            <link>https://bdnews24.com/world/americas/8a354ef8123f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/8a354ef8123f</guid>
-            <pubDate>Thu, 05 Mar 2026 09:52:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/major-jeffrey-obrien-050326-01-1772682735.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
