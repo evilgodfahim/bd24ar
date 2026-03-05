@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Mar 2026 11:25:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 12:32:12 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Mar 2026 11:25:02 GMT</pubDate>
+        <pubDate>Thu, 05 Mar 2026 12:32:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Panic buying hits Dhaka fuel stations amid Middle East war fears]]></title>
+            <description><![CDATA[[Bangladesh] Panic buying hits Dhaka fuel stations amid Middle East war fears]]></description>
+            <link>https://bdnews24.com/bangladesh/86bf2010bedf</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/86bf2010bedf</guid>
+            <pubDate>Thu, 05 Mar 2026 18:21:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/petrol-pump-dhaka-050326-03-1772713293.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Petition at HC challenging Mansur’s removal]]></title>
+            <description><![CDATA[[Bangladesh] Petition at HC challenging Mansur’s removal]]></description>
+            <link>https://bdnews24.com/bangladesh/8c4ab10d1a3b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8c4ab10d1a3b</guid>
+            <pubDate>Thu, 05 Mar 2026 17:45:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-03/005153ff-763b-4957-acf4-c6f9bf0fa109/ahsan_h_mansur_050323_05.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tutor arrested for ‘abusing’ children in Ctg]]></title>
+            <description><![CDATA[[Bangladesh] Tutor arrested for ‘abusing’ children in Ctg]]></description>
+            <link>https://bdnews24.com/bangladesh/2e1fcff3df92</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2e1fcff3df92</guid>
+            <pubDate>Thu, 05 Mar 2026 17:38:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2022-08/f788da72-c5c1-4f04-b38a-a7c7b8192d67/child_abuse_01.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[PM orders language training to boost overseas employment]]></title>
             <description><![CDATA[[Bangladesh] PM orders language training to boost overseas employment]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/bbaa36828d5a</guid>
             <pubDate>Thu, 05 Mar 2026 11:03:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jamalpur-acc-050326-01-1772683520.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[China to build 'birth-friendly society']]></title>
-            <description><![CDATA[[Asia Pacific] China to build 'birth-friendly society']]></description>
-            <link>https://bdnews24.com/world/asia-pacific/88447baf95b2</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/88447baf95b2</guid>
-            <pubDate>Thu, 05 Mar 2026 10:17:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/2024-03/5d8aa598-34a8-412a-98c6-1004b998c8eb/china_wedding_260324_01.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Asian shares surge, led by KOSPI]]></title>
-            <description><![CDATA[[Economy] Asian shares surge, led by KOSPI]]></description>
-            <link>https://bdnews24.com/economy/e3ed25d16ecd</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/e3ed25d16ecd</guid>
-            <pubDate>Thu, 05 Mar 2026 10:08:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/korea-curency-dealers-050326-01-1772683677.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arsenal seize control as Man City slip]]></title>
-            <description><![CDATA[[Sport] Arsenal seize control as Man City slip]]></description>
-            <link>https://bdnews24.com/sport/7868381204e3</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/7868381204e3</guid>
-            <pubDate>Thu, 05 Mar 2026 10:02:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/epl-arsenal-manchester-city-050326-01-1772683285.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
