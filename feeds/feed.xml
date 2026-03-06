@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Mar 2026 19:26:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 20:18:39 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Mar 2026 19:26:25 GMT</pubDate>
+        <pubDate>Fri, 06 Mar 2026 20:18:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Russia aiding Iran to target US forces: Washington Post]]></title>
+            <description><![CDATA[[World] Russia aiding Iran to target US forces: Washington Post]]></description>
+            <link>https://bdnews24.com/world/1a63e28f0477</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/1a63e28f0477</guid>
+            <pubDate>Sat, 07 Mar 2026 02:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025December/SM/putin-181225-01-1766759290.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Panic buying spurs fuel shortages]]></title>
+            <description><![CDATA[[Bangladesh] Panic buying spurs fuel shortages]]></description>
+            <link>https://bdnews24.com/bangladesh/c865e0e576c5</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c865e0e576c5</guid>
+            <pubDate>Sat, 07 Mar 2026 01:58:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/petrol-pump-oil-crisis-060326-018-1772822278.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[4 die in separate road crashes in Dhaka]]></title>
             <description><![CDATA[[Bangladesh] 4 die in separate road crashes in Dhaka]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/543d4487d23b</guid>
             <pubDate>Fri, 06 Mar 2026 20:49:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/tehran-strikes-030326-01-1772515379.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beef, broiler prices stay dear as traders exploit Ramadan demand]]></title>
-            <description><![CDATA[[Bangladesh] Beef, broiler prices stay dear as traders exploit Ramadan demand]]></description>
-            <link>https://bdnews24.com/bangladesh/21257f4f61c9</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/21257f4f61c9</guid>
-            <pubDate>Fri, 06 Mar 2026 20:45:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025February/SM/grocery-market-price-140225-1-1739537598.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gaza medical stocks 'critically low': WHO]]></title>
-            <description><![CDATA[[World] Gaza medical stocks 'critically low': WHO]]></description>
-            <link>https://bdnews24.com/world/82dd1608d125</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/82dd1608d125</guid>
-            <pubDate>Fri, 06 Mar 2026 20:33:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/gaza-med-stocks-who-06032026-01-1772807525.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
