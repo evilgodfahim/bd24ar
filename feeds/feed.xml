@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Mar 2026 18:28:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 19:26:25 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Mar 2026 18:28:04 GMT</pubDate>
+        <pubDate>Fri, 06 Mar 2026 19:26:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[4 die in separate road crashes in Dhaka]]></title>
+            <description><![CDATA[[Bangladesh] 4 die in separate road crashes in Dhaka]]></description>
+            <link>https://bdnews24.com/bangladesh/b677dd2a33dc</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b677dd2a33dc</guid>
+            <pubDate>Sat, 07 Mar 2026 01:11:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2022-08/0b487302-fcf4-4751-b21a-86ff74f1569d/road_accident250822_01.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Udichi demands fresh probe into Jashore bombing]]></title>
             <description><![CDATA[[Bangladesh] Udichi demands fresh probe into Jashore bombing]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/82dd1608d125</guid>
             <pubDate>Fri, 06 Mar 2026 20:33:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/gaza-med-stocks-who-06032026-01-1772807525.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Suspect in freedom fighter murders named as Muktijoddha Sangsad leader]]></title>
-            <description><![CDATA[[Bangladesh] Suspect in freedom fighter murders named as Muktijoddha Sangsad leader]]></description>
-            <link>https://bdnews24.com/bangladesh/eefc0acd87a4</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/eefc0acd87a4</guid>
-            <pubDate>Fri, 06 Mar 2026 20:29:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/gopalganj-muktijoddha-songsod-060326-01-1772797470.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
