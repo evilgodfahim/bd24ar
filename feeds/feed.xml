@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Mar 2026 12:27:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 13:44:57 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Mar 2026 12:27:35 GMT</pubDate>
+        <pubDate>Fri, 06 Mar 2026 13:44:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Nepali rapper-mayor Balendra Shah poised to become PM]]></title>
+            <description><![CDATA[[Asia Pacific] Nepali rapper-mayor Balendra Shah poised to become PM]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/9c1a82cde9e6</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/9c1a82cde9e6</guid>
+            <pubDate>Fri, 06 Mar 2026 19:33:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/nepal-balendra-shah-pm-06032026-01-1772803909.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pakistan-Afghan forces clash; 100,000 displaced: UN]]></title>
+            <description><![CDATA[[World] Pakistan-Afghan forces clash; 100,000 displaced: UN]]></description>
+            <link>https://bdnews24.com/world/e962d9e2d240</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e962d9e2d240</guid>
+            <pubDate>Fri, 06 Mar 2026 19:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/pakistan-060326-01-1772802626.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jukto Front seeks white paper on Yunus’s tenure]]></title>
+            <description><![CDATA[[Bangladesh] Jukto Front seeks white paper on Yunus’s tenure]]></description>
+            <link>https://bdnews24.com/bangladesh/1ce513283c5d</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1ce513283c5d</guid>
+            <pubDate>Fri, 06 Mar 2026 18:51:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/muhammad-yunus-bio-100226-1770731098.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BPC sets limit on fuel oil sales]]></title>
+            <description><![CDATA[[Bangladesh] BPC sets limit on fuel oil sales]]></description>
+            <link>https://bdnews24.com/bangladesh/6d0c62851e7a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6d0c62851e7a</guid>
+            <pubDate>Fri, 06 Mar 2026 18:32:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/petrol-pump-060326-01-1772798318.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Qatar warns war could halt Gulf energy exports in weeks: FT]]></title>
             <description><![CDATA[[Middle East] Qatar warns war could halt Gulf energy exports in weeks: FT]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/df46bd8fdec8</guid>
             <pubDate>Fri, 06 Mar 2026 13:20:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025November/SM/jamuna-fertilizer-241125-04-1764008214.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Justice Dept releases Epstein FBI interviews with Trump accuser]]></title>
-            <description><![CDATA[[World] Justice Dept releases Epstein FBI interviews with Trump accuser]]></description>
-            <link>https://bdnews24.com/world/be979fd5a8be</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/be979fd5a8be</guid>
-            <pubDate>Fri, 06 Mar 2026 13:11:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/epstein-060326-01-1772781051.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India's Karnataka bans social media for children under 16]]></title>
-            <description><![CDATA[[social media] India's Karnataka bans social media for children under 16]]></description>
-            <link>https://bdnews24.com/socialmedia/163e49f8f185</link>
-            <guid isPermaLink="true">https://bdnews24.com/socialmedia/163e49f8f185</guid>
-            <pubDate>Fri, 06 Mar 2026 12:57:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/social-media-apps-110226-01-1770785947.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rich Asians look to move Dubai assets closer to home on Iran war fears]]></title>
-            <description><![CDATA[[Middle East] Rich Asians look to move Dubai assets closer to home on Iran war fears]]></description>
-            <link>https://bdnews24.com/world/middle-east/8895e09a21ff</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/8895e09a21ff</guid>
-            <pubDate>Fri, 06 Mar 2026 12:54:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/dubai-060326-01-1772780051.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nepal's early vote count puts ex-rapper's party ahead]]></title>
-            <description><![CDATA[[South Asia] Nepal's early vote count puts ex-rapper's party ahead]]></description>
-            <link>https://bdnews24.com/world/south-asia/d715add50ad8</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/south-asia/d715add50ad8</guid>
-            <pubDate>Fri, 06 Mar 2026 12:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/balendra-shah-060326-01-1772779361.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
