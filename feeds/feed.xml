@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Mar 2026 16:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 17:25:31 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Mar 2026 16:25:41 GMT</pubDate>
+        <pubDate>Fri, 06 Mar 2026 17:25:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Phillips hopes New Zealand meets a 'human' Bumrah]]></title>
+            <description><![CDATA[[Cricket] Phillips hopes New Zealand meets a 'human' Bumrah]]></description>
+            <link>https://bdnews24.com/cricket/5b1884561955</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/5b1884561955</guid>
+            <pubDate>Fri, 06 Mar 2026 23:15:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/nz-meet-bumrah-06032026-01-1772817269.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scientists grow chickpeas in 'moon dirt']]></title>
+            <description><![CDATA[[Science] Scientists grow chickpeas in 'moon dirt']]></description>
+            <link>https://bdnews24.com/science/6e81471471ae</link>
+            <guid isPermaLink="true">https://bdnews24.com/science/6e81471471ae</guid>
+            <pubDate>Fri, 06 Mar 2026 22:51:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/moon-dirt-chickpea-06032026-01-1772815786.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India eye T20 history, NZ hunt maiden WC]]></title>
+            <description><![CDATA[[Cricket] India eye T20 history, NZ hunt maiden WC]]></description>
+            <link>https://bdnews24.com/cricket/f38c1157412c</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/f38c1157412c</guid>
+            <pubDate>Fri, 06 Mar 2026 22:33:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/india-nz-t20-wc-06032026-01-1772814779.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Filling stations swarmed amid news of ‘oil crisis’]]></title>
             <description><![CDATA[[Image] Filling stations swarmed amid news of ‘oil crisis’]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/04f0eee14fa9</guid>
             <pubDate>Fri, 06 Mar 2026 17:46:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jamaat-protest-060326-01-1772793999.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran war fuels demand for Russian energy: Kremlin]]></title>
-            <description><![CDATA[[World] Iran war fuels demand for Russian energy: Kremlin]]></description>
-            <link>https://bdnews24.com/world/74fb7971a36f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/74fb7971a36f</guid>
-            <pubDate>Fri, 06 Mar 2026 17:32:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/russia-energy-demand-06032026-01-1772796695.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indonesia eyes social media curbs for children]]></title>
-            <description><![CDATA[[South-East Asia] Indonesia eyes social media curbs for children]]></description>
-            <link>https://bdnews24.com/world/south-east-asia/0cdde7672940</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/south-east-asia/0cdde7672940</guid>
-            <pubDate>Fri, 06 Mar 2026 17:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026January/SM/ban-teen-social-media-3100126-1769849298.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Real Madrid fined 15,000 euros over Nazi salute]]></title>
-            <description><![CDATA[[Sport] Real Madrid fined 15,000 euros over Nazi salute]]></description>
-            <link>https://bdnews24.com/sport/fb5347cf2c79</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/fb5347cf2c79</guid>
-            <pubDate>Fri, 06 Mar 2026 17:25:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/real-madrid-fine-nazi-salute-060325-01-1772796229.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
