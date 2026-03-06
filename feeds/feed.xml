@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Mar 2026 05:07:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 06:32:12 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Mar 2026 05:07:54 GMT</pubDate>
+        <pubDate>Fri, 06 Mar 2026 06:32:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Man ‘kills wife, child before suicide’ in Naogaon]]></title>
+            <description><![CDATA[[Bangladesh] Man ‘kills wife, child before suicide’ in Naogaon]]></description>
+            <link>https://bdnews24.com/bangladesh/1a0f95893f7c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1a0f95893f7c</guid>
+            <pubDate>Fri, 06 Mar 2026 12:15:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024November/SM/naogaon-accident-021124-01-1730540854.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US extradites Bangladeshi from Malaysia over child sex ring]]></title>
+            <description><![CDATA[[Bangladesh] US extradites Bangladeshi from Malaysia over child sex ring]]></description>
+            <link>https://bdnews24.com/bangladesh/1e8d98437f76</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1e8d98437f76</guid>
+            <pubDate>Fri, 06 Mar 2026 11:49:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/fbi-malaysia-extradition-06032026-01-1772776082.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US weighs oil futures market action: White House official]]></title>
+            <description><![CDATA[[Business] US weighs oil futures market action: White House official]]></description>
+            <link>https://bdnews24.com/business/f4404beec887</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/f4404beec887</guid>
+            <pubDate>Fri, 06 Mar 2026 11:41:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-gas-station-060326-01-1772775617.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lawyer accused of killing wife, torching body]]></title>
+            <description><![CDATA[[Bangladesh] Lawyer accused of killing wife, torching body]]></description>
+            <link>https://bdnews24.com/bangladesh/e89ce06ba4b1</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e89ce06ba4b1</guid>
+            <pubDate>Fri, 06 Mar 2026 11:18:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jamalpur-wife-murder-060326-01-1772771233.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump has ‘people in mind’ to run Iran]]></title>
+            <description><![CDATA[[World] Trump has ‘people in mind’ to run Iran]]></description>
+            <link>https://bdnews24.com/world/e64454fbd4cc</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e64454fbd4cc</guid>
+            <pubDate>Fri, 06 Mar 2026 11:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/donald-trump-6326-1772778132.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wall Street closes down as oil prices spike]]></title>
+            <description><![CDATA[[Economy] Wall Street closes down as oil prices spike]]></description>
+            <link>https://bdnews24.com/economy/c5e156dfb72e</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/c5e156dfb72e</guid>
+            <pubDate>Fri, 06 Mar 2026 11:11:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/nyse-traders-060326-01-1772773843.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[10 burnt in Uttara gas blast]]></title>
+            <description><![CDATA[[Bangladesh] 10 burnt in Uttara gas blast]]></description>
+            <link>https://bdnews24.com/bangladesh/aae7d27a078c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/aae7d27a078c</guid>
+            <pubDate>Fri, 06 Mar 2026 11:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025May/SM/burn-institute-021224-015-1745814990-1746251480.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[China in talks with Iran to allow oil gas passage through Hormuz]]></title>
             <description><![CDATA[[World] China in talks with Iran to allow oil gas passage through Hormuz]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/7dce63a746de</guid>
             <pubDate>Fri, 06 Mar 2026 01:47:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/ac-milan-060326-01-1772739886.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump taps Senator Mullin to replace Noem as DHS chief]]></title>
-            <description><![CDATA[[Americas] Trump taps Senator Mullin to replace Noem as DHS chief]]></description>
-            <link>https://bdnews24.com/world/americas/3ced36ac03df</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/3ced36ac03df</guid>
-            <pubDate>Fri, 06 Mar 2026 01:31:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-taps-mullin-dhs-chief-06032026-01-1772739053.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US must have role in choosing Iran's next leader: Trump]]></title>
-            <description><![CDATA[[World] US must have role in choosing Iran's next leader: Trump]]></description>
-            <link>https://bdnews24.com/world/26994b118b0e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/26994b118b0e</guid>
-            <pubDate>Fri, 06 Mar 2026 01:27:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-role-iran-leader-06032026-01-1772738796.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Middle East chaos stems from international law erosion: Kallas]]></title>
-            <description><![CDATA[[World] Middle East chaos stems from international law erosion: Kallas]]></description>
-            <link>https://bdnews24.com/world/ba186e9f88e0</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ba186e9f88e0</guid>
-            <pubDate>Fri, 06 Mar 2026 01:20:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/me-chaos-kallas-06032026-01-1772738398.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Afghans sack T20 captain Rashid after WC exit]]></title>
-            <description><![CDATA[[Cricket] Afghans sack T20 captain Rashid after WC exit]]></description>
-            <link>https://bdnews24.com/cricket/0326f2b7c942</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/0326f2b7c942</guid>
-            <pubDate>Fri, 06 Mar 2026 00:25:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2024-01/9f994a39-0a8a-449d-8615-f7c2f249de12/rashid_khan_100124_01.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Zafrullah named for Independence Award again]]></title>
-            <description><![CDATA[[People] Zafrullah named for Independence Award again]]></description>
-            <link>https://bdnews24.com/people/b84d802be833</link>
-            <guid isPermaLink="true">https://bdnews24.com/people/b84d802be833</guid>
-            <pubDate>Fri, 06 Mar 2026 00:17:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/zafrullah-13102018-03-1772733594.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India survive Bethell to set up NZ final]]></title>
-            <description><![CDATA[[Cricket] India survive Bethell to set up NZ final]]></description>
-            <link>https://bdnews24.com/cricket/6058c89b8a5d</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/6058c89b8a5d</guid>
-            <pubDate>Fri, 06 Mar 2026 00:15:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/india-survive-bethell-06032026-01-1772734490.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[S Africa won’t dwell on T20 WC exit: Markram]]></title>
-            <description><![CDATA[[Cricket] S Africa won’t dwell on T20 WC exit: Markram]]></description>
-            <link>https://bdnews24.com/cricket/013a4d0a29f0</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/013a4d0a29f0</guid>
-            <pubDate>Fri, 06 Mar 2026 00:03:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/s-africa-t20-markram-05032026-01-1772733773.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
