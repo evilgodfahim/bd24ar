@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Mar 2026 15:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 16:14:00 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Mar 2026 15:11:48 GMT</pubDate>
+        <pubDate>Sat, 07 Mar 2026 16:14:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Panic buying leaves some Ctg filling stations dry]]></title>
+            <description><![CDATA[[Bangladesh] Panic buying leaves some Ctg filling stations dry]]></description>
+            <link>https://bdnews24.com/bangladesh/69598c8864e2</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/69598c8864e2</guid>
+            <pubDate>Sat, 07 Mar 2026 22:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/petrol-pump-oil-crisis-060326-024-1772804788.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[bdnews24.com correspondent attacked on stage in Moulvibazar]]></title>
+            <description><![CDATA[[Bangladesh] bdnews24.com correspondent attacked on stage in Moulvibazar]]></description>
+            <link>https://bdnews24.com/bangladesh/ec1eded7b243</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ec1eded7b243</guid>
+            <pubDate>Sat, 07 Mar 2026 21:29:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/moulvibazar-bikul-hospatal-070325-01-1772891007.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[PM plans Zakat revamp to fight poverty]]></title>
             <description><![CDATA[[Bangladesh] PM plans Zakat revamp to fight poverty]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/6bfbd9826e68</guid>
             <pubDate>Sat, 07 Mar 2026 17:00:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/church-7326-1772881119.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mamunul demands judicial probe into ‘election engineering’]]></title>
-            <description><![CDATA[[Politics] Mamunul demands judicial probe into ‘election engineering’]]></description>
-            <link>https://bdnews24.com/politics/7cb8784b30e1</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/7cb8784b30e1</guid>
-            <pubDate>Sat, 07 Mar 2026 16:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mamunul-haque-070326-01-1772880070.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Minister finds half the doctors absent at Narsingdi hospital]]></title>
-            <description><![CDATA[[Bangladesh] Minister finds half the doctors absent at Narsingdi hospital]]></description>
-            <link>https://bdnews24.com/bangladesh/5c8543a8a51e</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5c8543a8a51e</guid>
-            <pubDate>Sat, 07 Mar 2026 16:30:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/narsingdi-health-minister-070326-01-1772872718.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
