@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Mar 2026 08:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 09:17:56 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Mar 2026 08:15:57 GMT</pubDate>
+        <pubDate>Sat, 07 Mar 2026 09:17:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[16 dead in Israeli strikes on eastern town: Lebanon]]></title>
+            <description><![CDATA[[Middle East] 16 dead in Israeli strikes on eastern town: Lebanon]]></description>
+            <link>https://bdnews24.com/world/middle-east/ab054b40d061</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/ab054b40d061</guid>
+            <pubDate>Sat, 07 Mar 2026 15:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/lebanon-7326-1772874435.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iranian ship docked in India: official]]></title>
+            <description><![CDATA[[World] Iranian ship docked in India: official]]></description>
+            <link>https://bdnews24.com/world/c02c4ef8cda3</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/c02c4ef8cda3</guid>
+            <pubDate>Sat, 07 Mar 2026 15:05:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-ship-7326-1772874216.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India raises cooking gas prices]]></title>
+            <description><![CDATA[[Neighbours] India raises cooking gas prices]]></description>
+            <link>https://bdnews24.com/neighbours/72ba75bb3a63</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/72ba75bb3a63</guid>
+            <pubDate>Sat, 07 Mar 2026 15:01:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/cooking-gas-7326-1772873950.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[SaRa Lifestyle opens outlet in Narsingdi]]></title>
             <description><![CDATA[[Lifestyle] SaRa Lifestyle opens outlet in Narsingdi]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/c865e0e576c5</guid>
             <pubDate>Sat, 07 Mar 2026 01:58:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/petrol-pump-oil-crisis-060326-018-1772822278.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4 die in separate road crashes in Dhaka]]></title>
-            <description><![CDATA[[Bangladesh] 4 die in separate road crashes in Dhaka]]></description>
-            <link>https://bdnews24.com/bangladesh/b677dd2a33dc</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b677dd2a33dc</guid>
-            <pubDate>Sat, 07 Mar 2026 01:11:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2022-08/0b487302-fcf4-4751-b21a-86ff74f1569d/road_accident250822_01.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Udichi demands fresh probe into Jashore bombing]]></title>
-            <description><![CDATA[[Bangladesh] Udichi demands fresh probe into Jashore bombing]]></description>
-            <link>https://bdnews24.com/bangladesh/c38f1ac52274</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c38f1ac52274</guid>
-            <pubDate>Sat, 07 Mar 2026 00:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/udichi-jessore-killing-060326-02-1772813641.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 burnt in blast from gas leak in N’ganj]]></title>
-            <description><![CDATA[[Bangladesh] 3 burnt in blast from gas leak in N’ganj]]></description>
-            <link>https://bdnews24.com/bangladesh/81779e939c12</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/81779e939c12</guid>
-            <pubDate>Sat, 07 Mar 2026 00:07:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/narayanganj-gas-explosion-060326-01-1772817187.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
