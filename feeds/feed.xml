@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Mar 2026 16:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 17:12:04 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Mar 2026 16:14:00 GMT</pubDate>
+        <pubDate>Sat, 07 Mar 2026 17:12:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Cuba negotiating deal with me, Rubio: Trump]]></title>
+            <description><![CDATA[[World] Cuba negotiating deal with me, Rubio: Trump]]></description>
+            <link>https://bdnews24.com/world/b4cc6c34de55</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/b4cc6c34de55</guid>
+            <pubDate>Sat, 07 Mar 2026 23:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/donald-trump-070326-01-1772903427.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Women-led publishing houses feel the heat of sector-wide crisis]]></title>
+            <description><![CDATA[[Bangladesh] Women-led publishing houses feel the heat of sector-wide crisis]]></description>
+            <link>https://bdnews24.com/bangladesh/759151307664</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/759151307664</guid>
+            <pubDate>Sat, 07 Mar 2026 23:07:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/omor-ekushe-boimela-070326-1-1772900400.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BNP repeating past government’s actions: NCP]]></title>
+            <description><![CDATA[[Politics] BNP repeating past government’s actions: NCP]]></description>
+            <link>https://bdnews24.com/politics/5aa229fbf9b3</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/5aa229fbf9b3</guid>
+            <pubDate>Sat, 07 Mar 2026 22:46:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/faridpur-ncp-070326-01-1772895583.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Panic buying leaves some Ctg filling stations dry]]></title>
             <description><![CDATA[[Bangladesh] Panic buying leaves some Ctg filling stations dry]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/33835286d1ae</guid>
             <pubDate>Sat, 07 Mar 2026 18:02:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/islami-university-040326-01-1772626129.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stepfather confesses to killing ‘raped’ teen in Narsingdi]]></title>
-            <description><![CDATA[[Bangladesh] Stepfather confesses to killing ‘raped’ teen in Narsingdi]]></description>
-            <link>https://bdnews24.com/bangladesh/c521bbac6698</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c521bbac6698</guid>
-            <pubDate>Sat, 07 Mar 2026 17:21:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/norsingdee-rape-murder-070326-01-1772878556.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt plays down fuel shortage fears]]></title>
-            <description><![CDATA[[Bangladesh] Govt plays down fuel shortage fears]]></description>
-            <link>https://bdnews24.com/bangladesh/fdf967877086</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/fdf967877086</guid>
-            <pubDate>Sat, 07 Mar 2026 17:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/minister-energy-tuku-070326-01-1772881839.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beirut church shelters refugees, migrants from Israeli strikes]]></title>
-            <description><![CDATA[[Middle East] Beirut church shelters refugees, migrants from Israeli strikes]]></description>
-            <link>https://bdnews24.com/world/middle-east/6bfbd9826e68</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/6bfbd9826e68</guid>
-            <pubDate>Sat, 07 Mar 2026 17:00:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/church-7326-1772881119.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
