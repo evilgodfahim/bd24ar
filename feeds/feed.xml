@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Mar 2026 13:31:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 14:13:39 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Mar 2026 13:31:26 GMT</pubDate>
+        <pubDate>Sat, 07 Mar 2026 14:13:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Inside US meme war against Iran]]></title>
+            <description><![CDATA[[World] Inside US meme war against Iran]]></description>
+            <link>https://bdnews24.com/world/b98d2285e4c3</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/b98d2285e4c3</guid>
+            <pubDate>Sat, 07 Mar 2026 19:59:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-meme-war-07032026-01-1772891882.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ships clearing Hormuz strait before war reach Ctg]]></title>
+            <description><![CDATA[[Bangladesh] Ships clearing Hormuz strait before war reach Ctg]]></description>
+            <link>https://bdnews24.com/bangladesh/c461a0319077</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c461a0319077</guid>
+            <pubDate>Sat, 07 Mar 2026 19:51:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/summit-lng-1772889814.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran apologises to Gulf but strikes escalate]]></title>
+            <description><![CDATA[[World] Iran apologises to Gulf but strikes escalate]]></description>
+            <link>https://bdnews24.com/world/5209da3a2be4</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/5209da3a2be4</guid>
+            <pubDate>Sat, 07 Mar 2026 19:32:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-apologises-gulf-07032026-01-1772890282.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Hezbollah warns Israelis in north to evacuate]]></title>
             <description><![CDATA[[World] Hezbollah warns Israelis in north to evacuate]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/lifestyle/3e690806bd13</guid>
             <pubDate>Sat, 07 Mar 2026 14:01:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/sara-lifestyle-outlet-07032026-01-1772870492.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BRAC Bank taps Wasi Noman as chief information officer]]></title>
-            <description><![CDATA[[Business] BRAC Bank taps Wasi Noman as chief information officer]]></description>
-            <link>https://bdnews24.com/business/6e2ee666c56f</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/6e2ee666c56f</guid>
-            <pubDate>Sat, 07 Mar 2026 13:59:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/brac-wasi-noman-07032026-01-1772870327.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mahfuj, Tajnuva to lead new political platform ‘Alternatives’]]></title>
-            <description><![CDATA[[Politics] Mahfuj, Tajnuva to lead new political platform ‘Alternatives’]]></description>
-            <link>https://bdnews24.com/politics/355e7dc60f8e</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/355e7dc60f8e</guid>
-            <pubDate>Sat, 07 Mar 2026 13:45:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tajnuva-jabeen-281225-1772867903.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BNP holds workshop for MPs from Dhaka, two divisions]]></title>
-            <description><![CDATA[[Politics] BNP holds workshop for MPs from Dhaka, two divisions]]></description>
-            <link>https://bdnews24.com/politics/63989aaca9d1</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/63989aaca9d1</guid>
-            <pubDate>Sat, 07 Mar 2026 13:20:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mirza-fakhrul-bnp-070626-01-1772865458.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
