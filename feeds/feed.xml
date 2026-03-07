@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Mar 2026 11:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 12:21:02 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Mar 2026 11:10:23 GMT</pubDate>
+        <pubDate>Sat, 07 Mar 2026 12:21:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[IU forms committee to probe teacher’s murder]]></title>
+            <description><![CDATA[[Bangladesh] IU forms committee to probe teacher’s murder]]></description>
+            <link>https://bdnews24.com/bangladesh/33835286d1ae</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/33835286d1ae</guid>
+            <pubDate>Sat, 07 Mar 2026 18:02:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/islami-university-040326-01-1772626129.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stepfather confesses to killing ‘raped’ teen in Narsingdi]]></title>
+            <description><![CDATA[[Bangladesh] Stepfather confesses to killing ‘raped’ teen in Narsingdi]]></description>
+            <link>https://bdnews24.com/bangladesh/c521bbac6698</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c521bbac6698</guid>
+            <pubDate>Sat, 07 Mar 2026 17:21:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/norsingdee-rape-murder-070326-01-1772878556.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Govt plays down fuel shortage fears]]></title>
+            <description><![CDATA[[Bangladesh] Govt plays down fuel shortage fears]]></description>
+            <link>https://bdnews24.com/bangladesh/fdf967877086</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/fdf967877086</guid>
+            <pubDate>Sat, 07 Mar 2026 17:09:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/minister-energy-tuku-070326-01-1772881839.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Beirut church shelters refugees, migrants from Israeli strikes]]></title>
             <description><![CDATA[[Middle East] Beirut church shelters refugees, migrants from Israeli strikes]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/742e616d0ea7</guid>
             <pubDate>Sat, 07 Mar 2026 10:43:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/un-envoy-7326-1772858589.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[White House eyes bolder action on energy prices]]></title>
-            <description><![CDATA[[World] White House eyes bolder action on energy prices]]></description>
-            <link>https://bdnews24.com/world/dec8864ac0e6</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/dec8864ac0e6</guid>
-            <pubDate>Sat, 07 Mar 2026 10:42:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/white-house-7326-1772858482.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pakistani convicted of plotting to kill Trump]]></title>
-            <description><![CDATA[[World] Pakistani convicted of plotting to kill Trump]]></description>
-            <link>https://bdnews24.com/world/2318169f29f8</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/2318169f29f8</guid>
-            <pubDate>Sat, 07 Mar 2026 09:10:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/asif-merchant-7326-1772852959.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel, Iran exchange fire]]></title>
-            <description><![CDATA[[World] Israel, Iran exchange fire]]></description>
-            <link>https://bdnews24.com/world/3ac9437e0ac8</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/3ac9437e0ac8</guid>
-            <pubDate>Sat, 07 Mar 2026 09:03:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-7326-1772852575.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
