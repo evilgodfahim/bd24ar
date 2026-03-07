@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Mar 2026 20:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 21:10:49 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Mar 2026 20:12:05 GMT</pubDate>
+        <pubDate>Sat, 07 Mar 2026 21:10:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Abida, high commissioner in London, recalled: PM's advisor]]></title>
+            <description><![CDATA[[Bangladesh] Abida, high commissioner in London, recalled: PM's advisor]]></description>
+            <link>https://bdnews24.com/bangladesh/a8efd1f994ba</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a8efd1f994ba</guid>
+            <pubDate>Sun, 08 Mar 2026 02:56:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/abida-islam-high-commissionar-london-070326-01-1772917505.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Offshore output under control: ADNOC]]></title>
             <description><![CDATA[[Business] Offshore output under control: ADNOC]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/47fe60d84017</guid>
             <pubDate>Sat, 07 Mar 2026 20:48:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/chankharpool-soundbox-seized-070326-1772883842.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine's interceptor drone makers aim Gulf exports]]></title>
-            <description><![CDATA[[World] Ukraine's interceptor drone makers aim Gulf exports]]></description>
-            <link>https://bdnews24.com/world/973f10c97124</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/973f10c97124</guid>
-            <pubDate>Sat, 07 Mar 2026 20:44:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/ukraine-interceptor-drone-07032026-01-1772894594.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
