@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Mar 2026 17:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 18:17:00 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Mar 2026 17:12:04 GMT</pubDate>
+        <pubDate>Sat, 07 Mar 2026 18:17:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Eze strike sends Arsenal past Mansfield into FA Cup quarters]]></title>
+            <description><![CDATA[[Sport] Eze strike sends Arsenal past Mansfield into FA Cup quarters]]></description>
+            <link>https://bdnews24.com/sport/86e6d3fa4f01</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/86e6d3fa4f01</guid>
+            <pubDate>Sat, 07 Mar 2026 23:43:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/eze-strike-arsenal-07032026-01-1772905364.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blast at Cumilla temple injures 3]]></title>
+            <description><![CDATA[[Bangladesh] Blast at Cumilla temple injures 3]]></description>
+            <link>https://bdnews24.com/bangladesh/08e70077081b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/08e70077081b</guid>
+            <pubDate>Sat, 07 Mar 2026 23:40:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/comilla-mondir-clash-070326-01-1772903861.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ticket, hotel prices skyrocket before T20 WC final]]></title>
+            <description><![CDATA[[Cricket] Ticket, hotel prices skyrocket before T20 WC final]]></description>
+            <link>https://bdnews24.com/cricket/14720d497412</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/14720d497412</guid>
+            <pubDate>Sat, 07 Mar 2026 23:34:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/ticket-hotel-prices-t20wc-07032026-01-1772904840.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[No pressure, no fun for Suryakumar before final]]></title>
+            <description><![CDATA[[Cricket] No pressure, no fun for Suryakumar before final]]></description>
+            <link>https://bdnews24.com/cricket/9be41503060f</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/9be41503060f</guid>
+            <pubDate>Sat, 07 Mar 2026 23:25:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/no-pressure-suryakumar-07032026-01-1772904323.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russian strikes kill 10 in Kharkiv]]></title>
+            <description><![CDATA[[World] Russian strikes kill 10 in Kharkiv]]></description>
+            <link>https://bdnews24.com/world/fcb6b9b72ede</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/fcb6b9b72ede</guid>
+            <pubDate>Sat, 07 Mar 2026 23:21:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/kharkiv-attack-070326-01-1772904075.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Cuba negotiating deal with me, Rubio: Trump]]></title>
             <description><![CDATA[[World] Cuba negotiating deal with me, Rubio: Trump]]></description>
@@ -113,8 +153,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/summit-lng-1772889814.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Iran apologises to Gulf but strikes escalate]]></title>
-            <description><![CDATA[[World] Iran apologises to Gulf but strikes escalate]]></description>
+            <title><![CDATA[Iran apologises to Gulf but war still rages]]></title>
+            <description><![CDATA[[World] Iran apologises to Gulf but war still rages]]></description>
             <link>https://bdnews24.com/world/5209da3a2be4</link>
             <guid isPermaLink="true">https://bdnews24.com/world/5209da3a2be4</guid>
             <pubDate>Sat, 07 Mar 2026 19:32:00 GMT</pubDate>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/6d90bbb51857</guid>
             <pubDate>Sat, 07 Mar 2026 19:12:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/israeli-soldiers-070326-01-1772889094.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Flash floods in Nairobi kill 23]]></title>
-            <description><![CDATA[[World] Flash floods in Nairobi kill 23]]></description>
-            <link>https://bdnews24.com/world/7722d5594c57</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/7722d5594c57</guid>
-            <pubDate>Sat, 07 Mar 2026 19:10:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/nairobi-flood-260326-1772888901.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[March 7, 2026]]></title>
-            <description><![CDATA[[Image] March 7, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/01a0f8871ec8</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/01a0f8871ec8</guid>
-            <pubDate>Sat, 07 Mar 2026 19:08:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/iran-attack-on-iraq-070326-05-1772888473.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UPDF member ‘shot dead’]]></title>
-            <description><![CDATA[[Bangladesh] UPDF member ‘shot dead’]]></description>
-            <link>https://bdnews24.com/bangladesh/9455307b75ac</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9455307b75ac</guid>
-            <pubDate>Sat, 07 Mar 2026 18:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/khagrachari-updf-murder-070326-01-1772882974.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Axel Springer buys UK's Telegraph for $766mn]]></title>
-            <description><![CDATA[[World] Axel Springer buys UK's Telegraph for $766mn]]></description>
-            <link>https://bdnews24.com/world/74960c9c5d63</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/74960c9c5d63</guid>
-            <pubDate>Sat, 07 Mar 2026 18:41:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/telegraph-sold-7326-1772887204.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[IU forms committee to probe teacher’s murder]]></title>
-            <description><![CDATA[[Bangladesh] IU forms committee to probe teacher’s murder]]></description>
-            <link>https://bdnews24.com/bangladesh/33835286d1ae</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/33835286d1ae</guid>
-            <pubDate>Sat, 07 Mar 2026 18:02:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/islami-university-040326-01-1772626129.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
