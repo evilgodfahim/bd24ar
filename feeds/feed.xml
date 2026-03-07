@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Mar 2026 06:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 07:20:45 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Mar 2026 06:23:35 GMT</pubDate>
+        <pubDate>Sat, 07 Mar 2026 07:20:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why the Iran war is becoming riskier for Trump]]></title>
+            <description><![CDATA[[World] Why the Iran war is becoming riskier for Trump]]></description>
+            <link>https://bdnews24.com/world/e7ee350f5c12</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e7ee350f5c12</guid>
+            <pubDate>Sat, 07 Mar 2026 12:27:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-iran-war-07032026-01-1772864829.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[US pressing Sri Lanka not to return Iranian sailors]]></title>
             <description><![CDATA[[World] US pressing Sri Lanka not to return Iranian sailors]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/0e71a36c00fe</guid>
             <pubDate>Fri, 06 Mar 2026 23:29:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-11/4fd71f72-1891-47e5-b7df-3ae06d56ef14/ministry_pub_admin_111123_01.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Phillips hopes New Zealand meets a 'human' Bumrah]]></title>
-            <description><![CDATA[[Cricket] Phillips hopes New Zealand meets a 'human' Bumrah]]></description>
-            <link>https://bdnews24.com/cricket/5b1884561955</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/5b1884561955</guid>
-            <pubDate>Fri, 06 Mar 2026 23:15:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/nz-meet-bumrah-06032026-01-1772817269.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
