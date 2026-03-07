@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Mar 2026 10:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 11:10:23 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Mar 2026 10:12:29 GMT</pubDate>
+        <pubDate>Sat, 07 Mar 2026 11:10:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Beirut church shelters refugees, migrants from Israeli strikes]]></title>
+            <description><![CDATA[[Middle East] Beirut church shelters refugees, migrants from Israeli strikes]]></description>
+            <link>https://bdnews24.com/world/middle-east/6bfbd9826e68</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/6bfbd9826e68</guid>
+            <pubDate>Sat, 07 Mar 2026 17:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/church-7326-1772881119.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mamunul demands judicial probe into ‘election engineering’]]></title>
+            <description><![CDATA[[Politics] Mamunul demands judicial probe into ‘election engineering’]]></description>
+            <link>https://bdnews24.com/politics/7cb8784b30e1</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/7cb8784b30e1</guid>
+            <pubDate>Sat, 07 Mar 2026 16:56:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mamunul-haque-070326-01-1772880070.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Minister finds half the doctors absent at Narsingdi hospital]]></title>
+            <description><![CDATA[[Bangladesh] Minister finds half the doctors absent at Narsingdi hospital]]></description>
+            <link>https://bdnews24.com/bangladesh/5c8543a8a51e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5c8543a8a51e</guid>
+            <pubDate>Sat, 07 Mar 2026 16:30:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/narsingdi-health-minister-070326-01-1772872718.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Four held during march to Dhanmondi 32]]></title>
+            <description><![CDATA[[Bangladesh] Four held during march to Dhanmondi 32]]></description>
+            <link>https://bdnews24.com/bangladesh/9889157922d3</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9889157922d3</guid>
+            <pubDate>Sat, 07 Mar 2026 16:26:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/dhanmondi-32-070326-1772876387.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Inside Nepal push for Balendra Shah’s rise]]></title>
             <description><![CDATA[[Asia Pacific] Inside Nepal push for Balendra Shah’s rise]]></description>
@@ -129,44 +161,12 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/asif-merchant-7326-1772852959.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Iran war enters second week]]></title>
-            <description><![CDATA[[World] Iran war enters second week]]></description>
+            <title><![CDATA[Israel, Iran exchange fire]]></title>
+            <description><![CDATA[[World] Israel, Iran exchange fire]]></description>
             <link>https://bdnews24.com/world/3ac9437e0ac8</link>
             <guid isPermaLink="true">https://bdnews24.com/world/3ac9437e0ac8</guid>
             <pubDate>Sat, 07 Mar 2026 09:03:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-7326-1772852575.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan raises retail fuel prices by about 20%]]></title>
-            <description><![CDATA[[Asia Pacific] Pakistan raises retail fuel prices by about 20%]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/e88b29c756f8</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/e88b29c756f8</guid>
-            <pubDate>Sat, 07 Mar 2026 08:50:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/karachi-7326-1772851784.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stocks slide as soaring oil prices]]></title>
-            <description><![CDATA[[Business] Stocks slide as soaring oil prices]]></description>
-            <link>https://bdnews24.com/business/9ad7b8a528ce</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/9ad7b8a528ce</guid>
-            <pubDate>Sat, 07 Mar 2026 08:41:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/stocks-7326-1772851234.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BAT posts lowest dividends in its history]]></title>
-            <description><![CDATA[[Business] BAT posts lowest dividends in its history]]></description>
-            <link>https://bdnews24.com/business/ff3b8c914bf5</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/ff3b8c914bf5</guid>
-            <pubDate>Sat, 07 Mar 2026 02:55:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024October/SM/bat-bangladesh-300924-1-1727719382.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Russia aiding Iran to target US forces: Washington Post]]></title>
-            <description><![CDATA[[World] Russia aiding Iran to target US forces: Washington Post]]></description>
-            <link>https://bdnews24.com/world/1a63e28f0477</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/1a63e28f0477</guid>
-            <pubDate>Sat, 07 Mar 2026 02:00:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025December/SM/putin-181225-01-1766759290.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
