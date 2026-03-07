@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Mar 2026 09:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 10:12:29 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Mar 2026 09:17:56 GMT</pubDate>
+        <pubDate>Sat, 07 Mar 2026 10:12:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Inside Nepal push for Balendra Shah’s rise]]></title>
+            <description><![CDATA[[Asia Pacific] Inside Nepal push for Balendra Shah’s rise]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/a4353f745aca</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/a4353f745aca</guid>
+            <pubDate>Sat, 07 Mar 2026 16:01:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/balendra-shah-7326-1772877603.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[16 dead in Israeli strikes on eastern town: Lebanon]]></title>
             <description><![CDATA[[Middle East] 16 dead in Israeli strikes on eastern town: Lebanon]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/1a63e28f0477</guid>
             <pubDate>Sat, 07 Mar 2026 02:00:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025December/SM/putin-181225-01-1766759290.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Panic buying spurs fuel shortages]]></title>
-            <description><![CDATA[[Bangladesh] Panic buying spurs fuel shortages]]></description>
-            <link>https://bdnews24.com/bangladesh/c865e0e576c5</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c865e0e576c5</guid>
-            <pubDate>Sat, 07 Mar 2026 01:58:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/petrol-pump-oil-crisis-060326-018-1772822278.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
