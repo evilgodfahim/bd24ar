@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Mar 2026 21:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 22:10:50 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Mar 2026 21:10:49 GMT</pubDate>
+        <pubDate>Sat, 07 Mar 2026 22:10:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[NZ ready to silence Indian crowds: Santner]]></title>
+            <description><![CDATA[[Sport] NZ ready to silence Indian crowds: Santner]]></description>
+            <link>https://bdnews24.com/sport/2124f5af30e3</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/2124f5af30e3</guid>
+            <pubDate>Sun, 08 Mar 2026 03:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/mitchell-santner-080326-01-1772917961.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Abida, high commissioner in London, recalled: PM's advisor]]></title>
             <description><![CDATA[[Bangladesh] Abida, high commissioner in London, recalled: PM's advisor]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/ae349482c895</guid>
             <pubDate>Sat, 07 Mar 2026 21:02:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/coxs-bazar-businessman-070326-01-1772895783.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2 held for Mar 7 speech in Chankharpul]]></title>
-            <description><![CDATA[[Bangladesh] 2 held for Mar 7 speech in Chankharpul]]></description>
-            <link>https://bdnews24.com/bangladesh/47fe60d84017</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/47fe60d84017</guid>
-            <pubDate>Sat, 07 Mar 2026 20:48:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/chankharpool-soundbox-seized-070326-1772883842.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
