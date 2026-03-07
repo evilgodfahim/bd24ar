@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Mar 2026 19:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 20:12:05 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Mar 2026 19:13:05 GMT</pubDate>
+        <pubDate>Sat, 07 Mar 2026 20:12:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Offshore output under control: ADNOC]]></title>
+            <description><![CDATA[[Business] Offshore output under control: ADNOC]]></description>
+            <link>https://bdnews24.com/business/b1bf1b7013cc</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/b1bf1b7013cc</guid>
+            <pubDate>Sun, 08 Mar 2026 01:36:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/adnoc-logo-070326-01-1772912145.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump launches Latin America cartel coalition]]></title>
+            <description><![CDATA[[World] Trump launches Latin America cartel coalition]]></description>
+            <link>https://bdnews24.com/world/ca10c21f775f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ca10c21f775f</guid>
+            <pubDate>Sun, 08 Mar 2026 01:23:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/donald-trump-070326-001-1772911341.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[India, Bangladesh at threshold of promising future: Verma]]></title>
             <description><![CDATA[[Bangladesh] India, Bangladesh at threshold of promising future: Verma]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/973f10c97124</guid>
             <pubDate>Sat, 07 Mar 2026 20:44:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/ukraine-interceptor-drone-07032026-01-1772894594.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[10,000 litres of illegally stored fuel seized in Natore]]></title>
-            <description><![CDATA[[Bangladesh] 10,000 litres of illegally stored fuel seized in Natore]]></description>
-            <link>https://bdnews24.com/bangladesh/dfa6067abf42</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/dfa6067abf42</guid>
-            <pubDate>Sat, 07 Mar 2026 20:17:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/natore-singra-070326-01-1772891185.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iranian clerics seek new supreme leader]]></title>
-            <description><![CDATA[[World] Iranian clerics seek new supreme leader]]></description>
-            <link>https://bdnews24.com/world/c6be18ac91cb</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/c6be18ac91cb</guid>
-            <pubDate>Sat, 07 Mar 2026 20:16:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-clerics-seek-new-leader-07032026-01-1772892851.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
