@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Mar 2026 19:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 20:12:30 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Mar 2026 19:15:12 GMT</pubDate>
+        <pubDate>Sun, 08 Mar 2026 20:12:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[T20 WC winners’ list]]></title>
+            <description><![CDATA[[Cricket] T20 WC winners’ list]]></description>
+            <link>https://bdnews24.com/cricket/a912bde3edfd</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/a912bde3edfd</guid>
+            <pubDate>Mon, 09 Mar 2026 02:02:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/t20-winners-09032026-01-1773000110.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Syrian Kurds caution Iran Kurds against aligning with US]]></title>
+            <description><![CDATA[[World] Syrian Kurds caution Iran Kurds against aligning with US]]></description>
+            <link>https://bdnews24.com/world/a6bcbc8a02c2</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/a6bcbc8a02c2</guid>
+            <pubDate>Mon, 09 Mar 2026 01:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/syria-iran-kurds-09032026-01-1772999385.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Major BPC shake-up amid Middle East war]]></title>
+            <description><![CDATA[[Business] Major BPC shake-up amid Middle East war]]></description>
+            <link>https://bdnews24.com/business/812d3face9ea</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/812d3face9ea</guid>
+            <pubDate>Mon, 09 Mar 2026 01:43:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bpc-ctg-080325-1772996446.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kids’ fashion takes centre stage in Eid shopping rush]]></title>
+            <description><![CDATA[[Bangladesh] Kids’ fashion takes centre stage in Eid shopping rush]]></description>
+            <link>https://bdnews24.com/bangladesh/d849efa79878</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d849efa79878</guid>
+            <pubDate>Mon, 09 Mar 2026 01:37:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/eid-bazar-080326-01-1772995218.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[England prioritised for flight home: De Kock, Miller]]></title>
+            <description><![CDATA[[Cricket] England prioritised for flight home: De Kock, Miller]]></description>
+            <link>https://bdnews24.com/cricket/d38b8fe44468</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/d38b8fe44468</guid>
+            <pubDate>Mon, 09 Mar 2026 01:34:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/eng-priority-flight-09032026-01-1772998402.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kiwi cricketer makes history with 5 wickets in 5 balls]]></title>
+            <description><![CDATA[[Cricket] Kiwi cricketer makes history with 5 wickets in 5 balls]]></description>
+            <link>https://bdnews24.com/cricket/1b30b371b9f6</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/1b30b371b9f6</guid>
+            <pubDate>Mon, 09 Mar 2026 01:22:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/brett-randell-nz-080326-1772953690.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US attack on Iranian warship kills 104: Iran’s army]]></title>
+            <description><![CDATA[[World] US attack on Iranian warship kills 104: Iran’s army]]></description>
+            <link>https://bdnews24.com/world/b14b632fbb96</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/b14b632fbb96</guid>
+            <pubDate>Mon, 09 Mar 2026 01:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-warship-090326-01-1772997322.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Starmer, Trump speak on Middle East]]></title>
             <description><![CDATA[[World] Starmer, Trump speak on Middle East]]></description>
@@ -33,8 +89,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/pakistan-team-0803226-1772949535.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Khamenei’s son tipped for top job as Israeli strikes widen]]></title>
-            <description><![CDATA[[World] Khamenei’s son tipped for top job as Israeli strikes widen]]></description>
+            <title><![CDATA[Khamenei’s son tipped for Iran’s top job]]></title>
+            <description><![CDATA[[World] Khamenei’s son tipped for Iran’s top job]]></description>
             <link>https://bdnews24.com/world/ae9aa49c652f</link>
             <guid isPermaLink="true">https://bdnews24.com/world/ae9aa49c652f</guid>
             <pubDate>Mon, 09 Mar 2026 00:45:00 GMT</pubDate>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/ad4a9b05e424</guid>
             <pubDate>Sun, 08 Mar 2026 21:55:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/faysal-karim-masud-080326-1772980456.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man hacked to death in Kushtia]]></title>
-            <description><![CDATA[[Bangladesh] Man hacked to death in Kushtia]]></description>
-            <link>https://bdnews24.com/bangladesh/75f98a2bca94</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/75f98a2bca94</guid>
-            <pubDate>Sun, 08 Mar 2026 21:49:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025December/SM/kushtia-thana-161225-01-1765894877.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Colombians vote in Congress, presidential primaries]]></title>
-            <description><![CDATA[[World] Colombians vote in Congress, presidential primaries]]></description>
-            <link>https://bdnews24.com/world/e2e991b6934d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/e2e991b6934d</guid>
-            <pubDate>Sun, 08 Mar 2026 21:42:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2024September/SM/srilanka-vote-211024-01-1726893314.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Four women honoured at ‘Radhuni Kirtimoti Sommanona 2025’]]></title>
-            <description><![CDATA[[Business] Four women honoured at ‘Radhuni Kirtimoti Sommanona 2025’]]></description>
-            <link>https://bdnews24.com/business/1d1db5665369</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/1d1db5665369</guid>
-            <pubDate>Sun, 08 Mar 2026 21:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/1000004185-1772984007.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Women workers toil day and night, endlessly labouring, sighing for wages]]></title>
-            <description><![CDATA[[Image] Women workers toil day and night, endlessly labouring, sighing for wages]]></description>
-            <link>https://bdnews24.com/media-en/image/637c128d080f</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/637c128d080f</guid>
-            <pubDate>Sun, 08 Mar 2026 21:30:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/womens-day-women-workers-080326-007-1772901213.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[March 8, 2026]]></title>
-            <description><![CDATA[[Image] March 8, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/01ae749f60fd</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/01ae749f60fd</guid>
-            <pubDate>Sun, 08 Mar 2026 21:13:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/children-playing-080326-052-1772900776.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[DCCI urges finance minister to slash interest rates]]></title>
-            <description><![CDATA[[Business] DCCI urges finance minister to slash interest rates]]></description>
-            <link>https://bdnews24.com/business/08d2395f3ed9</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/08d2395f3ed9</guid>
-            <pubDate>Sun, 08 Mar 2026 21:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/khashru-dhaka-chamber-080326-01-1772978903.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka WASA MD resigns]]></title>
-            <description><![CDATA[[Bangladesh] Dhaka WASA MD resigns]]></description>
-            <link>https://bdnews24.com/bangladesh/2751f1776544</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2751f1776544</guid>
-            <pubDate>Sun, 08 Mar 2026 21:02:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/dhaka-wasa-salam-bepari-080326-01-1772980015.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
