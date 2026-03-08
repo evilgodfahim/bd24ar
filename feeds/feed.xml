@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Mar 2026 10:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 11:11:56 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Mar 2026 10:13:42 GMT</pubDate>
+        <pubDate>Sun, 08 Mar 2026 11:11:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iran attacks breach international law: Swiss defence minister]]></title>
+            <description><![CDATA[[World] Iran attacks breach international law: Swiss defence minister]]></description>
+            <link>https://bdnews24.com/world/8eef89b1bc4c</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/8eef89b1bc4c</guid>
+            <pubDate>Sun, 08 Mar 2026 17:02:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/tehran-bloast-080324-01-1772967700.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Panic selling grips Dhaka stock market]]></title>
+            <description><![CDATA[[Business] Panic selling grips Dhaka stock market]]></description>
+            <link>https://bdnews24.com/business/bdb60bbacaaf</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/bdb60bbacaaf</guid>
+            <pubDate>Sun, 08 Mar 2026 16:43:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2022-07/3daa2618-3889-4547-bd6a-1f3e4711ce62/dhaka_stock_excahnge_broker_house_280722_06.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inflation rate crosses 9% after eight months]]></title>
+            <description><![CDATA[[Economy] Inflation rate crosses 9% after eight months]]></description>
+            <link>https://bdnews24.com/economy/28287970614a</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/28287970614a</guid>
+            <pubDate>Sun, 08 Mar 2026 16:28:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024May/SM/tcb-lalbagh-100623-05-1715628545.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Zubaida hopes for a safe Bangladesh for all women]]></title>
             <description><![CDATA[[Bangladesh] Zubaida hopes for a safe Bangladesh for all women]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/b1fa19e96194</guid>
             <pubDate>Sun, 08 Mar 2026 09:52:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/fa-cup-chelsea-wrexham-080326-01-1772941834.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Explosion hits US embassy in Oslo]]></title>
-            <description><![CDATA[[World] Explosion hits US embassy in Oslo]]></description>
-            <link>https://bdnews24.com/world/8c0b34b78f0a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/8c0b34b78f0a</guid>
-            <pubDate>Sun, 08 Mar 2026 09:49:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/oslo-us-embassy-blast-080326-01-1772941677.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US bypasses Congress to approve arms sale to Israel]]></title>
-            <description><![CDATA[[World] US bypasses Congress to approve arms sale to Israel]]></description>
-            <link>https://bdnews24.com/world/e8dffe23c751</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/e8dffe23c751</guid>
-            <pubDate>Sun, 08 Mar 2026 09:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-israel-arms-sale-080326-01-1772940885.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel warns Lebanon of ‘disastrous repercussions’]]></title>
-            <description><![CDATA[[Middle East] Israel warns Lebanon of ‘disastrous repercussions’]]></description>
-            <link>https://bdnews24.com/world/middle-east/005fb3716aaf</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/005fb3716aaf</guid>
-            <pubDate>Sun, 08 Mar 2026 09:30:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/israel-lebanon-warning-080326-01-1772940633.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
