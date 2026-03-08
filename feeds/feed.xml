@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Mar 2026 05:09:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 06:28:16 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Mar 2026 05:09:27 GMT</pubDate>
+        <pubDate>Sun, 08 Mar 2026 06:28:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Case petition against NCP’s Patwary for ‘threatening’ Abbas]]></title>
+            <description><![CDATA[[Bangladesh] Case petition against NCP’s Patwary for ‘threatening’ Abbas]]></description>
+            <link>https://bdnews24.com/bangladesh/d65a1932b0b0</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d65a1932b0b0</guid>
+            <pubDate>Sun, 08 Mar 2026 12:06:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025February/SM/nasiruddin-patwari-280225-03-1740734149.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Yamal strike sees Barca beat Bilbao]]></title>
             <description><![CDATA[[Sport] Yamal strike sees Barca beat Bilbao]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/dfb0ee2e6dec</guid>
             <pubDate>Sun, 08 Mar 2026 00:17:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rajshahi-mohanpur-clash-070326-01-1772905698.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eze strike sends Arsenal past Mansfield into FA Cup quarters]]></title>
-            <description><![CDATA[[Sport] Eze strike sends Arsenal past Mansfield into FA Cup quarters]]></description>
-            <link>https://bdnews24.com/sport/86e6d3fa4f01</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/86e6d3fa4f01</guid>
-            <pubDate>Sat, 07 Mar 2026 23:43:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/eze-strike-arsenal-07032026-01-1772905364.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
