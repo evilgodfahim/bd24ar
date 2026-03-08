@@ -4,13 +4,21 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Mar 2026 06:28:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 07:23:32 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Mar 2026 06:28:16 GMT</pubDate>
+        <pubDate>Sun, 08 Mar 2026 07:23:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Case petition against NCP’s Patwary for ‘threatening’ Abbas]]></title>
-            <description><![CDATA[[Bangladesh] Case petition against NCP’s Patwary for ‘threatening’ Abbas]]></description>
+            <title><![CDATA[Russia’s central bank sues EU over freeze on sovereign assets]]></title>
+            <description><![CDATA[[Business] Russia’s central bank sues EU over freeze on sovereign assets]]></description>
+            <link>https://bdnews24.com/business/d734b7c6a6b8</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/d734b7c6a6b8</guid>
+            <pubDate>Sun, 08 Mar 2026 12:31:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/eu-general-court-080326-01-1772950176.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Patwary summoned to court for ‘threatening’ Abbas]]></title>
+            <description><![CDATA[[Bangladesh] Patwary summoned to court for ‘threatening’ Abbas]]></description>
             <link>https://bdnews24.com/bangladesh/d65a1932b0b0</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/d65a1932b0b0</guid>
             <pubDate>Sun, 08 Mar 2026 12:06:00 GMT</pubDate>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/8e0a51678518</guid>
             <pubDate>Sun, 08 Mar 2026 00:31:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jhenaidah-petrole-pump-murder-070326-1772906954.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jamaat activist killed in Rajshahi BNP clash]]></title>
-            <description><![CDATA[[Bangladesh] Jamaat activist killed in Rajshahi BNP clash]]></description>
-            <link>https://bdnews24.com/bangladesh/dfb0ee2e6dec</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/dfb0ee2e6dec</guid>
-            <pubDate>Sun, 08 Mar 2026 00:17:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rajshahi-mohanpur-clash-070326-01-1772905698.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
