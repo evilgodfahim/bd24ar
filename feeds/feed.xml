@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Mar 2026 17:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 18:17:09 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Mar 2026 17:13:41 GMT</pubDate>
+        <pubDate>Sun, 08 Mar 2026 18:17:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[India crush NZ to retain T20 WC title]]></title>
+            <description><![CDATA[[Cricket] India crush NZ to retain T20 WC title]]></description>
+            <link>https://bdnews24.com/cricket/dd79ad9fb889</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/dd79ad9fb889</guid>
+            <pubDate>Sun, 08 Mar 2026 23:33:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/india-080326-02-1772986965.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Bangladeshi among 2 killed in Saudi blast]]></title>
             <description><![CDATA[[World] Bangladeshi among 2 killed in Saudi blast]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/80a6077daeae</guid>
             <pubDate>Sun, 08 Mar 2026 20:15:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/tehran-bloast-080324-01-1772967700.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Panic buying triggers BPC request for army deployment]]></title>
-            <description><![CDATA[[Bangladesh] Panic buying triggers BPC request for army deployment]]></description>
-            <link>https://bdnews24.com/bangladesh/d21fd064d6ee</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d21fd064d6ee</guid>
-            <pubDate>Sun, 08 Mar 2026 20:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/oil-pump-1000-1772978253.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
