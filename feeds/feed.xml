@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Mar 2026 13:32:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 14:14:31 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Mar 2026 13:32:47 GMT</pubDate>
+        <pubDate>Sun, 08 Mar 2026 14:14:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Panic buying triggers BPC request for army deployment]]></title>
+            <description><![CDATA[[Bangladesh] Panic buying triggers BPC request for army deployment]]></description>
+            <link>https://bdnews24.com/bangladesh/d21fd064d6ee</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d21fd064d6ee</guid>
+            <pubDate>Sun, 08 Mar 2026 20:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/petrol-pump-oil-crisis-060326-036-1772804604.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Domestic worker dies in Banani fall]]></title>
+            <description><![CDATA[[Bangladesh] Domestic worker dies in Banani fall]]></description>
+            <link>https://bdnews24.com/bangladesh/08de8eea37c8</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/08de8eea37c8</guid>
+            <pubDate>Sun, 08 Mar 2026 19:33:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/banani-death-080326-01-1772971099.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Adam Smith's lessons for the global economy]]></title>
             <description><![CDATA[[Economy] Adam Smith's lessons for the global economy]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/0c059455dc35</guid>
             <pubDate>Sun, 08 Mar 2026 15:11:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025July/SM/khairul-hauque-240725-001-1753371152.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Platforms hosts Tezhib Workshop]]></title>
-            <description><![CDATA[[Arts & Literature] Platforms hosts Tezhib Workshop]]></description>
-            <link>https://bdnews24.com/arts/c311478e9d48</link>
-            <guid isPermaLink="true">https://bdnews24.com/arts/c311478e9d48</guid>
-            <pubDate>Sun, 08 Mar 2026 14:32:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/untitled-1-1772958719.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No bail for journalist Anis Alamgir in graft case]]></title>
-            <description><![CDATA[[Bangladesh] No bail for journalist Anis Alamgir in graft case]]></description>
-            <link>https://bdnews24.com/bangladesh/1ca1326cd36c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1ca1326cd36c</guid>
-            <pubDate>Sun, 08 Mar 2026 14:12:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025December/SM/anis-alamgir-rimand-151225-02-1765801566.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
