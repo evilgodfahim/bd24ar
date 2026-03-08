@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Mar 2026 08:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 09:18:00 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Mar 2026 08:17:19 GMT</pubDate>
+        <pubDate>Sun, 08 Mar 2026 09:18:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iran conflict: Qatar warns US of ‘serious repercussions’]]></title>
+            <description><![CDATA[[World] Iran conflict: Qatar warns US of ‘serious repercussions’]]></description>
+            <link>https://bdnews24.com/world/ce79b57bd3b5</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ce79b57bd3b5</guid>
+            <pubDate>Sun, 08 Mar 2026 15:13:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/qatar-emir-tamim-to-trump-080326-1772959251.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eid vacation for English medium schools starts Monday]]></title>
+            <description><![CDATA[[Education] Eid vacation for English medium schools starts Monday]]></description>
+            <link>https://bdnews24.com/education/4d60547b4545</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/4d60547b4545</guid>
+            <pubDate>Sun, 08 Mar 2026 15:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/english-medium-080326-01-1772961093.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bail for ex-chief justice Khairul in 4 cases]]></title>
+            <description><![CDATA[[Bangladesh] Bail for ex-chief justice Khairul in 4 cases]]></description>
+            <link>https://bdnews24.com/bangladesh/0c059455dc35</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0c059455dc35</guid>
+            <pubDate>Sun, 08 Mar 2026 15:11:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025July/SM/khairul-hauque-240725-001-1753371152.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Platforms hosts Tezhib Workshop]]></title>
+            <description><![CDATA[[Arts & Literature] Platforms hosts Tezhib Workshop]]></description>
+            <link>https://bdnews24.com/arts/c311478e9d48</link>
+            <guid isPermaLink="true">https://bdnews24.com/arts/c311478e9d48</guid>
+            <pubDate>Sun, 08 Mar 2026 14:32:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/untitled-1-1772958719.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[No bail for journalist Anis Alamgir in graft case]]></title>
             <description><![CDATA[[Bangladesh] No bail for journalist Anis Alamgir in graft case]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/79ee4b37f180</guid>
             <pubDate>Sun, 08 Mar 2026 09:26:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/tehran-bloast-080324-01-1772940166.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[NZ ready to silence Indian crowds: Santner]]></title>
-            <description><![CDATA[[Sport] NZ ready to silence Indian crowds: Santner]]></description>
-            <link>https://bdnews24.com/sport/2124f5af30e3</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/2124f5af30e3</guid>
-            <pubDate>Sun, 08 Mar 2026 03:12:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/mitchell-santner-080326-01-1772917961.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Abida, high commissioner in London, recalled: PM's advisor]]></title>
-            <description><![CDATA[[Bangladesh] Abida, high commissioner in London, recalled: PM's advisor]]></description>
-            <link>https://bdnews24.com/bangladesh/a8efd1f994ba</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a8efd1f994ba</guid>
-            <pubDate>Sun, 08 Mar 2026 02:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/abida-islam-high-commissionar-london-070326-01-1772917505.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Offshore output under control: ADNOC]]></title>
-            <description><![CDATA[[Business] Offshore output under control: ADNOC]]></description>
-            <link>https://bdnews24.com/business/b1bf1b7013cc</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/b1bf1b7013cc</guid>
-            <pubDate>Sun, 08 Mar 2026 01:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/adnoc-logo-070326-01-1772912145.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump launches Latin America cartel coalition]]></title>
-            <description><![CDATA[[World] Trump launches Latin America cartel coalition]]></description>
-            <link>https://bdnews24.com/world/ca10c21f775f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ca10c21f775f</guid>
-            <pubDate>Sun, 08 Mar 2026 01:23:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/donald-trump-070326-001-1772911341.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
