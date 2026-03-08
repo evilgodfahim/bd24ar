@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Mar 2026 09:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 10:13:42 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Mar 2026 09:18:00 GMT</pubDate>
+        <pubDate>Sun, 08 Mar 2026 10:13:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Zubaida hopes for a safe Bangladesh for all women]]></title>
+            <description><![CDATA[[Bangladesh] Zubaida hopes for a safe Bangladesh for all women]]></description>
+            <link>https://bdnews24.com/bangladesh/930111b6ebcc</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/930111b6ebcc</guid>
+            <pubDate>Sun, 08 Mar 2026 16:09:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jubaida-rahman-080326-01-1772961801.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Iran conflict: Qatar warns US of ‘serious repercussions’]]></title>
             <description><![CDATA[[World] Iran conflict: Qatar warns US of ‘serious repercussions’]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/005fb3716aaf</guid>
             <pubDate>Sun, 08 Mar 2026 09:30:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/israel-lebanon-warning-080326-01-1772940633.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump rejects settling Iran war]]></title>
-            <description><![CDATA[[Middle East] Trump rejects settling Iran war]]></description>
-            <link>https://bdnews24.com/world/middle-east/79ee4b37f180</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/79ee4b37f180</guid>
-            <pubDate>Sun, 08 Mar 2026 09:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/tehran-bloast-080324-01-1772940166.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
