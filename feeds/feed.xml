@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Mar 2026 11:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 12:21:40 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Mar 2026 11:11:56 GMT</pubDate>
+        <pubDate>Sun, 08 Mar 2026 12:21:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[3 jailed for killing 20 dogs in Dhaka]]></title>
+            <description><![CDATA[[Bangladesh] 3 jailed for killing 20 dogs in Dhaka]]></description>
+            <link>https://bdnews24.com/bangladesh/e6cad8f99e10</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e6cad8f99e10</guid>
+            <pubDate>Sun, 08 Mar 2026 18:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025August/SM/cmm-court-1000-1756207693.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BERC raises jet fuel prices for March]]></title>
+            <description><![CDATA[[Bangladesh] BERC raises jet fuel prices for March]]></description>
+            <link>https://bdnews24.com/bangladesh/92af44b48a7a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/92af44b48a7a</guid>
+            <pubDate>Sun, 08 Mar 2026 17:51:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2022-11/73276616-2a6b-47c5-89ca-c6f6d6d1fbd4/shahjalal_international_airport_parking_bay_131122_01.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fuel rationing to continue until war ends: minister]]></title>
+            <description><![CDATA[[Bangladesh] Fuel rationing to continue until war ends: minister]]></description>
+            <link>https://bdnews24.com/bangladesh/6767c674711f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6767c674711f</guid>
+            <pubDate>Sun, 08 Mar 2026 17:13:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/minister-energy-tuku-080326-01-1772967084.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Iran attacks breach international law: Swiss defence minister]]></title>
             <description><![CDATA[[World] Iran attacks breach international law: Swiss defence minister]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/c3fc71f2621a</guid>
             <pubDate>Sun, 08 Mar 2026 10:28:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/riyadh-sarabia-080326-01-1772944091.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Marmoush double takes Man City past Newcastle]]></title>
-            <description><![CDATA[[Sport] Marmoush double takes Man City past Newcastle]]></description>
-            <link>https://bdnews24.com/sport/09010c1a5502</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/09010c1a5502</guid>
-            <pubDate>Sun, 08 Mar 2026 10:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/fa-cup-manchester-city-newcastle-080326-01-1772942592.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump tells Britain he does not need its help to win Iran war]]></title>
-            <description><![CDATA[[Americas] Trump tells Britain he does not need its help to win Iran war]]></description>
-            <link>https://bdnews24.com/world/americas/fa95a3a95b53</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/fa95a3a95b53</guid>
-            <pubDate>Sun, 08 Mar 2026 09:54:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/starmer-trump-030326-01-1772513569.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chelsea beat Wrexham in extra-time]]></title>
-            <description><![CDATA[[Sport] Chelsea beat Wrexham in extra-time]]></description>
-            <link>https://bdnews24.com/sport/b1fa19e96194</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/b1fa19e96194</guid>
-            <pubDate>Sun, 08 Mar 2026 09:52:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/fa-cup-chelsea-wrexham-080326-01-1772941834.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
