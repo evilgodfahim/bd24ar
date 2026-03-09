@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Mar 2026 05:48:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 06:45:40 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Mar 2026 05:48:21 GMT</pubDate>
+        <pubDate>Mon, 09 Mar 2026 06:45:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Airline pilots contend with drones, missiles and stress]]></title>
+            <description><![CDATA[[Aviation] Airline pilots contend with drones, missiles and stress]]></description>
+            <link>https://bdnews24.com/aviation/eb5adbd0da9e</link>
+            <guid isPermaLink="true">https://bdnews24.com/aviation/eb5adbd0da9e</guid>
+            <pubDate>Mon, 09 Mar 2026 12:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/plane-over-beirut-090326-01-1773036892.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[545 bottles of Indian liquor seized at Sherpur border]]></title>
+            <description><![CDATA[[Bangladesh] 545 bottles of Indian liquor seized at Sherpur border]]></description>
+            <link>https://bdnews24.com/bangladesh/88a2e2c0a788</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/88a2e2c0a788</guid>
+            <pubDate>Mon, 09 Mar 2026 11:55:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/sherpur-arrest-090326-1773029476.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 die in Rajshahi road crash]]></title>
+            <description><![CDATA[[Bangladesh] 3 die in Rajshahi road crash]]></description>
+            <link>https://bdnews24.com/bangladesh/f6c94bd765f6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f6c94bd765f6</guid>
+            <pubDate>Mon, 09 Mar 2026 11:53:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rajshahi-accident-090326-01-1773034967.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Joint forces launch raid in Jungle Salimpur]]></title>
             <description><![CDATA[[Bangladesh] Joint forces launch raid in Jungle Salimpur]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/cricket/d38b8fe44468</guid>
             <pubDate>Mon, 09 Mar 2026 01:34:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/eng-priority-flight-09032026-01-1772998402.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kiwi cricketer makes history with 5 wickets in 5 balls]]></title>
-            <description><![CDATA[[Cricket] Kiwi cricketer makes history with 5 wickets in 5 balls]]></description>
-            <link>https://bdnews24.com/cricket/1b30b371b9f6</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/1b30b371b9f6</guid>
-            <pubDate>Mon, 09 Mar 2026 01:22:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/brett-randell-nz-080326-1772953690.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US attack on Iranian warship kills 104: Iran’s army]]></title>
-            <description><![CDATA[[World] US attack on Iranian warship kills 104: Iran’s army]]></description>
-            <link>https://bdnews24.com/world/b14b632fbb96</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/b14b632fbb96</guid>
-            <pubDate>Mon, 09 Mar 2026 01:16:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-warship-090326-01-1772997322.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Starmer, Trump speak on Middle East]]></title>
-            <description><![CDATA[[World] Starmer, Trump speak on Middle East]]></description>
-            <link>https://bdnews24.com/world/a4c7a9d1ac53</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/a4c7a9d1ac53</guid>
-            <pubDate>Mon, 09 Mar 2026 01:08:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-starmer-speak-09032026-01-1772996878.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
