@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Mar 2026 11:26:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 12:32:02 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Mar 2026 11:26:41 GMT</pubDate>
+        <pubDate>Mon, 09 Mar 2026 12:32:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Kishoreganj village mourns Saudi missile strike victim]]></title>
+            <description><![CDATA[[Bangladesh] Kishoreganj village mourns Saudi missile strike victim]]></description>
+            <link>https://bdnews24.com/bangladesh/a689509e4272</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a689509e4272</guid>
+            <pubDate>Mon, 09 Mar 2026 18:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/kishoreganj-bacchu-090326-01-1773053881.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[RMG workers halt Mymensingh highway]]></title>
+            <description><![CDATA[[Bangladesh] RMG workers halt Mymensingh highway]]></description>
+            <link>https://bdnews24.com/bangladesh/9fb03a0cf41f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9fb03a0cf41f</guid>
+            <pubDate>Mon, 09 Mar 2026 17:54:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mymensingh-road-strike-090326-01-1773054719.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trauma haunts girl ‘abused’ at ex-Biman MD’s home]]></title>
+            <description><![CDATA[[Bangladesh] Trauma haunts girl ‘abused’ at ex-Biman MD’s home]]></description>
+            <link>https://bdnews24.com/bangladesh/00bb614b5805</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/00bb614b5805</guid>
+            <pubDate>Mon, 09 Mar 2026 17:53:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/biman-md-house-maid-090326-01-1773054241.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Debate on Zafrullah leads to Independence Award rule change]]></title>
             <description><![CDATA[[Bangladesh] Debate on Zafrullah leads to Independence Award rule change]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/88a2e2c0a788</guid>
             <pubDate>Mon, 09 Mar 2026 11:55:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/sherpur-arrest-090326-1773029476.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 die in Rajshahi road crash]]></title>
-            <description><![CDATA[[Bangladesh] 3 die in Rajshahi road crash]]></description>
-            <link>https://bdnews24.com/bangladesh/f6c94bd765f6</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f6c94bd765f6</guid>
-            <pubDate>Mon, 09 Mar 2026 11:53:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rajshahi-accident-090326-01-1773034967.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joint forces launch raid in Jungle Salimpur]]></title>
-            <description><![CDATA[[Bangladesh] Joint forces launch raid in Jungle Salimpur]]></description>
-            <link>https://bdnews24.com/bangladesh/2495e1c8f642</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2495e1c8f642</guid>
-            <pubDate>Mon, 09 Mar 2026 10:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/ctg-jangal-salimpur-raid-090326-4-1773032858.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4-hour overnight clash in Madaripur]]></title>
-            <description><![CDATA[[Bangladesh] 4-hour overnight clash in Madaripur]]></description>
-            <link>https://bdnews24.com/bangladesh/3f8952648a09</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3f8952648a09</guid>
-            <pubDate>Mon, 09 Mar 2026 10:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/madaripur-clash-030926-1773026860.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
