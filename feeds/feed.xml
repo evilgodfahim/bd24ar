@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Mar 2026 06:45:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 07:42:37 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Mar 2026 06:45:40 GMT</pubDate>
+        <pubDate>Mon, 09 Mar 2026 07:42:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[5 additional IGPs sent into forced retirement]]></title>
+            <description><![CDATA[[Bangladesh] 5 additional IGPs sent into forced retirement]]></description>
+            <link>https://bdnews24.com/bangladesh/c195412c67a4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c195412c67a4</guid>
+            <pubDate>Mon, 09 Mar 2026 13:19:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024August/SM/police-headquarter-050824-01-1722868947.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Islami Bank to take on Tk 2.45bn in foreign investment]]></title>
+            <description><![CDATA[[Business] Islami Bank to take on Tk 2.45bn in foreign investment]]></description>
+            <link>https://bdnews24.com/business/6315d581b398</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/6315d581b398</guid>
+            <pubDate>Mon, 09 Mar 2026 13:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mcash-logo-090326-1773039657.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BNP schedules parliamentary meeting on Wednesday]]></title>
+            <description><![CDATA[[Bangladesh] BNP schedules parliamentary meeting on Wednesday]]></description>
+            <link>https://bdnews24.com/bangladesh/75c1e38e1d8d</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/75c1e38e1d8d</guid>
+            <pubDate>Mon, 09 Mar 2026 12:46:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bnp-parlamentary-party-meet-090326-01-1773037549.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Airline pilots contend with drones, missiles and stress]]></title>
             <description><![CDATA[[Aviation] Airline pilots contend with drones, missiles and stress]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/a6bcbc8a02c2</guid>
             <pubDate>Mon, 09 Mar 2026 01:50:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/syria-iran-kurds-09032026-01-1772999385.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Major BPC shake-up amid Middle East war]]></title>
-            <description><![CDATA[[Business] Major BPC shake-up amid Middle East war]]></description>
-            <link>https://bdnews24.com/business/812d3face9ea</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/812d3face9ea</guid>
-            <pubDate>Mon, 09 Mar 2026 01:43:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bpc-ctg-080325-1772996446.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kids’ fashion takes centre stage in Eid shopping rush]]></title>
-            <description><![CDATA[[Bangladesh] Kids’ fashion takes centre stage in Eid shopping rush]]></description>
-            <link>https://bdnews24.com/bangladesh/d849efa79878</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d849efa79878</guid>
-            <pubDate>Mon, 09 Mar 2026 01:37:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/eid-bazar-080326-01-1772995218.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[England prioritised for flight home: De Kock, Miller]]></title>
-            <description><![CDATA[[Cricket] England prioritised for flight home: De Kock, Miller]]></description>
-            <link>https://bdnews24.com/cricket/d38b8fe44468</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/d38b8fe44468</guid>
-            <pubDate>Mon, 09 Mar 2026 01:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/eng-priority-flight-09032026-01-1772998402.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
