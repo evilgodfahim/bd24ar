@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Mar 2026 09:36:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 10:33:34 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Mar 2026 09:36:11 GMT</pubDate>
+        <pubDate>Mon, 09 Mar 2026 10:33:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[One prosecutor resigns from ICT, two more join]]></title>
+            <description><![CDATA[[Bangladesh] One prosecutor resigns from ICT, two more join]]></description>
+            <link>https://bdnews24.com/bangladesh/4817ecf1f49e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4817ecf1f49e</guid>
+            <pubDate>Mon, 09 Mar 2026 16:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024August/SM/tribunal-210824-1724229034.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[March 9, 2026]]></title>
+            <description><![CDATA[[Image] March 9, 2026]]></description>
+            <link>https://bdnews24.com/media-en/image/06c588407629</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/06c588407629</guid>
+            <pubDate>Mon, 09 Mar 2026 15:55:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bapco-bahrain-090326-02-1773049193.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[MGI pledges to create more jobs]]></title>
             <description><![CDATA[[Business] MGI pledges to create more jobs]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/4ebdb5ead0e1</guid>
             <pubDate>Mon, 09 Mar 2026 10:18:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/israel-strike-gaza-090326-01-1773029886.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India win praise after 3rd T20 World Cup crown]]></title>
-            <description><![CDATA[[Cricket] India win praise after 3rd T20 World Cup crown]]></description>
-            <link>https://bdnews24.com/cricket/553b01b6dc06</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/553b01b6dc06</guid>
-            <pubDate>Mon, 09 Mar 2026 09:55:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/india-world-cup-praise-090326-01-1773028280.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Muscat airport limits private jet flights]]></title>
-            <description><![CDATA[[Middle East] Muscat airport limits private jet flights]]></description>
-            <link>https://bdnews24.com/world/middle-east/ee8bac6daacf</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/ee8bac6daacf</guid>
-            <pubDate>Mon, 09 Mar 2026 09:48:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/muscat-airport-090326-01-1773028022.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
