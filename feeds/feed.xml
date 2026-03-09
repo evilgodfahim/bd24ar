@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Mar 2026 19:31:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 20:19:50 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Mar 2026 19:31:57 GMT</pubDate>
+        <pubDate>Mon, 09 Mar 2026 20:19:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bangladeshi man held in Bahrain for pro-Iran posts]]></title>
+            <description><![CDATA[[Bangladesh] Bangladeshi man held in Bahrain for pro-Iran posts]]></description>
+            <link>https://bdnews24.com/bangladesh/7cf3dcbff6a2</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7cf3dcbff6a2</guid>
+            <pubDate>Tue, 10 Mar 2026 02:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mohammed-israfel-meer-bahrain-090326-1773082516.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lesser teams light up T20 World Cup]]></title>
+            <description><![CDATA[[Cricket] Lesser teams light up T20 World Cup]]></description>
+            <link>https://bdnews24.com/cricket/9837b9b006d4</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/9837b9b006d4</guid>
+            <pubDate>Tue, 10 Mar 2026 01:48:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/world-cup-100326-01-1773085644.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sheffield FC's new owners banking on club's history]]></title>
+            <description><![CDATA[[Sport] Sheffield FC's new owners banking on club's history]]></description>
+            <link>https://bdnews24.com/sport/d97c598ed73a</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/d97c598ed73a</guid>
+            <pubDate>Tue, 10 Mar 2026 01:39:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/sheffield-fc-100326-01-1773085128.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[US closes racial gap in kidney transplants]]></title>
             <description><![CDATA[[World] US closes racial gap in kidney transplants]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/a6a2cf67f4d1</guid>
             <pubDate>Mon, 09 Mar 2026 22:50:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-flag-pumpjack-080326-01-1772945603.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Elderly man murdered in Chapainawabganj]]></title>
-            <description><![CDATA[[Bangladesh] Elderly man murdered in Chapainawabganj]]></description>
-            <link>https://bdnews24.com/bangladesh/0cda46772ca5</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0cda46772ca5</guid>
-            <pubDate>Mon, 09 Mar 2026 22:35:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/import/media/2022/01/23/chapainababganj-shibganj-thana-230122-01.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[700,000 displaced in Lebanon war]]></title>
-            <description><![CDATA[[Middle East] 700,000 displaced in Lebanon war]]></description>
-            <link>https://bdnews24.com/world/middle-east/97def0e4a935</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/97def0e4a935</guid>
-            <pubDate>Mon, 09 Mar 2026 22:30:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/israel-lebanon-warning-080326-01-1772940633.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No new banknotes for Eid once again]]></title>
-            <description><![CDATA[[Bangladesh] No new banknotes for Eid once again]]></description>
-            <link>https://bdnews24.com/bangladesh/3a212d5ec0ab</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3a212d5ec0ab</guid>
-            <pubDate>Mon, 09 Mar 2026 22:11:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024October/SM/1000-taka-note-091024-01-1728447985.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
