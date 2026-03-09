@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Mar 2026 13:57:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 14:43:51 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Mar 2026 13:57:20 GMT</pubDate>
+        <pubDate>Mon, 09 Mar 2026 14:43:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Clinic vandalised, road blocked over mother’s death in Gazipur]]></title>
+            <description><![CDATA[[Bangladesh] Clinic vandalised, road blocked over mother’s death in Gazipur]]></description>
+            <link>https://bdnews24.com/bangladesh/438e9fff8018</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/438e9fff8018</guid>
+            <pubDate>Mon, 09 Mar 2026 20:36:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/gazipur-caesar-090326-01-1773061233.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Saudi Aramco reducing output at two oilfields]]></title>
+            <description><![CDATA[[Business] Saudi Aramco reducing output at two oilfields]]></description>
+            <link>https://bdnews24.com/business/aa302448624c</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/aa302448624c</guid>
+            <pubDate>Mon, 09 Mar 2026 20:36:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/saudi-aramco-090326-01-1773066890.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM urges ‘orderly, effective’ Zakat management]]></title>
+            <description><![CDATA[[Bangladesh] PM urges ‘orderly, effective’ Zakat management]]></description>
+            <link>https://bdnews24.com/bangladesh/83190d616c4b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/83190d616c4b</guid>
+            <pubDate>Mon, 09 Mar 2026 20:31:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tarique-rahaman-090326-01-1773062900.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[23 players sent off after Brazilian Cup final brawl]]></title>
             <description><![CDATA[[Sport] 23 players sent off after Brazilian Cup final brawl]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/8d77a35c93b1</guid>
             <pubDate>Mon, 09 Mar 2026 14:58:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mirpur-fire-9326-1773046586.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[DU student beaten over alleged ties to Chhatra League]]></title>
-            <description><![CDATA[[Campus] DU student beaten over alleged ties to Chhatra League]]></description>
-            <link>https://bdnews24.com/campus/bbc5bf6afd5d</link>
-            <guid isPermaLink="true">https://bdnews24.com/campus/bbc5bf6afd5d</guid>
-            <pubDate>Mon, 09 Mar 2026 14:45:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/du-pavel-090326-01-1773043872.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BPC forms central, regional 'control cells' to monitor fuel supply]]></title>
-            <description><![CDATA[[Bangladesh] BPC forms central, regional 'control cells' to monitor fuel supply]]></description>
-            <link>https://bdnews24.com/bangladesh/8881d77d8f99</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8881d77d8f99</guid>
-            <pubDate>Mon, 09 Mar 2026 14:23:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/oil-pump-1000-1772978253.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Criminals destroy culvert to block Jungle Salimpur raids]]></title>
-            <description><![CDATA[[Bangladesh] Criminals destroy culvert to block Jungle Salimpur raids]]></description>
-            <link>https://bdnews24.com/bangladesh/20872411a607</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/20872411a607</guid>
-            <pubDate>Mon, 09 Mar 2026 14:20:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/chottogram-jangal-salimpur-raid-090326-01-1773041076.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
