@@ -4,13 +4,37 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Mar 2026 07:42:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 08:30:50 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Mar 2026 07:42:37 GMT</pubDate>
+        <pubDate>Mon, 09 Mar 2026 08:30:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[5 additional IGPs sent into forced retirement]]></title>
-            <description><![CDATA[[Bangladesh] 5 additional IGPs sent into forced retirement]]></description>
+            <title><![CDATA[BPC forms central, regional 'control cells' to monitor fuel supply]]></title>
+            <description><![CDATA[[Bangladesh] BPC forms central, regional 'control cells' to monitor fuel supply]]></description>
+            <link>https://bdnews24.com/bangladesh/8881d77d8f99</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8881d77d8f99</guid>
+            <pubDate>Mon, 09 Mar 2026 14:23:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/oil-pump-1000-1772978253.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Criminals destroy culvert to block Jungle Salimpur raids]]></title>
+            <description><![CDATA[[Bangladesh] Criminals destroy culvert to block Jungle Salimpur raids]]></description>
+            <link>https://bdnews24.com/bangladesh/20872411a607</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/20872411a607</guid>
+            <pubDate>Mon, 09 Mar 2026 14:20:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/chottogram-jangal-salimpur-raid-090326-01-1773041076.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Faisal shouldn’t be a scapegoat: Hadi’s sister]]></title>
+            <description><![CDATA[[Bangladesh] Faisal shouldn’t be a scapegoat: Hadi’s sister]]></description>
+            <link>https://bdnews24.com/bangladesh/71c8ccba2efe</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/71c8ccba2efe</guid>
+            <pubDate>Mon, 09 Mar 2026 14:02:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jhalokathi-hadi-sister-090326-1773037358.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[5 additional IGPs retired]]></title>
+            <description><![CDATA[[Bangladesh] 5 additional IGPs retired]]></description>
             <link>https://bdnews24.com/bangladesh/c195412c67a4</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/c195412c67a4</guid>
             <pubDate>Mon, 09 Mar 2026 13:19:00 GMT</pubDate>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/9dff7e351d24</guid>
             <pubDate>Mon, 09 Mar 2026 09:07:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-new-leader-9326-1773025604.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ending Iran war will be 'mutual' decision with Netanyahu: Trump]]></title>
-            <description><![CDATA[[World] Ending Iran war will be 'mutual' decision with Netanyahu: Trump]]></description>
-            <link>https://bdnews24.com/world/de437089c56d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/de437089c56d</guid>
-            <pubDate>Mon, 09 Mar 2026 09:01:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-netanyahu-1773025225.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[T20 WC winners’ list]]></title>
-            <description><![CDATA[[Cricket] T20 WC winners’ list]]></description>
-            <link>https://bdnews24.com/cricket/a912bde3edfd</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/a912bde3edfd</guid>
-            <pubDate>Mon, 09 Mar 2026 02:02:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/t20-winners-09032026-01-1773000110.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Syrian Kurds caution Iran Kurds against aligning with US]]></title>
-            <description><![CDATA[[World] Syrian Kurds caution Iran Kurds against aligning with US]]></description>
-            <link>https://bdnews24.com/world/a6bcbc8a02c2</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/a6bcbc8a02c2</guid>
-            <pubDate>Mon, 09 Mar 2026 01:50:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/syria-iran-kurds-09032026-01-1772999385.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
