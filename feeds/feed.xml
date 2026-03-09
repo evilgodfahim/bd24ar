@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Mar 2026 12:32:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 13:57:20 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Mar 2026 12:32:02 GMT</pubDate>
+        <pubDate>Mon, 09 Mar 2026 13:57:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[23 players sent off after Brazilian Cup final brawl]]></title>
+            <description><![CDATA[[Sport] 23 players sent off after Brazilian Cup final brawl]]></description>
+            <link>https://bdnews24.com/sport/e4882c646a53</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/e4882c646a53</guid>
+            <pubDate>Mon, 09 Mar 2026 19:38:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/brazilian-cup-090326-01-1773063433.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Govt moves to lift ‘political harassment’ charges]]></title>
+            <description><![CDATA[[Bangladesh] Govt moves to lift ‘political harassment’ charges]]></description>
+            <link>https://bdnews24.com/bangladesh/848e37c55e4b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/848e37c55e4b</guid>
+            <pubDate>Mon, 09 Mar 2026 19:37:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/asaduzzaman-090326-01-1773055776.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tangail worker killed in Saudi strike shortly after Eid call with family]]></title>
+            <description><![CDATA[[Bangladesh] Tangail worker killed in Saudi strike shortly after Eid call with family]]></description>
+            <link>https://bdnews24.com/bangladesh/5f44b5a3812a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5f44b5a3812a</guid>
+            <pubDate>Mon, 09 Mar 2026 19:07:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tangail-soudi-dead-090326-01-1773057750.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rain forecast for all eight divisions]]></title>
+            <description><![CDATA[[Bangladesh] Rain forecast for all eight divisions]]></description>
+            <link>https://bdnews24.com/bangladesh/eaf248da8b75</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/eaf248da8b75</guid>
+            <pubDate>Mon, 09 Mar 2026 19:07:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-08/d5bcfa54-04e3-4c52-b81b-16348bff79c3/rain_umbrella_dhaka_160823_09.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russia pledges 'unwavering support' for Tehran]]></title>
+            <description><![CDATA[[World] Russia pledges 'unwavering support' for Tehran]]></description>
+            <link>https://bdnews24.com/world/ae8e0e978879</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ae8e0e978879</guid>
+            <pubDate>Mon, 09 Mar 2026 18:54:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/russia-putin-090326-01-1773060838.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Full control restored in Jungle Salimpur: DIG]]></title>
+            <description><![CDATA[[Bangladesh] Full control restored in Jungle Salimpur: DIG]]></description>
+            <link>https://bdnews24.com/bangladesh/b21f0f489f9a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b21f0f489f9a</guid>
+            <pubDate>Mon, 09 Mar 2026 18:48:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/chattogram-salimpur-raids-090326-01-1773051437.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Kishoreganj village mourns Saudi missile strike victim]]></title>
             <description><![CDATA[[Bangladesh] Kishoreganj village mourns Saudi missile strike victim]]></description>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/20872411a607</guid>
             <pubDate>Mon, 09 Mar 2026 14:20:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/chottogram-jangal-salimpur-raid-090326-01-1773041076.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Faisal shouldn’t be a scapegoat: Hadi’s sister]]></title>
-            <description><![CDATA[[Bangladesh] Faisal shouldn’t be a scapegoat: Hadi’s sister]]></description>
-            <link>https://bdnews24.com/bangladesh/71c8ccba2efe</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/71c8ccba2efe</guid>
-            <pubDate>Mon, 09 Mar 2026 14:02:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jhalokathi-hadi-sister-090326-1773037358.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[5 additional IGPs retired]]></title>
-            <description><![CDATA[[Bangladesh] 5 additional IGPs retired]]></description>
-            <link>https://bdnews24.com/bangladesh/c195412c67a4</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c195412c67a4</guid>
-            <pubDate>Mon, 09 Mar 2026 13:19:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024August/SM/police-headquarter-050824-01-1722868947.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Islami Bank to take on Tk 2.45bn in foreign investment]]></title>
-            <description><![CDATA[[Business] Islami Bank to take on Tk 2.45bn in foreign investment]]></description>
-            <link>https://bdnews24.com/business/6315d581b398</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/6315d581b398</guid>
-            <pubDate>Mon, 09 Mar 2026 13:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mcash-logo-090326-1773039657.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BNP schedules parliamentary meeting on Wednesday]]></title>
-            <description><![CDATA[[Bangladesh] BNP schedules parliamentary meeting on Wednesday]]></description>
-            <link>https://bdnews24.com/bangladesh/75c1e38e1d8d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/75c1e38e1d8d</guid>
-            <pubDate>Mon, 09 Mar 2026 12:46:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bnp-parlamentary-party-meet-090326-01-1773037549.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Airline pilots contend with drones, missiles and stress]]></title>
-            <description><![CDATA[[Aviation] Airline pilots contend with drones, missiles and stress]]></description>
-            <link>https://bdnews24.com/aviation/eb5adbd0da9e</link>
-            <guid isPermaLink="true">https://bdnews24.com/aviation/eb5adbd0da9e</guid>
-            <pubDate>Mon, 09 Mar 2026 12:16:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/plane-over-beirut-090326-01-1773036892.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[545 bottles of Indian liquor seized at Sherpur border]]></title>
-            <description><![CDATA[[Bangladesh] 545 bottles of Indian liquor seized at Sherpur border]]></description>
-            <link>https://bdnews24.com/bangladesh/88a2e2c0a788</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/88a2e2c0a788</guid>
-            <pubDate>Mon, 09 Mar 2026 11:55:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/sherpur-arrest-090326-1773029476.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
