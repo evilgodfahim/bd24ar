@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Mar 2026 10:33:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 11:26:41 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Mar 2026 10:33:34 GMT</pubDate>
+        <pubDate>Mon, 09 Mar 2026 11:26:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Debate on Zafrullah leads to Independence Award rule change]]></title>
+            <description><![CDATA[[Bangladesh] Debate on Zafrullah leads to Independence Award rule change]]></description>
+            <link>https://bdnews24.com/bangladesh/509d950780a7</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/509d950780a7</guid>
+            <pubDate>Mon, 09 Mar 2026 16:45:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/zafrullah-chowdhury-1000-1773049204.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[37,567 women selected for Family Cards in first phase: minister]]></title>
+            <description><![CDATA[[Bangladesh] 37,567 women selected for Family Cards in first phase: minister]]></description>
+            <link>https://bdnews24.com/bangladesh/62f3e9f4a36c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/62f3e9f4a36c</guid>
+            <pubDate>Mon, 09 Mar 2026 16:40:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/family-card-press-conference-090326-1773050361.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Steps taken to repatriate Hadi’s killers: Salahuddin]]></title>
+            <description><![CDATA[[Bangladesh] Steps taken to repatriate Hadi’s killers: Salahuddin]]></description>
+            <link>https://bdnews24.com/bangladesh/e74ec0fd7a3f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e74ec0fd7a3f</guid>
+            <pubDate>Mon, 09 Mar 2026 16:34:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/coxsbazar-home-mini-090326-01-1773050260.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[One prosecutor resigns from ICT, two more join]]></title>
             <description><![CDATA[[Bangladesh] One prosecutor resigns from ICT, two more join]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/3f8952648a09</guid>
             <pubDate>Mon, 09 Mar 2026 10:34:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/madaripur-clash-030926-1773026860.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japan embraces a nuclear-powered future]]></title>
-            <description><![CDATA[[Asia Pacific] Japan embraces a nuclear-powered future]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/aa227bbaa3e3</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/aa227bbaa3e3</guid>
-            <pubDate>Mon, 09 Mar 2026 10:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/fukushima-plant-090326-01-1773030302.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Europe now world's biggest arms importer: think tank]]></title>
-            <description><![CDATA[[Europe] Europe now world's biggest arms importer: think tank]]></description>
-            <link>https://bdnews24.com/world/europe/9bdb7ebe6a9a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/9bdb7ebe6a9a</guid>
-            <pubDate>Mon, 09 Mar 2026 10:21:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/drone-inspection-090326-01-1773029998.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israeli strike kills 6 Palestinians in Gaza: medics]]></title>
-            <description><![CDATA[[Middle East] Israeli strike kills 6 Palestinians in Gaza: medics]]></description>
-            <link>https://bdnews24.com/world/middle-east/4ebdb5ead0e1</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/4ebdb5ead0e1</guid>
-            <pubDate>Mon, 09 Mar 2026 10:18:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/israel-strike-gaza-090326-01-1773029886.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
