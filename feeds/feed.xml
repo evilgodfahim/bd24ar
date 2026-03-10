@@ -4,10 +4,74 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Mar 2026 12:31:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 13:53:50 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Mar 2026 12:31:57 GMT</pubDate>
+        <pubDate>Tue, 10 Mar 2026 13:53:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Al Qaeda-linked militants kill 12 truck drivers in Mali]]></title>
+            <description><![CDATA[[World] Al Qaeda-linked militants kill 12 truck drivers in Mali]]></description>
+            <link>https://bdnews24.com/world/e3e3110d8447</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e3e3110d8447</guid>
+            <pubDate>Tue, 10 Mar 2026 19:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-07/41f42e7a-878c-4656-bea3-b1b4c64e26dc/al_qaeda_300723_01.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ADNOC shuts Ruwais refinery after drone strike fire]]></title>
+            <description><![CDATA[[World] ADNOC shuts Ruwais refinery after drone strike fire]]></description>
+            <link>https://bdnews24.com/world/99d9f5966274</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/99d9f5966274</guid>
+            <pubDate>Tue, 10 Mar 2026 19:24:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/adnoc-logo-070326-01-1772912145.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jamaat leader dies following clash with BNP]]></title>
+            <description><![CDATA[[Politics] Jamaat leader dies following clash with BNP]]></description>
+            <link>https://bdnews24.com/politics/e1d71e303a66</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/e1d71e303a66</guid>
+            <pubDate>Tue, 10 Mar 2026 19:24:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/chuadanga-bnp-jamat-clash-010326-01-1772342971.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nuclear energy cuts a ‘strategic mistake’: EU chief]]></title>
+            <description><![CDATA[[World] Nuclear energy cuts a ‘strategic mistake’: EU chief]]></description>
+            <link>https://bdnews24.com/world/3f1eb0bc0376</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/3f1eb0bc0376</guid>
+            <pubDate>Tue, 10 Mar 2026 19:22:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025October/SM/gas-pipelines-201025-01-1760968451.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Teacher assaulted for reporting ‘exam misconduct’]]></title>
+            <description><![CDATA[[Bangladesh] Teacher assaulted for reporting ‘exam misconduct’]]></description>
+            <link>https://bdnews24.com/bangladesh/0078ddeae87f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0078ddeae87f</guid>
+            <pubDate>Tue, 10 Mar 2026 19:20:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tejgaon-college-100326-1773149089.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-AL MP Shah Alam freed on bail]]></title>
+            <description><![CDATA[[Bangladesh] Ex-AL MP Shah Alam freed on bail]]></description>
+            <link>https://bdnews24.com/bangladesh/e732046ea2f8</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e732046ea2f8</guid>
+            <pubDate>Tue, 10 Mar 2026 19:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/shah-alam-280226-01-1772309625.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump tells Fox News he might talk with Iran]]></title>
+            <description><![CDATA[[World] Trump tells Fox News he might talk with Iran]]></description>
+            <link>https://bdnews24.com/world/32c97ad1dbe1</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/32c97ad1dbe1</guid>
+            <pubDate>Tue, 10 Mar 2026 18:56:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-6326-1772768322.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Surrendered extremists returning to arms: RAB]]></title>
+            <description><![CDATA[[Bangladesh] Surrendered extremists returning to arms: RAB]]></description>
+            <link>https://bdnews24.com/bangladesh/8723f1eac94f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8723f1eac94f</guid>
+            <pubDate>Tue, 10 Mar 2026 18:41:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rab-press-con-100326-1773140984.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Four human skeleton sellers land in jail]]></title>
             <description><![CDATA[[Bangladesh] Four human skeleton sellers land in jail]]></description>
@@ -103,70 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/d268e891e930</guid>
             <pubDate>Tue, 10 Mar 2026 14:54:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-02/9021c496-de82-40e2-9272-b4d04091c11d/dmch_emergency_department_230223_04.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian restaurants warn of shutdowns amid gas shortage]]></title>
-            <description><![CDATA[[Neighbours] Indian restaurants warn of shutdowns amid gas shortage]]></description>
-            <link>https://bdnews24.com/neighbours/1d887b5e3816</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/1d887b5e3816</guid>
-            <pubDate>Tue, 10 Mar 2026 14:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/india-gas-iran-crisis-100326-01-1773131676.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Won’t move away from commitments: PM Tarique]]></title>
-            <description><![CDATA[[Bangladesh] Won’t move away from commitments: PM Tarique]]></description>
-            <link>https://bdnews24.com/bangladesh/b5e221018bc7</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b5e221018bc7</guid>
-            <pubDate>Tue, 10 Mar 2026 14:10:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tareq-rahman-100326-01-1773127731.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2 held over college student’s ‘rape’ on launch]]></title>
-            <description><![CDATA[[Bangladesh] 2 held over college student’s ‘rape’ on launch]]></description>
-            <link>https://bdnews24.com/bangladesh/37d61cd0fdf6</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/37d61cd0fdf6</guid>
-            <pubDate>Tue, 10 Mar 2026 13:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mv-farhan-100326-1773127168.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[International trade to remain undisrupted during Eid holidays]]></title>
-            <description><![CDATA[[Business] International trade to remain undisrupted during Eid holidays]]></description>
-            <link>https://bdnews24.com/business/3634f2ee60b1</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/3634f2ee60b1</guid>
-            <pubDate>Tue, 10 Mar 2026 13:00:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024August/SM/benapole-port-260824-01-1724648319.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[5,000 tonnes of diesel coming from India via pipeline]]></title>
-            <description><![CDATA[[Business] 5,000 tonnes of diesel coming from India via pipeline]]></description>
-            <link>https://bdnews24.com/business/ea1cc39d1bfd</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/ea1cc39d1bfd</guid>
-            <pubDate>Tue, 10 Mar 2026 12:50:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/ibfpl-100326-01-1773124319.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hayden named Gujarat Titans' batting coach ahead of IPL]]></title>
-            <description><![CDATA[[Cricket] Hayden named Gujarat Titans' batting coach ahead of IPL]]></description>
-            <link>https://bdnews24.com/cricket/14a2a2f091d4</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/14a2a2f091d4</guid>
-            <pubDate>Tue, 10 Mar 2026 12:40:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/matthew-hayden-100326-01-1773124730.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[5-litre daily fuel limit for ride-sharing motorbikes: BPC]]></title>
-            <description><![CDATA[[Bangladesh] 5-litre daily fuel limit for ride-sharing motorbikes: BPC]]></description>
-            <link>https://bdnews24.com/bangladesh/b2ce6ecb5fcd</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b2ce6ecb5fcd</guid>
-            <pubDate>Tue, 10 Mar 2026 12:22:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/petrol-pump-oil-crisis-060326-036-1772804604.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Germany pulls embassy staff out of Iraq]]></title>
-            <description><![CDATA[[World] Germany pulls embassy staff out of Iraq]]></description>
-            <link>https://bdnews24.com/world/4477543b9c92</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/4477543b9c92</guid>
-            <pubDate>Tue, 10 Mar 2026 12:16:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-crisis-iraq-100326-01-1773123324.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
