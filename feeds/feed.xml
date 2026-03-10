@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Mar 2026 22:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 23:16:22 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Mar 2026 22:15:26 GMT</pubDate>
+        <pubDate>Tue, 10 Mar 2026 23:16:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bayern smash six past Atalanta]]></title>
+            <description><![CDATA[[Sport] Bayern smash six past Atalanta]]></description>
+            <link>https://bdnews24.com/sport/3a999c36aca7</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/3a999c36aca7</guid>
+            <pubDate>Wed, 11 Mar 2026 04:52:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/bayern-atlanta-110326-01-1773183100.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Atletico punish Tottenham errors in 5-2 UCL rout]]></title>
+            <description><![CDATA[[Sport] Atletico punish Tottenham errors in 5-2 UCL rout]]></description>
+            <link>https://bdnews24.com/sport/bea8df9da21f</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/bea8df9da21f</guid>
+            <pubDate>Wed, 11 Mar 2026 04:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/antonin-kinsky-110326-01-1773182739.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yamal's late penalty rescues draw for Barca]]></title>
+            <description><![CDATA[[Sport] Yamal's late penalty rescues draw for Barca]]></description>
+            <link>https://bdnews24.com/sport/01a3a33fce1c</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/01a3a33fce1c</guid>
+            <pubDate>Wed, 11 Mar 2026 04:44:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/newcastle-barca-110326-01-1773182568.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Lemina header earns Galatasaray 1-0 win over Liverpool]]></title>
             <description><![CDATA[[Sport] Lemina header earns Galatasaray 1-0 win over Liverpool]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/df03ae5810d6</guid>
             <pubDate>Wed, 11 Mar 2026 00:05:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/plane-over-beirut-090326-01-1773036892.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Machida, Buriram secure ACL quarter-final spots]]></title>
-            <description><![CDATA[[Sport] Machida, Buriram secure ACL quarter-final spots]]></description>
-            <link>https://bdnews24.com/sport/655d523a4b52</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/655d523a4b52</guid>
-            <pubDate>Tue, 10 Mar 2026 23:55:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/acl-quarter-final-100326-01-1773165328.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pump owners want petrol, octane rationing lifted]]></title>
-            <description><![CDATA[[Bangladesh] Pump owners want petrol, octane rationing lifted]]></description>
-            <link>https://bdnews24.com/bangladesh/ad770ba97174</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ad770ba97174</guid>
-            <pubDate>Tue, 10 Mar 2026 23:55:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/petrol-pump-oil-crisis-060326-018-1772804788.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[West Indies players leave India on commercial flights]]></title>
-            <description><![CDATA[[Sport] West Indies players leave India on commercial flights]]></description>
-            <link>https://bdnews24.com/sport/04090b90db27</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/04090b90db27</guid>
-            <pubDate>Tue, 10 Mar 2026 23:46:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/emirates-05032026-1772724928.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
