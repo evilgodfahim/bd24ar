@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Mar 2026 05:04:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 06:33:28 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Mar 2026 05:04:29 GMT</pubDate>
+        <pubDate>Tue, 10 Mar 2026 06:33:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[5-litre daily fuel limit for ride-sharing motorbikes: BPC]]></title>
+            <description><![CDATA[[Bangladesh] 5-litre daily fuel limit for ride-sharing motorbikes: BPC]]></description>
+            <link>https://bdnews24.com/bangladesh/b2ce6ecb5fcd</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b2ce6ecb5fcd</guid>
+            <pubDate>Tue, 10 Mar 2026 12:22:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/petrol-pump-oil-crisis-060326-036-1772804604.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Germany pulls embassy staff out of Iraq]]></title>
+            <description><![CDATA[[World] Germany pulls embassy staff out of Iraq]]></description>
+            <link>https://bdnews24.com/world/4477543b9c92</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/4477543b9c92</guid>
+            <pubDate>Tue, 10 Mar 2026 12:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-crisis-iraq-100326-01-1773123324.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM begins rollout of Family Card programme]]></title>
+            <description><![CDATA[[Bangladesh] PM begins rollout of Family Card programme]]></description>
+            <link>https://bdnews24.com/bangladesh/81775bedc859</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/81775bedc859</guid>
+            <pubDate>Tue, 10 Mar 2026 11:29:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tarique-rahaman-100336-01-1773118644.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beating of DU student: Mother files complaint]]></title>
+            <description><![CDATA[[Campus] Beating of DU student: Mother files complaint]]></description>
+            <link>https://bdnews24.com/campus/a5a07574b3e4</link>
+            <guid isPermaLink="true">https://bdnews24.com/campus/a5a07574b3e4</guid>
+            <pubDate>Tue, 10 Mar 2026 11:13:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/du-pavel-090326-01-1773043872.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[4 held with 47 human bones]]></title>
+            <description><![CDATA[[Bangladesh] 4 held with 47 human bones]]></description>
+            <link>https://bdnews24.com/bangladesh/aa771c164272</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/aa771c164272</guid>
+            <pubDate>Tue, 10 Mar 2026 11:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tejgaon-thana-arrest-100326-01-1773118310.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Oil falls over 6%]]></title>
             <description><![CDATA[[Business] Oil falls over 6%]]></description>
@@ -81,12 +121,12 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/bapco-oil-refinery-100326-01-1773114227.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Trump warns Iran against blocking Hormuz Strait]]></title>
-            <description><![CDATA[[World] Trump warns Iran against blocking Hormuz Strait]]></description>
+            <title><![CDATA[Asia markets rebound on Trump optimism]]></title>
+            <description><![CDATA[[World] Asia markets rebound on Trump optimism]]></description>
             <link>https://bdnews24.com/world/e13901118e1d</link>
             <guid isPermaLink="true">https://bdnews24.com/world/e13901118e1d</guid>
             <pubDate>Tue, 10 Mar 2026 09:40:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-10326-1773113966.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/asia-market-100326-1773120498.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Australia grants visas to 5 Iranian women football players]]></title>
@@ -105,12 +145,12 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/strait-of-hormuz-030326-01-1772522952.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Trump threatens to escalate Iran war, but says it could end soon]]></title>
-            <description><![CDATA[[World] Trump threatens to escalate Iran war, but says it could end soon]]></description>
+            <title><![CDATA[Oil blockade will continue until attacks end: Iran]]></title>
+            <description><![CDATA[[World] Oil blockade will continue until attacks end: Iran]]></description>
             <link>https://bdnews24.com/world/f84b409c98c6</link>
             <guid isPermaLink="true">https://bdnews24.com/world/f84b409c98c6</guid>
             <pubDate>Tue, 10 Mar 2026 09:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/usa-president-donald-trump-090226-1773085506.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025July/SM/iran-oil-040725-01-1751602391.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[ICT prosecutor quits amid ‘Tk 10mn bribe scandal’]]></title>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/7cf3dcbff6a2</guid>
             <pubDate>Tue, 10 Mar 2026 02:04:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mohammed-israfel-meer-bahrain-090326-1773082516.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lesser teams light up T20 World Cup]]></title>
-            <description><![CDATA[[Cricket] Lesser teams light up T20 World Cup]]></description>
-            <link>https://bdnews24.com/cricket/9837b9b006d4</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/9837b9b006d4</guid>
-            <pubDate>Tue, 10 Mar 2026 01:48:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/world-cup-100326-01-1773085644.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sheffield FC's new owners banking on club's history]]></title>
-            <description><![CDATA[[Sport] Sheffield FC's new owners banking on club's history]]></description>
-            <link>https://bdnews24.com/sport/d97c598ed73a</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/d97c598ed73a</guid>
-            <pubDate>Tue, 10 Mar 2026 01:39:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/sheffield-fc-100326-01-1773085128.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US closes racial gap in kidney transplants]]></title>
-            <description><![CDATA[[World] US closes racial gap in kidney transplants]]></description>
-            <link>https://bdnews24.com/world/7512ccd38bee</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/7512ccd38bee</guid>
-            <pubDate>Tue, 10 Mar 2026 01:31:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/kidney-1773084659.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Qatar league to resume]]></title>
-            <description><![CDATA[[Sport] Qatar league to resume]]></description>
-            <link>https://bdnews24.com/sport/ab5cfd2c7a33</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/ab5cfd2c7a33</guid>
-            <pubDate>Tue, 10 Mar 2026 01:23:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/qatar-league-100326-01-1773084140.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Compensation approved for Crans-Montana fire victims]]></title>
-            <description><![CDATA[[World] Compensation approved for Crans-Montana fire victims]]></description>
-            <link>https://bdnews24.com/world/1f3ffc52ba17</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/1f3ffc52ba17</guid>
-            <pubDate>Tue, 10 Mar 2026 01:16:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026January/SM/swiss-ski-resort-blast-010126-01-1767269033.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
