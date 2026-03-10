@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Mar 2026 13:53:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 14:38:48 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Mar 2026 13:53:50 GMT</pubDate>
+        <pubDate>Tue, 10 Mar 2026 14:38:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[College student killed by classmates for iPhone: police]]></title>
+            <description><![CDATA[[Bangladesh] College student killed by classmates for iPhone: police]]></description>
+            <link>https://bdnews24.com/bangladesh/85aa961e5436</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/85aa961e5436</guid>
+            <pubDate>Tue, 10 Mar 2026 20:24:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/gopalganj-siam-murder-100326-01-1773140247.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Merz warns no clear plan to end Iran war]]></title>
+            <description><![CDATA[[World] Merz warns no clear plan to end Iran war]]></description>
+            <link>https://bdnews24.com/world/fba1c25ac7d0</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/fba1c25ac7d0</guid>
+            <pubDate>Tue, 10 Mar 2026 20:14:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/friedrich-merz-190226-01-1771472614.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prof Pravath made new health directorate chief]]></title>
+            <description><![CDATA[[Bangladesh] Prof Pravath made new health directorate chief]]></description>
+            <link>https://bdnews24.com/bangladesh/319e423a64fc</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/319e423a64fc</guid>
+            <pubDate>Tue, 10 Mar 2026 20:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/provat-chandra-biswas-100326-01-1773148711.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Al Qaeda-linked militants kill 12 truck drivers in Mali]]></title>
             <description><![CDATA[[World] Al Qaeda-linked militants kill 12 truck drivers in Mali]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/economy/fe7584b61731</guid>
             <pubDate>Tue, 10 Mar 2026 15:49:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/iran-strikes-us-navy-fleet-020326-1772450982.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How many killed in US-Israel war on Iran?]]></title>
-            <description><![CDATA[[Middle East] How many killed in US-Israel war on Iran?]]></description>
-            <link>https://bdnews24.com/world/middle-east/001c6bbb28d6</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/001c6bbb28d6</guid>
-            <pubDate>Tue, 10 Mar 2026 15:16:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-funeral-10326-1773134120.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Middle East countries cut daily oil output: Bloomberg]]></title>
-            <description><![CDATA[[World] Middle East countries cut daily oil output: Bloomberg]]></description>
-            <link>https://bdnews24.com/world/3dd36fbce756</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/3dd36fbce756</guid>
-            <pubDate>Tue, 10 Mar 2026 14:58:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/oil-100326-01-1773132982.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2 die in road crash outside Bangabhaban]]></title>
-            <description><![CDATA[[Bangladesh] 2 die in road crash outside Bangabhaban]]></description>
-            <link>https://bdnews24.com/bangladesh/d268e891e930</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d268e891e930</guid>
-            <pubDate>Tue, 10 Mar 2026 14:54:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-02/9021c496-de82-40e2-9272-b4d04091c11d/dmch_emergency_department_230223_04.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
