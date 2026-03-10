@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Mar 2026 07:32:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 08:27:18 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Mar 2026 07:32:54 GMT</pubDate>
+        <pubDate>Tue, 10 Mar 2026 08:27:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Won’t move away from commitments: PM Tarique]]></title>
+            <description><![CDATA[[Bangladesh] Won’t move away from commitments: PM Tarique]]></description>
+            <link>https://bdnews24.com/bangladesh/b5e221018bc7</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b5e221018bc7</guid>
+            <pubDate>Tue, 10 Mar 2026 14:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tareq-rahman-100326-01-1773127731.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[2 held over college student’s ‘rape’ on launch]]></title>
             <description><![CDATA[[Bangladesh] 2 held over college student’s ‘rape’ on launch]]></description>
@@ -153,20 +161,12 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/bapco-oil-refinery-100326-01-1773114227.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Asia markets rebound on Trump optimism]]></title>
-            <description><![CDATA[[World] Asia markets rebound on Trump optimism]]></description>
+            <title><![CDATA[US-Israel war ‘a failure’: Iran FM]]></title>
+            <description><![CDATA[[World] US-Israel war ‘a failure’: Iran FM]]></description>
             <link>https://bdnews24.com/world/e13901118e1d</link>
             <guid isPermaLink="true">https://bdnews24.com/world/e13901118e1d</guid>
             <pubDate>Tue, 10 Mar 2026 09:40:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/asia-market-100326-1773120498.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australia grants visas to 5 Iranian women football players]]></title>
-            <description><![CDATA[[World] Australia grants visas to 5 Iranian women football players]]></description>
-            <link>https://bdnews24.com/world/3b7afaaf03b3</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/3b7afaaf03b3</guid>
-            <pubDate>Tue, 10 Mar 2026 09:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/australia-iran-asylum-women-football-playes-100326-01-1773113218.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/tehran-10326-1773130719.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
