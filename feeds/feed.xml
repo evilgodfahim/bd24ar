@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Mar 2026 00:56:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 03:22:54 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Mar 2026 00:56:55 GMT</pubDate>
+        <pubDate>Tue, 10 Mar 2026 03:22:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US will hit Iran harder if Hormuz oil flow stops: Trump]]></title>
+            <description><![CDATA[[World] US will hit Iran harder if Hormuz oil flow stops: Trump]]></description>
+            <link>https://bdnews24.com/world/d94c1b53f7cc</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/d94c1b53f7cc</guid>
+            <pubDate>Tue, 10 Mar 2026 09:18:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/strait-of-hormuz-030326-01-1772522952.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump threatens to escalate Iran war, but says it could end soon]]></title>
+            <description><![CDATA[[World] Trump threatens to escalate Iran war, but says it could end soon]]></description>
+            <link>https://bdnews24.com/world/f84b409c98c6</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/f84b409c98c6</guid>
+            <pubDate>Tue, 10 Mar 2026 09:09:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/usa-president-donald-trump-090226-1773085506.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ICT prosecutor quits amid ‘Tk 10mn bribe scandal’]]></title>
             <description><![CDATA[[Bangladesh] ICT prosecutor quits amid ‘Tk 10mn bribe scandal’]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/b3028e6e25bb</guid>
             <pubDate>Mon, 09 Mar 2026 23:40:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/kurigram-sadar-thana-090326-01-1773071102.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Energy crisis has arrived: Putin]]></title>
-            <description><![CDATA[[World] Energy crisis has arrived: Putin]]></description>
-            <link>https://bdnews24.com/world/1b2e4a5da9b6</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/1b2e4a5da9b6</guid>
-            <pubDate>Mon, 09 Mar 2026 23:06:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/energy-crisis-putin-09032026-01-1773075967.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel will target ‘radical’ critics: UN envoy]]></title>
-            <description><![CDATA[[World] Israel will target ‘radical’ critics: UN envoy]]></description>
-            <link>https://bdnews24.com/world/ead99fddc13f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ead99fddc13f</guid>
-            <pubDate>Mon, 09 Mar 2026 22:58:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/danny-danon-090326-01-1773075377.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
