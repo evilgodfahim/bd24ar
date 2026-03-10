@@ -4,13 +4,69 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Mar 2026 17:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 18:32:49 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Mar 2026 17:37:31 GMT</pubDate>
+        <pubDate>Tue, 10 Mar 2026 18:32:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[156 citizens demand release of Emi-Mamun]]></title>
-            <description><![CDATA[[Bangladesh] 156 citizens demand release of Emi-Mamun]]></description>
+            <title><![CDATA[HMS Dragon departs for Eastern Mediterranean]]></title>
+            <description><![CDATA[[World] HMS Dragon departs for Eastern Mediterranean]]></description>
+            <link>https://bdnews24.com/world/ad328d7e7b1e</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ad328d7e7b1e</guid>
+            <pubDate>Wed, 11 Mar 2026 00:18:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/warship-hms-dragon-10032026-01-1773166645.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tanker with Iranian oil sails through Hormuz, trackers show]]></title>
+            <description><![CDATA[[World] Tanker with Iranian oil sails through Hormuz, trackers show]]></description>
+            <link>https://bdnews24.com/world/3baafebc44ab</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/3baafebc44ab</guid>
+            <pubDate>Wed, 11 Mar 2026 00:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-oil-tanker-hormuz-10032026-01-1773166429.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[White House expected to seek billions more in war funding]]></title>
+            <description><![CDATA[[World] White House expected to seek billions more in war funding]]></description>
+            <link>https://bdnews24.com/world/df03ae5810d6</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/df03ae5810d6</guid>
+            <pubDate>Wed, 11 Mar 2026 00:05:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/plane-over-beirut-090326-01-1773036892.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Machida, Buriram secure ACL quarter-final spots]]></title>
+            <description><![CDATA[[Sport] Machida, Buriram secure ACL quarter-final spots]]></description>
+            <link>https://bdnews24.com/sport/655d523a4b52</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/655d523a4b52</guid>
+            <pubDate>Tue, 10 Mar 2026 23:55:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/acl-quarter-final-100326-01-1773165328.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pump owners want petrol, octane rationing lifted]]></title>
+            <description><![CDATA[[Bangladesh] Pump owners want petrol, octane rationing lifted]]></description>
+            <link>https://bdnews24.com/bangladesh/ad770ba97174</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ad770ba97174</guid>
+            <pubDate>Tue, 10 Mar 2026 23:55:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/petrol-pump-oil-crisis-060326-018-1772804788.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[West Indies players leave India on commercial flights]]></title>
+            <description><![CDATA[[Sport] West Indies players leave India on commercial flights]]></description>
+            <link>https://bdnews24.com/sport/04090b90db27</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/04090b90db27</guid>
+            <pubDate>Tue, 10 Mar 2026 23:46:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/emirates-05032026-1772724928.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran resilient but within estimates: top US general]]></title>
+            <description><![CDATA[[World] Iran resilient but within estimates: top US general]]></description>
+            <link>https://bdnews24.com/world/4a445bee338f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/4a445bee338f</guid>
+            <pubDate>Tue, 10 Mar 2026 23:40:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/pete-hegseth-100326-01-2-1773164383.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arrest of DU students under Anti-Terrorism Act sparks outcry from activists]]></title>
+            <description><![CDATA[[Bangladesh] Arrest of DU students under Anti-Terrorism Act sparks outcry from activists]]></description>
             <link>https://bdnews24.com/bangladesh/79ed0738fd81</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/79ed0738fd81</guid>
             <pubDate>Tue, 10 Mar 2026 23:35:00 GMT</pubDate>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/3ad4f0d4511d</guid>
             <pubDate>Tue, 10 Mar 2026 21:34:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025September/SM/us-china-trade-talks-150925-01-1757906142.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man arrested over ‘raping’ schoolgirl]]></title>
-            <description><![CDATA[[Bangladesh] Man arrested over ‘raping’ schoolgirl]]></description>
-            <link>https://bdnews24.com/bangladesh/1db5837504aa</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1db5837504aa</guid>
-            <pubDate>Tue, 10 Mar 2026 21:20:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rangpur-arrest-100326-01-1773150077.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[367 Middle East flights cancelled in 11 days]]></title>
-            <description><![CDATA[[Bangladesh] 367 Middle East flights cancelled in 11 days]]></description>
-            <link>https://bdnews24.com/bangladesh/2d4c9719f0bf</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2d4c9719f0bf</guid>
-            <pubDate>Tue, 10 Mar 2026 21:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/flight-cancel-040326-1772649055.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aminul appointed new Dhaka WASA MD]]></title>
-            <description><![CDATA[[Bangladesh] Aminul appointed new Dhaka WASA MD]]></description>
-            <link>https://bdnews24.com/bangladesh/13d7828a5803</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/13d7828a5803</guid>
-            <pubDate>Tue, 10 Mar 2026 20:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/aminul-islam-100326-01-1773153012.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[March 10, 2026]]></title>
-            <description><![CDATA[[Image] March 10, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/b55d74065f48</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/b55d74065f48</guid>
-            <pubDate>Tue, 10 Mar 2026 20:39:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tarique-rahman-family-card-100326-006-1773143989.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[College student killed by classmates for iPhone: police]]></title>
-            <description><![CDATA[[Bangladesh] College student killed by classmates for iPhone: police]]></description>
-            <link>https://bdnews24.com/bangladesh/85aa961e5436</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/85aa961e5436</guid>
-            <pubDate>Tue, 10 Mar 2026 20:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/gopalganj-siam-murder-100326-01-1773140247.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Merz warns no clear plan to end Iran war]]></title>
-            <description><![CDATA[[World] Merz warns no clear plan to end Iran war]]></description>
-            <link>https://bdnews24.com/world/fba1c25ac7d0</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/fba1c25ac7d0</guid>
-            <pubDate>Tue, 10 Mar 2026 20:14:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/friedrich-merz-190226-01-1771472614.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prof Pravath made new health directorate chief]]></title>
-            <description><![CDATA[[Bangladesh] Prof Pravath made new health directorate chief]]></description>
-            <link>https://bdnews24.com/bangladesh/319e423a64fc</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/319e423a64fc</guid>
-            <pubDate>Tue, 10 Mar 2026 20:08:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/provat-chandra-biswas-100326-01-1773148711.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
