@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Mar 2026 18:37:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 19:34:52 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Mar 2026 18:37:59 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 19:34:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Strike hits Beirut apartment, 800,000 displaced in Lebanon]]></title>
+            <description><![CDATA[[World] Strike hits Beirut apartment, 800,000 displaced in Lebanon]]></description>
+            <link>https://bdnews24.com/world/c659249d717d</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/c659249d717d</guid>
+            <pubDate>Thu, 12 Mar 2026 01:29:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/beirut-apartment-120326-01-1773257212.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jamaat alleges rigged polls, govt silent]]></title>
+            <description><![CDATA[[National Election 2026] Jamaat alleges rigged polls, govt silent]]></description>
+            <link>https://bdnews24.com/national-election-2026/a7f79f03eb76</link>
+            <guid isPermaLink="true">https://bdnews24.com/national-election-2026/a7f79f03eb76</guid>
+            <pubDate>Thu, 12 Mar 2026 00:57:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/vote-counting-parliament-election-120226-339-1770896637.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[133 ordinances to be tabled in 13th parliament’s debut]]></title>
             <description><![CDATA[[Bangladesh] 133 ordinances to be tabled in 13th parliament’s debut]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/cbef17bc7686</guid>
             <pubDate>Wed, 11 Mar 2026 21:26:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025July/SM/khairul-hauque-240725-001-1753371152.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Researchers develop low-cost cornea from fish scales]]></title>
-            <description><![CDATA[[Science] Researchers develop low-cost cornea from fish scales]]></description>
-            <link>https://bdnews24.com/science/20692dde8c43</link>
-            <guid isPermaLink="true">https://bdnews24.com/science/20692dde8c43</guid>
-            <pubDate>Wed, 11 Mar 2026 21:15:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/cornea-fish-scales-11032026-01-1773242082.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 jailed for hoarding fuel at home]]></title>
-            <description><![CDATA[[Bangladesh] 3 jailed for hoarding fuel at home]]></description>
-            <link>https://bdnews24.com/bangladesh/382408ba2a5d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/382408ba2a5d</guid>
-            <pubDate>Wed, 11 Mar 2026 21:06:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/sylhet-fine-oil-110326-01-1773236288.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
