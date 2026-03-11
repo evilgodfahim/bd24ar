@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Mar 2026 00:57:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 03:23:21 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Mar 2026 00:57:40 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 03:23:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Two more Iran football delegates get Australia asylum]]></title>
+            <description><![CDATA[[Sport] Two more Iran football delegates get Australia asylum]]></description>
+            <link>https://bdnews24.com/sport/52e29d470b59</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/52e29d470b59</guid>
+            <pubDate>Wed, 11 Mar 2026 09:13:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-football-players-11326-1773198761.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran's new leader, still silent, was elevated by the Revolutionary Guards]]></title>
+            <description><![CDATA[[Middle East] Iran's new leader, still silent, was elevated by the Revolutionary Guards]]></description>
+            <link>https://bdnews24.com/world/middle-east/8d9c696b7e12</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/8d9c696b7e12</guid>
+            <pubDate>Wed, 11 Mar 2026 09:07:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/a-poster-in-iran-11326-1773198387.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Bayern smash six past Atalanta]]></title>
             <description><![CDATA[[Sport] Bayern smash six past Atalanta]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/ad328d7e7b1e</guid>
             <pubDate>Wed, 11 Mar 2026 00:18:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/warship-hms-dragon-10032026-01-1773166645.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tanker with Iranian oil sails through Hormuz, trackers show]]></title>
-            <description><![CDATA[[World] Tanker with Iranian oil sails through Hormuz, trackers show]]></description>
-            <link>https://bdnews24.com/world/3baafebc44ab</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/3baafebc44ab</guid>
-            <pubDate>Wed, 11 Mar 2026 00:16:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-oil-tanker-hormuz-10032026-01-1773166429.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[White House expected to seek billions more in war funding]]></title>
-            <description><![CDATA[[World] White House expected to seek billions more in war funding]]></description>
-            <link>https://bdnews24.com/world/df03ae5810d6</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/df03ae5810d6</guid>
-            <pubDate>Wed, 11 Mar 2026 00:05:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/plane-over-beirut-090326-01-1773036892.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
