@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Mar 2026 08:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 09:31:14 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Mar 2026 08:26:23 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 09:31:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Australia expects Iran war to intensify]]></title>
+            <description><![CDATA[[Middle East] Australia expects Iran war to intensify]]></description>
+            <link>https://bdnews24.com/world/middle-east/485fd7df6526</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/485fd7df6526</guid>
+            <pubDate>Wed, 11 Mar 2026 15:25:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/missile-in-tel-aviv-11326-1773221041.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[2 children die after wall collapses in Badda]]></title>
+            <description><![CDATA[[Bangladesh] 2 children die after wall collapses in Badda]]></description>
+            <link>https://bdnews24.com/bangladesh/339ea8f95a84</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/339ea8f95a84</guid>
+            <pubDate>Wed, 11 Mar 2026 15:19:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-02/9021c496-de82-40e2-9272-b4d04091c11d/dmch_emergency_department_230223_04.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK scraps hereditary seats in upper chamber]]></title>
+            <description><![CDATA[[World] UK scraps hereditary seats in upper chamber]]></description>
+            <link>https://bdnews24.com/world/b1e0468258af</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/b1e0468258af</guid>
+            <pubDate>Wed, 11 Mar 2026 15:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/uk-parliament-11326-1773220554.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 to die for gang rape of woman in Jamalpur]]></title>
+            <description><![CDATA[[Bangladesh] 3 to die for gang rape of woman in Jamalpur]]></description>
+            <link>https://bdnews24.com/bangladesh/252c9b8a05a3</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/252c9b8a05a3</guid>
+            <pubDate>Wed, 11 Mar 2026 14:48:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jamalpur-virdict-101126-1773217786.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Bangladeshi among 4 hurt by falling drones in Dubai]]></title>
             <description><![CDATA[[Bangladesh] Bangladeshi among 4 hurt by falling drones in Dubai]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/0a0a01d3103e</guid>
             <pubDate>Wed, 11 Mar 2026 10:03:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/drone-strike-us-facility-iraq-110326-1773201817.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[El Salvador likely committed crimes against humanity: jurists]]></title>
-            <description><![CDATA[[World] El Salvador likely committed crimes against humanity: jurists]]></description>
-            <link>https://bdnews24.com/world/8f530f635959</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/8f530f635959</guid>
-            <pubDate>Wed, 11 Mar 2026 09:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025August/SM/nayib-bukele-030825-01-1754197463.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan-SL series in UAE postponed: reports]]></title>
-            <description><![CDATA[[Cricket] Afghanistan-SL series in UAE postponed: reports]]></description>
-            <link>https://bdnews24.com/cricket/4d1d7b24a546</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/4d1d7b24a546</guid>
-            <pubDate>Wed, 11 Mar 2026 09:46:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2024-02/13d21907-9bfb-4b46-a95f-75cca155dee3/srilanka_050224_01.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[6 die in Switzerland bus fire]]></title>
-            <description><![CDATA[[Europe] 6 die in Switzerland bus fire]]></description>
-            <link>https://bdnews24.com/world/europe/33587513c509</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/33587513c509</guid>
-            <pubDate>Wed, 11 Mar 2026 09:43:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/switzerland-bus-fire-110326-01-1773200555.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US destroys mine-laying vessels]]></title>
-            <description><![CDATA[[World] US destroys mine-laying vessels]]></description>
-            <link>https://bdnews24.com/world/72538d26b25c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/72538d26b25c</guid>
-            <pubDate>Wed, 11 Mar 2026 09:40:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/strait-of-hormuz-110326-01-1773200414.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
