@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Mar 2026 10:27:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 11:24:08 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Mar 2026 10:27:27 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 11:24:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Tigers skittle Pakistan out for 114]]></title>
+            <description><![CDATA[[Cricket] Tigers skittle Pakistan out for 114]]></description>
+            <link>https://bdnews24.com/cricket/1d268e1e842b</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/1d268e1e842b</guid>
+            <pubDate>Wed, 11 Mar 2026 17:18:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/nahid-rana-110326-01-1773223203.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 missing after ship hit by projectiles in Strait of Hormuz: Thailand]]></title>
+            <description><![CDATA[[World] 3 missing after ship hit by projectiles in Strait of Hormuz: Thailand]]></description>
+            <link>https://bdnews24.com/world/4d8315fccdfa</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/4d8315fccdfa</guid>
+            <pubDate>Wed, 11 Mar 2026 17:07:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/strait-of-hormuz-110326-01-1773227192.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[BNP MPs entrust Tarique to finalise speaker, deputy speaker candidates]]></title>
             <description><![CDATA[[Politics] BNP MPs entrust Tarique to finalise speaker, deputy speaker candidates]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/5570fe792a4c</guid>
             <pubDate>Wed, 11 Mar 2026 11:38:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024September/SM/court-building-chattogram-porir-pahar-030921-01-1725469801.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[SA team, stranded in India, to fly home from Wednesday]]></title>
-            <description><![CDATA[[Sport] SA team, stranded in India, to fly home from Wednesday]]></description>
-            <link>https://bdnews24.com/sport/98f4897bec28</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/98f4897bec28</guid>
-            <pubDate>Wed, 11 Mar 2026 11:14:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/south-africa-cricket-110326-01-1773206053.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Planet extends Mideast image delay to prevent use by US adversaries]]></title>
-            <description><![CDATA[[World] Planet extends Mideast image delay to prevent use by US adversaries]]></description>
-            <link>https://bdnews24.com/world/b0a0b7ba28ad</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/b0a0b7ba28ad</guid>
-            <pubDate>Wed, 11 Mar 2026 10:50:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/ali-al-salem-base-110326-01-1773204572.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
