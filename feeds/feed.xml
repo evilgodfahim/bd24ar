@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Mar 2026 14:42:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 15:36:16 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Mar 2026 14:42:34 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 15:36:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Indian SC allows first passive euthanasia death]]></title>
+            <description><![CDATA[[Neighbours] Indian SC allows first passive euthanasia death]]></description>
+            <link>https://bdnews24.com/neighbours/4113b2c193b4</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/4113b2c193b4</guid>
+            <pubDate>Wed, 11 Mar 2026 21:35:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/india-sc-110326-01-1773235900.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran’s new supreme leader 'lightly injured' but active]]></title>
+            <description><![CDATA[[World] Iran’s new supreme leader 'lightly injured' but active]]></description>
+            <link>https://bdnews24.com/world/4e43d5214a54</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/4e43d5214a54</guid>
+            <pubDate>Wed, 11 Mar 2026 21:33:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/mojtaba-khamenei-110326-01-1773243200.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-CJ Khairul gets bail in graft charges]]></title>
+            <description><![CDATA[[Bangladesh] Ex-CJ Khairul gets bail in graft charges]]></description>
+            <link>https://bdnews24.com/bangladesh/cbef17bc7686</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cbef17bc7686</guid>
+            <pubDate>Wed, 11 Mar 2026 21:26:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025July/SM/khairul-hauque-240725-001-1753371152.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Researchers develop low-cost cornea from fish scales]]></title>
+            <description><![CDATA[[Science] Researchers develop low-cost cornea from fish scales]]></description>
+            <link>https://bdnews24.com/science/20692dde8c43</link>
+            <guid isPermaLink="true">https://bdnews24.com/science/20692dde8c43</guid>
+            <pubDate>Wed, 11 Mar 2026 21:15:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/cornea-fish-scales-11032026-01-1773242082.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 jailed for hoarding fuel at home]]></title>
+            <description><![CDATA[[Bangladesh] 3 jailed for hoarding fuel at home]]></description>
+            <link>https://bdnews24.com/bangladesh/382408ba2a5d</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/382408ba2a5d</guid>
+            <pubDate>Wed, 11 Mar 2026 21:06:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/sylhet-fine-oil-110326-01-1773236288.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh seeks extra fuel from India: Pranay Verma]]></title>
+            <description><![CDATA[[Bangladesh] Bangladesh seeks extra fuel from India: Pranay Verma]]></description>
+            <link>https://bdnews24.com/bangladesh/a4404059f9b5</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a4404059f9b5</guid>
+            <pubDate>Wed, 11 Mar 2026 20:56:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/iqbal-mahmud-tuku-pranay-varma-110326-1773239432.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Funeral prayers for slain commanders in Tehran]]></title>
+            <description><![CDATA[[Image] Funeral prayers for slain commanders in Tehran]]></description>
+            <link>https://bdnews24.com/media-en/image/9f490935c051</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/9f490935c051</guid>
+            <pubDate>Wed, 11 Mar 2026 20:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/iranian-military-commanders-funeral-110326-03-1773233886.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Anti-tobacco groups push for ordinance enactment]]></title>
             <description><![CDATA[[Bangladesh] Anti-tobacco groups push for ordinance enactment]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/cricket/1d268e1e842b</guid>
             <pubDate>Wed, 11 Mar 2026 17:18:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/nahid-rana-bangladesh-110326-01-1773231839.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 missing after ship hit by projectiles in Strait of Hormuz: Thailand]]></title>
-            <description><![CDATA[[World] 3 missing after ship hit by projectiles in Strait of Hormuz: Thailand]]></description>
-            <link>https://bdnews24.com/world/4d8315fccdfa</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/4d8315fccdfa</guid>
-            <pubDate>Wed, 11 Mar 2026 17:07:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/strait-of-hormuz-110326-01-1773227192.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BNP MPs entrust Tarique to finalise speaker, deputy speaker candidates]]></title>
-            <description><![CDATA[[Politics] BNP MPs entrust Tarique to finalise speaker, deputy speaker candidates]]></description>
-            <link>https://bdnews24.com/politics/6be1fb3a0eb2</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/6be1fb3a0eb2</guid>
-            <pubDate>Wed, 11 Mar 2026 16:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bnp-mp-meeting-110326-03-1773223360.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How BRAC Bank’s women sales officers are making their mark]]></title>
-            <description><![CDATA[[Business] How BRAC Bank’s women sales officers are making their mark]]></description>
-            <link>https://bdnews24.com/business/8618b9e7cad4</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/8618b9e7cad4</guid>
-            <pubDate>Wed, 11 Mar 2026 16:05:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/brac-women-sales-11032026-01-1773223507.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ICT panel probing ex-prosecutor over bribe allegation]]></title>
-            <description><![CDATA[[Bangladesh] ICT panel probing ex-prosecutor over bribe allegation]]></description>
-            <link>https://bdnews24.com/bangladesh/922a56c106c1</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/922a56c106c1</guid>
-            <pubDate>Wed, 11 Mar 2026 16:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/aminul-islam-110326-01-1773220220.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australia expects Iran war to intensify]]></title>
-            <description><![CDATA[[Middle East] Australia expects Iran war to intensify]]></description>
-            <link>https://bdnews24.com/world/middle-east/485fd7df6526</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/485fd7df6526</guid>
-            <pubDate>Wed, 11 Mar 2026 15:25:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/missile-in-tel-aviv-11326-1773221041.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2 children die after wall collapses in Badda]]></title>
-            <description><![CDATA[[Bangladesh] 2 children die after wall collapses in Badda]]></description>
-            <link>https://bdnews24.com/bangladesh/339ea8f95a84</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/339ea8f95a84</guid>
-            <pubDate>Wed, 11 Mar 2026 15:19:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-02/9021c496-de82-40e2-9272-b4d04091c11d/dmch_emergency_department_230223_04.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UK scraps hereditary seats in upper chamber]]></title>
-            <description><![CDATA[[World] UK scraps hereditary seats in upper chamber]]></description>
-            <link>https://bdnews24.com/world/b1e0468258af</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/b1e0468258af</guid>
-            <pubDate>Wed, 11 Mar 2026 15:16:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/uk-parliament-11326-1773220554.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
