@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Mar 2026 20:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 21:20:50 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Mar 2026 20:21:34 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 21:20:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Arsenal rescue 1-1 draw at Leverkusen]]></title>
+            <description><![CDATA[[Sport] Arsenal rescue 1-1 draw at Leverkusen]]></description>
+            <link>https://bdnews24.com/sport/acebca6229f7</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/acebca6229f7</guid>
+            <pubDate>Thu, 12 Mar 2026 02:45:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/kai-havertz-120326-02-1773261878.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[FBI warns of Iranian drone retaliation in US: ABC News]]></title>
+            <description><![CDATA[[World] FBI warns of Iranian drone retaliation in US: ABC News]]></description>
+            <link>https://bdnews24.com/world/c99a753cbfbc</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/c99a753cbfbc</guid>
+            <pubDate>Thu, 12 Mar 2026 02:43:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-drone-12032026-1773261688.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Strike hits Beirut apartment, 800,000 displaced in Lebanon]]></title>
             <description><![CDATA[[World] Strike hits Beirut apartment, 800,000 displaced in Lebanon]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/neighbours/4113b2c193b4</guid>
             <pubDate>Wed, 11 Mar 2026 21:35:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/india-sc-110326-01-1773235900.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran’s new supreme leader 'lightly injured' but active]]></title>
-            <description><![CDATA[[World] Iran’s new supreme leader 'lightly injured' but active]]></description>
-            <link>https://bdnews24.com/world/4e43d5214a54</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/4e43d5214a54</guid>
-            <pubDate>Wed, 11 Mar 2026 21:33:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/mojtaba-khamenei-110326-01-1773243200.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ex-CJ Khairul gets bail in graft charges]]></title>
-            <description><![CDATA[[Bangladesh] Ex-CJ Khairul gets bail in graft charges]]></description>
-            <link>https://bdnews24.com/bangladesh/cbef17bc7686</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cbef17bc7686</guid>
-            <pubDate>Wed, 11 Mar 2026 21:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025July/SM/khairul-hauque-240725-001-1753371152.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
