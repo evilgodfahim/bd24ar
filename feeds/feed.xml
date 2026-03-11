@@ -4,13 +4,85 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Mar 2026 03:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 05:05:56 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Mar 2026 03:23:21 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 05:05:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Two more Iran football delegates get Australia asylum]]></title>
-            <description><![CDATA[[Sport] Two more Iran football delegates get Australia asylum]]></description>
+            <title><![CDATA[Planet extends Mideast image delay to prevent use by US adversaries]]></title>
+            <description><![CDATA[[World] Planet extends Mideast image delay to prevent use by US adversaries]]></description>
+            <link>https://bdnews24.com/world/b0a0b7ba28ad</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/b0a0b7ba28ad</guid>
+            <pubDate>Wed, 11 Mar 2026 10:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/ali-al-salem-base-110326-01-1773204572.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran arrests dozens, including foreign national tied to US, Israel]]></title>
+            <description><![CDATA[[Middle East] Iran arrests dozens, including foreign national tied to US, Israel]]></description>
+            <link>https://bdnews24.com/world/middle-east/4e363f703888</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/4e363f703888</guid>
+            <pubDate>Wed, 11 Mar 2026 10:28:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-ministry-110326-01-1773203280.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Combatants in Mideast war trade more air strikes]]></title>
+            <description><![CDATA[[World] Combatants in Mideast war trade more air strikes]]></description>
+            <link>https://bdnews24.com/world/719cb5b8621a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/719cb5b8621a</guid>
+            <pubDate>Wed, 11 Mar 2026 10:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/tehran-intersection-110326-01-1773202148.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Drone strikes US diplomatic facility in Iraq]]></title>
+            <description><![CDATA[[Middle East] Drone strikes US diplomatic facility in Iraq]]></description>
+            <link>https://bdnews24.com/world/middle-east/0a0a01d3103e</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/0a0a01d3103e</guid>
+            <pubDate>Wed, 11 Mar 2026 10:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/drone-strike-us-facility-iraq-110326-1773201817.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[El Salvador likely committed crimes against humanity: jurists]]></title>
+            <description><![CDATA[[World] El Salvador likely committed crimes against humanity: jurists]]></description>
+            <link>https://bdnews24.com/world/8f530f635959</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/8f530f635959</guid>
+            <pubDate>Wed, 11 Mar 2026 09:56:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025August/SM/nayib-bukele-030825-01-1754197463.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan-SL series in UAE postponed: reports]]></title>
+            <description><![CDATA[[Cricket] Afghanistan-SL series in UAE postponed: reports]]></description>
+            <link>https://bdnews24.com/cricket/4d1d7b24a546</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/4d1d7b24a546</guid>
+            <pubDate>Wed, 11 Mar 2026 09:46:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2024-02/13d21907-9bfb-4b46-a95f-75cca155dee3/srilanka_050224_01.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[6 die in Switzerland bus fire]]></title>
+            <description><![CDATA[[Europe] 6 die in Switzerland bus fire]]></description>
+            <link>https://bdnews24.com/world/europe/33587513c509</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/33587513c509</guid>
+            <pubDate>Wed, 11 Mar 2026 09:43:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/switzerland-bus-fire-110326-01-1773200555.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US destroys mine-laying vessels]]></title>
+            <description><![CDATA[[World] US destroys mine-laying vessels]]></description>
+            <link>https://bdnews24.com/world/72538d26b25c</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/72538d26b25c</guid>
+            <pubDate>Wed, 11 Mar 2026 09:40:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/strait-of-hormuz-110326-01-1773200414.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Diesel markets threaten global economic slowdown]]></title>
+            <description><![CDATA[[Economy] Diesel markets threaten global economic slowdown]]></description>
+            <link>https://bdnews24.com/economy/fd9c665b9f60</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/fd9c665b9f60</guid>
+            <pubDate>Wed, 11 Mar 2026 09:30:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/diesel-global-slowdown-110326-01-1773199777.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran women’s footballer to return home, drops asylum offer]]></title>
+            <description><![CDATA[[Sport] Iran women’s footballer to return home, drops asylum offer]]></description>
             <link>https://bdnews24.com/sport/52e29d470b59</link>
             <guid isPermaLink="true">https://bdnews24.com/sport/52e29d470b59</guid>
             <pubDate>Wed, 11 Mar 2026 09:13:00 GMT</pubDate>
@@ -95,78 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/the-long-read/aff148a8d096</guid>
             <pubDate>Wed, 11 Mar 2026 01:53:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/white-supremacist-teen-attacks-11032026-01-1773172362.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hezbollah awaits Israeli invasion]]></title>
-            <description><![CDATA[[World] Hezbollah awaits Israeli invasion]]></description>
-            <link>https://bdnews24.com/world/853437e7c6b3</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/853437e7c6b3</guid>
-            <pubDate>Wed, 11 Mar 2026 01:27:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/hezbollah-israel-invasion-11032026-01-1773170760.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Starship delays threaten NASA’s 2028 moon landing goal]]></title>
-            <description><![CDATA[[World] Starship delays threaten NASA’s 2028 moon landing goal]]></description>
-            <link>https://bdnews24.com/world/2256bb5c595c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/2256bb5c595c</guid>
-            <pubDate>Wed, 11 Mar 2026 01:11:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026January/SM/moon-rocket-180126-01-1768681135.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel hits Beirut as envoy says Hezbollah must disarm]]></title>
-            <description><![CDATA[[World] Israel hits Beirut as envoy says Hezbollah must disarm]]></description>
-            <link>https://bdnews24.com/world/3e0a1ff17c51</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/3e0a1ff17c51</guid>
-            <pubDate>Wed, 11 Mar 2026 01:05:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/lebaon-10326-1773139001.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[150 US troops wounded in Iran war]]></title>
-            <description><![CDATA[[World] 150 US troops wounded in Iran war]]></description>
-            <link>https://bdnews24.com/world/4996a23eb5ee</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/4996a23eb5ee</guid>
-            <pubDate>Wed, 11 Mar 2026 00:59:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/150-troops-wounded-11032026-01-1773169070.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran war threatens US consumers across income levels]]></title>
-            <description><![CDATA[[World] Iran war threatens US consumers across income levels]]></description>
-            <link>https://bdnews24.com/world/6abbcea74ab5</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/6abbcea74ab5</guid>
-            <pubDate>Wed, 11 Mar 2026 00:55:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/us-tariff-23226-1771831476.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel ‘illegally using’ white phosphorus in Lebanon: HRW]]></title>
-            <description><![CDATA[[World] Israel ‘illegally using’ white phosphorus in Lebanon: HRW]]></description>
-            <link>https://bdnews24.com/world/96b569acb65d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/96b569acb65d</guid>
-            <pubDate>Wed, 11 Mar 2026 00:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/israel-lebanon-phosphorus-11032026-01-1773168622.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Walker calls time on England career]]></title>
-            <description><![CDATA[[Sport] Walker calls time on England career]]></description>
-            <link>https://bdnews24.com/sport/dfd90e4773cd</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/dfd90e4773cd</guid>
-            <pubDate>Wed, 11 Mar 2026 00:48:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/kyle-walker-110326-01-1773168467.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[DGFI chief’s discreet Delhi visit signals thaw in ties: The Print]]></title>
-            <description><![CDATA[[Bangladesh] DGFI chief’s discreet Delhi visit signals thaw in ties: The Print]]></description>
-            <link>https://bdnews24.com/bangladesh/a130cdd17b38</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a130cdd17b38</guid>
-            <pubDate>Wed, 11 Mar 2026 00:43:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/dgfi-chief-110326-1773168229.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[HMS Dragon departs for Eastern Mediterranean]]></title>
-            <description><![CDATA[[World] HMS Dragon departs for Eastern Mediterranean]]></description>
-            <link>https://bdnews24.com/world/ad328d7e7b1e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ad328d7e7b1e</guid>
-            <pubDate>Wed, 11 Mar 2026 00:18:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/warship-hms-dragon-10032026-01-1773166645.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
