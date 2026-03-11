@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Mar 2026 09:31:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 10:27:27 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Mar 2026 09:31:14 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 10:27:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[BNP MPs entrust Tarique to finalise speaker, deputy speaker candidates]]></title>
+            <description><![CDATA[[Politics] BNP MPs entrust Tarique to finalise speaker, deputy speaker candidates]]></description>
+            <link>https://bdnews24.com/politics/6be1fb3a0eb2</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/6be1fb3a0eb2</guid>
+            <pubDate>Wed, 11 Mar 2026 16:26:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bnp-mp-meeting-110326-03-1773223360.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How BRAC Bank’s women sales officers are making their mark]]></title>
+            <description><![CDATA[[Business] How BRAC Bank’s women sales officers are making their mark]]></description>
+            <link>https://bdnews24.com/business/8618b9e7cad4</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/8618b9e7cad4</guid>
+            <pubDate>Wed, 11 Mar 2026 16:05:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/brac-women-sales-11032026-01-1773223507.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ICT panel probing ex-prosecutor over bribe allegation]]></title>
+            <description><![CDATA[[Bangladesh] ICT panel probing ex-prosecutor over bribe allegation]]></description>
+            <link>https://bdnews24.com/bangladesh/922a56c106c1</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/922a56c106c1</guid>
+            <pubDate>Wed, 11 Mar 2026 16:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/aminul-islam-110326-01-1773220220.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Australia expects Iran war to intensify]]></title>
             <description><![CDATA[[Middle East] Australia expects Iran war to intensify]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/b0a0b7ba28ad</guid>
             <pubDate>Wed, 11 Mar 2026 10:50:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/ali-al-salem-base-110326-01-1773204572.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran arrests dozens, including foreign national tied to US, Israel]]></title>
-            <description><![CDATA[[Middle East] Iran arrests dozens, including foreign national tied to US, Israel]]></description>
-            <link>https://bdnews24.com/world/middle-east/4e363f703888</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/4e363f703888</guid>
-            <pubDate>Wed, 11 Mar 2026 10:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-ministry-110326-01-1773203280.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Air strikes reported across the Middle East]]></title>
-            <description><![CDATA[[World] Air strikes reported across the Middle East]]></description>
-            <link>https://bdnews24.com/world/719cb5b8621a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/719cb5b8621a</guid>
-            <pubDate>Wed, 11 Mar 2026 10:10:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/tehran-intersection-110326-01-1773202148.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Drone strikes US diplomatic facility in Iraq]]></title>
-            <description><![CDATA[[Middle East] Drone strikes US diplomatic facility in Iraq]]></description>
-            <link>https://bdnews24.com/world/middle-east/0a0a01d3103e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/0a0a01d3103e</guid>
-            <pubDate>Wed, 11 Mar 2026 10:03:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/drone-strike-us-facility-iraq-110326-1773201817.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
