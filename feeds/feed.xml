@@ -4,13 +4,21 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Mar 2026 11:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 12:31:01 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Mar 2026 11:24:08 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 12:31:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Tigers skittle Pakistan out for 114]]></title>
-            <description><![CDATA[[Cricket] Tigers skittle Pakistan out for 114]]></description>
+            <title><![CDATA[ICT to rule on Menon, Qamrul charges Mar 30]]></title>
+            <description><![CDATA[[Bangladesh] ICT to rule on Menon, Qamrul charges Mar 30]]></description>
+            <link>https://bdnews24.com/bangladesh/c0669d38b7b6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c0669d38b7b6</guid>
+            <pubDate>Wed, 11 Mar 2026 17:41:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/menon-kamrul-030226-1770121387.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rana, Tanzid thump Pakistan in opener]]></title>
+            <description><![CDATA[[Cricket] Rana, Tanzid thump Pakistan in opener]]></description>
             <link>https://bdnews24.com/cricket/1d268e1e842b</link>
             <guid isPermaLink="true">https://bdnews24.com/cricket/1d268e1e842b</guid>
             <pubDate>Wed, 11 Mar 2026 17:18:00 GMT</pubDate>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/politics/4e983e0c0802</guid>
             <pubDate>Wed, 11 Mar 2026 12:01:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bnp-parliamentary-meet-110326-01-1773208774.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PBI finds no proof in case against 28 Ctg journalists]]></title>
-            <description><![CDATA[[Bangladesh] PBI finds no proof in case against 28 Ctg journalists]]></description>
-            <link>https://bdnews24.com/bangladesh/5570fe792a4c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5570fe792a4c</guid>
-            <pubDate>Wed, 11 Mar 2026 11:38:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024September/SM/court-building-chattogram-porir-pahar-030921-01-1725469801.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
