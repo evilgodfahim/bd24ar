@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Mar 2026 18:36:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 19:34:13 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Mar 2026 18:36:41 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 19:34:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Police respond to active shooter at Michigan synagogue]]></title>
+            <description><![CDATA[[World] Police respond to active shooter at Michigan synagogue]]></description>
+            <link>https://bdnews24.com/world/e5b13cf0782b</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e5b13cf0782b</guid>
+            <pubDate>Fri, 13 Mar 2026 01:13:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025December/SM/police-hold-bu-shooting-suspect-14122025-01-1765723190.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chelsea’s Neto faces UEFA action over ball boy push]]></title>
+            <description><![CDATA[[Sport] Chelsea’s Neto faces UEFA action over ball boy push]]></description>
+            <link>https://bdnews24.com/sport/dced2612bdeb</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/dced2612bdeb</guid>
+            <pubDate>Fri, 13 Mar 2026 00:55:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2024August/SM/neto-110824-01-1723391129.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Walkout, war-crime row rock parliament debut]]></title>
+            <description><![CDATA[[Politics] Walkout, war-crime row rock parliament debut]]></description>
+            <link>https://bdnews24.com/politics/544d1e98ee47</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/544d1e98ee47</guid>
+            <pubDate>Fri, 13 Mar 2026 00:51:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jamat-jote-protest-120326-1773311198.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Bombing won't overthrow ruling clerics: dissidents]]></title>
             <description><![CDATA[[World] Bombing won't overthrow ruling clerics: dissidents]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/e19a1e42e2c1</guid>
             <pubDate>Thu, 12 Mar 2026 21:09:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/petrol-pump-oil-crisis-060326-018-1772804788.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ghana to submit UN resolution on slavery reparations]]></title>
-            <description><![CDATA[[World] Ghana to submit UN resolution on slavery reparations]]></description>
-            <link>https://bdnews24.com/world/39a21ff87cca</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/39a21ff87cca</guid>
-            <pubDate>Thu, 12 Mar 2026 21:08:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/ghana-un-slavery-reparations-12032026-01-1773328061.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[First session of 13th Parliament]]></title>
-            <description><![CDATA[[Image] First session of 13th Parliament]]></description>
-            <link>https://bdnews24.com/media-en/image/d3e6bd0d4d85</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/d3e6bd0d4d85</guid>
-            <pubDate>Thu, 12 Mar 2026 21:06:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tarique-rahman-national-parliament-house-120326-019-1773317140.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Flight disruptions worsen as Middle East war escalates]]></title>
-            <description><![CDATA[[World] Flight disruptions worsen as Middle East war escalates]]></description>
-            <link>https://bdnews24.com/world/238725515e12</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/238725515e12</guid>
-            <pubDate>Thu, 12 Mar 2026 20:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/muscat-airport-090326-01-1773028022.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
