@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Mar 2026 15:44:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 16:46:07 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Mar 2026 15:44:42 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 16:46:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Gunman shot dead at Virginia university]]></title>
+            <description><![CDATA[[World] Gunman shot dead at Virginia university]]></description>
+            <link>https://bdnews24.com/world/ac63bf2db478</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ac63bf2db478</guid>
+            <pubDate>Thu, 12 Mar 2026 22:45:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/view-school-110226-01-1770815863.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wedding journey ends in horror]]></title>
+            <description><![CDATA[[Bangladesh] Wedding journey ends in horror]]></description>
+            <link>https://bdnews24.com/bangladesh/15e5d5519d33</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/15e5d5519d33</guid>
+            <pubDate>Thu, 12 Mar 2026 22:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/khulna-accideni-120326-01-1773329927.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Student groups protest parliament’s condolences over war criminals’ deaths]]></title>
+            <description><![CDATA[[Bangladesh] Student groups protest parliament’s condolences over war criminals’ deaths]]></description>
+            <link>https://bdnews24.com/bangladesh/148a5d0d9674</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/148a5d0d9674</guid>
+            <pubDate>Thu, 12 Mar 2026 22:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/thirteenth-parliament-120326-01-1773308102.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shafiqur visits Abbas at hospital]]></title>
+            <description><![CDATA[[Politics] Shafiqur visits Abbas at hospital]]></description>
+            <link>https://bdnews24.com/politics/b31b8e88aa74</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/b31b8e88aa74</guid>
+            <pubDate>Thu, 12 Mar 2026 22:01:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/abbas-12032026-1773331238.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Abrar Ahmed joins Sunrisers Leeds in Hundred]]></title>
+            <description><![CDATA[[Cricket] Abrar Ahmed joins Sunrisers Leeds in Hundred]]></description>
+            <link>https://bdnews24.com/cricket/6751e9efb409</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/6751e9efb409</guid>
+            <pubDate>Thu, 12 Mar 2026 22:01:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/abrar-ahmed-120326-01-1773329398.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US jobless claims show stable labor market]]></title>
+            <description><![CDATA[[World] US jobless claims show stable labor market]]></description>
+            <link>https://bdnews24.com/world/fc8709497693</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/fc8709497693</guid>
+            <pubDate>Thu, 12 Mar 2026 21:59:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025February/SM/trump-protest-060225-01-1738813921.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[4 die in Madaripur, Manikganj road crashes]]></title>
             <description><![CDATA[[Bangladesh] 4 die in Madaripur, Manikganj road crashes]]></description>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/0061abc2b005</guid>
             <pubDate>Thu, 12 Mar 2026 19:11:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jamal-uddin-professor-dhaka-university-110326-1773244388.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine drones hit Russia oil hub]]></title>
-            <description><![CDATA[[World] Ukraine drones hit Russia oil hub]]></description>
-            <link>https://bdnews24.com/world/f28fb4c9fea1</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/f28fb4c9fea1</guid>
-            <pubDate>Thu, 12 Mar 2026 18:50:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/ukraine-interceptor-drone-07032026-01-1772894594.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[President refers to Ziaur Rahman as ‘proclaimer of independence’]]></title>
-            <description><![CDATA[[Bangladesh] President refers to Ziaur Rahman as ‘proclaimer of independence’]]></description>
-            <link>https://bdnews24.com/bangladesh/1ae3c1eaea66</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1ae3c1eaea66</guid>
-            <pubDate>Thu, 12 Mar 2026 18:16:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/president-sahabuddin-120326-01-1773315350.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[13 die in Bagerhat bus crash]]></title>
-            <description><![CDATA[[Bangladesh] 13 die in Bagerhat bus crash]]></description>
-            <link>https://bdnews24.com/bangladesh/ae8ca759958f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ae8ca759958f</guid>
-            <pubDate>Thu, 12 Mar 2026 18:11:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bagerhat-accident-120326-01-1773316686.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ethiopia landslide kills 52]]></title>
-            <description><![CDATA[[World] Ethiopia landslide kills 52]]></description>
-            <link>https://bdnews24.com/world/c54a73597868</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/c54a73597868</guid>
-            <pubDate>Thu, 12 Mar 2026 18:02:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026January/SM/indonesia-landslide-toll-260126-01-1769400525.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Russia urges Israel, US to end Iran war]]></title>
-            <description><![CDATA[[World] Russia urges Israel, US to end Iran war]]></description>
-            <link>https://bdnews24.com/world/65ea9da2dabc</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/65ea9da2dabc</guid>
-            <pubDate>Thu, 12 Mar 2026 17:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-russia-iran-war-proposals-100326-01-1773114559.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cillian Murphy returns to 'Peaky Blinders' world with new film]]></title>
-            <description><![CDATA[[Entertainment] Cillian Murphy returns to 'Peaky Blinders' world with new film]]></description>
-            <link>https://bdnews24.com/entertainment/a9993495c496</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/a9993495c496</guid>
-            <pubDate>Thu, 12 Mar 2026 17:05:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/cillian-murphy-120326-01-1773313477.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
