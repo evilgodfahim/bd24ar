@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Mar 2026 00:54:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 03:26:44 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Mar 2026 00:54:33 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 03:26:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US Intelligence sees no collapse risk for Iran govt]]></title>
+            <description><![CDATA[[World] US Intelligence sees no collapse risk for Iran govt]]></description>
+            <link>https://bdnews24.com/world/a56d1e197540</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/a56d1e197540</guid>
+            <pubDate>Thu, 12 Mar 2026 09:19:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-leaders-portrait-12326-1773285540.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oil tankers burn near Iraq despite Trump claiming ‘victory’]]></title>
+            <description><![CDATA[[Middle East] Oil tankers burn near Iraq despite Trump claiming ‘victory’]]></description>
+            <link>https://bdnews24.com/world/middle-east/ebd431544db9</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/ebd431544db9</guid>
+            <pubDate>Thu, 12 Mar 2026 09:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/oil-tanker-12326-1773284970.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Bodo/Glimt beat Lisbon 3-0]]></title>
             <description><![CDATA[[Sport] Bodo/Glimt beat Lisbon 3-0]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/395ead5ad64f</guid>
             <pubDate>Wed, 11 Mar 2026 21:57:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/west-bank-settler-violence-11032026-01-1773244615.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Not ‘Chapai Express’, just Nahid Rana]]></title>
-            <description><![CDATA[[Cricket] Not ‘Chapai Express’, just Nahid Rana]]></description>
-            <link>https://bdnews24.com/cricket/7310f4d6c650</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/7310f4d6c650</guid>
-            <pubDate>Wed, 11 Mar 2026 21:55:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/nahid-rana-bangladesh-110326-01-1773242115.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bengaluru to host Hyderabad in IPL opener]]></title>
-            <description><![CDATA[[Sport] Bengaluru to host Hyderabad in IPL opener]]></description>
-            <link>https://bdnews24.com/sport/b769b51e028e</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/b769b51e028e</guid>
-            <pubDate>Wed, 11 Mar 2026 21:48:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/bengaluru-ipl-110326-01-1773244107.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
