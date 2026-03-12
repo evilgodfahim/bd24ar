@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Mar 2026 06:38:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 07:38:22 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Mar 2026 06:38:26 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 07:38:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[First session of 13th parliament kicks off]]></title>
+            <description><![CDATA[[Bangladesh] First session of 13th parliament kicks off]]></description>
+            <link>https://bdnews24.com/bangladesh/8a677fef9006</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8a677fef9006</guid>
+            <pubDate>Thu, 12 Mar 2026 13:36:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/13th-parliament-1773296033.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Paturia busy with Eid travel preparations]]></title>
+            <description><![CDATA[[Bangladesh] Paturia busy with Eid travel preparations]]></description>
+            <link>https://bdnews24.com/bangladesh/ffa53e8500e2</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ffa53e8500e2</guid>
+            <pubDate>Thu, 12 Mar 2026 13:05:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/manikganj-paturia-daulotia-1103026-01-1773287253.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Speaker, deputy speaker sworn in]]></title>
+            <description><![CDATA[[Bangladesh] Speaker, deputy speaker sworn in]]></description>
+            <link>https://bdnews24.com/bangladesh/62c6fb4c9282</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/62c6fb4c9282</guid>
+            <pubDate>Thu, 12 Mar 2026 12:49:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/hafiz-uddin-kaiser-kamal-120326-1773295483.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Hafiz Uddin Ahmad elected as speaker]]></title>
             <description><![CDATA[[Bangladesh] Hafiz Uddin Ahmad elected as speaker]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/national-election-2026/a7f79f03eb76</guid>
             <pubDate>Thu, 12 Mar 2026 00:57:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/vote-counting-parliament-election-120226-339-1770896637.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[133 ordinances to be tabled in 13th parliament’s debut]]></title>
-            <description><![CDATA[[Bangladesh] 133 ordinances to be tabled in 13th parliament’s debut]]></description>
-            <link>https://bdnews24.com/bangladesh/fd73d6a710de</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/fd73d6a710de</guid>
-            <pubDate>Thu, 12 Mar 2026 00:08:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/oath-preparing-parliament-house-150226-017-1771155489.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Uttara gas explosion toll rises to 3]]></title>
-            <description><![CDATA[[Bangladesh] Uttara gas explosion toll rises to 3]]></description>
-            <link>https://bdnews24.com/bangladesh/f9cebfa2d6b9</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f9cebfa2d6b9</guid>
-            <pubDate>Thu, 12 Mar 2026 00:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025May/SM/burn-institute-021224-015-1745814990-1746251480.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka airport’s terminal 3 'likely within 9 months']]></title>
-            <description><![CDATA[[Bangladesh] Dhaka airport’s terminal 3 'likely within 9 months']]></description>
-            <link>https://bdnews24.com/bangladesh/474a81e787f4</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/474a81e787f4</guid>
-            <pubDate>Wed, 11 Mar 2026 23:55:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-10/22550260-69e8-4893-bb5a-3496ea816f2a/shahjalal_international_airport_3rd_terminal_051023_012.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
