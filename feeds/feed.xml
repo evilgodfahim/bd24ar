@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Mar 2026 16:46:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 17:40:19 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Mar 2026 16:46:07 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 17:40:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[11 policemen face charges over ‘Tk 40mn ration scam’]]></title>
+            <description><![CDATA[[Bangladesh] 11 policemen face charges over ‘Tk 40mn ration scam’]]></description>
+            <link>https://bdnews24.com/bangladesh/e08de2a7c482</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e08de2a7c482</guid>
+            <pubDate>Thu, 12 Mar 2026 23:21:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jhalakathi-police-dudok-120326-01-1773316688.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nearly 50 flights arranged for evacuation from Middle East: US]]></title>
+            <description><![CDATA[[World] Nearly 50 flights arranged for evacuation from Middle East: US]]></description>
+            <link>https://bdnews24.com/world/ed31fc1396b5</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ed31fc1396b5</guid>
+            <pubDate>Thu, 12 Mar 2026 23:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026January/SM/flight-300126-01-1769713607.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Biman to resume Dubai, Abu Dhabi flights]]></title>
+            <description><![CDATA[[Aviation] Biman to resume Dubai, Abu Dhabi flights]]></description>
+            <link>https://bdnews24.com/aviation/4ed1f1f54018</link>
+            <guid isPermaLink="true">https://bdnews24.com/aviation/4ed1f1f54018</guid>
+            <pubDate>Thu, 12 Mar 2026 22:55:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024June/SM/biman-ticket-300624-1-1719744900.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Gunman shot dead at Virginia university]]></title>
             <description><![CDATA[[World] Gunman shot dead at Virginia university]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/b6e7194ef285</guid>
             <pubDate>Thu, 12 Mar 2026 20:10:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025October/SM/army-officer-international-criminal-tribunal-221025-013-1761123848.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arsenal, Man City resume EPL title duel]]></title>
-            <description><![CDATA[[Sport] Arsenal, Man City resume EPL title duel]]></description>
-            <link>https://bdnews24.com/sport/a64fdc072c15</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/a64fdc072c15</guid>
-            <pubDate>Thu, 12 Mar 2026 19:50:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/kai-havertz-120326-02-1773261878.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India boosts LPG imports beyond Gulf]]></title>
-            <description><![CDATA[[World] India boosts LPG imports beyond Gulf]]></description>
-            <link>https://bdnews24.com/world/bd4a325ec77e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/bd4a325ec77e</guid>
-            <pubDate>Thu, 12 Mar 2026 19:30:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/india-oil-05032026-1772725439.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[DU teacher Jamal Uddin denied bail]]></title>
-            <description><![CDATA[[Bangladesh] DU teacher Jamal Uddin denied bail]]></description>
-            <link>https://bdnews24.com/bangladesh/0061abc2b005</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0061abc2b005</guid>
-            <pubDate>Thu, 12 Mar 2026 19:11:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jamal-uddin-professor-dhaka-university-110326-1773244388.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
