@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Mar 2026 18:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 19:23:27 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Mar 2026 18:25:39 GMT</pubDate>
+        <pubDate>Fri, 13 Mar 2026 19:23:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Impeach president, arrest him: Nahid]]></title>
+            <description><![CDATA[[Politics] Impeach president, arrest him: Nahid]]></description>
+            <link>https://bdnews24.com/politics/5a9f66a367d9</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/5a9f66a367d9</guid>
+            <pubDate>Sat, 14 Mar 2026 00:58:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mymensingh-ncp-nahid-130326-01-1773425152.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran lets two tankers sail to India]]></title>
+            <description><![CDATA[[World] Iran lets two tankers sail to India]]></description>
+            <link>https://bdnews24.com/world/43b6ff9ad306</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/43b6ff9ad306</guid>
+            <pubDate>Sat, 14 Mar 2026 00:41:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/gulf-tankers-120326-01-1773289214.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman killed as wall collapses in rain]]></title>
+            <description><![CDATA[[Bangladesh] Woman killed as wall collapses in rain]]></description>
+            <link>https://bdnews24.com/bangladesh/0e168a239584</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0e168a239584</guid>
+            <pubDate>Sat, 14 Mar 2026 00:39:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-02/9021c496-de82-40e2-9272-b4d04091c11d/dmch_emergency_department_230223_04.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Pakistan thrash Tigers in big win]]></title>
             <description><![CDATA[[Sport] Pakistan thrash Tigers in big win]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/americas/61d4a98cd931</guid>
             <pubDate>Fri, 13 Mar 2026 19:37:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-13326-1773409008.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[NPA: Scrap ‘anti-people’ US trade deal]]></title>
-            <description><![CDATA[[Politics] NPA: Scrap ‘anti-people’ US trade deal]]></description>
-            <link>https://bdnews24.com/politics/3de6d965667f</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/3de6d965667f</guid>
-            <pubDate>Fri, 13 Mar 2026 19:35:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/npa-rta-130326-01-1773408392.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australia qualify for Women’s World Cup]]></title>
-            <description><![CDATA[[Sport] Australia qualify for Women’s World Cup]]></description>
-            <link>https://bdnews24.com/sport/9889df65c0e2</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/9889df65c0e2</guid>
-            <pubDate>Fri, 13 Mar 2026 19:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/2023-03/4251bde8-d95f-4b6f-aa99-d0cf1bf62bc1/fifa_world_cup_170323_01.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Masud defends Opposition MPs sitting during national anthem]]></title>
-            <description><![CDATA[[Politics] Masud defends Opposition MPs sitting during national anthem]]></description>
-            <link>https://bdnews24.com/politics/587532fd712c</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/587532fd712c</guid>
-            <pubDate>Fri, 13 Mar 2026 19:10:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jamat-jote-140326-1773402731.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
