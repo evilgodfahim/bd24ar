@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Mar 2026 11:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 12:30:14 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Mar 2026 11:22:23 GMT</pubDate>
+        <pubDate>Fri, 13 Mar 2026 12:30:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Dhaka Regency electric fire burns 4]]></title>
+            <description><![CDATA[[Bangladesh] Dhaka Regency electric fire burns 4]]></description>
+            <link>https://bdnews24.com/bangladesh/1b2fda0d6e17</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1b2fda0d6e17</guid>
+            <pubDate>Fri, 13 Mar 2026 18:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/burn-institute-021224-013-1739675974-1753349487-1773401132.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pakistani air strikes kill six in Afghanistan]]></title>
+            <description><![CDATA[[World] Pakistani air strikes kill six in Afghanistan]]></description>
+            <link>https://bdnews24.com/world/e752f39538f7</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e752f39538f7</guid>
+            <pubDate>Fri, 13 Mar 2026 17:59:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/afghan-27226-1772200597.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[5 Bangladeshis killed in Maldives fire]]></title>
+            <description><![CDATA[[Bangladesh] 5 Bangladeshis killed in Maldives fire]]></description>
+            <link>https://bdnews24.com/bangladesh/6063016f0d3d</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6063016f0d3d</guid>
+            <pubDate>Fri, 13 Mar 2026 17:42:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/maldives-fire-140326-01-1773398227.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump tells G7 leaders Iran is ‘about to surrender’: report]]></title>
+            <description><![CDATA[[World] Trump tells G7 leaders Iran is ‘about to surrender’: report]]></description>
+            <link>https://bdnews24.com/world/cdd88b075f6a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/cdd88b075f6a</guid>
+            <pubDate>Fri, 13 Mar 2026 17:24:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-crisis-trump-130326-01-1773397742.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[PM visits Mirza Abbas at Evercare Hospital]]></title>
             <description><![CDATA[[Bangladesh] PM visits Mirza Abbas at Evercare Hospital]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/business/3a1ac25e4cae</guid>
             <pubDate>Fri, 13 Mar 2026 11:12:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/jamieson-greer-130326-01-1773378704.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fifth of Australian teens still use social media after ban]]></title>
-            <description><![CDATA[[social media] Fifth of Australian teens still use social media after ban]]></description>
-            <link>https://bdnews24.com/socialmedia/2f6a33150266</link>
-            <guid isPermaLink="true">https://bdnews24.com/socialmedia/2f6a33150266</guid>
-            <pubDate>Fri, 13 Mar 2026 11:07:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/australia-social-media-teen-ban-130326-01-1773378431.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gaza detainee abuse: Israel drops charges against soldiers]]></title>
-            <description><![CDATA[[Middle East] Gaza detainee abuse: Israel drops charges against soldiers]]></description>
-            <link>https://bdnews24.com/world/middle-east/6cdb3769f27a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/6cdb3769f27a</guid>
-            <pubDate>Fri, 13 Mar 2026 11:02:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/gaza-detainee-abuse-soldier-charges-130326-01-1773378129.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US issues 30-day sanctions waiver for Russian oil purchase at sea]]></title>
-            <description><![CDATA[[Economy] US issues 30-day sanctions waiver for Russian oil purchase at sea]]></description>
-            <link>https://bdnews24.com/economy/d204be3a81f8</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/d204be3a81f8</guid>
-            <pubDate>Fri, 13 Mar 2026 10:58:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/oil-pumpjack-130326-01-1773377864.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bombed Iranian girls school had vivid website, long online presence]]></title>
-            <description><![CDATA[[Middle East] Bombed Iranian girls school had vivid website, long online presence]]></description>
-            <link>https://bdnews24.com/world/middle-east/9af753382e45</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/9af753382e45</guid>
-            <pubDate>Fri, 13 Mar 2026 10:57:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-school-130326-01-1773377758.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
