@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Mar 2026 16:24:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 17:25:53 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Mar 2026 16:24:52 GMT</pubDate>
+        <pubDate>Fri, 13 Mar 2026 17:25:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How can Iran block Strait of Hormuz so easily?]]></title>
+            <description><![CDATA[[World] How can Iran block Strait of Hormuz so easily?]]></description>
+            <link>https://bdnews24.com/world/5bbe12b4d1d9</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/5bbe12b4d1d9</guid>
+            <pubDate>Fri, 13 Mar 2026 23:01:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/gulf-tankers-120326-01-1773289214.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man United raring to go after first Carrick loss]]></title>
+            <description><![CDATA[[Sport] Man United raring to go after first Carrick loss]]></description>
+            <link>https://bdnews24.com/sport/11f6b844f484</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/11f6b844f484</guid>
+            <pubDate>Fri, 13 Mar 2026 22:30:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026January/SM/dorgu-sidelined-30012026-01-1769794177.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Gecko rescued in Khagrachhari]]></title>
             <description><![CDATA[[Bangladesh] Gecko rescued in Khagrachhari]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/1b2fda0d6e17</guid>
             <pubDate>Fri, 13 Mar 2026 18:04:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/burn-institute-021224-013-1739675974-1753349487-1773401132.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pakistani air strikes kill six in Afghanistan]]></title>
-            <description><![CDATA[[World] Pakistani air strikes kill six in Afghanistan]]></description>
-            <link>https://bdnews24.com/world/e752f39538f7</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/e752f39538f7</guid>
-            <pubDate>Fri, 13 Mar 2026 17:59:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/afghan-27226-1772200597.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[5 Bangladeshis killed in Maldives fire]]></title>
-            <description><![CDATA[[Bangladesh] 5 Bangladeshis killed in Maldives fire]]></description>
-            <link>https://bdnews24.com/bangladesh/6063016f0d3d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6063016f0d3d</guid>
-            <pubDate>Fri, 13 Mar 2026 17:42:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/maldives-fire-140326-01-1773398227.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
