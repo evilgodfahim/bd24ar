@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Mar 2026 05:08:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 06:36:41 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Mar 2026 05:08:03 GMT</pubDate>
+        <pubDate>Fri, 13 Mar 2026 06:36:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How is the world responding to the oil shock from the Iran war?]]></title>
+            <description><![CDATA[[World] How is the world responding to the oil shock from the Iran war?]]></description>
+            <link>https://bdnews24.com/world/effdb0a46270</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/effdb0a46270</guid>
+            <pubDate>Fri, 13 Mar 2026 12:26:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/strait-of-hormuz-130326-01-1773383149.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gazipur BRT project still a ‘running sore’ for Eid travellers]]></title>
+            <description><![CDATA[[Bangladesh] Gazipur BRT project still a ‘running sore’ for Eid travellers]]></description>
+            <link>https://bdnews24.com/bangladesh/ff74b5256ee4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ff74b5256ee4</guid>
+            <pubDate>Fri, 13 Mar 2026 12:15:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/gazipur-road-brt-120326-01-1773371906.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US opens unfair trade practices probe of 60 countries]]></title>
+            <description><![CDATA[[Business] US opens unfair trade practices probe of 60 countries]]></description>
+            <link>https://bdnews24.com/business/3a1ac25e4cae</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/3a1ac25e4cae</guid>
+            <pubDate>Fri, 13 Mar 2026 11:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/jamieson-greer-130326-01-1773378704.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Fifth of Australian teens still use social media after ban]]></title>
             <description><![CDATA[[social media] Fifth of Australian teens still use social media after ban]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/politics/544d1e98ee47</guid>
             <pubDate>Fri, 13 Mar 2026 00:51:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jamat-jote-protest-120326-1773311198.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bombing won't overthrow ruling clerics: dissidents]]></title>
-            <description><![CDATA[[World] Bombing won't overthrow ruling clerics: dissidents]]></description>
-            <link>https://bdnews24.com/world/5ef8c60e8031</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/5ef8c60e8031</guid>
-            <pubDate>Fri, 13 Mar 2026 00:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/bombing-overthrow-dissidents-13032026-01-1773340411.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Solanke calls Spurs Madrid meltdown ‘one in a million’]]></title>
-            <description><![CDATA[[Sport] Solanke calls Spurs Madrid meltdown ‘one in a million’]]></description>
-            <link>https://bdnews24.com/sport/b5210d71d721</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/b5210d71d721</guid>
-            <pubDate>Fri, 13 Mar 2026 00:27:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/epl-wrapup-spurs-man-utd-110226-01-1770782480.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil jumps 8% as Iran keeps Hormuz shut]]></title>
-            <description><![CDATA[[World] Oil jumps 8% as Iran keeps Hormuz shut]]></description>
-            <link>https://bdnews24.com/world/0730faaefd86</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/0730faaefd86</guid>
-            <pubDate>Fri, 13 Mar 2026 00:23:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/hormuz-strait-130326-02-1773339709.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
