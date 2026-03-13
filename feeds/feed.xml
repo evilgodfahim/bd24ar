@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Mar 2026 09:28:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 10:23:30 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Mar 2026 09:28:40 GMT</pubDate>
+        <pubDate>Fri, 13 Mar 2026 10:23:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Mirza Abbas undergoes surgery]]></title>
+            <description><![CDATA[[Bangladesh] Mirza Abbas undergoes surgery]]></description>
+            <link>https://bdnews24.com/bangladesh/3cbd372deaca</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3cbd372deaca</guid>
+            <pubDate>Fri, 13 Mar 2026 16:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/mirza-abbas-171121-01-1773345315-1-1773396985.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Family, friends mourn for Mongla crash victims]]></title>
+            <description><![CDATA[[Bangladesh] Family, friends mourn for Mongla crash victims]]></description>
+            <link>https://bdnews24.com/bangladesh/cb5040f261fe</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cb5040f261fe</guid>
+            <pubDate>Fri, 13 Mar 2026 15:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bagerhat-accident-130326-01-1773385181.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Speaker, deputy speaker pay homage at National Memorial]]></title>
+            <description><![CDATA[[Bangladesh] Speaker, deputy speaker pay homage at National Memorial]]></description>
+            <link>https://bdnews24.com/bangladesh/82faea247262</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/82faea247262</guid>
+            <pubDate>Fri, 13 Mar 2026 15:35:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/national-martyrs-memorial-admiration-130326-1773389907.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[3,100 attacks’ on Bangladeshi minorities in 18 months: India]]></title>
             <description><![CDATA[[Bangladesh] 3,100 attacks’ on Bangladeshi minorities in 18 months: India]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/d8cc64e1494d</guid>
             <pubDate>Fri, 13 Mar 2026 10:19:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iranian-missile-israel-130326-01-1773375490.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Both sides trade strikes, threats as the Iran war nears 2-week mark]]></title>
-            <description><![CDATA[[World] Both sides trade strikes, threats as the Iran war nears 2-week mark]]></description>
-            <link>https://bdnews24.com/world/f1116227fe6b</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/f1116227fe6b</guid>
-            <pubDate>Fri, 13 Mar 2026 09:52:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-war-130326-01-1773373855.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Global coalition urges immediate bail for Shahriar Kabir]]></title>
-            <description><![CDATA[[Bangladesh] Global coalition urges immediate bail for Shahriar Kabir]]></description>
-            <link>https://bdnews24.com/bangladesh/8d434c816b30</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8d434c816b30</guid>
-            <pubDate>Fri, 13 Mar 2026 02:55:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025November/SM/shahriarkabir-041114-0003-1763840090.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Not appropriate’ for Iran to be in WC: Trump]]></title>
-            <description><![CDATA[[Sport] ‘Not appropriate’ for Iran to be in WC: Trump]]></description>
-            <link>https://bdnews24.com/sport/9f33edb6fd84</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/9f33edb6fd84</guid>
-            <pubDate>Fri, 13 Mar 2026 02:02:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/donald-trump-130326-02-1773345705.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
