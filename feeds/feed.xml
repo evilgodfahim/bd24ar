@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Mar 2026 10:23:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 11:22:23 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Mar 2026 10:23:30 GMT</pubDate>
+        <pubDate>Fri, 13 Mar 2026 11:22:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[PM visits Mirza Abbas at Evercare Hospital]]></title>
+            <description><![CDATA[[Bangladesh] PM visits Mirza Abbas at Evercare Hospital]]></description>
+            <link>https://bdnews24.com/bangladesh/6bdf1005a005</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6bdf1005a005</guid>
+            <pubDate>Fri, 13 Mar 2026 17:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/mirza-abbas-130326-01-1773400130.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[4 die in US plane crash over Iraq]]></title>
+            <description><![CDATA[[Americas] 4 die in US plane crash over Iraq]]></description>
+            <link>https://bdnews24.com/world/americas/b4b32840459a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/b4b32840459a</guid>
+            <pubDate>Fri, 13 Mar 2026 16:44:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-iraq-crash-rescue-130326-01-1773377006.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Home of Chhatra Shakti leader who beat DU student torched]]></title>
+            <description><![CDATA[[Bangladesh] Home of Chhatra Shakti leader who beat DU student torched]]></description>
+            <link>https://bdnews24.com/bangladesh/cb07a262eddc</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cb07a262eddc</guid>
+            <pubDate>Fri, 13 Mar 2026 16:38:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mymensingh-fire-130226-01-1773392083.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Newlywed Mitu laid to rest with henna-laced hands]]></title>
+            <description><![CDATA[[Bangladesh] Newlywed Mitu laid to rest with henna-laced hands]]></description>
+            <link>https://bdnews24.com/bangladesh/14f0f154867b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/14f0f154867b</guid>
+            <pubDate>Fri, 13 Mar 2026 16:24:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/khulna-mitu-130326-03-1773393514.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Mirza Abbas undergoes surgery]]></title>
             <description><![CDATA[[Bangladesh] Mirza Abbas undergoes surgery]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/9af753382e45</guid>
             <pubDate>Fri, 13 Mar 2026 10:57:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-school-130326-01-1773377758.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US carries out rescue after Iraq military aircraft crash]]></title>
-            <description><![CDATA[[World] US carries out rescue after Iraq military aircraft crash]]></description>
-            <link>https://bdnews24.com/world/6d9f320e968c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/6d9f320e968c</guid>
-            <pubDate>Fri, 13 Mar 2026 10:45:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-iraq-crash-rescue-130326-01-1773377006.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ex-rapper’s party wins Nepal polls in landslide]]></title>
-            <description><![CDATA[[World] Ex-rapper’s party wins Nepal polls in landslide]]></description>
-            <link>https://bdnews24.com/world/735a131af79e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/735a131af79e</guid>
-            <pubDate>Fri, 13 Mar 2026 10:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/nepal-election-prime-minister-130326-01-1773376372.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Iran supreme leader alive but damaged: Trump]]></title>
-            <description><![CDATA[[Middle East] New Iran supreme leader alive but damaged: Trump]]></description>
-            <link>https://bdnews24.com/world/middle-east/7cfac7b60326</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/7cfac7b60326</guid>
-            <pubDate>Fri, 13 Mar 2026 10:22:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-khamenei-trump-130326-01-1773375683.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran's Shia allies step up strikes despite weakened hand]]></title>
-            <description><![CDATA[[Middle East] Iran's Shia allies step up strikes despite weakened hand]]></description>
-            <link>https://bdnews24.com/world/middle-east/d8cc64e1494d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/d8cc64e1494d</guid>
-            <pubDate>Fri, 13 Mar 2026 10:19:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iranian-missile-israel-130326-01-1773375490.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
