@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Mar 2026 17:25:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 18:25:39 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Mar 2026 17:25:53 GMT</pubDate>
+        <pubDate>Fri, 13 Mar 2026 18:25:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Pakistan thrash Tigers in big win]]></title>
+            <description><![CDATA[[Sport] Pakistan thrash Tigers in big win]]></description>
+            <link>https://bdnews24.com/sport/2753215f0a88</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/2753215f0a88</guid>
+            <pubDate>Sat, 14 Mar 2026 00:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bangladesh-pakistan-wicket-130326-01-1773421453.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pentagon chief blasts CNN war coverage]]></title>
+            <description><![CDATA[[World] Pentagon chief blasts CNN war coverage]]></description>
+            <link>https://bdnews24.com/world/2149c4936dcb</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/2149c4936dcb</guid>
+            <pubDate>Fri, 13 Mar 2026 23:48:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026January/SM/pete-hegseth-130126-01-1768276660.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran war death toll 'crosses 2,000']]></title>
+            <description><![CDATA[[World] Iran war death toll 'crosses 2,000']]></description>
+            <link>https://bdnews24.com/world/95a7b76f44a3</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/95a7b76f44a3</guid>
+            <pubDate>Fri, 13 Mar 2026 23:27:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/blast-manama-bahrain-010326-01-1772346098.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[How can Iran block Strait of Hormuz so easily?]]></title>
             <description><![CDATA[[World] How can Iran block Strait of Hormuz so easily?]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/politics/587532fd712c</guid>
             <pubDate>Fri, 13 Mar 2026 19:10:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jamat-jote-140326-1773402731.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Call to remove Azharul from parliament presidium]]></title>
-            <description><![CDATA[[Politics] Call to remove Azharul from parliament presidium]]></description>
-            <link>https://bdnews24.com/politics/a91b85a827ef</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/a91b85a827ef</guid>
-            <pubDate>Fri, 13 Mar 2026 18:47:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/a-t-m-azhar-130326-01-1773401660.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scattered rain likely as nor’wester season begins]]></title>
-            <description><![CDATA[[Bangladesh] Scattered rain likely as nor’wester season begins]]></description>
-            <link>https://bdnews24.com/bangladesh/6cf07c37fc2b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6cf07c37fc2b</guid>
-            <pubDate>Fri, 13 Mar 2026 18:42:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024June/SM/rain-hatirjheel-260624-48-1719398367.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka Regency electrical fire burns 4]]></title>
-            <description><![CDATA[[Bangladesh] Dhaka Regency electrical fire burns 4]]></description>
-            <link>https://bdnews24.com/bangladesh/1b2fda0d6e17</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1b2fda0d6e17</guid>
-            <pubDate>Fri, 13 Mar 2026 18:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/burn-institute-021224-013-1739675974-1753349487-1773401132.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
