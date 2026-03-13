@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Mar 2026 13:51:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 14:34:11 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Mar 2026 13:51:18 GMT</pubDate>
+        <pubDate>Fri, 13 Mar 2026 14:34:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Putin reviews protection of Russia’s key infrastructure]]></title>
+            <description><![CDATA[[World] Putin reviews protection of Russia’s key infrastructure]]></description>
+            <link>https://bdnews24.com/world/4bf611a35fe9</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/4bf611a35fe9</guid>
+            <pubDate>Fri, 13 Mar 2026 20:21:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/russia-border-city-12326-1773286026.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Four arrested after Rotterdam synagogue arson]]></title>
+            <description><![CDATA[[World] Four arrested after Rotterdam synagogue arson]]></description>
+            <link>https://bdnews24.com/world/d852152376b0</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/d852152376b0</guid>
+            <pubDate>Fri, 13 Mar 2026 20:18:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025November/SM/bus-fire-dhaka-131125-01-1763010515.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran’s new leader wounded, disfigured: US]]></title>
+            <description><![CDATA[[World] Iran’s new leader wounded, disfigured: US]]></description>
+            <link>https://bdnews24.com/world/87315c672c3d</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/87315c672c3d</guid>
+            <pubDate>Fri, 13 Mar 2026 19:51:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/hormuz-shut-khamenei-12032026-01-1773326524.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[US would escort ships in Strait of Hormuz 'if needed': Trump]]></title>
             <description><![CDATA[[Americas] US would escort ships in Strait of Hormuz 'if needed': Trump]]></description>
@@ -121,8 +145,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/khulna-mitu-130326-03-1773393514.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Mirza Abbas undergoes surgery]]></title>
-            <description><![CDATA[[Bangladesh] Mirza Abbas undergoes surgery]]></description>
+            <title><![CDATA[Mirza Abbas’ brain surgery completed]]></title>
+            <description><![CDATA[[Bangladesh] Mirza Abbas’ brain surgery completed]]></description>
             <link>https://bdnews24.com/bangladesh/3cbd372deaca</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/3cbd372deaca</guid>
             <pubDate>Fri, 13 Mar 2026 16:16:00 GMT</pubDate>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/82faea247262</guid>
             <pubDate>Fri, 13 Mar 2026 15:35:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/national-martyrs-memorial-admiration-130326-1773389907.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3,100 attacks’ on Bangladeshi minorities in 18 months: India]]></title>
-            <description><![CDATA[[Bangladesh] 3,100 attacks’ on Bangladeshi minorities in 18 months: India]]></description>
-            <link>https://bdnews24.com/bangladesh/64fd38ea3c9f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/64fd38ea3c9f</guid>
-            <pubDate>Fri, 13 Mar 2026 15:05:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rajya-sabha-130326-01-1773390134.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Letter to PM calls for Shahriar Kabir’s release]]></title>
-            <description><![CDATA[[Bangladesh] Letter to PM calls for Shahriar Kabir’s release]]></description>
-            <link>https://bdnews24.com/bangladesh/ad2f5627b62f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ad2f5627b62f</guid>
-            <pubDate>Fri, 13 Mar 2026 14:52:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024September/SM/shahriar-kabir-170924-02-1726562765.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran war: Gulf states lose $15bn in energy revenue]]></title>
-            <description><![CDATA[[Middle East] Iran war: Gulf states lose $15bn in energy revenue]]></description>
-            <link>https://bdnews24.com/world/middle-east/b4e4b6843271</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/b4e4b6843271</guid>
-            <pubDate>Fri, 13 Mar 2026 14:13:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/hormuz-strait-120326-02-1773267314.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
