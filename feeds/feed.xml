@@ -4,13 +4,61 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Mar 2026 12:30:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 13:51:18 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Mar 2026 12:30:14 GMT</pubDate>
+        <pubDate>Fri, 13 Mar 2026 13:51:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Dhaka Regency electric fire burns 4]]></title>
-            <description><![CDATA[[Bangladesh] Dhaka Regency electric fire burns 4]]></description>
+            <title><![CDATA[US would escort ships in Strait of Hormuz 'if needed': Trump]]></title>
+            <description><![CDATA[[Americas] US would escort ships in Strait of Hormuz 'if needed': Trump]]></description>
+            <link>https://bdnews24.com/world/americas/61d4a98cd931</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/61d4a98cd931</guid>
+            <pubDate>Fri, 13 Mar 2026 19:37:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-13326-1773409008.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[NPA: Scrap ‘anti-people’ US trade deal]]></title>
+            <description><![CDATA[[Politics] NPA: Scrap ‘anti-people’ US trade deal]]></description>
+            <link>https://bdnews24.com/politics/3de6d965667f</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/3de6d965667f</guid>
+            <pubDate>Fri, 13 Mar 2026 19:35:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/npa-rta-130326-01-1773408392.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australia qualify for Women’s World Cup]]></title>
+            <description><![CDATA[[Sport] Australia qualify for Women’s World Cup]]></description>
+            <link>https://bdnews24.com/sport/9889df65c0e2</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/9889df65c0e2</guid>
+            <pubDate>Fri, 13 Mar 2026 19:26:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/2023-03/4251bde8-d95f-4b6f-aa99-d0cf1bf62bc1/fifa_world_cup_170323_01.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Masud defends Opposition MPs sitting during national anthem]]></title>
+            <description><![CDATA[[Politics] Masud defends Opposition MPs sitting during national anthem]]></description>
+            <link>https://bdnews24.com/politics/587532fd712c</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/587532fd712c</guid>
+            <pubDate>Fri, 13 Mar 2026 19:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jamat-jote-140326-1773402731.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Call to remove Azharul from parliament presidium]]></title>
+            <description><![CDATA[[Politics] Call to remove Azharul from parliament presidium]]></description>
+            <link>https://bdnews24.com/politics/a91b85a827ef</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/a91b85a827ef</guid>
+            <pubDate>Fri, 13 Mar 2026 18:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/a-t-m-azhar-130326-01-1773401660.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scattered rain likely as nor’wester season begins]]></title>
+            <description><![CDATA[[Bangladesh] Scattered rain likely as nor’wester season begins]]></description>
+            <link>https://bdnews24.com/bangladesh/6cf07c37fc2b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6cf07c37fc2b</guid>
+            <pubDate>Fri, 13 Mar 2026 18:42:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024June/SM/rain-hatirjheel-260624-48-1719398367.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka Regency electrical fire burns 4]]></title>
+            <description><![CDATA[[Bangladesh] Dhaka Regency electrical fire burns 4]]></description>
             <link>https://bdnews24.com/bangladesh/1b2fda0d6e17</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/1b2fda0d6e17</guid>
             <pubDate>Fri, 13 Mar 2026 18:04:00 GMT</pubDate>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/b4e4b6843271</guid>
             <pubDate>Fri, 13 Mar 2026 14:13:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/hormuz-strait-120326-02-1773267314.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Banglar Joyjatra leaves Jebel Ali port, still stuck at UAE]]></title>
-            <description><![CDATA[[Bangladesh] Banglar Joyjatra leaves Jebel Ali port, still stuck at UAE]]></description>
-            <link>https://bdnews24.com/bangladesh/baea00318873</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/baea00318873</guid>
-            <pubDate>Fri, 13 Mar 2026 13:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/banglar-joyjatra-130326-01-1773386892.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mirza Abbas ‘under close observation’]]></title>
-            <description><![CDATA[[Bangladesh] Mirza Abbas ‘under close observation’]]></description>
-            <link>https://bdnews24.com/bangladesh/b3c8e98384de</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b3c8e98384de</guid>
-            <pubDate>Fri, 13 Mar 2026 13:23:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mirza-abbas-171121-01-1773345315.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Asian stocks slide as Iran war keeps oil near $100]]></title>
-            <description><![CDATA[[Business] Asian stocks slide as Iran war keeps oil near $100]]></description>
-            <link>https://bdnews24.com/business/c074a554e029</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/c074a554e029</guid>
-            <pubDate>Fri, 13 Mar 2026 12:45:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/nikkei-stock-prices-130326-01-1-1773384217.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How is the world responding to the oil shock from the Iran war?]]></title>
-            <description><![CDATA[[World] How is the world responding to the oil shock from the Iran war?]]></description>
-            <link>https://bdnews24.com/world/effdb0a46270</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/effdb0a46270</guid>
-            <pubDate>Fri, 13 Mar 2026 12:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/strait-of-hormuz-130326-01-1773383149.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gazipur BRT project still a ‘running sore’ for Eid travellers]]></title>
-            <description><![CDATA[[Bangladesh] Gazipur BRT project still a ‘running sore’ for Eid travellers]]></description>
-            <link>https://bdnews24.com/bangladesh/ff74b5256ee4</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ff74b5256ee4</guid>
-            <pubDate>Fri, 13 Mar 2026 12:15:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/gazipur-road-brt-120326-01-1773371906.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US opens unfair trade practices probe of 60 countries]]></title>
-            <description><![CDATA[[Business] US opens unfair trade practices probe of 60 countries]]></description>
-            <link>https://bdnews24.com/business/3a1ac25e4cae</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/3a1ac25e4cae</guid>
-            <pubDate>Fri, 13 Mar 2026 11:12:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/jamieson-greer-130326-01-1773378704.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
