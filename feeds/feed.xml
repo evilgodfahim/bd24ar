@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Mar 2026 11:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 12:23:36 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Mar 2026 11:14:00 GMT</pubDate>
+        <pubDate>Sat, 14 Mar 2026 12:23:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[5 more city corporations get BNP administrators]]></title>
+            <description><![CDATA[[Bangladesh] 5 more city corporations get BNP administrators]]></description>
+            <link>https://bdnews24.com/bangladesh/6396cb9927ed</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6396cb9927ed</guid>
+            <pubDate>Sat, 14 Mar 2026 17:20:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/five-city-administrator-140326-03-1773489244.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Shafiqur officially recognised as opposition leader]]></title>
             <description><![CDATA[[Bangladesh] Shafiqur officially recognised as opposition leader]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/technology/99140616b496</guid>
             <pubDate>Sat, 14 Mar 2026 11:07:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/meta-logo-190324-01-1773464769.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US travel ban stops Palestinian actor attending Oscars]]></title>
-            <description><![CDATA[[Entertainment] US travel ban stops Palestinian actor attending Oscars]]></description>
-            <link>https://bdnews24.com/entertainment/bb53725195f7</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/bb53725195f7</guid>
-            <pubDate>Sat, 14 Mar 2026 10:31:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/palestinian-140326-1773462529.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
