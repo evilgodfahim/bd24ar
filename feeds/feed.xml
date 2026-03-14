@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Mar 2026 14:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 15:15:55 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Mar 2026 14:17:52 GMT</pubDate>
+        <pubDate>Sat, 14 Mar 2026 15:15:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Man held in India for aiding Hadi murder suspects’ escape]]></title>
+            <description><![CDATA[[Bangladesh] Man held in India for aiding Hadi murder suspects’ escape]]></description>
+            <link>https://bdnews24.com/bangladesh/45067f1b36bc</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/45067f1b36bc</guid>
+            <pubDate>Sat, 14 Mar 2026 20:57:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/inqilab-mancha-jamuna-050226-008-1770305638.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Maldives blast: Nur Nabi returns in a coffin before Eid]]></title>
+            <description><![CDATA[[Bangladesh] Maldives blast: Nur Nabi returns in a coffin before Eid]]></description>
+            <link>https://bdnews24.com/bangladesh/2b5c53eacb6a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2b5c53eacb6a</guid>
+            <pubDate>Sat, 14 Mar 2026 20:36:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bogura-nurnobi-140326-01-1773493992.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[5 city administrators meet PM after appointment]]></title>
             <description><![CDATA[[Bangladesh] 5 city administrators meet PM after appointment]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/Fashion/1e3a5432174f</guid>
             <pubDate>Sat, 14 Mar 2026 12:21:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/dutch-woman-14326-1773469198.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sara Lifestyle launches ‘Majestic Legacy’ Eid collection]]></title>
-            <description><![CDATA[[Lifestyle] Sara Lifestyle launches ‘Majestic Legacy’ Eid collection]]></description>
-            <link>https://bdnews24.com/lifestyle/b93c8a3865cd</link>
-            <guid isPermaLink="true">https://bdnews24.com/lifestyle/b93c8a3865cd</guid>
-            <pubDate>Sat, 14 Mar 2026 11:43:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/sara-eid-collection-14032026-01-1773466969.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘This isn’t charity league’: Litton on Agha run-out]]></title>
-            <description><![CDATA[[Sport] ‘This isn’t charity league’: Litton on Agha run-out]]></description>
-            <link>https://bdnews24.com/sport/3fbbc8d3388b</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/3fbbc8d3388b</guid>
-            <pubDate>Sat, 14 Mar 2026 11:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/liton-bangladesh-140326-1773458552.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
