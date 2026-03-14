@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Mar 2026 08:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 09:21:17 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Mar 2026 08:20:52 GMT</pubDate>
+        <pubDate>Sat, 14 Mar 2026 09:21:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Srikail Well No. 5 begins feeding gas into national grid]]></title>
+            <description><![CDATA[[Bangladesh] Srikail Well No. 5 begins feeding gas into national grid]]></description>
+            <link>https://bdnews24.com/bangladesh/f340ec2c5f8c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f340ec2c5f8c</guid>
+            <pubDate>Sat, 14 Mar 2026 15:09:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/cumilla-gas-140326-1-1773476505.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jamaat alliance issues Sunday ultimatum over reform council]]></title>
+            <description><![CDATA[[Politics] Jamaat alliance issues Sunday ultimatum over reform council]]></description>
+            <link>https://bdnews24.com/politics/e792576bff15</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/e792576bff15</guid>
+            <pubDate>Sat, 14 Mar 2026 14:45:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jamaat-jot-press-conffernce-140326-01-1773474663.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[PM pledges ‘peaceful Bangladesh’ for people of all faiths]]></title>
             <description><![CDATA[[Bangladesh] PM pledges ‘peaceful Bangladesh’ for people of all faiths]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/politics/5a9f66a367d9</guid>
             <pubDate>Sat, 14 Mar 2026 00:58:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mymensingh-ncp-nahid-130326-01-1773425152.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran lets two tankers sail to India]]></title>
-            <description><![CDATA[[World] Iran lets two tankers sail to India]]></description>
-            <link>https://bdnews24.com/world/43b6ff9ad306</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/43b6ff9ad306</guid>
-            <pubDate>Sat, 14 Mar 2026 00:41:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/gulf-tankers-120326-01-1773289214.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Woman killed as wall collapses in rain]]></title>
-            <description><![CDATA[[Bangladesh] Woman killed as wall collapses in rain]]></description>
-            <link>https://bdnews24.com/bangladesh/0e168a239584</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0e168a239584</guid>
-            <pubDate>Sat, 14 Mar 2026 00:39:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-02/9021c496-de82-40e2-9272-b4d04091c11d/dmch_emergency_department_230223_04.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
