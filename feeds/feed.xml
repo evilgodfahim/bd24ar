@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Mar 2026 21:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 22:13:20 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Mar 2026 21:16:37 GMT</pubDate>
+        <pubDate>Sat, 14 Mar 2026 22:13:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Dutch greats join Suriname WC push]]></title>
+            <description><![CDATA[[Sport] Dutch greats join Suriname WC push]]></description>
+            <link>https://bdnews24.com/sport/c0e36bda2baf</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/c0e36bda2baf</guid>
+            <pubDate>Sun, 15 Mar 2026 03:30:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/world-cup-150326-01-1773523761.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Newcastle edge Chelsea with 1-0 win]]></title>
+            <description><![CDATA[[Sport] Newcastle edge Chelsea with 1-0 win]]></description>
+            <link>https://bdnews24.com/sport/8c59d4fb4a1f</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/8c59d4fb4a1f</guid>
+            <pubDate>Sun, 15 Mar 2026 03:28:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/newcastle-chelsea-150326-01-1773523671.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dowman seals historic Arsenal win over Everton]]></title>
+            <description><![CDATA[[Sport] Dowman seals historic Arsenal win over Everton]]></description>
+            <link>https://bdnews24.com/sport/4ea22af48c0f</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/4ea22af48c0f</guid>
+            <pubDate>Sun, 15 Mar 2026 03:26:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/dowman-win-arsenal-15032026-01-1773523550.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Why parliament rules matter for MPs?]]></title>
             <description><![CDATA[[Bangladesh] Why parliament rules matter for MPs?]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/c51002c38527</guid>
             <pubDate>Sat, 14 Mar 2026 22:12:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jamaat-amir-shafikur-140326-01-1773502108.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt will address Constitution Reform Council in parliament: Salahuddin]]></title>
-            <description><![CDATA[[Bangladesh] Govt will address Constitution Reform Council in parliament: Salahuddin]]></description>
-            <link>https://bdnews24.com/bangladesh/eb564eead524</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/eb564eead524</guid>
-            <pubDate>Sat, 14 Mar 2026 22:08:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/minister-home-salauddin-140326-01-1773500405.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India seeks passage for vessels around Hormuz]]></title>
-            <description><![CDATA[[World] India seeks passage for vessels around Hormuz]]></description>
-            <link>https://bdnews24.com/world/11da073b367a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/11da073b367a</guid>
-            <pubDate>Sat, 14 Mar 2026 21:52:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/hormuz-strait-140326-01-1773503495.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Book fair sales hit new low with reported 80% decline]]></title>
-            <description><![CDATA[[Bangladesh] Book fair sales hit new low with reported 80% decline]]></description>
-            <link>https://bdnews24.com/bangladesh/ca91ad7f1a3c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ca91ad7f1a3c</guid>
-            <pubDate>Sat, 14 Mar 2026 21:45:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/purblisher-oiko-140326-01-1773500223.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
