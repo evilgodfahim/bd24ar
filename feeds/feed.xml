@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Mar 2026 06:32:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 07:27:28 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Mar 2026 06:32:09 GMT</pubDate>
+        <pubDate>Sat, 14 Mar 2026 07:27:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[N Korea fires possible missile amid US-South Korea drills]]></title>
+            <description><![CDATA[[Asia Pacific] N Korea fires possible missile amid US-South Korea drills]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/58d4f3d54dea</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/58d4f3d54dea</guid>
+            <pubDate>Sat, 14 Mar 2026 12:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/n-korea-14326-1773470798.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA['Absconding' murder suspect posts selfie with Rajshahi MP]]></title>
             <description><![CDATA[[Bangladesh] 'Absconding' murder suspect posts selfie with Rajshahi MP]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/2753215f0a88</guid>
             <pubDate>Sat, 14 Mar 2026 00:08:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bangladesh-pakistan-wicket-130326-01-1773421453.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pentagon chief blasts CNN war coverage]]></title>
-            <description><![CDATA[[World] Pentagon chief blasts CNN war coverage]]></description>
-            <link>https://bdnews24.com/world/2149c4936dcb</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/2149c4936dcb</guid>
-            <pubDate>Fri, 13 Mar 2026 23:48:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026January/SM/pete-hegseth-130126-01-1768276660.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
