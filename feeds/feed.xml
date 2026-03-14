@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Mar 2026 16:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 17:16:52 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Mar 2026 16:16:56 GMT</pubDate>
+        <pubDate>Sat, 14 Mar 2026 17:16:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Man surrenders after killing wife]]></title>
+            <description><![CDATA[[Bangladesh] Man surrenders after killing wife]]></description>
+            <link>https://bdnews24.com/bangladesh/3e8111c655d5</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3e8111c655d5</guid>
+            <pubDate>Sat, 14 Mar 2026 22:20:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/chittagong-map-1000-1773505244.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[We don’t want to see media fail anymore: Shafiqur]]></title>
             <description><![CDATA[[Bangladesh] We don’t want to see media fail anymore: Shafiqur]]></description>
@@ -33,8 +41,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/hormuz-strait-140326-01-1773503495.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Book fair sales hit new low with reported 80 percent decline]]></title>
-            <description><![CDATA[[Bangladesh] Book fair sales hit new low with reported 80 percent decline]]></description>
+            <title><![CDATA[Book fair sales hit new low with reported 80% decline]]></title>
+            <description><![CDATA[[Bangladesh] Book fair sales hit new low with reported 80% decline]]></description>
             <link>https://bdnews24.com/bangladesh/ca91ad7f1a3c</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/ca91ad7f1a3c</guid>
             <pubDate>Sat, 14 Mar 2026 21:45:00 GMT</pubDate>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/media-en/4b6dbd3fee89</guid>
             <pubDate>Sat, 14 Mar 2026 15:37:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/anis-alomgir-140326-02-1773480707.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How China is wooing Paraguay’s political class away from Taiwan]]></title>
-            <description><![CDATA[[THE LONG READ] How China is wooing Paraguay’s political class away from Taiwan]]></description>
-            <link>https://bdnews24.com/the-long-read/8313b9e24226</link>
-            <guid isPermaLink="true">https://bdnews24.com/the-long-read/8313b9e24226</guid>
-            <pubDate>Sat, 14 Mar 2026 15:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/paraguay-monument-14326-1773480361.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
