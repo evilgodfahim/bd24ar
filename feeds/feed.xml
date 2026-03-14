@@ -4,13 +4,61 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Mar 2026 15:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 16:16:56 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Mar 2026 15:15:55 GMT</pubDate>
+        <pubDate>Sat, 14 Mar 2026 16:16:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Man held in India for aiding Hadi murder suspects’ escape]]></title>
-            <description><![CDATA[[Bangladesh] Man held in India for aiding Hadi murder suspects’ escape]]></description>
+            <title><![CDATA[We don’t want to see media fail anymore: Shafiqur]]></title>
+            <description><![CDATA[[Bangladesh] We don’t want to see media fail anymore: Shafiqur]]></description>
+            <link>https://bdnews24.com/bangladesh/c51002c38527</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c51002c38527</guid>
+            <pubDate>Sat, 14 Mar 2026 22:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jamaat-amir-shafikur-140326-01-1773502108.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Govt will address Constitution Reform Council in parliament: Salahuddin]]></title>
+            <description><![CDATA[[Bangladesh] Govt will address Constitution Reform Council in parliament: Salahuddin]]></description>
+            <link>https://bdnews24.com/bangladesh/eb564eead524</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/eb564eead524</guid>
+            <pubDate>Sat, 14 Mar 2026 22:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/minister-home-salauddin-140326-01-1773500405.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India seeks passage for vessels around Hormuz]]></title>
+            <description><![CDATA[[World] India seeks passage for vessels around Hormuz]]></description>
+            <link>https://bdnews24.com/world/11da073b367a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/11da073b367a</guid>
+            <pubDate>Sat, 14 Mar 2026 21:52:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/hormuz-strait-140326-01-1773503495.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Book fair sales hit new low with reported 80 percent decline]]></title>
+            <description><![CDATA[[Bangladesh] Book fair sales hit new low with reported 80 percent decline]]></description>
+            <link>https://bdnews24.com/bangladesh/ca91ad7f1a3c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ca91ad7f1a3c</guid>
+            <pubDate>Sat, 14 Mar 2026 21:45:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/purblisher-oiko-140326-01-1773500223.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dubai: From ‘safe haven’ to high-risk city]]></title>
+            <description><![CDATA[[World] Dubai: From ‘safe haven’ to high-risk city]]></description>
+            <link>https://bdnews24.com/world/d1d618ca8ae8</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/d1d618ca8ae8</guid>
+            <pubDate>Sat, 14 Mar 2026 21:40:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/dubai-burj-khalifa-030326-01-1772511124.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[March 14, 2026]]></title>
+            <description><![CDATA[[Image] March 14, 2026]]></description>
+            <link>https://bdnews24.com/media-en/image/2308e209f191</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/2308e209f191</guid>
+            <pubDate>Sat, 14 Mar 2026 21:36:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tarique-rahman-140326-006-1773498644.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man held in India for ‘aiding’ Hadi murder suspects escape]]></title>
+            <description><![CDATA[[Bangladesh] Man held in India for ‘aiding’ Hadi murder suspects escape]]></description>
             <link>https://bdnews24.com/bangladesh/45067f1b36bc</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/45067f1b36bc</guid>
             <pubDate>Sat, 14 Mar 2026 20:57:00 GMT</pubDate>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/the-long-read/8313b9e24226</guid>
             <pubDate>Sat, 14 Mar 2026 15:26:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/paraguay-monument-14326-1773480361.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Srikail Well No. 5 begins feeding gas into national grid]]></title>
-            <description><![CDATA[[Bangladesh] Srikail Well No. 5 begins feeding gas into national grid]]></description>
-            <link>https://bdnews24.com/bangladesh/f340ec2c5f8c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f340ec2c5f8c</guid>
-            <pubDate>Sat, 14 Mar 2026 15:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/cumilla-gas-140326-1-1773476505.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jamaat alliance issues Sunday ultimatum over reform council]]></title>
-            <description><![CDATA[[Politics] Jamaat alliance issues Sunday ultimatum over reform council]]></description>
-            <link>https://bdnews24.com/politics/e792576bff15</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/e792576bff15</guid>
-            <pubDate>Sat, 14 Mar 2026 14:45:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jamaat-jot-press-conffernce-140326-01-1773474663.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PM pledges ‘peaceful Bangladesh’ for people of all faiths]]></title>
-            <description><![CDATA[[Bangladesh] PM pledges ‘peaceful Bangladesh’ for people of all faiths]]></description>
-            <link>https://bdnews24.com/bangladesh/d62dd8cdc846</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d62dd8cdc846</guid>
-            <pubDate>Sat, 14 Mar 2026 14:16:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tarique-rahman-140326-03-1773474467.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[N Korea fires possible missile amid US-South Korea drills]]></title>
-            <description><![CDATA[[Asia Pacific] N Korea fires possible missile amid US-South Korea drills]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/58d4f3d54dea</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/58d4f3d54dea</guid>
-            <pubDate>Sat, 14 Mar 2026 12:47:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/n-korea-14326-1773470798.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA['Absconding' murder suspect posts selfie with Rajshahi MP]]></title>
-            <description><![CDATA[[Bangladesh] 'Absconding' murder suspect posts selfie with Rajshahi MP]]></description>
-            <link>https://bdnews24.com/bangladesh/9c1532f41e09</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9c1532f41e09</guid>
-            <pubDate>Sat, 14 Mar 2026 12:30:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rajshahi-mp-news-140326-01-1773465913.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Local preserves traditional Dutch dress]]></title>
-            <description><![CDATA[[Fashion] Local preserves traditional Dutch dress]]></description>
-            <link>https://bdnews24.com/Fashion/1e3a5432174f</link>
-            <guid isPermaLink="true">https://bdnews24.com/Fashion/1e3a5432174f</guid>
-            <pubDate>Sat, 14 Mar 2026 12:21:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/dutch-woman-14326-1773469198.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
