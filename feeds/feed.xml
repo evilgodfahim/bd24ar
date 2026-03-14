@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Mar 2026 12:23:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 13:37:29 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Mar 2026 12:23:36 GMT</pubDate>
+        <pubDate>Sat, 14 Mar 2026 13:37:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Early Eid travellers face delays as Kamalapur crowds swell]]></title>
+            <description><![CDATA[[Bangladesh] Early Eid travellers face delays as Kamalapur crowds swell]]></description>
+            <link>https://bdnews24.com/bangladesh/b06043923455</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b06043923455</guid>
+            <pubDate>Sat, 14 Mar 2026 19:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024June/SM/eid-train-journey-120624-01-1718167605.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mirza Abbas under close watch after brain surgery]]></title>
+            <description><![CDATA[[Bangladesh] Mirza Abbas under close watch after brain surgery]]></description>
+            <link>https://bdnews24.com/bangladesh/2bfa8edbefdb</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2bfa8edbefdb</guid>
+            <pubDate>Sat, 14 Mar 2026 18:30:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mirza-abbas-130626-01-1773397195.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[5 more city corporations get BNP administrators]]></title>
             <description><![CDATA[[Bangladesh] 5 more city corporations get BNP administrators]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/7a264af8fe76</guid>
             <pubDate>Sat, 14 Mar 2026 11:31:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/afghan-balst-14326-1773466259.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US should ‘declare victory, exit’ Iran war: White House AI czar]]></title>
-            <description><![CDATA[[Americas] US should ‘declare victory, exit’ Iran war: White House AI czar]]></description>
-            <link>https://bdnews24.com/world/americas/fe46d27710a5</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/fe46d27710a5</guid>
-            <pubDate>Sat, 14 Mar 2026 11:22:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-destruction-14326-1773465687.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Meta planning sweeping layoffs]]></title>
-            <description><![CDATA[[Technology] Meta planning sweeping layoffs]]></description>
-            <link>https://bdnews24.com/technology/99140616b496</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/99140616b496</guid>
-            <pubDate>Sat, 14 Mar 2026 11:07:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/meta-logo-190324-01-1773464769.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
