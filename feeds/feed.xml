@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Mar 2026 09:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 10:16:31 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Mar 2026 09:21:17 GMT</pubDate>
+        <pubDate>Sat, 14 Mar 2026 10:16:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Indian sailors stranded off Iran just want to go home]]></title>
+            <description><![CDATA[[Middle East] Indian sailors stranded off Iran just want to go home]]></description>
+            <link>https://bdnews24.com/world/middle-east/aacd69af0c81</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/aacd69af0c81</guid>
+            <pubDate>Sat, 14 Mar 2026 16:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/bandar-abbas-14326-1773483136.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Journalist Anis Alamgir released from jail on bail]]></title>
+            <description><![CDATA[[Media] Journalist Anis Alamgir released from jail on bail]]></description>
+            <link>https://bdnews24.com/media-en/4b6dbd3fee89</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/4b6dbd3fee89</guid>
+            <pubDate>Sat, 14 Mar 2026 15:37:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/anis-alomgir-140326-02-1773480707.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How China is wooing Paraguay’s political class away from Taiwan]]></title>
+            <description><![CDATA[[THE LONG READ] How China is wooing Paraguay’s political class away from Taiwan]]></description>
+            <link>https://bdnews24.com/the-long-read/8313b9e24226</link>
+            <guid isPermaLink="true">https://bdnews24.com/the-long-read/8313b9e24226</guid>
+            <pubDate>Sat, 14 Mar 2026 15:26:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/paraguay-monument-14326-1773480361.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Srikail Well No. 5 begins feeding gas into national grid]]></title>
             <description><![CDATA[[Bangladesh] Srikail Well No. 5 begins feeding gas into national grid]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/bafe41bd40ef</guid>
             <pubDate>Sat, 14 Mar 2026 09:35:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/khrag-island-14326-1773459216.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arteta shrugs off siege mentality talk amid quadruple hopes]]></title>
-            <description><![CDATA[[Sport] Arteta shrugs off siege mentality talk amid quadruple hopes]]></description>
-            <link>https://bdnews24.com/sport/cfddbb216dce</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/cfddbb216dce</guid>
-            <pubDate>Sat, 14 Mar 2026 02:45:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025December/SM/arteta-051225-01-1764874361.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fuel crisis casts shadow over Eid travel]]></title>
-            <description><![CDATA[[Bangladesh] Fuel crisis casts shadow over Eid travel]]></description>
-            <link>https://bdnews24.com/bangladesh/42fd44a1bfa5</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/42fd44a1bfa5</guid>
-            <pubDate>Sat, 14 Mar 2026 01:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/fuel-crisis-filling-stations-080326-051-1772973758.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Impeach president, arrest him: Nahid]]></title>
-            <description><![CDATA[[Politics] Impeach president, arrest him: Nahid]]></description>
-            <link>https://bdnews24.com/politics/5a9f66a367d9</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/5a9f66a367d9</guid>
-            <pubDate>Sat, 14 Mar 2026 00:58:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mymensingh-ncp-nahid-130326-01-1773425152.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
