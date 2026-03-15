@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Mar 2026 08:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 09:22:27 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Mar 2026 08:23:34 GMT</pubDate>
+        <pubDate>Sun, 15 Mar 2026 09:22:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Storm threat looms over Dhaka]]></title>
+            <description><![CDATA[[Bangladesh] Storm threat looms over Dhaka]]></description>
+            <link>https://bdnews24.com/bangladesh/b4916e9e0aa0</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b4916e9e0aa0</guid>
+            <pubDate>Sun, 15 Mar 2026 15:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-03/cd25639b-ce29-4021-a350-f60300faab13/rain_dhaka_university_210323_23.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jamaat MP alleges ‘looting’ over parliament headphones]]></title>
+            <description><![CDATA[[Bangladesh] Jamaat MP alleges ‘looting’ over parliament headphones]]></description>
+            <link>https://bdnews24.com/bangladesh/9d5019cce35d</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9d5019cce35d</guid>
+            <pubDate>Sun, 15 Mar 2026 14:41:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/parliament-150326-1773562564.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Tigers bat first in Pakistan series decider]]></title>
             <description><![CDATA[[Sport] Tigers bat first in Pakistan series decider]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/14676e3879f0</guid>
             <pubDate>Sun, 15 Mar 2026 02:49:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jamat-jote-protest-120326-1773311198.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India bars LPG access for houses with piped gas connections]]></title>
-            <description><![CDATA[[Neighbours] India bars LPG access for houses with piped gas connections]]></description>
-            <link>https://bdnews24.com/neighbours/d16640e6cedb</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/d16640e6cedb</guid>
-            <pubDate>Sun, 15 Mar 2026 02:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/india-bars-lpg-for-png-15032026-01-1773520528.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lorient stun Lens with 2-1 win]]></title>
-            <description><![CDATA[[Sport] Lorient stun Lens with 2-1 win]]></description>
-            <link>https://bdnews24.com/sport/07cba0bea6d0</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/07cba0bea6d0</guid>
-            <pubDate>Sun, 15 Mar 2026 02:13:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/lorient-lens-ligue1-15032026-01-1773519138.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
