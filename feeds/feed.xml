@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Mar 2026 01:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 04:21:46 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Mar 2026 01:10:18 GMT</pubDate>
+        <pubDate>Sun, 15 Mar 2026 04:21:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Israel, Lebanon to talk as war with Hezbollah rages: report]]></title>
+            <description><![CDATA[[Middle East] Israel, Lebanon to talk as war with Hezbollah rages: report]]></description>
+            <link>https://bdnews24.com/world/middle-east/79f45bc0e10c</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/79f45bc0e10c</guid>
+            <pubDate>Sun, 15 Mar 2026 10:13:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/central-beirut-150326-01-1773547827.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump threatens more strikes on Iran's Kharg Island]]></title>
+            <description><![CDATA[[Middle East] Trump threatens more strikes on Iran's Kharg Island]]></description>
+            <link>https://bdnews24.com/world/middle-east/2219750de547</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/2219750de547</guid>
+            <pubDate>Sun, 15 Mar 2026 10:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/lpg-tanker-150326-01-1773547296.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Dutch greats join Suriname WC push]]></title>
             <description><![CDATA[[Sport] Dutch greats join Suriname WC push]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/6ac6f92872a2</guid>
             <pubDate>Sat, 14 Mar 2026 23:35:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/khrag-island-14326-1773459216-1773501493.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man surrenders after killing wife]]></title>
-            <description><![CDATA[[Bangladesh] Man surrenders after killing wife]]></description>
-            <link>https://bdnews24.com/bangladesh/3e8111c655d5</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3e8111c655d5</guid>
-            <pubDate>Sat, 14 Mar 2026 22:20:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/chittagong-map-1000-1773505244.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[We don’t want to see media fail anymore: Shafiqur]]></title>
-            <description><![CDATA[[Bangladesh] We don’t want to see media fail anymore: Shafiqur]]></description>
-            <link>https://bdnews24.com/bangladesh/c51002c38527</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c51002c38527</guid>
-            <pubDate>Sat, 14 Mar 2026 22:12:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jamaat-amir-shafikur-140326-01-1773502108.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
