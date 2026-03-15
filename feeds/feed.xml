@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Mar 2026 15:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 16:18:06 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Mar 2026 15:17:57 GMT</pubDate>
+        <pubDate>Sun, 15 Mar 2026 16:18:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Police detain husband after JU student’s death]]></title>
+            <description><![CDATA[[Bangladesh] Police detain husband after JU student’s death]]></description>
+            <link>https://bdnews24.com/bangladesh/61eeeaf7781c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/61eeeaf7781c</guid>
+            <pubDate>Sun, 15 Mar 2026 22:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/ju-student-sarmin-dead-150326-01-1773587662.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[President’s speech sparks July Charter debate]]></title>
+            <description><![CDATA[[Bangladesh] President’s speech sparks July Charter debate]]></description>
+            <link>https://bdnews24.com/bangladesh/9d7b4406389f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9d7b4406389f</guid>
+            <pubDate>Sun, 15 Mar 2026 22:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/parliament-session-150326-03-1773585916.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man City drop points in WSL title chase]]></title>
+            <description><![CDATA[[Sport] Man City drop points in WSL title chase]]></description>
+            <link>https://bdnews24.com/sport/69eeef94951f</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/69eeef94951f</guid>
+            <pubDate>Sun, 15 Mar 2026 21:56:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025March/SM/chlesea-wsl-20250331-1743370413.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Credit card loan limit raised to Tk 4mn]]></title>
+            <description><![CDATA[[Business] Credit card loan limit raised to Tk 4mn]]></description>
+            <link>https://bdnews24.com/business/f49856e7aa09</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/f49856e7aa09</guid>
+            <pubDate>Sun, 15 Mar 2026 21:53:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/credit-card-040420-1773587373.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[2 nurses dismissed as patients die in Barishal]]></title>
+            <description><![CDATA[[Bangladesh] 2 nurses dismissed as patients die in Barishal]]></description>
+            <link>https://bdnews24.com/bangladesh/b007f5c2012e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b007f5c2012e</guid>
+            <pubDate>Sun, 15 Mar 2026 21:41:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-06/0afc99fe-6c64-4709-8361-102e524b06c9/sher_e_bangla_medical_college_220623.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Costly Eidi: Tk 1,000 bundle sells for Tk 1,400 on Dhaka footpaths]]></title>
+            <description><![CDATA[[Business] Costly Eidi: Tk 1,000 bundle sells for Tk 1,400 on Dhaka footpaths]]></description>
+            <link>https://bdnews24.com/business/f9f8d53442d0</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/f9f8d53442d0</guid>
+            <pubDate>Sun, 15 Mar 2026 21:30:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024October/SM/1000-taka-note-091024-01-1728447985.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka's moving wrecks]]></title>
+            <description><![CDATA[[Image] Dhaka's moving wrecks]]></description>
+            <link>https://bdnews24.com/media-en/image/2fbe45fd5dc8</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/2fbe45fd5dc8</guid>
+            <pubDate>Sun, 15 Mar 2026 21:20:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/fitness-expired-bus-050326-008-1773575293.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Mustafapur warehouse full of watermelons]]></title>
             <description><![CDATA[[Image] Mustafapur warehouse full of watermelons]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/2334e2abacd8</guid>
             <pubDate>Sun, 15 Mar 2026 18:49:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024September/SM/tofajjol-hossain-190824-02-1726726347-001-1726752836.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt appoints administrators to 42 district councils]]></title>
-            <description><![CDATA[[Bangladesh] Govt appoints administrators to 42 district councils]]></description>
-            <link>https://bdnews24.com/bangladesh/a18a238ba066</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a18a238ba066</guid>
-            <pubDate>Sun, 15 Mar 2026 18:40:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2022-09/e1e4e4fd-1fda-46bb-b54c-441f543cabb1/zilla_parishad_building_160922_01.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran arrests dozens accused of spying for Israel]]></title>
-            <description><![CDATA[[World] Iran arrests dozens accused of spying for Israel]]></description>
-            <link>https://bdnews24.com/world/41a4e0326b1b</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/41a4e0326b1b</guid>
-            <pubDate>Sun, 15 Mar 2026 18:25:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/heaviest-strikes-iran-10032026-01-1773157209.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine seeks cash, tech for Middle East drone aid: Zelensky]]></title>
-            <description><![CDATA[[World] Ukraine seeks cash, tech for Middle East drone aid: Zelensky]]></description>
-            <link>https://bdnews24.com/world/21d884e21093</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/21d884e21093</guid>
-            <pubDate>Sun, 15 Mar 2026 17:58:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/volodymyr-zelensky-150326-01-1773571624.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Araghchi warns against widening war]]></title>
-            <description><![CDATA[[World] Araghchi warns against widening war]]></description>
-            <link>https://bdnews24.com/world/0fd1a149c0b2</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/0fd1a149c0b2</guid>
-            <pubDate>Sun, 15 Mar 2026 17:57:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/araghchi-150326-01-1773575820.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tanzid ton powers Bangladesh to 290]]></title>
-            <description><![CDATA[[Cricket] Tanzid ton powers Bangladesh to 290]]></description>
-            <link>https://bdnews24.com/cricket/d6f1606dba25</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/d6f1606dba25</guid>
-            <pubDate>Sun, 15 Mar 2026 17:35:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tanzid-hasan-150326-02-1773572502.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PM gives Eid gift to cleaners of 12 city corporations]]></title>
-            <description><![CDATA[[Bangladesh] PM gives Eid gift to cleaners of 12 city corporations]]></description>
-            <link>https://bdnews24.com/bangladesh/7407f0065c17</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7407f0065c17</guid>
-            <pubDate>Sun, 15 Mar 2026 17:06:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/pm-eid-gift-150326-01-1773572267.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine wants money, technology against Mideast drone help: Zelensky]]></title>
-            <description><![CDATA[[World] Ukraine wants money, technology against Mideast drone help: Zelensky]]></description>
-            <link>https://bdnews24.com/world/ed36cd27356c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ed36cd27356c</guid>
-            <pubDate>Sun, 15 Mar 2026 16:47:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/volodymyr-zelensky-150326-01-1773571624.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
