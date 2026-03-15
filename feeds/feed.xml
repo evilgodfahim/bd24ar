@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Mar 2026 17:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 18:21:56 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Mar 2026 17:17:44 GMT</pubDate>
+        <pubDate>Sun, 15 Mar 2026 18:21:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[WaterAid reviews urban WASH project for poor]]></title>
+            <description><![CDATA[[Bangladesh] WaterAid reviews urban WASH project for poor]]></description>
+            <link>https://bdnews24.com/bangladesh/8417e1f175fd</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8417e1f175fd</guid>
+            <pubDate>Sun, 15 Mar 2026 23:58:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/wateraid-150326-1773597462.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Emergency oil reserves to hit markets soon: IEA]]></title>
+            <description><![CDATA[[World] Emergency oil reserves to hit markets soon: IEA]]></description>
+            <link>https://bdnews24.com/world/e7aac2c6e134</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e7aac2c6e134</guid>
+            <pubDate>Sun, 15 Mar 2026 23:49:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025October/SM/oil-pumpjack-russia-131025-01-1760331762.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[TikToker hacked, shot dead at Central Shaheed Minar]]></title>
+            <description><![CDATA[[Bangladesh] TikToker hacked, shot dead at Central Shaheed Minar]]></description>
+            <link>https://bdnews24.com/bangladesh/a9adb8e7019b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a9adb8e7019b</guid>
+            <pubDate>Sun, 15 Mar 2026 23:34:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025October/SM/sahbagh-police-station-1760093264.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[3 DESCO hired workers electrocuted]]></title>
             <description><![CDATA[[Bangladesh] 3 DESCO hired workers electrocuted]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/1d55108712b4</guid>
             <pubDate>Sun, 15 Mar 2026 20:51:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/shama-obaed-alexander-khozin-150326-01-1773582823.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wholesale, retail price gap under scanner]]></title>
-            <description><![CDATA[[Bangladesh] Wholesale, retail price gap under scanner]]></description>
-            <link>https://bdnews24.com/bangladesh/c64f0e5270f9</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c64f0e5270f9</guid>
-            <pubDate>Sun, 15 Mar 2026 20:43:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/ctg-commerce-minister-visit-150326-03-1773578913.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bayern running out of goalies]]></title>
-            <description><![CDATA[[Sport] Bayern running out of goalies]]></description>
-            <link>https://bdnews24.com/sport/b53d5d4f237b</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/b53d5d4f237b</guid>
-            <pubDate>Sun, 15 Mar 2026 20:31:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026January/SM/diaz-130126-01-1768309682.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pope urges ceasefire in Iran war]]></title>
-            <description><![CDATA[[World] Pope urges ceasefire in Iran war]]></description>
-            <link>https://bdnews24.com/world/91f7bf4d46e5</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/91f7bf4d46e5</guid>
-            <pubDate>Sun, 15 Mar 2026 20:05:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/pope-leo-25022026-1772026346.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
