@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Mar 2026 19:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 20:15:08 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Mar 2026 19:20:19 GMT</pubDate>
+        <pubDate>Sun, 15 Mar 2026 20:15:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Tarique revives father’s legacy with 20,000km canal project]]></title>
+            <description><![CDATA[[Bangladesh] Tarique revives father’s legacy with 20,000km canal project]]></description>
+            <link>https://bdnews24.com/bangladesh/cc15df1efe96</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cc15df1efe96</guid>
+            <pubDate>Mon, 16 Mar 2026 02:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/joynagar-canal-150326-01-1773603979.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Forest draw with Fulham despite disallowed goal]]></title>
+            <description><![CDATA[[Sport] Forest draw with Fulham despite disallowed goal]]></description>
+            <link>https://bdnews24.com/sport/2f3c1e66e2be</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/2f3c1e66e2be</guid>
+            <pubDate>Mon, 16 Mar 2026 01:20:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/liverpool-22022026-1771783879.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Raphinha hat-trick keeps Barca top]]></title>
             <description><![CDATA[[Sport] Raphinha hat-trick keeps Barca top]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/b007f5c2012e</guid>
             <pubDate>Sun, 15 Mar 2026 21:41:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-06/0afc99fe-6c64-4709-8361-102e524b06c9/sher_e_bangla_medical_college_220623.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Costly Eidi: Tk 1,000 bundle sells for Tk 1,400 on Dhaka footpaths]]></title>
-            <description><![CDATA[[Business] Costly Eidi: Tk 1,000 bundle sells for Tk 1,400 on Dhaka footpaths]]></description>
-            <link>https://bdnews24.com/business/f9f8d53442d0</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/f9f8d53442d0</guid>
-            <pubDate>Sun, 15 Mar 2026 21:30:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024October/SM/1000-taka-note-091024-01-1728447985.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka's moving wrecks]]></title>
-            <description><![CDATA[[Image] Dhaka's moving wrecks]]></description>
-            <link>https://bdnews24.com/media-en/image/2fbe45fd5dc8</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/2fbe45fd5dc8</guid>
-            <pubDate>Sun, 15 Mar 2026 21:20:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/fitness-expired-bus-050326-008-1773575293.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
