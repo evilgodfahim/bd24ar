@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Mar 2026 20:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 21:17:34 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Mar 2026 20:15:08 GMT</pubDate>
+        <pubDate>Sun, 15 Mar 2026 21:17:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Fire erupts at Benarasi Palli]]></title>
+            <description><![CDATA[[Bangladesh] Fire erupts at Benarasi Palli]]></description>
+            <link>https://bdnews24.com/bangladesh/c23c086fbe87</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c23c086fbe87</guid>
+            <pubDate>Mon, 16 Mar 2026 02:48:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/benarasi-palli-fire-160326-01-1773607205.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Richarlison earns struggling Spurs a point at Liverpool]]></title>
+            <description><![CDATA[[Sport] Richarlison earns struggling Spurs a point at Liverpool]]></description>
+            <link>https://bdnews24.com/sport/9ef86e93be21</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/9ef86e93be21</guid>
+            <pubDate>Mon, 16 Mar 2026 02:39:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/richarlison-160326-01-1773599382.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Tarique revives father’s legacy with 20,000km canal project]]></title>
             <description><![CDATA[[Bangladesh] Tarique revives father’s legacy with 20,000km canal project]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/69eeef94951f</guid>
             <pubDate>Sun, 15 Mar 2026 21:56:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025March/SM/chlesea-wsl-20250331-1743370413.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Credit card loan limit raised to Tk 4mn]]></title>
-            <description><![CDATA[[Business] Credit card loan limit raised to Tk 4mn]]></description>
-            <link>https://bdnews24.com/business/f49856e7aa09</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/f49856e7aa09</guid>
-            <pubDate>Sun, 15 Mar 2026 21:53:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/credit-card-040420-1773587373.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2 nurses dismissed as patients die in Barishal]]></title>
-            <description><![CDATA[[Bangladesh] 2 nurses dismissed as patients die in Barishal]]></description>
-            <link>https://bdnews24.com/bangladesh/b007f5c2012e</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b007f5c2012e</guid>
-            <pubDate>Sun, 15 Mar 2026 21:41:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-06/0afc99fe-6c64-4709-8361-102e524b06c9/sher_e_bangla_medical_college_220623.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
