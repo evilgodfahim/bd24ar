@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Mar 2026 09:22:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 10:17:15 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Mar 2026 09:22:27 GMT</pubDate>
+        <pubDate>Sun, 15 Mar 2026 10:17:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Constitution Reform Council impasse questioned in parliament]]></title>
+            <description><![CDATA[[Bangladesh] Constitution Reform Council impasse questioned in parliament]]></description>
+            <link>https://bdnews24.com/bangladesh/07cf3d35d2bb</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/07cf3d35d2bb</guid>
+            <pubDate>Sun, 15 Mar 2026 16:09:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/july-sanad-150326-01-1773565139.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-councillor remanded over Khaleda convoy attack]]></title>
+            <description><![CDATA[[Bangladesh] Ex-councillor remanded over Khaleda convoy attack]]></description>
+            <link>https://bdnews24.com/bangladesh/269d828fc6e3</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/269d828fc6e3</guid>
+            <pubDate>Sun, 15 Mar 2026 15:51:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/abul-kalam-azad-mintu-150326-1773565605.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Social security benefits to come under one umbrella: state minister]]></title>
+            <description><![CDATA[[Bangladesh] Social security benefits to come under one umbrella: state minister]]></description>
+            <link>https://bdnews24.com/bangladesh/5f07a6a74f1f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5f07a6a74f1f</guid>
+            <pubDate>Sun, 15 Mar 2026 15:28:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/farzana-sharmin-150326-1773560003.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Storm threat looms over Dhaka]]></title>
             <description><![CDATA[[Bangladesh] Storm threat looms over Dhaka]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/c0e36bda2baf</guid>
             <pubDate>Sun, 15 Mar 2026 03:30:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/world-cup-150326-01-1773523761.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Newcastle edge Chelsea with 1-0 win]]></title>
-            <description><![CDATA[[Sport] Newcastle edge Chelsea with 1-0 win]]></description>
-            <link>https://bdnews24.com/sport/8c59d4fb4a1f</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/8c59d4fb4a1f</guid>
-            <pubDate>Sun, 15 Mar 2026 03:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/newcastle-chelsea-150326-01-1773523671.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dowman seals historic Arsenal win over Everton]]></title>
-            <description><![CDATA[[Sport] Dowman seals historic Arsenal win over Everton]]></description>
-            <link>https://bdnews24.com/sport/4ea22af48c0f</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/4ea22af48c0f</guid>
-            <pubDate>Sun, 15 Mar 2026 03:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/dowman-win-arsenal-15032026-01-1773523550.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why parliament rules matter for MPs?]]></title>
-            <description><![CDATA[[Bangladesh] Why parliament rules matter for MPs?]]></description>
-            <link>https://bdnews24.com/bangladesh/14676e3879f0</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/14676e3879f0</guid>
-            <pubDate>Sun, 15 Mar 2026 02:49:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jamat-jote-protest-120326-1773311198.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
