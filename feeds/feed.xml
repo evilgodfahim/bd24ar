@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Mar 2026 05:59:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 06:54:04 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Mar 2026 05:59:01 GMT</pubDate>
+        <pubDate>Sun, 15 Mar 2026 06:54:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Mirza Abbas leaves for Singapore on air ambulance]]></title>
+            <description><![CDATA[[Politics] Mirza Abbas leaves for Singapore on air ambulance]]></description>
+            <link>https://bdnews24.com/politics/ade3be3a0fc4</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/ade3be3a0fc4</guid>
+            <pubDate>Sun, 15 Mar 2026 12:17:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/mirza-abbas-fly-150626-01-1773554488.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Govt lifts fuel sale caps]]></title>
+            <description><![CDATA[[Bangladesh] Govt lifts fuel sale caps]]></description>
+            <link>https://bdnews24.com/bangladesh/4dbb573cba00</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4dbb573cba00</guid>
+            <pubDate>Sun, 15 Mar 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/petrol-pump-oil-crisis-060326-018-1772804788.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Parliament holds last sitting before Eid break]]></title>
             <description><![CDATA[[Bangladesh] Parliament holds last sitting before Eid break]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/dd895359ec97</guid>
             <pubDate>Sun, 15 Mar 2026 01:06:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/15-killed-isfahan-15032026-01-1773515128.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eid travel: Launches to sail from Bosila, Kanchan Bridge]]></title>
-            <description><![CDATA[[Bangladesh] Eid travel: Launches to sail from Bosila, Kanchan Bridge]]></description>
-            <link>https://bdnews24.com/bangladesh/6d12b7307751</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6d12b7307751</guid>
-            <pubDate>Sun, 15 Mar 2026 00:43:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/launch-basila-ghat-140326-1773507865.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mirza Abbas to get advanced treatment in Singapore]]></title>
-            <description><![CDATA[[Politics] Mirza Abbas to get advanced treatment in Singapore]]></description>
-            <link>https://bdnews24.com/politics/e4774d7016fe</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/e4774d7016fe</guid>
-            <pubDate>Sun, 15 Mar 2026 00:39:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mirza-abbas-140326-02-1773512606.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
