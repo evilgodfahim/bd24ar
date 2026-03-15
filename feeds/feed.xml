@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Mar 2026 07:37:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 08:23:34 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Mar 2026 07:37:15 GMT</pubDate>
+        <pubDate>Sun, 15 Mar 2026 08:23:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Tigers bat first in Pakistan series decider]]></title>
+            <description><![CDATA[[Sport] Tigers bat first in Pakistan series decider]]></description>
+            <link>https://bdnews24.com/sport/18ad8e9a3a89</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/18ad8e9a3a89</guid>
+            <pubDate>Sun, 15 Mar 2026 14:18:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/toss-150326-01-1773560047.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[133 interim govt ordinances sent for review]]></title>
+            <description><![CDATA[[Bangladesh] 133 interim govt ordinances sent for review]]></description>
+            <link>https://bdnews24.com/bangladesh/e9e635f0b5d1</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e9e635f0b5d1</guid>
+            <pubDate>Sun, 15 Mar 2026 13:44:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/thirteenth-parliament-120326-01-1773308102.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Daffodil Press unveils 7 new books at Ekushey Book Fair]]></title>
             <description><![CDATA[[Campus] Daffodil Press unveils 7 new books at Ekushey Book Fair]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/07cba0bea6d0</guid>
             <pubDate>Sun, 15 Mar 2026 02:13:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/lorient-lens-ligue1-15032026-01-1773519138.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bayern fight back to draw 1-1 at Leverkusen]]></title>
-            <description><![CDATA[[Sport] Bayern fight back to draw 1-1 at Leverkusen]]></description>
-            <link>https://bdnews24.com/sport/1f46a9e51e96</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/1f46a9e51e96</guid>
-            <pubDate>Sun, 15 Mar 2026 02:05:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/bayern-draw-leverkusen-15032026-01-1773518637.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Many’ will send warships to keep Strait of Hormuz open: Trump]]></title>
-            <description><![CDATA[[World] ‘Many’ will send warships to keep Strait of Hormuz open: Trump]]></description>
-            <link>https://bdnews24.com/world/82c447e1ee82</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/82c447e1ee82</guid>
-            <pubDate>Sun, 15 Mar 2026 01:19:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/warship-hormuz-trump-15032026-01-1773515930.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
