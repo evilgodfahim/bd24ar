@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Mar 2026 10:42:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 11:37:58 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Mar 2026 10:42:31 GMT</pubDate>
+        <pubDate>Mon, 16 Mar 2026 11:37:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[DU, JnU, BOU get new VCs]]></title>
+            <description><![CDATA[[Bangladesh] DU, JnU, BOU get new VCs]]></description>
+            <link>https://bdnews24.com/bangladesh/605b3ad20aed</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/605b3ad20aed</guid>
+            <pubDate>Mon, 16 Mar 2026 17:24:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/obaidul-mamun-160326-02-1773659318.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Govt scraps lottery system for school admissions]]></title>
+            <description><![CDATA[[Bangladesh] Govt scraps lottery system for school admissions]]></description>
+            <link>https://bdnews24.com/bangladesh/92c2dfde4bc5</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/92c2dfde4bc5</guid>
+            <pubDate>Mon, 16 Mar 2026 17:20:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025December/SM/school-addmission-lottery-result-11125-01-1765444460.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA['I haven’t heard anyone say they couldn’t vote’: CEC]]></title>
+            <description><![CDATA[[Bangladesh] 'I haven’t heard anyone say they couldn’t vote’: CEC]]></description>
+            <link>https://bdnews24.com/bangladesh/fdd979906475</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/fdd979906475</guid>
+            <pubDate>Mon, 16 Mar 2026 16:51:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/women-day-cec-vote-160326-02-1773659520.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Ex-Chhatra Dal leader shot dead in Khulna]]></title>
             <description><![CDATA[[Bangladesh] Ex-Chhatra Dal leader shot dead in Khulna]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/7deb903ac115</guid>
             <pubDate>Mon, 16 Mar 2026 12:24:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/power-plant-chimney-160326-01-1773642110.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[AIUB team shines at ICPC Asia West Continent Finals]]></title>
-            <description><![CDATA[[Campus] AIUB team shines at ICPC Asia West Continent Finals]]></description>
-            <link>https://bdnews24.com/campus/7dee246c62bf</link>
-            <guid isPermaLink="true">https://bdnews24.com/campus/7dee246c62bf</guid>
-            <pubDate>Mon, 16 Mar 2026 12:11:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/aiub-icpc-finals-16032026-01-1773641422.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Myanmar parliament convenes]]></title>
-            <description><![CDATA[[South Asia] Myanmar parliament convenes]]></description>
-            <link>https://bdnews24.com/world/south-asia/fe9d6d394e4f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/south-asia/fe9d6d394e4f</guid>
-            <pubDate>Mon, 16 Mar 2026 12:11:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/khin-yi-160326-01-1773641394.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Benapole port to shut for 7 days over Eid]]></title>
-            <description><![CDATA[[Bangladesh] Benapole port to shut for 7 days over Eid]]></description>
-            <link>https://bdnews24.com/bangladesh/a50bd51165cc</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a50bd51165cc</guid>
-            <pubDate>Mon, 16 Mar 2026 11:55:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/benapole-land-port-160326-01-1773635881.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
