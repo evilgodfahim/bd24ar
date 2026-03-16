@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Mar 2026 12:40:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 14:12:34 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Mar 2026 12:40:54 GMT</pubDate>
+        <pubDate>Mon, 16 Mar 2026 14:12:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US ‘fine’ with some ships passing Hormuz]]></title>
+            <description><![CDATA[[World] US ‘fine’ with some ships passing Hormuz]]></description>
+            <link>https://bdnews24.com/world/5e4834646f01</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/5e4834646f01</guid>
+            <pubDate>Mon, 16 Mar 2026 19:55:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/lpg-tanker-150326-01-1773547296.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[British teens resist social media ban]]></title>
+            <description><![CDATA[[World] British teens resist social media ban]]></description>
+            <link>https://bdnews24.com/world/f4e17dcb1afa</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/f4e17dcb1afa</guid>
+            <pubDate>Mon, 16 Mar 2026 19:39:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/british-teens-resist-social-media-ban-16032026-01-1773668321.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trio held for ‘posing as Sirajganj SP’ online]]></title>
+            <description><![CDATA[[Bangladesh] Trio held for ‘posing as Sirajganj SP’ online]]></description>
+            <link>https://bdnews24.com/bangladesh/f487fcb0c383</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f487fcb0c383</guid>
+            <pubDate>Mon, 16 Mar 2026 19:37:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/sirajgonj-police-160326-01-1773662496.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hamas meets Trump board as Iran war strains Gaza plan]]></title>
+            <description><![CDATA[[World] Hamas meets Trump board as Iran war strains Gaza plan]]></description>
+            <link>https://bdnews24.com/world/0ccebc7ed8fd</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/0ccebc7ed8fd</guid>
+            <pubDate>Mon, 16 Mar 2026 19:26:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/hamas-19226-1771487942.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rasheda K Choudhury urges ‘reality check’ before scrapping school lottery]]></title>
+            <description><![CDATA[[Education] Rasheda K Choudhury urges ‘reality check’ before scrapping school lottery]]></description>
+            <link>https://bdnews24.com/education/c859a1142586</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/c859a1142586</guid>
+            <pubDate>Mon, 16 Mar 2026 19:21:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rasheda-chowdhury-gonoswakkkarata-160326-01-1773663659.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Legal aid sought for uprising victims]]></title>
+            <description><![CDATA[[Bangladesh] Legal aid sought for uprising victims]]></description>
+            <link>https://bdnews24.com/bangladesh/0b0ded492d99</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0b0ded492d99</guid>
+            <pubDate>Mon, 16 Mar 2026 19:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024August/SM/ganabhaban-people-050824-07-1722869908.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[EU debates curbing energy costs after Iran war]]></title>
+            <description><![CDATA[[World] EU debates curbing energy costs after Iran war]]></description>
+            <link>https://bdnews24.com/world/8d756adb628d</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/8d756adb628d</guid>
+            <pubDate>Mon, 16 Mar 2026 19:02:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/power-plant-chimney-160326-01-1773642110.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Trump faces hurdles reopening Hormuz]]></title>
             <description><![CDATA[[World] Trump faces hurdles reopening Hormuz]]></description>
@@ -25,12 +81,12 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/gulf-tankers-120326-01-1773289214.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[DU, JnU, BOU get new VCs]]></title>
-            <description><![CDATA[[Bangladesh] DU, JnU, BOU get new VCs]]></description>
+            <title><![CDATA[7 universities get new VCs]]></title>
+            <description><![CDATA[[Bangladesh] 7 universities get new VCs]]></description>
             <link>https://bdnews24.com/bangladesh/605b3ad20aed</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/605b3ad20aed</guid>
             <pubDate>Mon, 16 Mar 2026 17:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/obaidul-mamun-160326-02-1773659318.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/ehsanul-haque-milon-160326-01-1773667365.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Govt scraps lottery system for school admissions]]></title>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/1aefa62c0bae</guid>
             <pubDate>Mon, 16 Mar 2026 13:53:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/abdus-salam-160326-01-1773646005.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Some flights resume at Dubai airport after drone strike]]></title>
-            <description><![CDATA[[Aviation] Some flights resume at Dubai airport after drone strike]]></description>
-            <link>https://bdnews24.com/aviation/9dc7bf8fc4f6</link>
-            <guid isPermaLink="true">https://bdnews24.com/aviation/9dc7bf8fc4f6</guid>
-            <pubDate>Mon, 16 Mar 2026 13:50:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/dubai-airport-160326-01-1773644039.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ethiopia landslides kill 125: regional govt]]></title>
-            <description><![CDATA[[World] Ethiopia landslides kill 125: regional govt]]></description>
-            <link>https://bdnews24.com/world/e03aef45d869</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/e03aef45d869</guid>
-            <pubDate>Mon, 16 Mar 2026 13:16:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026January/SM/indonesia-landslide-toll-260126-01-1769400525.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tarique follows in father’s footsteps]]></title>
-            <description><![CDATA[[Bangladesh] Tarique follows in father’s footsteps]]></description>
-            <link>https://bdnews24.com/bangladesh/7738670a19b2</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7738670a19b2</guid>
-            <pubDate>Mon, 16 Mar 2026 12:59:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/canal-excavation-160326-05-1773643889.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[With spade in hand, Tarique launches excavation programme]]></title>
-            <description><![CDATA[[Bangladesh] With spade in hand, Tarique launches excavation programme]]></description>
-            <link>https://bdnews24.com/bangladesh/14bb51134c4c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/14bb51134c4c</guid>
-            <pubDate>Mon, 16 Mar 2026 12:59:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/canal-excavation-160326-01-1773637610.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Income tax return deadline can now be extended online]]></title>
-            <description><![CDATA[[Bangladesh] Income tax return deadline can now be extended online]]></description>
-            <link>https://bdnews24.com/bangladesh/442504cbb7f1</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/442504cbb7f1</guid>
-            <pubDate>Mon, 16 Mar 2026 12:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024October/SM/e-return-031024-01-1727980737.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel kills 16 people in West Bank, Gaza: medics]]></title>
-            <description><![CDATA[[Middle East] Israel kills 16 people in West Bank, Gaza: medics]]></description>
-            <link>https://bdnews24.com/world/middle-east/a3d8c172f11a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/a3d8c172f11a</guid>
-            <pubDate>Mon, 16 Mar 2026 12:42:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/israel-strikes-gaza-west-bank-160326-01-1773643337.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[War in Middle East disrupts pharmaceutical air routes]]></title>
-            <description><![CDATA[[THE LONG READ] War in Middle East disrupts pharmaceutical air routes]]></description>
-            <link>https://bdnews24.com/the-long-read/0cd3bd0ca92c</link>
-            <guid isPermaLink="true">https://bdnews24.com/the-long-read/0cd3bd0ca92c</guid>
-            <pubDate>Mon, 16 Mar 2026 12:37:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/emirates-airplane-16326-1-1773642955.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
