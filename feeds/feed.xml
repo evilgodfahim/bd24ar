@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Mar 2026 18:44:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 19:45:20 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Mar 2026 18:44:10 GMT</pubDate>
+        <pubDate>Mon, 16 Mar 2026 19:45:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[330 police sergeants, SIs reinstated]]></title>
+            <description><![CDATA[[Bangladesh] 330 police sergeants, SIs reinstated]]></description>
+            <link>https://bdnews24.com/bangladesh/2f7bb21d30bc</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2f7bb21d30bc</guid>
+            <pubDate>Tue, 17 Mar 2026 01:40:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/bangladesh-police-260226-1772102536.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Not sure Iran’s new leader is alive: Trump]]></title>
             <description><![CDATA[[World] Not sure Iran’s new leader is alive: Trump]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/media-en/image/a26afffcb309</guid>
             <pubDate>Mon, 16 Mar 2026 22:16:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rail-line-construction-160326-006-1773586072.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[France hopeful new govt will consider Airbus]]></title>
-            <description><![CDATA[[Bangladesh] France hopeful new govt will consider Airbus]]></description>
-            <link>https://bdnews24.com/bangladesh/91293224a3a4</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/91293224a3a4</guid>
-            <pubDate>Mon, 16 Mar 2026 22:13:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/french-envoy-160326-01-1773675225.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
