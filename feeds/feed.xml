@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Mar 2026 11:37:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 12:40:54 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Mar 2026 11:37:58 GMT</pubDate>
+        <pubDate>Mon, 16 Mar 2026 12:40:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump faces hurdles reopening Hormuz]]></title>
+            <description><![CDATA[[World] Trump faces hurdles reopening Hormuz]]></description>
+            <link>https://bdnews24.com/world/923d64505e3e</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/923d64505e3e</guid>
+            <pubDate>Mon, 16 Mar 2026 18:27:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Greece rules out Hormuz military role]]></title>
+            <description><![CDATA[[World] Greece rules out Hormuz military role]]></description>
+            <link>https://bdnews24.com/world/00500bd9a470</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/00500bd9a470</guid>
+            <pubDate>Mon, 16 Mar 2026 17:49:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/gulf-tankers-120326-01-1773289214.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[DU, JnU, BOU get new VCs]]></title>
             <description><![CDATA[[Bangladesh] DU, JnU, BOU get new VCs]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/the-long-read/0cd3bd0ca92c</guid>
             <pubDate>Mon, 16 Mar 2026 12:37:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/emirates-airplane-16326-1-1773642955.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Minister upbeat on Eid travel after Mohakhali terminal visit]]></title>
-            <description><![CDATA[[Bangladesh] Minister upbeat on Eid travel after Mohakhali terminal visit]]></description>
-            <link>https://bdnews24.com/bangladesh/da538a3d7eea</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/da538a3d7eea</guid>
-            <pubDate>Mon, 16 Mar 2026 12:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/sheikh-rabiul-alom-160326-01-1773642374.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran war an 'abject lesson' on fossil fuel dependence: UNFCCC chief]]></title>
-            <description><![CDATA[[World] Iran war an 'abject lesson' on fossil fuel dependence: UNFCCC chief]]></description>
-            <link>https://bdnews24.com/world/7deb903ac115</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/7deb903ac115</guid>
-            <pubDate>Mon, 16 Mar 2026 12:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/power-plant-chimney-160326-01-1773642110.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
