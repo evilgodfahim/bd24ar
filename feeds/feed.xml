@@ -4,17 +4,81 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Mar 2026 16:52:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Mar 2026 17:54:52 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Mar 2026 16:52:56 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 17:54:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Sulphur-choked alien planet displays unique hellscape]]></title>
+            <description><![CDATA[[Science] Sulphur-choked alien planet displays unique hellscape]]></description>
+            <link>https://bdnews24.com/science/53f9ee1be2b2</link>
+            <guid isPermaLink="true">https://bdnews24.com/science/53f9ee1be2b2</guid>
+            <pubDate>Tue, 17 Mar 2026 23:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/molten-planet-17032026-01-1773769543.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[July Charter must guide caretaker government reforms: Badiul]]></title>
+            <description><![CDATA[[Bangladesh] July Charter must guide caretaker government reforms: Badiul]]></description>
+            <link>https://bdnews24.com/bangladesh/1e9c89edb3a7</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1e9c89edb3a7</guid>
+            <pubDate>Tue, 17 Mar 2026 23:39:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/badiul-alam-mazumder-170326-03-1773759519.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Salahuddin seeks UK help for police reform in Vienna]]></title>
+            <description><![CDATA[[Bangladesh] Salahuddin seeks UK help for police reform in Vienna]]></description>
+            <link>https://bdnews24.com/bangladesh/b2e93652ba96</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b2e93652ba96</guid>
+            <pubDate>Tue, 17 Mar 2026 23:36:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/salahuddin-vienna-170326-1773768931.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Argentina to play against Guatemala after Finalissima cancelled]]></title>
+            <description><![CDATA[[Sport] Argentina to play against Guatemala after Finalissima cancelled]]></description>
+            <link>https://bdnews24.com/sport/a24ae9261de8</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/a24ae9261de8</guid>
+            <pubDate>Tue, 17 Mar 2026 23:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025March/SM/lionel-messi-argentina-270325-1743053329.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[UN says over 36,000 Palestinians displaced by Israeli settlements]]></title>
+            <description><![CDATA[[World] UN says over 36,000 Palestinians displaced by Israeli settlements]]></description>
+            <link>https://bdnews24.com/world/d9b901d64461</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/d9b901d64461</guid>
+            <pubDate>Tue, 17 Mar 2026 23:11:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2024May/SM/israel-seizes-gaza-300524-01-1717038164.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US urges Syria action against Hezbollah, Damascus hesitant]]></title>
+            <description><![CDATA[[World] US urges Syria action against Hezbollah, Damascus hesitant]]></description>
+            <link>https://bdnews24.com/world/cb98f3e4ed84</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/cb98f3e4ed84</guid>
+            <pubDate>Tue, 17 Mar 2026 23:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/qatar-attack-iran-030326-1772547254.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump postpones trip to Beijing]]></title>
+            <description><![CDATA[[World] Trump postpones trip to Beijing]]></description>
+            <link>https://bdnews24.com/world/0ac245eb271a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/0ac245eb271a</guid>
+            <pubDate>Tue, 17 Mar 2026 23:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/donald-trump-170326-01-1773767275.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nearly all Gazipur factories pay wages, bonuses]]></title>
+            <description><![CDATA[[Bangladesh] Nearly all Gazipur factories pay wages, bonuses]]></description>
+            <link>https://bdnews24.com/bangladesh/09a0b1b63551</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/09a0b1b63551</guid>
+            <pubDate>Tue, 17 Mar 2026 23:07:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/gazipur-eid-garment-salary-170326-01-1773763866.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[NATO's refusal to help on Iran ‘very foolish mistake’: Trump]]></title>
             <description><![CDATA[[World] NATO's refusal to help on Iran ‘very foolish mistake’: Trump]]></description>
             <link>https://bdnews24.com/world/989e9676577e</link>
             <guid isPermaLink="true">https://bdnews24.com/world/989e9676577e</guid>
             <pubDate>Tue, 17 Mar 2026 22:43:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/nato-refusal-trump-17032026-01-1773765761.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/import/media/2016/02/24/donald-trump.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[New DU VC vows to put university on the global map]]></title>
@@ -103,70 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/db7dbb127e82</guid>
             <pubDate>Tue, 17 Mar 2026 20:22:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/neymar-out-brazil-wc-17032026-01-1773757307.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Syria bans alcohol in Damascus]]></title>
-            <description><![CDATA[[World] Syria bans alcohol in Damascus]]></description>
-            <link>https://bdnews24.com/world/47e764a4338f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/47e764a4338f</guid>
-            <pubDate>Tue, 17 Mar 2026 20:15:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/syria-alc-ban-17032026-01-1773756891.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heavy tariffs blunt developing nations’ industrial growth: WB]]></title>
-            <description><![CDATA[[World] Heavy tariffs blunt developing nations’ industrial growth: WB]]></description>
-            <link>https://bdnews24.com/world/83914d29523b</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/83914d29523b</guid>
-            <pubDate>Tue, 17 Mar 2026 19:42:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/heavy-tariffs-developing-nations-17032026-01-1773754925.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israeli strike kills Lebanese soldier, wounds four]]></title>
-            <description><![CDATA[[Middle East] Israeli strike kills Lebanese soldier, wounds four]]></description>
-            <link>https://bdnews24.com/world/middle-east/4a2bfdf5c455</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/4a2bfdf5c455</guid>
-            <pubDate>Tue, 17 Mar 2026 19:35:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/lebaon-10326-1773139001.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scent of Eid: Attar, caps and prayer mats in high demand]]></title>
-            <description><![CDATA[[Image] Scent of Eid: Attar, caps and prayer mats in high demand]]></description>
-            <link>https://bdnews24.com/media-en/image/689588dbd3bc</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/689588dbd3bc</guid>
-            <pubDate>Tue, 17 Mar 2026 19:14:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/caps-perfume-eid-shopping-170326-014-1773679753.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[10-year-old at ICU after ‘rape’ in Kushtia]]></title>
-            <description><![CDATA[[Bangladesh] 10-year-old at ICU after ‘rape’ in Kushtia]]></description>
-            <link>https://bdnews24.com/bangladesh/c3e0f5eb3700</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c3e0f5eb3700</guid>
-            <pubDate>Tue, 17 Mar 2026 19:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/kustia-bharamara-thana-170326-01-1773745680.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[March 17, 2026]]></title>
-            <description><![CDATA[[Image] March 17, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/2f32c9d2c1ca</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/2f32c9d2c1ca</guid>
-            <pubDate>Tue, 17 Mar 2026 19:00:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/water-pollution-buriganga-170326-046-1773679173.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran war may push millions into acute hunger: WFP]]></title>
-            <description><![CDATA[[World] Iran war may push millions into acute hunger: WFP]]></description>
-            <link>https://bdnews24.com/world/4cbbbdea291d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/4cbbbdea291d</guid>
-            <pubDate>Tue, 17 Mar 2026 18:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025July/SM/world-hunger-290725-01-1753763420.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘No gas leak found’ in Halishahar blast that killed 6]]></title>
-            <description><![CDATA[[Bangladesh] ‘No gas leak found’ in Halishahar blast that killed 6]]></description>
-            <link>https://bdnews24.com/bangladesh/f2f9c1f11c95</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f2f9c1f11c95</guid>
-            <pubDate>Tue, 17 Mar 2026 17:59:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/chottogram-blust-fire-230226-03-1771836459.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
