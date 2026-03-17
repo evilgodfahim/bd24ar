@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Mar 2026 05:49:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Mar 2026 06:49:34 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Mar 2026 05:49:47 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 06:49:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Reform UK's platform: Deportations, patriotism and 'save our pubs']]></title>
+            <description><![CDATA[[Europe] Reform UK's platform: Deportations, patriotism and 'save our pubs']]></description>
+            <link>https://bdnews24.com/world/europe/b4516267870a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/b4516267870a</guid>
+            <pubDate>Tue, 17 Mar 2026 12:42:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/nigel-farage-170326-01-1773729517.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 of a family die in Lalmonirhat road crash]]></title>
+            <description><![CDATA[[Bangladesh] 3 of a family die in Lalmonirhat road crash]]></description>
+            <link>https://bdnews24.com/bangladesh/ceb1f4aa023a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ceb1f4aa023a</guid>
+            <pubDate>Tue, 17 Mar 2026 12:17:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/lalmonirhat-acc-170326-01-1773727058.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Homebound Eid rush grows on Gazipur highways]]></title>
+            <description><![CDATA[[Bangladesh] Homebound Eid rush grows on Gazipur highways]]></description>
+            <link>https://bdnews24.com/bangladesh/3a2bb67027e2</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3a2bb67027e2</guid>
+            <pubDate>Tue, 17 Mar 2026 12:13:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/gazipur-road-170326-01-1773724882.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Week-long Eid holidays start]]></title>
             <description><![CDATA[[Bangladesh] Week-long Eid holidays start]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/8dc5dfc3e06d</guid>
             <pubDate>Tue, 17 Mar 2026 00:43:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/donald-trump-160326-02-1773686628.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iranian women’s team head home after asylum withdrawals]]></title>
-            <description><![CDATA[[Sport] Iranian women’s team head home after asylum withdrawals]]></description>
-            <link>https://bdnews24.com/sport/b45ee89f535c</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/b45ee89f535c</guid>
-            <pubDate>Tue, 17 Mar 2026 00:40:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-womens-footballers-16326-1773632235.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Leaning building sparks panic in Chandpur]]></title>
-            <description><![CDATA[[Bangladesh] Leaning building sparks panic in Chandpur]]></description>
-            <link>https://bdnews24.com/bangladesh/578484cdd8e6</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/578484cdd8e6</guid>
-            <pubDate>Tue, 17 Mar 2026 00:32:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/chandpur-faridganj-building-160326-01-1773682584.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arteta wary of Leverkusen threat]]></title>
-            <description><![CDATA[[Sport] Arteta wary of Leverkusen threat]]></description>
-            <link>https://bdnews24.com/sport/6d66a344ca77</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/6d66a344ca77</guid>
-            <pubDate>Tue, 17 Mar 2026 00:27:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/arteta-wary-16032026-01-1773685630.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
