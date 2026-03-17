@@ -4,10 +4,82 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Mar 2026 14:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Mar 2026 15:52:20 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Mar 2026 14:10:49 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 15:52:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iran seeks to move World Cup matches from US to Mexico]]></title>
+            <description><![CDATA[[World] Iran seeks to move World Cup matches from US to Mexico]]></description>
+            <link>https://bdnews24.com/world/6c3af68f76e3</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/6c3af68f76e3</guid>
+            <pubDate>Tue, 17 Mar 2026 21:46:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/wc-trophy-11326-1773210318.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Empty seats haunt Dhaka bus terminals before Eid]]></title>
+            <description><![CDATA[[Bangladesh] Empty seats haunt Dhaka bus terminals before Eid]]></description>
+            <link>https://bdnews24.com/bangladesh/00b4767fcb10</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/00b4767fcb10</guid>
+            <pubDate>Tue, 17 Mar 2026 21:39:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/eid-bus-170326-01-1773754042.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Half of Bangladesh’s new workers found no jobs in last 10 years: WB]]></title>
+            <description><![CDATA[[Economy] Half of Bangladesh’s new workers found no jobs in last 10 years: WB]]></description>
+            <link>https://bdnews24.com/economy/50062a769f2a</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/50062a769f2a</guid>
+            <pubDate>Tue, 17 Mar 2026 21:37:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026January/SM/world-bank-1767884044.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 die in Tangail bus-autorickshaw collision]]></title>
+            <description><![CDATA[[Bangladesh] 3 die in Tangail bus-autorickshaw collision]]></description>
+            <link>https://bdnews24.com/bangladesh/141bfa584700</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/141bfa584700</guid>
+            <pubDate>Tue, 17 Mar 2026 21:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tangail-road-accident-170326-01-1773757108.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US counterterrorism chief resigns over Iran war]]></title>
+            <description><![CDATA[[World] US counterterrorism chief resigns over Iran war]]></description>
+            <link>https://bdnews24.com/world/82a6fa6cdf88</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/82a6fa6cdf88</guid>
+            <pubDate>Tue, 17 Mar 2026 20:55:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025April/SM/fbi-building-100425-01-1744253040.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israeli strike kills 3 in Gaza]]></title>
+            <description><![CDATA[[World] Israeli strike kills 3 in Gaza]]></description>
+            <link>https://bdnews24.com/world/7d9c0a4d8b24</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/7d9c0a4d8b24</guid>
+            <pubDate>Tue, 17 Mar 2026 20:33:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/israel-kills-3-in-gaza-17032026-01-1773757959.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Actor Shams Sumon passes away]]></title>
+            <description><![CDATA[[Entertainment] Actor Shams Sumon passes away]]></description>
+            <link>https://bdnews24.com/entertainment/c9a1b2b7322f</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/c9a1b2b7322f</guid>
+            <pubDate>Tue, 17 Mar 2026 20:25:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/shams-sumon-actor-170326-02-1773760456.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Neymar out of Brazil squad for WC warm-ups]]></title>
+            <description><![CDATA[[Sport] Neymar out of Brazil squad for WC warm-ups]]></description>
+            <link>https://bdnews24.com/sport/db7dbb127e82</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/db7dbb127e82</guid>
+            <pubDate>Tue, 17 Mar 2026 20:22:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/neymar-out-brazil-wc-17032026-01-1773757307.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Syria bans alcohol in Damascus]]></title>
+            <description><![CDATA[[World] Syria bans alcohol in Damascus]]></description>
+            <link>https://bdnews24.com/world/47e764a4338f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/47e764a4338f</guid>
+            <pubDate>Tue, 17 Mar 2026 20:15:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/syria-alc-ban-17032026-01-1773756891.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Heavy tariffs blunt developing nations’ industrial growth: WB]]></title>
             <description><![CDATA[[World] Heavy tariffs blunt developing nations’ industrial growth: WB]]></description>
@@ -95,78 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/570e5e59c397</guid>
             <pubDate>Tue, 17 Mar 2026 17:21:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/cumilla-highway-170326-01-1773742838.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel claims Larijani is dead]]></title>
-            <description><![CDATA[[World] Israel claims Larijani is dead]]></description>
-            <link>https://bdnews24.com/world/e0e5ef767a22</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/e0e5ef767a22</guid>
-            <pubDate>Tue, 17 Mar 2026 17:15:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/iran-security-chief-larijani-120226-1770893913.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt to roll out 22,000 Farmer Cards in pilot phase]]></title>
-            <description><![CDATA[[Bangladesh] Govt to roll out 22,000 Farmer Cards in pilot phase]]></description>
-            <link>https://bdnews24.com/bangladesh/ced99abfad80</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ced99abfad80</guid>
-            <pubDate>Tue, 17 Mar 2026 16:58:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/pm-farmers-card-170326-01-1773743196.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2 toddlers drown in Meherpur]]></title>
-            <description><![CDATA[[Bangladesh] 2 toddlers drown in Meherpur]]></description>
-            <link>https://bdnews24.com/bangladesh/fefe1737d722</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/fefe1737d722</guid>
-            <pubDate>Tue, 17 Mar 2026 16:58:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024May/SM/drowning-in-water-300524-1717088001.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran supreme leader rejects proposals to ease US tensions: official]]></title>
-            <description><![CDATA[[World] Iran supreme leader rejects proposals to ease US tensions: official]]></description>
-            <link>https://bdnews24.com/world/243fb39f0034</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/243fb39f0034</guid>
-            <pubDate>Tue, 17 Mar 2026 16:40:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/mojtaba-khamenei-17326-1773744026.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warrant out for ex-FBCCI chief Harun]]></title>
-            <description><![CDATA[[Business] Warrant out for ex-FBCCI chief Harun]]></description>
-            <link>https://bdnews24.com/business/58bb08d08bce</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/58bb08d08bce</guid>
-            <pubDate>Tue, 17 Mar 2026 16:31:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/yusuf-abdullah-harun-170326-1773739255.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Abdul Hamid named new Islami Bank director, Jalil out]]></title>
-            <description><![CDATA[[Business] Abdul Hamid named new Islami Bank director, Jalil out]]></description>
-            <link>https://bdnews24.com/business/31a71de03096</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/31a71de03096</guid>
-            <pubDate>Tue, 17 Mar 2026 16:21:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/sm-abdul-hamid-17032026-01-1773742885.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No compromise on security during Eid travel: IGP]]></title>
-            <description><![CDATA[[Bangladesh] No compromise on security during Eid travel: IGP]]></description>
-            <link>https://bdnews24.com/bangladesh/dee2d754fba9</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/dee2d754fba9</guid>
-            <pubDate>Tue, 17 Mar 2026 16:19:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/igp-ali-hossain-170326-01-1773740402.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israeli airstrike on Iran prison is a war crime: UN report]]></title>
-            <description><![CDATA[[World] Israeli airstrike on Iran prison is a war crime: UN report]]></description>
-            <link>https://bdnews24.com/world/d99b71619398</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/d99b71619398</guid>
-            <pubDate>Tue, 17 Mar 2026 15:23:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/un-170326-01-1773739331.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man killed trying to protect son in Natore]]></title>
-            <description><![CDATA[[Bangladesh] Man killed trying to protect son in Natore]]></description>
-            <link>https://bdnews24.com/bangladesh/f8ca6123a5f1</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f8ca6123a5f1</guid>
-            <pubDate>Tue, 17 Mar 2026 15:11:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/natore-murder-170326-01-1773736210.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
