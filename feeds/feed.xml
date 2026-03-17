@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Mar 2026 09:42:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Mar 2026 10:38:14 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Mar 2026 09:42:43 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 10:38:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Warrant out for ex-FBCCI chief Harun]]></title>
+            <description><![CDATA[[Business] Warrant out for ex-FBCCI chief Harun]]></description>
+            <link>https://bdnews24.com/business/58bb08d08bce</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/58bb08d08bce</guid>
+            <pubDate>Tue, 17 Mar 2026 16:31:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/yusuf-abdullah-harun-170326-1773739255.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Abdul Hamid named new Islami Bank director, Jalil out]]></title>
+            <description><![CDATA[[Business] Abdul Hamid named new Islami Bank director, Jalil out]]></description>
+            <link>https://bdnews24.com/business/31a71de03096</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/31a71de03096</guid>
+            <pubDate>Tue, 17 Mar 2026 16:21:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/sm-abdul-hamid-17032026-01-1773742885.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[No compromise on security during Eid travel: IGP]]></title>
+            <description><![CDATA[[Bangladesh] No compromise on security during Eid travel: IGP]]></description>
+            <link>https://bdnews24.com/bangladesh/dee2d754fba9</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/dee2d754fba9</guid>
+            <pubDate>Tue, 17 Mar 2026 16:19:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/igp-ali-hossain-170326-01-1773740402.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Israeli airstrike on Iran prison is a war crime: UN report]]></title>
             <description><![CDATA[[World] Israeli airstrike on Iran prison is a war crime: UN report]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/73aae656fff1</guid>
             <pubDate>Tue, 17 Mar 2026 11:32:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/launch-eid-journey-160326-005-1773674447.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US minors sue Musk’s xAI for generating sexual images of them]]></title>
-            <description><![CDATA[[Tech] US minors sue Musk’s xAI for generating sexual images of them]]></description>
-            <link>https://bdnews24.com/tech/d74e6d9f3b03</link>
-            <guid isPermaLink="true">https://bdnews24.com/tech/d74e6d9f3b03</guid>
-            <pubDate>Tue, 17 Mar 2026 10:22:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/grok-sexual-images-minors-case-170326-01-1773721339.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI to cut back on side projects: WSJ]]></title>
-            <description><![CDATA[[Business] OpenAI to cut back on side projects: WSJ]]></description>
-            <link>https://bdnews24.com/business/0f55def63601</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/0f55def63601</guid>
-            <pubDate>Tue, 17 Mar 2026 10:16:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/openai-business-side-projects-170326-01-1773720971.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US judge upends Kennedy’s child vaccine policies]]></title>
-            <description><![CDATA[[Health] US judge upends Kennedy’s child vaccine policies]]></description>
-            <link>https://bdnews24.com/health/b08886978031</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/b08886978031</guid>
-            <pubDate>Tue, 17 Mar 2026 10:11:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-kennedy-vaccine-blocked-170326-01-1773720636.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
