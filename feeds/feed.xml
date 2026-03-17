@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Mar 2026 06:49:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Mar 2026 07:45:40 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Mar 2026 06:49:34 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 07:45:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[PM in office as Eid holidays begin]]></title>
+            <description><![CDATA[[Bangladesh] PM in office as Eid holidays begin]]></description>
+            <link>https://bdnews24.com/bangladesh/9b34431ad837</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9b34431ad837</guid>
+            <pubDate>Tue, 17 Mar 2026 13:27:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/traeq-rahman-210226-00-1771656316.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran renews attacks on US Gulf allies]]></title>
+            <description><![CDATA[[Middle East] Iran renews attacks on US Gulf allies]]></description>
+            <link>https://bdnews24.com/world/middle-east/58e3bc816bb0</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/58e3bc816bb0</guid>
+            <pubDate>Tue, 17 Mar 2026 13:24:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/uae-17426-1773732181.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thailand seeks crude oil from Russia]]></title>
+            <description><![CDATA[[Asia Pacific] Thailand seeks crude oil from Russia]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/27fb4c2e3913</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/27fb4c2e3913</guid>
+            <pubDate>Tue, 17 Mar 2026 13:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/thai-gas-station-170326-01-1-1773731363.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Reform UK's platform: Deportations, patriotism and 'save our pubs']]></title>
             <description><![CDATA[[Europe] Reform UK's platform: Deportations, patriotism and 'save our pubs']]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/d551d8b80955</guid>
             <pubDate>Tue, 17 Mar 2026 09:19:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/kabul-strike-17326-1773717488.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gulf states press US to neutralise Iran for good]]></title>
-            <description><![CDATA[[World] Gulf states press US to neutralise Iran for good]]></description>
-            <link>https://bdnews24.com/world/c3813c057b6b</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/c3813c057b6b</guid>
-            <pubDate>Tue, 17 Mar 2026 09:07:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/black-smoke-uae-17326-1773716745.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[330 police sergeants, SIs reinstated]]></title>
-            <description><![CDATA[[Bangladesh] 330 police sergeants, SIs reinstated]]></description>
-            <link>https://bdnews24.com/bangladesh/2f7bb21d30bc</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2f7bb21d30bc</guid>
-            <pubDate>Tue, 17 Mar 2026 01:40:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/bangladesh-police-260226-1772102536.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Not sure Iran’s new leader is alive: Trump]]></title>
-            <description><![CDATA[[World] Not sure Iran’s new leader is alive: Trump]]></description>
-            <link>https://bdnews24.com/world/8dc5dfc3e06d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/8dc5dfc3e06d</guid>
-            <pubDate>Tue, 17 Mar 2026 00:43:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/donald-trump-160326-02-1773686628.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
