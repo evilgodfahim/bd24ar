@@ -4,10 +4,98 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Mar 2026 01:01:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Mar 2026 04:05:54 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Mar 2026 01:01:53 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 04:05:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US average diesel prices cross $5 a gallon]]></title>
+            <description><![CDATA[[Economy] US average diesel prices cross $5 a gallon]]></description>
+            <link>https://bdnews24.com/economy/03529c75546a</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/03529c75546a</guid>
+            <pubDate>Tue, 17 Mar 2026 10:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-gas-price-170326-01-1773720194.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Can do anything I want with Cuba’: Trump]]></title>
+            <description><![CDATA[[Americas] ‘Can do anything I want with Cuba’: Trump]]></description>
+            <link>https://bdnews24.com/world/americas/25680b7fe0a9</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/25680b7fe0a9</guid>
+            <pubDate>Tue, 17 Mar 2026 09:57:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-trump-cuba-170326-01-1773719794.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hong Kong to see oil shocks, volatility from Mideast war]]></title>
+            <description><![CDATA[[Asia Pacific] Hong Kong to see oil shocks, volatility from Mideast war]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/b21de5e7a80b</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/b21de5e7a80b</guid>
+            <pubDate>Tue, 17 Mar 2026 09:56:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/hk-john-lee-speech-1773719678.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iranian families weep as war dead are buried in Tehran cemetery]]></title>
+            <description><![CDATA[[Middle East] Iranian families weep as war dead are buried in Tehran cemetery]]></description>
+            <link>https://bdnews24.com/world/middle-east/f5917045bcad</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/f5917045bcad</guid>
+            <pubDate>Tue, 17 Mar 2026 09:48:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-cemetary-170326-01-1773719088.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump seeks to delay meet with China’s Xi ‘by a month’]]></title>
+            <description><![CDATA[[World] Trump seeks to delay meet with China’s Xi ‘by a month’]]></description>
+            <link>https://bdnews24.com/world/932392a0affc</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/932392a0affc</guid>
+            <pubDate>Tue, 17 Mar 2026 09:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-trump-china-xi-meeting-delay-170326-01-1773719209.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump was warned of Iranian retaliation on Gulf allies: Reuters]]></title>
+            <description><![CDATA[[Middle East] Trump was warned of Iranian retaliation on Gulf allies: Reuters]]></description>
+            <link>https://bdnews24.com/world/middle-east/c3cb41570920</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/c3cb41570920</guid>
+            <pubDate>Tue, 17 Mar 2026 09:40:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-iran-retaliation-gulf-170326-01-1773718758.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Push allies to blacklist Iran’s IRGC, Hezbollah: Rubio tells diplomats]]></title>
+            <description><![CDATA[[Americas] Push allies to blacklist Iran’s IRGC, Hezbollah: Rubio tells diplomats]]></description>
+            <link>https://bdnews24.com/world/americas/b09b9600312a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/b09b9600312a</guid>
+            <pubDate>Tue, 17 Mar 2026 09:33:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/marco-rubio-170326-01-1773718312.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Number of US troops wounded in Iran war rises to about 200]]></title>
+            <description><![CDATA[[Americas] Number of US troops wounded in Iran war rises to about 200]]></description>
+            <link>https://bdnews24.com/world/americas/1b26ef0f38b4</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/1b26ef0f38b4</guid>
+            <pubDate>Tue, 17 Mar 2026 09:26:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-crisis-tehran-170326-01-1773717834.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Millions without power after Cuba grid collapse]]></title>
+            <description><![CDATA[[World] Millions without power after Cuba grid collapse]]></description>
+            <link>https://bdnews24.com/world/257d235f7861</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/257d235f7861</guid>
+            <pubDate>Tue, 17 Mar 2026 09:25:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/cuba-electricity-17326-1773717842.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[400 die in Pakistan air strike on Kabul hospital: Afghan Taliban]]></title>
+            <description><![CDATA[[Asia Pacific] 400 die in Pakistan air strike on Kabul hospital: Afghan Taliban]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/d551d8b80955</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/d551d8b80955</guid>
+            <pubDate>Tue, 17 Mar 2026 09:19:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/kabul-strike-17326-1773717488.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gulf states press US to neutralise Iran for good]]></title>
+            <description><![CDATA[[World] Gulf states press US to neutralise Iran for good]]></description>
+            <link>https://bdnews24.com/world/c3813c057b6b</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/c3813c057b6b</guid>
+            <pubDate>Tue, 17 Mar 2026 09:07:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/black-smoke-uae-17326-1773716745.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[330 police sergeants, SIs reinstated]]></title>
             <description><![CDATA[[Bangladesh] 330 police sergeants, SIs reinstated]]></description>
@@ -79,94 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/5e2c609a868e</guid>
             <pubDate>Mon, 16 Mar 2026 23:55:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/donald-trump-160326-01-1773683720.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 held over TikToker ‘murder’]]></title>
-            <description><![CDATA[[Bangladesh] 3 held over TikToker ‘murder’]]></description>
-            <link>https://bdnews24.com/bangladesh/7867f99a2390</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7867f99a2390</guid>
-            <pubDate>Mon, 16 Mar 2026 23:48:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rakib-killed-shaheed-minar-150326-1773603812.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chelsea fined £10.75mn, given suspended transfer ban]]></title>
-            <description><![CDATA[[Sport] Chelsea fined £10.75mn, given suspended transfer ban]]></description>
-            <link>https://bdnews24.com/sport/73b633ad2216</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/73b633ad2216</guid>
-            <pubDate>Mon, 16 Mar 2026 23:43:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/chelsea-fine-transfer-ban-16032026-01-1773683011.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Decadence in crystal ice!]]></title>
-            <description><![CDATA[[Opinion] Decadence in crystal ice!]]></description>
-            <link>https://bdnews24.com/opinion/26d621379a07</link>
-            <guid isPermaLink="true">https://bdnews24.com/opinion/26d621379a07</guid>
-            <pubDate>Mon, 16 Mar 2026 23:39:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jashore-women-arrest-130326-01-1773418165.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chelsea’s James out of PSG clash]]></title>
-            <description><![CDATA[[Sport] Chelsea’s James out of PSG clash]]></description>
-            <link>https://bdnews24.com/sport/1f45e95e59d5</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/1f45e95e59d5</guid>
-            <pubDate>Mon, 16 Mar 2026 23:27:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/newcastle-chelsea-150326-01-1773523671.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Police sue 700 after Uttara mall attack]]></title>
-            <description><![CDATA[[Bangladesh] Police sue 700 after Uttara mall attack]]></description>
-            <link>https://bdnews24.com/bangladesh/4990283b4c5f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4990283b4c5f</guid>
-            <pubDate>Mon, 16 Mar 2026 22:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/uttara-square-160326-01-1773674413.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Let Dowman enjoy moment: Rooney]]></title>
-            <description><![CDATA[[Sport] Let Dowman enjoy moment: Rooney]]></description>
-            <link>https://bdnews24.com/sport/a8f34385e380</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/a8f34385e380</guid>
-            <pubDate>Mon, 16 Mar 2026 22:49:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/dowman-enjoy-rooney-16032026-01-1773679764.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump to formally launch fraud task force]]></title>
-            <description><![CDATA[[World] Trump to formally launch fraud task force]]></description>
-            <link>https://bdnews24.com/world/aa2e0feadc18</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/aa2e0feadc18</guid>
-            <pubDate>Mon, 16 Mar 2026 22:47:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-fraud-task-force-16032026-01-1773679601.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rohingya population up 179,000 in a year]]></title>
-            <description><![CDATA[[Bangladesh] Rohingya population up 179,000 in a year]]></description>
-            <link>https://bdnews24.com/bangladesh/d0dbf3146253</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d0dbf3146253</guid>
-            <pubDate>Mon, 16 Mar 2026 22:37:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rohingya-camp-160520-01-1773677247.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eid greeting cards not yet a relic of the past]]></title>
-            <description><![CDATA[[Image] Eid greeting cards not yet a relic of the past]]></description>
-            <link>https://bdnews24.com/media-en/image/0fbab556364e</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/0fbab556364e</guid>
-            <pubDate>Mon, 16 Mar 2026 22:31:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/eid-card-150326-014-1773586351.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US exhausting tools to absorb Iran war oil shock]]></title>
-            <description><![CDATA[[Opinion] US exhausting tools to absorb Iran war oil shock]]></description>
-            <link>https://bdnews24.com/opinion/1e914d1f2ce9</link>
-            <guid isPermaLink="true">https://bdnews24.com/opinion/1e914d1f2ce9</guid>
-            <pubDate>Mon, 16 Mar 2026 22:17:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-exhausting-tools-oped-16032026-01-1773677861.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[March 16, 2026]]></title>
-            <description><![CDATA[[Image] March 16, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/a26afffcb309</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/a26afffcb309</guid>
-            <pubDate>Mon, 16 Mar 2026 22:16:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rail-line-construction-160326-006-1773586072.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
