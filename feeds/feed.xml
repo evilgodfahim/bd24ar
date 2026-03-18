@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Mar 2026 11:36:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 12:39:57 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Mar 2026 11:36:17 GMT</pubDate>
+        <pubDate>Wed, 18 Mar 2026 12:39:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Missing Bangladeshi found dead in California]]></title>
+            <description><![CDATA[[Bangladesh] Missing Bangladeshi found dead in California]]></description>
+            <link>https://bdnews24.com/bangladesh/c26d81491492</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c26d81491492</guid>
+            <pubDate>Wed, 18 Mar 2026 18:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/california-sabuj-death-180326-01-1773833625.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Disaster strikes as train ‘ignores repair warnings’]]></title>
+            <description><![CDATA[[Bangladesh] Disaster strikes as train ‘ignores repair warnings’]]></description>
+            <link>https://bdnews24.com/bangladesh/dd2163b40dca</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/dd2163b40dca</guid>
+            <pubDate>Wed, 18 Mar 2026 18:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bogra-train-accident-180326-01-1773833559.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[4 confess to ‘gang-rape’ of teen in Bhaluka]]></title>
+            <description><![CDATA[[Bangladesh] 4 confess to ‘gang-rape’ of teen in Bhaluka]]></description>
+            <link>https://bdnews24.com/bangladesh/dfd87088b38a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/dfd87088b38a</guid>
+            <pubDate>Wed, 18 Mar 2026 17:37:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mymensingh-rape-180326-02-1773828363.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Israel strikes central Beirut as war expands]]></title>
             <description><![CDATA[[Middle East] Israel strikes central Beirut as war expands]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/76a4c2a3b64f</guid>
             <pubDate>Wed, 18 Mar 2026 11:59:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/irans-cluster-missile-18326-1773813442.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Main congregation at National Eidgah at 8:30am]]></title>
-            <description><![CDATA[[Bangladesh] Main congregation at National Eidgah at 8:30am]]></description>
-            <link>https://bdnews24.com/bangladesh/aa8ec2831a0f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/aa8ec2831a0f</guid>
-            <pubDate>Wed, 18 Mar 2026 11:58:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025March/SM/eid-ul-fitr-baitul-mukarram-310325-42-1743398497.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mymensingh man injured in Saudi missile strike dies]]></title>
-            <description><![CDATA[[Bangladesh] Mymensingh man injured in Saudi missile strike dies]]></description>
-            <link>https://bdnews24.com/bangladesh/3fe7f0d51690</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3fe7f0d51690</guid>
-            <pubDate>Wed, 18 Mar 2026 11:57:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mymensing-soudi-death-180326-01-1773811589.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Khulna man loses life over debt of Tk 400]]></title>
-            <description><![CDATA[[Bangladesh] Khulna man loses life over debt of Tk 400]]></description>
-            <link>https://bdnews24.com/bangladesh/4dbdb4dc141a</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4dbdb4dc141a</guid>
-            <pubDate>Wed, 18 Mar 2026 11:45:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025June/SM/rupsa-thana-090222-01-1751007090.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
