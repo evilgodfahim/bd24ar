@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Mar 2026 19:40:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 20:24:09 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Mar 2026 19:40:42 GMT</pubDate>
+        <pubDate>Wed, 18 Mar 2026 20:24:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iran conflict strains gas reserves as import costs triple]]></title>
+            <description><![CDATA[[Bangladesh] Iran conflict strains gas reserves as import costs triple]]></description>
+            <link>https://bdnews24.com/bangladesh/4d313e0be4bd</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4d313e0be4bd</guid>
+            <pubDate>Thu, 19 Mar 2026 01:52:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/ship-attack-hormuz-120326-01-1773287158-1773304815.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Iran threatens Gulf energy targets after gas field strike]]></title>
             <description><![CDATA[[World] Iran threatens Gulf energy targets after gas field strike]]></description>
@@ -73,8 +81,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/irans-cluster-missile-18326-1773813442.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Nilsagar derailment: ‘Passengers leapt from train roof’]]></title>
-            <description><![CDATA[[Bangladesh] Nilsagar derailment: ‘Passengers leapt from train roof’]]></description>
+            <title><![CDATA[Nilsagar crash: ‘Passengers leapt from train roof’]]></title>
+            <description><![CDATA[[Bangladesh] Nilsagar crash: ‘Passengers leapt from train roof’]]></description>
             <link>https://bdnews24.com/bangladesh/23facb98402d</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/23facb98402d</guid>
             <pubDate>Wed, 18 Mar 2026 23:42:00 GMT</pubDate>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/52850173a057</guid>
             <pubDate>Wed, 18 Mar 2026 20:58:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/afghanistan-clinic-180326-01-1773845828.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nilsagar Express derailment under scanner]]></title>
-            <description><![CDATA[[Bangladesh] Nilsagar Express derailment under scanner]]></description>
-            <link>https://bdnews24.com/bangladesh/875dfdbd3a49</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/875dfdbd3a49</guid>
-            <pubDate>Wed, 18 Mar 2026 20:53:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bogra-train-accident-180326-01-1773833559.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
