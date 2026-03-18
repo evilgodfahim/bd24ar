@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Mar 2026 07:44:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 08:34:20 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Mar 2026 07:44:05 GMT</pubDate>
+        <pubDate>Wed, 18 Mar 2026 08:34:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iran war: Most civilians killed in UAE were South Asians]]></title>
+            <description><![CDATA[[World] Iran war: Most civilians killed in UAE were South Asians]]></description>
+            <link>https://bdnews24.com/world/e93e254da6cb</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e93e254da6cb</guid>
+            <pubDate>Wed, 18 Mar 2026 14:29:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/dubai-airport-180326-01-1773818353.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[News of theft at IGP’s home false: police]]></title>
+            <description><![CDATA[[Bangladesh] News of theft at IGP’s home false: police]]></description>
+            <link>https://bdnews24.com/bangladesh/b42b789bc149</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b42b789bc149</guid>
+            <pubDate>Wed, 18 Mar 2026 14:28:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bagerhat-igp-house-170326-02-1773749134.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How will Tarique spend Eid day?]]></title>
+            <description><![CDATA[[Bangladesh] How will Tarique spend Eid day?]]></description>
+            <link>https://bdnews24.com/bangladesh/c93e7b6042ce</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c93e7b6042ce</guid>
+            <pubDate>Wed, 18 Mar 2026 14:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/traeq-rahman-210226-00-1771656316.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Dhaka-Mymensingh Highway mostly clear, long queues at Chandra]]></title>
             <description><![CDATA[[Bangladesh] Dhaka-Mymensingh Highway mostly clear, long queues at Chandra]]></description>
@@ -129,12 +153,12 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-embassy-baghdad-180326-01-1773805754.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[US troop presence in cities behind Gulf strikes: Iran]]></title>
-            <description><![CDATA[[World] US troop presence in cities behind Gulf strikes: Iran]]></description>
+            <title><![CDATA[US aircraft carrier Ford goes in for maintenance]]></title>
+            <description><![CDATA[[World] US aircraft carrier Ford goes in for maintenance]]></description>
             <link>https://bdnews24.com/world/77974ed70984</link>
             <guid isPermaLink="true">https://bdnews24.com/world/77974ed70984</guid>
             <pubDate>Wed, 18 Mar 2026 09:44:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/tehran-18326-1773805375.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/2023-10/202473fd-c615-4c30-9148-541867e4a44f/us_middle_east_161223_01.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[5 die in fire outside Mexico oil refinery]]></title>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/americas/ada79b49dcaa</guid>
             <pubDate>Wed, 18 Mar 2026 09:39:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/mexico-oil-refinery-fire-180326-01-1773805143.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cuba restores power after 29-hour blackout]]></title>
-            <description><![CDATA[[Americas] Cuba restores power after 29-hour blackout]]></description>
-            <link>https://bdnews24.com/world/americas/af4aaf0606e0</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/af4aaf0606e0</guid>
-            <pubDate>Wed, 18 Mar 2026 09:29:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/cuba-restores-power-180326-01-1773804509.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4.9mn children under 5 died in 2024: UN]]></title>
-            <description><![CDATA[[Health] 4.9mn children under 5 died in 2024: UN]]></description>
-            <link>https://bdnews24.com/health/8e85ccf50578</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/8e85ccf50578</guid>
-            <pubDate>Wed, 18 Mar 2026 09:22:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/child-deaths-2024-180326-01-1773804073.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Real dispatch City in CL last 16]]></title>
-            <description><![CDATA[[Sport] Real dispatch City in CL last 16]]></description>
-            <link>https://bdnews24.com/sport/2b5be532215b</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/2b5be532215b</guid>
-            <pubDate>Wed, 18 Mar 2026 08:48:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/vinicius-jr-1773802062.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
