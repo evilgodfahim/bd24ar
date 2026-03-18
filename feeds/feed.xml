@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Mar 2026 12:39:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 14:13:22 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Mar 2026 12:39:57 GMT</pubDate>
+        <pubDate>Wed, 18 Mar 2026 14:13:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[March 18, 2026]]></title>
+            <description><![CDATA[[Image] March 18, 2026]]></description>
+            <link>https://bdnews24.com/media-en/image/88ccdbdefa01</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/88ccdbdefa01</guid>
+            <pubDate>Wed, 18 Mar 2026 20:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/indegenous-water-pot-180326-05-1773831270.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sajek fully booked for Eid holidays]]></title>
+            <description><![CDATA[[Bangladesh] Sajek fully booked for Eid holidays]]></description>
+            <link>https://bdnews24.com/bangladesh/0805b013de45</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0805b013de45</guid>
+            <pubDate>Wed, 18 Mar 2026 20:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rangamati-tourist-180326-01-1773836792.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japan crush S Korea to set up Australia final]]></title>
+            <description><![CDATA[[World] Japan crush S Korea to set up Australia final]]></description>
+            <link>https://bdnews24.com/world/fc1a32cebef2</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/fc1a32cebef2</guid>
+            <pubDate>Wed, 18 Mar 2026 19:28:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-player-emotional-toll-11032026-01-1773245999.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thunderstorms rage across Dhaka and beyond]]></title>
+            <description><![CDATA[[Bangladesh] Thunderstorms rage across Dhaka and beyond]]></description>
+            <link>https://bdnews24.com/bangladesh/0352dc32d70f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0352dc32d70f</guid>
+            <pubDate>Wed, 18 Mar 2026 19:21:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rain-mohakhali-130326-003-1773840467.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jamuna Bridge records Tk 34mn toll in 24 hours]]></title>
+            <description><![CDATA[[Bangladesh] Jamuna Bridge records Tk 34mn toll in 24 hours]]></description>
+            <link>https://bdnews24.com/bangladesh/200be8de84dc</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/200be8de84dc</guid>
+            <pubDate>Wed, 18 Mar 2026 19:19:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tangail-toll-180326-1773829540.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japan crush S Korea to set up Australia final]]></title>
+            <description><![CDATA[[Sport] Japan crush S Korea to set up Australia final]]></description>
+            <link>https://bdnews24.com/sport/b3997a771572</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/b3997a771572</guid>
+            <pubDate>Wed, 18 Mar 2026 19:02:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/football-180326-1773838857.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Key Iranian figures killed in US-Israeli strikes]]></title>
+            <description><![CDATA[[World] Key Iranian figures killed in US-Israeli strikes]]></description>
+            <link>https://bdnews24.com/world/ff42edf4d195</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ff42edf4d195</guid>
+            <pubDate>Wed, 18 Mar 2026 19:02:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/gaza-palestine-quds-day-140326-1773480993.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Missing Bangladeshi found dead in California]]></title>
             <description><![CDATA[[Bangladesh] Missing Bangladeshi found dead in California]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/d94800343141</guid>
             <pubDate>Wed, 18 Mar 2026 15:04:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/kabul-strike-17326-1773717488.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tarique working from home during Eid holiday]]></title>
-            <description><![CDATA[[Bangladesh] Tarique working from home during Eid holiday]]></description>
-            <link>https://bdnews24.com/bangladesh/49e533018d79</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/49e533018d79</guid>
-            <pubDate>Wed, 18 Mar 2026 14:41:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025September/SM/tarique-rahman-250925-01-1758784959.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran war: Most civilians killed in UAE were South Asians]]></title>
-            <description><![CDATA[[World] Iran war: Most civilians killed in UAE were South Asians]]></description>
-            <link>https://bdnews24.com/world/e93e254da6cb</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/e93e254da6cb</guid>
-            <pubDate>Wed, 18 Mar 2026 14:29:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/dubai-airport-180326-01-1773818353.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[News of theft at IGP’s home false: police]]></title>
-            <description><![CDATA[[Bangladesh] News of theft at IGP’s home false: police]]></description>
-            <link>https://bdnews24.com/bangladesh/b42b789bc149</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b42b789bc149</guid>
-            <pubDate>Wed, 18 Mar 2026 14:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bagerhat-igp-house-170326-02-1773749134.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How will Tarique spend Eid day?]]></title>
-            <description><![CDATA[[Bangladesh] How will Tarique spend Eid day?]]></description>
-            <link>https://bdnews24.com/bangladesh/c93e7b6042ce</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c93e7b6042ce</guid>
-            <pubDate>Wed, 18 Mar 2026 14:00:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/traeq-rahman-210226-00-1771656316.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka-Mymensingh Highway mostly clear, long queues at Chandra]]></title>
-            <description><![CDATA[[Bangladesh] Dhaka-Mymensingh Highway mostly clear, long queues at Chandra]]></description>
-            <link>https://bdnews24.com/bangladesh/4df23f1893bc</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4df23f1893bc</guid>
-            <pubDate>Wed, 18 Mar 2026 13:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/gazipur-traffic-180326-01-1773815163.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japan's leader faces high-wire act in Washington]]></title>
-            <description><![CDATA[[Asia Pacific] Japan's leader faces high-wire act in Washington]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/0fc9459f1c8e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/0fc9459f1c8e</guid>
-            <pubDate>Wed, 18 Mar 2026 12:25:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/sanae-takaichi-180326-01-1773815020.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran retaliates with cluster missile strike on Tel Aviv]]></title>
-            <description><![CDATA[[Middle East] Iran retaliates with cluster missile strike on Tel Aviv]]></description>
-            <link>https://bdnews24.com/world/middle-east/76a4c2a3b64f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/76a4c2a3b64f</guid>
-            <pubDate>Wed, 18 Mar 2026 11:59:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/irans-cluster-missile-18326-1773813442.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
