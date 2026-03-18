@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Mar 2026 15:58:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 16:56:28 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Mar 2026 15:58:43 GMT</pubDate>
+        <pubDate>Wed, 18 Mar 2026 16:56:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Stormy weather halts Paturia-Daulatdia ferry services]]></title>
+            <description><![CDATA[[Bangladesh] Stormy weather halts Paturia-Daulatdia ferry services]]></description>
+            <link>https://bdnews24.com/bangladesh/beb0df3e2728</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/beb0df3e2728</guid>
+            <pubDate>Wed, 18 Mar 2026 22:51:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/manikgonj-feri-ghat-close-180326-01-1773849077.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BNP council will be held this year: Fakhrul]]></title>
+            <description><![CDATA[[Politics] BNP council will be held this year: Fakhrul]]></description>
+            <link>https://bdnews24.com/politics/37de95e94497</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/37de95e94497</guid>
+            <pubDate>Wed, 18 Mar 2026 22:23:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mirza-fakhrul-islam-alamgir-180326-1773848600.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eid bus fares spike despite minister’s claims]]></title>
+            <description><![CDATA[[Bangladesh] Eid bus fares spike despite minister’s claims]]></description>
+            <link>https://bdnews24.com/bangladesh/407248a4f4db</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/407248a4f4db</guid>
+            <pubDate>Wed, 18 Mar 2026 22:18:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/eid-journey-bus-170326-01-1773843377.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Saudi Arabia to celebrate Eid on Friday]]></title>
             <description><![CDATA[[Bangladesh] Saudi Arabia to celebrate Eid on Friday]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/dd2163b40dca</guid>
             <pubDate>Wed, 18 Mar 2026 18:03:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bogra-train-accident-180326-01-1773833559.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4 confess to ‘gang-rape’ of teen in Bhaluka]]></title>
-            <description><![CDATA[[Bangladesh] 4 confess to ‘gang-rape’ of teen in Bhaluka]]></description>
-            <link>https://bdnews24.com/bangladesh/dfd87088b38a</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/dfd87088b38a</guid>
-            <pubDate>Wed, 18 Mar 2026 17:37:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mymensingh-rape-180326-02-1773828363.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel strikes central Beirut as war expands]]></title>
-            <description><![CDATA[[Middle East] Israel strikes central Beirut as war expands]]></description>
-            <link>https://bdnews24.com/world/middle-east/63f42f659872</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/63f42f659872</guid>
-            <pubDate>Wed, 18 Mar 2026 17:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/beirut-18326-1773833023.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump, allies use ‘attacking press’ tactic to help Iran war messaging]]></title>
-            <description><![CDATA[[World] Trump, allies use ‘attacking press’ tactic to help Iran war messaging]]></description>
-            <link>https://bdnews24.com/world/7f7ba841aadd</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/7f7ba841aadd</guid>
-            <pubDate>Wed, 18 Mar 2026 16:42:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/donald-trump-180326-01-1773830434.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
