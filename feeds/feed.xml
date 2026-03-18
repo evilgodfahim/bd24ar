@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Mar 2026 08:34:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 09:40:41 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Mar 2026 08:34:20 GMT</pubDate>
+        <pubDate>Wed, 18 Mar 2026 09:40:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Several injured as Nilsagar Express train derails in Bogura]]></title>
+            <description><![CDATA[[Bangladesh] Several injured as Nilsagar Express train derails in Bogura]]></description>
+            <link>https://bdnews24.com/bangladesh/286c343299f0</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/286c343299f0</guid>
+            <pubDate>Wed, 18 Mar 2026 15:37:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/train-accident-adomdighi-180326-00-1773826231.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nuclear doctrine unlikely to change: Iran]]></title>
+            <description><![CDATA[[Middle East] Nuclear doctrine unlikely to change: Iran]]></description>
+            <link>https://bdnews24.com/world/middle-east/e0492bbc81b6</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/e0492bbc81b6</guid>
+            <pubDate>Wed, 18 Mar 2026 15:30:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-fm-18326-1773826145.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australia’s Molineux fit ahead of Windies tour]]></title>
+            <description><![CDATA[[Cricket] Australia’s Molineux fit ahead of Windies tour]]></description>
+            <link>https://bdnews24.com/cricket/ce8b5b9182e1</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/ce8b5b9182e1</guid>
+            <pubDate>Wed, 18 Mar 2026 15:19:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/sophie-molineux-180326-1773825985.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[No celebrations after DNCC Eid congregation]]></title>
+            <description><![CDATA[[Bangladesh] No celebrations after DNCC Eid congregation]]></description>
+            <link>https://bdnews24.com/bangladesh/b0fb3bfa1177</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b0fb3bfa1177</guid>
+            <pubDate>Wed, 18 Mar 2026 15:19:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/eid-jamat-dncc-190326-01-1773821994.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Suicide blasts show Nigerian jihadists’ resilience]]></title>
+            <description><![CDATA[[THE LONG READ] Suicide blasts show Nigerian jihadists’ resilience]]></description>
+            <link>https://bdnews24.com/the-long-read/4c3dc4a407f1</link>
+            <guid isPermaLink="true">https://bdnews24.com/the-long-read/4c3dc4a407f1</guid>
+            <pubDate>Wed, 18 Mar 2026 15:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/nigeria-18326-1773825267.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[143 dead in Kabul rehab centre bombing: UN agency]]></title>
+            <description><![CDATA[[Asia Pacific] 143 dead in Kabul rehab centre bombing: UN agency]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/d94800343141</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/d94800343141</guid>
+            <pubDate>Wed, 18 Mar 2026 15:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/kabul-strike-17326-1773717488.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tarique working from home during Eid holiday]]></title>
+            <description><![CDATA[[Bangladesh] Tarique working from home during Eid holiday]]></description>
+            <link>https://bdnews24.com/bangladesh/49e533018d79</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/49e533018d79</guid>
+            <pubDate>Wed, 18 Mar 2026 14:41:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025September/SM/tarique-rahman-250925-01-1758784959.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Iran war: Most civilians killed in UAE were South Asians]]></title>
             <description><![CDATA[[World] Iran war: Most civilians killed in UAE were South Asians]]></description>
@@ -89,8 +145,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/saudi-moon-sighting-210323-1773811800.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[3 die in Bogura road crash]]></title>
-            <description><![CDATA[[Bangladesh] 3 die in Bogura road crash]]></description>
+            <title><![CDATA[3 die as microbus veers into road divider]]></title>
+            <description><![CDATA[[Bangladesh] 3 die as microbus veers into road divider]]></description>
             <link>https://bdnews24.com/bangladesh/eba07d3dc1e2</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/eba07d3dc1e2</guid>
             <pubDate>Wed, 18 Mar 2026 11:17:00 GMT</pubDate>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/5f109cb17c0a</guid>
             <pubDate>Wed, 18 Mar 2026 10:49:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/eid-train-180326-01-1773808554.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Amazon plans sharp cut in packages going through US Post Office]]></title>
-            <description><![CDATA[[Business] Amazon plans sharp cut in packages going through US Post Office]]></description>
-            <link>https://bdnews24.com/business/ba3cf297a93d</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/ba3cf297a93d</guid>
-            <pubDate>Wed, 18 Mar 2026 10:22:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-amazon-180326-01-1773807666.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pediatricians win Round 1 in vaccine fight, but damage has been done]]></title>
-            <description><![CDATA[[Health] Pediatricians win Round 1 in vaccine fight, but damage has been done]]></description>
-            <link>https://bdnews24.com/health/0a5ffede5007</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/0a5ffede5007</guid>
-            <pubDate>Wed, 18 Mar 2026 10:18:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-vaccine-180326-01-1773807466.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil prices ease as Iraqi, Kurdish authorities agree to export deal]]></title>
-            <description><![CDATA[[Business] Oil prices ease as Iraqi, Kurdish authorities agree to export deal]]></description>
-            <link>https://bdnews24.com/business/c75e46a5a3b0</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/c75e46a5a3b0</guid>
-            <pubDate>Wed, 18 Mar 2026 10:01:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025August/SM/oil-pump-jack-280825-01-1756350288.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iraq, Kurds reach deal to resume oil exports to Turkey port]]></title>
-            <description><![CDATA[[Middle East] Iraq, Kurds reach deal to resume oil exports to Turkey port]]></description>
-            <link>https://bdnews24.com/world/middle-east/7b734c37d42b</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/7b734c37d42b</guid>
-            <pubDate>Wed, 18 Mar 2026 09:57:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iraq-kurds-agreement-oil-turkey-180326-01-1773806175.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Drone attack targets US embassy in Baghdad]]></title>
-            <description><![CDATA[[Middle East] Drone attack targets US embassy in Baghdad]]></description>
-            <link>https://bdnews24.com/world/middle-east/ad3ce894994f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/ad3ce894994f</guid>
-            <pubDate>Wed, 18 Mar 2026 09:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-embassy-baghdad-180326-01-1773805754.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US aircraft carrier Ford goes in for maintenance]]></title>
-            <description><![CDATA[[World] US aircraft carrier Ford goes in for maintenance]]></description>
-            <link>https://bdnews24.com/world/77974ed70984</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/77974ed70984</guid>
-            <pubDate>Wed, 18 Mar 2026 09:44:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/2023-10/202473fd-c615-4c30-9148-541867e4a44f/us_middle_east_161223_01.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[5 die in fire outside Mexico oil refinery]]></title>
-            <description><![CDATA[[Americas] 5 die in fire outside Mexico oil refinery]]></description>
-            <link>https://bdnews24.com/world/americas/ada79b49dcaa</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/ada79b49dcaa</guid>
-            <pubDate>Wed, 18 Mar 2026 09:39:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/mexico-oil-refinery-fire-180326-01-1773805143.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
