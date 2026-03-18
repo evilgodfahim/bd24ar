@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Mar 2026 17:52:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 18:40:59 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Mar 2026 17:52:58 GMT</pubDate>
+        <pubDate>Wed, 18 Mar 2026 18:40:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Pakistan, Afghanistan to pause fighting for Eid]]></title>
+            <description><![CDATA[[World] Pakistan, Afghanistan to pause fighting for Eid]]></description>
+            <link>https://bdnews24.com/world/21be8920e974</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/21be8920e974</guid>
+            <pubDate>Thu, 19 Mar 2026 00:37:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/kabul-attack-190326-01-1773858978.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nilsagar train crash after driver ‘ignores signals’]]></title>
+            <description><![CDATA[[Bangladesh] Nilsagar train crash after driver ‘ignores signals’]]></description>
+            <link>https://bdnews24.com/bangladesh/624b0f615681</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/624b0f615681</guid>
+            <pubDate>Thu, 19 Mar 2026 00:27:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/naogaon-train-drailed-cause-180326-01-1773855285.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[China, India move tankers through Hormuz: Gabbard]]></title>
+            <description><![CDATA[[World] China, India move tankers through Hormuz: Gabbard]]></description>
+            <link>https://bdnews24.com/world/ac32bf985141</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ac32bf985141</guid>
+            <pubDate>Thu, 19 Mar 2026 00:22:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/strait-of-hormuz-280226-01-1772307517.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran missile debris damages 3 private jets at Ben Gurion]]></title>
+            <description><![CDATA[[Aviation] Iran missile debris damages 3 private jets at Ben Gurion]]></description>
+            <link>https://bdnews24.com/aviation/86e0606d1bfa</link>
+            <guid isPermaLink="true">https://bdnews24.com/aviation/86e0606d1bfa</guid>
+            <pubDate>Wed, 18 Mar 2026 23:55:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/ben-gurion-180326-01-1773856456.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vatican cardinal urges US, Israel to end war]]></title>
+            <description><![CDATA[[World] Vatican cardinal urges US, Israel to end war]]></description>
+            <link>https://bdnews24.com/world/a2b5cb7759bd</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/a2b5cb7759bd</guid>
+            <pubDate>Wed, 18 Mar 2026 23:53:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/irans-cluster-missile-18326-1773813442.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Nilsagar derailment: ‘Passengers leapt from train roof’]]></title>
             <description><![CDATA[[Bangladesh] Nilsagar derailment: ‘Passengers leapt from train roof’]]></description>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/d52bbcf1c640</guid>
             <pubDate>Wed, 18 Mar 2026 20:15:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mymensingh-baby-train-180326-01-1773834001.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[March 18, 2026]]></title>
-            <description><![CDATA[[Image] March 18, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/88ccdbdefa01</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/88ccdbdefa01</guid>
-            <pubDate>Wed, 18 Mar 2026 20:08:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/indegenous-water-pot-180326-05-1773831270.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sajek fully booked for Eid holidays]]></title>
-            <description><![CDATA[[Bangladesh] Sajek fully booked for Eid holidays]]></description>
-            <link>https://bdnews24.com/bangladesh/0805b013de45</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0805b013de45</guid>
-            <pubDate>Wed, 18 Mar 2026 20:03:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rangamati-tourist-180326-01-1773836792.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japan crush S Korea to set up Australia final]]></title>
-            <description><![CDATA[[World] Japan crush S Korea to set up Australia final]]></description>
-            <link>https://bdnews24.com/world/fc1a32cebef2</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/fc1a32cebef2</guid>
-            <pubDate>Wed, 18 Mar 2026 19:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-player-emotional-toll-11032026-01-1773245999.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thunderstorms rage across Dhaka and beyond]]></title>
-            <description><![CDATA[[Bangladesh] Thunderstorms rage across Dhaka and beyond]]></description>
-            <link>https://bdnews24.com/bangladesh/0352dc32d70f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0352dc32d70f</guid>
-            <pubDate>Wed, 18 Mar 2026 19:21:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rain-mohakhali-130326-003-1773840467.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jamuna Bridge records Tk 34mn toll in 24 hours]]></title>
-            <description><![CDATA[[Bangladesh] Jamuna Bridge records Tk 34mn toll in 24 hours]]></description>
-            <link>https://bdnews24.com/bangladesh/200be8de84dc</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/200be8de84dc</guid>
-            <pubDate>Wed, 18 Mar 2026 19:19:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tangail-toll-180326-1773829540.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
