@@ -4,10 +4,74 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Mar 2026 14:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 15:58:43 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Mar 2026 14:13:22 GMT</pubDate>
+        <pubDate>Wed, 18 Mar 2026 15:58:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Saudi Arabia to celebrate Eid on Friday]]></title>
+            <description><![CDATA[[Bangladesh] Saudi Arabia to celebrate Eid on Friday]]></description>
+            <link>https://bdnews24.com/bangladesh/91b79f3ade84</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/91b79f3ade84</guid>
+            <pubDate>Wed, 18 Mar 2026 21:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/moon-saudi-arab-eid-180326-1773847858.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Researchers find iPhone spyware targeting millions]]></title>
+            <description><![CDATA[[Technology] Researchers find iPhone spyware targeting millions]]></description>
+            <link>https://bdnews24.com/technology/f921f8ca97be</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/f921f8ca97be</guid>
+            <pubDate>Wed, 18 Mar 2026 21:41:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iphone-spyware-180326-01-1773848413.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[First an oil shock, now a strong dollar surprise?]]></title>
+            <description><![CDATA[[Opinion] First an oil shock, now a strong dollar surprise?]]></description>
+            <link>https://bdnews24.com/opinion/86e35be94c44</link>
+            <guid isPermaLink="true">https://bdnews24.com/opinion/86e35be94c44</guid>
+            <pubDate>Wed, 18 Mar 2026 21:24:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-dollar-180326-01-1773847390.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Afghans scour bombed rehab centre for loved ones]]></title>
+            <description><![CDATA[[World] Afghans scour bombed rehab centre for loved ones]]></description>
+            <link>https://bdnews24.com/world/52850173a057</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/52850173a057</guid>
+            <pubDate>Wed, 18 Mar 2026 20:58:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/afghanistan-clinic-180326-01-1773845828.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nilsagar Express derailment under scanner]]></title>
+            <description><![CDATA[[Bangladesh] Nilsagar Express derailment under scanner]]></description>
+            <link>https://bdnews24.com/bangladesh/875dfdbd3a49</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/875dfdbd3a49</guid>
+            <pubDate>Wed, 18 Mar 2026 20:53:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bogra-train-accident-180326-01-1773833559.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[1 dies as ferry crushes boat at Sadarghat]]></title>
+            <description><![CDATA[[Bangladesh] 1 dies as ferry crushes boat at Sadarghat]]></description>
+            <link>https://bdnews24.com/bangladesh/7f817b3406a5</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7f817b3406a5</guid>
+            <pubDate>Wed, 18 Mar 2026 20:31:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/sadarghat-accident-180326-01-1773842648.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US senators grill Trump intelligence team over Iran war]]></title>
+            <description><![CDATA[[World] US senators grill Trump intelligence team over Iran war]]></description>
+            <link>https://bdnews24.com/world/8557fe888b21</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/8557fe888b21</guid>
+            <pubDate>Wed, 18 Mar 2026 20:15:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/shivalik-16032026-1773672470.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman gives birth on moving train]]></title>
+            <description><![CDATA[[Bangladesh] Woman gives birth on moving train]]></description>
+            <link>https://bdnews24.com/bangladesh/d52bbcf1c640</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d52bbcf1c640</guid>
+            <pubDate>Wed, 18 Mar 2026 20:15:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mymensingh-baby-train-180326-01-1773834001.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[March 18, 2026]]></title>
             <description><![CDATA[[Image] March 18, 2026]]></description>
@@ -103,70 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/7f7ba841aadd</guid>
             <pubDate>Wed, 18 Mar 2026 16:42:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/donald-trump-180326-01-1773830434.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[What will the weather be like on Eid?]]></title>
-            <description><![CDATA[[Bangladesh] What will the weather be like on Eid?]]></description>
-            <link>https://bdnews24.com/bangladesh/f9b8af90f9a4</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f9b8af90f9a4</guid>
-            <pubDate>Wed, 18 Mar 2026 16:12:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-04/0ea8f389-a2cf-4764-b2c1-d7c9d518fe37/advance_eid_namaz_210423_04.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fakhrul to handle PMO parliamentary affairs in PM’s absence]]></title>
-            <description><![CDATA[[Bangladesh] Fakhrul to handle PMO parliamentary affairs in PM’s absence]]></description>
-            <link>https://bdnews24.com/bangladesh/15cbd7e70719</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/15cbd7e70719</guid>
-            <pubDate>Wed, 18 Mar 2026 15:58:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tarique-rahman-national-parliament-house-120326-019-1773317140.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[50 injured as Nilsagar Express train derails in Bogura]]></title>
-            <description><![CDATA[[Bangladesh] 50 injured as Nilsagar Express train derails in Bogura]]></description>
-            <link>https://bdnews24.com/bangladesh/286c343299f0</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/286c343299f0</guid>
-            <pubDate>Wed, 18 Mar 2026 15:37:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/train-accident-adomdighi-180326-00-1773826231.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nuclear doctrine unlikely to change: Iran]]></title>
-            <description><![CDATA[[Middle East] Nuclear doctrine unlikely to change: Iran]]></description>
-            <link>https://bdnews24.com/world/middle-east/e0492bbc81b6</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/e0492bbc81b6</guid>
-            <pubDate>Wed, 18 Mar 2026 15:30:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-fm-18326-1773826145.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australia’s Molineux fit ahead of Windies tour]]></title>
-            <description><![CDATA[[Cricket] Australia’s Molineux fit ahead of Windies tour]]></description>
-            <link>https://bdnews24.com/cricket/ce8b5b9182e1</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/ce8b5b9182e1</guid>
-            <pubDate>Wed, 18 Mar 2026 15:19:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/sophie-molineux-180326-1773825985.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No celebrations after DNCC Eid congregation]]></title>
-            <description><![CDATA[[Bangladesh] No celebrations after DNCC Eid congregation]]></description>
-            <link>https://bdnews24.com/bangladesh/b0fb3bfa1177</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b0fb3bfa1177</guid>
-            <pubDate>Wed, 18 Mar 2026 15:19:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/eid-jamat-dncc-190326-01-1773821994.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Suicide blasts show Nigerian jihadists’ resilience]]></title>
-            <description><![CDATA[[THE LONG READ] Suicide blasts show Nigerian jihadists’ resilience]]></description>
-            <link>https://bdnews24.com/the-long-read/4c3dc4a407f1</link>
-            <guid isPermaLink="true">https://bdnews24.com/the-long-read/4c3dc4a407f1</guid>
-            <pubDate>Wed, 18 Mar 2026 15:16:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/nigeria-18326-1773825267.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[143 dead in Kabul rehab centre bombing: UN agency]]></title>
-            <description><![CDATA[[Asia Pacific] 143 dead in Kabul rehab centre bombing: UN agency]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/d94800343141</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/d94800343141</guid>
-            <pubDate>Wed, 18 Mar 2026 15:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/kabul-strike-17326-1773717488.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
