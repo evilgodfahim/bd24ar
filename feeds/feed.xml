@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Mar 2026 06:42:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 07:38:49 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Mar 2026 06:42:27 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 07:38:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[1,771 Eid congregations in Dhaka, no security concerns: police]]></title>
+            <description><![CDATA[[Bangladesh] 1,771 Eid congregations in Dhaka, no security concerns: police]]></description>
+            <link>https://bdnews24.com/bangladesh/3606b261e4bd</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3606b261e4bd</guid>
+            <pubDate>Thu, 19 Mar 2026 13:25:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/eid-jamat-dmp-sorwar-190326-01-1773905076.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[President, PM to offer Eid prayers at National Eidgah]]></title>
+            <description><![CDATA[[Bangladesh] President, PM to offer Eid prayers at National Eidgah]]></description>
+            <link>https://bdnews24.com/bangladesh/6834d290c4f0</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6834d290c4f0</guid>
+            <pubDate>Thu, 19 Mar 2026 13:20:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/natioanal-eidgah-190326-00-1773903257.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Smoke from Ctg’s Terry Bazar fire kills 2]]></title>
+            <description><![CDATA[[Bangladesh] Smoke from Ctg’s Terry Bazar fire kills 2]]></description>
+            <link>https://bdnews24.com/bangladesh/6defddc840f2</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6defddc840f2</guid>
+            <pubDate>Thu, 19 Mar 2026 12:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/chattogram-teri-bazar-fire-190326-01-1773902979.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Delays, overcrowding at Kamalapur after rail accident]]></title>
             <description><![CDATA[[Bangladesh] Delays, overcrowding at Kamalapur after rail accident]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/b2e99e7394dd</guid>
             <pubDate>Thu, 19 Mar 2026 09:18:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-wc-19326-1773890282.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US weighs military reinforcements in Iran war]]></title>
-            <description><![CDATA[[World] US weighs military reinforcements in Iran war]]></description>
-            <link>https://bdnews24.com/world/cdf8c0583042</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/cdf8c0583042</guid>
-            <pubDate>Thu, 19 Mar 2026 09:08:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-tehran-19326-1773889693.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Atletico survive scare at Tottenham]]></title>
-            <description><![CDATA[[Sport] Atletico survive scare at Tottenham]]></description>
-            <link>https://bdnews24.com/sport/8e78307e054f</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/8e78307e054f</guid>
-            <pubDate>Thu, 19 Mar 2026 08:19:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/atletico-madrid-190326-01-1773886756.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[AFCON title: Senegal seeks corruption probe]]></title>
-            <description><![CDATA[[Sport] AFCON title: Senegal seeks corruption probe]]></description>
-            <link>https://bdnews24.com/sport/27a9884deef9</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/27a9884deef9</guid>
-            <pubDate>Thu, 19 Mar 2026 08:11:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/afcon-senegal-190326-01-1773886240.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
