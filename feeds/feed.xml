@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Mar 2026 16:43:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 17:45:47 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Mar 2026 16:43:56 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 17:45:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Mexico invites Spain’s king to WC opener]]></title>
+            <description><![CDATA[[World] Mexico invites Spain’s king to WC opener]]></description>
+            <link>https://bdnews24.com/world/fddaa18c9e95</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/fddaa18c9e95</guid>
+            <pubDate>Thu, 19 Mar 2026 23:33:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/wc-trophy-11326-1773210318.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[AL leader Hasu held in dhaka]]></title>
+            <description><![CDATA[[Politics] AL leader Hasu held in dhaka]]></description>
+            <link>https://bdnews24.com/politics/2492198b036a</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/2492198b036a</guid>
+            <pubDate>Thu, 19 Mar 2026 23:33:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/hasu-councilor-ward-dhaka-190326-1773940370.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Futsal tournament begins at SEKO Arena]]></title>
+            <description><![CDATA[[Sport] Futsal tournament begins at SEKO Arena]]></description>
+            <link>https://bdnews24.com/sport/3ca02e58c764</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/3ca02e58c764</guid>
+            <pubDate>Thu, 19 Mar 2026 23:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/img-20260319-wa0013-1773939762.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police, UP chairman attacked over Teesta stone lifting]]></title>
+            <description><![CDATA[[Bangladesh] Police, UP chairman attacked over Teesta stone lifting]]></description>
+            <link>https://bdnews24.com/bangladesh/a91b24a0478c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a91b24a0478c</guid>
+            <pubDate>Thu, 19 Mar 2026 22:58:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/nilphamari-tista-stone-hamla-190326-01-1773932074.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladeshi mariners anchored in troubled Gulf waters]]></title>
+            <description><![CDATA[[Bangladesh] Bangladeshi mariners anchored in troubled Gulf waters]]></description>
+            <link>https://bdnews24.com/bangladesh/cdc1aad8c45e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cdc1aad8c45e</guid>
+            <pubDate>Thu, 19 Mar 2026 22:56:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/banglar-joyjatra-130326-01-1773386892.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Dhaka empties out for Eid holidays]]></title>
             <description><![CDATA[[Image] Dhaka empties out for Eid holidays]]></description>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/entertainment/cc95cef91bc4</guid>
             <pubDate>Thu, 19 Mar 2026 19:39:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/kevin-spacey-19032026-01-1773927523.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eid on Saturday as Shawwal moon not sighted]]></title>
-            <description><![CDATA[[Bangladesh] Eid on Saturday as Shawwal moon not sighted]]></description>
-            <link>https://bdnews24.com/bangladesh/8618af4cfd38</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8618af4cfd38</guid>
-            <pubDate>Thu, 19 Mar 2026 19:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/import/media/2016/06/06/saudi-moon-sight.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran urges coordination with Turkey, Egypt, Pakistan]]></title>
-            <description><![CDATA[[World] Iran urges coordination with Turkey, Egypt, Pakistan]]></description>
-            <link>https://bdnews24.com/world/a5303f8298e6</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/a5303f8298e6</guid>
-            <pubDate>Thu, 19 Mar 2026 19:27:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/israel-urges-coordination-19032026-01-1773926819.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Energy prices spike after Iran hits Qatar LNG]]></title>
-            <description><![CDATA[[World] Energy prices spike after Iran hits Qatar LNG]]></description>
-            <link>https://bdnews24.com/world/1443c56d827a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/1443c56d827a</guid>
-            <pubDate>Thu, 19 Mar 2026 19:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/ras-laffan-190326-01-1773926671.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Drone attack from Sudan kills 17 in Chad]]></title>
-            <description><![CDATA[[Africa] Drone attack from Sudan kills 17 in Chad]]></description>
-            <link>https://bdnews24.com/world/africa/913bc68a7f9f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/africa/913bc68a7f9f</guid>
-            <pubDate>Thu, 19 Mar 2026 19:06:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/chad-attack-190326-01-1773925542.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel reopens Gaza crossing amid truce push]]></title>
-            <description><![CDATA[[World] Israel reopens Gaza crossing amid truce push]]></description>
-            <link>https://bdnews24.com/world/06bd83c81c69</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/06bd83c81c69</guid>
-            <pubDate>Thu, 19 Mar 2026 18:42:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/palestinians-iftar-030326-01-1772534195.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
