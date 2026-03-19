@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Mar 2026 15:40:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 16:43:56 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Mar 2026 15:40:54 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 16:43:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Dhaka empties out for Eid holidays]]></title>
+            <description><![CDATA[[Image] Dhaka empties out for Eid holidays]]></description>
+            <link>https://bdnews24.com/media-en/image/335d5d8549e3</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/335d5d8549e3</guid>
+            <pubDate>Thu, 19 Mar 2026 22:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/traffic-free-road-eid-holiday-190326-017-1773929240.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[March 19, 2026]]></title>
+            <description><![CDATA[[Image] March 19, 2026]]></description>
+            <link>https://bdnews24.com/media-en/image/ca42686d9ff5</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/ca42686d9ff5</guid>
+            <pubDate>Thu, 19 Mar 2026 22:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/eid-journey-sadarghat-launch-terminal-190326-006-1773933846.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Politicians head home for Eid]]></title>
+            <description><![CDATA[[Politics] Politicians head home for Eid]]></description>
+            <link>https://bdnews24.com/politics/0fc7f08e45ed</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/0fc7f08e45ed</guid>
+            <pubDate>Thu, 19 Mar 2026 21:53:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/eidgah-preparation-160326-02-1773646115.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Iran war boosts Netanyahu, bruises Trump, Gulf states]]></title>
             <description><![CDATA[[World] Iran war boosts Netanyahu, bruises Trump, Gulf states]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/06bd83c81c69</guid>
             <pubDate>Thu, 19 Mar 2026 18:42:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/palestinians-iftar-030326-01-1772534195.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran executes 3 over January protests]]></title>
-            <description><![CDATA[[World] Iran executes 3 over January protests]]></description>
-            <link>https://bdnews24.com/world/e4946a17f987</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/e4946a17f987</guid>
-            <pubDate>Thu, 19 Mar 2026 18:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tehran-strike-190326-01-1773913322.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran arrests 97 for ‘working with Israel’]]></title>
-            <description><![CDATA[[World] Iran arrests 97 for ‘working with Israel’]]></description>
-            <link>https://bdnews24.com/world/4f50ded06d32</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/4f50ded06d32</guid>
-            <pubDate>Thu, 19 Mar 2026 17:57:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-arrests-97-19032026-01-1773921373.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mother, daughter found dead in Bandarban]]></title>
-            <description><![CDATA[[Bangladesh] Mother, daughter found dead in Bandarban]]></description>
-            <link>https://bdnews24.com/bangladesh/d744aead1b77</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d744aead1b77</guid>
-            <pubDate>Thu, 19 Mar 2026 17:12:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bandorban-deadbody-190326-1773915001.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
