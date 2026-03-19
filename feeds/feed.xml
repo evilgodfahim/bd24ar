@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Mar 2026 04:10:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 05:49:43 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Mar 2026 04:10:09 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 05:49:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[‘Nilsagar’ accident: Rail connection yet to be restored]]></title>
+            <description><![CDATA[[Bangladesh] ‘Nilsagar’ accident: Rail connection yet to be restored]]></description>
+            <link>https://bdnews24.com/bangladesh/046e1d131ed5</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/046e1d131ed5</guid>
+            <pubDate>Thu, 19 Mar 2026 11:09:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/nouga-train-accident-01-1773894762.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump vows no more attacks by Israel on Iran gas field]]></title>
+            <description><![CDATA[[Middle East] Trump vows no more attacks by Israel on Iran gas field]]></description>
+            <link>https://bdnews24.com/world/middle-east/98ac78a285f2</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/98ac78a285f2</guid>
+            <pubDate>Thu, 19 Mar 2026 10:56:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/red-crescent-iran-190326-01-1773896141.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Apple's China smartphone sales jump 23%]]></title>
+            <description><![CDATA[[Technology] Apple's China smartphone sales jump 23%]]></description>
+            <link>https://bdnews24.com/technology/692bb47e9e4e</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/692bb47e9e4e</guid>
+            <pubDate>Thu, 19 Mar 2026 10:29:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/apple-store-beijing-190326-01-1773894567.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[UCL: Liverpool dismantle Galatasaray]]></title>
+            <description><![CDATA[[Sport] UCL: Liverpool dismantle Galatasaray]]></description>
+            <link>https://bdnews24.com/sport/f5f6a7cb80f6</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/f5f6a7cb80f6</guid>
+            <pubDate>Thu, 19 Mar 2026 10:19:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/ucl-liverpool-galatasaray-190326-01-1773893943.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mystery AI model revealed to be from Xiaomi]]></title>
+            <description><![CDATA[[Technology] Mystery AI model revealed to be from Xiaomi]]></description>
+            <link>https://bdnews24.com/technology/67cc80dcaac4</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/67cc80dcaac4</guid>
+            <pubDate>Thu, 19 Mar 2026 10:17:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/mystery-ai-model-xiaomi-190326-01-1773893820.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian shares set to open lower on oil spike]]></title>
+            <description><![CDATA[[Economy] Indian shares set to open lower on oil spike]]></description>
+            <link>https://bdnews24.com/economy/13bac85a22f8</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/13bac85a22f8</guid>
+            <pubDate>Thu, 19 Mar 2026 10:11:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/india-bse-190326-01-1773893407.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Stocks slump, oil gains on worsening Mideast war]]></title>
             <description><![CDATA[[Economy] Stocks slump, oil gains on worsening Mideast war]]></description>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/4d313e0be4bd</guid>
             <pubDate>Thu, 19 Mar 2026 01:52:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/ship-attack-hormuz-120326-01-1773287158-1773304815.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran blames Israel for gas field attack]]></title>
-            <description><![CDATA[[World] Iran blames Israel for gas field attack]]></description>
-            <link>https://bdnews24.com/world/a1405684ee49</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/a1405684ee49</guid>
-            <pubDate>Thu, 19 Mar 2026 01:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-threaten-gulf-energy-190326-01-1773862471.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kabul rehab centre patients fear what’s next]]></title>
-            <description><![CDATA[[Health] Kabul rehab centre patients fear what’s next]]></description>
-            <link>https://bdnews24.com/health/01d0961a1852</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/01d0961a1852</guid>
-            <pubDate>Thu, 19 Mar 2026 01:01:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/kabul-clinic-190326-01-1773860459.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bad weather diverts flights to Ctg]]></title>
-            <description><![CDATA[[Bangladesh] Bad weather diverts flights to Ctg]]></description>
-            <link>https://bdnews24.com/bangladesh/f5f896b27b10</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f5f896b27b10</guid>
-            <pubDate>Thu, 19 Mar 2026 00:59:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2022-11/c9d69874-0204-4082-95e8-f746d4b7aab3/shah_amanat_international_airport_131122_02.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan, Afghanistan to pause fighting for Eid]]></title>
-            <description><![CDATA[[World] Pakistan, Afghanistan to pause fighting for Eid]]></description>
-            <link>https://bdnews24.com/world/21be8920e974</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/21be8920e974</guid>
-            <pubDate>Thu, 19 Mar 2026 00:37:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/kabul-attack-190326-01-1773858978.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nilsagar train crash after driver ‘ignores signals’]]></title>
-            <description><![CDATA[[Bangladesh] Nilsagar train crash after driver ‘ignores signals’]]></description>
-            <link>https://bdnews24.com/bangladesh/624b0f615681</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/624b0f615681</guid>
-            <pubDate>Thu, 19 Mar 2026 00:27:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/naogaon-train-drailed-cause-180326-01-1773855285.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[China, India move tankers through Hormuz: Gabbard]]></title>
-            <description><![CDATA[[World] China, India move tankers through Hormuz: Gabbard]]></description>
-            <link>https://bdnews24.com/world/ac32bf985141</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ac32bf985141</guid>
-            <pubDate>Thu, 19 Mar 2026 00:22:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/strait-of-hormuz-280226-01-1772307517.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
