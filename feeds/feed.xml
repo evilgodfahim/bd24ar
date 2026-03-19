@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Mar 2026 11:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 12:34:06 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Mar 2026 11:26:12 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 12:34:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iran executes 3 over January protests]]></title>
+            <description><![CDATA[[World] Iran executes 3 over January protests]]></description>
+            <link>https://bdnews24.com/world/e4946a17f987</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e4946a17f987</guid>
+            <pubDate>Thu, 19 Mar 2026 18:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tehran-strike-190326-01-1773913322.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran arrests 97 for ‘working with Israel’]]></title>
+            <description><![CDATA[[World] Iran arrests 97 for ‘working with Israel’]]></description>
+            <link>https://bdnews24.com/world/4f50ded06d32</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/4f50ded06d32</guid>
+            <pubDate>Thu, 19 Mar 2026 17:57:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-arrests-97-19032026-01-1773921373.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Mother, daughter found dead in Bandarban]]></title>
             <description><![CDATA[[Bangladesh] Mother, daughter found dead in Bandarban]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/98ac78a285f2</guid>
             <pubDate>Thu, 19 Mar 2026 10:56:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/red-crescent-iran-190326-01-1773896141.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Apple's China smartphone sales jump 23%]]></title>
-            <description><![CDATA[[Technology] Apple's China smartphone sales jump 23%]]></description>
-            <link>https://bdnews24.com/technology/692bb47e9e4e</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/692bb47e9e4e</guid>
-            <pubDate>Thu, 19 Mar 2026 10:29:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/apple-store-beijing-190326-01-1773894567.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UCL: Liverpool dismantle Galatasaray]]></title>
-            <description><![CDATA[[Sport] UCL: Liverpool dismantle Galatasaray]]></description>
-            <link>https://bdnews24.com/sport/f5f6a7cb80f6</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/f5f6a7cb80f6</guid>
-            <pubDate>Thu, 19 Mar 2026 10:19:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/ucl-liverpool-galatasaray-190326-01-1773893943.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
