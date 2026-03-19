@@ -4,10 +4,74 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Mar 2026 12:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 14:00:59 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Mar 2026 12:34:06 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 14:00:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[More flights cancelled as Middle East conflict rises]]></title>
+            <description><![CDATA[[World] More flights cancelled as Middle East conflict rises]]></description>
+            <link>https://bdnews24.com/world/ab6af12f69aa</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ab6af12f69aa</guid>
+            <pubDate>Thu, 19 Mar 2026 19:56:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/more-cancelled-flights-19032026-01-1773928466.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Modi greets Tarique on Eid]]></title>
+            <description><![CDATA[[Bangladesh] Modi greets Tarique on Eid]]></description>
+            <link>https://bdnews24.com/bangladesh/450ebdd504c8</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/450ebdd504c8</guid>
+            <pubDate>Thu, 19 Mar 2026 19:40:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/modi-tarique-140226-02-1771094640.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kevin Spacey settles UK lawsuits over ‘sexual assault’]]></title>
+            <description><![CDATA[[Entertainment] Kevin Spacey settles UK lawsuits over ‘sexual assault’]]></description>
+            <link>https://bdnews24.com/entertainment/cc95cef91bc4</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/cc95cef91bc4</guid>
+            <pubDate>Thu, 19 Mar 2026 19:39:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/kevin-spacey-19032026-01-1773927523.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eid on Saturday as Shawwal moon not sighted]]></title>
+            <description><![CDATA[[Bangladesh] Eid on Saturday as Shawwal moon not sighted]]></description>
+            <link>https://bdnews24.com/bangladesh/8618af4cfd38</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8618af4cfd38</guid>
+            <pubDate>Thu, 19 Mar 2026 19:34:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/import/media/2016/06/06/saudi-moon-sight.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran urges coordination with Turkey, Egypt, Pakistan]]></title>
+            <description><![CDATA[[World] Iran urges coordination with Turkey, Egypt, Pakistan]]></description>
+            <link>https://bdnews24.com/world/a5303f8298e6</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/a5303f8298e6</guid>
+            <pubDate>Thu, 19 Mar 2026 19:27:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/israel-urges-coordination-19032026-01-1773926819.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Energy prices surge as Iran targets Gulf facilities]]></title>
+            <description><![CDATA[[World] Energy prices surge as Iran targets Gulf facilities]]></description>
+            <link>https://bdnews24.com/world/1443c56d827a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/1443c56d827a</guid>
+            <pubDate>Thu, 19 Mar 2026 19:26:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/ras-laffan-190326-01-1773926671.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Drone attack from Sudan kills 17 in Chad]]></title>
+            <description><![CDATA[[Africa] Drone attack from Sudan kills 17 in Chad]]></description>
+            <link>https://bdnews24.com/world/africa/913bc68a7f9f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/africa/913bc68a7f9f</guid>
+            <pubDate>Thu, 19 Mar 2026 19:06:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/chad-attack-190326-01-1773925542.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel reopens Gaza crossing amid truce push]]></title>
+            <description><![CDATA[[World] Israel reopens Gaza crossing amid truce push]]></description>
+            <link>https://bdnews24.com/world/06bd83c81c69</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/06bd83c81c69</guid>
+            <pubDate>Thu, 19 Mar 2026 18:42:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/palestinians-iftar-030326-01-1772534195.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Iran executes 3 over January protests]]></title>
             <description><![CDATA[[World] Iran executes 3 over January protests]]></description>
@@ -103,70 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/80862367bcba</guid>
             <pubDate>Thu, 19 Mar 2026 14:21:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rakib-killed-shaheed-minar-150326-1773603812.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PM Tarique will not move residence to Jamuna]]></title>
-            <description><![CDATA[[Bangladesh] PM Tarique will not move residence to Jamuna]]></description>
-            <link>https://bdnews24.com/bangladesh/f41259a48310</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f41259a48310</guid>
-            <pubDate>Thu, 19 Mar 2026 13:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024August/SM/jamuna-state-guest-house-080824-04-1723097948.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[1,771 Eid congregations in Dhaka, no security concerns: police]]></title>
-            <description><![CDATA[[Bangladesh] 1,771 Eid congregations in Dhaka, no security concerns: police]]></description>
-            <link>https://bdnews24.com/bangladesh/3606b261e4bd</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3606b261e4bd</guid>
-            <pubDate>Thu, 19 Mar 2026 13:25:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/eid-jamat-dmp-sorwar-190326-01-1773905076.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[President, PM to offer Eid prayers at National Eidgah]]></title>
-            <description><![CDATA[[Bangladesh] President, PM to offer Eid prayers at National Eidgah]]></description>
-            <link>https://bdnews24.com/bangladesh/6834d290c4f0</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6834d290c4f0</guid>
-            <pubDate>Thu, 19 Mar 2026 13:20:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/natioanal-eidgah-190326-00-1773903257.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2 deaths in Ctg fire: Enclosed glass ‘trapped smoke’]]></title>
-            <description><![CDATA[[Bangladesh] 2 deaths in Ctg fire: Enclosed glass ‘trapped smoke’]]></description>
-            <link>https://bdnews24.com/bangladesh/6defddc840f2</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6defddc840f2</guid>
-            <pubDate>Thu, 19 Mar 2026 12:50:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/chattogram-teri-bazar-fire-190326-01-1773902979.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Delays, overcrowding at Kamalapur after rail accident]]></title>
-            <description><![CDATA[[Bangladesh] Delays, overcrowding at Kamalapur after rail accident]]></description>
-            <link>https://bdnews24.com/bangladesh/a27d7a39420e</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a27d7a39420e</guid>
-            <pubDate>Thu, 19 Mar 2026 12:12:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/kamalapur-station-19326-1773900726.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Child’s body recovered from Sunamganj Haor]]></title>
-            <description><![CDATA[[Bangladesh] Child’s body recovered from Sunamganj Haor]]></description>
-            <link>https://bdnews24.com/bangladesh/eda874a0999f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/eda874a0999f</guid>
-            <pubDate>Thu, 19 Mar 2026 12:11:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/sunamganj-clild-deadbody-190326-1773897887.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Nilsagar’ accident: Rail connection yet to be restored]]></title>
-            <description><![CDATA[[Bangladesh] ‘Nilsagar’ accident: Rail connection yet to be restored]]></description>
-            <link>https://bdnews24.com/bangladesh/046e1d131ed5</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/046e1d131ed5</guid>
-            <pubDate>Thu, 19 Mar 2026 11:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/nouga-train-accident-01-1773894762.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump vows no more attacks by Israel on Iran gas field]]></title>
-            <description><![CDATA[[Middle East] Trump vows no more attacks by Israel on Iran gas field]]></description>
-            <link>https://bdnews24.com/world/middle-east/98ac78a285f2</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/98ac78a285f2</guid>
-            <pubDate>Thu, 19 Mar 2026 10:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/red-crescent-iran-190326-01-1773896141.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
