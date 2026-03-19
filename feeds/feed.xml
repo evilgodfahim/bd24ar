@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Mar 2026 07:38:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 08:28:45 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Mar 2026 07:38:49 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 08:28:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[5 held over murder of college student at Shaheed Minar]]></title>
+            <description><![CDATA[[Bangladesh] 5 held over murder of college student at Shaheed Minar]]></description>
+            <link>https://bdnews24.com/bangladesh/80862367bcba</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/80862367bcba</guid>
+            <pubDate>Thu, 19 Mar 2026 14:21:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rakib-killed-shaheed-minar-150326-1773603812.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM Tarique will not move residence to Jamuna]]></title>
+            <description><![CDATA[[Bangladesh] PM Tarique will not move residence to Jamuna]]></description>
+            <link>https://bdnews24.com/bangladesh/f41259a48310</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f41259a48310</guid>
+            <pubDate>Thu, 19 Mar 2026 13:56:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024August/SM/jamuna-state-guest-house-080824-04-1723097948.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[1,771 Eid congregations in Dhaka, no security concerns: police]]></title>
             <description><![CDATA[[Bangladesh] 1,771 Eid congregations in Dhaka, no security concerns: police]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/europe/e06ebf88c929</guid>
             <pubDate>Thu, 19 Mar 2026 09:32:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/friedrich-merz-190326-01-1773891108.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Social media overuse erodes youth wellbeing: report]]></title>
-            <description><![CDATA[[Lifestyle] Social media overuse erodes youth wellbeing: report]]></description>
-            <link>https://bdnews24.com/lifestyle/67562535c9d2</link>
-            <guid isPermaLink="true">https://bdnews24.com/lifestyle/67562535c9d2</guid>
-            <pubDate>Thu, 19 Mar 2026 09:22:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026January/SM/ban-teen-social-media-3100126-1769849298.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran will play World Cup, but not in US: football chief]]></title>
-            <description><![CDATA[[Sport] Iran will play World Cup, but not in US: football chief]]></description>
-            <link>https://bdnews24.com/sport/b2e99e7394dd</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/b2e99e7394dd</guid>
-            <pubDate>Thu, 19 Mar 2026 09:18:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-wc-19326-1773890282.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
