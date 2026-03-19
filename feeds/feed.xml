@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Mar 2026 17:45:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 18:39:11 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Mar 2026 17:45:47 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 18:39:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Champions League exposes Premier League fatigue]]></title>
+            <description><![CDATA[[Sport] Champions League exposes Premier League fatigue]]></description>
+            <link>https://bdnews24.com/sport/9440536addb1</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/9440536addb1</guid>
+            <pubDate>Fri, 20 Mar 2026 00:38:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/ucl-liverpool-galatasaray-190326-01-1773893943.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US objectives in Iran have not changed: Hegseth]]></title>
+            <description><![CDATA[[World] US objectives in Iran have not changed: Hegseth]]></description>
+            <link>https://bdnews24.com/world/ae3e76f52f08</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ae3e76f52f08</guid>
+            <pubDate>Fri, 20 Mar 2026 00:24:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/hegseth-200326-01-1773944627.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kolo Muani returns to France squad for friendlies]]></title>
+            <description><![CDATA[[Sport] Kolo Muani returns to France squad for friendlies]]></description>
+            <link>https://bdnews24.com/sport/49cadb38a06c</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/49cadb38a06c</guid>
+            <pubDate>Fri, 20 Mar 2026 00:20:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/atletico-madrid-190326-01-1773886756.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man found dead in Motijheel]]></title>
+            <description><![CDATA[[Bangladesh] Man found dead in Motijheel]]></description>
+            <link>https://bdnews24.com/bangladesh/aa1f53647cc2</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/aa1f53647cc2</guid>
+            <pubDate>Fri, 20 Mar 2026 00:05:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2024-01/813078c0-1907-43e0-8404-484f8be76c90/motijheel_thana_120124_01.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Qatar LNG: Iran attacks hit 17% capacity for 5 years]]></title>
+            <description><![CDATA[[World] Qatar LNG: Iran attacks hit 17% capacity for 5 years]]></description>
+            <link>https://bdnews24.com/world/1a9b7f72b851</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/1a9b7f72b851</guid>
+            <pubDate>Thu, 19 Mar 2026 23:58:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/sherida-al-kaabi-060326-01-1772797629.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iranian attack hits Israeli oil refinery in Haifa]]></title>
+            <description><![CDATA[[Middle East] Iranian attack hits Israeli oil refinery in Haifa]]></description>
+            <link>https://bdnews24.com/world/middle-east/b877a101987f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/b877a101987f</guid>
+            <pubDate>Thu, 19 Mar 2026 23:49:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iranian-attack-israeli-haifa-190326-01-1773942482.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US is not putting troops in Middle East region: Trump]]></title>
+            <description><![CDATA[[World] US is not putting troops in Middle East region: Trump]]></description>
+            <link>https://bdnews24.com/world/6ac322a6c9f6</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/6ac322a6c9f6</guid>
+            <pubDate>Thu, 19 Mar 2026 23:46:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/donald-trump-170326-01-1773767275.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Mexico invites Spain’s king to WC opener]]></title>
             <description><![CDATA[[World] Mexico invites Spain’s king to WC opener]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/b3becf18cc20</guid>
             <pubDate>Thu, 19 Mar 2026 20:25:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/inter-milan-190326-01-1773930255.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[One still missing in Sadarghat launch accident]]></title>
-            <description><![CDATA[[Bangladesh] One still missing in Sadarghat launch accident]]></description>
-            <link>https://bdnews24.com/bangladesh/80cbe669ccde</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/80cbe669ccde</guid>
-            <pubDate>Thu, 19 Mar 2026 20:15:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/sadarghat-accident-180326-01-1773842648.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Courtois out six weeks with injury]]></title>
-            <description><![CDATA[[Sport] Courtois out six weeks with injury]]></description>
-            <link>https://bdnews24.com/sport/41916ef86a32</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/41916ef86a32</guid>
-            <pubDate>Thu, 19 Mar 2026 20:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/thibaut-courtois-190326-01-1773929321.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2 prisoners die at DMCH]]></title>
-            <description><![CDATA[[Bangladesh] 2 prisoners die at DMCH]]></description>
-            <link>https://bdnews24.com/bangladesh/a460baafaf13</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a460baafaf13</guid>
-            <pubDate>Thu, 19 Mar 2026 20:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2022-07/2a5b85b4-fed1-406a-a5a0-0af8f043139a/dmc_emergency_gate_220722.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Brother, forgive me’: a final plea in Ctg fire]]></title>
-            <description><![CDATA[[Bangladesh] ‘Brother, forgive me’: a final plea in Ctg fire]]></description>
-            <link>https://bdnews24.com/bangladesh/82ab33db0a62</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/82ab33db0a62</guid>
-            <pubDate>Thu, 19 Mar 2026 20:01:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/ctg-fire-incident-relative-colleague-speech-2-190326-1773920519.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[More flights cancelled as Middle East conflict rises]]></title>
-            <description><![CDATA[[World] More flights cancelled as Middle East conflict rises]]></description>
-            <link>https://bdnews24.com/world/ab6af12f69aa</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ab6af12f69aa</guid>
-            <pubDate>Thu, 19 Mar 2026 19:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/more-cancelled-flights-19032026-01-1773928466.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Modi greets Tarique on Eid]]></title>
-            <description><![CDATA[[Bangladesh] Modi greets Tarique on Eid]]></description>
-            <link>https://bdnews24.com/bangladesh/450ebdd504c8</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/450ebdd504c8</guid>
-            <pubDate>Thu, 19 Mar 2026 19:40:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/modi-tarique-140226-02-1771094640.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kevin Spacey settles UK lawsuits over ‘sexual assault’]]></title>
-            <description><![CDATA[[Entertainment] Kevin Spacey settles UK lawsuits over ‘sexual assault’]]></description>
-            <link>https://bdnews24.com/entertainment/cc95cef91bc4</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/cc95cef91bc4</guid>
-            <pubDate>Thu, 19 Mar 2026 19:39:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/kevin-spacey-19032026-01-1773927523.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
