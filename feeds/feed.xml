@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Mar 2026 04:02:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 05:42:29 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Mar 2026 04:02:37 GMT</pubDate>
+        <pubDate>Fri, 20 Mar 2026 05:42:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[OpenClaw enthusiasm grips China]]></title>
+            <description><![CDATA[[Technology] OpenClaw enthusiasm grips China]]></description>
+            <link>https://bdnews24.com/technology/92bf340f1249</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/92bf340f1249</guid>
+            <pubDate>Fri, 20 Mar 2026 10:57:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/china-ai-openclaw-200326-01-1773982633.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman waits for justice after husband kills 2 sons]]></title>
+            <description><![CDATA[[Bangladesh] Woman waits for justice after husband kills 2 sons]]></description>
+            <link>https://bdnews24.com/bangladesh/7fe31526855b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7fe31526855b</guid>
+            <pubDate>Fri, 20 Mar 2026 10:53:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024August/SM/thana-sabotage-070824-05-1723046033.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump sends Eid greetings]]></title>
+            <description><![CDATA[[World] Trump sends Eid greetings]]></description>
+            <link>https://bdnews24.com/world/4a90bfecb902</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/4a90bfecb902</guid>
+            <pubDate>Fri, 20 Mar 2026 10:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/trump-melania-200326-01-1773980114.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump draws parallel between Pearl Harbour, US strikes on Iran]]></title>
+            <description><![CDATA[[Americas] Trump draws parallel between Pearl Harbour, US strikes on Iran]]></description>
+            <link>https://bdnews24.com/world/americas/2de151f169f8</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/2de151f169f8</guid>
+            <pubDate>Fri, 20 Mar 2026 10:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-takaichi-200326-01-1773979772.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[EU eyes energy tax cuts, subsidies to ease Iran war impact]]></title>
+            <description><![CDATA[[Europe] EU eyes energy tax cuts, subsidies to ease Iran war impact]]></description>
+            <link>https://bdnews24.com/world/europe/052295bb4ebf</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/052295bb4ebf</guid>
+            <pubDate>Fri, 20 Mar 2026 10:06:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/eu-energy-tax-cuts-subsidies-200326-01-1773979571.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[UAE says it dismantled Iran-funded ‘terror network’]]></title>
             <description><![CDATA[[Middle East] UAE says it dismantled Iran-funded ‘terror network’]]></description>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/aa1f53647cc2</guid>
             <pubDate>Fri, 20 Mar 2026 00:05:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2024-01/813078c0-1907-43e0-8404-484f8be76c90/motijheel_thana_120124_01.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Qatar LNG: Iran attacks hit 17% capacity for 5 years]]></title>
-            <description><![CDATA[[World] Qatar LNG: Iran attacks hit 17% capacity for 5 years]]></description>
-            <link>https://bdnews24.com/world/1a9b7f72b851</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/1a9b7f72b851</guid>
-            <pubDate>Thu, 19 Mar 2026 23:58:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/sherida-al-kaabi-060326-01-1772797629.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iranian attack hits Israeli oil refinery in Haifa]]></title>
-            <description><![CDATA[[Middle East] Iranian attack hits Israeli oil refinery in Haifa]]></description>
-            <link>https://bdnews24.com/world/middle-east/b877a101987f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/b877a101987f</guid>
-            <pubDate>Thu, 19 Mar 2026 23:49:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iranian-attack-israeli-haifa-190326-01-1773942482.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US is not putting troops in Middle East region: Trump]]></title>
-            <description><![CDATA[[World] US is not putting troops in Middle East region: Trump]]></description>
-            <link>https://bdnews24.com/world/6ac322a6c9f6</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/6ac322a6c9f6</guid>
-            <pubDate>Thu, 19 Mar 2026 23:46:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/donald-trump-170326-01-1773767275.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mexico invites Spain’s king to WC opener]]></title>
-            <description><![CDATA[[World] Mexico invites Spain’s king to WC opener]]></description>
-            <link>https://bdnews24.com/world/fddaa18c9e95</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/fddaa18c9e95</guid>
-            <pubDate>Thu, 19 Mar 2026 23:33:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/wc-trophy-11326-1773210318.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[AL leader Hasu held in dhaka]]></title>
-            <description><![CDATA[[Politics] AL leader Hasu held in dhaka]]></description>
-            <link>https://bdnews24.com/politics/2492198b036a</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/2492198b036a</guid>
-            <pubDate>Thu, 19 Mar 2026 23:33:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/hasu-councilor-ward-dhaka-190326-1773940370.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
