@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Mar 2026 09:29:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 10:26:17 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Mar 2026 09:29:01 GMT</pubDate>
+        <pubDate>Fri, 20 Mar 2026 10:26:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Man filed case against Hasina over son’s ‘death’ for cash, housing: police]]></title>
+            <description><![CDATA[[Bangladesh] Man filed case against Hasina over son’s ‘death’ for cash, housing: police]]></description>
+            <link>https://bdnews24.com/bangladesh/09feb08ab4d8</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/09feb08ab4d8</guid>
+            <pubDate>Fri, 20 Mar 2026 15:44:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/import/media/2015/06/18/cmm-court-dhaka.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Passenger welfare group under fire over bus fare claim]]></title>
+            <description><![CDATA[[Bangladesh] Passenger welfare group under fire over bus fare claim]]></description>
+            <link>https://bdnews24.com/bangladesh/4cd3362167aa</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4cd3362167aa</guid>
+            <pubDate>Fri, 20 Mar 2026 15:39:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bus-owners-association-200326-1773993853.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trains leave Kamalapur with empty seats on Eid eve]]></title>
+            <description><![CDATA[[Bangladesh] Trains leave Kamalapur with empty seats on Eid eve]]></description>
+            <link>https://bdnews24.com/bangladesh/41b14aa6016d</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/41b14aa6016d</guid>
+            <pubDate>Fri, 20 Mar 2026 15:31:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/komlapur-station-200326-01-1773994908.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Eid rush fades on Gazipur highways]]></title>
             <description><![CDATA[[Bangladesh] Eid rush fades on Gazipur highways]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/f0499ff68327</guid>
             <pubDate>Fri, 20 Mar 2026 09:46:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/orban-eu-ukraine-loan-200326-01-1773978326.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu wants oil, gas to flow through Israel post-Iran war]]></title>
-            <description><![CDATA[[Middle East] Netanyahu wants oil, gas to flow through Israel post-Iran war]]></description>
-            <link>https://bdnews24.com/world/middle-east/7c14daeae954</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/7c14daeae954</guid>
-            <pubDate>Fri, 20 Mar 2026 09:43:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/benjamin-netanyahu-200326-01-1773978125.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel launches new wave of attacks on Iran]]></title>
-            <description><![CDATA[[Middle East] Israel launches new wave of attacks on Iran]]></description>
-            <link>https://bdnews24.com/world/middle-east/14395239d1be</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/14395239d1be</guid>
-            <pubDate>Fri, 20 Mar 2026 09:31:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/haifa-israel-200326-01-1773977470.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil prices retreat, bonds struggle on hawkish rate repricing]]></title>
-            <description><![CDATA[[Business] Oil prices retreat, bonds struggle on hawkish rate repricing]]></description>
-            <link>https://bdnews24.com/business/286f4e51aa38</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/286f4e51aa38</guid>
-            <pubDate>Fri, 20 Mar 2026 09:23:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/oil-down-rate-repricing-200326-01-1773976918.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
