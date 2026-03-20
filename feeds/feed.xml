@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Mar 2026 19:29:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 20:18:59 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Mar 2026 19:29:45 GMT</pubDate>
+        <pubDate>Fri, 20 Mar 2026 20:18:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Argentina to face Mauritania in warm-up]]></title>
+            <description><![CDATA[[World] Argentina to face Mauritania in warm-up]]></description>
+            <link>https://bdnews24.com/world/672e77814cd0</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/672e77814cd0</guid>
+            <pubDate>Sat, 21 Mar 2026 02:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025March/SM/lionel-messi-argentina-270325-1743053329.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eid 2026: Resolve amid war and economic strain]]></title>
+            <description><![CDATA[[Bangladesh] Eid 2026: Resolve amid war and economic strain]]></description>
+            <link>https://bdnews24.com/bangladesh/02129f7fd1f3</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/02129f7fd1f3</guid>
+            <pubDate>Sat, 21 Mar 2026 02:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/eid-decorations-streets-200326-026-1774032299.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Aromatic rice, beef lead Eid-eve price hike]]></title>
             <description><![CDATA[[Business] Aromatic rice, beef lead Eid-eve price hike]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/ad54e5e7bde3</guid>
             <pubDate>Fri, 20 Mar 2026 19:41:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/andrew-mountbatten-20022026-1771602122.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Injured Salah misses Brighton game]]></title>
-            <description><![CDATA[[Sport] Injured Salah misses Brighton game]]></description>
-            <link>https://bdnews24.com/sport/97e8b31fc10f</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/97e8b31fc10f</guid>
-            <pubDate>Fri, 20 Mar 2026 19:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/ucl-liverpool-galatasaray-190326-01-1773893943.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[5 arrested, 1 still missing after Sadarghat disaster]]></title>
-            <description><![CDATA[[Bangladesh] 5 arrested, 1 still missing after Sadarghat disaster]]></description>
-            <link>https://bdnews24.com/bangladesh/a2125a65e56f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a2125a65e56f</guid>
-            <pubDate>Fri, 20 Mar 2026 19:25:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/sadarghat-accident-180326-01-1773842648.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
