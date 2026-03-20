@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Mar 2026 13:52:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 14:35:03 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Mar 2026 13:52:20 GMT</pubDate>
+        <pubDate>Fri, 20 Mar 2026 14:35:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Ukraine sends interceptors to Middle East]]></title>
+            <description><![CDATA[[World] Ukraine sends interceptors to Middle East]]></description>
+            <link>https://bdnews24.com/world/d1ee6ed68626</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/d1ee6ed68626</guid>
+            <pubDate>Fri, 20 Mar 2026 20:29:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/ukraine-interceptor-drone-07032026-01-1772894594.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Teen’s body found on Karnaphuli River]]></title>
+            <description><![CDATA[[Bangladesh] Teen’s body found on Karnaphuli River]]></description>
+            <link>https://bdnews24.com/bangladesh/c975928d5828</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c975928d5828</guid>
+            <pubDate>Fri, 20 Mar 2026 20:25:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025January/SM/dead-body-1000-1736086089.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[280 Bangladeshis to return from Iran]]></title>
+            <description><![CDATA[[Bangladesh] 280 Bangladeshis to return from Iran]]></description>
+            <link>https://bdnews24.com/bangladesh/30561f25222f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/30561f25222f</guid>
+            <pubDate>Fri, 20 Mar 2026 20:22:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/iran-tehran-160326-01-1773651989.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eid at sea for stranded Bangladeshi sailors]]></title>
+            <description><![CDATA[[Bangladesh] Eid at sea for stranded Bangladeshi sailors]]></description>
+            <link>https://bdnews24.com/bangladesh/4a62c91cf71e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4a62c91cf71e</guid>
+            <pubDate>Fri, 20 Mar 2026 20:13:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/chattogram-sailors-eid-day-on-ship-200326-01-1774014109.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[French minister sees no quick end to Middle East war]]></title>
+            <description><![CDATA[[World] French minister sees no quick end to Middle East war]]></description>
+            <link>https://bdnews24.com/world/ac931d9ac681</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ac931d9ac681</guid>
+            <pubDate>Fri, 20 Mar 2026 20:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025August/SM/bayrou-260825-01-1756214191.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Sirens, fear haunt Bahrain expatriates’ Eid]]></title>
             <description><![CDATA[[Bangladesh] Sirens, fear haunt Bahrain expatriates’ Eid]]></description>
@@ -49,8 +89,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/sadarghat-accident-180326-01-1773842648.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Bangladesh seeks $2 bn for fuel, LNG]]></title>
-            <description><![CDATA[[Bangladesh] Bangladesh seeks $2 bn for fuel, LNG]]></description>
+            <title><![CDATA[Bangladesh seeks $2bn for fuel, LNG]]></title>
+            <description><![CDATA[[Bangladesh] Bangladesh seeks $2bn for fuel, LNG]]></description>
             <link>https://bdnews24.com/bangladesh/508d6fbc1f0b</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/508d6fbc1f0b</guid>
             <pubDate>Fri, 20 Mar 2026 19:23:00 GMT</pubDate>
@@ -70,7 +110,7 @@
             <link>https://bdnews24.com/world/3d9666dcadf6</link>
             <guid isPermaLink="true">https://bdnews24.com/world/3d9666dcadf6</guid>
             <pubDate>Fri, 20 Mar 2026 18:26:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/norway-princess-apology-06022026-01-1770388236.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Iran hits Kuwait refinery, Israel kills IRGC spokesman]]></title>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/bf16db78fb98</guid>
             <pubDate>Fri, 20 Mar 2026 16:43:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mosharrof-deadbody-200326-01-1774002838.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PM Tarique inquires about Eid travel, public suffering]]></title>
-            <description><![CDATA[[Bangladesh] PM Tarique inquires about Eid travel, public suffering]]></description>
-            <link>https://bdnews24.com/bangladesh/0ffa42c964b9</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0ffa42c964b9</guid>
-            <pubDate>Fri, 20 Mar 2026 16:35:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/tarique-rahman-190226-1771489432.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man filed case against Hasina over son’s ‘death’ for cash, housing: police]]></title>
-            <description><![CDATA[[Bangladesh] Man filed case against Hasina over son’s ‘death’ for cash, housing: police]]></description>
-            <link>https://bdnews24.com/bangladesh/09feb08ab4d8</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/09feb08ab4d8</guid>
-            <pubDate>Fri, 20 Mar 2026 15:44:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/cmm-court-dhaka-1000-1774008444.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Passenger welfare group under fire over bus fare claim]]></title>
-            <description><![CDATA[[Bangladesh] Passenger welfare group under fire over bus fare claim]]></description>
-            <link>https://bdnews24.com/bangladesh/4cd3362167aa</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4cd3362167aa</guid>
-            <pubDate>Fri, 20 Mar 2026 15:39:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bus-owners-association-200326-1773993853.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trains leave Kamalapur with empty seats on Eid eve]]></title>
-            <description><![CDATA[[Bangladesh] Trains leave Kamalapur with empty seats on Eid eve]]></description>
-            <link>https://bdnews24.com/bangladesh/41b14aa6016d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/41b14aa6016d</guid>
-            <pubDate>Fri, 20 Mar 2026 15:31:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/komlapur-station-200326-01-1773994908.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eid rush fades on Gazipur highways]]></title>
-            <description><![CDATA[[Bangladesh] Eid rush fades on Gazipur highways]]></description>
-            <link>https://bdnews24.com/bangladesh/812e4eab943f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/812e4eab943f</guid>
-            <pubDate>Fri, 20 Mar 2026 14:16:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/gazipur-eid-jattra-200326-01-1773992308.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
