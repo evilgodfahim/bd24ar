@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Mar 2026 16:28:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 17:27:58 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Mar 2026 16:28:48 GMT</pubDate>
+        <pubDate>Fri, 20 Mar 2026 17:27:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[NATO pulls troops from Iraq mission]]></title>
+            <description><![CDATA[[World] NATO pulls troops from Iraq mission]]></description>
+            <link>https://bdnews24.com/world/b7078c4ad6a2</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/b7078c4ad6a2</guid>
+            <pubDate>Fri, 20 Mar 2026 23:17:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/dubai-airport-180326-01-1773818353.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[New midfielder Smit earns Netherlands call-up]]></title>
+            <description><![CDATA[[Sport] New midfielder Smit earns Netherlands call-up]]></description>
+            <link>https://bdnews24.com/sport/531f37faf137</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/531f37faf137</guid>
+            <pubDate>Fri, 20 Mar 2026 23:06:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025November/SM/poland-netherlands-151125-01-1763156801.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sadarghat collision: Body of missing passenger recovered]]></title>
+            <description><![CDATA[[Bangladesh] Sadarghat collision: Body of missing passenger recovered]]></description>
+            <link>https://bdnews24.com/bangladesh/4bb1c14a435b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4bb1c14a435b</guid>
+            <pubDate>Fri, 20 Mar 2026 22:49:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/sadarghat-accident-180326-01-1773842648.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Child killed for ‘drug money’ in Mymensingh]]></title>
+            <description><![CDATA[[Bangladesh] Child killed for ‘drug money’ in Mymensingh]]></description>
+            <link>https://bdnews24.com/bangladesh/6064d3a03b17</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6064d3a03b17</guid>
+            <pubDate>Fri, 20 Mar 2026 22:48:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mymensingh-child-190326-01-1773942704.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Hail forecast on Eid day]]></title>
             <description><![CDATA[[Bangladesh] Hail forecast on Eid day]]></description>
@@ -126,7 +158,7 @@
             <link>https://bdnews24.com/bangladesh/508d6fbc1f0b</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/508d6fbc1f0b</guid>
             <pubDate>Fri, 20 Mar 2026 19:23:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024December/SM/lng-terminal-311224-01-1735632436.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025June/SM/hormuz-220625-01-1750612263.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Farmer injured in BSF firing]]></title>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/6413ce063294</guid>
             <pubDate>Fri, 20 Mar 2026 19:21:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/chuadanga-border-bsf-200326-01-1774008430.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Norway crown princess 'regrets' Epstein ties]]></title>
-            <description><![CDATA[[World] Norway crown princess 'regrets' Epstein ties]]></description>
-            <link>https://bdnews24.com/world/3d9666dcadf6</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/3d9666dcadf6</guid>
-            <pubDate>Fri, 20 Mar 2026 18:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/norway-princess-apology-06022026-01-1770388236.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran hits Kuwait refinery, Israel kills IRGC spokesman]]></title>
-            <description><![CDATA[[World] Iran hits Kuwait refinery, Israel kills IRGC spokesman]]></description>
-            <link>https://bdnews24.com/world/0a82bac3e6d3</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/0a82bac3e6d3</guid>
-            <pubDate>Fri, 20 Mar 2026 18:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-flag-pumpjack-080326-01-1772945603.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2 die in Mymensingh road crash]]></title>
-            <description><![CDATA[[Bangladesh] 2 die in Mymensingh road crash]]></description>
-            <link>https://bdnews24.com/bangladesh/0c43fef1ec54</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0c43fef1ec54</guid>
-            <pubDate>Fri, 20 Mar 2026 18:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mymensingh-accident-200326-01-1774004648.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Activists challenge Modi privacy law in court]]></title>
-            <description><![CDATA[[World] Activists challenge Modi privacy law in court]]></description>
-            <link>https://bdnews24.com/world/09cb1abd399f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/09cb1abd399f</guid>
-            <pubDate>Fri, 20 Mar 2026 17:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/narendra-modi-01022026-01-1769931396.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
