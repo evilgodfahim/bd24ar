@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Mar 2026 07:38:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 08:27:34 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Mar 2026 07:38:19 GMT</pubDate>
+        <pubDate>Fri, 20 Mar 2026 08:27:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Eid rush fades on Gazipur highways]]></title>
+            <description><![CDATA[[Bangladesh] Eid rush fades on Gazipur highways]]></description>
+            <link>https://bdnews24.com/bangladesh/812e4eab943f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/812e4eab943f</guid>
+            <pubDate>Fri, 20 Mar 2026 14:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/gazipur-eid-jattra-200326-01-1773992308.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Work from home, avoid air travel: IEA]]></title>
+            <description><![CDATA[[Business] Work from home, avoid air travel: IEA]]></description>
+            <link>https://bdnews24.com/business/657a1d54d78e</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/657a1d54d78e</guid>
+            <pubDate>Fri, 20 Mar 2026 13:42:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/oil-dollar-200326-01-1773992448.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Joint statement on Strait of Hormuz by European nations, Japan, Canada]]></title>
             <description><![CDATA[[Middle East] Joint statement on Strait of Hormuz by European nations, Japan, Canada]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/business/286f4e51aa38</guid>
             <pubDate>Fri, 20 Mar 2026 09:23:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/oil-down-rate-repricing-200326-01-1773976918.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Holiday exodus crumbles under gridlock, fare hikes]]></title>
-            <description><![CDATA[[Bangladesh] Holiday exodus crumbles under gridlock, fare hikes]]></description>
-            <link>https://bdnews24.com/bangladesh/abd8b3fd6ab0</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/abd8b3fd6ab0</guid>
-            <pubDate>Fri, 20 Mar 2026 01:59:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/gazipur-traffic-190326-03-1773901252.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran’s uranium enrichment capacity gone: Netanyahu]]></title>
-            <description><![CDATA[[World] Iran’s uranium enrichment capacity gone: Netanyahu]]></description>
-            <link>https://bdnews24.com/world/e9bc873e06d3</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/e9bc873e06d3</guid>
-            <pubDate>Fri, 20 Mar 2026 01:52:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/natanz-020326-01-1772451884.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
