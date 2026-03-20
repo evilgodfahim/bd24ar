@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Mar 2026 20:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 21:19:14 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Mar 2026 20:18:59 GMT</pubDate>
+        <pubDate>Fri, 20 Mar 2026 21:19:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US sending Marines, assault ship to Middle East]]></title>
+            <description><![CDATA[[World] US sending Marines, assault ship to Middle East]]></description>
+            <link>https://bdnews24.com/world/2adc091fb87e</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/2adc091fb87e</guid>
+            <pubDate>Sat, 21 Mar 2026 02:48:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/navy-sailor-200326-01-1774035372.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Argentina to face Mauritania in warm-up]]></title>
             <description><![CDATA[[World] Argentina to face Mauritania in warm-up]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/a403635d8a0b</guid>
             <pubDate>Fri, 20 Mar 2026 19:43:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024August/SM/ppresident-sahabuddin-050824-1722872730.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA['Iranian spies' caught near UK nuclear base]]></title>
-            <description><![CDATA[[World] 'Iranian spies' caught near UK nuclear base]]></description>
-            <link>https://bdnews24.com/world/ad54e5e7bde3</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ad54e5e7bde3</guid>
-            <pubDate>Fri, 20 Mar 2026 19:41:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/andrew-mountbatten-20022026-1771602122.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
