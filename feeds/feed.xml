@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Mar 2026 21:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 22:15:31 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Mar 2026 21:19:14 GMT</pubDate>
+        <pubDate>Fri, 20 Mar 2026 22:15:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Teen killed in Hatirjheel on Eid eve]]></title>
+            <description><![CDATA[[Bangladesh] Teen killed in Hatirjheel on Eid eve]]></description>
+            <link>https://bdnews24.com/bangladesh/db6dd0ab9171</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/db6dd0ab9171</guid>
+            <pubDate>Sat, 21 Mar 2026 03:46:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024September/SM/hatirjheel-thana-050924-1725534853.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[US sending Marines, assault ship to Middle East]]></title>
             <description><![CDATA[[World] US sending Marines, assault ship to Middle East]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/f0261b74f533</guid>
             <pubDate>Fri, 20 Mar 2026 19:51:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bahrain-eid-200326-01-1774007525.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[President urges affluent to support poor in Eid message]]></title>
-            <description><![CDATA[[Bangladesh] President urges affluent to support poor in Eid message]]></description>
-            <link>https://bdnews24.com/bangladesh/a403635d8a0b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a403635d8a0b</guid>
-            <pubDate>Fri, 20 Mar 2026 19:43:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024August/SM/ppresident-sahabuddin-050824-1722872730.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
