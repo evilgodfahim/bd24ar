@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Mar 2026 10:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 11:21:58 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Mar 2026 10:26:17 GMT</pubDate>
+        <pubDate>Fri, 20 Mar 2026 11:21:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[PM Tarique calls for unity, compassion on Eid]]></title>
+            <description><![CDATA[[Bangladesh] PM Tarique calls for unity, compassion on Eid]]></description>
+            <link>https://bdnews24.com/bangladesh/a4a9b14f86e4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a4a9b14f86e4</guid>
+            <pubDate>Fri, 20 Mar 2026 17:02:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tarique-rahman-110326-01-1773232767.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Body of Bangladeshi killed in Saudi strike returns home]]></title>
+            <description><![CDATA[[Bangladesh] Body of Bangladeshi killed in Saudi strike returns home]]></description>
+            <link>https://bdnews24.com/bangladesh/bf16db78fb98</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/bf16db78fb98</guid>
+            <pubDate>Fri, 20 Mar 2026 16:43:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mosharrof-deadbody-200326-01-1774002838.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM Tarique inquires about Eid travel, public suffering]]></title>
+            <description><![CDATA[[Bangladesh] PM Tarique inquires about Eid travel, public suffering]]></description>
+            <link>https://bdnews24.com/bangladesh/0ffa42c964b9</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0ffa42c964b9</guid>
+            <pubDate>Fri, 20 Mar 2026 16:35:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/tarique-rahman-190226-1771489432.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Man filed case against Hasina over son’s ‘death’ for cash, housing: police]]></title>
             <description><![CDATA[[Bangladesh] Man filed case against Hasina over son’s ‘death’ for cash, housing: police]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/fe69f33b980d</guid>
             <pubDate>Fri, 20 Mar 2026 09:57:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/uae-iran-funded-terror-network-200326-01-1773979002.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[11 killed in raid on Mexico cartel]]></title>
-            <description><![CDATA[[Americas] 11 killed in raid on Mexico cartel]]></description>
-            <link>https://bdnews24.com/world/americas/1800c198b02e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/1800c198b02e</guid>
-            <pubDate>Fri, 20 Mar 2026 09:55:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/mexico-raid-cartel-200326-1773978868.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mosque protesters heckle Australia PM Albanese]]></title>
-            <description><![CDATA[[World] Mosque protesters heckle Australia PM Albanese]]></description>
-            <link>https://bdnews24.com/world/2002fd06a852</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/2002fd06a852</guid>
-            <pubDate>Fri, 20 Mar 2026 09:49:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/australia-albanese-mosque-heckling-200326-01-1773978512.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[EU vents anger after Orban blocks Ukraine loan]]></title>
-            <description><![CDATA[[World] EU vents anger after Orban blocks Ukraine loan]]></description>
-            <link>https://bdnews24.com/world/f0499ff68327</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/f0499ff68327</guid>
-            <pubDate>Fri, 20 Mar 2026 09:46:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/orban-eu-ukraine-loan-200326-01-1773978326.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
