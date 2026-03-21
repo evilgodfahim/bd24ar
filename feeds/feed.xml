@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Mar 2026 12:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 13:34:52 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Mar 2026 12:21:58 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 13:34:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iran war escalates beyond Trump’s control]]></title>
+            <description><![CDATA[[World] Iran war escalates beyond Trump’s control]]></description>
+            <link>https://bdnews24.com/world/1e674b811a6f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/1e674b811a6f</guid>
+            <pubDate>Sat, 21 Mar 2026 18:58:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-war-beyond-trumps-control-210326-01-1774097702.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[30 hurt in row over filming, photographing girls]]></title>
+            <description><![CDATA[[Bangladesh] 30 hurt in row over filming, photographing girls]]></description>
+            <link>https://bdnews24.com/bangladesh/6797bdfdd356</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6797bdfdd356</guid>
+            <pubDate>Sat, 21 Mar 2026 18:41:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/habiganj-clash-210326-01-1774094456-1774094779.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US considering ‘winding down’ Iran war: Trump]]></title>
+            <description><![CDATA[[World] US considering ‘winding down’ Iran war: Trump]]></description>
+            <link>https://bdnews24.com/world/f7cb5dab6c6e</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/f7cb5dab6c6e</guid>
+            <pubDate>Sat, 21 Mar 2026 18:41:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/trump-210326-01-1774093916.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Eid turns to mourning in Mongla after deadly crash]]></title>
             <description><![CDATA[[Bangladesh] Eid turns to mourning in Mongla after deadly crash]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/846c7beb962b</guid>
             <pubDate>Sat, 21 Mar 2026 11:46:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tarique-rahman-210326-1774070235.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gazipur workers ‘satisfied’ by pay, 81 factories open]]></title>
-            <description><![CDATA[[Bangladesh] Gazipur workers ‘satisfied’ by pay, 81 factories open]]></description>
-            <link>https://bdnews24.com/bangladesh/cc2491970612</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cc2491970612</guid>
-            <pubDate>Sat, 21 Mar 2026 11:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024September/SM/gazipur-garment-050924-01-1725545998.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Agargaon Eid congregation prays for Iran’s victory]]></title>
-            <description><![CDATA[[Bangladesh] Agargaon Eid congregation prays for Iran’s victory]]></description>
-            <link>https://bdnews24.com/bangladesh/5640b387b698</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5640b387b698</guid>
-            <pubDate>Sat, 21 Mar 2026 11:00:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/agargaon-eid-jamaat-210326-01-1774068249.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel, Iran trade attacks]]></title>
-            <description><![CDATA[[Middle East] Israel, Iran trade attacks]]></description>
-            <link>https://bdnews24.com/world/middle-east/c85d5e218424</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/c85d5e218424</guid>
-            <pubDate>Sat, 21 Mar 2026 10:57:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/beirut-21326-1774069012.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
