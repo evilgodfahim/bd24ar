@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Mar 2026 10:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 11:13:43 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Mar 2026 10:14:32 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 11:13:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Opposition leader greets Eid guests at Minto Road]]></title>
+            <description><![CDATA[[Bangladesh] Opposition leader greets Eid guests at Minto Road]]></description>
+            <link>https://bdnews24.com/bangladesh/c855ec956c16</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c855ec956c16</guid>
+            <pubDate>Sat, 21 Mar 2026 16:29:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/shafiqur-rahman-210326-01-1774088065.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[India seals off news agency]]></title>
             <description><![CDATA[[Media] India seals off news agency]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/8fa3e1e58eec</guid>
             <pubDate>Sat, 21 Mar 2026 10:23:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/national-eidgah-210326-201-1774065195.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No truce, only end to war: Iran FM]]></title>
-            <description><![CDATA[[World] No truce, only end to war: Iran FM]]></description>
-            <link>https://bdnews24.com/world/1e8a14d7941c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/1e8a14d7941c</guid>
-            <pubDate>Sat, 21 Mar 2026 10:19:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/abbas-araqchi-020326-01-1772457782.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
