@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Mar 2026 14:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 15:15:05 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Mar 2026 14:15:53 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 15:15:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Hamano strike fires Japan to Women's Asian Cup title]]></title>
+            <description><![CDATA[[Sport] Hamano strike fires Japan to Women's Asian Cup title]]></description>
+            <link>https://bdnews24.com/sport/8ddc55be4e57</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/8ddc55be4e57</guid>
+            <pubDate>Sat, 21 Mar 2026 20:42:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/japan-210326-01-1774099714.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eid’s loudest joy in children’s laughter]]></title>
+            <description><![CDATA[[Image] Eid’s loudest joy in children’s laughter]]></description>
+            <link>https://bdnews24.com/media-en/image/a949ed426ceb</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/a949ed426ceb</guid>
+            <pubDate>Sat, 21 Mar 2026 20:36:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/dncc-wonderland-shishu-mela-210326-012-1774096946.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man killed over 'Eid money' in Sirajganj]]></title>
+            <description><![CDATA[[Bangladesh] Man killed over 'Eid money' in Sirajganj]]></description>
+            <link>https://bdnews24.com/bangladesh/6e0594e959b2</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6e0594e959b2</guid>
+            <pubDate>Sat, 21 Mar 2026 20:32:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/sirajganj-murder-210326-01-1774097271.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[4 die in Jamalpur floating bridge collapse]]></title>
             <description><![CDATA[[Bangladesh] 4 die in Jamalpur floating bridge collapse]]></description>
@@ -142,31 +166,7 @@
             <link>https://bdnews24.com/media-en/image/840f21fd671e</link>
             <guid isPermaLink="true">https://bdnews24.com/media-en/image/840f21fd671e</guid>
             <pubDate>Sat, 21 Mar 2026 12:40:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/eid-prayer-chattogram-210326-01-1774066725.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Seoul locks down for BTS’s long-awaited comeback show]]></title>
-            <description><![CDATA[[Entertainment] Seoul locks down for BTS’s long-awaited comeback show]]></description>
-            <link>https://bdnews24.com/entertainment/378cb6a4b6ca</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/378cb6a4b6ca</guid>
-            <pubDate>Sat, 21 Mar 2026 12:35:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/bts-band-070226-01-1770440378.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Argentina to play Mauritania, Zambia in friendlies]]></title>
-            <description><![CDATA[[Sport] Argentina to play Mauritania, Zambia in friendlies]]></description>
-            <link>https://bdnews24.com/sport/31f6d91e77b0</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/31f6d91e77b0</guid>
-            <pubDate>Sat, 21 Mar 2026 12:18:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025March/SM/lionel-messi-argentina-270325-1743053329.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Working with Trump Gaza peace board: UN chief]]></title>
-            <description><![CDATA[[World] Working with Trump Gaza peace board: UN chief]]></description>
-            <link>https://bdnews24.com/world/5fd9acbd6497</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/5fd9acbd6497</guid>
-            <pubDate>Sat, 21 Mar 2026 12:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/un-chief-21326-1774073325.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tarique-rahman-210326-008-1774099365.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
