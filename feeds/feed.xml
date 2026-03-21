@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Mar 2026 08:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 09:20:15 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Mar 2026 08:18:02 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 09:20:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How IRGC rebuilt Hezbollah for war?]]></title>
+            <description><![CDATA[[THE LONG READ] How IRGC rebuilt Hezbollah for war?]]></description>
+            <link>https://bdnews24.com/the-long-read/5802ed757f7e</link>
+            <guid isPermaLink="true">https://bdnews24.com/the-long-read/5802ed757f7e</guid>
+            <pubDate>Sat, 21 Mar 2026 14:49:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/hezbollah-21326-1774082903.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM Tarique, Yunus meet at Jamuna on Eid]]></title>
+            <description><![CDATA[[Bangladesh] PM Tarique, Yunus meet at Jamuna on Eid]]></description>
+            <link>https://bdnews24.com/bangladesh/80b4073bd935</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/80b4073bd935</guid>
+            <pubDate>Sat, 21 Mar 2026 14:22:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/muhammed-yunus-210326-01-1774081321.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[‘600,000’ attend Sholakia Eid congregation]]></title>
             <description><![CDATA[[Bangladesh] ‘600,000’ attend Sholakia Eid congregation]]></description>
@@ -105,8 +121,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/agargaon-eid-jamaat-210326-01-1774068249.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Israel attacks Tehran, Beirut]]></title>
-            <description><![CDATA[[Middle East] Israel attacks Tehran, Beirut]]></description>
+            <title><![CDATA[Israel, Iran trade attacks]]></title>
+            <description><![CDATA[[Middle East] Israel, Iran trade attacks]]></description>
             <link>https://bdnews24.com/world/middle-east/c85d5e218424</link>
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/c85d5e218424</guid>
             <pubDate>Sat, 21 Mar 2026 10:57:00 GMT</pubDate>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/people/b92c0d394823</guid>
             <pubDate>Sat, 21 Mar 2026 09:54:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/chuck-norris-file-21032026-01-1774065129.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[10 die in Korea factory fire]]></title>
-            <description><![CDATA[[Middle East] 10 die in Korea factory fire]]></description>
-            <link>https://bdnews24.com/world/middle-east/cd341e753daf</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/cd341e753daf</guid>
-            <pubDate>Sat, 21 Mar 2026 09:42:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/south-korea-car-factory-fire-210326-01-1774064478.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US allows 30-day sale of Iran oil at sea]]></title>
-            <description><![CDATA[[Business] US allows 30-day sale of Iran oil at sea]]></description>
-            <link>https://bdnews24.com/business/ebda58f0c651</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/ebda58f0c651</guid>
-            <pubDate>Sat, 21 Mar 2026 09:39:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-oil-21326-1774064313.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
