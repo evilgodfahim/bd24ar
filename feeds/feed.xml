@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Mar 2026 11:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 12:21:58 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Mar 2026 11:13:43 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 12:21:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Eid turns to mourning in Mongla after deadly crash]]></title>
+            <description><![CDATA[[Bangladesh] Eid turns to mourning in Mongla after deadly crash]]></description>
+            <link>https://bdnews24.com/bangladesh/fc64e0dc1941</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/fc64e0dc1941</guid>
+            <pubDate>Sat, 21 Mar 2026 17:57:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bagerhat-bishonno-eid-210326-01-1774086740.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Screenings of Shakib’s ‘Prince’ spiral into chaos]]></title>
+            <description><![CDATA[[Entertainment] Screenings of Shakib’s ‘Prince’ spiral into chaos]]></description>
+            <link>https://bdnews24.com/entertainment/9a3d3b77e32a</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/9a3d3b77e32a</guid>
+            <pubDate>Sat, 21 Mar 2026 17:23:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/sakib-khan-movie-eid-prince-2103260-00-1774090773.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Opposition leader greets Eid guests at Minto Road]]></title>
             <description><![CDATA[[Bangladesh] Opposition leader greets Eid guests at Minto Road]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/c85d5e218424</guid>
             <pubDate>Sat, 21 Mar 2026 10:57:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/beirut-21326-1774069012.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Musk found liable for fraud in Twitter lawsuit]]></title>
-            <description><![CDATA[[Business] Musk found liable for fraud in Twitter lawsuit]]></description>
-            <link>https://bdnews24.com/business/9c56a5456efa</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/9c56a5456efa</guid>
-            <pubDate>Sat, 21 Mar 2026 10:27:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/elon-musk-twitter-fraud-210326-01-1774067173.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prayer for end to war on Eid]]></title>
-            <description><![CDATA[[Bangladesh] Prayer for end to war on Eid]]></description>
-            <link>https://bdnews24.com/bangladesh/8fa3e1e58eec</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8fa3e1e58eec</guid>
-            <pubDate>Sat, 21 Mar 2026 10:23:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/national-eidgah-210326-201-1774065195.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
