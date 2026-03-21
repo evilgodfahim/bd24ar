@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Mar 2026 00:57:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 03:18:00 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Mar 2026 00:57:52 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 03:18:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Mass Eid turnout at Baitul Mukarram]]></title>
+            <description><![CDATA[[Bangladesh] Mass Eid turnout at Baitul Mukarram]]></description>
+            <link>https://bdnews24.com/bangladesh/a6024d039df7</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a6024d039df7</guid>
+            <pubDate>Sat, 21 Mar 2026 09:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/eid-first-jammat-210326-1774060638.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[President, PM join Eid congregation at National Eidgah]]></title>
+            <description><![CDATA[[Bangladesh] President, PM join Eid congregation at National Eidgah]]></description>
+            <link>https://bdnews24.com/bangladesh/7e7c27934fa7</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7e7c27934fa7</guid>
+            <pubDate>Sat, 21 Mar 2026 09:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/national-eidgah-210326-1774060677.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man Utd held to 2-2 draw at Bournemouth]]></title>
+            <description><![CDATA[[Sport] Man Utd held to 2-2 draw at Bournemouth]]></description>
+            <link>https://bdnews24.com/sport/09ba921b7ff9</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/09ba921b7ff9</guid>
+            <pubDate>Sat, 21 Mar 2026 08:28:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/harry-maguire-210326-01-1774060074.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Shehbaz greets Tarique in Eid call]]></title>
             <description><![CDATA[[Bangladesh] Shehbaz greets Tarique in Eid call]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/c975928d5828</guid>
             <pubDate>Fri, 20 Mar 2026 20:25:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025January/SM/dead-body-1000-1736086089.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[280 Bangladeshis to return from Iran]]></title>
-            <description><![CDATA[[Bangladesh] 280 Bangladeshis to return from Iran]]></description>
-            <link>https://bdnews24.com/bangladesh/30561f25222f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/30561f25222f</guid>
-            <pubDate>Fri, 20 Mar 2026 20:22:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/iran-evacuation-200326-01-1774019820.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eid at sea for stranded Bangladeshi sailors]]></title>
-            <description><![CDATA[[Bangladesh] Eid at sea for stranded Bangladeshi sailors]]></description>
-            <link>https://bdnews24.com/bangladesh/4a62c91cf71e</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4a62c91cf71e</guid>
-            <pubDate>Fri, 20 Mar 2026 20:13:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/chattogram-sailors-eid-day-on-ship-200326-01-1774014109.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[French minister sees no quick end to Middle East war]]></title>
-            <description><![CDATA[[World] French minister sees no quick end to Middle East war]]></description>
-            <link>https://bdnews24.com/world/ac931d9ac681</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ac931d9ac681</guid>
-            <pubDate>Fri, 20 Mar 2026 20:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025August/SM/bayrou-260825-01-1756214191.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
