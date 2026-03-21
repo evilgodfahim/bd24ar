@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Mar 2026 05:41:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 06:28:21 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Mar 2026 05:41:51 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 06:28:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Argentina to play Mauritania, Zambia in friendlies]]></title>
+            <description><![CDATA[[Sport] Argentina to play Mauritania, Zambia in friendlies]]></description>
+            <link>https://bdnews24.com/sport/31f6d91e77b0</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/31f6d91e77b0</guid>
+            <pubDate>Sat, 21 Mar 2026 12:18:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025March/SM/lionel-messi-argentina-270325-1743053329.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Working with Trump Gaza peace board: UN chief]]></title>
+            <description><![CDATA[[World] Working with Trump Gaza peace board: UN chief]]></description>
+            <link>https://bdnews24.com/world/5fd9acbd6497</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/5fd9acbd6497</guid>
+            <pubDate>Sat, 21 Mar 2026 12:09:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/un-chief-21326-1774073325.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM Tarique exchanges Eid greetings at Jamuna]]></title>
+            <description><![CDATA[[Bangladesh] PM Tarique exchanges Eid greetings at Jamuna]]></description>
+            <link>https://bdnews24.com/bangladesh/846c7beb962b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/846c7beb962b</guid>
+            <pubDate>Sat, 21 Mar 2026 11:46:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tarique-rahman-210326-1774070235.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Gazipur workers ‘satisfied’ by pay, 81 factories open]]></title>
             <description><![CDATA[[Bangladesh] Gazipur workers ‘satisfied’ by pay, 81 factories open]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/09ba921b7ff9</guid>
             <pubDate>Sat, 21 Mar 2026 08:28:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/harry-maguire-210326-01-1774060074.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shehbaz greets Tarique in Eid call]]></title>
-            <description><![CDATA[[Bangladesh] Shehbaz greets Tarique in Eid call]]></description>
-            <link>https://bdnews24.com/bangladesh/02b52df955c8</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/02b52df955c8</guid>
-            <pubDate>Sat, 21 Mar 2026 06:50:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/image-360598-1770970205-1774054218.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Teen killed in Hatirjheel on Eid eve]]></title>
-            <description><![CDATA[[Bangladesh] Teen killed in Hatirjheel on Eid eve]]></description>
-            <link>https://bdnews24.com/bangladesh/db6dd0ab9171</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/db6dd0ab9171</guid>
-            <pubDate>Sat, 21 Mar 2026 03:46:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024September/SM/hatirjheel-thana-050924-1725534853.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US sending Marines, assault ship to Middle East]]></title>
-            <description><![CDATA[[World] US sending Marines, assault ship to Middle East]]></description>
-            <link>https://bdnews24.com/world/2adc091fb87e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/2adc091fb87e</guid>
-            <pubDate>Sat, 21 Mar 2026 02:48:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/navy-sailor-200326-01-1774035372.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
