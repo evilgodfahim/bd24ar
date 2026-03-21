@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Mar 2026 05:00:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 05:41:51 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Mar 2026 05:00:35 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 05:41:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Gazipur workers ‘satisfied’ by pay, 81 factories open]]></title>
+            <description><![CDATA[[Bangladesh] Gazipur workers ‘satisfied’ by pay, 81 factories open]]></description>
+            <link>https://bdnews24.com/bangladesh/cc2491970612</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cc2491970612</guid>
+            <pubDate>Sat, 21 Mar 2026 11:34:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024September/SM/gazipur-garment-050924-01-1725545998.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Agargaon Eid congregation prays for Iran’s victory]]></title>
             <description><![CDATA[[Bangladesh] Agargaon Eid congregation prays for Iran’s victory]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/2adc091fb87e</guid>
             <pubDate>Sat, 21 Mar 2026 02:48:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/navy-sailor-200326-01-1774035372.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Argentina to face Mauritania in warm-up]]></title>
-            <description><![CDATA[[World] Argentina to face Mauritania in warm-up]]></description>
-            <link>https://bdnews24.com/world/672e77814cd0</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/672e77814cd0</guid>
-            <pubDate>Sat, 21 Mar 2026 02:12:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025March/SM/lionel-messi-argentina-270325-1743053329.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
