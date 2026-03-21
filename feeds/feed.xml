@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Mar 2026 16:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 17:16:02 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Mar 2026 16:14:58 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 17:16:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bahrain cites Patriot interception in Iran drone incident]]></title>
+            <description><![CDATA[[World] Bahrain cites Patriot interception in Iran drone incident]]></description>
+            <link>https://bdnews24.com/world/ffc2d69b4bdd</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ffc2d69b4bdd</guid>
+            <pubDate>Sat, 21 Mar 2026 22:44:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/bahrain-patriot-interception-21032026-01-1774111409.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[PM calls Anis Alamgir]]></title>
             <description><![CDATA[[Bangladesh] PM calls Anis Alamgir]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/d5265bf2ed6b</guid>
             <pubDate>Sat, 21 Mar 2026 13:49:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/eid-khaleda-zia-tareq-210326-01-1774079035.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Main congregation at National Eidgah]]></title>
-            <description><![CDATA[[Image] Main congregation at National Eidgah]]></description>
-            <link>https://bdnews24.com/media-en/image/6af96701b823</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/6af96701b823</guid>
-            <pubDate>Sat, 21 Mar 2026 13:31:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tarique-rahman-210326-18-1774073727.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
