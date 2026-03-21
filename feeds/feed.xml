@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Mar 2026 23:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 00:57:52 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Mar 2026 23:17:48 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 00:57:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Shehbaz greets Tarique in Eid call]]></title>
+            <description><![CDATA[[Bangladesh] Shehbaz greets Tarique in Eid call]]></description>
+            <link>https://bdnews24.com/bangladesh/02b52df955c8</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/02b52df955c8</guid>
+            <pubDate>Sat, 21 Mar 2026 06:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/image-360598-1770970205-1774054218.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Teen killed in Hatirjheel on Eid eve]]></title>
             <description><![CDATA[[Bangladesh] Teen killed in Hatirjheel on Eid eve]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/ac931d9ac681</guid>
             <pubDate>Fri, 20 Mar 2026 20:04:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025August/SM/bayrou-260825-01-1756214191.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sirens, fear haunt Bahrain expatriates’ Eid]]></title>
-            <description><![CDATA[[Bangladesh] Sirens, fear haunt Bahrain expatriates’ Eid]]></description>
-            <link>https://bdnews24.com/bangladesh/f0261b74f533</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f0261b74f533</guid>
-            <pubDate>Fri, 20 Mar 2026 19:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bahrain-eid-200326-01-1774007525.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
