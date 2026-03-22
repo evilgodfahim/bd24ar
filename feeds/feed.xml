@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Mar 2026 16:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 17:15:44 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Mar 2026 16:15:39 GMT</pubDate>
+        <pubDate>Sun, 22 Mar 2026 17:15:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Info minister suggests unified press platform]]></title>
+            <description><![CDATA[[Bangladesh] Info minister suggests unified press platform]]></description>
+            <link>https://bdnews24.com/bangladesh/4d8ddb10176e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4d8ddb10176e</guid>
+            <pubDate>Sun, 22 Mar 2026 23:06:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/barishal-minister-swapon-220326-01-1774194649.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Araujo header earns Barca narrow win]]></title>
+            <description><![CDATA[[Sport] Araujo header earns Barca narrow win]]></description>
+            <link>https://bdnews24.com/sport/4711df6ea47b</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/4711df6ea47b</guid>
+            <pubDate>Sun, 22 Mar 2026 22:56:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/barca-cl-190326-01-1773886205.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[33 Bangladeshis return after jail in India]]></title>
+            <description><![CDATA[[Bangladesh] 33 Bangladeshis return after jail in India]]></description>
+            <link>https://bdnews24.com/bangladesh/110462891272</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/110462891272</guid>
+            <pubDate>Sun, 22 Mar 2026 22:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025September/SM/benapole-checkpost-260925-02-1758878001.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[5 children laid to rest after Jamalpur bridge collapse]]></title>
             <description><![CDATA[[Bangladesh] 5 children laid to rest after Jamalpur bridge collapse]]></description>
@@ -105,12 +129,12 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/hind-rajab-220326-1774192950.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Trump, Iran escalate threats over energy targets]]></title>
-            <description><![CDATA[[World] Trump, Iran escalate threats over energy targets]]></description>
+            <title><![CDATA[Iran warns of energy, water strikes after Trump ultimatum]]></title>
+            <description><![CDATA[[World] Iran warns of energy, water strikes after Trump ultimatum]]></description>
             <link>https://bdnews24.com/world/0419e17bf688</link>
             <guid isPermaLink="true">https://bdnews24.com/world/0419e17bf688</guid>
             <pubDate>Sun, 22 Mar 2026 19:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-power-iran-hormuz-strikes-220326-01-1774149794.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-warns-energy-water-strikes-220326-01-1774199545.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Dortmund part ways with sporting director Kehl]]></title>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/cricket/aa5aece4f172</guid>
             <pubDate>Sun, 22 Mar 2026 18:45:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/psl-trophy-220326-1774182744.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eid festivities disrupted by rolling blackouts]]></title>
-            <description><![CDATA[[Bangladesh] Eid festivities disrupted by rolling blackouts]]></description>
-            <link>https://bdnews24.com/bangladesh/1a7a7aae7ff3</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1a7a7aae7ff3</guid>
-            <pubDate>Sun, 22 Mar 2026 18:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/nationwide-power-cut-2026-1774182224.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Long queues as Dhaka pumps run dry]]></title>
-            <description><![CDATA[[Bangladesh] Long queues as Dhaka pumps run dry]]></description>
-            <link>https://bdnews24.com/bangladesh/c193edc87e40</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c193edc87e40</guid>
-            <pubDate>Sun, 22 Mar 2026 18:14:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/petrol-pump-oil-crisis-060326-018-1772804788.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Russia downs drones near Bashkortostan refineries]]></title>
-            <description><![CDATA[[World] Russia downs drones near Bashkortostan refineries]]></description>
-            <link>https://bdnews24.com/world/99b12d8fd6c2</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/99b12d8fd6c2</guid>
-            <pubDate>Sun, 22 Mar 2026 18:07:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/ukraine-interceptor-drone-07032026-01-1772894594.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
