@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Mar 2026 05:44:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 06:35:51 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Mar 2026 05:44:12 GMT</pubDate>
+        <pubDate>Sun, 22 Mar 2026 06:35:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[4 die as pickup van crashes in Habiganj]]></title>
+            <description><![CDATA[[Bangladesh] 4 die as pickup van crashes in Habiganj]]></description>
+            <link>https://bdnews24.com/bangladesh/3bb4c52498e2</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3bb4c52498e2</guid>
+            <pubDate>Sun, 22 Mar 2026 12:24:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/hobiganj-accidfent-220326-01-1774159348.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jorginho accuses Chappell Roan of making daughter cry]]></title>
+            <description><![CDATA[[Entertainment] Jorginho accuses Chappell Roan of making daughter cry]]></description>
+            <link>https://bdnews24.com/entertainment/26ece0fa4743</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/26ece0fa4743</guid>
+            <pubDate>Sun, 22 Mar 2026 12:07:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/chappel-roan-jorginho-220326-1774159612.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Gatekeepers suspended after deadly Cumilla train-bus crash]]></title>
             <description><![CDATA[[Bangladesh] Gatekeepers suspended after deadly Cumilla train-bus crash]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/the-long-read/2c0893e3fba6</guid>
             <pubDate>Sat, 21 Mar 2026 23:16:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/iran-war-hikes-energy-21032026-01-1774113285.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bahrain cites Patriot interception in Iran drone incident]]></title>
-            <description><![CDATA[[World] Bahrain cites Patriot interception in Iran drone incident]]></description>
-            <link>https://bdnews24.com/world/ffc2d69b4bdd</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ffc2d69b4bdd</guid>
-            <pubDate>Sat, 21 Mar 2026 22:44:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/bahrain-patriot-interception-21032026-01-1774111409.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PM calls Anis Alamgir]]></title>
-            <description><![CDATA[[Bangladesh] PM calls Anis Alamgir]]></description>
-            <link>https://bdnews24.com/bangladesh/ff5207c44f05</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ff5207c44f05</guid>
-            <pubDate>Sat, 21 Mar 2026 22:13:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tarek-anis-210326-1774105188.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
