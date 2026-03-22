@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Mar 2026 09:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 10:15:18 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Mar 2026 09:21:03 GMT</pubDate>
+        <pubDate>Sun, 22 Mar 2026 10:15:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Man dies in car crash a day before his wedding]]></title>
+            <description><![CDATA[[Bangladesh] Man dies in car crash a day before his wedding]]></description>
+            <link>https://bdnews24.com/bangladesh/75f885e9b40a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/75f885e9b40a</guid>
+            <pubDate>Sun, 22 Mar 2026 15:54:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/natore-accident-220326-01-1774169845.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cumilla crash: Barrier 'wasn't lowered', gatekeeper 'absent']]></title>
+            <description><![CDATA[[Bangladesh] Cumilla crash: Barrier 'wasn't lowered', gatekeeper 'absent']]></description>
+            <link>https://bdnews24.com/bangladesh/58c1c04f56c0</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/58c1c04f56c0</guid>
+            <pubDate>Sun, 22 Mar 2026 15:51:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/comilla-accident-220326-01-1774174059.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Economic ‘pressure’ grows over Iran war: Amir Khosru]]></title>
+            <description><![CDATA[[Politics] Economic ‘pressure’ grows over Iran war: Amir Khosru]]></description>
+            <link>https://bdnews24.com/politics/cb73264162a8</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/cb73264162a8</guid>
+            <pubDate>Sun, 22 Mar 2026 15:29:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/amir-khosru-mahmud-chowdhury-220326-01-1774167560.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Eid joy turns to grief for families after Cumilla crash]]></title>
             <description><![CDATA[[Bangladesh] Eid joy turns to grief for families after Cumilla crash]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/0ba5b6b57f58</guid>
             <pubDate>Sun, 22 Mar 2026 06:12:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/comilla-bus-train-accident-220326-01-1774137291.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Everton win big over Chelsea for Beto’s double]]></title>
-            <description><![CDATA[[Sport] Everton win big over Chelsea for Beto’s double]]></description>
-            <link>https://bdnews24.com/sport/70f830cac845</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/70f830cac845</guid>
-            <pubDate>Sun, 22 Mar 2026 01:58:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/beto-22032026-1774123048.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lungthausi Para: A village that protects a forest]]></title>
-            <description><![CDATA[[Bangladesh] Lungthausi Para: A village that protects a forest]]></description>
-            <link>https://bdnews24.com/bangladesh/ee393ef06fa4</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ee393ef06fa4</guid>
-            <pubDate>Sun, 22 Mar 2026 01:40:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bandarban-bom-parabon-210326-02-1774121065.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Special counsel Robert Mueller, who probed Trump, dies at 81]]></title>
-            <description><![CDATA[[Americas] Special counsel Robert Mueller, who probed Trump, dies at 81]]></description>
-            <link>https://bdnews24.com/world/americas/606487bd2bb5</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/606487bd2bb5</guid>
-            <pubDate>Sun, 22 Mar 2026 01:10:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/robert-mueller-dead-22032026-01-1774120173.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
