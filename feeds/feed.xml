@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Mar 2026 08:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 09:21:03 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Mar 2026 08:20:05 GMT</pubDate>
+        <pubDate>Sun, 22 Mar 2026 09:21:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Eid joy turns to grief for families after Cumilla crash]]></title>
+            <description><![CDATA[[Bangladesh] Eid joy turns to grief for families after Cumilla crash]]></description>
+            <link>https://bdnews24.com/bangladesh/4afe94f83c06</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4afe94f83c06</guid>
+            <pubDate>Sun, 22 Mar 2026 15:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/cumilla-accident-morgue-220326-03-1774164073.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[BNP sets out two-day plan for Independence Day]]></title>
             <description><![CDATA[[Politics] BNP sets out two-day plan for Independence Day]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/americas/606487bd2bb5</guid>
             <pubDate>Sun, 22 Mar 2026 01:10:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/robert-mueller-dead-22032026-01-1774120173.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Liverpool dropping too many points: Slot]]></title>
-            <description><![CDATA[[Sport] Liverpool dropping too many points: Slot]]></description>
-            <link>https://bdnews24.com/sport/6917a7ce4b89</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/6917a7ce4b89</guid>
-            <pubDate>Sun, 22 Mar 2026 01:08:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/liv-points-slot-22032026-01-1774120058.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
