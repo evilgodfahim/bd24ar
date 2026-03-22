@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Mar 2026 23:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 01:04:55 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Mar 2026 23:13:56 GMT</pubDate>
+        <pubDate>Sun, 22 Mar 2026 01:04:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[12 die as train rams bus at Cumilla crossing]]></title>
+            <description><![CDATA[[Bangladesh] 12 die as train rams bus at Cumilla crossing]]></description>
+            <link>https://bdnews24.com/bangladesh/0ba5b6b57f58</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0ba5b6b57f58</guid>
+            <pubDate>Sun, 22 Mar 2026 06:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/comilla-bus-train-accident-220326-01-1774137291.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Everton win big over Chelsea for Beto’s double]]></title>
             <description><![CDATA[[Sport] Everton win big over Chelsea for Beto’s double]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/1e674b811a6f</guid>
             <pubDate>Sat, 21 Mar 2026 18:58:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-war-beyond-trumps-control-210326-01-1774097702.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[30 hurt in row over filming, photographing girls]]></title>
-            <description><![CDATA[[Bangladesh] 30 hurt in row over filming, photographing girls]]></description>
-            <link>https://bdnews24.com/bangladesh/6797bdfdd356</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6797bdfdd356</guid>
-            <pubDate>Sat, 21 Mar 2026 18:41:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/habiganj-clash-210326-01-1774094456-1774094779.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
