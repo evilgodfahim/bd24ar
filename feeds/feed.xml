@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Mar 2026 07:31:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 08:20:05 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Mar 2026 07:31:16 GMT</pubDate>
+        <pubDate>Sun, 22 Mar 2026 08:20:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[BNP sets out two-day plan for Independence Day]]></title>
+            <description><![CDATA[[Politics] BNP sets out two-day plan for Independence Day]]></description>
+            <link>https://bdnews24.com/politics/ca4b1f6fcd73</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/ca4b1f6fcd73</guid>
+            <pubDate>Sun, 22 Mar 2026 14:05:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bnp-kormosuchi-220326-01-1774165590.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Strike on Sudan hospital kills 64: WHO]]></title>
+            <description><![CDATA[[Africa] Strike on Sudan hospital kills 64: WHO]]></description>
+            <link>https://bdnews24.com/world/africa/a5b1f64f0f75</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/africa/a5b1f64f0f75</guid>
+            <pubDate>Sun, 22 Mar 2026 13:35:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/sudan-1774158203.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[US Patriot missile likely behind Bahrain blast, analysis finds]]></title>
             <description><![CDATA[[Middle East] US Patriot missile likely behind Bahrain blast, analysis finds]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/6917a7ce4b89</guid>
             <pubDate>Sun, 22 Mar 2026 01:08:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/liv-points-slot-22032026-01-1774120058.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Welbeck double steers Brighton to victory]]></title>
-            <description><![CDATA[[Sport] Welbeck double steers Brighton to victory]]></description>
-            <link>https://bdnews24.com/sport/7d7f1922f8e0</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/7d7f1922f8e0</guid>
-            <pubDate>Sun, 22 Mar 2026 01:06:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/welbeck-brighton-win-22032026-01-1774119919.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US lawmakers push to recognise 1971 genocide in Congress]]></title>
-            <description><![CDATA[[Bangladesh] US lawmakers push to recognise 1971 genocide in Congress]]></description>
-            <link>https://bdnews24.com/bangladesh/2ab126313804</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2ab126313804</guid>
-            <pubDate>Sun, 22 Mar 2026 00:33:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024December/SM/selina-parveen-boddhobhumi-01-1734099875.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
