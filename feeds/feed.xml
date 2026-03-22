@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Mar 2026 04:08:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 05:44:12 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Mar 2026 04:08:03 GMT</pubDate>
+        <pubDate>Sun, 22 Mar 2026 05:44:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Gatekeepers suspended after deadly Cumilla train-bus crash]]></title>
+            <description><![CDATA[[Bangladesh] Gatekeepers suspended after deadly Cumilla train-bus crash]]></description>
+            <link>https://bdnews24.com/bangladesh/0e7f53d0811b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0e7f53d0811b</guid>
+            <pubDate>Sun, 22 Mar 2026 10:51:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/comilla-bus-train-accident-220326-05-1774152201.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russian attacks kill 4, thousands without power: Ukraine]]></title>
+            <description><![CDATA[[World] Russian attacks kill 4, thousands without power: Ukraine]]></description>
+            <link>https://bdnews24.com/world/414ec2e98e0c</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/414ec2e98e0c</guid>
+            <pubDate>Sun, 22 Mar 2026 10:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/ukraine-russia-war-strikes-220326-01-1774152450.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Trump threatens ICE agents in airports over funding impasse]]></title>
             <description><![CDATA[[World] Trump threatens ICE agents in airports over funding impasse]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/ff5207c44f05</guid>
             <pubDate>Sat, 21 Mar 2026 22:13:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tarek-anis-210326-1774105188.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US, Israel must stop attacks immediately: Iran president]]></title>
-            <description><![CDATA[[World] US, Israel must stop attacks immediately: Iran president]]></description>
-            <link>https://bdnews24.com/world/e49f32437eee</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/e49f32437eee</guid>
-            <pubDate>Sat, 21 Mar 2026 22:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/stop-aggression-pezeshkian-21032026-01-1774109306.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Essentials kept affordable: commerce minister]]></title>
-            <description><![CDATA[[Bangladesh] Essentials kept affordable: commerce minister]]></description>
-            <link>https://bdnews24.com/bangladesh/0e42d4620ee4</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0e42d4620ee4</guid>
-            <pubDate>Sat, 21 Mar 2026 21:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/sylhet-eid-namaz-bnp-210326-01-1774103384.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
