@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Mar 2026 18:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 19:17:22 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Mar 2026 18:19:42 GMT</pubDate>
+        <pubDate>Sun, 22 Mar 2026 19:17:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Death toll mounts in US-Israeli war on Iran]]></title>
+            <description><![CDATA[[World] Death toll mounts in US-Israeli war on Iran]]></description>
+            <link>https://bdnews24.com/world/4e5509154df0</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/4e5509154df0</guid>
+            <pubDate>Mon, 23 Mar 2026 01:15:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-war-090326-01-1773068629.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iranian missiles wound scores in southern Israel]]></title>
+            <description><![CDATA[[World] Iranian missiles wound scores in southern Israel]]></description>
+            <link>https://bdnews24.com/world/232b96c4d3f3</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/232b96c4d3f3</guid>
+            <pubDate>Mon, 23 Mar 2026 00:42:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/beirut-21326-1774069012.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Premier League probes 'discrimination' in Newcastle-Sunderland game]]></title>
+            <description><![CDATA[[Sport] Premier League probes 'discrimination' in Newcastle-Sunderland game]]></description>
+            <link>https://bdnews24.com/sport/b24c7ddacb0c</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/b24c7ddacb0c</guid>
+            <pubDate>Mon, 23 Mar 2026 00:38:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/villa-chelsea-drop-21022026-01-1771697025.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Forest cruise past Spurs to boost survival hopes]]></title>
             <description><![CDATA[[Sport] Forest cruise past Spurs to boost survival hopes]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/entertainment/347133c98bb7</guid>
             <pubDate>Sun, 22 Mar 2026 19:57:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/hind-rajab-220326-1774192950.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran warns of energy, water strikes after Trump ultimatum]]></title>
-            <description><![CDATA[[World] Iran warns of energy, water strikes after Trump ultimatum]]></description>
-            <link>https://bdnews24.com/world/0419e17bf688</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/0419e17bf688</guid>
-            <pubDate>Sun, 22 Mar 2026 19:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-warns-energy-water-strikes-220326-01-1774199545.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dortmund part ways with sporting director Kehl]]></title>
-            <description><![CDATA[[Sport] Dortmund part ways with sporting director Kehl]]></description>
-            <link>https://bdnews24.com/sport/4b2d38605cb5</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/4b2d38605cb5</guid>
-            <pubDate>Sun, 22 Mar 2026 19:39:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026January/SM/sabitzer-270126-01-1769526276.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Morocco’s Sektioui named Oman coach]]></title>
-            <description><![CDATA[[Sport] Morocco’s Sektioui named Oman coach]]></description>
-            <link>https://bdnews24.com/sport/7d697ab4801e</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/7d697ab4801e</guid>
-            <pubDate>Sun, 22 Mar 2026 19:21:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/morocco-title-180326-01-1773801031.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
