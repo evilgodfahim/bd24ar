@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Mar 2026 10:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 11:13:56 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Mar 2026 10:15:18 GMT</pubDate>
+        <pubDate>Sun, 22 Mar 2026 11:13:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Local government polls needed soon: Shafiqur]]></title>
+            <description><![CDATA[[Politics] Local government polls needed soon: Shafiqur]]></description>
+            <link>https://bdnews24.com/politics/5518466f5fdd</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/5518466f5fdd</guid>
+            <pubDate>Sun, 22 Mar 2026 16:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/sylhet-jamat-amir-220326-01-1774172737.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Man dies in car crash a day before his wedding]]></title>
             <description><![CDATA[[Bangladesh] Man dies in car crash a day before his wedding]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/6404d0f3b306</guid>
             <pubDate>Sun, 22 Mar 2026 09:24:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-power-iran-hormuz-strikes-220326-01-1774149794.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[12 die as train rams bus at Cumilla crossing]]></title>
-            <description><![CDATA[[Bangladesh] 12 die as train rams bus at Cumilla crossing]]></description>
-            <link>https://bdnews24.com/bangladesh/0ba5b6b57f58</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0ba5b6b57f58</guid>
-            <pubDate>Sun, 22 Mar 2026 06:12:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/comilla-bus-train-accident-220326-01-1774137291.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
