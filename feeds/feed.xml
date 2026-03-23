@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Mar 2026 19:39:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 20:27:01 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Mar 2026 19:39:26 GMT</pubDate>
+        <pubDate>Mon, 23 Mar 2026 20:27:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US judge blocks Trump from detaining thousands of refugees]]></title>
+            <description><![CDATA[[Americas] US judge blocks Trump from detaining thousands of refugees]]></description>
+            <link>https://bdnews24.com/world/americas/2179bdba338e</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/2179bdba338e</guid>
+            <pubDate>Tue, 24 Mar 2026 02:25:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/donald-trump-240326-01-1774297443.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gattuso prioritises mental issues over tactics]]></title>
+            <description><![CDATA[[Sport] Gattuso prioritises mental issues over tactics]]></description>
+            <link>https://bdnews24.com/sport/a33804df4145</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/a33804df4145</guid>
+            <pubDate>Tue, 24 Mar 2026 02:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/italy-composure-tactics-240326-01-1774296514.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Zidane to take charge of France after WC: ESPN]]></title>
+            <description><![CDATA[[Sport] Zidane to take charge of France after WC: ESPN]]></description>
+            <link>https://bdnews24.com/sport/33f5661ece4d</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/33f5661ece4d</guid>
+            <pubDate>Tue, 24 Mar 2026 02:06:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/zidane-french-coach-240326-01-1774296370.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mental health crisis deepens in Bangladesh]]></title>
+            <description><![CDATA[[Health] Mental health crisis deepens in Bangladesh]]></description>
+            <link>https://bdnews24.com/health/d5d60201754e</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/d5d60201754e</guid>
+            <pubDate>Tue, 24 Mar 2026 01:56:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mental-health-ilustration-200326-01-1774294335.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Dead teen house help was ‘raped’]]></title>
             <description><![CDATA[[Bangladesh] Dead teen house help was ‘raped’]]></description>
@@ -33,8 +65,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/faridpur-bnp-shama-230326-01-1774284343.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Military plane carrying 125 crashes in Colombia]]></title>
-            <description><![CDATA[[Americas] Military plane carrying 125 crashes in Colombia]]></description>
+            <title><![CDATA[Colombian military plane crash kills 1]]></title>
+            <description><![CDATA[[Americas] Colombian military plane crash kills 1]]></description>
             <link>https://bdnews24.com/world/americas/73f3aadfc1bc</link>
             <guid isPermaLink="true">https://bdnews24.com/world/americas/73f3aadfc1bc</guid>
             <pubDate>Tue, 24 Mar 2026 00:12:00 GMT</pubDate>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/4f19e265b0a4</guid>
             <pubDate>Mon, 23 Mar 2026 22:01:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/arsenal-eze-out-230326-01-1774281646.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lacroix replaces Saliba in France squad]]></title>
-            <description><![CDATA[[Sport] Lacroix replaces Saliba in France squad]]></description>
-            <link>https://bdnews24.com/sport/83b98c356b10</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/83b98c356b10</guid>
-            <pubDate>Mon, 23 Mar 2026 21:59:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/lacroix-replaces-saliba-230326-01-1774281489.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[McCullum to continue as England coach: ECB]]></title>
-            <description><![CDATA[[Cricket] McCullum to continue as England coach: ECB]]></description>
-            <link>https://bdnews24.com/cricket/2c8461b14531</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/2c8461b14531</guid>
-            <pubDate>Mon, 23 Mar 2026 21:53:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/mccullum-continue-ecb-230326-01-1774281102.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[CA to keep hands off pitches despite Ashes debacle]]></title>
-            <description><![CDATA[[Cricket] CA to keep hands off pitches despite Ashes debacle]]></description>
-            <link>https://bdnews24.com/cricket/90647f3c931d</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/90647f3c931d</guid>
-            <pubDate>Mon, 23 Mar 2026 21:46:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/ca-keep-handsoff-pitch-230326-01-1774280738.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eid rush runs on empty in Chattogram]]></title>
-            <description><![CDATA[[Bangladesh] Eid rush runs on empty in Chattogram]]></description>
-            <link>https://bdnews24.com/bangladesh/2c534faec795</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2c534faec795</guid>
-            <pubDate>Mon, 23 Mar 2026 21:20:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/petrol-pamp-foyez-ahmad-chattogram-230326-06-1774274566.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
