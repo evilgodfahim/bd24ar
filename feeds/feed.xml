@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Mar 2026 07:54:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 08:41:02 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Mar 2026 07:54:00 GMT</pubDate>
+        <pubDate>Mon, 23 Mar 2026 08:41:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[China warns of 'vicious cycle' if Iran war escalates]]></title>
+            <description><![CDATA[[Asia Pacific] China warns of 'vicious cycle' if Iran war escalates]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/3827f04001a6</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/3827f04001a6</guid>
+            <pubDate>Mon, 23 Mar 2026 14:24:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/lin-jian-230326-01-1774254203.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Minister Zahid spends Eid break seeing patients in Dinajpur]]></title>
             <description><![CDATA[[Bangladesh] Minister Zahid spends Eid break seeing patients in Dinajpur]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/americas/7e80d834456b</guid>
             <pubDate>Mon, 23 Mar 2026 09:50:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-dhs-funding-230326-01-1774237715.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Asia shares slide, yields climb as Gulf war rages]]></title>
-            <description><![CDATA[[Business] Asia shares slide, yields climb as Gulf war rages]]></description>
-            <link>https://bdnews24.com/business/460707e14606</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/460707e14606</guid>
-            <pubDate>Mon, 23 Mar 2026 09:43:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/nikkei-price-quotation-board-230326-1774236219.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
