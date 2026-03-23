@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Mar 2026 18:36:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 19:39:26 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Mar 2026 18:36:38 GMT</pubDate>
+        <pubDate>Mon, 23 Mar 2026 19:39:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Dead teen house help was ‘raped’]]></title>
+            <description><![CDATA[[Bangladesh] Dead teen house help was ‘raped’]]></description>
+            <link>https://bdnews24.com/bangladesh/22164913543b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/22164913543b</guid>
+            <pubDate>Tue, 24 Mar 2026 00:53:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2022-08/f788da72-c5c1-4f04-b38a-a7c7b8192d67/child_abuse_01.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Power minister urges calm amid fuel concerns]]></title>
+            <description><![CDATA[[Bangladesh] Power minister urges calm amid fuel concerns]]></description>
+            <link>https://bdnews24.com/bangladesh/1e5c916e5fa8</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1e5c916e5fa8</guid>
+            <pubDate>Tue, 24 Mar 2026 00:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/iqbal-hasan-mahmud-230326-1774288578.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Expatriates being flown home amid Gulf war: Shama]]></title>
             <description><![CDATA[[Bangladesh] Expatriates being flown home amid Gulf war: Shama]]></description>
@@ -17,8 +33,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/faridpur-bnp-shama-230326-01-1774284343.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Military plane with 110 soldiers onboard crashes in Colombia]]></title>
-            <description><![CDATA[[Americas] Military plane with 110 soldiers onboard crashes in Colombia]]></description>
+            <title><![CDATA[Military plane carrying 125 crashes in Colombia]]></title>
+            <description><![CDATA[[Americas] Military plane carrying 125 crashes in Colombia]]></description>
             <link>https://bdnews24.com/world/americas/73f3aadfc1bc</link>
             <guid isPermaLink="true">https://bdnews24.com/world/americas/73f3aadfc1bc</guid>
             <pubDate>Tue, 24 Mar 2026 00:12:00 GMT</pubDate>
@@ -55,14 +71,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/d96d5b6aa2af</guid>
             <pubDate>Mon, 23 Mar 2026 23:06:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/qalibaf-central-in-tehran-230326-01-1774285494.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sevilla sack manager Almeyda]]></title>
-            <description><![CDATA[[Sport] Sevilla sack manager Almeyda]]></description>
-            <link>https://bdnews24.com/sport/56ecb9456935</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/56ecb9456935</guid>
-            <pubDate>Mon, 23 Mar 2026 22:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/matias-almeyda-230326-01-1774284885.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Sevilla sack manager Almeyda]]></title>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/2c534faec795</guid>
             <pubDate>Mon, 23 Mar 2026 21:20:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/petrol-pamp-foyez-ahmad-chattogram-230326-06-1774274566.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ICE agents should not wear masks at airports: Trump]]></title>
-            <description><![CDATA[[World] ICE agents should not wear masks at airports: Trump]]></description>
-            <link>https://bdnews24.com/world/91faef553525</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/91faef553525</guid>
-            <pubDate>Mon, 23 Mar 2026 21:19:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/donald-trump-230326-01-1774279091.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
