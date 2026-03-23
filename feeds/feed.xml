@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Mar 2026 17:41:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 18:36:38 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Mar 2026 17:41:45 GMT</pubDate>
+        <pubDate>Mon, 23 Mar 2026 18:36:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Expatriates being flown home amid Gulf war: Shama]]></title>
+            <description><![CDATA[[Bangladesh] Expatriates being flown home amid Gulf war: Shama]]></description>
+            <link>https://bdnews24.com/bangladesh/cfadfcc33ebb</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cfadfcc33ebb</guid>
+            <pubDate>Tue, 24 Mar 2026 00:25:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/faridpur-bnp-shama-230326-01-1774284343.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Military plane with 110 soldiers onboard crashes in Colombia]]></title>
+            <description><![CDATA[[Americas] Military plane with 110 soldiers onboard crashes in Colombia]]></description>
+            <link>https://bdnews24.com/world/americas/73f3aadfc1bc</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/73f3aadfc1bc</guid>
+            <pubDate>Tue, 24 Mar 2026 00:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024May/SM/chattogram-air-crash-090524-01-1715233959.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Dortmund name Book as sporting director]]></title>
             <description><![CDATA[[Sport] Dortmund name Book as sporting director]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/91faef553525</guid>
             <pubDate>Mon, 23 Mar 2026 21:19:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/donald-trump-230326-01-1774279091.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka teacher dies looking for missing cat]]></title>
-            <description><![CDATA[[Bangladesh] Dhaka teacher dies looking for missing cat]]></description>
-            <link>https://bdnews24.com/bangladesh/a93a226c40ab</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a93a226c40ab</guid>
-            <pubDate>Mon, 23 Mar 2026 20:55:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/banna-kosta-230326-01-1774277043.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Crackdown on private hospitals begins Tuesday]]></title>
-            <description><![CDATA[[Bangladesh] Crackdown on private hospitals begins Tuesday]]></description>
-            <link>https://bdnews24.com/bangladesh/b6352669899b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b6352669899b</guid>
-            <pubDate>Mon, 23 Mar 2026 20:46:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/sardar-shakhawat-hossain-bakul-health-minister-230326-1774274769.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
