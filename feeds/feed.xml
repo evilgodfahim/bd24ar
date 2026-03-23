@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Mar 2026 11:35:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 12:37:04 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Mar 2026 11:35:24 GMT</pubDate>
+        <pubDate>Mon, 23 Mar 2026 12:37:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump pauses plans to bomb Iran power grid]]></title>
+            <description><![CDATA[[World] Trump pauses plans to bomb Iran power grid]]></description>
+            <link>https://bdnews24.com/world/26c2bd564ba8</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/26c2bd564ba8</guid>
+            <pubDate>Mon, 23 Mar 2026 18:34:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-fraud-task-force-16032026-01-1773679601.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman dies in BNP clash in Pabna]]></title>
+            <description><![CDATA[[Bangladesh] Woman dies in BNP clash in Pabna]]></description>
+            <link>https://bdnews24.com/bangladesh/95bdb61405c4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/95bdb61405c4</guid>
+            <pubDate>Mon, 23 Mar 2026 17:54:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/pabna-suzanagar-thana-230326-01-1774264091.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Holidayers flock to Sylhet during Eid break]]></title>
+            <description><![CDATA[[Bangladesh] Holidayers flock to Sylhet during Eid break]]></description>
+            <link>https://bdnews24.com/bangladesh/7da40aa615f4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7da40aa615f4</guid>
+            <pubDate>Mon, 23 Mar 2026 17:36:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/syhlet-tourist-230326-01-1774262212.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Essentials may get dearer due to Iran war: Fakhrul]]></title>
             <description><![CDATA[[Bangladesh] Essentials may get dearer due to Iran war: Fakhrul]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/6cd6d2615f43</guid>
             <pubDate>Mon, 23 Mar 2026 11:13:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/california-heatwave-230326-01-1774242779.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Woman falls into lift shaft, dies in Dhaka]]></title>
-            <description><![CDATA[[Bangladesh] Woman falls into lift shaft, dies in Dhaka]]></description>
-            <link>https://bdnews24.com/bangladesh/4880ba6654b6</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4880ba6654b6</guid>
-            <pubDate>Mon, 23 Mar 2026 11:03:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-02/9021c496-de82-40e2-9272-b4d04091c11d/dmch_emergency_department_230223_04.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Musk says SpaceX, Tesla to build advanced chip factories]]></title>
-            <description><![CDATA[[Business] Musk says SpaceX, Tesla to build advanced chip factories]]></description>
-            <link>https://bdnews24.com/business/0574f5350d26</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/0574f5350d26</guid>
-            <pubDate>Mon, 23 Mar 2026 10:55:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/tesla-ev-230326-01-1774241621.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dollar poised for rally]]></title>
-            <description><![CDATA[[Economy] Dollar poised for rally]]></description>
-            <link>https://bdnews24.com/economy/61c5dc6100b2</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/61c5dc6100b2</guid>
-            <pubDate>Mon, 23 Mar 2026 10:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-dollar-230326-01-1774241419.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
