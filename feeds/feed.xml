@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Mar 2026 10:41:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 11:35:24 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Mar 2026 10:41:19 GMT</pubDate>
+        <pubDate>Mon, 23 Mar 2026 11:35:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Essentials may get dearer due to Iran war: Fakhrul]]></title>
+            <description><![CDATA[[Bangladesh] Essentials may get dearer due to Iran war: Fakhrul]]></description>
+            <link>https://bdnews24.com/bangladesh/8f11566ed3b2</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8f11566ed3b2</guid>
+            <pubDate>Mon, 23 Mar 2026 17:05:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/thakurgaon-bnp-fakrul-230326-01-1774258338.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Banned outfit’s posters, graffiti spark panic in Pabna]]></title>
+            <description><![CDATA[[Bangladesh] Banned outfit’s posters, graffiti spark panic in Pabna]]></description>
+            <link>https://bdnews24.com/bangladesh/64c3e4bfe6bc</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/64c3e4bfe6bc</guid>
+            <pubDate>Mon, 23 Mar 2026 16:45:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/pabna-underground-party-220326-01-1774256285.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Mullally prepares to be enthroned as 1st female Canterbury archbishop]]></title>
             <description><![CDATA[[Europe] Mullally prepares to be enthroned as 1st female Canterbury archbishop]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/economy/61c5dc6100b2</guid>
             <pubDate>Mon, 23 Mar 2026 10:51:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-dollar-230326-01-1774241419.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Starmer calls emergency meeting on economy]]></title>
-            <description><![CDATA[[Economy] Starmer calls emergency meeting on economy]]></description>
-            <link>https://bdnews24.com/economy/bcbb27eba577</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/bcbb27eba577</guid>
-            <pubDate>Mon, 23 Mar 2026 10:46:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/keir-starmer-230326-01-1774241119.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vinicius double sees Real edge Atleti in pulsating derby]]></title>
-            <description><![CDATA[[Sport] Vinicius double sees Real edge Atleti in pulsating derby]]></description>
-            <link>https://bdnews24.com/sport/f1bc2a81c2f6</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/f1bc2a81c2f6</guid>
-            <pubDate>Mon, 23 Mar 2026 10:37:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/laliga-real-madrid-atletico-madrid-230326-01-1774240552.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
