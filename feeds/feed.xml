@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Mar 2026 12:37:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 14:06:17 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Mar 2026 12:37:04 GMT</pubDate>
+        <pubDate>Mon, 23 Mar 2026 14:06:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[HK police given new powers to obtain device passwords]]></title>
+            <description><![CDATA[[World] HK police given new powers to obtain device passwords]]></description>
+            <link>https://bdnews24.com/world/a93c2bdd1960</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/a93c2bdd1960</guid>
+            <pubDate>Mon, 23 Mar 2026 20:01:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/hk-police-230326-01-1774274434.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Offices to reopen on Tuesday after Eid break]]></title>
+            <description><![CDATA[[Bangladesh] Offices to reopen on Tuesday after Eid break]]></description>
+            <link>https://bdnews24.com/bangladesh/9b19e7a8447d</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9b19e7a8447d</guid>
+            <pubDate>Mon, 23 Mar 2026 19:29:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/returning-dhaka-after-eid-celebrations-230326-006-1774265560.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fuel crisis shuts down 72 petrol pumps in Bogura]]></title>
+            <description><![CDATA[[Bangladesh] Fuel crisis shuts down 72 petrol pumps in Bogura]]></description>
+            <link>https://bdnews24.com/bangladesh/85b1d947d598</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/85b1d947d598</guid>
+            <pubDate>Mon, 23 Mar 2026 19:18:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bogura-petrol-pump-230326-01-1774269918.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Air Canada jet hits NY fire truck, killing both pilots]]></title>
+            <description><![CDATA[[World] Air Canada jet hits NY fire truck, killing both pilots]]></description>
+            <link>https://bdnews24.com/world/a79788d26a30</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/a79788d26a30</guid>
+            <pubDate>Mon, 23 Mar 2026 19:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/plane-collides-230326-01-1774250057.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[DMP sets March deadline to clear footpaths]]></title>
+            <description><![CDATA[[Bangladesh] DMP sets March deadline to clear footpaths]]></description>
+            <link>https://bdnews24.com/bangladesh/e69d6f87645b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e69d6f87645b</guid>
+            <pubDate>Mon, 23 Mar 2026 18:44:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025July/SM/footpath-occupied-hotel-shop-080725-004-1751903128.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Trump pauses plans to bomb Iran power grid]]></title>
             <description><![CDATA[[World] Trump pauses plans to bomb Iran power grid]]></description>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/americas/ed1a4237401c</guid>
             <pubDate>Mon, 23 Mar 2026 12:43:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/jet-crash-new-york-230326-01-1774248094.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eid holiday to end on a hotter note]]></title>
-            <description><![CDATA[[Bangladesh] Eid holiday to end on a hotter note]]></description>
-            <link>https://bdnews24.com/bangladesh/a94681e5d465</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a94681e5d465</guid>
-            <pubDate>Mon, 23 Mar 2026 12:37:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/people-selling-hatirjheel-hot-weather-300921-011021-1774247828.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran war deals new blow to Europe's industrial heartland]]></title>
-            <description><![CDATA[[THE LONG READ] Iran war deals new blow to Europe's industrial heartland]]></description>
-            <link>https://bdnews24.com/the-long-read/823c064a6622</link>
-            <guid isPermaLink="true">https://bdnews24.com/the-long-read/823c064a6622</guid>
-            <pubDate>Mon, 23 Mar 2026 12:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/germany-industry-23326-1774247618.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Former president Hamid’s brother Abdul Haque dies]]></title>
-            <description><![CDATA[[People] Former president Hamid’s brother Abdul Haque dies]]></description>
-            <link>https://bdnews24.com/people/08263ea74cd4</link>
-            <guid isPermaLink="true">https://bdnews24.com/people/08263ea74cd4</guid>
-            <pubDate>Mon, 23 Mar 2026 12:12:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/abdul-haque-nuru220326-1774202245.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[School student found hanging in Dhaka]]></title>
-            <description><![CDATA[[Bangladesh] School student found hanging in Dhaka]]></description>
-            <link>https://bdnews24.com/bangladesh/98374b691ad4</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/98374b691ad4</guid>
-            <pubDate>Mon, 23 Mar 2026 11:39:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024August/SM/mortuary-dmc-100824-01-1723351888.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UN weather agency confirms hottest decade on record]]></title>
-            <description><![CDATA[[World] UN weather agency confirms hottest decade on record]]></description>
-            <link>https://bdnews24.com/world/6cd6d2615f43</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/6cd6d2615f43</guid>
-            <pubDate>Mon, 23 Mar 2026 11:13:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/california-heatwave-230326-01-1774242779.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
