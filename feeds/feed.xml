@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Mar 2026 08:41:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 09:51:05 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Mar 2026 08:41:02 GMT</pubDate>
+        <pubDate>Mon, 23 Mar 2026 09:51:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Mirza Abbas’s condition improves]]></title>
+            <description><![CDATA[[Politics] Mirza Abbas’s condition improves]]></description>
+            <link>https://bdnews24.com/politics/9a3a3af63df8</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/9a3a3af63df8</guid>
+            <pubDate>Mon, 23 Mar 2026 15:45:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mirza-abbas-130626-01-1773397195.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bank closure causing fuel crisis: pump owners]]></title>
+            <description><![CDATA[[Business] Bank closure causing fuel crisis: pump owners]]></description>
+            <link>https://bdnews24.com/business/6301ba1f5b8f</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/6301ba1f5b8f</guid>
+            <pubDate>Mon, 23 Mar 2026 15:20:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/fuel-crisis-filling-stations-080326-051-1772973758.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[China warns of 'vicious cycle' if Iran war escalates]]></title>
             <description><![CDATA[[Asia Pacific] China warns of 'vicious cycle' if Iran war escalates]]></description>
@@ -33,8 +49,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rajbari-no-oil-230326-01-1774249315.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Jet hits ground vehicle at New York airport]]></title>
-            <description><![CDATA[[Americas] Jet hits ground vehicle at New York airport]]></description>
+            <title><![CDATA[Pilot, co-pilot killed in LaGuardia crash]]></title>
+            <description><![CDATA[[Americas] Pilot, co-pilot killed in LaGuardia crash]]></description>
             <link>https://bdnews24.com/world/americas/ed1a4237401c</link>
             <guid isPermaLink="true">https://bdnews24.com/world/americas/ed1a4237401c</guid>
             <pubDate>Mon, 23 Mar 2026 12:43:00 GMT</pubDate>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/media-en/bee7ff260775</guid>
             <pubDate>Mon, 23 Mar 2026 10:00:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/bbc-dg-brittin-230326-01-1774238317.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cuba restores power to Havana after grid collapse]]></title>
-            <description><![CDATA[[Americas] Cuba restores power to Havana after grid collapse]]></description>
-            <link>https://bdnews24.com/world/americas/29b4910ba948</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/29b4910ba948</guid>
-            <pubDate>Mon, 23 Mar 2026 09:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/cuba-havana-power-restored-230326-01-1774238174.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump ties DHS funding deal to approval of voter bill]]></title>
-            <description><![CDATA[[Americas] Trump ties DHS funding deal to approval of voter bill]]></description>
-            <link>https://bdnews24.com/world/americas/7e80d834456b</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/7e80d834456b</guid>
-            <pubDate>Mon, 23 Mar 2026 09:50:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-dhs-funding-230326-01-1774237715.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
