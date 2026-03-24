@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Mar 2026 19:45:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 20:29:19 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Mar 2026 19:45:14 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:29:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[BNP govt faces IMF push over interim reform continuity]]></title>
+            <description><![CDATA[[Bangladesh] BNP govt faces IMF push over interim reform continuity]]></description>
+            <link>https://bdnews24.com/bangladesh/ab2d8a5a2f49</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ab2d8a5a2f49</guid>
+            <pubDate>Wed, 25 Mar 2026 02:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2022-10/4e75811a-8a9e-4773-98ad-942f9677d9c0/imf_bangladesh_bank_meet_271022_01.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US expected to send thousands more troops to Middle East]]></title>
+            <description><![CDATA[[World] US expected to send thousands more troops to Middle East]]></description>
+            <link>https://bdnews24.com/world/f6898f4a970b</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/f6898f4a970b</guid>
+            <pubDate>Wed, 25 Mar 2026 02:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/pentagon-190326-01-1773936219.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Salah to leave Liverpool at end of season]]></title>
+            <description><![CDATA[[Sport] Salah to leave Liverpool at end of season]]></description>
+            <link>https://bdnews24.com/sport/e2edaa2f58bf</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/e2edaa2f58bf</guid>
+            <pubDate>Wed, 25 Mar 2026 01:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/mohamed-salah-250326-01-1774381642.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Night of most brutal genocide in history: prime minister]]></title>
             <description><![CDATA[[Bangladesh] Night of most brutal genocide in history: prime minister]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/7de3c1456de7</guid>
             <pubDate>Tue, 24 Mar 2026 21:15:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/russia-drone-240326-01-1774365224.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US trade deal to face parliamentary scrutiny: Shama Obaed]]></title>
-            <description><![CDATA[[Bangladesh] US trade deal to face parliamentary scrutiny: Shama Obaed]]></description>
-            <link>https://bdnews24.com/bangladesh/87bdfaf423a7</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/87bdfaf423a7</guid>
-            <pubDate>Tue, 24 Mar 2026 21:05:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/shama-obaed-islam-240326-01-1774363338.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Boycott slates England's Ashes review]]></title>
-            <description><![CDATA[[Sport] Boycott slates England's Ashes review]]></description>
-            <link>https://bdnews24.com/sport/a073ad90c65d</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/a073ad90c65d</guid>
-            <pubDate>Tue, 24 Mar 2026 20:54:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/england-1774364034.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka to automate 120 traffic signals to fix gridlock]]></title>
-            <description><![CDATA[[Bangladesh] Dhaka to automate 120 traffic signals to fix gridlock]]></description>
-            <link>https://bdnews24.com/bangladesh/749b1ecfac4d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/749b1ecfac4d</guid>
-            <pubDate>Tue, 24 Mar 2026 20:50:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025April/SM/traffic-signal-light-270425-056-1745847212.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
