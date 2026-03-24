@@ -4,13 +4,77 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Mar 2026 12:40:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 14:10:52 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Mar 2026 12:40:36 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 14:10:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Iran gets new top security official]]></title>
-            <description><![CDATA[[World] Iran gets new top security official]]></description>
+            <title><![CDATA[Classes at primary schools on 10 Saturdays]]></title>
+            <description><![CDATA[[Education] Classes at primary schools on 10 Saturdays]]></description>
+            <link>https://bdnews24.com/education/ba2dcf26f450</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/ba2dcf26f450</guid>
+            <pubDate>Tue, 24 Mar 2026 19:46:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/kidz-151123-01-1774356894.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran rains missiles onto Israel, mocks Trump's talk]]></title>
+            <description><![CDATA[[World] Iran rains missiles onto Israel, mocks Trump's talk]]></description>
+            <link>https://bdnews24.com/world/c286203e2f0a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/c286203e2f0a</guid>
+            <pubDate>Tue, 24 Mar 2026 19:39:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-missile-240326-01-1774359445.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Asadgate, Shyamoli clinics crackdown in 7 days]]></title>
+            <description><![CDATA[[Bangladesh] Asadgate, Shyamoli clinics crackdown in 7 days]]></description>
+            <link>https://bdnews24.com/bangladesh/29977b82fbe3</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/29977b82fbe3</guid>
+            <pubDate>Tue, 24 Mar 2026 19:27:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/shakhawat-hossain-bakul-health-minister-240326-1774357261.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[2 held over rape at knifepoint in Narayanganj]]></title>
+            <description><![CDATA[[Bangladesh] 2 held over rape at knifepoint in Narayanganj]]></description>
+            <link>https://bdnews24.com/bangladesh/fb5868299184</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/fb5868299184</guid>
+            <pubDate>Tue, 24 Mar 2026 19:26:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/narayanganj-rupganj-240326-01-1774353005.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[2 killed, 50 injured in Brahmanbaria clashes]]></title>
+            <description><![CDATA[[Bangladesh] 2 killed, 50 injured in Brahmanbaria clashes]]></description>
+            <link>https://bdnews24.com/bangladesh/c9e9838ad232</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c9e9838ad232</guid>
+            <pubDate>Tue, 24 Mar 2026 19:01:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/brahmanbaria-nasirnagar-240326-01-1774354993.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Menon, Inu, Justice Manik granted bail in Zia defamation case]]></title>
+            <description><![CDATA[[Politics] Menon, Inu, Justice Manik granted bail in Zia defamation case]]></description>
+            <link>https://bdnews24.com/politics/46d190fe2f7c</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/46d190fe2f7c</guid>
+            <pubDate>Tue, 24 Mar 2026 18:52:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024August/SM/menon-inu-manik-220824-01-1724328872.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Legal notice asks govt to buy air defence system]]></title>
+            <description><![CDATA[[Bangladesh] Legal notice asks govt to buy air defence system]]></description>
+            <link>https://bdnews24.com/bangladesh/011cd5775e80</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/011cd5775e80</guid>
+            <pubDate>Tue, 24 Mar 2026 18:52:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/air-defence-system-240326-01-1774354683.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-general Masud Uddin remanded]]></title>
+            <description><![CDATA[[Bangladesh] Ex-general Masud Uddin remanded]]></description>
+            <link>https://bdnews24.com/bangladesh/ca39730ae975</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ca39730ae975</guid>
+            <pubDate>Tue, 24 Mar 2026 18:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/police-press-meet-dig-shafiqul-islam-240326-01-1774347872.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran gets new security head]]></title>
+            <description><![CDATA[[World] Iran gets new security head]]></description>
             <link>https://bdnews24.com/world/de1bdf22bd36</link>
             <guid isPermaLink="true">https://bdnews24.com/world/de1bdf22bd36</guid>
             <pubDate>Tue, 24 Mar 2026 18:17:00 GMT</pubDate>
@@ -103,70 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/e26783d34067</guid>
             <pubDate>Tue, 24 Mar 2026 14:59:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rajshahi-pamp-240326-01-1774339988.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt eyes fresh IMF funds to cushion fuel shock]]></title>
-            <description><![CDATA[[Economy] Govt eyes fresh IMF funds to cushion fuel shock]]></description>
-            <link>https://bdnews24.com/economy/8ac0507bc119</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/8ac0507bc119</guid>
-            <pubDate>Tue, 24 Mar 2026 14:52:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/amir-khasru-mahmud-chowdhury-240326-01-1774340528.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 die as car slams into tree in Jashore]]></title>
-            <description><![CDATA[[Bangladesh] 3 die as car slams into tree in Jashore]]></description>
-            <link>https://bdnews24.com/bangladesh/675cab4f7a91</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/675cab4f7a91</guid>
-            <pubDate>Tue, 24 Mar 2026 14:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jossore-acc-240326-01-1774335077.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Officials still in holiday mode as Secretariat reopens]]></title>
-            <description><![CDATA[[Bangladesh] Officials still in holiday mode as Secretariat reopens]]></description>
-            <link>https://bdnews24.com/bangladesh/490094ffaaee</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/490094ffaaee</guid>
-            <pubDate>Tue, 24 Mar 2026 14:00:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/secretariat-240126-01-1774335383.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Special panel starts review of 133 ordinances]]></title>
-            <description><![CDATA[[Bangladesh] Special panel starts review of 133 ordinances]]></description>
-            <link>https://bdnews24.com/bangladesh/0fa27e0f812f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0fa27e0f812f</guid>
-            <pubDate>Tue, 24 Mar 2026 13:43:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/parliament-house-1000-1774333491.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Sudden’ demand surge drains pumps in 3 hours: minister]]></title>
-            <description><![CDATA[[Bangladesh] ‘Sudden’ demand surge drains pumps in 3 hours: minister]]></description>
-            <link>https://bdnews24.com/bangladesh/2c8f88cad49a</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2c8f88cad49a</guid>
-            <pubDate>Tue, 24 Mar 2026 13:05:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/iqbal-hasan-mahmud-tuku-240326-01-1774333034.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Banks reopen amid Eid hangover]]></title>
-            <description><![CDATA[[Business] Banks reopen amid Eid hangover]]></description>
-            <link>https://bdnews24.com/business/fd795fda2ab2</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/fd795fda2ab2</guid>
-            <pubDate>Tue, 24 Mar 2026 12:39:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/sonali-bank-local-office-240326-1774330838.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PM back at Secretariat after Eid break]]></title>
-            <description><![CDATA[[Bangladesh] PM back at Secretariat after Eid break]]></description>
-            <link>https://bdnews24.com/bangladesh/ba1ecc17533b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ba1ecc17533b</guid>
-            <pubDate>Tue, 24 Mar 2026 12:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tarique-rahman-240326-1774331635.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US will keep hitting Iran beyond power sites: report]]></title>
-            <description><![CDATA[[World] US will keep hitting Iran beyond power sites: report]]></description>
-            <link>https://bdnews24.com/world/b958dffce3a3</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/b958dffce3a3</guid>
-            <pubDate>Tue, 24 Mar 2026 12:20:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/tehran-damaged-site-24326-1774333130.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
