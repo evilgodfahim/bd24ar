@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Mar 2026 16:48:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 17:45:32 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Mar 2026 16:48:17 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 17:45:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Prosecution: Gen Masud tried to kill Tarique]]></title>
+            <description><![CDATA[[Bangladesh] Prosecution: Gen Masud tried to kill Tarique]]></description>
+            <link>https://bdnews24.com/bangladesh/904239217f36</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/904239217f36</guid>
+            <pubDate>Tue, 24 Mar 2026 23:37:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/masud-uddin-chowdhury-cmm-court-240326-008-1774363563.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Modi, Trump discuss keeping Strait of Hormuz open]]></title>
+            <description><![CDATA[[World] Modi, Trump discuss keeping Strait of Hormuz open]]></description>
+            <link>https://bdnews24.com/world/8d8795ed6929</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/8d8795ed6929</guid>
+            <pubDate>Tue, 24 Mar 2026 23:25:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025March/SM/modi-trump-170325-01-1742189212.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Saudi urges Trump to ‘finish the job’ as Iran war drags on: NYT]]></title>
+            <description><![CDATA[[World] Saudi urges Trump to ‘finish the job’ as Iran war drags on: NYT]]></description>
+            <link>https://bdnews24.com/world/3249b198afa5</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/3249b198afa5</guid>
+            <pubDate>Tue, 24 Mar 2026 22:49:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026January/SM/saudi-crown-prince-us-prez-220126-1769071102.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Bangladeshis in Iran are ‘safe’: Shama]]></title>
             <description><![CDATA[[Bangladesh] Bangladeshis in Iran are ‘safe’: Shama]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/c14abf37d351</guid>
             <pubDate>Tue, 24 Mar 2026 18:04:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-detainee-240326-01-1774353845.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tarique orders Tk 1mn loans for students going abroad]]></title>
-            <description><![CDATA[[Bangladesh] Tarique orders Tk 1mn loans for students going abroad]]></description>
-            <link>https://bdnews24.com/bangladesh/d38c7075ac07</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d38c7075ac07</guid>
-            <pubDate>Tue, 24 Mar 2026 17:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/nurul-haque-nur-240326-01-1774344926.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[DSE sheds 68 points as trading resumes after Eid]]></title>
-            <description><![CDATA[[Bangladesh] DSE sheds 68 points as trading resumes after Eid]]></description>
-            <link>https://bdnews24.com/bangladesh/30404b65ddb8</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/30404b65ddb8</guid>
-            <pubDate>Tue, 24 Mar 2026 17:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024August/SM/stock-market-exchange-brokerage-house-040224-011-1724243258.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[WEF summit in Jeddah postponed: Saudi]]></title>
-            <description><![CDATA[[Business] WEF summit in Jeddah postponed: Saudi]]></description>
-            <link>https://bdnews24.com/business/0478a7cc2fc8</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/0478a7cc2fc8</guid>
-            <pubDate>Tue, 24 Mar 2026 17:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/wef-logo-24326-1774351422.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
