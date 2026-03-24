@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Mar 2026 03:33:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 05:18:20 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Mar 2026 03:33:45 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 05:18:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bangladesh still world’s 2nd most polluted country: IQair]]></title>
+            <description><![CDATA[[Environment] Bangladesh still world’s 2nd most polluted country: IQair]]></description>
+            <link>https://bdnews24.com/environment/2fb7e26b681a</link>
+            <guid isPermaLink="true">https://bdnews24.com/environment/2fb7e26b681a</guid>
+            <pubDate>Tue, 24 Mar 2026 10:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2022-12/083c9638-c69b-4ada-8429-b8667ac67343/air_pollution_smoke_rampura_071122_20.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Danes vote in an election clouded by Trump's Greenland desires]]></title>
+            <description><![CDATA[[World] Danes vote in an election clouded by Trump's Greenland desires]]></description>
+            <link>https://bdnews24.com/world/268ac8630ada</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/268ac8630ada</guid>
+            <pubDate>Tue, 24 Mar 2026 10:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/denmark-election-240326-01-1774325250.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold loses over 1% as dollar firms]]></title>
+            <description><![CDATA[[Business] Gold loses over 1% as dollar firms]]></description>
+            <link>https://bdnews24.com/business/ce67dfc9f5cd</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/ce67dfc9f5cd</guid>
+            <pubDate>Tue, 24 Mar 2026 09:56:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025October/SM/gold-1000-1760614274.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[White House eyes Ghalibaf as US-backed Iran leader: report]]></title>
+            <description><![CDATA[[World] White House eyes Ghalibaf as US-backed Iran leader: report]]></description>
+            <link>https://bdnews24.com/world/4684d910e608</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/4684d910e608</guid>
+            <pubDate>Tue, 24 Mar 2026 09:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-ghalibaf-24326-1774323967.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Shares jittery, oil rebounds]]></title>
             <description><![CDATA[[Economy] Shares jittery, oil rebounds]]></description>
@@ -49,8 +81,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/spain-protest-24426-1774321686.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Retired lt gen Masud Uddin Chowdhury arrested]]></title>
-            <description><![CDATA[[Bangladesh] Retired lt gen Masud Uddin Chowdhury arrested]]></description>
+            <title><![CDATA[Ex-general Masud Uddin Chowdhury, a key '1/11' figure, held]]></title>
+            <description><![CDATA[[Bangladesh] Ex-general Masud Uddin Chowdhury, a key '1/11' figure, held]]></description>
             <link>https://bdnews24.com/bangladesh/4cf3722384f4</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/4cf3722384f4</guid>
             <pubDate>Tue, 24 Mar 2026 07:24:00 GMT</pubDate>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/998f5ecbd64b</guid>
             <pubDate>Mon, 23 Mar 2026 23:16:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/filling-station-oil-crisis-230326-003-1774278555.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israeli minister calls for annexation of southern Lebanon]]></title>
-            <description><![CDATA[[Middle East] Israeli minister calls for annexation of southern Lebanon]]></description>
-            <link>https://bdnews24.com/world/middle-east/693c9d1eaa79</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/693c9d1eaa79</guid>
-            <pubDate>Mon, 23 Mar 2026 23:08:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/israel-tank-230326-01-1774282477.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Qalibaf increasingly central in Tehran]]></title>
-            <description><![CDATA[[Middle East] Qalibaf increasingly central in Tehran]]></description>
-            <link>https://bdnews24.com/world/middle-east/d96d5b6aa2af</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/d96d5b6aa2af</guid>
-            <pubDate>Mon, 23 Mar 2026 23:06:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/qalibaf-central-in-tehran-230326-01-1774285494.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sevilla sack manager Almeyda]]></title>
-            <description><![CDATA[[Sport] Sevilla sack manager Almeyda]]></description>
-            <link>https://bdnews24.com/sport/4cdc6b7056cb</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/4cdc6b7056cb</guid>
-            <pubDate>Mon, 23 Mar 2026 22:52:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/matias-almeyda-230326-01-1774282674.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Major points of agreement in Iran talks: Trump]]></title>
-            <description><![CDATA[[World] Major points of agreement in Iran talks: Trump]]></description>
-            <link>https://bdnews24.com/world/9e475e5ae52d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/9e475e5ae52d</guid>
-            <pubDate>Mon, 23 Mar 2026 22:43:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/trump-230326-01-1774279524.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
