@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Mar 2026 06:49:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 07:45:13 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Mar 2026 06:49:06 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 07:45:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Special panel starts review of 133 ordinances]]></title>
+            <description><![CDATA[[Bangladesh] Special panel starts review of 133 ordinances]]></description>
+            <link>https://bdnews24.com/bangladesh/0fa27e0f812f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0fa27e0f812f</guid>
+            <pubDate>Tue, 24 Mar 2026 13:43:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/parliament-house-1000-1774333491.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Sudden’ demand surge drains pumps in 3 hours: minister]]></title>
+            <description><![CDATA[[Bangladesh] ‘Sudden’ demand surge drains pumps in 3 hours: minister]]></description>
+            <link>https://bdnews24.com/bangladesh/2c8f88cad49a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2c8f88cad49a</guid>
+            <pubDate>Tue, 24 Mar 2026 13:05:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/iqbal-hasan-mahmud-tuku-240326-01-1774333034.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Banks reopen amid Eid hangover]]></title>
             <description><![CDATA[[Business] Banks reopen amid Eid hangover]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/33f5661ece4d</guid>
             <pubDate>Tue, 24 Mar 2026 02:06:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/zidane-french-coach-240326-01-1774296370.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mental health crisis deepens in Bangladesh]]></title>
-            <description><![CDATA[[Health] Mental health crisis deepens in Bangladesh]]></description>
-            <link>https://bdnews24.com/health/d5d60201754e</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/d5d60201754e</guid>
-            <pubDate>Tue, 24 Mar 2026 01:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mental-health-ilustration-200326-01-1774294335.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dead teen house help was ‘raped’]]></title>
-            <description><![CDATA[[Bangladesh] Dead teen house help was ‘raped’]]></description>
-            <link>https://bdnews24.com/bangladesh/22164913543b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/22164913543b</guid>
-            <pubDate>Tue, 24 Mar 2026 00:53:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2022-08/f788da72-c5c1-4f04-b38a-a7c7b8192d67/child_abuse_01.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
