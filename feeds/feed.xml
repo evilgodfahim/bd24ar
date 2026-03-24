@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Mar 2026 07:45:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 08:36:59 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Mar 2026 07:45:13 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 08:36:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[3 die as car slams into tree in Jashore]]></title>
+            <description><![CDATA[[Bangladesh] 3 die as car slams into tree in Jashore]]></description>
+            <link>https://bdnews24.com/bangladesh/675cab4f7a91</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/675cab4f7a91</guid>
+            <pubDate>Tue, 24 Mar 2026 14:09:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jossore-acc-240326-01-1774335077.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Officials still in holiday mode as Secretariat reopens]]></title>
+            <description><![CDATA[[Bangladesh] Officials still in holiday mode as Secretariat reopens]]></description>
+            <link>https://bdnews24.com/bangladesh/490094ffaaee</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/490094ffaaee</guid>
+            <pubDate>Tue, 24 Mar 2026 14:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/secretariat-240126-01-1774335383.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Special panel starts review of 133 ordinances]]></title>
             <description><![CDATA[[Bangladesh] Special panel starts review of 133 ordinances]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/americas/2179bdba338e</guid>
             <pubDate>Tue, 24 Mar 2026 02:25:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/donald-trump-240326-01-1774297443.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gattuso prioritises mental issues over tactics]]></title>
-            <description><![CDATA[[Sport] Gattuso prioritises mental issues over tactics]]></description>
-            <link>https://bdnews24.com/sport/a33804df4145</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/a33804df4145</guid>
-            <pubDate>Tue, 24 Mar 2026 02:10:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/italy-composure-tactics-240326-01-1774296514.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Zidane to take charge of France after WC: ESPN]]></title>
-            <description><![CDATA[[Sport] Zidane to take charge of France after WC: ESPN]]></description>
-            <link>https://bdnews24.com/sport/33f5661ece4d</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/33f5661ece4d</guid>
-            <pubDate>Tue, 24 Mar 2026 02:06:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/zidane-french-coach-240326-01-1774296370.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
