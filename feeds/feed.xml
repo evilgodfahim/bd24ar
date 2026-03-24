@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Mar 2026 20:29:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 21:26:45 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Mar 2026 20:29:19 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 21:26:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Fiorentina near their centenary]]></title>
+            <description><![CDATA[[Sport] Fiorentina near their centenary]]></description>
+            <link>https://bdnews24.com/sport/8a84d63b1d0f</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/8a84d63b1d0f</guid>
+            <pubDate>Wed, 25 Mar 2026 02:36:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/fiorentina-250326-01-1774384548.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[NASA to spend $20b on moon base]]></title>
+            <description><![CDATA[[Science] NASA to spend $20b on moon base]]></description>
+            <link>https://bdnews24.com/science/683f5da31deb</link>
+            <guid isPermaLink="true">https://bdnews24.com/science/683f5da31deb</guid>
+            <pubDate>Wed, 25 Mar 2026 02:34:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/nasa-250326-01-1774384371.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[BNP govt faces IMF push over interim reform continuity]]></title>
             <description><![CDATA[[Bangladesh] BNP govt faces IMF push over interim reform continuity]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/a78f3653bf3f</guid>
             <pubDate>Tue, 24 Mar 2026 21:40:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025June/SM/tehran-oil-depot-fire-israel-attack-170625-1750143774.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2 Dhaka clinics closed in crackdown]]></title>
-            <description><![CDATA[[Bangladesh] 2 Dhaka clinics closed in crackdown]]></description>
-            <link>https://bdnews24.com/bangladesh/f4dc5df6eba5</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f4dc5df6eba5</guid>
-            <pubDate>Tue, 24 Mar 2026 21:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/health-clinic-240326-01-1774365234.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Russia launches over 400 drones at Ukraine]]></title>
-            <description><![CDATA[[World] Russia launches over 400 drones at Ukraine]]></description>
-            <link>https://bdnews24.com/world/7de3c1456de7</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/7de3c1456de7</guid>
-            <pubDate>Tue, 24 Mar 2026 21:15:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/russia-drone-240326-01-1774365224.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
