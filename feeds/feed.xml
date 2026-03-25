@@ -4,13 +4,29 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Mar 2026 18:40:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 19:37:37 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Mar 2026 18:40:20 GMT</pubDate>
+        <pubDate>Wed, 25 Mar 2026 19:37:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Bangladesh marks 55 years of independence with hope for ‘equality’]]></title>
-            <description><![CDATA[[Bangladesh] Bangladesh marks 55 years of independence with hope for ‘equality’]]></description>
+            <title><![CDATA[Poland's playoff record won't matter against Albania: Urban]]></title>
+            <description><![CDATA[[Sport] Poland's playoff record won't matter against Albania: Urban]]></description>
+            <link>https://bdnews24.com/sport/5484494648d1</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/5484494648d1</guid>
+            <pubDate>Thu, 26 Mar 2026 01:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/jan-urban-260326-01-1774465946.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran mulls US proposal despite initial snub]]></title>
+            <description><![CDATA[[World] Iran mulls US proposal despite initial snub]]></description>
+            <link>https://bdnews24.com/world/7953086202a2</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/7953086202a2</guid>
+            <pubDate>Thu, 26 Mar 2026 00:45:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/netaniahu-trump-1774368388.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[55 years on, Bangladesh hopes for ‘equality’]]></title>
+            <description><![CDATA[[Bangladesh] 55 years on, Bangladesh hopes for ‘equality’]]></description>
             <link>https://bdnews24.com/bangladesh/7e18b3cdfd19</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/7e18b3cdfd19</guid>
             <pubDate>Thu, 26 Mar 2026 00:22:00 GMT</pubDate>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/neighbours/af4941bc92b8</guid>
             <pubDate>Wed, 25 Mar 2026 21:17:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/sahabuddin-murmu-250326-01-1774445178.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2 more bodies found at Daulatdia]]></title>
-            <description><![CDATA[[Bangladesh] 2 more bodies found at Daulatdia]]></description>
-            <link>https://bdnews24.com/bangladesh/97b4990c4595</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/97b4990c4595</guid>
-            <pubDate>Wed, 25 Mar 2026 21:14:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rajbari-four-deadbody-250326-01-1774460700.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Citizens shouldn’t pay for Iran war: Sanchez]]></title>
-            <description><![CDATA[[World] Citizens shouldn’t pay for Iran war: Sanchez]]></description>
-            <link>https://bdnews24.com/world/5acfa9fe2ad7</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/5acfa9fe2ad7</guid>
-            <pubDate>Wed, 25 Mar 2026 20:45:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/irgc-drill-25326-1774428415.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
