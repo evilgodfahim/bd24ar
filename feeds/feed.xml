@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Mar 2026 10:36:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 11:33:10 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Mar 2026 10:36:59 GMT</pubDate>
+        <pubDate>Wed, 25 Mar 2026 11:33:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA['Govt says there’s fuel. Why are pumps empty?]]></title>
+            <description><![CDATA[[Bangladesh] 'Govt says there’s fuel. Why are pumps empty?]]></description>
+            <link>https://bdnews24.com/bangladesh/2b44f849b919</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2b44f849b919</guid>
+            <pubDate>Wed, 25 Mar 2026 17:02:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/dinajpur-oil-pump-250326-01-1774433118.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Global oil shock adds to Myanmar’s farming woes]]></title>
+            <description><![CDATA[[Society] Global oil shock adds to Myanmar’s farming woes]]></description>
+            <link>https://bdnews24.com/society/16f70fcfaffc</link>
+            <guid isPermaLink="true">https://bdnews24.com/society/16f70fcfaffc</guid>
+            <pubDate>Wed, 25 Mar 2026 16:49:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-04/15753873-7289-46ca-9be8-b65cd367122d/paddy_harvesting_savar_280423_09.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[2 die in Chattogram road accident]]></title>
             <description><![CDATA[[Bangladesh] 2 die in Chattogram road accident]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/south-asia/f26e89c606ec</guid>
             <pubDate>Wed, 25 Mar 2026 11:16:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/asia-autos-250326-01-1774415649.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kuwait-based Bangladeshis may fly home via Saudi]]></title>
-            <description><![CDATA[[Bangladesh] Kuwait-based Bangladeshis may fly home via Saudi]]></description>
-            <link>https://bdnews24.com/bangladesh/a092f23bc849</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a092f23bc849</guid>
-            <pubDate>Wed, 25 Mar 2026 11:05:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bangladesh-embassy-in-kuwait-250326-01-1774410706.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump's approval hits new 36% low]]></title>
-            <description><![CDATA[[Americas] Trump's approval hits new 36% low]]></description>
-            <link>https://bdnews24.com/world/americas/6be74d17c306</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/6be74d17c306</guid>
-            <pubDate>Wed, 25 Mar 2026 11:01:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/donald-trump-250326-01-1774414836.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
