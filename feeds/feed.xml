@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Mar 2026 16:56:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 17:50:03 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Mar 2026 16:56:14 GMT</pubDate>
+        <pubDate>Wed, 25 Mar 2026 17:50:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Senegal appeal AFCON title loss to CAS]]></title>
+            <description><![CDATA[[Sport] Senegal appeal AFCON title loss to CAS]]></description>
+            <link>https://bdnews24.com/sport/7add2d18f679</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/7add2d18f679</guid>
+            <pubDate>Wed, 25 Mar 2026 23:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/senegal-afcon-250326-01-1774460838.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man sentenced for racist abuse of England’s Carter]]></title>
+            <description><![CDATA[[Sport] Man sentenced for racist abuse of England’s Carter]]></description>
+            <link>https://bdnews24.com/sport/c33f6944941d</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/c33f6944941d</guid>
+            <pubDate>Wed, 25 Mar 2026 23:34:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025July/SM/carter-abuse-210725-01-1753087016.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Daily meetings with DCs to monitor fuel supply]]></title>
+            <description><![CDATA[[Business] Daily meetings with DCs to monitor fuel supply]]></description>
+            <link>https://bdnews24.com/business/a44cdac8ee01</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/a44cdac8ee01</guid>
+            <pubDate>Wed, 25 Mar 2026 23:14:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/petrol-pump-oil-crisis-060326-018-1772804788.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Trump documents raise concerns over business conflict]]></title>
+            <description><![CDATA[[World] New Trump documents raise concerns over business conflict]]></description>
+            <link>https://bdnews24.com/world/c452a589e049</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/c452a589e049</guid>
+            <pubDate>Wed, 25 Mar 2026 23:02:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/donald-trump-250326-01-1774414836.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[40% of Russia’s oil exports halted: Reuters]]></title>
             <description><![CDATA[[World] 40% of Russia’s oil exports halted: Reuters]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/business/a40f7f4ef9ed</guid>
             <pubDate>Wed, 25 Mar 2026 20:24:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/nasimul-goni-cabinet-sec-250326-1774447295.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bus sinks 30ft below Padma waters: Fire Service]]></title>
-            <description><![CDATA[[Bangladesh] Bus sinks 30ft below Padma waters: Fire Service]]></description>
-            <link>https://bdnews24.com/bangladesh/b577bd28021e</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b577bd28021e</guid>
-            <pubDate>Wed, 25 Mar 2026 20:17:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rajbari-doulatdia-bus-250326-01-1774447011.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt to buy 2 more LNG cargoes from spot market]]></title>
-            <description><![CDATA[[Business] Govt to buy 2 more LNG cargoes from spot market]]></description>
-            <link>https://bdnews24.com/business/192b24a9b707</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/192b24a9b707</guid>
-            <pubDate>Wed, 25 Mar 2026 20:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/hormuz-iran-war-020326-1772481072.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[CMP chief reshuffles 7 inspectors after his transfer]]></title>
-            <description><![CDATA[[Bangladesh] CMP chief reshuffles 7 inspectors after his transfer]]></description>
-            <link>https://bdnews24.com/bangladesh/90e5c1ad5605</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/90e5c1ad5605</guid>
-            <pubDate>Wed, 25 Mar 2026 20:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024September/SM/metropolitan-police-lines-dampara-090924-01-1725886869.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Next IMF loan tranche after April review]]></title>
-            <description><![CDATA[[Economy] Next IMF loan tranche after April review]]></description>
-            <link>https://bdnews24.com/economy/b48ccc5d3205</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/b48ccc5d3205</guid>
-            <pubDate>Wed, 25 Mar 2026 19:19:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2022-10/4e75811a-8a9e-4773-98ad-942f9677d9c0/imf_bangladesh_bank_meet_271022_01.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
