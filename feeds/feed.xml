@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – Latest News]]></title>
+        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Mar 2026 20:27:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 21:26:07 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Mar 2026 20:27:49 GMT</pubDate>
+        <pubDate>Wed, 25 Mar 2026 21:26:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping.]]></description>
-            <link>https://bdnews24.com</link>
-            <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Wed, 25 Mar 2026 20:27:49 GMT</pubDate>
+            <title><![CDATA[Bus sinks into Padma to tear families apart]]></title>
+            <description><![CDATA[[Bangladesh] Bus sinks into Padma to tear families apart]]></description>
+            <link>https://bdnews24.com/bangladesh/753daa447660</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/753daa447660</guid>
+            <pubDate>Thu, 26 Mar 2026 02:56:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rajbari-buss-padma-250326-01-1774469493.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Govt appoints secretaries to 10 offices]]></title>
+            <description><![CDATA[[Bangladesh] Govt appoints secretaries to 10 offices]]></description>
+            <link>https://bdnews24.com/bangladesh/0c8d3d56f924</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0c8d3d56f924</guid>
+            <pubDate>Thu, 26 Mar 2026 02:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-07/be98fb02-bf2e-4d98-b752-5094b8d9ba99/secretariat_020723_01.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Former DGFI chief Sheikh Mamun arrested]]></title>
+            <description><![CDATA[[Bangladesh] Former DGFI chief Sheikh Mamun arrested]]></description>
+            <link>https://bdnews24.com/bangladesh/20750f3d3073</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/20750f3d3073</guid>
+            <pubDate>Thu, 26 Mar 2026 02:42:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/sheikh-mamun-khaled-ex-dgfi-250326-1774469977.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Golam Sarwar made parliament secretary]]></title>
+            <description><![CDATA[[Bangladesh] Golam Sarwar made parliament secretary]]></description>
+            <link>https://bdnews24.com/bangladesh/15a94bbf2a11</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/15a94bbf2a11</guid>
+            <pubDate>Thu, 26 Mar 2026 01:43:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/golam-sarwar-bhuia-250326-1774466473.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Poland's playoff record won't matter against Albania: Urban]]></title>
+            <description><![CDATA[[Sport] Poland's playoff record won't matter against Albania: Urban]]></description>
+            <link>https://bdnews24.com/sport/5484494648d1</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/5484494648d1</guid>
+            <pubDate>Thu, 26 Mar 2026 01:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/jan-urban-260326-01-1774465946.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran mulls US proposal despite initial snub]]></title>
+            <description><![CDATA[[World] Iran mulls US proposal despite initial snub]]></description>
+            <link>https://bdnews24.com/world/7953086202a2</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/7953086202a2</guid>
+            <pubDate>Thu, 26 Mar 2026 00:45:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/netaniahu-trump-1774368388.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[55 years on, Bangladesh hopes for ‘equality’]]></title>
+            <description><![CDATA[[Bangladesh] 55 years on, Bangladesh hopes for ‘equality’]]></description>
+            <link>https://bdnews24.com/bangladesh/7e18b3cdfd19</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7e18b3cdfd19</guid>
+            <pubDate>Thu, 26 Mar 2026 00:22:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/independence-day-250326-007-1774450988.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[133 ordinances cleared, 20 under review]]></title>
+            <description><![CDATA[[Bangladesh] 133 ordinances cleared, 20 under review]]></description>
+            <link>https://bdnews24.com/bangladesh/40cb8010d484</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/40cb8010d484</guid>
+            <pubDate>Thu, 26 Mar 2026 00:13:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/parliament-house-1000-1774333491.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man helplessly watches wife, child sink with bus]]></title>
+            <description><![CDATA[[Bangladesh] Man helplessly watches wife, child sink with bus]]></description>
+            <link>https://bdnews24.com/bangladesh/b0bada5779c9</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b0bada5779c9</guid>
+            <pubDate>Thu, 26 Mar 2026 00:02:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/kustia-bus-maniruzzan-family-250326-01-1774458428.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Senegal appeal AFCON title loss to CAS]]></title>
+            <description><![CDATA[[Sport] Senegal appeal AFCON title loss to CAS]]></description>
+            <link>https://bdnews24.com/sport/7add2d18f679</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/7add2d18f679</guid>
+            <pubDate>Wed, 25 Mar 2026 23:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/senegal-afcon-250326-01-1774460838.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man sentenced for racist abuse of England’s Carter]]></title>
+            <description><![CDATA[[Sport] Man sentenced for racist abuse of England’s Carter]]></description>
+            <link>https://bdnews24.com/sport/c33f6944941d</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/c33f6944941d</guid>
+            <pubDate>Wed, 25 Mar 2026 23:34:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025July/SM/carter-abuse-210725-01-1753087016.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Daily meetings with DCs to monitor fuel supply]]></title>
+            <description><![CDATA[[Business] Daily meetings with DCs to monitor fuel supply]]></description>
+            <link>https://bdnews24.com/business/a44cdac8ee01</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/a44cdac8ee01</guid>
+            <pubDate>Wed, 25 Mar 2026 23:14:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/petrol-pump-oil-crisis-060326-018-1772804788.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Trump documents raise concerns over business conflict]]></title>
+            <description><![CDATA[[World] New Trump documents raise concerns over business conflict]]></description>
+            <link>https://bdnews24.com/world/c452a589e049</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/c452a589e049</guid>
+            <pubDate>Wed, 25 Mar 2026 23:02:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/donald-trump-250326-01-1774414836.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[40% of Russia’s oil exports halted: Reuters]]></title>
+            <description><![CDATA[[World] 40% of Russia’s oil exports halted: Reuters]]></description>
+            <link>https://bdnews24.com/world/1f101cfc2e3f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/1f101cfc2e3f</guid>
+            <pubDate>Wed, 25 Mar 2026 22:48:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/russia-energy-demand-06032026-01-1772796695.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[SSC, HSC exams may end by December]]></title>
+            <description><![CDATA[[Education] SSC, HSC exams may end by December]]></description>
+            <link>https://bdnews24.com/education/1c91a0018552</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/1c91a0018552</guid>
+            <pubDate>Wed, 25 Mar 2026 22:41:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/ssc-exam-sher-e-bangla-nagar-high-school-1774456895.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Govt vows to curb ‘mob culture’]]></title>
+            <description><![CDATA[[Bangladesh] Govt vows to curb ‘mob culture’]]></description>
+            <link>https://bdnews24.com/bangladesh/3facde8cde14</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3facde8cde14</guid>
+            <pubDate>Wed, 25 Mar 2026 22:37:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/zahir-uddin-swapon-250326-01-1774436148.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prince: Once Upon a Time in Dhaka plagued by too many faults!]]></title>
+            <description><![CDATA[[Opinion] Prince: Once Upon a Time in Dhaka plagued by too many faults!]]></description>
+            <link>https://bdnews24.com/opinion/cca06a8bee4b</link>
+            <guid isPermaLink="true">https://bdnews24.com/opinion/cca06a8bee4b</guid>
+            <pubDate>Wed, 25 Mar 2026 22:31:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/prince-1774456297.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pentagon boosts munitions production with defense deals]]></title>
+            <description><![CDATA[[World] Pentagon boosts munitions production with defense deals]]></description>
+            <link>https://bdnews24.com/world/3112890286be</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/3112890286be</guid>
+            <pubDate>Wed, 25 Mar 2026 22:13:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/pentagon-190326-01-1773936219.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Liberation War through children’s brushstrokes]]></title>
+            <description><![CDATA[[Image] Liberation War through children’s brushstrokes]]></description>
+            <link>https://bdnews24.com/media-en/image/f906d0061dec</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/f906d0061dec</guid>
+            <pubDate>Wed, 25 Mar 2026 21:58:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/drawing-competition-250326-039-1774451532.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Storm hampers rescue after Daulatdia bus accident]]></title>
+            <description><![CDATA[[Bangladesh] Storm hampers rescue after Daulatdia bus accident]]></description>
+            <link>https://bdnews24.com/bangladesh/4dcc40bf790e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4dcc40bf790e</guid>
+            <pubDate>Wed, 25 Mar 2026 21:49:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rajbari-bus-recover-250326-01-1774453360.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
