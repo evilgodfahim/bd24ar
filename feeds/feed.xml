@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Mar 2026 06:05:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 07:52:56 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Mar 2026 06:05:04 GMT</pubDate>
+        <pubDate>Thu, 26 Mar 2026 07:52:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[South Korea to raise fuel price cap]]></title>
+            <description><![CDATA[[Asia Pacific] South Korea to raise fuel price cap]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/c7236f3d3070</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/c7236f3d3070</guid>
+            <pubDate>Thu, 26 Mar 2026 13:32:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025September/SM/south-korea-city-290925-01-1759121306.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[LNG supply shock: Bangladesh among hardest hit]]></title>
+            <description><![CDATA[[Business] LNG supply shock: Bangladesh among hardest hit]]></description>
+            <link>https://bdnews24.com/business/00ba398ad3a9</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/00ba398ad3a9</guid>
+            <pubDate>Thu, 26 Mar 2026 13:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/lng-26326-1774509034.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thai fishing industry nears a standstill over fuel cost hike]]></title>
+            <description><![CDATA[[South-East Asia] Thai fishing industry nears a standstill over fuel cost hike]]></description>
+            <link>https://bdnews24.com/world/south-east-asia/5c2af0539b65</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/south-east-asia/5c2af0539b65</guid>
+            <pubDate>Thu, 26 Mar 2026 12:41:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/thai-fishing-iran-war-260326-01-1774507191.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Those who died in the Daulatdia bus disaster]]></title>
             <description><![CDATA[[Bangladesh] Those who died in the Daulatdia bus disaster]]></description>
@@ -65,16 +89,16 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mirza-fakhrul-islam-260326-01-1774497642.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Death toll in Daulatdia bus disaster hits 25]]></title>
-            <description><![CDATA[[Bangladesh] Death toll in Daulatdia bus disaster hits 25]]></description>
+            <title><![CDATA[Death toll in Daulatdia bus disaster hits 26]]></title>
+            <description><![CDATA[[Bangladesh] Death toll in Daulatdia bus disaster hits 26]]></description>
             <link>https://bdnews24.com/bangladesh/df859df10c3d</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/df859df10c3d</guid>
             <pubDate>Thu, 26 Mar 2026 10:03:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rajbari-feri-acc-260326-01-1774494526.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rajbari-bus-accident-250326-02-1774442562.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Independence Day parade begins]]></title>
-            <description><![CDATA[[Bangladesh] Independence Day parade begins]]></description>
+            <title><![CDATA[Independence Day parade held in Dhaka]]></title>
+            <description><![CDATA[[Bangladesh] Independence Day parade held in Dhaka]]></description>
             <link>https://bdnews24.com/bangladesh/152b0b180b19</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/152b0b180b19</guid>
             <pubDate>Thu, 26 Mar 2026 09:58:00 GMT</pubDate>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/5484494648d1</guid>
             <pubDate>Thu, 26 Mar 2026 01:12:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/jan-urban-260326-01-1774465946.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran mulls US proposal despite initial snub]]></title>
-            <description><![CDATA[[World] Iran mulls US proposal despite initial snub]]></description>
-            <link>https://bdnews24.com/world/7953086202a2</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/7953086202a2</guid>
-            <pubDate>Thu, 26 Mar 2026 00:45:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/netaniahu-trump-1774368388.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[55 years on, Bangladesh hopes for ‘equality’]]></title>
-            <description><![CDATA[[Bangladesh] 55 years on, Bangladesh hopes for ‘equality’]]></description>
-            <link>https://bdnews24.com/bangladesh/7e18b3cdfd19</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7e18b3cdfd19</guid>
-            <pubDate>Thu, 26 Mar 2026 00:22:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/independence-day-250326-007-1774450988.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[133 ordinances cleared, 20 under review]]></title>
-            <description><![CDATA[[Bangladesh] 133 ordinances cleared, 20 under review]]></description>
-            <link>https://bdnews24.com/bangladesh/40cb8010d484</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/40cb8010d484</guid>
-            <pubDate>Thu, 26 Mar 2026 00:13:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/parliament-house-1000-1774333491.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
