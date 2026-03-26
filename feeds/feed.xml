@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Mar 2026 04:22:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 06:05:04 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Mar 2026 04:22:19 GMT</pubDate>
+        <pubDate>Thu, 26 Mar 2026 06:05:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Those who died in the Daulatdia bus disaster]]></title>
+            <description><![CDATA[[Bangladesh] Those who died in the Daulatdia bus disaster]]></description>
+            <link>https://bdnews24.com/bangladesh/812b746f9bc9</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/812b746f9bc9</guid>
+            <pubDate>Thu, 26 Mar 2026 11:34:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rajbari-feri-acc-260326-02-1774498247.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chattogram gas blast: Snighda, 10, dies after a month]]></title>
+            <description><![CDATA[[Bangladesh] Chattogram gas blast: Snighda, 10, dies after a month]]></description>
+            <link>https://bdnews24.com/bangladesh/62eab8d44e29</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/62eab8d44e29</guid>
+            <pubDate>Thu, 26 Mar 2026 11:15:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/chottogram-blust-230226-02-1771831278.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Panel wants ousted Nepal PM prosecuted over protest violence]]></title>
+            <description><![CDATA[[Asia Pacific] Panel wants ousted Nepal PM prosecuted over protest violence]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/a6afb5a3e21b</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/a6afb5a3e21b</guid>
+            <pubDate>Thu, 26 Mar 2026 10:43:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/nepal-protest-26326-1774500040.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US links security guarantees to Ukraine giving up Donbas: Zelensky]]></title>
+            <description><![CDATA[[Europe] US links security guarantees to Ukraine giving up Donbas: Zelensky]]></description>
+            <link>https://bdnews24.com/world/europe/b34e72e94123</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/b34e72e94123</guid>
+            <pubDate>Thu, 26 Mar 2026 10:39:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/ukraine-us-donbas-zelensky-250326-01-1774499896.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[G7 allies meet against backdrop of war, unpredictable US]]></title>
+            <description><![CDATA[[World] G7 allies meet against backdrop of war, unpredictable US]]></description>
+            <link>https://bdnews24.com/world/46b34693b1e2</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/46b34693b1e2</guid>
+            <pubDate>Thu, 26 Mar 2026 10:33:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/g7-meeting-france-250326-01-1774499505.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Meta, Google lose US case over social media harm to kids]]></title>
+            <description><![CDATA[[social media] Meta, Google lose US case over social media harm to kids]]></description>
+            <link>https://bdnews24.com/socialmedia/a828a0d1c6b6</link>
+            <guid isPermaLink="true">https://bdnews24.com/socialmedia/a828a0d1c6b6</guid>
+            <pubDate>Thu, 26 Mar 2026 10:23:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/social-media-trial-260326-01-1774498909.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Fakhrul pledges to build prosperous Bangladesh under Tarique’s leadership]]></title>
             <description><![CDATA[[Politics] Fakhrul pledges to build prosperous Bangladesh under Tarique’s leadership]]></description>
@@ -17,8 +65,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mirza-fakhrul-islam-260326-01-1774497642.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Death toll in Daulatdia bus disaster hits 23]]></title>
-            <description><![CDATA[[Bangladesh] Death toll in Daulatdia bus disaster hits 23]]></description>
+            <title><![CDATA[Death toll in Daulatdia bus disaster hits 25]]></title>
+            <description><![CDATA[[Bangladesh] Death toll in Daulatdia bus disaster hits 25]]></description>
             <link>https://bdnews24.com/bangladesh/df859df10c3d</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/df859df10c3d</guid>
             <pubDate>Thu, 26 Mar 2026 10:03:00 GMT</pubDate>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/40cb8010d484</guid>
             <pubDate>Thu, 26 Mar 2026 00:13:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/parliament-house-1000-1774333491.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man helplessly watches wife, child sink with bus]]></title>
-            <description><![CDATA[[Bangladesh] Man helplessly watches wife, child sink with bus]]></description>
-            <link>https://bdnews24.com/bangladesh/b0bada5779c9</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b0bada5779c9</guid>
-            <pubDate>Thu, 26 Mar 2026 00:02:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/kustia-bus-maniruzzan-family-250326-01-1774458428.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Senegal appeal AFCON title loss to CAS]]></title>
-            <description><![CDATA[[Sport] Senegal appeal AFCON title loss to CAS]]></description>
-            <link>https://bdnews24.com/sport/7add2d18f679</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/7add2d18f679</guid>
-            <pubDate>Wed, 25 Mar 2026 23:47:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/senegal-afcon-250326-01-1774460838.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man sentenced for racist abuse of England’s Carter]]></title>
-            <description><![CDATA[[Sport] Man sentenced for racist abuse of England’s Carter]]></description>
-            <link>https://bdnews24.com/sport/c33f6944941d</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/c33f6944941d</guid>
-            <pubDate>Wed, 25 Mar 2026 23:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025July/SM/carter-abuse-210725-01-1753087016.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Daily meetings with DCs to monitor fuel supply]]></title>
-            <description><![CDATA[[Business] Daily meetings with DCs to monitor fuel supply]]></description>
-            <link>https://bdnews24.com/business/a44cdac8ee01</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/a44cdac8ee01</guid>
-            <pubDate>Wed, 25 Mar 2026 23:14:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/petrol-pump-oil-crisis-060326-018-1772804788.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Trump documents raise concerns over business conflict]]></title>
-            <description><![CDATA[[World] New Trump documents raise concerns over business conflict]]></description>
-            <link>https://bdnews24.com/world/c452a589e049</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/c452a589e049</guid>
-            <pubDate>Wed, 25 Mar 2026 23:02:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/donald-trump-250326-01-1774414836.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[40% of Russia’s oil exports halted: Reuters]]></title>
-            <description><![CDATA[[World] 40% of Russia’s oil exports halted: Reuters]]></description>
-            <link>https://bdnews24.com/world/1f101cfc2e3f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/1f101cfc2e3f</guid>
-            <pubDate>Wed, 25 Mar 2026 22:48:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/russia-energy-demand-06032026-01-1772796695.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
