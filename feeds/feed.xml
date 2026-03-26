@@ -4,10 +4,98 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Mar 2026 14:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 16:00:58 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Mar 2026 14:17:50 GMT</pubDate>
+        <pubDate>Thu, 26 Mar 2026 16:00:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Global markets tumble as Iran war drives oil above $105]]></title>
+            <description><![CDATA[[World] Global markets tumble as Iran war drives oil above $105]]></description>
+            <link>https://bdnews24.com/world/da5bf910517c</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/da5bf910517c</guid>
+            <pubDate>Thu, 26 Mar 2026 21:59:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025October/SM/oil-pumpjack-russia-131025-01-1760331762.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vessel arrives in Chattogram with 31,000 tonnes of oil]]></title>
+            <description><![CDATA[[Bangladesh] Vessel arrives in Chattogram with 31,000 tonnes of oil]]></description>
+            <link>https://bdnews24.com/bangladesh/443bfb3c28bb</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/443bfb3c28bb</guid>
+            <pubDate>Thu, 26 Mar 2026 21:48:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2022-10/aded0a62-c1ac-415f-964f-fe22c64b8ad1/chattagram_port_241022_01.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bagerhat youth shot dead at home]]></title>
+            <description><![CDATA[[Bangladesh] Bagerhat youth shot dead at home]]></description>
+            <link>https://bdnews24.com/bangladesh/ebfb45efefd0</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ebfb45efefd0</guid>
+            <pubDate>Thu, 26 Mar 2026 21:17:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bagerhat-student-260326-02-1774535272.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jamaat MP orders not to recite Gita at Independence Day celebrations]]></title>
+            <description><![CDATA[[Bangladesh] Jamaat MP orders not to recite Gita at Independence Day celebrations]]></description>
+            <link>https://bdnews24.com/bangladesh/bed835ca90b2</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/bed835ca90b2</guid>
+            <pubDate>Thu, 26 Mar 2026 21:13:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rajshahi-mp-jamate-260326-01-1774532327.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[WTO chief urges global trade overhaul]]></title>
+            <description><![CDATA[[Business] WTO chief urges global trade overhaul]]></description>
+            <link>https://bdnews24.com/business/312f8f770a40</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/312f8f770a40</guid>
+            <pubDate>Thu, 26 Mar 2026 21:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/heavy-tariffs-developing-nations-17032026-01-1773754925.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US backs Taiwan on defence, energy]]></title>
+            <description><![CDATA[[World] US backs Taiwan on defence, energy]]></description>
+            <link>https://bdnews24.com/world/56e6f70a45ab</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/56e6f70a45ab</guid>
+            <pubDate>Thu, 26 Mar 2026 21:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/taiwan-china-25326-1774438946.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM meets president at Bangabhaban]]></title>
+            <description><![CDATA[[Bangladesh] PM meets president at Bangabhaban]]></description>
+            <link>https://bdnews24.com/bangladesh/300677205de2</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/300677205de2</guid>
+            <pubDate>Thu, 26 Mar 2026 20:51:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/shabuddin-tarique-rahman-president-pm-260326-01-1774532149.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran war disrupts global business flows]]></title>
+            <description><![CDATA[[World] Iran war disrupts global business flows]]></description>
+            <link>https://bdnews24.com/world/41048b055959</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/41048b055959</guid>
+            <pubDate>Thu, 26 Mar 2026 20:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-flag-pumpjack-080326-01-1772945603.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Bangladesh, Penned in Blood’ Vol III launched]]></title>
+            <description><![CDATA[[Bangladesh] ‘Bangladesh, Penned in Blood’ Vol III launched]]></description>
+            <link>https://bdnews24.com/bangladesh/d776b80aa0c1</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d776b80aa0c1</guid>
+            <pubDate>Thu, 26 Mar 2026 20:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rokto-rekhay-bangladesh-third-edition-260326-101-1774535788.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pokemon shop employee stabbed to death in Tokyo]]></title>
+            <description><![CDATA[[World] Pokemon shop employee stabbed to death in Tokyo]]></description>
+            <link>https://bdnews24.com/world/6771230962ae</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/6771230962ae</guid>
+            <pubDate>Thu, 26 Mar 2026 20:39:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/canada-stabbing-1774535667.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jubo Jamaat men ‘attack’ policemen in Gaibandha]]></title>
+            <description><![CDATA[[Bangladesh] Jubo Jamaat men ‘attack’ policemen in Gaibandha]]></description>
+            <link>https://bdnews24.com/bangladesh/9a81d8203c46</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9a81d8203c46</guid>
+            <pubDate>Thu, 26 Mar 2026 20:19:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024July/SM/gaubandha-polashbari-140724-02-1720966560.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[How Rajib Sardar survived a sinking bus]]></title>
             <description><![CDATA[[Bangladesh] How Rajib Sardar survived a sinking bus]]></description>
@@ -49,8 +137,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-flag-pumpjack-080326-01-1772945603.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[2 committees formed to probe Daulatdia tragedy]]></title>
-            <description><![CDATA[[Bangladesh] 2 committees formed to probe Daulatdia tragedy]]></description>
+            <title><![CDATA[2 committees to probe Daulatdia tragedy]]></title>
+            <description><![CDATA[[Bangladesh] 2 committees to probe Daulatdia tragedy]]></description>
             <link>https://bdnews24.com/bangladesh/9ca498b0334e</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/9ca498b0334e</guid>
             <pubDate>Thu, 26 Mar 2026 19:14:00 GMT</pubDate>
@@ -79,94 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/media-en/image/5289cd37cf5c</guid>
             <pubDate>Thu, 26 Mar 2026 18:48:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/independence-day-savar-260326-042-1774523738.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran war wipes out global growth boost: OECD]]></title>
-            <description><![CDATA[[World] Iran war wipes out global growth boost: OECD]]></description>
-            <link>https://bdnews24.com/world/f833fdc576a9</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/f833fdc576a9</guid>
-            <pubDate>Thu, 26 Mar 2026 18:46:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-war-240326-01-1774362879.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[March 26, 2026]]></title>
-            <description><![CDATA[[Image] March 26, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/711e7dc6577a</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/711e7dc6577a</guid>
-            <pubDate>Thu, 26 Mar 2026 18:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/metro-rail-pillar-poster-260326-003-1774458453.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Survivor recounts Daulatdia bus horror]]></title>
-            <description><![CDATA[[Bangladesh] Survivor recounts Daulatdia bus horror]]></description>
-            <link>https://bdnews24.com/bangladesh/b15b096d30ce</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b15b096d30ce</guid>
-            <pubDate>Thu, 26 Mar 2026 18:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/kustia-bus-accident-kairul-260326-01-1774520546.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Russia eyes fresh Ukraine talks with US]]></title>
-            <description><![CDATA[[World] Russia eyes fresh Ukraine talks with US]]></description>
-            <link>https://bdnews24.com/world/e6d45d45a32b</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/e6d45d45a32b</guid>
-            <pubDate>Thu, 26 Mar 2026 18:25:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/ukraine-russia-war-strikes-220326-01-1774152450.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran crisis shakes Europe’s green energy push]]></title>
-            <description><![CDATA[[World] Iran crisis shakes Europe’s green energy push]]></description>
-            <link>https://bdnews24.com/world/38fc5118146e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/38fc5118146e</guid>
-            <pubDate>Thu, 26 Mar 2026 18:18:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/irgc-drill-25326-1774428415.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[GM Quader: Stop ‘mob attacks’ on suspects in courts]]></title>
-            <description><![CDATA[[Bangladesh] GM Quader: Stop ‘mob attacks’ on suspects in courts]]></description>
-            <link>https://bdnews24.com/bangladesh/cb4e010181c8</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cb4e010181c8</guid>
-            <pubDate>Thu, 26 Mar 2026 18:15:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025October/SM/ghulam-muhammed-quader-231025-01-1761236345.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kushtia villages mourn Daulatdia victims]]></title>
-            <description><![CDATA[[Bangladesh] Kushtia villages mourn Daulatdia victims]]></description>
-            <link>https://bdnews24.com/bangladesh/2ac2950119f5</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2ac2950119f5</guid>
-            <pubDate>Thu, 26 Mar 2026 18:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/kushtia-bus-accident-morzina-260326-01-1774522800.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India drops key venues for Border-Gavaskar Trophy]]></title>
-            <description><![CDATA[[Cricket] India drops key venues for Border-Gavaskar Trophy]]></description>
-            <link>https://bdnews24.com/cricket/d71b431f9e95</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/d71b431f9e95</guid>
-            <pubDate>Thu, 26 Mar 2026 18:02:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/ipl-270226-01-1772204325.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4 ASPs axed during probation]]></title>
-            <description><![CDATA[[Bangladesh] 4 ASPs axed during probation]]></description>
-            <link>https://bdnews24.com/bangladesh/dd03485b3a0c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/dd03485b3a0c</guid>
-            <pubDate>Thu, 26 Mar 2026 18:00:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024July/SM/home-ministry-280724-01-1722176533.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ex-DGFI chief Mamun to be quizzed in custody]]></title>
-            <description><![CDATA[[Bangladesh] Ex-DGFI chief Mamun to be quizzed in custody]]></description>
-            <link>https://bdnews24.com/bangladesh/1eb504846b70</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1eb504846b70</guid>
-            <pubDate>Thu, 26 Mar 2026 17:35:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/dgfi-mamun-260326-1774521057.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rubio hails Bangladesh’s ‘new chapter’]]></title>
-            <description><![CDATA[[Bangladesh] Rubio hails Bangladesh’s ‘new chapter’]]></description>
-            <link>https://bdnews24.com/bangladesh/3549c1ccd949</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3549c1ccd949</guid>
-            <pubDate>Thu, 26 Mar 2026 17:18:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025March/SM/marco-rubio-file-26032025-01-1742972615.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
