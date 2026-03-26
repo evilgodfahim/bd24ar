@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Mar 2026 07:52:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 08:40:06 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Mar 2026 07:52:56 GMT</pubDate>
+        <pubDate>Thu, 26 Mar 2026 08:40:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Zubaida joins summit event at White House]]></title>
+            <description><![CDATA[[Bangladesh] Zubaida joins summit event at White House]]></description>
+            <link>https://bdnews24.com/bangladesh/57c72e415a7c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/57c72e415a7c</guid>
+            <pubDate>Thu, 26 Mar 2026 14:20:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jubaida-rahman-260326-1774512843.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[2 die as bus rams bike on Ctg-Cox’s Bazar highway]]></title>
+            <description><![CDATA[[Bangladesh] 2 die as bus rams bike on Ctg-Cox’s Bazar highway]]></description>
+            <link>https://bdnews24.com/bangladesh/eb3493745ad0</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/eb3493745ad0</guid>
+            <pubDate>Thu, 26 Mar 2026 14:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/coxbazar-acc-260326-01-1774510925.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[South Korea to raise fuel price cap]]></title>
             <description><![CDATA[[Asia Pacific] South Korea to raise fuel price cap]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/20750f3d3073</guid>
             <pubDate>Thu, 26 Mar 2026 02:42:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/sheikh-mamun-khaled-ex-dgfi-250326-1774469977.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Golam Sarwar made parliament secretary]]></title>
-            <description><![CDATA[[Bangladesh] Golam Sarwar made parliament secretary]]></description>
-            <link>https://bdnews24.com/bangladesh/15a94bbf2a11</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/15a94bbf2a11</guid>
-            <pubDate>Thu, 26 Mar 2026 01:43:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/golam-sarwar-bhuia-250326-1774466473.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Poland's playoff record won't matter against Albania: Urban]]></title>
-            <description><![CDATA[[Sport] Poland's playoff record won't matter against Albania: Urban]]></description>
-            <link>https://bdnews24.com/sport/5484494648d1</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/5484494648d1</guid>
-            <pubDate>Thu, 26 Mar 2026 01:12:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/jan-urban-260326-01-1774465946.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
