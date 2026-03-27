@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Mar 2026 16:40:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 17:40:42 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Mar 2026 16:40:10 GMT</pubDate>
+        <pubDate>Fri, 27 Mar 2026 17:40:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US lawmakers push to isolate Myanmar junta]]></title>
+            <description><![CDATA[[Neighbours] US lawmakers push to isolate Myanmar junta]]></description>
+            <link>https://bdnews24.com/neighbours/f9e5243fe8ff</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/f9e5243fe8ff</guid>
+            <pubDate>Fri, 27 Mar 2026 23:27:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025July/SM/myanmar-rakhaine-state-junta-arakan-army-040725-1751621343.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lively Eid crowds at Lalbagh Fort]]></title>
+            <description><![CDATA[[Image] Lively Eid crowds at Lalbagh Fort]]></description>
+            <link>https://bdnews24.com/media-en/image/2e4e9383f73d</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/2e4e9383f73d</guid>
+            <pubDate>Fri, 27 Mar 2026 22:48:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/lalbagh-fort-eid-celebration-270326-049-1774625569.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran-linked hackers breach FBI director’s personal email]]></title>
+            <description><![CDATA[[World] Iran-linked hackers breach FBI director’s personal email]]></description>
+            <link>https://bdnews24.com/world/8ad9da81c663</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/8ad9da81c663</guid>
+            <pubDate>Fri, 27 Mar 2026 22:40:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025July/SM/iran-usa-hacker-010725-01-1751342200.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[March 27, 2026]]></title>
             <description><![CDATA[[Image] March 27, 2026]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/a666e9d50334</guid>
             <pubDate>Fri, 27 Mar 2026 19:56:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/hodgson-bristol-coach-27032026-01-1774619783.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Joy Bangla’ slogan lands Sunamganj lawyers in jail]]></title>
-            <description><![CDATA[[Bangladesh] ‘Joy Bangla’ slogan lands Sunamganj lawyers in jail]]></description>
-            <link>https://bdnews24.com/bangladesh/4c87b5e2ff02</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4c87b5e2ff02</guid>
-            <pubDate>Fri, 27 Mar 2026 19:54:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/sunamganj-arrest-270326-1774609062.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fuel crunch hits Eid returnees in Pabna]]></title>
-            <description><![CDATA[[Bangladesh] Fuel crunch hits Eid returnees in Pabna]]></description>
-            <link>https://bdnews24.com/bangladesh/f3a3705105e6</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f3a3705105e6</guid>
-            <pubDate>Fri, 27 Mar 2026 19:54:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/pabna-eid-oil-270326-01-1774616246.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Guadalajara hosts World Cup playoff match]]></title>
-            <description><![CDATA[[Sport] Guadalajara hosts World Cup playoff match]]></description>
-            <link>https://bdnews24.com/sport/e702bb06cf25</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/e702bb06cf25</guid>
-            <pubDate>Fri, 27 Mar 2026 19:45:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/guadalajara-host-wc-playoff-27032026-01-1774619102.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
