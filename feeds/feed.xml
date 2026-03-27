@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Mar 2026 07:51:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 08:37:15 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Mar 2026 07:51:21 GMT</pubDate>
+        <pubDate>Fri, 27 Mar 2026 08:37:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump's Iran war pushes India to rekindle old friendship with Russia]]></title>
+            <description><![CDATA[[World] Trump's Iran war pushes India to rekindle old friendship with Russia]]></description>
+            <link>https://bdnews24.com/world/e7744e8926d0</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e7744e8926d0</guid>
+            <pubDate>Fri, 27 Mar 2026 14:28:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-war-india-270326-01-1774600040.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BNP calls parliamentary meeting on Saturday]]></title>
+            <description><![CDATA[[Bangladesh] BNP calls parliamentary meeting on Saturday]]></description>
+            <link>https://bdnews24.com/bangladesh/a824448eebe0</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a824448eebe0</guid>
+            <pubDate>Fri, 27 Mar 2026 14:13:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/oath-preparing-parliament-house-150226-017-1771155489.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Pallabi Jubo Dal leader murder: 2 shooters arrested]]></title>
             <description><![CDATA[[Bangladesh] Pallabi Jubo Dal leader murder: 2 shooters arrested]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/ba76349b1c2c</guid>
             <pubDate>Fri, 27 Mar 2026 10:05:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/antonio-guterres-khalilur-rahman-270326-1774581990.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US deploys uncrewed drone boats in conflict with Iran]]></title>
-            <description><![CDATA[[Americas] US deploys uncrewed drone boats in conflict with Iran]]></description>
-            <link>https://bdnews24.com/world/americas/e6308204c84f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/e6308204c84f</guid>
-            <pubDate>Fri, 27 Mar 2026 09:42:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-navy-270326-01-1774582865.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump extends pause on striking Iran's energy plants into April]]></title>
-            <description><![CDATA[[Middle East] Trump extends pause on striking Iran's energy plants into April]]></description>
-            <link>https://bdnews24.com/world/middle-east/f1c54305cd2f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/f1c54305cd2f</guid>
-            <pubDate>Fri, 27 Mar 2026 09:16:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/tehran-us-attack-270326-01-1774581308.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
