@@ -4,10 +4,114 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Mar 2026 04:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 06:05:35 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Mar 2026 04:23:15 GMT</pubDate>
+        <pubDate>Fri, 27 Mar 2026 06:05:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Power struggle: 1 dead, houses attacked in Bagerhat clash]]></title>
+            <description><![CDATA[[Bangladesh] Power struggle: 1 dead, houses attacked in Bagerhat clash]]></description>
+            <link>https://bdnews24.com/bangladesh/794c918dac8b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/794c918dac8b</guid>
+            <pubDate>Fri, 27 Mar 2026 11:56:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bagherhat-clash-270326-01-1774588358.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dollar rides haven demand]]></title>
+            <description><![CDATA[[Business] Dollar rides haven demand]]></description>
+            <link>https://bdnews24.com/business/6459ea1c80ae</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/6459ea1c80ae</guid>
+            <pubDate>Fri, 27 Mar 2026 11:44:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-dollar-270326-01-1774590198.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Netflix raises subscription prices across all plans in US]]></title>
+            <description><![CDATA[[Business] Netflix raises subscription prices across all plans in US]]></description>
+            <link>https://bdnews24.com/business/6b88f034b1e8</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/6b88f034b1e8</guid>
+            <pubDate>Fri, 27 Mar 2026 11:28:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/netflix-logo-270326-01-1774589210.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[China attempts to ease academic pressure on students]]></title>
+            <description><![CDATA[[Asia Pacific] China attempts to ease academic pressure on students]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/f8e51f659f0d</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/f8e51f659f0d</guid>
+            <pubDate>Fri, 27 Mar 2026 11:15:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/china-academic-pressure-students-270326-01-1774588484.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Summer to test India's power, water supply]]></title>
+            <description><![CDATA[[Neighbours] Summer to test India's power, water supply]]></description>
+            <link>https://bdnews24.com/neighbours/7a3be63c25a2</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/7a3be63c25a2</guid>
+            <pubDate>Fri, 27 Mar 2026 11:14:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/india-summer-power-water-270326-01-1774588366.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Drones and mines: taking Kharg would pose risks for US]]></title>
+            <description><![CDATA[[World] Drones and mines: taking Kharg would pose risks for US]]></description>
+            <link>https://bdnews24.com/world/3afed0f6c511</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/3afed0f6c511</guid>
+            <pubDate>Fri, 27 Mar 2026 11:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-kharg-island-270326-01-1774588230.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who is now running Iran?]]></title>
+            <description><![CDATA[[Middle East] Who is now running Iran?]]></description>
+            <link>https://bdnews24.com/world/middle-east/63e6690530a2</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/63e6690530a2</guid>
+            <pubDate>Fri, 27 Mar 2026 11:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-war-leadership-270326-01-1774588183.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Asian stocks extend global rout as war drags on]]></title>
+            <description><![CDATA[[Business] Asian stocks extend global rout as war drags on]]></description>
+            <link>https://bdnews24.com/business/708dcca8501b</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/708dcca8501b</guid>
+            <pubDate>Fri, 27 Mar 2026 11:06:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/asia-stocks-rout-270326-01-1774587884.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[China willing to strengthen economic, trade ties with US]]></title>
+            <description><![CDATA[[Economy] China willing to strengthen economic, trade ties with US]]></description>
+            <link>https://bdnews24.com/economy/0c225513e61d</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/0c225513e61d</guid>
+            <pubDate>Fri, 27 Mar 2026 11:02:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/china-us-trade-cooperation-270326-01-1774587674.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India cuts special excise duties on oil]]></title>
+            <description><![CDATA[[Neighbours] India cuts special excise duties on oil]]></description>
+            <link>https://bdnews24.com/neighbours/60e811d46209</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/60e811d46209</guid>
+            <pubDate>Fri, 27 Mar 2026 10:57:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/india-excise-duty-oil-270326-01-1774587362.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oil prices fall]]></title>
+            <description><![CDATA[[Business] Oil prices fall]]></description>
+            <link>https://bdnews24.com/business/011f0a198859</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/011f0a198859</guid>
+            <pubDate>Fri, 27 Mar 2026 10:55:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/rumaila-oil-field-270326-01-1774587259.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Daulatdia bus disaster: Rescue operation enters 3rd day]]></title>
+            <description><![CDATA[[Bangladesh] Daulatdia bus disaster: Rescue operation enters 3rd day]]></description>
+            <link>https://bdnews24.com/bangladesh/34528b3cb43a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/34528b3cb43a</guid>
+            <pubDate>Fri, 27 Mar 2026 10:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rajbari-feri-ovijan-270326-01-1774584059.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump orders government to pay airport security workers]]></title>
+            <description><![CDATA[[Americas] Trump orders government to pay airport security workers]]></description>
+            <link>https://bdnews24.com/world/americas/e3f42cdbed78</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/e3f42cdbed78</guid>
+            <pubDate>Fri, 27 Mar 2026 10:33:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-tsa-staff-270326-01-1774585975.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Trump's signature to appear on US currency]]></title>
             <description><![CDATA[[Americas] Trump's signature to appear on US currency]]></description>
@@ -63,110 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/65a4bd61e794</guid>
             <pubDate>Fri, 27 Mar 2026 01:34:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/asia-cup-040226-1770180093.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[5 die in Cumilla crash as boy loses family]]></title>
-            <description><![CDATA[[Bangladesh] 5 die in Cumilla crash as boy loses family]]></description>
-            <link>https://bdnews24.com/bangladesh/285fed18d15d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/285fed18d15d</guid>
-            <pubDate>Fri, 27 Mar 2026 01:19:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/comilla-road-accident-260326-01-1774547914.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh on a slippery climb: Captain Beg]]></title>
-            <description><![CDATA[[Bangladesh] Bangladesh on a slippery climb: Captain Beg]]></description>
-            <link>https://bdnews24.com/bangladesh/c2e08d5a7844</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c2e08d5a7844</guid>
-            <pubDate>Fri, 27 Mar 2026 01:17:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mahfuz-alam-beg-freedom-fighter-260326-006-1774548433.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Colbert to co‑write new ‘Lord of the Rings’ film]]></title>
-            <description><![CDATA[[Entertainment] Colbert to co‑write new ‘Lord of the Rings’ film]]></description>
-            <link>https://bdnews24.com/entertainment/81212de771c3</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/81212de771c3</guid>
-            <pubDate>Fri, 27 Mar 2026 01:14:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/colbert-lotr-27032026-01-1774552430.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kohli, Sooryavanshi headline new IPL season]]></title>
-            <description><![CDATA[[Cricket] Kohli, Sooryavanshi headline new IPL season]]></description>
-            <link>https://bdnews24.com/cricket/1639eea4451d</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/1639eea4451d</guid>
-            <pubDate>Fri, 27 Mar 2026 01:12:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026January/SM/virat-kohli-120126-01-1768215283.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[All govts failed to teach true 1971 history: Aman]]></title>
-            <description><![CDATA[[Bangladesh] All govts failed to teach true 1971 history: Aman]]></description>
-            <link>https://bdnews24.com/bangladesh/dd453338edf1</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/dd453338edf1</guid>
-            <pubDate>Fri, 27 Mar 2026 00:50:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/kamrul-aman-freedom-fighter-260326-003-1774548715.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran open to Spain requests on Hormuz transit]]></title>
-            <description><![CDATA[[Middle East] Iran open to Spain requests on Hormuz transit]]></description>
-            <link>https://bdnews24.com/world/middle-east/a1ae69888755</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/a1ae69888755</guid>
-            <pubDate>Fri, 27 Mar 2026 00:46:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/luojiashan-tanker-250326-01-1774422911.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rodri keeps door open to Real Madrid move]]></title>
-            <description><![CDATA[[Sport] Rodri keeps door open to Real Madrid move]]></description>
-            <link>https://bdnews24.com/sport/154d3d62ed8d</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/154d3d62ed8d</guid>
-            <pubDate>Fri, 27 Mar 2026 00:35:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/rodri-open-to-move-26032026-01-1774550069.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Liberation history impossible without Sheikh Mujib: Ashraf]]></title>
-            <description><![CDATA[[Bangladesh] Liberation history impossible without Sheikh Mujib: Ashraf]]></description>
-            <link>https://bdnews24.com/bangladesh/5794b1195568</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5794b1195568</guid>
-            <pubDate>Fri, 27 Mar 2026 00:31:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/kazi-ashraf-humayun-freedom-fighter-260326-002-1774547447.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan resumes strikes on Afghanistan]]></title>
-            <description><![CDATA[[World] Pakistan resumes strikes on Afghanistan]]></description>
-            <link>https://bdnews24.com/world/e2f658ea7321</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/e2f658ea7321</guid>
-            <pubDate>Fri, 27 Mar 2026 00:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/afghan-man-kandahar-260326-01-1774522856.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Joy Bangla’ now carries fear, freedom fighter Rosy laments]]></title>
-            <description><![CDATA[[Bangladesh] ‘Joy Bangla’ now carries fear, freedom fighter Rosy laments]]></description>
-            <link>https://bdnews24.com/bangladesh/654fd1332ff3</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/654fd1332ff3</guid>
-            <pubDate>Fri, 27 Mar 2026 00:25:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/lutfa-hasin-rosie-freedom-fighter-260326-014-1774544293.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran sees US peace plan as 'one-sided']]></title>
-            <description><![CDATA[[World] Iran sees US peace plan as 'one-sided']]></description>
-            <link>https://bdnews24.com/world/bee4a644d4e2</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/bee4a644d4e2</guid>
-            <pubDate>Thu, 26 Mar 2026 23:45:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/mojtaba-khamenei-poster-270326-01-1774557133.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran war disrupts WHO medical supply routes]]></title>
-            <description><![CDATA[[Middle East] Iran war disrupts WHO medical supply routes]]></description>
-            <link>https://bdnews24.com/world/middle-east/c8fb2c10db9f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/c8fb2c10db9f</guid>
-            <pubDate>Thu, 26 Mar 2026 23:39:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-iran-ceasefire-action-26032026-01-1774529406.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yemeni Houthis ready to join Iran war if needed]]></title>
-            <description><![CDATA[[World] Yemeni Houthis ready to join Iran war if needed]]></description>
-            <link>https://bdnews24.com/world/d7957ece7804</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/d7957ece7804</guid>
-            <pubDate>Thu, 26 Mar 2026 23:30:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/houthis-ready-for-war-26032026-01-1774546202.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
