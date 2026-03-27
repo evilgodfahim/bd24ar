@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Mar 2026 11:33:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 12:35:01 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Mar 2026 11:33:26 GMT</pubDate>
+        <pubDate>Fri, 27 Mar 2026 12:35:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[3 Nilphamari NCP leaders quit, join Jamaat]]></title>
+            <description><![CDATA[[Bangladesh] 3 Nilphamari NCP leaders quit, join Jamaat]]></description>
+            <link>https://bdnews24.com/bangladesh/780f46f46887</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/780f46f46887</guid>
+            <pubDate>Fri, 27 Mar 2026 18:31:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/nilphamari-ncp-270326-01-1774611424.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[President set for 4-day trip to Pabna]]></title>
+            <description><![CDATA[[Bangladesh] President set for 4-day trip to Pabna]]></description>
+            <link>https://bdnews24.com/bangladesh/faf4c0ace46b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/faf4c0ace46b</guid>
+            <pubDate>Fri, 27 Mar 2026 18:22:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/sahabuddin-240226-1771918684.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran war worsens humanitarian crisis in Africa]]></title>
+            <description><![CDATA[[World] Iran war worsens humanitarian crisis in Africa]]></description>
+            <link>https://bdnews24.com/world/0c5bb0d2e84a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/0c5bb0d2e84a</guid>
+            <pubDate>Fri, 27 Mar 2026 18:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/africa-crisis-27032026-1774613393.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nation bids quiet farewell to Mahbuba Rahman]]></title>
+            <description><![CDATA[[Entertainment] Nation bids quiet farewell to Mahbuba Rahman]]></description>
+            <link>https://bdnews24.com/entertainment/5a960248222a</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/5a960248222a</guid>
+            <pubDate>Fri, 27 Mar 2026 18:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mahbuba-rahman-270326-01-1774607648.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Over 1,900 dead in Iran since strikes: IFRC]]></title>
+            <description><![CDATA[[Middle East] Over 1,900 dead in Iran since strikes: IFRC]]></description>
+            <link>https://bdnews24.com/world/middle-east/0012b9a3ec3a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/0012b9a3ec3a</guid>
+            <pubDate>Fri, 27 Mar 2026 17:58:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/damage-in-iran-27326-1774612646.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[121 children killed in Lebanon: UNICEF]]></title>
+            <description><![CDATA[[Middle East] 121 children killed in Lebanon: UNICEF]]></description>
+            <link>https://bdnews24.com/world/middle-east/9f681dfd516c</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/9f681dfd516c</guid>
+            <pubDate>Fri, 27 Mar 2026 17:43:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/children-27326-1774611775.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Misty Subhash held during tribute at Savar memorial]]></title>
+            <description><![CDATA[[Bangladesh] Misty Subhash held during tribute at Savar memorial]]></description>
+            <link>https://bdnews24.com/bangladesh/d67e6c891d3c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d67e6c891d3c</guid>
+            <pubDate>Fri, 27 Mar 2026 17:38:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mishti-subhash-remand-270326-01-1774609701.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Govt plans to cancel referendum ordinance: Jamaat MP]]></title>
             <description><![CDATA[[Politics] Govt plans to cancel referendum ordinance: Jamaat MP]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/a5ee866503cf</guid>
             <pubDate>Fri, 27 Mar 2026 13:42:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025November/SM/golam-kibria-murder-pallabi-171125-02-1763667751.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Former Bogura MP Jinnah arrested]]></title>
-            <description><![CDATA[[Bangladesh] Former Bogura MP Jinnah arrested]]></description>
-            <link>https://bdnews24.com/bangladesh/cec7700a7929</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cec7700a7929</guid>
-            <pubDate>Fri, 27 Mar 2026 12:57:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/boghura-mp-arrest-270326-01-1774589979.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Mukh O Mukhosh’ singer Mahbuba Rahman dies]]></title>
-            <description><![CDATA[[Music] ‘Mukh O Mukhosh’ singer Mahbuba Rahman dies]]></description>
-            <link>https://bdnews24.com/music/de3fe38677b8</link>
-            <guid isPermaLink="true">https://bdnews24.com/music/de3fe38677b8</guid>
-            <pubDate>Fri, 27 Mar 2026 12:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mahbuba-rahman-270326-401-1774594254.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Power struggle: 1 dead, houses attacked in Bagerhat clash]]></title>
-            <description><![CDATA[[Bangladesh] Power struggle: 1 dead, houses attacked in Bagerhat clash]]></description>
-            <link>https://bdnews24.com/bangladesh/794c918dac8b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/794c918dac8b</guid>
-            <pubDate>Fri, 27 Mar 2026 11:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bagherhat-clash-270326-01-1774588358.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dollar rides haven demand]]></title>
-            <description><![CDATA[[Business] Dollar rides haven demand]]></description>
-            <link>https://bdnews24.com/business/6459ea1c80ae</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/6459ea1c80ae</guid>
-            <pubDate>Fri, 27 Mar 2026 11:44:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-dollar-270326-01-1774590198.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Netflix raises subscription prices across all plans in US]]></title>
-            <description><![CDATA[[Business] Netflix raises subscription prices across all plans in US]]></description>
-            <link>https://bdnews24.com/business/6b88f034b1e8</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/6b88f034b1e8</guid>
-            <pubDate>Fri, 27 Mar 2026 11:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/netflix-logo-270326-01-1774589210.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[China attempts to ease academic pressure on students]]></title>
-            <description><![CDATA[[Asia Pacific] China attempts to ease academic pressure on students]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/f8e51f659f0d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/f8e51f659f0d</guid>
-            <pubDate>Fri, 27 Mar 2026 11:15:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/china-academic-pressure-students-270326-01-1774588484.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Summer to test India's power, water supply]]></title>
-            <description><![CDATA[[Neighbours] Summer to test India's power, water supply]]></description>
-            <link>https://bdnews24.com/neighbours/7a3be63c25a2</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/7a3be63c25a2</guid>
-            <pubDate>Fri, 27 Mar 2026 11:14:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/india-summer-power-water-270326-01-1774588366.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
