@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Mar 2026 09:42:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 10:36:05 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Mar 2026 09:42:03 GMT</pubDate>
+        <pubDate>Fri, 27 Mar 2026 10:36:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Will have both Waz and Baul songs in my constituency: Rumin Farhana]]></title>
+            <description><![CDATA[[Bangladesh] Will have both Waz and Baul songs in my constituency: Rumin Farhana]]></description>
+            <link>https://bdnews24.com/bangladesh/9e4d87251e9e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9e4d87251e9e</guid>
+            <pubDate>Fri, 27 Mar 2026 16:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/brahmanbaria-rumin-farhana-270326-1774602007.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[1,700 killed in Syria’s Suweida violence: UN]]></title>
+            <description><![CDATA[[World] 1,700 killed in Syria’s Suweida violence: UN]]></description>
+            <link>https://bdnews24.com/world/9896f79d0d43</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/9896f79d0d43</guid>
+            <pubDate>Fri, 27 Mar 2026 15:49:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/suweida-violence-270326-01-1774606387.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Rickshaw-puller murdered over ‘dispute’ in Mymensingh]]></title>
             <description><![CDATA[[Bangladesh] Rickshaw-puller murdered over ‘dispute’ in Mymensingh]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/business/011f0a198859</guid>
             <pubDate>Fri, 27 Mar 2026 10:55:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/rumaila-oil-field-270326-01-1774587259.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Daulatdia bus disaster: Rescue operation enters 3rd day]]></title>
-            <description><![CDATA[[Bangladesh] Daulatdia bus disaster: Rescue operation enters 3rd day]]></description>
-            <link>https://bdnews24.com/bangladesh/34528b3cb43a</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/34528b3cb43a</guid>
-            <pubDate>Fri, 27 Mar 2026 10:47:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rajbari-feri-ovijan-270326-01-1774584059.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump orders government to pay airport security workers]]></title>
-            <description><![CDATA[[Americas] Trump orders government to pay airport security workers]]></description>
-            <link>https://bdnews24.com/world/americas/e3f42cdbed78</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/e3f42cdbed78</guid>
-            <pubDate>Fri, 27 Mar 2026 10:33:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-tsa-staff-270326-01-1774585975.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
