@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Mar 2026 06:05:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 07:51:21 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Mar 2026 06:05:35 GMT</pubDate>
+        <pubDate>Fri, 27 Mar 2026 07:51:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Pallabi Jubo Dal leader murder: 2 shooters arrested]]></title>
+            <description><![CDATA[[Bangladesh] Pallabi Jubo Dal leader murder: 2 shooters arrested]]></description>
+            <link>https://bdnews24.com/bangladesh/a5ee866503cf</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a5ee866503cf</guid>
+            <pubDate>Fri, 27 Mar 2026 13:42:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025November/SM/golam-kibria-murder-pallabi-171125-02-1763667751.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Former Bogura MP Jinnah arrested]]></title>
+            <description><![CDATA[[Bangladesh] Former Bogura MP Jinnah arrested]]></description>
+            <link>https://bdnews24.com/bangladesh/cec7700a7929</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cec7700a7929</guid>
+            <pubDate>Fri, 27 Mar 2026 12:57:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/boghura-mp-arrest-270326-01-1774589979.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Mukh O Mukhosh’ singer Mahbuba Rahman dies]]></title>
+            <description><![CDATA[[Music] ‘Mukh O Mukhosh’ singer Mahbuba Rahman dies]]></description>
+            <link>https://bdnews24.com/music/de3fe38677b8</link>
+            <guid isPermaLink="true">https://bdnews24.com/music/de3fe38677b8</guid>
+            <pubDate>Fri, 27 Mar 2026 12:56:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mahbuba-rahman-270326-401-1774594254.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Power struggle: 1 dead, houses attacked in Bagerhat clash]]></title>
             <description><![CDATA[[Bangladesh] Power struggle: 1 dead, houses attacked in Bagerhat clash]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/f1c54305cd2f</guid>
             <pubDate>Fri, 27 Mar 2026 09:16:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/tehran-us-attack-270326-01-1774581308.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vanishing fish threatens Tanguar Haor’s ecosystem]]></title>
-            <description><![CDATA[[Bangladesh] Vanishing fish threatens Tanguar Haor’s ecosystem]]></description>
-            <link>https://bdnews24.com/bangladesh/5ae41598ab4f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5ae41598ab4f</guid>
-            <pubDate>Fri, 27 Mar 2026 02:19:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/sylhet-tanguar-haor-fish-031225-01-1774552027.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Turkey edge Romania to reach playoff final]]></title>
-            <description><![CDATA[[Sport] Turkey edge Romania to reach playoff final]]></description>
-            <link>https://bdnews24.com/sport/5830065524c2</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/5830065524c2</guid>
-            <pubDate>Fri, 27 Mar 2026 01:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/arda-guler-270326-01-1774553722.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India team denied stadium entry over payment delay]]></title>
-            <description><![CDATA[[Sport] India team denied stadium entry over payment delay]]></description>
-            <link>https://bdnews24.com/sport/65a4bd61e794</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/65a4bd61e794</guid>
-            <pubDate>Fri, 27 Mar 2026 01:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/asia-cup-040226-1770180093.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
