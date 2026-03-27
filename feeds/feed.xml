@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Mar 2026 01:09:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 04:23:15 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Mar 2026 01:09:05 GMT</pubDate>
+        <pubDate>Fri, 27 Mar 2026 04:23:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump's signature to appear on US currency]]></title>
+            <description><![CDATA[[Americas] Trump's signature to appear on US currency]]></description>
+            <link>https://bdnews24.com/world/americas/51ea66afac50</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/51ea66afac50</guid>
+            <pubDate>Fri, 27 Mar 2026 10:09:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-signature-270326-01-1774584531.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[UN reaffirms ‘unwavering support’ of Bangladesh: Guterres]]></title>
+            <description><![CDATA[[Bangladesh] UN reaffirms ‘unwavering support’ of Bangladesh: Guterres]]></description>
+            <link>https://bdnews24.com/bangladesh/ba76349b1c2c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ba76349b1c2c</guid>
+            <pubDate>Fri, 27 Mar 2026 10:05:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/antonio-guterres-khalilur-rahman-270326-1774581990.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US deploys uncrewed drone boats in conflict with Iran]]></title>
+            <description><![CDATA[[Americas] US deploys uncrewed drone boats in conflict with Iran]]></description>
+            <link>https://bdnews24.com/world/americas/e6308204c84f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/e6308204c84f</guid>
+            <pubDate>Fri, 27 Mar 2026 09:42:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-navy-270326-01-1774582865.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump extends pause on striking Iran's energy plants into April]]></title>
+            <description><![CDATA[[Middle East] Trump extends pause on striking Iran's energy plants into April]]></description>
+            <link>https://bdnews24.com/world/middle-east/f1c54305cd2f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/f1c54305cd2f</guid>
+            <pubDate>Fri, 27 Mar 2026 09:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/tehran-us-attack-270326-01-1774581308.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Vanishing fish threatens Tanguar Haor’s ecosystem]]></title>
             <description><![CDATA[[Bangladesh] Vanishing fish threatens Tanguar Haor’s ecosystem]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/d7957ece7804</guid>
             <pubDate>Thu, 26 Mar 2026 23:30:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/houthis-ready-for-war-26032026-01-1774546202.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladeshi ships not being blocked in Hormuz: Iran]]></title>
-            <description><![CDATA[[Bangladesh] Bangladeshi ships not being blocked in Hormuz: Iran]]></description>
-            <link>https://bdnews24.com/bangladesh/e5a4499fb12a</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e5a4499fb12a</guid>
-            <pubDate>Thu, 26 Mar 2026 23:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/hormuz-strait-220326-01-1774153410.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[5 killed in Cumilla road crash]]></title>
-            <description><![CDATA[[Bangladesh] 5 killed in Cumilla road crash]]></description>
-            <link>https://bdnews24.com/bangladesh/f1c4fe3b4139</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f1c4fe3b4139</guid>
-            <pubDate>Thu, 26 Mar 2026 23:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/comilla-accident-260326-01-1774538154.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Helped Tarique get bail, ex-DGFI boss Mamun tells court]]></title>
-            <description><![CDATA[[Bangladesh] Helped Tarique get bail, ex-DGFI boss Mamun tells court]]></description>
-            <link>https://bdnews24.com/bangladesh/4497c6799541</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4497c6799541</guid>
-            <pubDate>Thu, 26 Mar 2026 22:43:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/sheikh-mamun-khaled-ex-dgfi-250326-1774469977.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Global markets tumble as Iran war drives oil above $105]]></title>
-            <description><![CDATA[[World] Global markets tumble as Iran war drives oil above $105]]></description>
-            <link>https://bdnews24.com/world/da5bf910517c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/da5bf910517c</guid>
-            <pubDate>Thu, 26 Mar 2026 21:59:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025October/SM/oil-pumpjack-russia-131025-01-1760331762.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
