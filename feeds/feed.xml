@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – Latest News]]></title>
+        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Mar 2026 19:35:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 20:24:10 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Mar 2026 19:35:25 GMT</pubDate>
+        <pubDate>Fri, 27 Mar 2026 20:24:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping.]]></description>
-            <link>https://bdnews24.com</link>
-            <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Fri, 27 Mar 2026 19:35:25 GMT</pubDate>
+            <title><![CDATA[Mexico City stadium races for WC reopening]]></title>
+            <description><![CDATA[[Sport] Mexico City stadium races for WC reopening]]></description>
+            <link>https://bdnews24.com/sport/ddc6ef7fc3cc</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/ddc6ef7fc3cc</guid>
+            <pubDate>Sat, 28 Mar 2026 02:13:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/mexico-stadium-wc-reopening-280326-01-1774642348.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India backs Bangladesh in call for 1971 justice]]></title>
+            <description><![CDATA[[Bangladesh] India backs Bangladesh in call for 1971 justice]]></description>
+            <link>https://bdnews24.com/bangladesh/8b4b962235c7</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8b4b962235c7</guid>
+            <pubDate>Sat, 28 Mar 2026 01:54:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024December/SM/india-briefing-201224-1-1734699172.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[New stand at Inter Miami dedicated to Messi]]></title>
+            <description><![CDATA[[Sport] New stand at Inter Miami dedicated to Messi]]></description>
+            <link>https://bdnews24.com/sport/ad3115af0fb0</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/ad3115af0fb0</guid>
+            <pubDate>Sat, 28 Mar 2026 01:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/messi-28326-1774640955.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka hospitals overrun as measles surges]]></title>
+            <description><![CDATA[[Health] Dhaka hospitals overrun as measles surges]]></description>
+            <link>https://bdnews24.com/health/8f386049516a</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/8f386049516a</guid>
+            <pubDate>Sat, 28 Mar 2026 01:45:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/measles-hospital-270326-01-1774640593.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brazil haven’t earned WC favourites tag: Vini Jr]]></title>
+            <description><![CDATA[[Sport] Brazil haven’t earned WC favourites tag: Vini Jr]]></description>
+            <link>https://bdnews24.com/sport/565651795501</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/565651795501</guid>
+            <pubDate>Sat, 28 Mar 2026 01:24:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/brazil-wc-favourites-280326-01-1774639402.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iranian footballers protest killing of schoolgirls]]></title>
+            <description><![CDATA[[Sport] Iranian footballers protest killing of schoolgirls]]></description>
+            <link>https://bdnews24.com/sport/6701abb9d846</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/6701abb9d846</guid>
+            <pubDate>Sat, 28 Mar 2026 01:22:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-football-protest-28032026-1774639259.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US issues subpoenas in Warner-Paramount deal probe]]></title>
+            <description><![CDATA[[Entertainment] US issues subpoenas in Warner-Paramount deal probe]]></description>
+            <link>https://bdnews24.com/entertainment/69e0bbf4d320</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/69e0bbf4d320</guid>
+            <pubDate>Sat, 28 Mar 2026 00:55:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/warner-bros-28226-1772248858.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexico searches for four after Sinaloa mine collapse]]></title>
+            <description><![CDATA[[World] Mexico searches for four after Sinaloa mine collapse]]></description>
+            <link>https://bdnews24.com/world/b1cb69b64726</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/b1cb69b64726</guid>
+            <pubDate>Sat, 28 Mar 2026 00:48:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026January/SM/congo-mine-collapse-31012026-01-1769830240.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hegseth accused of politicising army promotions]]></title>
+            <description><![CDATA[[World] Hegseth accused of politicising army promotions]]></description>
+            <link>https://bdnews24.com/world/0ed29f1b48a1</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/0ed29f1b48a1</guid>
+            <pubDate>Sat, 28 Mar 2026 00:32:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025December/SM/pete-hegseth-031225-01-1764737620.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reward plan coming for fuel hoarding tip-offs]]></title>
+            <description><![CDATA[[Bangladesh] Reward plan coming for fuel hoarding tip-offs]]></description>
+            <link>https://bdnews24.com/bangladesh/47717a6aefa6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/47717a6aefa6</guid>
+            <pubDate>Sat, 28 Mar 2026 00:14:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/gopalganj-oil-fine-110326-01-1773233529.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Italy probes Sephora over child-focused marketing]]></title>
+            <description><![CDATA[[World] Italy probes Sephora over child-focused marketing]]></description>
+            <link>https://bdnews24.com/world/e766462688ff</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e766462688ff</guid>
+            <pubDate>Fri, 27 Mar 2026 23:57:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/sephora-27032026-1774634163.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran bans teams from ‘hostile’ countries]]></title>
+            <description><![CDATA[[Sport] Iran bans teams from ‘hostile’ countries]]></description>
+            <link>https://bdnews24.com/sport/08d49cc072a5</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/08d49cc072a5</guid>
+            <pubDate>Fri, 27 Mar 2026 23:54:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-bans-sport-team-travel-27032026-01-1774617774.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US lawmakers push to isolate Myanmar junta]]></title>
+            <description><![CDATA[[Neighbours] US lawmakers push to isolate Myanmar junta]]></description>
+            <link>https://bdnews24.com/neighbours/f9e5243fe8ff</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/f9e5243fe8ff</guid>
+            <pubDate>Fri, 27 Mar 2026 23:27:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025July/SM/myanmar-rakhaine-state-junta-arakan-army-040725-1751621343.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lively Eid crowds at Lalbagh Fort]]></title>
+            <description><![CDATA[[Image] Lively Eid crowds at Lalbagh Fort]]></description>
+            <link>https://bdnews24.com/media-en/image/2e4e9383f73d</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/2e4e9383f73d</guid>
+            <pubDate>Fri, 27 Mar 2026 22:48:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/lalbagh-fort-eid-celebration-270326-049-1774625569.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran-linked hackers breach FBI director’s personal email]]></title>
+            <description><![CDATA[[World] Iran-linked hackers breach FBI director’s personal email]]></description>
+            <link>https://bdnews24.com/world/8ad9da81c663</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/8ad9da81c663</guid>
+            <pubDate>Fri, 27 Mar 2026 22:40:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025July/SM/iran-usa-hacker-010725-01-1751342200.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[March 27, 2026]]></title>
+            <description><![CDATA[[Image] March 27, 2026]]></description>
+            <link>https://bdnews24.com/media-en/image/970acf4ee6cb</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/970acf4ee6cb</guid>
+            <pubDate>Fri, 27 Mar 2026 22:35:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/filling-station-bijoy-sarani-270326-004-1774621014.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Train accident in Tangail kills 5]]></title>
+            <description><![CDATA[[Bangladesh] Train accident in Tangail kills 5]]></description>
+            <link>https://bdnews24.com/bangladesh/aa038f0ad2fa</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/aa038f0ad2fa</guid>
+            <pubDate>Fri, 27 Mar 2026 22:35:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tangail-accident-270326-01-1774627737.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[No fuel price hike: state minister Aninda]]></title>
+            <description><![CDATA[[Bangladesh] No fuel price hike: state minister Aninda]]></description>
+            <link>https://bdnews24.com/bangladesh/0453ecc3d9a5</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0453ecc3d9a5</guid>
+            <pubDate>Fri, 27 Mar 2026 22:32:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jashore-state-minister-270326-01-1774625972.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US uses hundreds of Tomahawk missiles on Iran: WaPo]]></title>
+            <description><![CDATA[[Middle East] US uses hundreds of Tomahawk missiles on Iran: WaPo]]></description>
+            <link>https://bdnews24.com/world/middle-east/293d4b63d319</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/293d4b63d319</guid>
+            <pubDate>Fri, 27 Mar 2026 22:19:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/missile-us-navy-27326-1774628302.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Savannah Guthrie to return to 'Today' show]]></title>
+            <description><![CDATA[[Americas] Savannah Guthrie to return to 'Today' show]]></description>
+            <link>https://bdnews24.com/world/americas/f6bcb6a1e42c</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/f6bcb6a1e42c</guid>
+            <pubDate>Fri, 27 Mar 2026 21:51:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/nancy-guthrie-180226-01-1771405181.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
