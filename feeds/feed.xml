@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Mar 2026 13:42:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 14:21:42 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Mar 2026 13:42:01 GMT</pubDate>
+        <pubDate>Sat, 28 Mar 2026 14:21:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Zelensky agrees defence cooperation with UAE, Qatar]]></title>
+            <description><![CDATA[[World] Zelensky agrees defence cooperation with UAE, Qatar]]></description>
+            <link>https://bdnews24.com/world/8ff673bad7cc</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/8ff673bad7cc</guid>
+            <pubDate>Sat, 28 Mar 2026 20:11:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/zelenskiy-nahyan-280326-01-1774697900.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man killed by friends for easy bike: PBI]]></title>
+            <description><![CDATA[[Bangladesh] Man killed by friends for easy bike: PBI]]></description>
+            <link>https://bdnews24.com/bangladesh/2b7cca6456c4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2b7cca6456c4</guid>
+            <pubDate>Sat, 28 Mar 2026 19:45:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/manikganj-arrest-280326-01-1774701708.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[24,000 litres of hoarded fuel seized in Mymensingh]]></title>
+            <description><![CDATA[[Bangladesh] 24,000 litres of hoarded fuel seized in Mymensingh]]></description>
+            <link>https://bdnews24.com/bangladesh/c3dc1eb887b6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c3dc1eb887b6</guid>
+            <pubDate>Sat, 28 Mar 2026 19:44:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mymensingh-oil-pump-280326-01-1774699037.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Jamuna Bridge tolls hit Tk 34mn in 24 hours]]></title>
             <description><![CDATA[[Bangladesh] Jamuna Bridge tolls hit Tk 34mn in 24 hours]]></description>
@@ -97,8 +121,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/manikgonjo-fair-280326-01-1774690857.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Sailboats carrying aid to Cuba still missing]]></title>
-            <description><![CDATA[[World] Sailboats carrying aid to Cuba still missing]]></description>
+            <title><![CDATA[Mexican navy locates missing sailboats carrying aid to Cuba]]></title>
+            <description><![CDATA[[World] Mexican navy locates missing sailboats carrying aid to Cuba]]></description>
             <link>https://bdnews24.com/world/a100b9dca696</link>
             <guid isPermaLink="true">https://bdnews24.com/world/a100b9dca696</guid>
             <pubDate>Sat, 28 Mar 2026 16:13:00 GMT</pubDate>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/6551113ebfc1</guid>
             <pubDate>Sat, 28 Mar 2026 13:37:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bgb-280326-01-1774681643.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US identifies 10 Bangladeshis held for ‘serious crimes’]]></title>
-            <description><![CDATA[[Bangladesh] US identifies 10 Bangladeshis held for ‘serious crimes’]]></description>
-            <link>https://bdnews24.com/bangladesh/851f9f4aa52e</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/851f9f4aa52e</guid>
-            <pubDate>Sat, 28 Mar 2026 12:59:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bangladeshi-arrest-us-280326-01-1774678213.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Arakan Army’ captures 13 fishermen]]></title>
-            <description><![CDATA[[Bangladesh] ‘Arakan Army’ captures 13 fishermen]]></description>
-            <link>https://bdnews24.com/bangladesh/02908bda79de</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/02908bda79de</guid>
-            <pubDate>Sat, 28 Mar 2026 12:57:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/teknaf-rever-280326-001-1774678287.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dhoni to miss IPL start with calf injury]]></title>
-            <description><![CDATA[[Cricket] Dhoni to miss IPL start with calf injury]]></description>
-            <link>https://bdnews24.com/cricket/ce197bea9917</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/ce197bea9917</guid>
-            <pubDate>Sat, 28 Mar 2026 12:53:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025April/SM/csk-cap-dhoni-110425-01-1744355792.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
