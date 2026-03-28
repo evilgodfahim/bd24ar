@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Mar 2026 11:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 12:27:09 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Mar 2026 11:17:36 GMT</pubDate>
+        <pubDate>Sat, 28 Mar 2026 12:27:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Jamalpur pump caught hoarding 2,800 litres of fuel]]></title>
+            <description><![CDATA[[Bangladesh] Jamalpur pump caught hoarding 2,800 litres of fuel]]></description>
+            <link>https://bdnews24.com/bangladesh/9d5601e3218a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9d5601e3218a</guid>
+            <pubDate>Sat, 28 Mar 2026 17:48:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jamalpur-oil-pamp-280326-1-1774695752.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BPC sets new depot schedule for fuel supply]]></title>
+            <description><![CDATA[[Bangladesh] BPC sets new depot schedule for fuel supply]]></description>
+            <link>https://bdnews24.com/bangladesh/6eb908b26030</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6eb908b26030</guid>
+            <pubDate>Sat, 28 Mar 2026 17:44:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025May/SM/meghna-jamuna-oil-depot-fatullah-250525-009-1748182833.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Haor water levels rise, but officials rule out immediate floods]]></title>
+            <description><![CDATA[[Bangladesh] Haor water levels rise, but officials rule out immediate floods]]></description>
+            <link>https://bdnews24.com/bangladesh/f300a6b44e47</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f300a6b44e47</guid>
+            <pubDate>Sat, 28 Mar 2026 17:42:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024October/SM/fishing-tanguar-haor-161024-008-1729080351.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Police ‘unhappy’ with current uniform: home minister]]></title>
             <description><![CDATA[[Bangladesh] Police ‘unhappy’ with current uniform: home minister]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/a5d82cff7299</guid>
             <pubDate>Sat, 28 Mar 2026 12:02:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024October/SM/rain-dhaka-university-091024-007-1728481074.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[One month into Iran war, only hard choices for Trump]]></title>
-            <description><![CDATA[[World] One month into Iran war, only hard choices for Trump]]></description>
-            <link>https://bdnews24.com/world/1866bc406b74</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/1866bc406b74</guid>
-            <pubDate>Sat, 28 Mar 2026 11:48:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-war-tough-choices-280326-01-1774676835.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yemen's Houthis strike at Israel]]></title>
-            <description><![CDATA[[Middle East] Yemen's Houthis strike at Israel]]></description>
-            <link>https://bdnews24.com/world/middle-east/aba777f20aca</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/aba777f20aca</guid>
-            <pubDate>Sat, 28 Mar 2026 11:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/yemen-houthi-revel-iran-linked-280326-1774684496.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rubio sees US action in Iran completed in weeks]]></title>
-            <description><![CDATA[[Middle East] Rubio sees US action in Iran completed in weeks]]></description>
-            <link>https://bdnews24.com/world/middle-east/f5b1ccf6c3fc</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/f5b1ccf6c3fc</guid>
-            <pubDate>Sat, 28 Mar 2026 11:22:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/rubio-weeks-iran-war-280326-01-1774675300.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
