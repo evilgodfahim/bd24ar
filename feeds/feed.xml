@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Mar 2026 07:37:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 08:24:54 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Mar 2026 07:37:27 GMT</pubDate>
+        <pubDate>Sat, 28 Mar 2026 08:24:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Border guards deployed at fuel depots]]></title>
+            <description><![CDATA[[Bangladesh] Border guards deployed at fuel depots]]></description>
+            <link>https://bdnews24.com/bangladesh/6551113ebfc1</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6551113ebfc1</guid>
+            <pubDate>Sat, 28 Mar 2026 13:37:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bgb-280326-01-1774681643.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[US identifies 10 Bangladeshis held for ‘serious crimes’]]></title>
             <description><![CDATA[[Bangladesh] US identifies 10 Bangladeshis held for ‘serious crimes’]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/f62dbe3b4f15</guid>
             <pubDate>Sat, 28 Mar 2026 09:38:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-war-090326-01-1773068629.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[12 US troops wounded in Iran strike in S Arabia]]></title>
-            <description><![CDATA[[World] 12 US troops wounded in Iran strike in S Arabia]]></description>
-            <link>https://bdnews24.com/world/f7f04704421f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/f7f04704421f</guid>
-            <pubDate>Sat, 28 Mar 2026 09:30:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-crisis-tehran-170326-01-1773717834.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
