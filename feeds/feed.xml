@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Mar 2026 19:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 20:16:10 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Mar 2026 19:21:33 GMT</pubDate>
+        <pubDate>Sat, 28 Mar 2026 20:16:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Chattogram nears end of waterlogging woes as waste piles up]]></title>
+            <description><![CDATA[[Bangladesh] Chattogram nears end of waterlogging woes as waste piles up]]></description>
+            <link>https://bdnews24.com/bangladesh/69ab374e9437</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/69ab374e9437</guid>
+            <pubDate>Sun, 29 Mar 2026 02:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/chaktai-canal-sluice-gate-191125-01-1774724096.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Egypt to slow down some state projects amid Iran war: PM]]></title>
             <description><![CDATA[[World] Egypt to slow down some state projects amid Iran war: PM]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/education/c292ea644b8f</guid>
             <pubDate>Sat, 28 Mar 2026 21:10:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/dhaka-uttor-dengue-280326-02-1774680576.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[22 migrants die off Greek coast after six days at sea]]></title>
-            <description><![CDATA[[World] 22 migrants die off Greek coast after six days at sea]]></description>
-            <link>https://bdnews24.com/world/968d2f55776e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/968d2f55776e</guid>
-            <pubDate>Sat, 28 Mar 2026 21:07:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-04/94f9800d-6f45-455e-9644-80f944beb2bd/mediterranean_migrant_deaths_120221_01.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
