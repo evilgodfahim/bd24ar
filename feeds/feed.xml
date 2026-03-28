@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Mar 2026 08:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 09:25:49 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Mar 2026 08:24:54 GMT</pubDate>
+        <pubDate>Sat, 28 Mar 2026 09:25:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Speaker’s wife Dilara Hafiz dies at 77]]></title>
+            <description><![CDATA[[Bangladesh] Speaker’s wife Dilara Hafiz dies at 77]]></description>
+            <link>https://bdnews24.com/bangladesh/4e2567603629</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4e2567603629</guid>
+            <pubDate>Sat, 28 Mar 2026 14:43:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/dilara-hafiz-speaker-280326-01-1774687157.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Border guards deployed at fuel depots]]></title>
             <description><![CDATA[[Bangladesh] Border guards deployed at fuel depots]]></description>
@@ -73,12 +81,12 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-war-tough-choices-280326-01-1774676835.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Missile fired from Yemen as Israel, US target Iran]]></title>
-            <description><![CDATA[[Middle East] Missile fired from Yemen as Israel, US target Iran]]></description>
+            <title><![CDATA[Yemen's Houthis strike at Israel]]></title>
+            <description><![CDATA[[Middle East] Yemen's Houthis strike at Israel]]></description>
             <link>https://bdnews24.com/world/middle-east/aba777f20aca</link>
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/aba777f20aca</guid>
             <pubDate>Sat, 28 Mar 2026 11:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/yemen-28326-1774676155.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/yemen-houthi-revel-iran-linked-280326-1774684496.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Rubio sees US action in Iran completed in weeks]]></title>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/26dad425b8f3</guid>
             <pubDate>Sat, 28 Mar 2026 09:48:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/musk-28326-1774669652.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran war leaves trail of deaths across Middle East]]></title>
-            <description><![CDATA[[Middle East] Iran war leaves trail of deaths across Middle East]]></description>
-            <link>https://bdnews24.com/world/middle-east/f62dbe3b4f15</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/f62dbe3b4f15</guid>
-            <pubDate>Sat, 28 Mar 2026 09:38:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-war-090326-01-1773068629.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
