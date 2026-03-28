@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Mar 2026 12:27:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 13:42:01 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Mar 2026 12:27:09 GMT</pubDate>
+        <pubDate>Sat, 28 Mar 2026 13:42:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Jamuna Bridge tolls hit Tk 34mn in 24 hours]]></title>
+            <description><![CDATA[[Bangladesh] Jamuna Bridge tolls hit Tk 34mn in 24 hours]]></description>
+            <link>https://bdnews24.com/bangladesh/242fc73e8840</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/242fc73e8840</guid>
+            <pubDate>Sat, 28 Mar 2026 18:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tangail-highway-road-280326-01-1774695361.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[July Uprising is not a second independence: minister]]></title>
+            <description><![CDATA[[Bangladesh] July Uprising is not a second independence: minister]]></description>
+            <link>https://bdnews24.com/bangladesh/8d14a6f284bb</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8d14a6f284bb</guid>
+            <pubDate>Sat, 28 Mar 2026 18:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/ahmed-azom-khan-280326-01-1774700372.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lightning strikes kill 2, injure 4 in Jhenaidah]]></title>
+            <description><![CDATA[[Bangladesh] Lightning strikes kill 2, injure 4 in Jhenaidah]]></description>
+            <link>https://bdnews24.com/bangladesh/a976fec254e1</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a976fec254e1</guid>
+            <pubDate>Sat, 28 Mar 2026 18:41:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025March/SM/jhenaidaha-ps-1742053927.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Jamalpur pump caught hoarding 2,800 litres of fuel]]></title>
             <description><![CDATA[[Bangladesh] Jamalpur pump caught hoarding 2,800 litres of fuel]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/cricket/ce197bea9917</guid>
             <pubDate>Sat, 28 Mar 2026 12:53:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025April/SM/csk-cap-dhoni-110425-01-1744355792.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS reigns atop UK charts again]]></title>
-            <description><![CDATA[[Entertainment] BTS reigns atop UK charts again]]></description>
-            <link>https://bdnews24.com/entertainment/9fce8afac717</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/9fce8afac717</guid>
-            <pubDate>Sat, 28 Mar 2026 12:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/bts-28326-1774680660.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Petrol pumps to get tag officers]]></title>
-            <description><![CDATA[[Bangladesh] Petrol pumps to get tag officers]]></description>
-            <link>https://bdnews24.com/bangladesh/178c01954567</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/178c01954567</guid>
-            <pubDate>Sat, 28 Mar 2026 12:19:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/filling-station-oil-crisis-230326-003-1774278555.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Showers likely across all divisions]]></title>
-            <description><![CDATA[[Bangladesh] Showers likely across all divisions]]></description>
-            <link>https://bdnews24.com/bangladesh/a5d82cff7299</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a5d82cff7299</guid>
-            <pubDate>Sat, 28 Mar 2026 12:02:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024October/SM/rain-dhaka-university-091024-007-1728481074.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
