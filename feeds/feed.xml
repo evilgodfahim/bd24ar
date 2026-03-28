@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Mar 2026 17:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 18:22:40 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Mar 2026 17:19:19 GMT</pubDate>
+        <pubDate>Sat, 28 Mar 2026 18:22:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Egypt to slow down some state projects amid Iran war: PM]]></title>
+            <description><![CDATA[[World] Egypt to slow down some state projects amid Iran war: PM]]></description>
+            <link>https://bdnews24.com/world/80469750203b</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/80469750203b</guid>
+            <pubDate>Sun, 29 Mar 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/egypt-slow-state-projects-28032026-01-1774720781.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ashwin first Indian to join US Major League]]></title>
+            <description><![CDATA[[Sport] Ashwin first Indian to join US Major League]]></description>
+            <link>https://bdnews24.com/sport/b919cd95c727</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/b919cd95c727</guid>
+            <pubDate>Sat, 28 Mar 2026 23:44:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025September/SM/ashwin-230925-01-1758626458.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Manila, Beijing resume talks on South China Sea]]></title>
+            <description><![CDATA[[World] Manila, Beijing resume talks on South China Sea]]></description>
+            <link>https://bdnews24.com/world/7451545b0bf9</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/7451545b0bf9</guid>
+            <pubDate>Sat, 28 Mar 2026 23:40:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/manila-beijing-resume-talks-28032026-01-1774719584.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3,500 litres of diesel seized in Netrokona]]></title>
+            <description><![CDATA[[Bangladesh] 3,500 litres of diesel seized in Netrokona]]></description>
+            <link>https://bdnews24.com/bangladesh/967761f4e54a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/967761f4e54a</guid>
+            <pubDate>Sat, 28 Mar 2026 23:26:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/netrakona-oil-recover-280326-01-1774713661.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Holidayers face nightmare journeys amid transport crisis]]></title>
+            <description><![CDATA[[Bangladesh] Holidayers face nightmare journeys amid transport crisis]]></description>
+            <link>https://bdnews24.com/bangladesh/cc9e0cf37ed9</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cc9e0cf37ed9</guid>
+            <pubDate>Sat, 28 Mar 2026 23:22:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/return-dhaka-kamalapur-station-270326-012-1774627804.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[London protesters march to oppose the rise of political right]]></title>
             <description><![CDATA[[World] London protesters march to oppose the rise of political right]]></description>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/968d2f55776e</guid>
             <pubDate>Sat, 28 Mar 2026 21:07:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-04/94f9800d-6f45-455e-9644-80f944beb2bd/mediterranean_migrant_deaths_120221_01.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mossad’s regime-change gamble in Iran falters: NYT]]></title>
-            <description><![CDATA[[World] Mossad’s regime-change gamble in Iran falters: NYT]]></description>
-            <link>https://bdnews24.com/world/790556545bac</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/790556545bac</guid>
-            <pubDate>Sat, 28 Mar 2026 21:01:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/tehran-damage-280326-01-1774709982.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Language Movement veteran Amina Ahmad dies]]></title>
-            <description><![CDATA[[People] Language Movement veteran Amina Ahmad dies]]></description>
-            <link>https://bdnews24.com/people/2992885b22eb</link>
-            <guid isPermaLink="true">https://bdnews24.com/people/2992885b22eb</guid>
-            <pubDate>Sat, 28 Mar 2026 20:31:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/amena-ahmed-280326-01-1774702111.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Russia declares emergency in Dagestan capital after floods cut power]]></title>
-            <description><![CDATA[[World] Russia declares emergency in Dagestan capital after floods cut power]]></description>
-            <link>https://bdnews24.com/world/9971a864f4e4</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/9971a864f4e4</guid>
-            <pubDate>Sat, 28 Mar 2026 20:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/russia-emergency-dagestan-28032026-01-1774707815.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Zelensky agrees defence cooperation with UAE, Qatar]]></title>
-            <description><![CDATA[[World] Zelensky agrees defence cooperation with UAE, Qatar]]></description>
-            <link>https://bdnews24.com/world/8ff673bad7cc</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/8ff673bad7cc</guid>
-            <pubDate>Sat, 28 Mar 2026 20:11:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/zelenskiy-nahyan-280326-01-1774697900.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man killed by friends for easy bike: PBI]]></title>
-            <description><![CDATA[[Bangladesh] Man killed by friends for easy bike: PBI]]></description>
-            <link>https://bdnews24.com/bangladesh/2b7cca6456c4</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2b7cca6456c4</guid>
-            <pubDate>Sat, 28 Mar 2026 19:45:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/manikganj-arrest-280326-01-1774701708.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
