@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Mar 2026 04:07:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 05:47:37 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Mar 2026 04:07:32 GMT</pubDate>
+        <pubDate>Sat, 28 Mar 2026 05:47:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Missile fired from Yemen as Israel, US target Iran]]></title>
+            <description><![CDATA[[Middle East] Missile fired from Yemen as Israel, US target Iran]]></description>
+            <link>https://bdnews24.com/world/middle-east/aba777f20aca</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/aba777f20aca</guid>
+            <pubDate>Sat, 28 Mar 2026 11:36:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/yemen-28326-1774676155.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rubio sees US action in Iran completed in weeks]]></title>
+            <description><![CDATA[[Middle East] Rubio sees US action in Iran completed in weeks]]></description>
+            <link>https://bdnews24.com/world/middle-east/f5b1ccf6c3fc</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/f5b1ccf6c3fc</guid>
+            <pubDate>Sat, 28 Mar 2026 11:22:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/rubio-weeks-iran-war-280326-01-1774675300.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How UBS helped Maxwell buy ‘Tucked Away’]]></title>
+            <description><![CDATA[[World] How UBS helped Maxwell buy ‘Tucked Away’]]></description>
+            <link>https://bdnews24.com/world/a5cacfe13096</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/a5cacfe13096</guid>
+            <pubDate>Sat, 28 Mar 2026 10:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/ubs-helps-maxwell-tucked-away-280326-01-1774673375.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[White scores but faces boos as Uruguay equalise]]></title>
+            <description><![CDATA[[Sport] White scores but faces boos as Uruguay equalise]]></description>
+            <link>https://bdnews24.com/sport/2644245bee25</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/2644245bee25</guid>
+            <pubDate>Sat, 28 Mar 2026 10:36:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/england-uruguay-28326-1774672520.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wirtz double earns Germany comeback over Switzerland]]></title>
+            <description><![CDATA[[Sport] Wirtz double earns Germany comeback over Switzerland]]></description>
+            <link>https://bdnews24.com/sport/0a89c056937b</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/0a89c056937b</guid>
+            <pubDate>Sat, 28 Mar 2026 10:15:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/wirtz-germany-28326-1774671280.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Epstein accusers secure $72.5mn from Bank of America]]></title>
+            <description><![CDATA[[Americas] Epstein accusers secure $72.5mn from Bank of America]]></description>
+            <link>https://bdnews24.com/world/americas/05a5cc8e4228</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/05a5cc8e4228</guid>
+            <pubDate>Sat, 28 Mar 2026 10:15:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/epstein-accusers-bank-of-america-280326-01-1774671205.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Morocco draw first game under new coach]]></title>
+            <description><![CDATA[[Sport] Morocco draw first game under new coach]]></description>
+            <link>https://bdnews24.com/sport/b52ed2ebe450</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/b52ed2ebe450</guid>
+            <pubDate>Sat, 28 Mar 2026 10:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/morocco-first-game-draw-280326-01-1774671105.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Dutch fight back to beat Norway]]></title>
             <description><![CDATA[[Sport] Dutch fight back to beat Norway]]></description>
@@ -78,7 +134,7 @@
             <link>https://bdnews24.com/world/asia-pacific/8468944888a7</link>
             <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/8468944888a7</guid>
             <pubDate>Sat, 28 Mar 2026 09:07:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/kp-sharma-oli-28326-1774667157.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/kp-sharma-oli-280326-1774674079.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[IMF staff-level deal unlocks $1.2bn for Pakistan]]></title>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/ddc6ef7fc3cc</guid>
             <pubDate>Sat, 28 Mar 2026 02:13:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/mexico-stadium-wc-reopening-280326-01-1774642348.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India backs Bangladesh in call for 1971 justice]]></title>
-            <description><![CDATA[[Bangladesh] India backs Bangladesh in call for 1971 justice]]></description>
-            <link>https://bdnews24.com/bangladesh/8b4b962235c7</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8b4b962235c7</guid>
-            <pubDate>Sat, 28 Mar 2026 01:54:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024December/SM/india-briefing-201224-1-1734699172.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[New stand at Inter Miami dedicated to Messi]]></title>
-            <description><![CDATA[[Sport] New stand at Inter Miami dedicated to Messi]]></description>
-            <link>https://bdnews24.com/sport/ad3115af0fb0</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/ad3115af0fb0</guid>
-            <pubDate>Sat, 28 Mar 2026 01:50:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/messi-28326-1774640955.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka hospitals overrun as measles surges]]></title>
-            <description><![CDATA[[Health] Dhaka hospitals overrun as measles surges]]></description>
-            <link>https://bdnews24.com/health/8f386049516a</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/8f386049516a</guid>
-            <pubDate>Sat, 28 Mar 2026 01:45:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/measles-hospital-270326-01-1774640593.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brazil haven’t earned WC favourites tag: Vini Jr]]></title>
-            <description><![CDATA[[Sport] Brazil haven’t earned WC favourites tag: Vini Jr]]></description>
-            <link>https://bdnews24.com/sport/565651795501</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/565651795501</guid>
-            <pubDate>Sat, 28 Mar 2026 01:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/brazil-wc-favourites-280326-01-1774639402.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iranian footballers protest killing of schoolgirls]]></title>
-            <description><![CDATA[[Sport] Iranian footballers protest killing of schoolgirls]]></description>
-            <link>https://bdnews24.com/sport/6701abb9d846</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/6701abb9d846</guid>
-            <pubDate>Sat, 28 Mar 2026 01:22:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-football-protest-28032026-1774639259.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US issues subpoenas in Warner-Paramount deal probe]]></title>
-            <description><![CDATA[[Entertainment] US issues subpoenas in Warner-Paramount deal probe]]></description>
-            <link>https://bdnews24.com/entertainment/69e0bbf4d320</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/69e0bbf4d320</guid>
-            <pubDate>Sat, 28 Mar 2026 00:55:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/warner-bros-28226-1772248858.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mexico searches for four after Sinaloa mine collapse]]></title>
-            <description><![CDATA[[World] Mexico searches for four after Sinaloa mine collapse]]></description>
-            <link>https://bdnews24.com/world/b1cb69b64726</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/b1cb69b64726</guid>
-            <pubDate>Sat, 28 Mar 2026 00:48:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026January/SM/congo-mine-collapse-31012026-01-1769830240.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
