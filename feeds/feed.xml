@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Mar 2026 08:26:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 09:25:34 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 29 Mar 2026 08:26:46 GMT</pubDate>
+        <pubDate>Sun, 29 Mar 2026 09:25:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[BD Foods warehouse fire under control]]></title>
+            <description><![CDATA[[Bangladesh] BD Foods warehouse fire under control]]></description>
+            <link>https://bdnews24.com/bangladesh/e68d4d02cd60</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e68d4d02cd60</guid>
+            <pubDate>Sun, 29 Mar 2026 15:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/chottogram-bd-foods-fire-290326-01-1774773221.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hatirjheel OC apologises over Nobin Fashion incident]]></title>
+            <description><![CDATA[[Bangladesh] Hatirjheel OC apologises over Nobin Fashion incident]]></description>
+            <link>https://bdnews24.com/bangladesh/20ae10d2906e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/20ae10d2906e</guid>
+            <pubDate>Sun, 29 Mar 2026 14:57:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/nobin-fashion-moghbazar-250326-1774446015.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[4.15mn tax returns submitted, extension requests pour in]]></title>
+            <description><![CDATA[[Bangladesh] 4.15mn tax returns submitted, extension requests pour in]]></description>
+            <link>https://bdnews24.com/bangladesh/5cd22252de34</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5cd22252de34</guid>
+            <pubDate>Sun, 29 Mar 2026 14:31:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024October/SM/e-return-031024-01-1727980737.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Customer outcry as ‘fuel depots halt supply’ in Kurigram]]></title>
             <description><![CDATA[[Bangladesh] Customer outcry as ‘fuel depots halt supply’ in Kurigram]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/6107b46cc91d</guid>
             <pubDate>Sun, 29 Mar 2026 09:40:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/israel-gaza-strikes-290326-01-1774755636.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pentagon preparing for weeks of Iran ground operations: WP]]></title>
-            <description><![CDATA[[Americas] Pentagon preparing for weeks of Iran ground operations: WP]]></description>
-            <link>https://bdnews24.com/world/americas/7eb9fb299492</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/7eb9fb299492</guid>
-            <pubDate>Sun, 29 Mar 2026 09:33:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-ground-operations-iran-290326-01-1774755181.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kohli, Duffy star as RCB beat Hyderabad]]></title>
-            <description><![CDATA[[Sport] Kohli, Duffy star as RCB beat Hyderabad]]></description>
-            <link>https://bdnews24.com/sport/177bec0472e5</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/177bec0472e5</guid>
-            <pubDate>Sun, 29 Mar 2026 05:49:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/virat-kohli-290326-01-1774741711.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[8 leave England camp before Japan friendly]]></title>
-            <description><![CDATA[[Sport] 8 leave England camp before Japan friendly]]></description>
-            <link>https://bdnews24.com/sport/5403cf637413</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/5403cf637413</guid>
-            <pubDate>Sun, 29 Mar 2026 05:47:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/thomas-tuchel-290326-01-1774741605.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
