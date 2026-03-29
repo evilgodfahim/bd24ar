@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Mar 2026 19:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 20:18:49 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 29 Mar 2026 19:23:59 GMT</pubDate>
+        <pubDate>Sun, 29 Mar 2026 20:18:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Italy, Bosnia chase World Cup return]]></title>
+            <description><![CDATA[[Sport] Italy, Bosnia chase World Cup return]]></description>
+            <link>https://bdnews24.com/sport/35c8dc6819e1</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/35c8dc6819e1</guid>
+            <pubDate>Mon, 30 Mar 2026 02:15:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/italy-football-300326-01-1774815308.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCP unveils mayoral picks for 5 cities]]></title>
+            <description><![CDATA[[Politics] NCP unveils mayoral picks for 5 cities]]></description>
+            <link>https://bdnews24.com/politics/7e8424c8bcf0</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/7e8424c8bcf0</guid>
+            <pubDate>Mon, 30 Mar 2026 02:09:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/ncp-mayor-candidates-five-city-290326-1774808035.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Zelensky discusses security partnership with Jordan’s king]]></title>
+            <description><![CDATA[[World] Zelensky discusses security partnership with Jordan’s king]]></description>
+            <link>https://bdnews24.com/world/fcd12fce2008</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/fcd12fce2008</guid>
+            <pubDate>Mon, 30 Mar 2026 01:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/volodymyr-zelensky-150326-01-1773571624.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Delayed scholarship exam leaves students overwhelmed]]></title>
+            <description><![CDATA[[Education] Delayed scholarship exam leaves students overwhelmed]]></description>
+            <link>https://bdnews24.com/education/36aa8d86f401</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/36aa8d86f401</guid>
+            <pubDate>Mon, 30 Mar 2026 01:41:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/scholarship-exam-290326-01-1774812983.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Health worker killed in southern Lebanon: WHO]]></title>
+            <description><![CDATA[[World] Health worker killed in southern Lebanon: WHO]]></description>
+            <link>https://bdnews24.com/world/0920d69e5095</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/0920d69e5095</guid>
+            <pubDate>Mon, 30 Mar 2026 01:26:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/lebanon-war-israel-attack-270326-1774602383.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Pressure Cooker!]]></title>
             <description><![CDATA[[Opinion] Pressure Cooker!]]></description>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/f56ec525b3c6</guid>
             <pubDate>Sun, 29 Mar 2026 22:38:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025October/SM/concensus-commission-report-281025-03-1761655608.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Illegal fuel stockpile found at Mongla Jamuna depot]]></title>
-            <description><![CDATA[[Bangladesh] Illegal fuel stockpile found at Mongla Jamuna depot]]></description>
-            <link>https://bdnews24.com/bangladesh/2a7676fffce2</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2a7676fffce2</guid>
-            <pubDate>Sun, 29 Mar 2026 22:25:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/bagerhat-mogla-jumuna-oil-290326-01-1774797812.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles cases surge at Mymensingh hospital]]></title>
-            <description><![CDATA[[Health] Measles cases surge at Mymensingh hospital]]></description>
-            <link>https://bdnews24.com/health/99b7f6d7b883</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/99b7f6d7b883</guid>
-            <pubDate>Sun, 29 Mar 2026 22:15:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mymensingh-hum-290326-01-1774789011.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles outbreak in Bangladesh]]></title>
-            <description><![CDATA[[Image] Measles outbreak in Bangladesh]]></description>
-            <link>https://bdnews24.com/media-en/image/d9a568c655b8</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/d9a568c655b8</guid>
-            <pubDate>Sun, 29 Mar 2026 22:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/measles-patient-sonkromon-bedi-hospital-290326-015-1774790265.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[March 29, 2026]]></title>
-            <description><![CDATA[[Image] March 29, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/2cf66dc1922c</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/2cf66dc1922c</guid>
-            <pubDate>Sun, 29 Mar 2026 22:00:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/tarique-rahman-ministry-290326-005-1774789601.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fan dies at Mexico City stadium reopening]]></title>
-            <description><![CDATA[[Sport] Fan dies at Mexico City stadium reopening]]></description>
-            <link>https://bdnews24.com/sport/0149dc168fd7</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/0149dc168fd7</guid>
-            <pubDate>Sun, 29 Mar 2026 21:59:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/fan-dies-azteca-29032026-01-1-1774799961.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
