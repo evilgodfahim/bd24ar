@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Mar 2026 07:43:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 08:26:46 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 29 Mar 2026 07:43:31 GMT</pubDate>
+        <pubDate>Sun, 29 Mar 2026 08:26:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Customer outcry as ‘fuel depots halt supply’ in Kurigram]]></title>
+            <description><![CDATA[[Bangladesh] Customer outcry as ‘fuel depots halt supply’ in Kurigram]]></description>
+            <link>https://bdnews24.com/bangladesh/280f02e1dc84</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/280f02e1dc84</guid>
+            <pubDate>Sun, 29 Mar 2026 14:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/kurigram-fuel-crisis-290326-02-1774766391.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police bar oil sales to Ctg cars without proper documents]]></title>
+            <description><![CDATA[[Bangladesh] Police bar oil sales to Ctg cars without proper documents]]></description>
+            <link>https://bdnews24.com/bangladesh/2e43b6bb0791</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2e43b6bb0791</guid>
+            <pubDate>Sun, 29 Mar 2026 14:01:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/chattogram-fuel-sell-police-order-290326-01-1774770780.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[PM Tarique visits seven ministries at Secretariat]]></title>
             <description><![CDATA[[Bangladesh] PM Tarique visits seven ministries at Secretariat]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/5403cf637413</guid>
             <pubDate>Sun, 29 Mar 2026 05:47:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/thomas-tuchel-290326-01-1774741605.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[FR Tower fire trial stalled as suspect seek HC intervention]]></title>
-            <description><![CDATA[[Bangladesh] FR Tower fire trial stalled as suspect seek HC intervention]]></description>
-            <link>https://bdnews24.com/bangladesh/c140a8609ea3</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c140a8609ea3</guid>
-            <pubDate>Sun, 29 Mar 2026 03:38:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/fire-fr-tower-banani-amo-28032019-0029-1774724549.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chattogram nears end of waterlogging woes as waste piles up]]></title>
-            <description><![CDATA[[Bangladesh] Chattogram nears end of waterlogging woes as waste piles up]]></description>
-            <link>https://bdnews24.com/bangladesh/69ab374e9437</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/69ab374e9437</guid>
-            <pubDate>Sun, 29 Mar 2026 02:03:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/chaktai-canal-sluice-gate-191125-01-1774724096.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
