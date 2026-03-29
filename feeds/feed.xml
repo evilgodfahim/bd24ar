@@ -4,17 +4,41 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Mar 2026 06:05:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 07:43:31 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 29 Mar 2026 06:05:06 GMT</pubDate>
+        <pubDate>Sun, 29 Mar 2026 07:43:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[PM Tarique visits seven ministries at Secretariat]]></title>
+            <description><![CDATA[[Bangladesh] PM Tarique visits seven ministries at Secretariat]]></description>
+            <link>https://bdnews24.com/bangladesh/ae7744cc84ee</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ae7744cc84ee</guid>
+            <pubDate>Sun, 29 Mar 2026 13:38:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/pm-tarique-rahman-290326-01-1774765749.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US sends subpoenas in Warner-Paramount antitrust review]]></title>
+            <description><![CDATA[[Business] US sends subpoenas in Warner-Paramount antitrust review]]></description>
+            <link>https://bdnews24.com/business/e5d5f487c05b</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/e5d5f487c05b</guid>
+            <pubDate>Sun, 29 Mar 2026 12:11:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/warner-bros-290-326-01-1774764644.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tk 380mn in gold bars found in plane bathroom]]></title>
+            <description><![CDATA[[Bangladesh] Tk 380mn in gold bars found in plane bathroom]]></description>
+            <link>https://bdnews24.com/bangladesh/f177225b6fb0</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f177225b6fb0</guid>
+            <pubDate>Sun, 29 Mar 2026 12:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/shahjalal-airport-gold-290326-01-1774762680.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Tribunal moved to show Mamun Khaled, Masud Chowdhury arrested]]></title>
             <description><![CDATA[[Bangladesh] Tribunal moved to show Mamun Khaled, Masud Chowdhury arrested]]></description>
             <link>https://bdnews24.com/bangladesh/63d62794b008</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/63d62794b008</guid>
             <pubDate>Sun, 29 Mar 2026 11:45:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025December/SM/international-crimes-tribunal-111125-002-1765101831.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/masud-uddin-mamun-khaled-290326-01-1774764864.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[EU discusses critical minerals, tariffs with US]]></title>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/69ab374e9437</guid>
             <pubDate>Sun, 29 Mar 2026 02:03:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/chaktai-canal-sluice-gate-191125-01-1774724096.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Egypt to slow down some state projects amid Iran war: PM]]></title>
-            <description><![CDATA[[World] Egypt to slow down some state projects amid Iran war: PM]]></description>
-            <link>https://bdnews24.com/world/80469750203b</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/80469750203b</guid>
-            <pubDate>Sun, 29 Mar 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/egypt-slow-state-projects-28032026-01-1774720781.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ashwin first Indian to join US Major League]]></title>
-            <description><![CDATA[[Sport] Ashwin first Indian to join US Major League]]></description>
-            <link>https://bdnews24.com/sport/b919cd95c727</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/b919cd95c727</guid>
-            <pubDate>Sat, 28 Mar 2026 23:44:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025September/SM/ashwin-230925-01-1758626458.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Manila, Beijing resume talks on South China Sea]]></title>
-            <description><![CDATA[[World] Manila, Beijing resume talks on South China Sea]]></description>
-            <link>https://bdnews24.com/world/7451545b0bf9</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/7451545b0bf9</guid>
-            <pubDate>Sat, 28 Mar 2026 23:40:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/manila-beijing-resume-talks-28032026-01-1774719584.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
