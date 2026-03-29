@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Mar 2026 10:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 11:18:33 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 29 Mar 2026 10:20:33 GMT</pubDate>
+        <pubDate>Sun, 29 Mar 2026 11:18:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[‘If I use my vehicle, I will have to push it home’]]></title>
+            <description><![CDATA[[Bangladesh] ‘If I use my vehicle, I will have to push it home’]]></description>
+            <link>https://bdnews24.com/bangladesh/d578dc6bcbe7</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d578dc6bcbe7</guid>
+            <pubDate>Sun, 29 Mar 2026 16:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/narayanganj-feul-crisis290326-1774779371.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[CCTV cameras now mandatory for SSC ‘integrity’]]></title>
+            <description><![CDATA[[Bangladesh] CCTV cameras now mandatory for SSC ‘integrity’]]></description>
+            <link>https://bdnews24.com/bangladesh/fdad4f099070</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/fdad4f099070</guid>
+            <pubDate>Sun, 29 Mar 2026 16:42:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025November/SM/comilla-city-election-cc-camera-140622-01-1762413673.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Parliament resumes session after Eid break]]></title>
             <description><![CDATA[[Bangladesh] Parliament resumes session after Eid break]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/4df1ce257f8d</guid>
             <pubDate>Sun, 29 Mar 2026 10:15:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/sabalenka-miami-tennis-290326-01-1774757742.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yemen's Houthis enter Iran war with attacks on Israel]]></title>
-            <description><![CDATA[[Middle East] Yemen's Houthis enter Iran war with attacks on Israel]]></description>
-            <link>https://bdnews24.com/world/middle-east/b0ceea293bcd</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/b0ceea293bcd</guid>
-            <pubDate>Sun, 29 Mar 2026 10:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/ashkelon-israel-290326-01-1774757387.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How many have been killed in the US-Israel war on Iran?]]></title>
-            <description><![CDATA[[Middle East] How many have been killed in the US-Israel war on Iran?]]></description>
-            <link>https://bdnews24.com/world/middle-east/b997d1f262f0</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/b997d1f262f0</guid>
-            <pubDate>Sun, 29 Mar 2026 10:01:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/death-toll-iran-war-290326-01-1774756887.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
