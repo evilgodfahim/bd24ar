@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Mar 2026 09:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 10:20:33 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 29 Mar 2026 09:25:34 GMT</pubDate>
+        <pubDate>Sun, 29 Mar 2026 10:20:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Parliament resumes session after Eid break]]></title>
+            <description><![CDATA[[Bangladesh] Parliament resumes session after Eid break]]></description>
+            <link>https://bdnews24.com/bangladesh/935b3ba3cb64</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/935b3ba3cb64</guid>
+            <pubDate>Sun, 29 Mar 2026 16:05:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/parliament-start-290326-01-1774776886.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[No measles vaccines administered in 8 years: health minister]]></title>
+            <description><![CDATA[[Bangladesh] No measles vaccines administered in 8 years: health minister]]></description>
+            <link>https://bdnews24.com/bangladesh/743e6a1d816a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/743e6a1d816a</guid>
+            <pubDate>Sun, 29 Mar 2026 15:40:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/sardar-shakhawat-hossain-bokul-290326-01-1774773704.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Another 11 districts get new deputy commissioners]]></title>
+            <description><![CDATA[[Bangladesh] Another 11 districts get new deputy commissioners]]></description>
+            <link>https://bdnews24.com/bangladesh/f3d4448ef45b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f3d4448ef45b</guid>
+            <pubDate>Sun, 29 Mar 2026 15:35:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024September/SM/ministry-pub-admin-111123-1726573417.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[BD Foods warehouse fire under control]]></title>
             <description><![CDATA[[Bangladesh] BD Foods warehouse fire under control]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/b997d1f262f0</guid>
             <pubDate>Sun, 29 Mar 2026 10:01:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/death-toll-iran-war-290326-01-1774756887.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thousands without power amid Australia LNG disruptions]]></title>
-            <description><![CDATA[[Asia Pacific] Thousands without power amid Australia LNG disruptions]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/ef522262bf7a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/ef522262bf7a</guid>
-            <pubDate>Sun, 29 Mar 2026 09:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/australia-lng-power-290326-01-1774756561.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anti-Trump 'No Kings' rallies pop up in thousands of US cities]]></title>
-            <description><![CDATA[[Americas] Anti-Trump 'No Kings' rallies pop up in thousands of US cities]]></description>
-            <link>https://bdnews24.com/world/americas/29f8b98eeaf8</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/29f8b98eeaf8</guid>
-            <pubDate>Sun, 29 Mar 2026 09:45:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/us-no-kings-protest-290326-01-1774755900.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel kills 6 in strikes on Gaza police checkposts: medics]]></title>
-            <description><![CDATA[[Middle East] Israel kills 6 in strikes on Gaza police checkposts: medics]]></description>
-            <link>https://bdnews24.com/world/middle-east/6107b46cc91d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/6107b46cc91d</guid>
-            <pubDate>Sun, 29 Mar 2026 09:40:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/israel-gaza-strikes-290326-01-1774755636.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
