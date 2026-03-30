@@ -4,16 +4,169 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 06:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 08:14:41 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 06:23:05 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 08:14:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[No articles found yet]]></title>
-            <description><![CDATA[RSS feed could not scrape any articles.]]></description>
-            <link>https://bdnews24.com</link>
-            <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Mon, 30 Mar 2026 06:23:05 GMT</pubDate>
+            <title><![CDATA[Pakistan, Afghanistan trade fire]]></title>
+            <description><![CDATA[[Asia Pacific] Pakistan, Afghanistan trade fire]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/30b6a2e0d798</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/30b6a2e0d798</guid>
+            <pubDate>Mon, 30 Mar 2026 14:07:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel reports second attack from Yemen]]></title>
+            <description><![CDATA[[Middle East] Israel reports second attack from Yemen]]></description>
+            <link>https://bdnews24.com/world/middle-east/dc561757825d</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/dc561757825d</guid>
+            <pubDate>Mon, 30 Mar 2026 13:30:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[47 children die of Measles in Rajshahi]]></title>
+            <description><![CDATA[[Health] 47 children die of Measles in Rajshahi]]></description>
+            <link>https://bdnews24.com/health/d69ae5bdd3c6</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/d69ae5bdd3c6</guid>
+            <pubDate>Mon, 30 Mar 2026 12:59:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[AL leader shot in Kushtia]]></title>
+            <description><![CDATA[[Bangladesh] AL leader shot in Kushtia]]></description>
+            <link>https://bdnews24.com/bangladesh/2a1d24d6612f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2a1d24d6612f</guid>
+            <pubDate>Mon, 30 Mar 2026 12:59:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Former DGFI director arrested]]></title>
+            <description><![CDATA[[Bangladesh] Former DGFI director arrested]]></description>
+            <link>https://bdnews24.com/bangladesh/93843f3790c8</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/93843f3790c8</guid>
+            <pubDate>Mon, 30 Mar 2026 12:57:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran vows attacks on foreign military homes]]></title>
+            <description><![CDATA[[World] Iran vows attacks on foreign military homes]]></description>
+            <link>https://bdnews24.com/world/22c423fb9edf</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/22c423fb9edf</guid>
+            <pubDate>Mon, 30 Mar 2026 12:36:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tk 100,000 reward for info on illegal fuel hoarding]]></title>
+            <description><![CDATA[[Bangladesh] Tk 100,000 reward for info on illegal fuel hoarding]]></description>
+            <link>https://bdnews24.com/bangladesh/c98011ebdb1c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c98011ebdb1c</guid>
+            <pubDate>Mon, 30 Mar 2026 12:31:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Harry Potter’ Season 2 in the works]]></title>
+            <description><![CDATA[[Entertainment] ‘Harry Potter’ Season 2 in the works]]></description>
+            <link>https://bdnews24.com/entertainment/d488c6e1be81</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/d488c6e1be81</guid>
+            <pubDate>Mon, 30 Mar 2026 11:55:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gabbard has gentler view on Iran: Trump]]></title>
+            <description><![CDATA[[Americas] Gabbard has gentler view on Iran: Trump]]></description>
+            <link>https://bdnews24.com/world/americas/0636730bf2d3</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/0636730bf2d3</guid>
+            <pubDate>Mon, 30 Mar 2026 11:50:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Myanmar junta chief nominated for presidency]]></title>
+            <description><![CDATA[[Neighbours] Myanmar junta chief nominated for presidency]]></description>
+            <link>https://bdnews24.com/neighbours/558b645d125e</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/558b645d125e</guid>
+            <pubDate>Mon, 30 Mar 2026 11:50:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PCB charges Fakhar Zaman with ball tampering in PSL]]></title>
+            <description><![CDATA[[Cricket] PCB charges Fakhar Zaman with ball tampering in PSL]]></description>
+            <link>https://bdnews24.com/cricket/67600eb01728</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/67600eb01728</guid>
+            <pubDate>Mon, 30 Mar 2026 11:48:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Taiwan's opposition leader to visit China next month,]]></title>
+            <description><![CDATA[[Asia Pacific] Taiwan's opposition leader to visit China next month,]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/e470c619cfcf</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/e470c619cfcf</guid>
+            <pubDate>Mon, 30 Mar 2026 11:46:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump jibes at Saudi crown prince in crude language]]></title>
+            <description><![CDATA[[World] Trump jibes at Saudi crown prince in crude language]]></description>
+            <link>https://bdnews24.com/world/71e9d75015f5</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/71e9d75015f5</guid>
+            <pubDate>Mon, 30 Mar 2026 11:41:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brent heads for record monthly jump]]></title>
+            <description><![CDATA[[Business] Brent heads for record monthly jump]]></description>
+            <link>https://bdnews24.com/business/9be00f029452</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/9be00f029452</guid>
+            <pubDate>Mon, 30 Mar 2026 11:39:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump says White House ballroom is ahead of schedule]]></title>
+            <description><![CDATA[[Americas] Trump says White House ballroom is ahead of schedule]]></description>
+            <link>https://bdnews24.com/world/americas/4967bb0c4a1f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/4967bb0c4a1f</guid>
+            <pubDate>Mon, 30 Mar 2026 11:33:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump calls Iran’s current leaders ‘very reasonable’]]></title>
+            <description><![CDATA[[World] Trump calls Iran’s current leaders ‘very reasonable’]]></description>
+            <link>https://bdnews24.com/world/bca680e87059</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/bca680e87059</guid>
+            <pubDate>Mon, 30 Mar 2026 11:32:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Egypt warn Salah over potential MLS move]]></title>
+            <description><![CDATA[[Sport] Egypt warn Salah over potential MLS move]]></description>
+            <link>https://bdnews24.com/sport/4ec04f772128</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/4ec04f772128</guid>
+            <pubDate>Mon, 30 Mar 2026 11:28:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran war raises 2028 stakes as Trump weighs Vance, Rubio]]></title>
+            <description><![CDATA[[Americas] Iran war raises 2028 stakes as Trump weighs Vance, Rubio]]></description>
+            <link>https://bdnews24.com/world/americas/6e86921f8acc</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/6e86921f8acc</guid>
+            <pubDate>Mon, 30 Mar 2026 11:23:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Washiqur murder: 11 years on, justice remains elusive]]></title>
+            <description><![CDATA[[Bangladesh] Washiqur murder: 11 years on, justice remains elusive]]></description>
+            <link>https://bdnews24.com/bangladesh/af4d4afc51c4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/af4d4afc51c4</guid>
+            <pubDate>Mon, 30 Mar 2026 11:20:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russian oil tanker nears Cuba as Trump softens tone]]></title>
+            <description><![CDATA[[Americas] Russian oil tanker nears Cuba as Trump softens tone]]></description>
+            <link>https://bdnews24.com/world/americas/d69b25a8e5ac</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/d69b25a8e5ac</guid>
+            <pubDate>Mon, 30 Mar 2026 11:19:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
