@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News]]></title>
-        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
+        <title><![CDATA[bdnews24.com (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 01:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 04:35:29 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 01:13:08 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 04:35:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Italy, Bosnia chase World Cup return]]></title>
-            <description><![CDATA[[Sport] Italy, Bosnia chase World Cup return]]></description>
-            <link>https://bdnews24.com/sport/35c8dc6819e1</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/35c8dc6819e1</guid>
-            <pubDate>Mon, 30 Mar 2026 02:15:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/italy-football-300326-01-1774815308.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCP unveils mayoral picks for 5 cities]]></title>
-            <description><![CDATA[[Politics] NCP unveils mayoral picks for 5 cities]]></description>
-            <link>https://bdnews24.com/politics/7e8424c8bcf0</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/7e8424c8bcf0</guid>
-            <pubDate>Mon, 30 Mar 2026 02:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/ncp-mayor-candidates-five-city-290326-1774808035.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Zelensky discusses security partnership with Jordan’s king]]></title>
-            <description><![CDATA[[World] Zelensky discusses security partnership with Jordan’s king]]></description>
-            <link>https://bdnews24.com/world/fcd12fce2008</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/fcd12fce2008</guid>
-            <pubDate>Mon, 30 Mar 2026 01:47:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/volodymyr-zelensky-150326-01-1773571624.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Delayed scholarship exam leaves students overwhelmed]]></title>
-            <description><![CDATA[[Education] Delayed scholarship exam leaves students overwhelmed]]></description>
-            <link>https://bdnews24.com/education/36aa8d86f401</link>
-            <guid isPermaLink="true">https://bdnews24.com/education/36aa8d86f401</guid>
-            <pubDate>Mon, 30 Mar 2026 01:41:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/scholarship-exam-290326-01-1774812983.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Health worker killed in southern Lebanon: WHO]]></title>
-            <description><![CDATA[[World] Health worker killed in southern Lebanon: WHO]]></description>
-            <link>https://bdnews24.com/world/0920d69e5095</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/0920d69e5095</guid>
-            <pubDate>Mon, 30 Mar 2026 01:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/lebanon-war-israel-attack-270326-1774602383.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pressure Cooker!]]></title>
-            <description><![CDATA[[Opinion] Pressure Cooker!]]></description>
-            <link>https://bdnews24.com/opinion/76b8daae14dc</link>
-            <guid isPermaLink="true">https://bdnews24.com/opinion/76b8daae14dc</guid>
-            <pubDate>Mon, 30 Mar 2026 01:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/pressure-cooker-1774811371.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel finds no negligence in farmer’s killing near Lebanon border]]></title>
-            <description><![CDATA[[World] Israel finds no negligence in farmer’s killing near Lebanon border]]></description>
-            <link>https://bdnews24.com/world/0a31845392eb</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/0a31845392eb</guid>
-            <pubDate>Mon, 30 Mar 2026 00:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/syrians-in-lebanon-040326-01-1772599333.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 killed in Russian strike on Kramatorsk]]></title>
-            <description><![CDATA[[World] 3 killed in Russian strike on Kramatorsk]]></description>
-            <link>https://bdnews24.com/world/44ede4ff0a5f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/44ede4ff0a5f</guid>
-            <pubDate>Mon, 30 Mar 2026 00:54:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/ukraine-russia-war-strikes-220326-01-1774152450.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCP unveils mayoral picks for 5 cities]]></title>
-            <description><![CDATA[[Politics] NCP unveils mayoral picks for 5 cities]]></description>
-            <link>https://bdnews24.com/politics/88da2a4c8681</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/88da2a4c8681</guid>
-            <pubDate>Mon, 30 Mar 2026 00:31:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/ncp-mayor-candidates-five-city-290326-1774808035.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Forex reserves slide by $1bn in a month]]></title>
-            <description><![CDATA[[Economy] Forex reserves slide by $1bn in a month]]></description>
-            <link>https://bdnews24.com/economy/481dc2d032f9</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/481dc2d032f9</guid>
-            <pubDate>Mon, 30 Mar 2026 00:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/dollar-new-1774803846.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2 Madaripur men ‘beaten’ to death in Libya]]></title>
-            <description><![CDATA[[Bangladesh] 2 Madaripur men ‘beaten’ to death in Libya]]></description>
-            <link>https://bdnews24.com/bangladesh/06aad3bdaaad</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/06aad3bdaaad</guid>
-            <pubDate>Mon, 30 Mar 2026 00:21:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/madaripur-libiya-two-dead-290326-01-1774799946.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Actor Rahul Banerjee drowns while shooting]]></title>
-            <description><![CDATA[[Entertainment] Actor Rahul Banerjee drowns while shooting]]></description>
-            <link>https://bdnews24.com/entertainment/7c0383d184c9</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/7c0383d184c9</guid>
-            <pubDate>Mon, 30 Mar 2026 00:16:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/actor-rahul-290326-01-1774796025.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tottenham's Tudor tenure ends in turmoil]]></title>
-            <description><![CDATA[[Sport] Tottenham's Tudor tenure ends in turmoil]]></description>
-            <link>https://bdnews24.com/sport/002c5e996070</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/002c5e996070</guid>
-            <pubDate>Sun, 29 Mar 2026 23:44:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/igor-tudor-290326-01-1774806217.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israeli police block cardinal at Holy Sepulchre]]></title>
-            <description><![CDATA[[World] Israeli police block cardinal at Holy Sepulchre]]></description>
-            <link>https://bdnews24.com/world/3dfddc2c59a0</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/3dfddc2c59a0</guid>
-            <pubDate>Sun, 29 Mar 2026 23:42:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/2022-08/fa520538-22b5-4792-bb3b-b4d16fd1aa7a/jerusalem_050822_01.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Germany to make changes against Ghana]]></title>
-            <description><![CDATA[[Sport] Germany to make changes against Ghana]]></description>
-            <link>https://bdnews24.com/sport/15165301d34d</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/15165301d34d</guid>
-            <pubDate>Sun, 29 Mar 2026 23:40:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/germany-win-290326-01-1774805963.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[AFCON to expand to 28 teams]]></title>
-            <description><![CDATA[[Sport] AFCON to expand to 28 teams]]></description>
-            <link>https://bdnews24.com/sport/dfbbc7e99659</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/dfbbc7e99659</guid>
-            <pubDate>Sun, 29 Mar 2026 23:22:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/africa-cup-290326-01-1774804916.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt to punish traffickers over Mediterranean deaths]]></title>
-            <description><![CDATA[[Bangladesh] Govt to punish traffickers over Mediterranean deaths]]></description>
-            <link>https://bdnews24.com/bangladesh/d071b30dfc17</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d071b30dfc17</guid>
-            <pubDate>Sun, 29 Mar 2026 22:50:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/migrants-head-to-europe-280326-011-1774711865.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BB eyes fresh $2bn loans amid Iran war shocks]]></title>
-            <description><![CDATA[[Economy] BB eyes fresh $2bn loans amid Iran war shocks]]></description>
-            <link>https://bdnews24.com/economy/e5aacd8f07e8</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/e5aacd8f07e8</guid>
-            <pubDate>Sun, 29 Mar 2026 22:48:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mostaqur-rahman-govornor-290326-01-1774799796.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan hosts regional powers to discuss Hormuz reopening]]></title>
-            <description><![CDATA[[World] Pakistan hosts regional powers to discuss Hormuz reopening]]></description>
-            <link>https://bdnews24.com/world/f4fd7d25b5d8</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/f4fd7d25b5d8</guid>
-            <pubDate>Sun, 29 Mar 2026 22:41:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/luojiashan-tanker-250326-01-1774422911.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Row erupts in parliament over reform council notice]]></title>
-            <description><![CDATA[[Bangladesh] Row erupts in parliament over reform council notice]]></description>
-            <link>https://bdnews24.com/bangladesh/f56ec525b3c6</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f56ec525b3c6</guid>
-            <pubDate>Sun, 29 Mar 2026 22:38:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025October/SM/concensus-commission-report-281025-03-1761655608.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping.]]></description>
+            <link>https://bdnews24.com</link>
+            <guid isPermaLink="true">https://bdnews24.com</guid>
+            <pubDate>Mon, 30 Mar 2026 04:35:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
