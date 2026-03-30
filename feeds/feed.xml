@@ -4,9 +4,9 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 21:31:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 22:22:41 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 21:31:18 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 22:22:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Sooryavanshi’s 15-ball fifty sinks Chennai]]></title>
@@ -161,12 +161,12 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-war-300326-01-1774901316.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Israel death penalty bill for Palestinian convicts faces vote]]></title>
-            <description><![CDATA[[World] Israel death penalty bill for Palestinian convicts faces vote]]></description>
+            <title><![CDATA[Israel enacts death penalty law for Palestinians]]></title>
+            <description><![CDATA[[World] Israel enacts death penalty law for Palestinians]]></description>
             <link>https://bdnews24.com/world/6087755b9eef</link>
             <guid isPermaLink="true">https://bdnews24.com/world/6087755b9eef</guid>
             <pubDate>Mon, 30 Mar 2026 22:47:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/israel-palestine-death-bill-310326-01-1774907072.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
