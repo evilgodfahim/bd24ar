@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 10:04:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 11:45:00 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 10:04:41 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 11:45:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Vaccination to start immediately on arrival: Sakhawat]]></title>
+            <description><![CDATA[[Health] Vaccination to start immediately on arrival: Sakhawat]]></description>
+            <link>https://bdnews24.com/health/69efe67fea16</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/69efe67fea16</guid>
+            <pubDate>Mon, 30 Mar 2026 17:33:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Murky water hits parliament, chief whip ‘falls ill’]]></title>
+            <description><![CDATA[[Bangladesh] Murky water hits parliament, chief whip ‘falls ill’]]></description>
+            <link>https://bdnews24.com/bangladesh/639d27431ed6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/639d27431ed6</guid>
+            <pubDate>Mon, 30 Mar 2026 17:23:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM holds meeting with leader of the opposition]]></title>
+            <description><![CDATA[[Bangladesh] PM holds meeting with leader of the opposition]]></description>
+            <link>https://bdnews24.com/bangladesh/1ce8bb8e3fae</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1ce8bb8e3fae</guid>
+            <pubDate>Mon, 30 Mar 2026 17:04:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[4 get life in prison for Kushtia murder]]></title>
+            <description><![CDATA[[Bangladesh] 4 get life in prison for Kushtia murder]]></description>
+            <link>https://bdnews24.com/bangladesh/ca3744965d20</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ca3744965d20</guid>
+            <pubDate>Mon, 30 Mar 2026 16:58:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Don’t represent any political party: PM to sportsmen]]></title>
+            <description><![CDATA[[Sport] Don’t represent any political party: PM to sportsmen]]></description>
+            <link>https://bdnews24.com/sport/d7ddce4fdd2a</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/d7ddce4fdd2a</guid>
+            <pubDate>Mon, 30 Mar 2026 16:47:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[HSC exams may be held in June again]]></title>
+            <description><![CDATA[[Education] HSC exams may be held in June again]]></description>
+            <link>https://bdnews24.com/education/602259fee163</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/602259fee163</guid>
+            <pubDate>Mon, 30 Mar 2026 16:23:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Syrian father crosses seas to save his ailing son]]></title>
             <description><![CDATA[[Society] Syrian father crosses seas to save his ailing son]]></description>
@@ -89,8 +137,8 @@
             <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Afzal arrested in case against ex-DGFI chief, DB seeks remand]]></title>
-            <description><![CDATA[[Bangladesh] Afzal arrested in case against ex-DGFI chief, DB seeks remand]]></description>
+            <title><![CDATA[Ex-DGFI director Afzal Naser to be quizzed]]></title>
+            <description><![CDATA[[Bangladesh] Ex-DGFI director Afzal Naser to be quizzed]]></description>
             <link>https://bdnews24.com/bangladesh/93843f3790c8</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/93843f3790c8</guid>
             <pubDate>Mon, 30 Mar 2026 12:57:00 GMT</pubDate>
@@ -118,54 +166,6 @@
             <link>https://bdnews24.com/entertainment/d488c6e1be81</link>
             <guid isPermaLink="true">https://bdnews24.com/entertainment/d488c6e1be81</guid>
             <pubDate>Mon, 30 Mar 2026 11:55:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gabbard has gentler view on Iran: Trump]]></title>
-            <description><![CDATA[[Americas] Gabbard has gentler view on Iran: Trump]]></description>
-            <link>https://bdnews24.com/world/americas/0636730bf2d3</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/0636730bf2d3</guid>
-            <pubDate>Mon, 30 Mar 2026 11:50:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Myanmar military chief steps down, eyes presidency]]></title>
-            <description><![CDATA[[Neighbours] Myanmar military chief steps down, eyes presidency]]></description>
-            <link>https://bdnews24.com/neighbours/558b645d125e</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/558b645d125e</guid>
-            <pubDate>Mon, 30 Mar 2026 11:50:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PCB charges Fakhar Zaman with ball tampering in PSL]]></title>
-            <description><![CDATA[[Cricket] PCB charges Fakhar Zaman with ball tampering in PSL]]></description>
-            <link>https://bdnews24.com/cricket/67600eb01728</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/67600eb01728</guid>
-            <pubDate>Mon, 30 Mar 2026 11:48:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taiwan's opposition leader to visit China next month,]]></title>
-            <description><![CDATA[[Asia Pacific] Taiwan's opposition leader to visit China next month,]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/e470c619cfcf</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/e470c619cfcf</guid>
-            <pubDate>Mon, 30 Mar 2026 11:46:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump jibes at Saudi crown prince in crude language]]></title>
-            <description><![CDATA[[World] Trump jibes at Saudi crown prince in crude language]]></description>
-            <link>https://bdnews24.com/world/71e9d75015f5</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/71e9d75015f5</guid>
-            <pubDate>Mon, 30 Mar 2026 11:41:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brent heads for record monthly jump]]></title>
-            <description><![CDATA[[Business] Brent heads for record monthly jump]]></description>
-            <link>https://bdnews24.com/business/9be00f029452</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/9be00f029452</guid>
-            <pubDate>Mon, 30 Mar 2026 11:39:00 GMT</pubDate>
             <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
