@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Mar 2026 06:09:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 07:59:51 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 31 Mar 2026 06:09:16 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 07:59:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[In future, returns could be filed year-round: NBR chief]]></title>
+            <description><![CDATA[[Business] In future, returns could be filed year-round: NBR chief]]></description>
+            <link>https://bdnews24.com/business/069d60f2f6b7</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/069d60f2f6b7</guid>
+            <pubDate>Tue, 31 Mar 2026 13:39:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/nbr-pre-budget-talk-310326-01-1774941413.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK economy limped into the end of last year before Iran war]]></title>
+            <description><![CDATA[[Economy] UK economy limped into the end of last year before Iran war]]></description>
+            <link>https://bdnews24.com/economy/b8105714e05a</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/b8105714e05a</guid>
+            <pubDate>Tue, 31 Mar 2026 13:34:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/london-skyline-cbd-310326-01-1774942443.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trader killing: Verdict against 22 suspects deferred]]></title>
+            <description><![CDATA[[Bangladesh] Trader killing: Verdict against 22 suspects deferred]]></description>
+            <link>https://bdnews24.com/bangladesh/930e74e70fc0</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/930e74e70fc0</guid>
+            <pubDate>Tue, 31 Mar 2026 12:56:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rinku-killing-case-0400326-01-1772616951.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Florida to rename Palm Beach airport after Trump]]></title>
+            <description><![CDATA[[Aviation] Florida to rename Palm Beach airport after Trump]]></description>
+            <link>https://bdnews24.com/aviation/421977086c5b</link>
+            <guid isPermaLink="true">https://bdnews24.com/aviation/421977086c5b</guid>
+            <pubDate>Tue, 31 Mar 2026 12:43:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-palm-beach-31326-1774939392.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Sooryavanshi tipped for India T20 squad]]></title>
             <description><![CDATA[[Cricket] Sooryavanshi tipped for India T20 squad]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/003589c83e20</guid>
             <pubDate>Tue, 31 Mar 2026 09:28:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/1000060754-1774927634.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran hits tanker off Dubai after Trump threat]]></title>
-            <description><![CDATA[[Middle East] Iran hits tanker off Dubai after Trump threat]]></description>
-            <link>https://bdnews24.com/world/middle-east/e3ab80fb0a41</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/e3ab80fb0a41</guid>
-            <pubDate>Tue, 31 Mar 2026 09:18:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/debris-haifa-israel-31326-1774926986.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sooryavanshi’s 15-ball fifty sinks Chennai]]></title>
-            <description><![CDATA[[Cricket] Sooryavanshi’s 15-ball fifty sinks Chennai]]></description>
-            <link>https://bdnews24.com/cricket/2b2eb9b0c411</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/2b2eb9b0c411</guid>
-            <pubDate>Tue, 31 Mar 2026 01:40:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘7 Bangladeshi’ Lashkar members held: India police]]></title>
-            <description><![CDATA[[Bangladesh] ‘7 Bangladeshi’ Lashkar members held: India police]]></description>
-            <link>https://bdnews24.com/bangladesh/31c8693782be</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/31c8693782be</guid>
-            <pubDate>Tue, 31 Mar 2026 01:16:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/shabbir-ahmed-lone-lashkar-e-taiba-300326-1774901038.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Can Tk 30bn be recovered from Beximco’s Sukuk?]]></title>
-            <description><![CDATA[[Business] Can Tk 30bn be recovered from Beximco’s Sukuk?]]></description>
-            <link>https://bdnews24.com/business/12557bcfc787</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/12557bcfc787</guid>
-            <pubDate>Tue, 31 Mar 2026 01:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/teesta-solar-limited-121225-1774900655.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
