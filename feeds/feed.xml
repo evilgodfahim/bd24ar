@@ -4,13 +4,21 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Mar 2026 20:31:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 21:26:19 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 31 Mar 2026 20:31:14 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 21:26:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Parliamentary committee proposed for constitutional reform]]></title>
-            <description><![CDATA[[Bangladesh] Parliamentary committee proposed for constitutional reform]]></description>
+            <title><![CDATA[US court allows probe to demand list of Jews at Penn]]></title>
+            <description><![CDATA[[World] US court allows probe to demand list of Jews at Penn]]></description>
+            <link>https://bdnews24.com/world/0ce9da1e9363</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/0ce9da1e9363</guid>
+            <pubDate>Wed, 01 Apr 2026 02:59:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/penn-uni-jewish-data-010426-01-1774990723.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Committee proposed for constitutional reform]]></title>
+            <description><![CDATA[[Bangladesh] Committee proposed for constitutional reform]]></description>
             <link>https://bdnews24.com/bangladesh/bb196c29e66f</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/bb196c29e66f</guid>
             <pubDate>Wed, 01 Apr 2026 02:26:00 GMT</pubDate>
@@ -41,8 +49,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/world-cup-010426-01-1774986358.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[175 Bangladeshis returning from Libyan detention centres]]></title>
-            <description><![CDATA[[Bangladesh] 175 Bangladeshis returning from Libyan detention centres]]></description>
+            <title><![CDATA[175 returning from Libyan detention centres]]></title>
+            <description><![CDATA[[Bangladesh] 175 returning from Libyan detention centres]]></description>
             <link>https://bdnews24.com/bangladesh/ba403265423c</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/ba403265423c</guid>
             <pubDate>Wed, 01 Apr 2026 01:03:00 GMT</pubDate>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/9b2d15a30b8d</guid>
             <pubDate>Tue, 31 Mar 2026 21:54:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025December/SM/katz-231225-01-1766494066.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Khalilur to visit India Apr 7 for key meetings]]></title>
-            <description><![CDATA[[Bangladesh] Khalilur to visit India Apr 7 for key meetings]]></description>
-            <link>https://bdnews24.com/bangladesh/b5c436608202</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b5c436608202</guid>
-            <pubDate>Tue, 31 Mar 2026 21:33:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/khalilur-rahaman-020226-01-1770044317.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
