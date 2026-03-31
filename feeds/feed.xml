@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Mar 2026 21:26:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 22:22:59 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 31 Mar 2026 21:26:19 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 22:22:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Court pauses Trump ballroom project]]></title>
+            <description><![CDATA[[World] Court pauses Trump ballroom project]]></description>
+            <link>https://bdnews24.com/world/7e5d8fc74254</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/7e5d8fc74254</guid>
+            <pubDate>Wed, 01 Apr 2026 03:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/ballroom-project-010426-01-1774993756.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA['Only' Plan A for Iran's WC schedule: FIFA president]]></title>
+            <description><![CDATA[[Sport] 'Only' Plan A for Iran's WC schedule: FIFA president]]></description>
+            <link>https://bdnews24.com/sport/e0f1f59410d0</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/e0f1f59410d0</guid>
+            <pubDate>Wed, 01 Apr 2026 03:43:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/gianni-infantino-010426-01-1774993358.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[US court allows probe to demand list of Jews at Penn]]></title>
             <description><![CDATA[[World] US court allows probe to demand list of Jews at Penn]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/3b785e5a55ab</guid>
             <pubDate>Tue, 31 Mar 2026 22:26:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jhenidah-toru-munshi-140326-01-1773487691.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beauty of Mohera Zamindar Bari]]></title>
-            <description><![CDATA[[Image] Beauty of Mohera Zamindar Bari]]></description>
-            <link>https://bdnews24.com/media-en/image/546cc040b136</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/546cc040b136</guid>
-            <pubDate>Tue, 31 Mar 2026 21:55:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mohera-jamidar-bari-tangail-300326-009-1774953171.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel will destroy 'all houses' near Lebanon border: defence minister]]></title>
-            <description><![CDATA[[World] Israel will destroy 'all houses' near Lebanon border: defence minister]]></description>
-            <link>https://bdnews24.com/world/9b2d15a30b8d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/9b2d15a30b8d</guid>
-            <pubDate>Tue, 31 Mar 2026 21:54:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025December/SM/katz-231225-01-1766494066.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
