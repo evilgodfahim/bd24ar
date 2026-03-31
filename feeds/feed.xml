@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Mar 2026 18:43:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 19:45:17 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 31 Mar 2026 18:43:06 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 19:45:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[175 Bangladeshis returning from Libyan detention centres]]></title>
+            <description><![CDATA[[Bangladesh] 175 Bangladeshis returning from Libyan detention centres]]></description>
+            <link>https://bdnews24.com/bangladesh/ba403265423c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ba403265423c</guid>
+            <pubDate>Wed, 01 Apr 2026 01:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/libya-returnee-310326-01-1774983183.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK to send air defence kit to Middle East]]></title>
+            <description><![CDATA[[World] UK to send air defence kit to Middle East]]></description>
+            <link>https://bdnews24.com/world/9bc42a583b27</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/9bc42a583b27</guid>
+            <pubDate>Wed, 01 Apr 2026 00:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/uk-send-air-defence-me-31032026-01-1774982997.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spurs appoint De Zerbi as manager]]></title>
+            <description><![CDATA[[Sport] Spurs appoint De Zerbi as manager]]></description>
+            <link>https://bdnews24.com/sport/3c1a7394cede</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/3c1a7394cede</guid>
+            <pubDate>Wed, 01 Apr 2026 00:43:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/de-zerbi-310326-01-1774982555.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Salahuddin slates Charter order as ‘deceptive’]]></title>
             <description><![CDATA[[Bangladesh] Salahuddin slates Charter order as ‘deceptive’]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/7f8e9dbd94d0</guid>
             <pubDate>Tue, 31 Mar 2026 21:06:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2024-04/8d1bba4c-0598-4524-82db-445a1da60ae3/boishakh_mongol_sovajatra_140424_10.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chelsea's youth focus may hinder trophy ambitions: Cucurella]]></title>
-            <description><![CDATA[[Sport] Chelsea's youth focus may hinder trophy ambitions: Cucurella]]></description>
-            <link>https://bdnews24.com/sport/0e78117b2091</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/0e78117b2091</guid>
-            <pubDate>Tue, 31 Mar 2026 20:54:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/marc-cucurella-310326-01-1774968811.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pochettino confident Spurs will avoid relegation]]></title>
-            <description><![CDATA[[Sport] Pochettino confident Spurs will avoid relegation]]></description>
-            <link>https://bdnews24.com/sport/1ed290553212</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/1ed290553212</guid>
-            <pubDate>Tue, 31 Mar 2026 20:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/pochettino-spurs-relegation-31032026-01-1774968611.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Maradona’s former home turned soup kitchen]]></title>
-            <description><![CDATA[[Sport] Maradona’s former home turned soup kitchen]]></description>
-            <link>https://bdnews24.com/sport/2d3505d01004</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/2d3505d01004</guid>
-            <pubDate>Tue, 31 Mar 2026 20:50:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/maradona-home-310326-01-1774968557.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
