@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 19:49:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 20:32:33 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 19:49:42 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 20:32:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Online classes deepen divide in Dhaka schools]]></title>
+            <description><![CDATA[[Education] Online classes deepen divide in Dhaka schools]]></description>
+            <link>https://bdnews24.com/education/acde9f0842c8</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/acde9f0842c8</guid>
+            <pubDate>Thu, 02 Apr 2026 01:52:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/pandemic-online-class-280820-10-1775073073.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Shafiqur warns of street protests over referendum dispute]]></title>
             <description><![CDATA[[Politics] Shafiqur warns of street protests over referendum dispute]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/6136e1bc55d2</guid>
             <pubDate>Wed, 01 Apr 2026 21:59:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/china-pak-iran-peace-talks-31032026-01-1774970161.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Poland detains two over arson at Czech drone factory]]></title>
-            <description><![CDATA[[World] Poland detains two over arson at Czech drone factory]]></description>
-            <link>https://bdnews24.com/world/c19e66f0d9d7</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/c19e66f0d9d7</guid>
-            <pubDate>Wed, 01 Apr 2026 21:57:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/shahed-136-260326-01-1774549358.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
