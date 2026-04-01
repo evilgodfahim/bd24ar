@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 16:55:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 17:40:33 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 16:55:38 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 17:40:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Child with ‘measles symptoms’ dies Cox's Bazar]]></title>
+            <description><![CDATA[[Health] Child with ‘measles symptoms’ dies Cox's Bazar]]></description>
+            <link>https://bdnews24.com/health/00f98ab3175a</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/00f98ab3175a</guid>
+            <pubDate>Wed, 01 Apr 2026 23:32:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024September/SM/coxsbazar-hospital-pic-150924-01-1726405419.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Babies evacuated from Gaza returned to overjoyed parents]]></title>
+            <description><![CDATA[[World] Babies evacuated from Gaza returned to overjoyed parents]]></description>
+            <link>https://bdnews24.com/world/f1590d24021a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/f1590d24021a</guid>
+            <pubDate>Wed, 01 Apr 2026 23:19:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/babies-return-gaza-01042026-01-1775063977.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Italy sheds tears after missing out again]]></title>
+            <description><![CDATA[[Sport] Italy sheds tears after missing out again]]></description>
+            <link>https://bdnews24.com/sport/a2dbf482ee59</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/a2dbf482ee59</guid>
+            <pubDate>Wed, 01 Apr 2026 23:07:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/italy-loss-tears-01042026-01-1775063239.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iraq clinch World Cup spot]]></title>
+            <description><![CDATA[[Sport] Iraq clinch World Cup spot]]></description>
+            <link>https://bdnews24.com/sport/b32a1ce5c224</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/b32a1ce5c224</guid>
+            <pubDate>Wed, 01 Apr 2026 23:05:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iraq-wc-spot-01042026-01-1775063043.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Apple's journey from garage to tech titan]]></title>
+            <description><![CDATA[[Technology] Apple's journey from garage to tech titan]]></description>
+            <link>https://bdnews24.com/technology/7aec64e3ac32</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/7aec64e3ac32</guid>
+            <pubDate>Wed, 01 Apr 2026 23:02:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/apple-journey-01042026-01-1775062867.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[SpaceX ‘make-or-break’ test for mega IPOs]]></title>
+            <description><![CDATA[[Technology] SpaceX ‘make-or-break’ test for mega IPOs]]></description>
+            <link>https://bdnews24.com/technology/ea9cbc3fba65</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/ea9cbc3fba65</guid>
+            <pubDate>Wed, 01 Apr 2026 22:59:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/spacex-mega-ipo-01042026-01-1775062770.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[World markets jump on optimism]]></title>
+            <description><![CDATA[[Economy] World markets jump on optimism]]></description>
+            <link>https://bdnews24.com/economy/1e1e2eb7294c</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/1e1e2eb7294c</guid>
+            <pubDate>Wed, 01 Apr 2026 22:56:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/world-markets-jump-01042026-01-1775062499.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Hailstorm lashes Dhaka]]></title>
             <description><![CDATA[[Bangladesh] Hailstorm lashes Dhaka]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/994a4b17ed0b</guid>
             <pubDate>Wed, 01 Apr 2026 20:36:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/trump-1426-1775014344.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[7 countries in talks to return laundered funds: PM]]></title>
-            <description><![CDATA[[Bangladesh] 7 countries in talks to return laundered funds: PM]]></description>
-            <link>https://bdnews24.com/bangladesh/b1454c112f39</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b1454c112f39</guid>
-            <pubDate>Wed, 01 Apr 2026 20:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/parliament-pm-question-answer-010426-02-1775050155.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Police probe Islamophobic chants at Spain-Egypt match]]></title>
-            <description><![CDATA[[Sport] Police probe Islamophobic chants at Spain-Egypt match]]></description>
-            <link>https://bdnews24.com/sport/fdde076ef235</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/fdde076ef235</guid>
-            <pubDate>Wed, 01 Apr 2026 20:20:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/oyarzabal-spain-serbia-280326-01-1774669942.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Singer Jahid Antu sent to jail over ‘sexual abuse’]]></title>
-            <description><![CDATA[[Bangladesh] Singer Jahid Antu sent to jail over ‘sexual abuse’]]></description>
-            <link>https://bdnews24.com/bangladesh/c0b85aeb28e7</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c0b85aeb28e7</guid>
-            <pubDate>Wed, 01 Apr 2026 20:11:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025December/SM/cmm-court-dhaka-1764854515.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beirut strike killed Hezbollah commander: Israel]]></title>
-            <description><![CDATA[[World] Beirut strike killed Hezbollah commander: Israel]]></description>
-            <link>https://bdnews24.com/world/c5498defd969</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/c5498defd969</guid>
-            <pubDate>Wed, 01 Apr 2026 19:48:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/hezbollah-commander-killed-01042026-01-1775051301.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[If we don’t reduce physical climate risks now, we’ll pay later]]></title>
-            <description><![CDATA[[Opinion] If we don’t reduce physical climate risks now, we’ll pay later]]></description>
-            <link>https://bdnews24.com/opinion/55beb419d87a</link>
-            <guid isPermaLink="true">https://bdnews24.com/opinion/55beb419d87a</guid>
-            <pubDate>Wed, 01 Apr 2026 19:44:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/physical-climate-risk-opinion-01042026-01-1775051021.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4 more districts get new DCs]]></title>
-            <description><![CDATA[[Bangladesh] 4 more districts get new DCs]]></description>
-            <link>https://bdnews24.com/bangladesh/d6b93d05056a</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d6b93d05056a</guid>
-            <pubDate>Wed, 01 Apr 2026 19:35:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025October/SM/public-administration-ministry-200820-01-1759690152.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UK law firm challenges Hasina death verdict]]></title>
-            <description><![CDATA[[Bangladesh] UK law firm challenges Hasina death verdict]]></description>
-            <link>https://bdnews24.com/bangladesh/4f58d82772fa</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4f58d82772fa</guid>
-            <pubDate>Wed, 01 Apr 2026 19:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025November/SM/sheikh-hasina-161125-202-1763368762.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
