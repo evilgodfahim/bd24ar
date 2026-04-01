@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 17:40:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 18:42:30 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 17:40:33 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 18:42:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[SpaceX moves toward IPO]]></title>
+            <description><![CDATA[[Technology] SpaceX moves toward IPO]]></description>
+            <link>https://bdnews24.com/technology/46ea5f84f662</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/46ea5f84f662</guid>
+            <pubDate>Thu, 02 Apr 2026 00:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/spacex-mega-ipo-01042026-01-1775062770.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump: US will exit Iran ‘pretty quickly', return if needed]]></title>
+            <description><![CDATA[[World] Trump: US will exit Iran ‘pretty quickly', return if needed]]></description>
+            <link>https://bdnews24.com/world/541ecf9c010c</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/541ecf9c010c</guid>
+            <pubDate>Wed, 01 Apr 2026 23:59:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/trump-miami-310326-01-1774960557.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oil tanker train derails to snap Sylhet rail link]]></title>
+            <description><![CDATA[[Bangladesh] Oil tanker train derails to snap Sylhet rail link]]></description>
+            <link>https://bdnews24.com/bangladesh/be6d90e439a4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/be6d90e439a4</guid>
+            <pubDate>Wed, 01 Apr 2026 23:54:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/hobigonj-train-dirail-010426-01-1775064272.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Child with ‘measles symptoms’ dies Cox's Bazar]]></title>
             <description><![CDATA[[Health] Child with ‘measles symptoms’ dies Cox's Bazar]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/1b212f32c9e5</guid>
             <pubDate>Wed, 01 Apr 2026 21:14:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/bogura-hospital-010426-01-1775051783.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Italian bill backs fishing nets to shield Ukraine from drones]]></title>
-            <description><![CDATA[[World] Italian bill backs fishing nets to shield Ukraine from drones]]></description>
-            <link>https://bdnews24.com/world/03138c958332</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/03138c958332</guid>
-            <pubDate>Wed, 01 Apr 2026 21:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/fishing-net-drone-shield-01042026-01-1775056140.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Opposition walks out over ‘no remedy’ on reform council]]></title>
-            <description><![CDATA[[Bangladesh] Opposition walks out over ‘no remedy’ on reform council]]></description>
-            <link>https://bdnews24.com/bangladesh/e8476269aa9e</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e8476269aa9e</guid>
-            <pubDate>Wed, 01 Apr 2026 20:41:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/thirteenth-parliament-120326-01-1773308102.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump attends SC as birthright citizenship case is heard]]></title>
-            <description><![CDATA[[World] Trump attends SC as birthright citizenship case is heard]]></description>
-            <link>https://bdnews24.com/world/994a4b17ed0b</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/994a4b17ed0b</guid>
-            <pubDate>Wed, 01 Apr 2026 20:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/trump-1426-1775014344.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
