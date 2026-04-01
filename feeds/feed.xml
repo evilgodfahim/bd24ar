@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 15:59:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 16:55:38 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 15:59:59 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 16:55:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Hailstorm lashes Dhaka]]></title>
+            <description><![CDATA[[Bangladesh] Hailstorm lashes Dhaka]]></description>
+            <link>https://bdnews24.com/bangladesh/23e31c474b59</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/23e31c474b59</guid>
+            <pubDate>Wed, 01 Apr 2026 22:51:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rain-mohakhali-130326-003-1773840467.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Swadhin Bangla Betar Kendra singer Dalia Nausheen dies]]></title>
+            <description><![CDATA[[People] Swadhin Bangla Betar Kendra singer Dalia Nausheen dies]]></description>
+            <link>https://bdnews24.com/people/4f9a8cd95e35</link>
+            <guid isPermaLink="true">https://bdnews24.com/people/4f9a8cd95e35</guid>
+            <pubDate>Wed, 01 Apr 2026 22:48:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/dalia-nausheen-010426-01-1775043645.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russia warns citizens against travel to countries with US extradition treati]]></title>
+            <description><![CDATA[[World] Russia warns citizens against travel to countries with US extradition treati]]></description>
+            <link>https://bdnews24.com/world/eee551c190b3</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/eee551c190b3</guid>
+            <pubDate>Wed, 01 Apr 2026 22:01:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/russia-warns-citizen-travel-01042026-01-1775059265.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Iran war strains Dubai oil benchmark as prices soar]]></title>
             <description><![CDATA[[World] Iran war strains Dubai oil benchmark as prices soar]]></description>
@@ -46,7 +70,7 @@
             <link>https://bdnews24.com/bangladesh/0e0c4c71b0af</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/0e0c4c71b0af</guid>
             <pubDate>Wed, 01 Apr 2026 21:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/amir-khosru-us-envoy-110326-01-1773242932.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/khalilur-chris-wright-010426-01-1775059044.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Trump attends SC arguments]]></title>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/4f58d82772fa</guid>
             <pubDate>Wed, 01 Apr 2026 19:34:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025November/SM/sheikh-hasina-161125-202-1763368762.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Child dies of measles in Rajshahi, 56 await ICU beds]]></title>
-            <description><![CDATA[[Health] Child dies of measles in Rajshahi, 56 await ICU beds]]></description>
-            <link>https://bdnews24.com/health/03c0806dcbf7</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/03c0806dcbf7</guid>
-            <pubDate>Wed, 01 Apr 2026 19:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/rajshahi-mcm-ham-010426-1775046609.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man arrested after schoolgirl’s ‘suicide’ in Mymensingh]]></title>
-            <description><![CDATA[[Bangladesh] Man arrested after schoolgirl’s ‘suicide’ in Mymensingh]]></description>
-            <link>https://bdnews24.com/bangladesh/2811be926aa9</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2811be926aa9</guid>
-            <pubDate>Wed, 01 Apr 2026 19:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/mymensingh-arrest-010426-1775045215.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 children of a family drown in Moulvibazar]]></title>
-            <description><![CDATA[[Bangladesh] 3 children of a family drown in Moulvibazar]]></description>
-            <link>https://bdnews24.com/bangladesh/a12942e9e27c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a12942e9e27c</guid>
-            <pubDate>Wed, 01 Apr 2026 18:50:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/moulovabazar-kulaura-thana-010426-01-1775045421.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
