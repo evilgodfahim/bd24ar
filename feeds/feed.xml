@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 09:56:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 10:46:16 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 09:56:47 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 10:46:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[8 workers burnt in steel mill blast]]></title>
+            <description><![CDATA[[Bangladesh] 8 workers burnt in steel mill blast]]></description>
+            <link>https://bdnews24.com/bangladesh/9311fcf119d1</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9311fcf119d1</guid>
+            <pubDate>Wed, 01 Apr 2026 16:25:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025July/SM/burn-institute-021224-013-1739675974-1753349487.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arrest warrant for Ctg MP’s sons]]></title>
+            <description><![CDATA[[Bangladesh] Arrest warrant for Ctg MP’s sons]]></description>
+            <link>https://bdnews24.com/bangladesh/2ed13e30dcb0</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2ed13e30dcb0</guid>
+            <pubDate>Wed, 01 Apr 2026 16:23:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/anna-islam-010426-01-1775034644.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[14 fishermen captured by ‘Arakan Army’ return home]]></title>
+            <description><![CDATA[[Bangladesh] 14 fishermen captured by ‘Arakan Army’ return home]]></description>
+            <link>https://bdnews24.com/bangladesh/261e77739baa</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/261e77739baa</guid>
+            <pubDate>Wed, 01 Apr 2026 16:06:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/teknaf-jele-010426-1-1775034240.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Measles vaccine drive from Sunday: minister]]></title>
+            <description><![CDATA[[Health] Measles vaccine drive from Sunday: minister]]></description>
+            <link>https://bdnews24.com/health/f7007bef3d28</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/f7007bef3d28</guid>
+            <pubDate>Wed, 01 Apr 2026 16:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/sakhawat-hossain-010426-01-1775037763.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Jailed Palestinians fear execution without trial]]></title>
             <description><![CDATA[[THE LONG READ] Jailed Palestinians fear execution without trial]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/economy/ba2f3bf1ecab</guid>
             <pubDate>Wed, 01 Apr 2026 10:34:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-grocery-store-010426-01-1775018058.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[TikTok seeks Brazil fintech license to offer credit]]></title>
-            <description><![CDATA[[Technology] TikTok seeks Brazil fintech license to offer credit]]></description>
-            <link>https://bdnews24.com/technology/00671683a732</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/00671683a732</guid>
-            <pubDate>Wed, 01 Apr 2026 10:31:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025March/SM/tiktok-logo-170325-01-1742218157.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Maradona’s former home turned into soup kitchen]]></title>
-            <description><![CDATA[[Lifestyle] Maradona’s former home turned into soup kitchen]]></description>
-            <link>https://bdnews24.com/lifestyle/78133b7e3341</link>
-            <guid isPermaLink="true">https://bdnews24.com/lifestyle/78133b7e3341</guid>
-            <pubDate>Wed, 01 Apr 2026 10:29:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/maradona-former-house-4126-1775017752.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Two-thirds of Americans want quick end to Iran war: poll]]></title>
-            <description><![CDATA[[World] Two-thirds of Americans want quick end to Iran war: poll]]></description>
-            <link>https://bdnews24.com/world/c9f1c0356f3b</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/c9f1c0356f3b</guid>
-            <pubDate>Wed, 01 Apr 2026 10:21:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/americans-iran-war-poll-010426-01-1775017225.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brazil edge Croatia with late goals in tune-up]]></title>
-            <description><![CDATA[[Sport] Brazil edge Croatia with late goals in tune-up]]></description>
-            <link>https://bdnews24.com/sport/5d64c9159106</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/5d64c9159106</guid>
-            <pubDate>Wed, 01 Apr 2026 10:16:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/brazil-010426-1775009108.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
