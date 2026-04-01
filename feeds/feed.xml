@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 04:37:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 06:19:54 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 04:37:22 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 06:19:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[List of qualified teams for 2026 World Cup]]></title>
+            <description><![CDATA[[Sport] List of qualified teams for 2026 World Cup]]></description>
+            <link>https://bdnews24.com/sport/e0cdcf00f28b</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/e0cdcf00f28b</guid>
+            <pubDate>Wed, 01 Apr 2026 12:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/fifa-world-cup-010426-01-1775024109.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[9, 100 litres of fuel oil seized in Siddhirganj]]></title>
+            <description><![CDATA[[Bangladesh] 9, 100 litres of fuel oil seized in Siddhirganj]]></description>
+            <link>https://bdnews24.com/bangladesh/145efc84415e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/145efc84415e</guid>
+            <pubDate>Wed, 01 Apr 2026 10:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/narayn-oil-010426-01-1775015667.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Laufey reimagines Miles Davis’ ‘Blue in Green’]]></title>
             <description><![CDATA[[Entertainment] Laufey reimagines Miles Davis’ ‘Blue in Green’]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/6cef0b5e126a</guid>
             <pubDate>Wed, 01 Apr 2026 09:11:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/marco-rubio-010426-01-1775013054.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US could end the Iran war in two to three weeks: Trump]]></title>
-            <description><![CDATA[[World] US could end the Iran war in two to three weeks: Trump]]></description>
-            <link>https://bdnews24.com/world/ce17ea52e055</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ce17ea52e055</guid>
-            <pubDate>Wed, 01 Apr 2026 08:59:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/lebanon-israeli-strike-010426-01-1775012339.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Court pauses Trump ballroom project]]></title>
-            <description><![CDATA[[World] Court pauses Trump ballroom project]]></description>
-            <link>https://bdnews24.com/world/7e5d8fc74254</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/7e5d8fc74254</guid>
-            <pubDate>Wed, 01 Apr 2026 03:50:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/ballroom-project-010426-01-1774993756.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
