@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 17:39:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 18:38:47 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Apr 2026 17:39:50 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 18:38:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[‘No impunity’ for Ilias Ali ‘murder’: speaker]]></title>
+            <description><![CDATA[[Bangladesh] ‘No impunity’ for Ilias Ali ‘murder’: speaker]]></description>
+            <link>https://bdnews24.com/bangladesh/cb5213c790ea</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cb5213c790ea</guid>
+            <pubDate>Fri, 03 Apr 2026 00:33:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/elias-ali-170421-1775154740.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[World anxious over Hormuz as Trump, Iran trade threats]]></title>
+            <description><![CDATA[[World] World anxious over Hormuz as Trump, Iran trade threats]]></description>
+            <link>https://bdnews24.com/world/98d1e0665b15</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/98d1e0665b15</guid>
+            <pubDate>Fri, 03 Apr 2026 00:19:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/summit-lng-1772889814.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Africa faces deeper slowdown if Middle East war drags on]]></title>
+            <description><![CDATA[[World] Africa faces deeper slowdown if Middle East war drags on]]></description>
+            <link>https://bdnews24.com/world/8342c2f92c09</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/8342c2f92c09</guid>
+            <pubDate>Fri, 03 Apr 2026 00:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iran-war-090326-01-1773068629.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Best Qibla apps for all devices]]></title>
+            <description><![CDATA[[Technology] Best Qibla apps for all devices]]></description>
+            <link>https://bdnews24.com/technology/dbba6b865eab</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/dbba6b865eab</guid>
+            <pubDate>Fri, 03 Apr 2026 00:06:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/qurantime-1775151602.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Govt fully ready to fight measles outbreak: health minister]]></title>
+            <description><![CDATA[[Bangladesh] Govt fully ready to fight measles outbreak: health minister]]></description>
+            <link>https://bdnews24.com/bangladesh/a102f0a476eb</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a102f0a476eb</guid>
+            <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/health-minister-020426-01-1775144942.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Hadi murder ‘mastermind’ faces passport suspension]]></title>
             <description><![CDATA[[Bangladesh] Hadi murder ‘mastermind’ faces passport suspension]]></description>
@@ -26,9 +66,9 @@
         </item>
         <item>
             <title><![CDATA[Snaptube leads in Samsung video downloading]]></title>
-            <description><![CDATA[[Tech] Snaptube leads in Samsung video downloading]]></description>
-            <link>https://bdnews24.com/tech/40feeef9a878</link>
-            <guid isPermaLink="true">https://bdnews24.com/tech/40feeef9a878</guid>
+            <description><![CDATA[[Technology] Snaptube leads in Samsung video downloading]]></description>
+            <link>https://bdnews24.com/technology/40feeef9a878</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/40feeef9a878</guid>
             <pubDate>Thu, 02 Apr 2026 22:38:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/video-music-1775147773.jpg" length="0" type="image/jpeg"/>
         </item>
@@ -49,8 +89,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/04-boishakh-mangal-shovajatra-mm-14042017-000012-1775143898.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Heatwaves and cyclone threat loom as April begins]]></title>
-            <description><![CDATA[[Bangladesh] Heatwaves and cyclone threat loom as April begins]]></description>
+            <title><![CDATA[Heatwaves, cyclone threat loom as April begins]]></title>
+            <description><![CDATA[[Bangladesh] Heatwaves, cyclone threat loom as April begins]]></description>
             <link>https://bdnews24.com/bangladesh/90879405db37</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/90879405db37</guid>
             <pubDate>Thu, 02 Apr 2026 21:47:00 GMT</pubDate>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/64fb2db306ee</guid>
             <pubDate>Thu, 02 Apr 2026 19:51:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/parliament-adani-power-020426-01-1775133370.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Middle East war boosts demand for biofuels: Verbio]]></title>
-            <description><![CDATA[[World] Middle East war boosts demand for biofuels: Verbio]]></description>
-            <link>https://bdnews24.com/world/d6a086fad9bd</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/d6a086fad9bd</guid>
-            <pubDate>Thu, 02 Apr 2026 19:30:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/yemen-houthi-revel-iran-linked-280326-1774684496.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Snakes and crocs on patrol? India’s wild border plan]]></title>
-            <description><![CDATA[[Bangladesh] Snakes and crocs on patrol? India’s wild border plan]]></description>
-            <link>https://bdnews24.com/bangladesh/f04aa76b9234</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f04aa76b9234</guid>
-            <pubDate>Thu, 02 Apr 2026 19:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/2023-06/5be42dd6-8b7c-49db-a5ff-5b481d448c26/bangladesh_india_border.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India graveyard raid uncovers hidden LPG cylinders]]></title>
-            <description><![CDATA[[Neighbours] India graveyard raid uncovers hidden LPG cylinders]]></description>
-            <link>https://bdnews24.com/neighbours/b66a50166b91</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/b66a50166b91</guid>
-            <pubDate>Thu, 02 Apr 2026 19:16:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/110-strick-ship-ctg-081114-1774961535.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[It is unrealistic to open Hormuz Strait by force: Macron]]></title>
-            <description><![CDATA[[World] It is unrealistic to open Hormuz Strait by force: Macron]]></description>
-            <link>https://bdnews24.com/world/285c8f638733</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/285c8f638733</guid>
-            <pubDate>Thu, 02 Apr 2026 18:31:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/french-prez-emmanuel-macron-020426-1775131602.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Another child dies with measles symptoms in Ctg]]></title>
-            <description><![CDATA[[Bangladesh] Another child dies with measles symptoms in Ctg]]></description>
-            <link>https://bdnews24.com/bangladesh/b1aa8c5e7437</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b1aa8c5e7437</guid>
-            <pubDate>Thu, 02 Apr 2026 18:27:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/chattogram-medical-college-hospital-191223-01-1774791995.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
