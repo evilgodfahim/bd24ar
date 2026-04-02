@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 22:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 23:22:42 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Apr 2026 22:21:04 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 23:22:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Tiger Woods bodycam footage out]]></title>
+            <description><![CDATA[[Sport] Tiger Woods bodycam footage out]]></description>
+            <link>https://bdnews24.com/sport/eb6cc4a4c354</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/eb6cc4a4c354</guid>
+            <pubDate>Fri, 03 Apr 2026 05:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/tiger-woods-030426-01-1775170987.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[March remittance hits record $3.75bn]]></title>
+            <description><![CDATA[[Economy] March remittance hits record $3.75bn]]></description>
+            <link>https://bdnews24.com/economy/e1c6354c6fbc</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/e1c6354c6fbc</guid>
+            <pubDate>Fri, 03 Apr 2026 04:58:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024November/SM/younus-migrants-lounge-hsia-111124-01-1731303606.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Scientists craft handbag from dinosaur collagen]]></title>
             <description><![CDATA[[Lifestyle] Scientists craft handbag from dinosaur collagen]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/4d5e9568fee1</guid>
             <pubDate>Thu, 02 Apr 2026 22:27:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/upendra-dwivedi-riaz-hamidullah-020426-02-1775142807.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Mangal Shobhajatra’ remains on UNESCO’s heritage list]]></title>
-            <description><![CDATA[[Bangladesh] ‘Mangal Shobhajatra’ remains on UNESCO’s heritage list]]></description>
-            <link>https://bdnews24.com/bangladesh/d71d1f172ae3</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d71d1f172ae3</guid>
-            <pubDate>Thu, 02 Apr 2026 22:22:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/04-boishakh-mangal-shovajatra-mm-14042017-000012-1775143898.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heatwaves, cyclone threat loom as April begins]]></title>
-            <description><![CDATA[[Bangladesh] Heatwaves, cyclone threat loom as April begins]]></description>
-            <link>https://bdnews24.com/bangladesh/90879405db37</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/90879405db37</guid>
-            <pubDate>Thu, 02 Apr 2026 21:47:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025April/SM/hot-wave-heat-wave-060425-041-1743941181.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
