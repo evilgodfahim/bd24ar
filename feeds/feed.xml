@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 16:42:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 17:39:50 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Apr 2026 16:42:36 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 17:39:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Hadi murder ‘mastermind’ faces passport suspension]]></title>
+            <description><![CDATA[[Bangladesh] Hadi murder ‘mastermind’ faces passport suspension]]></description>
+            <link>https://bdnews24.com/bangladesh/5175decfa0e6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5175decfa0e6</guid>
+            <pubDate>Thu, 02 Apr 2026 23:32:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/taizul-islam-bappi-020426-01-1775144085.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to download TV series on Xiaomi phones]]></title>
+            <description><![CDATA[[Technology] How to download TV series on Xiaomi phones]]></description>
+            <link>https://bdnews24.com/technology/eed83179f26f</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/eed83179f26f</guid>
+            <pubDate>Thu, 02 Apr 2026 23:17:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/xiaomi-phone-01-1775150158.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Snaptube leads in Samsung video downloading]]></title>
             <description><![CDATA[[Tech] Snaptube leads in Samsung video downloading]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/b1aa8c5e7437</guid>
             <pubDate>Thu, 02 Apr 2026 18:27:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/chattogram-medical-college-hospital-191223-01-1774791995.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Putin floats ‘grain and energy hub’ plan in Egypt]]></title>
-            <description><![CDATA[[World] Putin floats ‘grain and energy hub’ plan in Egypt]]></description>
-            <link>https://bdnews24.com/world/20ccd43939f9</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/20ccd43939f9</guid>
-            <pubDate>Thu, 02 Apr 2026 18:19:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/russia-putin-090326-01-1773060838.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No Harry Potter, Netflix turns to new franchise bets]]></title>
-            <description><![CDATA[[Entertainment] No Harry Potter, Netflix turns to new franchise bets]]></description>
-            <link>https://bdnews24.com/entertainment/9ab100113eda</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/9ab100113eda</guid>
-            <pubDate>Thu, 02 Apr 2026 18:12:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/netflix-logo-270326-01-1774589210.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
