@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 19:40:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 20:22:46 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Apr 2026 19:40:24 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 20:22:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Scientists craft handbag from dinosaur collagen]]></title>
+            <description><![CDATA[[Lifestyle] Scientists craft handbag from dinosaur collagen]]></description>
+            <link>https://bdnews24.com/lifestyle/f9286331be26</link>
+            <guid isPermaLink="true">https://bdnews24.com/lifestyle/f9286331be26</guid>
+            <pubDate>Fri, 03 Apr 2026 02:07:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/2022-07/6d41043b-19ad-413e-937f-cd808463024a/dinosaur_270722_01.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Measles kills 50 as acute NICU shortage hits Bangladesh]]></title>
+            <description><![CDATA[[Health] Measles kills 50 as acute NICU shortage hits Bangladesh]]></description>
+            <link>https://bdnews24.com/health/8c149c95e0a2</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/8c149c95e0a2</guid>
+            <pubDate>Fri, 03 Apr 2026 01:55:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/measles-hospital-020426-101-1775158202.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Serie A title race back in spotlight]]></title>
             <description><![CDATA[[Sport] Serie A title race back in spotlight]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/90879405db37</guid>
             <pubDate>Thu, 02 Apr 2026 21:47:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025April/SM/hot-wave-heat-wave-060425-041-1743941181.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Another child dies of ‘measles’ at RMCH]]></title>
-            <description><![CDATA[[Bangladesh] Another child dies of ‘measles’ at RMCH]]></description>
-            <link>https://bdnews24.com/bangladesh/453c8da2dae8</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/453c8da2dae8</guid>
-            <pubDate>Thu, 02 Apr 2026 21:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/rajshahi-measles-medical-020426-01-1775136922.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eviction drive on Dhaka footpaths]]></title>
-            <description><![CDATA[[Image] Eviction drive on Dhaka footpaths]]></description>
-            <link>https://bdnews24.com/media-en/image/9d7e85becef0</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/9d7e85becef0</guid>
-            <pubDate>Thu, 02 Apr 2026 21:12:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/eviction-operation-police-020426-036-1775136015.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
