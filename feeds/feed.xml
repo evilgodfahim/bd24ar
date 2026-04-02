@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 07:57:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 08:46:33 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Apr 2026 07:57:06 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 08:46:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Banglar Joyjatra heading to Ras Al Khair]]></title>
+            <description><![CDATA[[Bangladesh] Banglar Joyjatra heading to Ras Al Khair]]></description>
+            <link>https://bdnews24.com/bangladesh/4e5616307a36</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4e5616307a36</guid>
+            <pubDate>Thu, 02 Apr 2026 14:44:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/mv-banglar-joyjatra-020326-01-1772435703.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[SaRa Lifestyle unveils Boishakhi collection]]></title>
+            <description><![CDATA[[Lifestyle] SaRa Lifestyle unveils Boishakhi collection]]></description>
+            <link>https://bdnews24.com/lifestyle/d3ebe46ea980</link>
+            <guid isPermaLink="true">https://bdnews24.com/lifestyle/d3ebe46ea980</guid>
+            <pubDate>Thu, 02 Apr 2026 14:36:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/sara-lifestyle-boishakh-02042026-01-1775119001.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pakistan’s shift from outcast to Iran war mediator]]></title>
+            <description><![CDATA[[THE LONG READ] Pakistan’s shift from outcast to Iran war mediator]]></description>
+            <link>https://bdnews24.com/the-long-read/55ccae69a979</link>
+            <guid isPermaLink="true">https://bdnews24.com/the-long-read/55ccae69a979</guid>
+            <pubDate>Thu, 02 Apr 2026 14:26:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/pakistan-meeting-2426-1775118336.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Libya's Haftar acquires combat drones despite UN embargo]]></title>
             <description><![CDATA[[World] Libya's Haftar acquires combat drones despite UN embargo]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/780652430fcc</guid>
             <pubDate>Thu, 02 Apr 2026 09:49:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-refugee-death-ny-020426-01-1775101740.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alleged Bondi gunman loses bid to give family anonymity]]></title>
-            <description><![CDATA[[World] Alleged Bondi gunman loses bid to give family anonymity]]></description>
-            <link>https://bdnews24.com/world/834e15fc9d5e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/834e15fc9d5e</guid>
-            <pubDate>Thu, 02 Apr 2026 09:48:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/bondi-gunman-anonymity-020426-01-1775101659.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US SC justices sceptical of Trump birthright citizenship restrictions]]></title>
-            <description><![CDATA[[World] US SC justices sceptical of Trump birthright citizenship restrictions]]></description>
-            <link>https://bdnews24.com/world/b430eb15a4d1</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/b430eb15a4d1</guid>
-            <pubDate>Thu, 02 Apr 2026 09:46:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-birthright-citizenship-justices-020426-01-1775101559.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Belgium chocolatiers showcase Easter artistry]]></title>
-            <description><![CDATA[[Lifestyle] Belgium chocolatiers showcase Easter artistry]]></description>
-            <link>https://bdnews24.com/lifestyle/f4d36ea06b16</link>
-            <guid isPermaLink="true">https://bdnews24.com/lifestyle/f4d36ea06b16</guid>
-            <pubDate>Thu, 02 Apr 2026 09:43:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/belgium-easter-2426-1775101360.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
