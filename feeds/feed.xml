@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 15:47:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 16:42:36 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Apr 2026 15:47:41 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 16:42:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Snaptube leads in Samsung video downloading]]></title>
+            <description><![CDATA[[Tech] Snaptube leads in Samsung video downloading]]></description>
+            <link>https://bdnews24.com/tech/40feeef9a878</link>
+            <guid isPermaLink="true">https://bdnews24.com/tech/40feeef9a878</guid>
+            <pubDate>Thu, 02 Apr 2026 22:38:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/video-music-1775147773.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh envoy meets Indian Army chief]]></title>
+            <description><![CDATA[[Bangladesh] Bangladesh envoy meets Indian Army chief]]></description>
+            <link>https://bdnews24.com/bangladesh/4d5e9568fee1</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4d5e9568fee1</guid>
+            <pubDate>Thu, 02 Apr 2026 22:27:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/upendra-dwivedi-riaz-hamidullah-020426-02-1775142807.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Mangal Shobhajatra’ remains on UNESCO’s heritage list]]></title>
+            <description><![CDATA[[Bangladesh] ‘Mangal Shobhajatra’ remains on UNESCO’s heritage list]]></description>
+            <link>https://bdnews24.com/bangladesh/d71d1f172ae3</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d71d1f172ae3</guid>
+            <pubDate>Thu, 02 Apr 2026 22:22:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/04-boishakh-mangal-shovajatra-mm-14042017-000012-1775143898.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Heatwaves and cyclone threat loom as April begins]]></title>
             <description><![CDATA[[Bangladesh] Heatwaves and cyclone threat loom as April begins]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/entertainment/9ab100113eda</guid>
             <pubDate>Thu, 02 Apr 2026 18:12:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/netflix-logo-270326-01-1774589210.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shakirul Islam, Sayed Abdullah made PM’s special aides]]></title>
-            <description><![CDATA[[Bangladesh] Shakirul Islam, Sayed Abdullah made PM’s special aides]]></description>
-            <link>https://bdnews24.com/bangladesh/fb8af409b5ce</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/fb8af409b5ce</guid>
-            <pubDate>Thu, 02 Apr 2026 18:11:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/shakirul-islam-syed-abdullah-020426-03-1775132305.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India faces second year of sugar deficit as output falls]]></title>
-            <description><![CDATA[[Neighbours] India faces second year of sugar deficit as output falls]]></description>
-            <link>https://bdnews24.com/neighbours/491dfec8b472</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/491dfec8b472</guid>
-            <pubDate>Thu, 02 Apr 2026 17:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/city-group-300326-01-1774903433.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Closed crossing a death trap]]></title>
-            <description><![CDATA[[Image] Closed crossing a death trap]]></description>
-            <link>https://bdnews24.com/media-en/image/b4f46ffc0000</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/b4f46ffc0000</guid>
-            <pubDate>Thu, 02 Apr 2026 17:53:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/risky-railway-crossing-kuril-010426-013-1775047238.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
