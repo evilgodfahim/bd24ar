@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 04:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 06:03:59 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Apr 2026 04:16:26 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:03:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Myanmar parliament to hold vote to elect president on Friday]]></title>
+            <description><![CDATA[[World] Myanmar parliament to hold vote to elect president on Friday]]></description>
+            <link>https://bdnews24.com/world/b5bb4735260d</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/b5bb4735260d</guid>
+            <pubDate>Thu, 02 Apr 2026 11:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/min-aung-hlaing-020426-01-1775109014.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mojtaba Khamenei in Iran but avoiding appearances: Russian envoy]]></title>
+            <description><![CDATA[[World] Mojtaba Khamenei in Iran but avoiding appearances: Russian envoy]]></description>
+            <link>https://bdnews24.com/world/234e4a9a12b5</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/234e4a9a12b5</guid>
+            <pubDate>Thu, 02 Apr 2026 11:45:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/mojtaba-iran-2426-1775108699.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Assistant falls off moving bus, dies in Noakhali]]></title>
+            <description><![CDATA[[Bangladesh] Assistant falls off moving bus, dies in Noakhali]]></description>
+            <link>https://bdnews24.com/bangladesh/8bea3026bf56</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8bea3026bf56</guid>
+            <pubDate>Thu, 02 Apr 2026 11:02:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2024-02/104dae10-7e28-4fcf-b95e-46524ca0581d/noakhali_genaral_hospital_110224_01.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA['Artemis-2' sets off for the Moon]]></title>
+            <description><![CDATA[[Image] 'Artemis-2' sets off for the Moon]]></description>
+            <link>https://bdnews24.com/media-en/image/e51f3bed1640</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/e51f3bed1640</guid>
+            <pubDate>Thu, 02 Apr 2026 10:32:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/artemis-ii-mission-nasa-020426-01-1775101680.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Fire hits LPG station near residential area in Indonesia]]></title>
             <description><![CDATA[[World] Fire hits LPG station near residential area in Indonesia]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/entertainment/cb7836e4af8b</guid>
             <pubDate>Thu, 02 Apr 2026 09:33:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/megan-rapper-2426-1775100734.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan, Afghanistan hold fresh talks in China]]></title>
-            <description><![CDATA[[World] Pakistan, Afghanistan hold fresh talks in China]]></description>
-            <link>https://bdnews24.com/world/79b71dad8b39</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/79b71dad8b39</guid>
-            <pubDate>Thu, 02 Apr 2026 09:30:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025October/SM/pakistan-afghanistan-12102025-1760211560.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[NASA launches first crewed lunar mission in 50 years]]></title>
-            <description><![CDATA[[Science] NASA launches first crewed lunar mission in 50 years]]></description>
-            <link>https://bdnews24.com/science/cf21c7b2fea7</link>
-            <guid isPermaLink="true">https://bdnews24.com/science/cf21c7b2fea7</guid>
-            <pubDate>Thu, 02 Apr 2026 08:35:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/moon-mission-artesmis-2426-1775097268.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Online classes deepen divide in Dhaka schools]]></title>
-            <description><![CDATA[[Education] Online classes deepen divide in Dhaka schools]]></description>
-            <link>https://bdnews24.com/education/acde9f0842c8</link>
-            <guid isPermaLink="true">https://bdnews24.com/education/acde9f0842c8</guid>
-            <pubDate>Thu, 02 Apr 2026 01:52:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/pandemic-online-class-280820-10-1775073073.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shafiqur warns of street protests over referendum dispute]]></title>
-            <description><![CDATA[[Politics] Shafiqur warns of street protests over referendum dispute]]></description>
-            <link>https://bdnews24.com/politics/3a9226932b25</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/3a9226932b25</guid>
-            <pubDate>Thu, 02 Apr 2026 01:41:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/jamat-amir-shofiqur-rahman-briefing-010426-1775068729.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
