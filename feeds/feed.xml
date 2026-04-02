@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 09:49:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 10:40:32 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Apr 2026 09:49:13 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 10:40:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Opposition to protest over constitutional reform]]></title>
+            <description><![CDATA[[Bangladesh] Opposition to protest over constitutional reform]]></description>
+            <link>https://bdnews24.com/bangladesh/35ede857451f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/35ede857451f</guid>
+            <pubDate>Thu, 02 Apr 2026 16:15:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024August/SM/bangladesh-constitution-190824-01-1724054173.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Measles deaths: Petition seeks high-level probe, school closures]]></title>
+            <description><![CDATA[[Bangladesh] Measles deaths: Petition seeks high-level probe, school closures]]></description>
+            <link>https://bdnews24.com/bangladesh/a1f40eb4993a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a1f40eb4993a</guid>
+            <pubDate>Thu, 02 Apr 2026 15:58:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/mymensing-hum-020426-01-1775114697.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[12kg LPG cylinder price jumps up by Tk 387]]></title>
+            <description><![CDATA[[Business] 12kg LPG cylinder price jumps up by Tk 387]]></description>
+            <link>https://bdnews24.com/business/0787e2d033aa</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/0787e2d033aa</guid>
+            <pubDate>Thu, 02 Apr 2026 15:57:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025February/SM/gas-cylinder-280225-007-1740677522.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Child with ‘measles symptoms’ dies in Ctg]]></title>
             <description><![CDATA[[Health] Child with ‘measles symptoms’ dies in Ctg]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/8bea3026bf56</guid>
             <pubDate>Thu, 02 Apr 2026 11:02:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2024-02/104dae10-7e28-4fcf-b95e-46524ca0581d/noakhali_genaral_hospital_110224_01.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA['Artemis-2' sets off for the Moon]]></title>
-            <description><![CDATA[[Image] 'Artemis-2' sets off for the Moon]]></description>
-            <link>https://bdnews24.com/media-en/image/e51f3bed1640</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/e51f3bed1640</guid>
-            <pubDate>Thu, 02 Apr 2026 10:32:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/artemis-ii-mission-nasa-020426-01-1775101680.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fire hits LPG station near residential area in Indonesia]]></title>
-            <description><![CDATA[[World] Fire hits LPG station near residential area in Indonesia]]></description>
-            <link>https://bdnews24.com/world/bbf7ed368afe</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/bbf7ed368afe</guid>
-            <pubDate>Thu, 02 Apr 2026 10:12:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/indonesia-fire-020426-01-1775103118.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Border officials violated order on warrantless arrests: US judge]]></title>
-            <description><![CDATA[[World] Border officials violated order on warrantless arrests: US judge]]></description>
-            <link>https://bdnews24.com/world/c45c3ce31b00</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/c45c3ce31b00</guid>
-            <pubDate>Thu, 02 Apr 2026 10:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-homeland-security-020426-01-1775102969.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
