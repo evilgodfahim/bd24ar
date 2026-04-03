@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 19:30:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 20:22:04 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Apr 2026 19:30:45 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 20:22:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump proposes ‘historic’ defence spending budget]]></title>
+            <description><![CDATA[[World] Trump proposes ‘historic’ defence spending budget]]></description>
+            <link>https://bdnews24.com/world/38a2f36713f3</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/38a2f36713f3</guid>
+            <pubDate>Sat, 04 Apr 2026 01:51:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/trump-310326-001-1775240447.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Second Tangail child dies of 'measles' in 2 days]]></title>
             <description><![CDATA[[Health] Second Tangail child dies of 'measles' in 2 days]]></description>
@@ -49,8 +57,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/deadbody-airport030426-1775235122.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Khosru warns of fuel price hike if subsidy burden nears limit]]></title>
-            <description><![CDATA[[Economy] Khosru warns of fuel price hike if subsidy burden nears limit]]></description>
+            <title><![CDATA[Fuel price hike if subsidy burden nears limit: Khosru]]></title>
+            <description><![CDATA[[Economy] Fuel price hike if subsidy burden nears limit: Khosru]]></description>
             <link>https://bdnews24.com/economy/73e26921f529</link>
             <guid isPermaLink="true">https://bdnews24.com/economy/73e26921f529</guid>
             <pubDate>Fri, 03 Apr 2026 23:14:00 GMT</pubDate>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/da83ba797df7</guid>
             <pubDate>Fri, 03 Apr 2026 21:14:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/13th-parliament-1773296033.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rehab centre director held with ‘pistol’ in Cumilla]]></title>
-            <description><![CDATA[[Bangladesh] Rehab centre director held with ‘pistol’ in Cumilla]]></description>
-            <link>https://bdnews24.com/bangladesh/b805ff7bfb9f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b805ff7bfb9f</guid>
-            <pubDate>Fri, 03 Apr 2026 21:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/comilla-arrest-030426-01-1775220762.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
