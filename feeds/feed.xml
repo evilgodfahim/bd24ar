@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 10:32:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 11:28:57 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Apr 2026 10:32:21 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 11:28:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Infant with measles symptoms dies in Kushtia]]></title>
+            <description><![CDATA[[Bangladesh] Infant with measles symptoms dies in Kushtia]]></description>
+            <link>https://bdnews24.com/bangladesh/708eb61b0a41</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/708eb61b0a41</guid>
+            <pubDate>Fri, 03 Apr 2026 16:53:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/kustia-medicel-030426-01-1775209177.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[North American farmers pinch pennies on farm machinery]]></title>
+            <description><![CDATA[[Americas] North American farmers pinch pennies on farm machinery]]></description>
+            <link>https://bdnews24.com/world/americas/6b4431ebcde3</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/6b4431ebcde3</guid>
+            <pubDate>Fri, 03 Apr 2026 16:51:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-corn-fields-030426-01-1775213455.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Child with measles symptoms dies in Chapainawabganj]]></title>
             <description><![CDATA[[Bangladesh] Child with measles symptoms dies in Chapainawabganj]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/neighbours/cfba294ecebb</guid>
             <pubDate>Fri, 03 Apr 2026 09:58:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026January/SM/junta-chief-13126-1768276425.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump sets new drug tariffs, adjusts metals duties]]></title>
-            <description><![CDATA[[Business] Trump sets new drug tariffs, adjusts metals duties]]></description>
-            <link>https://bdnews24.com/business/f8d1b4153e9b</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/f8d1b4153e9b</guid>
-            <pubDate>Fri, 03 Apr 2026 09:54:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/donald-trump-030426-01-1775188308.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UN Haiti mission implicated in 4 cases of sexual abuse: report]]></title>
-            <description><![CDATA[[Americas] UN Haiti mission implicated in 4 cases of sexual abuse: report]]></description>
-            <link>https://bdnews24.com/world/americas/8b2fa3548780</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/8b2fa3548780</guid>
-            <pubDate>Fri, 03 Apr 2026 09:50:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2024October/SM/haiti-famine-011024-01-1727748489.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
