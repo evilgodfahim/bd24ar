@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 20:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 21:21:48 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Apr 2026 20:22:04 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 21:21:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Afghanistan earthquake kills 8]]></title>
+            <description><![CDATA[[Environment] Afghanistan earthquake kills 8]]></description>
+            <link>https://bdnews24.com/environment/b10eb3b51691</link>
+            <guid isPermaLink="true">https://bdnews24.com/environment/b10eb3b51691</guid>
+            <pubDate>Sat, 04 Apr 2026 02:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025September/SM/2025-09-02-afghanistan-quake-1756823715.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Trump proposes ‘historic’ defence spending budget]]></title>
             <description><![CDATA[[World] Trump proposes ‘historic’ defence spending budget]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/f6b73cb97fb7</guid>
             <pubDate>Fri, 03 Apr 2026 21:16:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/vance-focus-fraud-efforts-03042026-01-1775229402.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Move to scrap key ordinances 'shocks' TIB]]></title>
-            <description><![CDATA[[Bangladesh] Move to scrap key ordinances 'shocks' TIB]]></description>
-            <link>https://bdnews24.com/bangladesh/da83ba797df7</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/da83ba797df7</guid>
-            <pubDate>Fri, 03 Apr 2026 21:14:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/13th-parliament-1773296033.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
