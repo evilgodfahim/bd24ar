@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 16:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 17:23:44 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Apr 2026 16:25:45 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 17:23:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[4 Rohingya arrested in Dhaka for ‘human trafficking’]]></title>
+            <description><![CDATA[[Bangladesh] 4 Rohingya arrested in Dhaka for ‘human trafficking’]]></description>
+            <link>https://bdnews24.com/bangladesh/e3646313df0e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e3646313df0e</guid>
+            <pubDate>Fri, 03 Apr 2026 23:19:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/rohingya-arrest-030426-01-1775233589.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Body of Bangladeshi killed in Bahrain returns home]]></title>
+            <description><![CDATA[[Bangladesh] Body of Bangladeshi killed in Bahrain returns home]]></description>
+            <link>https://bdnews24.com/bangladesh/4c1df9974367</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4c1df9974367</guid>
+            <pubDate>Fri, 03 Apr 2026 23:17:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/deadbody-airport030426-1775235122.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Khosru warns of fuel price hike if subsidy burden nears limit]]></title>
+            <description><![CDATA[[Economy] Khosru warns of fuel price hike if subsidy burden nears limit]]></description>
+            <link>https://bdnews24.com/economy/73e26921f529</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/73e26921f529</guid>
+            <pubDate>Fri, 03 Apr 2026 23:14:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/chattogram-amir-khosru-030426-01-1775231993.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[China moves to regulate digital humans, bans addictive services]]></title>
+            <description><![CDATA[[Technology] China moves to regulate digital humans, bans addictive services]]></description>
+            <link>https://bdnews24.com/technology/349ea9fdcc33</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/349ea9fdcc33</guid>
+            <pubDate>Fri, 03 Apr 2026 23:05:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/china-regulate-digital-humans-03042026-01-1775235873.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[4 more measles cases in Chattogram]]></title>
+            <description><![CDATA[[Health] 4 more measles cases in Chattogram]]></description>
+            <link>https://bdnews24.com/health/219acdc1d03f</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/219acdc1d03f</guid>
+            <pubDate>Fri, 03 Apr 2026 22:45:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/chattogram-medical-measles-corner-300326-02-1774973385.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[HK police given powers to obtain device passwords]]></title>
+            <description><![CDATA[[World] HK police given powers to obtain device passwords]]></description>
+            <link>https://bdnews24.com/world/e8e946f4b962</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e8e946f4b962</guid>
+            <pubDate>Fri, 03 Apr 2026 22:28:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/hk-police-password-03042026-01-1775233645.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Saki to step down as Ganosamhati chief]]></title>
             <description><![CDATA[[Politics] Saki to step down as Ganosamhati chief]]></description>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/4e5b8f4064db</guid>
             <pubDate>Fri, 03 Apr 2026 20:18:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/110-strick-ship-ctg-081114-1774961535.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[42 measles cases found in 24 hours]]></title>
-            <description><![CDATA[[Health] 42 measles cases found in 24 hours]]></description>
-            <link>https://bdnews24.com/health/838e049e2267</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/838e049e2267</guid>
-            <pubDate>Fri, 03 Apr 2026 20:03:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/barishal-measles-situation-310326-01-1774972353.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Theorised giant star blasts leave traces for astronomers]]></title>
-            <description><![CDATA[[Science] Theorised giant star blasts leave traces for astronomers]]></description>
-            <link>https://bdnews24.com/science/6d9d6b0909a9</link>
-            <guid isPermaLink="true">https://bdnews24.com/science/6d9d6b0909a9</guid>
-            <pubDate>Fri, 03 Apr 2026 20:01:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/suparnova-reuters-120326-01-1773386198.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US court tosses Blake Lively’s sexual harassment claim]]></title>
-            <description><![CDATA[[Entertainment] US court tosses Blake Lively’s sexual harassment claim]]></description>
-            <link>https://bdnews24.com/entertainment/0c384e73696e</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/0c384e73696e</guid>
-            <pubDate>Fri, 03 Apr 2026 19:53:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/blake-lively-3426-1775224264.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran war supercharges marine drone revolution]]></title>
-            <description><![CDATA[[Opinion] Iran war supercharges marine drone revolution]]></description>
-            <link>https://bdnews24.com/opinion/4f32843b457a</link>
-            <guid isPermaLink="true">https://bdnews24.com/opinion/4f32843b457a</guid>
-            <pubDate>Fri, 03 Apr 2026 19:52:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-marine-revolution-03042026-01-1775224298.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran leaders step into Tehran streets to display control]]></title>
-            <description><![CDATA[[THE LONG READ] Iran leaders step into Tehran streets to display control]]></description>
-            <link>https://bdnews24.com/the-long-read/699197bba984</link>
-            <guid isPermaLink="true">https://bdnews24.com/the-long-read/699197bba984</guid>
-            <pubDate>Fri, 03 Apr 2026 19:47:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/tehran-park-3426-1775223977.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Impasse over Dhaka airport’s third terminal continues]]></title>
-            <description><![CDATA[[Bangladesh] Impasse over Dhaka airport’s third terminal continues]]></description>
-            <link>https://bdnews24.com/bangladesh/963ddcc74bfe</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/963ddcc74bfe</guid>
-            <pubDate>Fri, 03 Apr 2026 19:44:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/third-terminal-meeting-030426-01-1775225570.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
