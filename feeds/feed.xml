@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 06:04:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 07:54:17 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Apr 2026 06:04:51 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 07:54:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Man accused in murder of ‘mother’s lover’ in Nilphamari]]></title>
+            <description><![CDATA[[Bangladesh] Man accused in murder of ‘mother’s lover’ in Nilphamari]]></description>
+            <link>https://bdnews24.com/bangladesh/4d932c50992e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4d932c50992e</guid>
+            <pubDate>Fri, 03 Apr 2026 13:24:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/nilphamari-murder-030426-01-1775197540-1775198281.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump's anger over Iran thrusts NATO into fresh crisis]]></title>
+            <description><![CDATA[[World] Trump's anger over Iran thrusts NATO into fresh crisis]]></description>
+            <link>https://bdnews24.com/world/e3a255d352bb</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e3a255d352bb</guid>
+            <pubDate>Fri, 03 Apr 2026 13:19:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/nato-flag-030426-01-1775200700.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 die in Sirajganj bus crash]]></title>
+            <description><![CDATA[[Bangladesh] 3 die in Sirajganj bus crash]]></description>
+            <link>https://bdnews24.com/bangladesh/dd7aee1da9e1</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/dd7aee1da9e1</guid>
+            <pubDate>Fri, 03 Apr 2026 13:15:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/sirajgonj-nolka-accident-030426-1775200473.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police 'couldn't find' murder suspects, but they received bail]]></title>
+            <description><![CDATA[[Bangladesh] Police 'couldn't find' murder suspects, but they received bail]]></description>
+            <link>https://bdnews24.com/bangladesh/c5f830b53af9</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c5f830b53af9</guid>
+            <pubDate>Fri, 03 Apr 2026 12:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/emon-borhan-030426-1775195928.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Another child dies of measles at Mymensingh Medical]]></title>
+            <description><![CDATA[[Bangladesh] Another child dies of measles at Mymensingh Medical]]></description>
+            <link>https://bdnews24.com/bangladesh/df765307fa05</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/df765307fa05</guid>
+            <pubDate>Fri, 03 Apr 2026 12:41:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/mymensingh-hum-dead-030426-1775195658.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[DU student found unconscious at home dies in hospital]]></title>
+            <description><![CDATA[[Bangladesh] DU student found unconscious at home dies in hospital]]></description>
+            <link>https://bdnews24.com/bangladesh/b3c91085cdfe</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b3c91085cdfe</guid>
+            <pubDate>Fri, 03 Apr 2026 12:14:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024August/SM/mortuary-dmc-100824-01-1723351888.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Pabna Chhatra Dal leader hacked, shot dead]]></title>
             <description><![CDATA[[Bangladesh] Pabna Chhatra Dal leader hacked, shot dead]]></description>
@@ -49,8 +97,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/france-muslim-gathering-ban-030426-01-1775189322.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Myanmar junta chief set for vote on presidential bid]]></title>
-            <description><![CDATA[[Neighbours] Myanmar junta chief set for vote on presidential bid]]></description>
+            <title><![CDATA[Myanmar junta chief Min Aung Hlaing elected president]]></title>
+            <description><![CDATA[[Neighbours] Myanmar junta chief Min Aung Hlaing elected president]]></description>
             <link>https://bdnews24.com/neighbours/cfba294ecebb</link>
             <guid isPermaLink="true">https://bdnews24.com/neighbours/cfba294ecebb</guid>
             <pubDate>Fri, 03 Apr 2026 09:58:00 GMT</pubDate>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/eb6cc4a4c354</guid>
             <pubDate>Fri, 03 Apr 2026 05:04:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/tiger-woods-030426-01-1775170987.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[March remittance hits record $3.75bn]]></title>
-            <description><![CDATA[[Economy] March remittance hits record $3.75bn]]></description>
-            <link>https://bdnews24.com/economy/e1c6354c6fbc</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/e1c6354c6fbc</guid>
-            <pubDate>Fri, 03 Apr 2026 04:58:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024November/SM/younus-migrants-lounge-hsia-111124-01-1731303606.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scientists craft handbag from dinosaur collagen]]></title>
-            <description><![CDATA[[Lifestyle] Scientists craft handbag from dinosaur collagen]]></description>
-            <link>https://bdnews24.com/lifestyle/f9286331be26</link>
-            <guid isPermaLink="true">https://bdnews24.com/lifestyle/f9286331be26</guid>
-            <pubDate>Fri, 03 Apr 2026 02:07:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/2022-07/6d41043b-19ad-413e-937f-cd808463024a/dinosaur_270722_01.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles kills 50 as acute NICU shortage hits Bangladesh]]></title>
-            <description><![CDATA[[Health] Measles kills 50 as acute NICU shortage hits Bangladesh]]></description>
-            <link>https://bdnews24.com/health/8c149c95e0a2</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/8c149c95e0a2</guid>
-            <pubDate>Fri, 03 Apr 2026 01:55:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/measles-hospital-020426-101-1775158202.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Serie A title race back in spotlight]]></title>
-            <description><![CDATA[[Sport] Serie A title race back in spotlight]]></description>
-            <link>https://bdnews24.com/sport/3a9a45e705a6</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/3a9a45e705a6</guid>
-            <pubDate>Fri, 03 Apr 2026 01:35:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/serie-a-title-030426-01-1775158442.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump fires Attorney General Bondi]]></title>
-            <description><![CDATA[[World] Trump fires Attorney General Bondi]]></description>
-            <link>https://bdnews24.com/world/e7b9ffae608d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/e7b9ffae608d</guid>
-            <pubDate>Fri, 03 Apr 2026 01:23:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/pam-bondi-020426-01-1775154161.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australia to play 3 ODIs in Zimbabwe]]></title>
-            <description><![CDATA[[Sport] Australia to play 3 ODIs in Zimbabwe]]></description>
-            <link>https://bdnews24.com/sport/61c573032124</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/61c573032124</guid>
-            <pubDate>Fri, 03 Apr 2026 01:19:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/australia-cricket-030426-01-1775157486.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
