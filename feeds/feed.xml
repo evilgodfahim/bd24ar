@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 08:39:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 09:41:42 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Apr 2026 08:39:02 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 09:41:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Poland scrambles jets as Russia attacks Ukraine]]></title>
+            <description><![CDATA[[Europe] Poland scrambles jets as Russia attacks Ukraine]]></description>
+            <link>https://bdnews24.com/world/europe/2eb03c50636d</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/2eb03c50636d</guid>
+            <pubDate>Fri, 03 Apr 2026 15:36:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025September/SM/poland-jets-130925-01-1757788103.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Myanmar’s Min Aung Hlaing became president]]></title>
+            <description><![CDATA[[Neighbours] How Myanmar’s Min Aung Hlaing became president]]></description>
+            <link>https://bdnews24.com/neighbours/15fd07cc25d3</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/15fd07cc25d3</guid>
+            <pubDate>Fri, 03 Apr 2026 15:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026January/SM/junta-chief-13126-1768276425.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India's 'Mounjaro brides']]></title>
+            <description><![CDATA[[Neighbours] India's 'Mounjaro brides']]></description>
+            <link>https://bdnews24.com/neighbours/b4f6a0e4d9d9</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/b4f6a0e4d9d9</guid>
+            <pubDate>Fri, 03 Apr 2026 15:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/india-obesity-wedding-030426-01-1775207314.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[World food prices rise further in March: FAO]]></title>
+            <description><![CDATA[[Economy] World food prices rise further in March: FAO]]></description>
+            <link>https://bdnews24.com/economy/ac2a28129d5b</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/ac2a28129d5b</guid>
+            <pubDate>Fri, 03 Apr 2026 14:46:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/food-price-030426-1775205932.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Man accused of murdering ‘mother’s lover’ in Nilphamari]]></title>
             <description><![CDATA[[Bangladesh] Man accused of murdering ‘mother’s lover’ in Nilphamari]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/business/f8385c39bcd2</guid>
             <pubDate>Fri, 03 Apr 2026 09:44:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/oil-prices-trump-iran-030426-01-1775187790.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UN to vote on Hormuz resolution, China opposes force]]></title>
-            <description><![CDATA[[World] UN to vote on Hormuz resolution, China opposes force]]></description>
-            <link>https://bdnews24.com/world/b608dbb3399e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/b608dbb3399e</guid>
-            <pubDate>Fri, 03 Apr 2026 09:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/un-vote-hormuz-resolution-030426-01-1775187300.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US strikes on Iran may amount to war crimes: experts]]></title>
-            <description><![CDATA[[World] US strikes on Iran may amount to war crimes: experts]]></description>
-            <link>https://bdnews24.com/world/9300fc5c1d84</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/9300fc5c1d84</guid>
-            <pubDate>Fri, 03 Apr 2026 09:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-strikes-iran-030426-01-1775186767.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Army chief of staff fired by Hegseth]]></title>
-            <description><![CDATA[[Americas] US Army chief of staff fired by Hegseth]]></description>
-            <link>https://bdnews24.com/world/americas/5afddd0d6962</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/5afddd0d6962</guid>
-            <pubDate>Fri, 03 Apr 2026 09:13:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/randy-george-030426-01-1775185975.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tiger Woods bodycam footage out]]></title>
-            <description><![CDATA[[Sport] Tiger Woods bodycam footage out]]></description>
-            <link>https://bdnews24.com/sport/eb6cc4a4c354</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/eb6cc4a4c354</guid>
-            <pubDate>Fri, 03 Apr 2026 05:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/tiger-woods-030426-01-1775170987.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
