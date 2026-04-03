@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 09:41:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 10:32:21 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Apr 2026 09:41:42 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 10:32:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Child with measles symptoms dies in Chapainawabganj]]></title>
+            <description><![CDATA[[Bangladesh] Child with measles symptoms dies in Chapainawabganj]]></description>
+            <link>https://bdnews24.com/bangladesh/c0c83b40396f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c0c83b40396f</guid>
+            <pubDate>Fri, 03 Apr 2026 16:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/chapainawabganj-dead-040326-1775207184.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Afghan-Pak peace talks advance: China]]></title>
+            <description><![CDATA[[World] Afghan-Pak peace talks advance: China]]></description>
+            <link>https://bdnews24.com/world/eec870b9dc07</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/eec870b9dc07</guid>
+            <pubDate>Fri, 03 Apr 2026 15:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/kabul-attack-030426-1775209779.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Poland scrambles jets as Russia attacks Ukraine]]></title>
             <description><![CDATA[[Europe] Poland scrambles jets as Russia attacks Ukraine]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/americas/8b2fa3548780</guid>
             <pubDate>Fri, 03 Apr 2026 09:50:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2024October/SM/haiti-famine-011024-01-1727748489.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan hikes fuel prices sharply]]></title>
-            <description><![CDATA[[Neighbours] Pakistan hikes fuel prices sharply]]></description>
-            <link>https://bdnews24.com/neighbours/a20501852674</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/a20501852674</guid>
-            <pubDate>Fri, 03 Apr 2026 09:46:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/pakistan-oil-prices-rise-030426-01-1775187918.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil prices jump after Trump vows more Iran attacks]]></title>
-            <description><![CDATA[[Business] Oil prices jump after Trump vows more Iran attacks]]></description>
-            <link>https://bdnews24.com/business/f8385c39bcd2</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/f8385c39bcd2</guid>
-            <pubDate>Fri, 03 Apr 2026 09:44:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/oil-prices-trump-iran-030426-01-1775187790.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
