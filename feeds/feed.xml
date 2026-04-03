@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 13:54:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 14:34:32 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Apr 2026 13:54:47 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 14:34:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[27,000-tonne diesel tanker reaches Ctg Port]]></title>
+            <description><![CDATA[[Bangladesh] 27,000-tonne diesel tanker reaches Ctg Port]]></description>
+            <link>https://bdnews24.com/bangladesh/4e5b8f4064db</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4e5b8f4064db</guid>
+            <pubDate>Fri, 03 Apr 2026 20:18:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/110-strick-ship-ctg-081114-1774961535.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[42 measles cases found in 24 hours]]></title>
+            <description><![CDATA[[Health] 42 measles cases found in 24 hours]]></description>
+            <link>https://bdnews24.com/health/838e049e2267</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/838e049e2267</guid>
+            <pubDate>Fri, 03 Apr 2026 20:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/barishal-measles-situation-310326-01-1774972353.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Theorised giant star blasts leave traces for astronomers]]></title>
+            <description><![CDATA[[Science] Theorised giant star blasts leave traces for astronomers]]></description>
+            <link>https://bdnews24.com/science/6d9d6b0909a9</link>
+            <guid isPermaLink="true">https://bdnews24.com/science/6d9d6b0909a9</guid>
+            <pubDate>Fri, 03 Apr 2026 20:01:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/suparnova-reuters-120326-01-1773386198.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[US court tosses Blake Lively’s sexual harassment claim]]></title>
             <description><![CDATA[[Entertainment] US court tosses Blake Lively’s sexual harassment claim]]></description>
@@ -38,7 +62,7 @@
             <link>https://bdnews24.com/bangladesh/963ddcc74bfe</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/963ddcc74bfe</guid>
             <pubDate>Fri, 03 Apr 2026 19:44:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/third-terminal-talks-4326-1775223833.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/third-terminal-meeting-030426-01-1775225570.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[HBO Max brings ‘Euphoria’ magic to Coachella late-night fans]]></title>
@@ -81,8 +105,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025December/SM/salah-131225-01-1765645723.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Fuel crisis stalls Khagrachhari bikers’ livelihoods]]></title>
-            <description><![CDATA[[Bangladesh] Fuel crisis stalls Khagrachhari bikers’ livelihoods]]></description>
+            <title><![CDATA[Fuel crisis stalls hill bikers’ livelihoods]]></title>
+            <description><![CDATA[[Bangladesh] Fuel crisis stalls hill bikers’ livelihoods]]></description>
             <link>https://bdnews24.com/bangladesh/8c6b778fc936</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/8c6b778fc936</guid>
             <pubDate>Fri, 03 Apr 2026 18:22:00 GMT</pubDate>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/eec870b9dc07</guid>
             <pubDate>Fri, 03 Apr 2026 15:50:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/kabul-attack-030426-1775209779.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Poland scrambles jets as Russia attacks Ukraine]]></title>
-            <description><![CDATA[[Europe] Poland scrambles jets as Russia attacks Ukraine]]></description>
-            <link>https://bdnews24.com/world/europe/2eb03c50636d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/2eb03c50636d</guid>
-            <pubDate>Fri, 03 Apr 2026 15:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025September/SM/poland-jets-130925-01-1757788103.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How Myanmar’s Min Aung Hlaing became president]]></title>
-            <description><![CDATA[[Neighbours] How Myanmar’s Min Aung Hlaing became president]]></description>
-            <link>https://bdnews24.com/neighbours/15fd07cc25d3</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/15fd07cc25d3</guid>
-            <pubDate>Fri, 03 Apr 2026 15:10:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026January/SM/junta-chief-13126-1768276425.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India's 'Mounjaro brides']]></title>
-            <description><![CDATA[[Neighbours] India's 'Mounjaro brides']]></description>
-            <link>https://bdnews24.com/neighbours/b4f6a0e4d9d9</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/b4f6a0e4d9d9</guid>
-            <pubDate>Fri, 03 Apr 2026 15:10:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/india-obesity-wedding-030426-01-1775207314.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
