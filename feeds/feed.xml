@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 17:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 18:30:12 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/archive/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Apr 2026 17:23:44 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 18:30:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Second Tangail child dies of 'measles' in 2 days]]></title>
+            <description><![CDATA[[Health] Second Tangail child dies of 'measles' in 2 days]]></description>
+            <link>https://bdnews24.com/health/0c7cf8ec2554</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/0c7cf8ec2554</guid>
+            <pubDate>Sat, 04 Apr 2026 00:17:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/tangail-child-death-measles-030426-01-1775238123.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh seal U-20 SAFF title with shootout win]]></title>
+            <description><![CDATA[[Sport] Bangladesh seal U-20 SAFF title with shootout win]]></description>
+            <link>https://bdnews24.com/sport/bbaac20eeeed</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/bbaac20eeeed</guid>
+            <pubDate>Fri, 03 Apr 2026 23:45:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/bd-champions-030426-001-1775237561.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cinema night for PM, daughter]]></title>
+            <description><![CDATA[[Entertainment] Cinema night for PM, daughter]]></description>
+            <link>https://bdnews24.com/entertainment/6f3bccaa9eb0</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/6f3bccaa9eb0</guid>
+            <pubDate>Fri, 03 Apr 2026 23:35:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/pm-cinema-030426-01-1775232563.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[4 Rohingya arrested in Dhaka for ‘human trafficking’]]></title>
             <description><![CDATA[[Bangladesh] 4 Rohingya arrested in Dhaka for ‘human trafficking’]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/b805ff7bfb9f</guid>
             <pubDate>Fri, 03 Apr 2026 21:09:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/comilla-arrest-030426-01-1775220762.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arteta coy as injury-hit Arsenal target FA Cup semis]]></title>
-            <description><![CDATA[[Sport] Arteta coy as injury-hit Arsenal target FA Cup semis]]></description>
-            <link>https://bdnews24.com/sport/82ff8ead957a</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/82ff8ead957a</guid>
-            <pubDate>Fri, 03 Apr 2026 21:03:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/arteta-coy-arsenal-injury-hit-03042026-01-1775228509.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2 die of electrocution in Mymensingh]]></title>
-            <description><![CDATA[[Bangladesh] 2 die of electrocution in Mymensingh]]></description>
-            <link>https://bdnews24.com/bangladesh/e16aea4c0d82</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e16aea4c0d82</guid>
-            <pubDate>Fri, 03 Apr 2026 20:48:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/mymensingh-death-030426-01-1775225421.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[27,000-tonne diesel tanker reaches Ctg Port]]></title>
-            <description><![CDATA[[Bangladesh] 27,000-tonne diesel tanker reaches Ctg Port]]></description>
-            <link>https://bdnews24.com/bangladesh/4e5b8f4064db</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4e5b8f4064db</guid>
-            <pubDate>Fri, 03 Apr 2026 20:18:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/110-strick-ship-ctg-081114-1774961535.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
