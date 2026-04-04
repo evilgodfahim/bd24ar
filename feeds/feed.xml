@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Apr 2026 15:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 16:20:30 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Apr 2026 15:19:26 GMT</pubDate>
+        <pubDate>Sat, 04 Apr 2026 16:20:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trippier to depart Newcastle]]></title>
+            <description><![CDATA[[Sport] Trippier to depart Newcastle]]></description>
+            <link>https://bdnews24.com/sport/62f399a23a1d</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/62f399a23a1d</guid>
+            <pubDate>Sat, 04 Apr 2026 22:14:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/kieran-trippier-040426-01-1775319211.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heatwave hits 15 districts]]></title>
+            <description><![CDATA[[Bangladesh] Heatwave hits 15 districts]]></description>
+            <link>https://bdnews24.com/bangladesh/ccfbc7f00db5</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ccfbc7f00db5</guid>
+            <pubDate>Sat, 04 Apr 2026 21:54:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/2024-04/44d33586-9fcd-4f17-ab82-681b938177e9/hote_wave_summer_240424_01.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[AIIB president meets Tarique in Dhaka]]></title>
+            <description><![CDATA[[Bangladesh] AIIB president meets Tarique in Dhaka]]></description>
+            <link>https://bdnews24.com/bangladesh/2db6a297d100</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2db6a297d100</guid>
+            <pubDate>Sat, 04 Apr 2026 21:22:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/tareq-rahman-040326-01-1775310169.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[6,000 litres of diesel seized off Patenga]]></title>
             <description><![CDATA[[Bangladesh] 6,000 litres of diesel seized off Patenga]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/643b8faa5d4e</guid>
             <pubDate>Sat, 04 Apr 2026 14:34:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/keranigonj-deadbody-recover-040426-201-1775297767.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[23 with measles symptoms hit Netrokona hospitals]]></title>
-            <description><![CDATA[[Health] 23 with measles symptoms hit Netrokona hospitals]]></description>
-            <link>https://bdnews24.com/health/7ca3afdc156a</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/7ca3afdc156a</guid>
-            <pubDate>Sat, 04 Apr 2026 12:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/netrokona-hum-hospital-040426-01-1775283581.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese, French and Omani vessels cross Hormuz]]></title>
-            <description><![CDATA[[Middle East] Japanese, French and Omani vessels cross Hormuz]]></description>
-            <link>https://bdnews24.com/world/middle-east/7b71c8b5df91</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/7b71c8b5df91</guid>
-            <pubDate>Sat, 04 Apr 2026 12:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/iran-war-usa-israel-hormuz-040426-1775281386.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[VPN blocks in Russia lead to payment failures: Telegram CEO]]></title>
-            <description><![CDATA[[Technology] VPN blocks in Russia lead to payment failures: Telegram CEO]]></description>
-            <link>https://bdnews24.com/technology/2442080a1b6c</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/2442080a1b6c</guid>
-            <pubDate>Sat, 04 Apr 2026 12:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024July/SM/vpn-reuters-250724-01-1721900498.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
