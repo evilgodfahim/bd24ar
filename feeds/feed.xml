@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Apr 2026 09:26:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 10:21:49 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Apr 2026 09:26:54 GMT</pubDate>
+        <pubDate>Sat, 04 Apr 2026 10:21:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[61,000 tonnes of diesel reach Ctg in 2 days]]></title>
+            <description><![CDATA[[Bangladesh] 61,000 tonnes of diesel reach Ctg in 2 days]]></description>
+            <link>https://bdnews24.com/bangladesh/68881519af83</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/68881519af83</guid>
+            <pubDate>Sat, 04 Apr 2026 16:14:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/ctg-pic-of-oil-ship030426-1775228894.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Banking hours cut to save fuel]]></title>
+            <description><![CDATA[[Bangladesh] Banking hours cut to save fuel]]></description>
+            <link>https://bdnews24.com/bangladesh/a11d70019ea6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a11d70019ea6</guid>
+            <pubDate>Sat, 04 Apr 2026 15:31:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025February/SM/sonali-bank-crowd-130421-002-1740403662.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[EU ministers seek windfall tax on energy companies]]></title>
             <description><![CDATA[[Business] EU ministers seek windfall tax on energy companies]]></description>
@@ -25,12 +41,12 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/rajshahi-mcm-ham-010426-1775046609.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Fire at lighter factory in Keraniganj]]></title>
-            <description><![CDATA[[Bangladesh] Fire at lighter factory in Keraniganj]]></description>
+            <title><![CDATA[Keraniganj factory fire tamed]]></title>
+            <description><![CDATA[[Bangladesh] Keraniganj factory fire tamed]]></description>
             <link>https://bdnews24.com/bangladesh/643b8faa5d4e</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/643b8faa5d4e</guid>
             <pubDate>Sat, 04 Apr 2026 14:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2024-01/e7651c04-4691-40ae-bbbe-f04f03bff747/fire_logo_070124.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/keranigonj-fire-040426-01-1775293197.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[23 with measles symptoms hit Netrokona hospitals]]></title>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/americas/a4076f9b9b24</guid>
             <pubDate>Sat, 04 Apr 2026 09:32:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/dhs-14226-1771050288.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran ‘unlikely’ to reopen Hormuz as leverage deepens]]></title>
-            <description><![CDATA[[World] Iran ‘unlikely’ to reopen Hormuz as leverage deepens]]></description>
-            <link>https://bdnews24.com/world/818d1337bf16</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/818d1337bf16</guid>
-            <pubDate>Sat, 04 Apr 2026 09:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-unlikely-reopen-hormuz-040426-01-1775273126.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Downed jets spell peril for Trump as Tehran hunts pilot]]></title>
-            <description><![CDATA[[World] Downed jets spell peril for Trump as Tehran hunts pilot]]></description>
-            <link>https://bdnews24.com/world/c01436cec42c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/c01436cec42c</guid>
-            <pubDate>Sat, 04 Apr 2026 08:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/houthi-supporters-step-usflag-040426-01-1775270914.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
