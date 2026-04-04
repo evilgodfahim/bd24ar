@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Apr 2026 20:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 21:20:06 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Apr 2026 20:16:57 GMT</pubDate>
+        <pubDate>Sat, 04 Apr 2026 21:20:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Keraniganj fire: Govt announces compensation]]></title>
+            <description><![CDATA[[Bangladesh] Keraniganj fire: Govt announces compensation]]></description>
+            <link>https://bdnews24.com/bangladesh/293110a7d9a4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/293110a7d9a4</guid>
+            <pubDate>Sun, 05 Apr 2026 02:57:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/keranigonj-deadbody-recover-040426-201-1775297767.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[BCB in turmoil as 3 more directors resign in a day]]></title>
             <description><![CDATA[[Sport] BCB in turmoil as 3 more directors resign in a day]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/business/5bb2bd8f9659</guid>
             <pubDate>Sat, 04 Apr 2026 20:45:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/russia-diesel-211122-01-1775312239.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aftermath of Iranian attack on Israel]]></title>
-            <description><![CDATA[[Image] Aftermath of Iranian attack on Israel]]></description>
-            <link>https://bdnews24.com/media-en/image/4eb63ebad18b</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/4eb63ebad18b</guid>
-            <pubDate>Sat, 04 Apr 2026 20:03:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-attack-on-israel-040426-02-1775311126.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
