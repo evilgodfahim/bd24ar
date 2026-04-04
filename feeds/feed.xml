@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Apr 2026 13:43:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 14:23:58 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Apr 2026 13:43:48 GMT</pubDate>
+        <pubDate>Sat, 04 Apr 2026 14:23:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Aftermath of Iranian attack on Israel]]></title>
+            <description><![CDATA[[Image] Aftermath of Iranian attack on Israel]]></description>
+            <link>https://bdnews24.com/media-en/image/4eb63ebad18b</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/4eb63ebad18b</guid>
+            <pubDate>Sat, 04 Apr 2026 20:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-attack-on-israel-040426-02-1775311126.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[April 4, 2026]]></title>
+            <description><![CDATA[[Image] April 4, 2026]]></description>
+            <link>https://bdnews24.com/media-en/image/e12c2586a5b6</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/e12c2586a5b6</guid>
+            <pubDate>Sat, 04 Apr 2026 19:49:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/tarique-rahman-040426-01-1775303068.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Six die of measles, suspected cases]]></title>
             <description><![CDATA[[Bangladesh] Six die of measles, suspected cases]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/entertainment/f4b4e1cbddaa</guid>
             <pubDate>Sat, 04 Apr 2026 12:12:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/indian-cinema-4426-1775283111.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Biker crushed by garbage truck in Banasree]]></title>
-            <description><![CDATA[[Bangladesh] Biker crushed by garbage truck in Banasree]]></description>
-            <link>https://bdnews24.com/bangladesh/ea5ef7fa9f50</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ea5ef7fa9f50</guid>
-            <pubDate>Sat, 04 Apr 2026 12:03:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/khilgaon-thana-030426-01-1775230300.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2 die as truck barrels down wrong lane]]></title>
-            <description><![CDATA[[Bangladesh] 2 die as truck barrels down wrong lane]]></description>
-            <link>https://bdnews24.com/bangladesh/e7ce89c66bf0</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e7ce89c66bf0</guid>
-            <pubDate>Sat, 04 Apr 2026 11:43:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-02/9021c496-de82-40e2-9272-b4d04091c11d/dmch_emergency_department_230223_04.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
