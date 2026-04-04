@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Apr 2026 18:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 19:23:04 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Apr 2026 18:24:06 GMT</pubDate>
+        <pubDate>Sat, 04 Apr 2026 19:23:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Keraniganj factory fire: Another body recovered]]></title>
+            <description><![CDATA[[Bangladesh] Keraniganj factory fire: Another body recovered]]></description>
+            <link>https://bdnews24.com/bangladesh/da7d158451ce</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/da7d158451ce</guid>
+            <pubDate>Sun, 05 Apr 2026 01:21:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/keranigonj-deadbody-recover-040426-202-1775298396.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Measles patients turned away amid bed shortage]]></title>
+            <description><![CDATA[[Bangladesh] Measles patients turned away amid bed shortage]]></description>
+            <link>https://bdnews24.com/bangladesh/8a3529f920ca</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8a3529f920ca</guid>
+            <pubDate>Sun, 05 Apr 2026 01:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/measles-dhaka-hospital-040424-02-1775326596.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charges against Hasina, Quader, 30 others in Sujan killing]]></title>
+            <description><![CDATA[[Bangladesh] Charges against Hasina, Quader, 30 others in Sujan killing]]></description>
+            <link>https://bdnews24.com/bangladesh/f59ff4ce15a4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f59ff4ce15a4</guid>
+            <pubDate>Sun, 05 Apr 2026 00:36:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024July/SM/quota-protest-clash-chattogram-160724-13-1721160041.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Israel awaits US nod for strikes on Iranian energy sites]]></title>
             <description><![CDATA[[World] Israel awaits US nod for strikes on Iranian energy sites]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/media-en/image/e12c2586a5b6</guid>
             <pubDate>Sat, 04 Apr 2026 19:49:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/tarique-rahman-040426-01-1775303068.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Six die of measles, suspected cases]]></title>
-            <description><![CDATA[[Bangladesh] Six die of measles, suspected cases]]></description>
-            <link>https://bdnews24.com/bangladesh/8e6149c46988</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8e6149c46988</guid>
-            <pubDate>Sat, 04 Apr 2026 19:33:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/measles-patient-sonkromon-bedi-hospital-290326-040-1774790031.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Child found with glue-sealed eyes in Savar]]></title>
-            <description><![CDATA[[Bangladesh] Child found with glue-sealed eyes in Savar]]></description>
-            <link>https://bdnews24.com/bangladesh/e099bcba94d0</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e099bcba94d0</guid>
-            <pubDate>Sat, 04 Apr 2026 19:31:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/savar-hospital-030226-03-1770115287.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ex-advisor Farida slates Zubaida]]></title>
-            <description><![CDATA[[Bangladesh] Ex-advisor Farida slates Zubaida]]></description>
-            <link>https://bdnews24.com/bangladesh/19be3c5b1c6f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/19be3c5b1c6f</guid>
-            <pubDate>Sat, 04 Apr 2026 18:54:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/vabbhoithaki-iran-040426-22-1775301851.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
