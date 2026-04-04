@@ -52,7 +52,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           if [ -f feeds/feed.xml ]; then
-            git add feeds/feed.xml
+            git add feeds/*.xml
             git commit -m "Auto-update RSS feed [skip ci]" || echo "No changes to commit"
             git push
           else
