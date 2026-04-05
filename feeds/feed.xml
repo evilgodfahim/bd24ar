@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Apr 2026 14:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Apr 2026 15:22:05 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Apr 2026 14:24:59 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 15:22:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[All vessels to be digitally registered: minister]]></title>
+            <description><![CDATA[[Bangladesh] All vessels to be digitally registered: minister]]></description>
+            <link>https://bdnews24.com/bangladesh/91470e6c7e41</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/91470e6c7e41</guid>
+            <pubDate>Sun, 05 Apr 2026 20:51:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/razib-ahsan-05042026-1-1775400690.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[HC moved to ban ‘Mangal Shobhajatra’]]></title>
+            <description><![CDATA[[Bangladesh] HC moved to ban ‘Mangal Shobhajatra’]]></description>
+            <link>https://bdnews24.com/bangladesh/226eecb0c682</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/226eecb0c682</guid>
+            <pubDate>Sun, 05 Apr 2026 20:31:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025April/SM/mongol-shovajatra-11042025-1744385403.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Parliament halts again amid microphone glitch]]></title>
             <description><![CDATA[[Bangladesh] Parliament halts again amid microphone glitch]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/8c99943f3b54</guid>
             <pubDate>Sun, 05 Apr 2026 17:36:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-aircraft-destroyed-iran-050426-01-1775388934.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles vaccination drive in Dhaka]]></title>
-            <description><![CDATA[[Image] Measles vaccination drive in Dhaka]]></description>
-            <link>https://bdnews24.com/media-en/image/6b3327ec56c2</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/6b3327ec56c2</guid>
-            <pubDate>Sun, 05 Apr 2026 17:30:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/measles-vaccination-050426-04-1775380229.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tofazzal ‘lynching’: 2 suspects secure bail]]></title>
-            <description><![CDATA[[Bangladesh] Tofazzal ‘lynching’: 2 suspects secure bail]]></description>
-            <link>https://bdnews24.com/bangladesh/a200480b07ca</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a200480b07ca</guid>
-            <pubDate>Sun, 05 Apr 2026 17:23:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024September/SM/tofajjol-hossain-190824-01-1726726325.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
