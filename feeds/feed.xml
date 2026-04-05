@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Apr 2026 07:46:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Apr 2026 08:30:08 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Apr 2026 07:46:36 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 08:30:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bangla New Year event to be renamed ‘Baishakhi Shobhajatra’]]></title>
+            <description><![CDATA[[Bangladesh] Bangla New Year event to be renamed ‘Baishakhi Shobhajatra’]]></description>
+            <link>https://bdnews24.com/bangladesh/086bfcce6ce0</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/086bfcce6ce0</guid>
+            <pubDate>Sun, 05 Apr 2026 14:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/mangal-shobhajatra-preparation-040426-070-1775316953.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Ex-MP Mozammel acquitted in extortion case]]></title>
             <description><![CDATA[[Politics] Ex-MP Mozammel acquitted in extortion case]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/8a3529f920ca</guid>
             <pubDate>Sun, 05 Apr 2026 01:00:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/measles-dhaka-hospital-040424-02-1775326596.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Charges against Hasina, Quader, 30 others in Sujan killing]]></title>
-            <description><![CDATA[[Bangladesh] Charges against Hasina, Quader, 30 others in Sujan killing]]></description>
-            <link>https://bdnews24.com/bangladesh/f59ff4ce15a4</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f59ff4ce15a4</guid>
-            <pubDate>Sun, 05 Apr 2026 00:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024July/SM/quota-protest-clash-chattogram-160724-13-1721160041.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
