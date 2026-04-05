@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Apr 2026 13:44:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Apr 2026 14:24:59 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Apr 2026 13:44:41 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 14:24:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Parliament halts again amid microphone glitch]]></title>
+            <description><![CDATA[[Bangladesh] Parliament halts again amid microphone glitch]]></description>
+            <link>https://bdnews24.com/bangladesh/dfb04df27027</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/dfb04df27027</guid>
+            <pubDate>Sun, 05 Apr 2026 20:24:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/13th-parliament-1773296033.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Andrew, family absent as British royals gather for Easter service]]></title>
+            <description><![CDATA[[World] Andrew, family absent as British royals gather for Easter service]]></description>
+            <link>https://bdnews24.com/world/e7e9551a2966</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e7e9551a2966</guid>
+            <pubDate>Sun, 05 Apr 2026 20:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/andrew-absent-easter-05042026-01-1775398317.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oscar retires at 34 over heart issues]]></title>
+            <description><![CDATA[[Sport] Oscar retires at 34 over heart issues]]></description>
+            <link>https://bdnews24.com/sport/2a1658553354</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/2a1658553354</guid>
+            <pubDate>Sun, 05 Apr 2026 20:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/oscar-retirement-050426-01-1775397749.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marketing officer found dead in Ctg diagnostic centre]]></title>
+            <description><![CDATA[[Bangladesh] Marketing officer found dead in Ctg diagnostic centre]]></description>
+            <link>https://bdnews24.com/bangladesh/9aef21a730c8</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9aef21a730c8</guid>
+            <pubDate>Sun, 05 Apr 2026 19:59:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/bhujpurp-police-station-240520-01-1775391480.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Parliament passes two key bills in 8 minutes]]></title>
+            <description><![CDATA[[Bangladesh] Parliament passes two key bills in 8 minutes]]></description>
+            <link>https://bdnews24.com/bangladesh/2bf03216eba4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2bf03216eba4</guid>
+            <pubDate>Sun, 05 Apr 2026 19:56:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025May/SM/secretariat-protest-260525-006-1748275827.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Govt studies India-Indonesia models to control prices]]></title>
+            <description><![CDATA[[Bangladesh] Govt studies India-Indonesia models to control prices]]></description>
+            <link>https://bdnews24.com/bangladesh/d703fe39e970</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d703fe39e970</guid>
+            <pubDate>Sun, 05 Apr 2026 19:45:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2024-02/930f42e4-440d-4017-8709-97048c1d97dd/kawran_bazar_050224_1.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Widen tax net instead of raising rates: commerce minister]]></title>
             <description><![CDATA[[Bangladesh] Widen tax net instead of raising rates: commerce minister]]></description>
@@ -73,8 +121,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/shoping-mall-050426-01-1775389171.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Israel pressure Iran ahead of deadline]]></title>
-            <description><![CDATA[[Middle East] Israel pressure Iran ahead of deadline]]></description>
+            <title><![CDATA[Trump, Israel ratchet up pressure on Iran]]></title>
+            <description><![CDATA[[Middle East] Trump, Israel ratchet up pressure on Iran]]></description>
             <link>https://bdnews24.com/world/middle-east/08daaf9e5e8d</link>
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/08daaf9e5e8d</guid>
             <pubDate>Sun, 05 Apr 2026 18:03:00 GMT</pubDate>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/a200480b07ca</guid>
             <pubDate>Sun, 05 Apr 2026 17:23:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024September/SM/tofajjol-hossain-190824-01-1726726325.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[April 5, 2026]]></title>
-            <description><![CDATA[[Image] April 5, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/37fdf4125b66</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/37fdf4125b66</guid>
-            <pubDate>Sun, 05 Apr 2026 17:20:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/tarique-rahman-050426-01-1775379402.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US envoy presents historic photos to PM Tarique]]></title>
-            <description><![CDATA[[Bangladesh] US envoy presents historic photos to PM Tarique]]></description>
-            <link>https://bdnews24.com/bangladesh/210f89ad78d9</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/210f89ad78d9</guid>
-            <pubDate>Sun, 05 Apr 2026 16:54:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/tarique-rahman-brent-christensen-050426-01-1775385366.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shapla Chattar ‘killing’: Shahriar Kabir seeks division in jail]]></title>
-            <description><![CDATA[[Bangladesh] Shapla Chattar ‘killing’: Shahriar Kabir seeks division in jail]]></description>
-            <link>https://bdnews24.com/bangladesh/407f0b25b16f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/407f0b25b16f</guid>
-            <pubDate>Sun, 05 Apr 2026 16:47:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025November/SM/shahriarkabir-041114-0003-1763840090.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Decision on ‘hybrid classes’ by Thursday]]></title>
-            <description><![CDATA[[Bangladesh] Decision on ‘hybrid classes’ by Thursday]]></description>
-            <link>https://bdnews24.com/bangladesh/d1ee138c7b81</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d1ee138c7b81</guid>
-            <pubDate>Sun, 05 Apr 2026 16:42:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/ahsanul-haque-milon-050426-01-1775384328.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[War will impact food prices as well: finance minister]]></title>
-            <description><![CDATA[[Economy] War will impact food prices as well: finance minister]]></description>
-            <link>https://bdnews24.com/economy/549d88595075</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/549d88595075</guid>
-            <pubDate>Sun, 05 Apr 2026 15:55:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/amir-khasru-mahmud-chowdhury-050426-01-1775382932.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[NASSA Group workers block road for 4 hours]]></title>
-            <description><![CDATA[[Bangladesh] NASSA Group workers block road for 4 hours]]></description>
-            <link>https://bdnews24.com/bangladesh/69c7532e13c3</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/69c7532e13c3</guid>
-            <pubDate>Sun, 05 Apr 2026 15:41:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/nasa-workers-protest-050426-01-1775380449.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
