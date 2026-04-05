@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Apr 2026 10:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Apr 2026 11:19:37 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Apr 2026 10:21:36 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 11:19:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US envoy presents historic photos to PM Tarique]]></title>
+            <description><![CDATA[[Bangladesh] US envoy presents historic photos to PM Tarique]]></description>
+            <link>https://bdnews24.com/bangladesh/210f89ad78d9</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/210f89ad78d9</guid>
+            <pubDate>Sun, 05 Apr 2026 16:54:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/tarique-rahman-brent-christensen-050426-01-1775385366.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shapla Chattar ‘killing’: Shahriar Kabir seeks division in jail]]></title>
+            <description><![CDATA[[Bangladesh] Shapla Chattar ‘killing’: Shahriar Kabir seeks division in jail]]></description>
+            <link>https://bdnews24.com/bangladesh/407f0b25b16f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/407f0b25b16f</guid>
+            <pubDate>Sun, 05 Apr 2026 16:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025November/SM/shahriarkabir-041114-0003-1763840090.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Decision on ‘hybrid classes’ by Thursday]]></title>
+            <description><![CDATA[[Bangladesh] Decision on ‘hybrid classes’ by Thursday]]></description>
+            <link>https://bdnews24.com/bangladesh/d1ee138c7b81</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d1ee138c7b81</guid>
+            <pubDate>Sun, 05 Apr 2026 16:42:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/ahsanul-haque-milon-050426-01-1775384328.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[War will impact food prices as well: finance minister]]></title>
             <description><![CDATA[[Economy] War will impact food prices as well: finance minister]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/16fa9d9b69d7</guid>
             <pubDate>Sun, 05 Apr 2026 10:06:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/planetlabs-iran-images-050426-01-1775361923.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kuwait says Iranian drones strike oil sector complex, power]]></title>
-            <description><![CDATA[[Middle East] Kuwait says Iranian drones strike oil sector complex, power]]></description>
-            <link>https://bdnews24.com/world/middle-east/2a821a47b20d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/2a821a47b20d</guid>
-            <pubDate>Sun, 05 Apr 2026 09:54:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/bahrain-attack-050426-01-1775361209.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arteta rues Arsenal FA Cup exit]]></title>
-            <description><![CDATA[[Sport] Arteta rues Arsenal FA Cup exit]]></description>
-            <link>https://bdnews24.com/sport/5562efa58802</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/5562efa58802</guid>
-            <pubDate>Sun, 05 Apr 2026 09:41:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/arteta-fa-cup-arsenal-southampton-050425-01-1775360463.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Barca beat 10-man Atleti to bolster title hopes]]></title>
-            <description><![CDATA[[Sport] Barca beat 10-man Atleti to bolster title hopes]]></description>
-            <link>https://bdnews24.com/sport/8a900384ba42</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/8a900384ba42</guid>
-            <pubDate>Sun, 05 Apr 2026 09:37:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/laliga-barcelona-atletico-madrid-lewandowski-050425-01-1775360170.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
