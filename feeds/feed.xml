@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Apr 2026 17:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Apr 2026 18:25:56 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Apr 2026 17:20:28 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 18:25:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Reform dream meets political reality]]></title>
+            <description><![CDATA[[Bangladesh] Reform dream meets political reality]]></description>
+            <link>https://bdnews24.com/bangladesh/1e2c72d13e11</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1e2c72d13e11</guid>
+            <pubDate>Mon, 06 Apr 2026 00:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025October/SM/concensus-commission-report-281025-03-1761655608.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran gets until Tuesday night to open Hormuz: WSJ]]></title>
+            <description><![CDATA[[World] Iran gets until Tuesday night to open Hormuz: WSJ]]></description>
+            <link>https://bdnews24.com/world/ec9615682c11</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ec9615682c11</guid>
+            <pubDate>Sun, 05 Apr 2026 23:40:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/hormuz-05042026-1775410778.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 killed in Gazipur minibus crash]]></title>
+            <description><![CDATA[[Bangladesh] 3 killed in Gazipur minibus crash]]></description>
+            <link>https://bdnews24.com/bangladesh/a1130da804e1</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a1130da804e1</guid>
+            <pubDate>Sun, 05 Apr 2026 23:38:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/gazipur-two-dead-050426-01-1775402835.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[PSV seal Dutch title as Feyenoord slip]]></title>
             <description><![CDATA[[Sport] PSV seal Dutch title as Feyenoord slip]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/d703fe39e970</guid>
             <pubDate>Sun, 05 Apr 2026 19:45:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2024-02/930f42e4-440d-4017-8709-97048c1d97dd/kawran_bazar_050224_1.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Widen tax net instead of raising rates: commerce minister]]></title>
-            <description><![CDATA[[Bangladesh] Widen tax net instead of raising rates: commerce minister]]></description>
-            <link>https://bdnews24.com/bangladesh/3f59709b8002</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3f59709b8002</guid>
-            <pubDate>Sun, 05 Apr 2026 19:40:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/commerce-minister-4526-1775396303.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump threatens to hit Iran infrastructure on Tuesday]]></title>
-            <description><![CDATA[[World] Trump threatens to hit Iran infrastructure on Tuesday]]></description>
-            <link>https://bdnews24.com/world/20c6a04a9034</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/20c6a04a9034</guid>
-            <pubDate>Sun, 05 Apr 2026 19:40:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/trump-hit-iran-infrastructure-05042026-01-1775396404.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mahdi, Shibli named PMO spokespersons]]></title>
-            <description><![CDATA[[Bangladesh] Mahdi, Shibli named PMO spokespersons]]></description>
-            <link>https://bdnews24.com/bangladesh/230eaa8ec915</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/230eaa8ec915</guid>
-            <pubDate>Sun, 05 Apr 2026 19:35:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/mahdi-amin-and-saleh-shibly-05042026-1775393280.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
