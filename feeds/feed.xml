@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Apr 2026 18:25:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Apr 2026 19:26:12 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Apr 2026 18:25:56 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 19:26:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Biman flights from Abu Dhabi go haywire]]></title>
+            <description><![CDATA[[Bangladesh] Biman flights from Abu Dhabi go haywire]]></description>
+            <link>https://bdnews24.com/bangladesh/cbb6eca00f6a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cbb6eca00f6a</guid>
+            <pubDate>Mon, 06 Apr 2026 01:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024June/SM/biman-ticket-300624-1-1719744900.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BNP govt to hold first ECNEC meeting at Secretariat]]></title>
+            <description><![CDATA[[Bangladesh] BNP govt to hold first ECNEC meeting at Secretariat]]></description>
+            <link>https://bdnews24.com/bangladesh/32f1f5a7ce50</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/32f1f5a7ce50</guid>
+            <pubDate>Mon, 06 Apr 2026 01:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/secretariate-tarew-rahman-250623-00-1774436789.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka bus counters get 7 days to relocate]]></title>
+            <description><![CDATA[[Bangladesh] Dhaka bus counters get 7 days to relocate]]></description>
+            <link>https://bdnews24.com/bangladesh/3e8beb1e2f3b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3e8beb1e2f3b</guid>
+            <pubDate>Mon, 06 Apr 2026 01:01:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025March/SM/dakha-eidjatra-280325-12-1743168722.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Reform dream meets political reality]]></title>
             <description><![CDATA[[Bangladesh] Reform dream meets political reality]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/2a1658553354</guid>
             <pubDate>Sun, 05 Apr 2026 20:03:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/oscar-retirement-050426-01-1775397749.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Marketing officer found dead in Ctg diagnostic centre]]></title>
-            <description><![CDATA[[Bangladesh] Marketing officer found dead in Ctg diagnostic centre]]></description>
-            <link>https://bdnews24.com/bangladesh/9aef21a730c8</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9aef21a730c8</guid>
-            <pubDate>Sun, 05 Apr 2026 19:59:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/bhujpurp-police-station-240520-01-1775391480.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Parliament passes two key bills in 8 minutes]]></title>
-            <description><![CDATA[[Bangladesh] Parliament passes two key bills in 8 minutes]]></description>
-            <link>https://bdnews24.com/bangladesh/2bf03216eba4</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2bf03216eba4</guid>
-            <pubDate>Sun, 05 Apr 2026 19:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025May/SM/secretariat-protest-260525-006-1748275827.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt studies India-Indonesia models to control prices]]></title>
-            <description><![CDATA[[Bangladesh] Govt studies India-Indonesia models to control prices]]></description>
-            <link>https://bdnews24.com/bangladesh/d703fe39e970</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d703fe39e970</guid>
-            <pubDate>Sun, 05 Apr 2026 19:45:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2024-02/930f42e4-440d-4017-8709-97048c1d97dd/kawran_bazar_050224_1.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
