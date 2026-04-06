@@ -4,13 +4,29 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Apr 2026 17:35:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 18:39:30 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Apr 2026 17:35:21 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 18:39:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Artemis II begins orbit of Moon’s far side]]></title>
-            <description><![CDATA[[Science] Artemis II begins orbit of Moon’s far side]]></description>
+            <title><![CDATA[Ex-AAG Abul Hasan accused of embezzling Tk 32mn]]></title>
+            <description><![CDATA[[Bangladesh] Ex-AAG Abul Hasan accused of embezzling Tk 32mn]]></description>
+            <link>https://bdnews24.com/bangladesh/b246902a2e09</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b246902a2e09</guid>
+            <pubDate>Tue, 07 Apr 2026 00:27:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/high-court-mm-180516-0008-100-1775126771.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Radisson Dhaka to host Pahela Baishakh celebration]]></title>
+            <description><![CDATA[[Lifestyle] Radisson Dhaka to host Pahela Baishakh celebration]]></description>
+            <link>https://bdnews24.com/lifestyle/1be5855ebc9f</link>
+            <guid isPermaLink="true">https://bdnews24.com/lifestyle/1be5855ebc9f</guid>
+            <pubDate>Mon, 06 Apr 2026 23:55:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/rongila-baishakh-06042026-1775498116.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Artemis II breaks distance record from Earth]]></title>
+            <description><![CDATA[[Science] Artemis II breaks distance record from Earth]]></description>
             <link>https://bdnews24.com/science/eb5a9be7bb6c</link>
             <guid isPermaLink="true">https://bdnews24.com/science/eb5a9be7bb6c</guid>
             <pubDate>Mon, 06 Apr 2026 23:34:00 GMT</pubDate>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/11b170717369</guid>
             <pubDate>Mon, 06 Apr 2026 20:26:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/kushtia-child-hum060426-01-1775476889.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taiwan opposition leader to visit China on 'peace mission']]></title>
-            <description><![CDATA[[World] Taiwan opposition leader to visit China on 'peace mission']]></description>
-            <link>https://bdnews24.com/world/e3084edb513b</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/e3084edb513b</guid>
-            <pubDate>Mon, 06 Apr 2026 20:23:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/taiwan-opp-leader-06042026-01-1775485363.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[RS Fahim charged with ‘attempted murder’]]></title>
-            <description><![CDATA[[Bangladesh] RS Fahim charged with ‘attempted murder’]]></description>
-            <link>https://bdnews24.com/bangladesh/b30ef0be459d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b30ef0be459d</guid>
-            <pubDate>Mon, 06 Apr 2026 20:20:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/rs-fahim-060426-1775472343.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
