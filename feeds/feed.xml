@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Apr 2026 18:39:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 19:43:34 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Apr 2026 18:39:30 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 19:43:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Europe braces as US threatens NATO exit]]></title>
+            <description><![CDATA[[World] Europe braces as US threatens NATO exit]]></description>
+            <link>https://bdnews24.com/world/0da2ba3c8211</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/0da2ba3c8211</guid>
+            <pubDate>Tue, 07 Apr 2026 01:17:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-aircraft-07042026-1775503064.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[DIU, Paramount Group ink 3.4MW solar power deal]]></title>
+            <description><![CDATA[[Campus] DIU, Paramount Group ink 3.4MW solar power deal]]></description>
+            <link>https://bdnews24.com/campus/3d16fded5406</link>
+            <guid isPermaLink="true">https://bdnews24.com/campus/3d16fded5406</guid>
+            <pubDate>Tue, 07 Apr 2026 01:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/diu-06042026-1775502190.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US striker Agyemang injured in England]]></title>
+            <description><![CDATA[[Sport] US striker Agyemang injured in England]]></description>
+            <link>https://bdnews24.com/sport/1c6eb867603d</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/1c6eb867603d</guid>
+            <pubDate>Tue, 07 Apr 2026 01:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/patrick-agyemang-070426-01-1775501952.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Ex-AAG Abul Hasan accused of embezzling Tk 32mn]]></title>
             <description><![CDATA[[Bangladesh] Ex-AAG Abul Hasan accused of embezzling Tk 32mn]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/407da2dc1c8f</guid>
             <pubDate>Mon, 06 Apr 2026 21:24:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-rejects-ceasefire-06042026-01-1775488997.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Security scare at Delhi Assembly]]></title>
-            <description><![CDATA[[Neighbours] Security scare at Delhi Assembly]]></description>
-            <link>https://bdnews24.com/neighbours/097a060d96ba</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/097a060d96ba</guid>
-            <pubDate>Mon, 06 Apr 2026 20:57:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/delhi-assembly-musked-man-060426-01-1775483979.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[DNCC to test multiple insecticides against dengue]]></title>
-            <description><![CDATA[[Bangladesh] DNCC to test multiple insecticides against dengue]]></description>
-            <link>https://bdnews24.com/bangladesh/bc2e9d9c36c9</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/bc2e9d9c36c9</guid>
-            <pubDate>Mon, 06 Apr 2026 20:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/dnncc-meeting-060426-01-1775482202.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Another child with measles symptoms dies in Kushtia]]></title>
-            <description><![CDATA[[Bangladesh] Another child with measles symptoms dies in Kushtia]]></description>
-            <link>https://bdnews24.com/bangladesh/11b170717369</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/11b170717369</guid>
-            <pubDate>Mon, 06 Apr 2026 20:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/kushtia-child-hum060426-01-1775476889.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
