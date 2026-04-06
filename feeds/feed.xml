@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Apr 2026 20:26:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 21:27:02 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Apr 2026 20:26:50 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 21:27:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Turn frustration into motivation: Arteta to players]]></title>
+            <description><![CDATA[[Sport] Turn frustration into motivation: Arteta to players]]></description>
+            <link>https://bdnews24.com/sport/5b79df86bdde</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/5b79df86bdde</guid>
+            <pubDate>Tue, 07 Apr 2026 02:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/mikel-arteta-070426-01-1775508438.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kompany undecided on Kane vs Real]]></title>
+            <description><![CDATA[[Sport] Kompany undecided on Kane vs Real]]></description>
+            <link>https://bdnews24.com/sport/53f01ddbf66e</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/53f01ddbf66e</guid>
+            <pubDate>Tue, 07 Apr 2026 02:45:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/harry-kane-070426-01-1775508234.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[SoFi workers urge FIFA to bar ICE]]></title>
+            <description><![CDATA[[Sport] SoFi workers urge FIFA to bar ICE]]></description>
+            <link>https://bdnews24.com/sport/57f9704d0e90</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/57f9704d0e90</guid>
+            <pubDate>Tue, 07 Apr 2026 02:41:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/sofi-stadium-070426-01-1775508107.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Europe braces as US threatens NATO exit]]></title>
             <description><![CDATA[[World] Europe braces as US threatens NATO exit]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/media-en/image/82f01b2a3cdd</guid>
             <pubDate>Mon, 06 Apr 2026 21:46:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/tarique-rahman-pranay-kumar-verma-060426-002-1775465904.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[GDP growth falters in Q2]]></title>
-            <description><![CDATA[[Economy] GDP growth falters in Q2]]></description>
-            <link>https://bdnews24.com/economy/c3eb11f9ec3c</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/c3eb11f9ec3c</guid>
-            <pubDate>Mon, 06 Apr 2026 21:42:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-05/a18f1583-e7e6-46f8-84f5-9de1b2e92af2/may_day_labourers_010523_01.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ghorashal-Polash urea plant back online]]></title>
-            <description><![CDATA[[Bangladesh] Ghorashal-Polash urea plant back online]]></description>
-            <link>https://bdnews24.com/bangladesh/9c004f15c167</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9c004f15c167</guid>
-            <pubDate>Mon, 06 Apr 2026 21:42:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/narsingdi-shar-karkhana-040626-01-1775487880.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran chooses end to war over ceasefire: IRNA]]></title>
-            <description><![CDATA[[World] Iran chooses end to war over ceasefire: IRNA]]></description>
-            <link>https://bdnews24.com/world/407da2dc1c8f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/407da2dc1c8f</guid>
-            <pubDate>Mon, 06 Apr 2026 21:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-rejects-ceasefire-06042026-01-1775488997.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
