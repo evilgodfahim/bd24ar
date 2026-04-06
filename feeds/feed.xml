@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Apr 2026 16:33:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 17:35:21 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Apr 2026 16:33:25 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 17:35:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Artemis II begins orbit of Moon’s far side]]></title>
+            <description><![CDATA[[Science] Artemis II begins orbit of Moon’s far side]]></description>
+            <link>https://bdnews24.com/science/eb5a9be7bb6c</link>
+            <guid isPermaLink="true">https://bdnews24.com/science/eb5a9be7bb6c</guid>
+            <pubDate>Mon, 06 Apr 2026 23:34:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/artemis-orion-060426-01-1775493970.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Producers ‘worried’ over early cinema closure]]></title>
+            <description><![CDATA[[Entertainment] Producers ‘worried’ over early cinema closure]]></description>
+            <link>https://bdnews24.com/entertainment/78218acab84f</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/78218acab84f</guid>
+            <pubDate>Mon, 06 Apr 2026 23:31:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/eid-movie-060426-01-1775484866.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hormuz closure splits Middle East oil fortunes]]></title>
+            <description><![CDATA[[World] Hormuz closure splits Middle East oil fortunes]]></description>
+            <link>https://bdnews24.com/world/1c27b9180886</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/1c27b9180886</guid>
+            <pubDate>Mon, 06 Apr 2026 23:28:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/hormuz-closure-me-fortunes-06042026-01-1775496449.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[120kg of medicines found in passenger luggage at Dhaka airport]]></title>
+            <description><![CDATA[[Bangladesh] 120kg of medicines found in passenger luggage at Dhaka airport]]></description>
+            <link>https://bdnews24.com/bangladesh/7fd9290b400e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7fd9290b400e</guid>
+            <pubDate>Mon, 06 Apr 2026 23:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/shahjalal-airport-060426-01-1775488533.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oil edges up in choppy trade]]></title>
+            <description><![CDATA[[Business] Oil edges up in choppy trade]]></description>
+            <link>https://bdnews24.com/business/262688927a14</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/262688927a14</guid>
+            <pubDate>Mon, 06 Apr 2026 23:01:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/oil-trade-060426-01-1775494823.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[DCCI seeks 6-month window for loan defaults]]></title>
+            <description><![CDATA[[Business] DCCI seeks 6-month window for loan defaults]]></description>
+            <link>https://bdnews24.com/business/44312652bf56</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/44312652bf56</guid>
+            <pubDate>Mon, 06 Apr 2026 22:37:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/dcci-bank-060426-1775489644.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Arbeloa wants Champions League response vs Bayern]]></title>
             <description><![CDATA[[Sport] Arbeloa wants Champions League response vs Bayern]]></description>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/b30ef0be459d</guid>
             <pubDate>Mon, 06 Apr 2026 20:20:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/rs-fahim-060426-1775472343.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[58-day fishing ban in Bay from Apr 15]]></title>
-            <description><![CDATA[[Bangladesh] 58-day fishing ban in Bay from Apr 15]]></description>
-            <link>https://bdnews24.com/bangladesh/1c75beaed1cb</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1c75beaed1cb</guid>
-            <pubDate>Mon, 06 Apr 2026 20:10:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024August/SM/101-hilsha-chittagong-150916-1724210515.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ECNEC clears 5 revised projects]]></title>
-            <description><![CDATA[[Bangladesh] ECNEC clears 5 revised projects]]></description>
-            <link>https://bdnews24.com/bangladesh/b674fdb35ae7</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b674fdb35ae7</guid>
-            <pubDate>Mon, 06 Apr 2026 19:48:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/ecnec-meeting-postponed-060426-01-1775463707.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles: 5 deaths, 180 cases in 24 hours]]></title>
-            <description><![CDATA[[Health] Measles: 5 deaths, 180 cases in 24 hours]]></description>
-            <link>https://bdnews24.com/health/8ca83d7e6c61</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/8ca83d7e6c61</guid>
-            <pubDate>Mon, 06 Apr 2026 19:42:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/barishal-measles-situation-310326-01-1774972353.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Assistant AG Abdul Hasan sacked]]></title>
-            <description><![CDATA[[Bangladesh] Assistant AG Abdul Hasan sacked]]></description>
-            <link>https://bdnews24.com/bangladesh/c699148ed7b2</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c699148ed7b2</guid>
-            <pubDate>Mon, 06 Apr 2026 19:18:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/high-court-mm-180516-0008-100-1775126771.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles surge linked to past failures: minister]]></title>
-            <description><![CDATA[[Health] Measles surge linked to past failures: minister]]></description>
-            <link>https://bdnews24.com/health/c0d1a7b0968c</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/c0d1a7b0968c</guid>
-            <pubDate>Mon, 06 Apr 2026 19:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/chattogram-medical-measles-corner-300326-03-1774973400.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No plans for online classes yet: state minister]]></title>
-            <description><![CDATA[[Bangladesh] No plans for online classes yet: state minister]]></description>
-            <link>https://bdnews24.com/bangladesh/3797855fa8c7</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3797855fa8c7</guid>
-            <pubDate>Mon, 06 Apr 2026 18:59:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/bobi-hazzaz-briefing-06042026-1775477687.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
