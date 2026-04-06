@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Apr 2026 04:33:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 06:23:08 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Apr 2026 04:33:31 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 06:23:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Public holiday in 3 hill districts for Chaitra Sankranti]]></title>
+            <description><![CDATA[[Bangladesh] Public holiday in 3 hill districts for Chaitra Sankranti]]></description>
+            <link>https://bdnews24.com/bangladesh/a7cc99d2bf58</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a7cc99d2bf58</guid>
+            <pubDate>Mon, 06 Apr 2026 12:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/khagrachari-new-year-060426-01-1775452819.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Narsingdi Hospital building incomplete after 8 years]]></title>
+            <description><![CDATA[[Bangladesh] New Narsingdi Hospital building incomplete after 8 years]]></description>
+            <link>https://bdnews24.com/bangladesh/3dafe0826878</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3dafe0826878</guid>
+            <pubDate>Mon, 06 Apr 2026 10:58:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/narsingdi-hospital-050426-01-1775446070.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Silva to exit Man City at end of season]]></title>
             <description><![CDATA[[Sport] Silva to exit Man City at end of season]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/32f1f5a7ce50</guid>
             <pubDate>Mon, 06 Apr 2026 01:03:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/secretariate-tarew-rahman-250623-00-1774436789.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka bus counters get 7 days to relocate]]></title>
-            <description><![CDATA[[Bangladesh] Dhaka bus counters get 7 days to relocate]]></description>
-            <link>https://bdnews24.com/bangladesh/3e8beb1e2f3b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3e8beb1e2f3b</guid>
-            <pubDate>Mon, 06 Apr 2026 01:01:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025March/SM/dakha-eidjatra-280325-12-1743168722.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Reform dream meets political reality]]></title>
-            <description><![CDATA[[Bangladesh] Reform dream meets political reality]]></description>
-            <link>https://bdnews24.com/bangladesh/1e2c72d13e11</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1e2c72d13e11</guid>
-            <pubDate>Mon, 06 Apr 2026 00:10:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025October/SM/concensus-commission-report-281025-03-1761655608.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
