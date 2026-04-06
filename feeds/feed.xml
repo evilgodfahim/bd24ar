@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Apr 2026 10:50:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 11:39:18 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Apr 2026 10:50:50 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 11:39:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Ex-Jubo Dal leader accuses Hasina of ‘disappearance’]]></title>
+            <description><![CDATA[[Bangladesh] Ex-Jubo Dal leader accuses Hasina of ‘disappearance’]]></description>
+            <link>https://bdnews24.com/bangladesh/a410382996b3</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a410382996b3</guid>
+            <pubDate>Mon, 06 Apr 2026 17:32:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/pm-ssf-1775469429.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brutal battles beckon in final season of ‘The Boys’]]></title>
+            <description><![CDATA[[Entertainment] Brutal battles beckon in final season of ‘The Boys’]]></description>
+            <link>https://bdnews24.com/entertainment/47e1e05fd587</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/47e1e05fd587</guid>
+            <pubDate>Mon, 06 Apr 2026 17:20:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/the-boys-series-6426-1775474367.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shops, malls open until 7pm as govt eases curbs]]></title>
+            <description><![CDATA[[Bangladesh] Shops, malls open until 7pm as govt eases curbs]]></description>
+            <link>https://bdnews24.com/bangladesh/8e41ad1a3ee6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8e41ad1a3ee6</guid>
+            <pubDate>Mon, 06 Apr 2026 17:19:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/new-market-030426-003-1775231073.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[IRGC intel chief killed in strike: media]]></title>
+            <description><![CDATA[[World] IRGC intel chief killed in strike: media]]></description>
+            <link>https://bdnews24.com/world/f6f2bf1d4e4c</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/f6f2bf1d4e4c</guid>
+            <pubDate>Mon, 06 Apr 2026 17:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/irgc-intilligence-chief-killed-060426-1775466631.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Infant with measles symptoms dies in Sylhet]]></title>
+            <description><![CDATA[[Bangladesh] Infant with measles symptoms dies in Sylhet]]></description>
+            <link>https://bdnews24.com/bangladesh/41e54088f36b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/41e54088f36b</guid>
+            <pubDate>Mon, 06 Apr 2026 17:01:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2024-03/dd238fa6-6984-468e-b54a-cbe1faf03ccd/sylhet_osmani_medical_070324_01.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Middle East is 'on fire': Kremlin]]></title>
+            <description><![CDATA[[Middle East] Middle East is 'on fire': Kremlin]]></description>
+            <link>https://bdnews24.com/world/middle-east/6f938295acf3</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/6f938295acf3</guid>
+            <pubDate>Mon, 06 Apr 2026 16:57:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/strike-uae-1426-1775041724.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[FBCCI against Taka depreciation]]></title>
             <description><![CDATA[[Economy] FBCCI against Taka depreciation]]></description>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/6d42843c517b</guid>
             <pubDate>Mon, 06 Apr 2026 13:16:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/nkorea-kim-ju-ae-060426-01-1775459720.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Middle East war: Body of another Bangladeshi expatriate returns]]></title>
-            <description><![CDATA[[Bangladesh] Middle East war: Body of another Bangladeshi expatriate returns]]></description>
-            <link>https://bdnews24.com/bangladesh/2bac81f19120</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2bac81f19120</guid>
-            <pubDate>Mon, 06 Apr 2026 13:11:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/abdullah-al-mamun-deadbody-060426-011-1775459128.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hormuz must be guaranteed in any US-Iran deal: UAE]]></title>
-            <description><![CDATA[[Middle East] Hormuz must be guaranteed in any US-Iran deal: UAE]]></description>
-            <link>https://bdnews24.com/world/middle-east/683bcc36b8b0</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/683bcc36b8b0</guid>
-            <pubDate>Mon, 06 Apr 2026 12:58:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/strait-of-hormuz-060426-01-1775458701.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bogura man beaten to death]]></title>
-            <description><![CDATA[[Bangladesh] Bogura man beaten to death]]></description>
-            <link>https://bdnews24.com/bangladesh/4d98d8059add</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4d98d8059add</guid>
-            <pubDate>Mon, 06 Apr 2026 12:53:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/bogra-murder-060426-01-1775454747.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PM Tarique meets with Indian high commissioner]]></title>
-            <description><![CDATA[[Bangladesh] PM Tarique meets with Indian high commissioner]]></description>
-            <link>https://bdnews24.com/bangladesh/2ef5295a8712</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2ef5295a8712</guid>
-            <pubDate>Mon, 06 Apr 2026 12:32:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/tarique-verma-6426-1775457054.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bengaluru's six-hitting machine David hits the roof]]></title>
-            <description><![CDATA[[Cricket] Bengaluru's six-hitting machine David hits the roof]]></description>
-            <link>https://bdnews24.com/cricket/c06400b0e019</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/c06400b0e019</guid>
-            <pubDate>Mon, 06 Apr 2026 12:30:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/cric-ipl-6426-1775457010.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Public holiday in 3 hill districts for Chaitra Sankranti]]></title>
-            <description><![CDATA[[Bangladesh] Public holiday in 3 hill districts for Chaitra Sankranti]]></description>
-            <link>https://bdnews24.com/bangladesh/a7cc99d2bf58</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a7cc99d2bf58</guid>
-            <pubDate>Mon, 06 Apr 2026 12:03:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/khagrachari-new-year-060426-01-1775452819.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
