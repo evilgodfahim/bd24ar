@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 19:47:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 20:33:28 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Apr 2026 19:47:44 GMT</pubDate>
+        <pubDate>Tue, 07 Apr 2026 20:33:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Israel, Hezbollah likely behind peacekeeper deaths: UN]]></title>
+            <description><![CDATA[[World] Israel, Hezbollah likely behind peacekeeper deaths: UN]]></description>
+            <link>https://bdnews24.com/world/5f3c109f681c</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/5f3c109f681c</guid>
+            <pubDate>Wed, 08 Apr 2026 02:27:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/un-peacemaker-070426-01-1775593577.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stalwarts or new faces? Parties weigh women’s reserved seat picks]]></title>
+            <description><![CDATA[[Bangladesh] Stalwarts or new faces? Parties weigh women’s reserved seat picks]]></description>
+            <link>https://bdnews24.com/bangladesh/91b30c577541</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/91b30c577541</guid>
+            <pubDate>Wed, 08 Apr 2026 02:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/bnp-women-seat-070426-1775590332.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[US urges Americans to leave Middle East]]></title>
             <description><![CDATA[[World] US urges Americans to leave Middle East]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/education/483288287709</guid>
             <pubDate>Tue, 07 Apr 2026 21:44:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/barishal-education-minister-070426-01-1775569666.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India rules out sugar export curbs, keeps edible oil duties]]></title>
-            <description><![CDATA[[Neighbours] India rules out sugar export curbs, keeps edible oil duties]]></description>
-            <link>https://bdnews24.com/neighbours/15639300daa6</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/15639300daa6</guid>
-            <pubDate>Tue, 07 Apr 2026 21:43:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/india-sugar-export-07042026-01-1775576556.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Warm’ Delhi welcome for Khalilur]]></title>
-            <description><![CDATA[[Bangladesh] ‘Warm’ Delhi welcome for Khalilur]]></description>
-            <link>https://bdnews24.com/bangladesh/9fac2a2c830a</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9fac2a2c830a</guid>
-            <pubDate>Tue, 07 Apr 2026 21:17:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/fm-delhi-070426-1775577861.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
