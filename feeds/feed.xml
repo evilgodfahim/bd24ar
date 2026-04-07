@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 16:02:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 17:45:59 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Apr 2026 16:02:41 GMT</pubDate>
+        <pubDate>Tue, 07 Apr 2026 17:45:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Fuel shortage sparks pump attack in Noakhali]]></title>
+            <description><![CDATA[[Bangladesh] Fuel shortage sparks pump attack in Noakhali]]></description>
+            <link>https://bdnews24.com/bangladesh/46262ef32ac2</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/46262ef32ac2</guid>
+            <pubDate>Tue, 07 Apr 2026 23:44:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/noakhali-oil-clash-070426-01-1775580837.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[26,000 tonnes of octane en route to Ctg]]></title>
+            <description><![CDATA[[Business] 26,000 tonnes of octane en route to Ctg]]></description>
+            <link>https://bdnews24.com/business/60c0e4cb67af</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/60c0e4cb67af</guid>
+            <pubDate>Tue, 07 Apr 2026 23:29:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/central-star-070426-01-1775578303.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tamim vows to restore Bangladesh cricket image]]></title>
+            <description><![CDATA[[Cricket] Tamim vows to restore Bangladesh cricket image]]></description>
+            <link>https://bdnews24.com/cricket/aed9042351c8</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/aed9042351c8</guid>
+            <pubDate>Tue, 07 Apr 2026 23:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/tamim-iqbal-bcb-070426-01-1775577385.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sweden hero Lundgren to miss WC for injury]]></title>
+            <description><![CDATA[[Sport] Sweden hero Lundgren to miss WC for injury]]></description>
+            <link>https://bdnews24.com/sport/7e7ec2cbb0f0</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/7e7ec2cbb0f0</guid>
+            <pubDate>Tue, 07 Apr 2026 22:38:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/gustav-lundgren-miss-wc-07042026-01-1775579872.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[China, Russia veto UN resolution on protecting Hormuz shipping]]></title>
+            <description><![CDATA[[World] China, Russia veto UN resolution on protecting Hormuz shipping]]></description>
+            <link>https://bdnews24.com/world/984b3dd7db82</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/984b3dd7db82</guid>
+            <pubDate>Tue, 07 Apr 2026 22:24:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/unsc-07042026-1775578993.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Favourites tag means nothing: Luis Enrique]]></title>
+            <description><![CDATA[[Sport] Favourites tag means nothing: Luis Enrique]]></description>
+            <link>https://bdnews24.com/sport/4ceeeff72b36</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/4ceeeff72b36</guid>
+            <pubDate>Tue, 07 Apr 2026 22:20:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/favourite-tag-enrique-07042026-01-1775578763.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Aviation operators seek tax waivers on jet fuel]]></title>
+            <description><![CDATA[[Business] Aviation operators seek tax waivers on jet fuel]]></description>
+            <link>https://bdnews24.com/business/c8ccc8a878f0</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/c8ccc8a878f0</guid>
+            <pubDate>Tue, 07 Apr 2026 22:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/jet-fuel-240326-01-1774346831.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Entrepreneurship, jobs rise, capital remains scarce: study]]></title>
             <description><![CDATA[[Bangladesh] Entrepreneurship, jobs rise, capital remains scarce: study]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/8c5cc38979ce</guid>
             <pubDate>Tue, 07 Apr 2026 20:20:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/maguire-extend-utd-contract-07042026-01-1775571570.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hilsa production dips in Bangladesh]]></title>
-            <description><![CDATA[[Bangladesh] Hilsa production dips in Bangladesh]]></description>
-            <link>https://bdnews24.com/bangladesh/f55344fd6f6c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f55344fd6f6c</guid>
-            <pubDate>Tue, 07 Apr 2026 20:17:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/chandpur-minister-070426-01-1775564821.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[NBR opens online verification of import invoices]]></title>
-            <description><![CDATA[[Business] NBR opens online verification of import invoices]]></description>
-            <link>https://bdnews24.com/business/1d0c06b693f5</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/1d0c06b693f5</guid>
-            <pubDate>Tue, 07 Apr 2026 20:17:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025March/SM/nbr-building-agargaon-190125-008-1741790723.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Enter Tamim, exit Bulbul in BCB shake-up]]></title>
-            <description><![CDATA[[Sport] Enter Tamim, exit Bulbul in BCB shake-up]]></description>
-            <link>https://bdnews24.com/sport/68464bb5b198</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/68464bb5b198</guid>
-            <pubDate>Tue, 07 Apr 2026 20:07:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/tamim-iqbal-bcb-070426-1775568329.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Biman appoints new MD, deputy]]></title>
-            <description><![CDATA[[Bangladesh] Biman appoints new MD, deputy]]></description>
-            <link>https://bdnews24.com/bangladesh/f75727d96875</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f75727d96875</guid>
-            <pubDate>Tue, 07 Apr 2026 19:52:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-03/72eec206-4778-419b-a24d-a448205540f7/balaka_bhaban_251021_01.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Courtroom furore amid Shirin Sharmin’s hearing]]></title>
-            <description><![CDATA[[Bangladesh] Courtroom furore amid Shirin Sharmin’s hearing]]></description>
-            <link>https://bdnews24.com/bangladesh/5143396548d5</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5143396548d5</guid>
-            <pubDate>Tue, 07 Apr 2026 19:38:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/shirin-sharmin-chowdhury-070426-03-1775567878.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran awaits FIFA reply on WC venue switch]]></title>
-            <description><![CDATA[[Sport] Iran awaits FIFA reply on WC venue switch]]></description>
-            <link>https://bdnews24.com/sport/3729481c90a0</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/3729481c90a0</guid>
-            <pubDate>Tue, 07 Apr 2026 19:30:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-fifa-venue-switch-07042026-01-1775568614.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Flying to be costlier as jet fuel prices up again]]></title>
-            <description><![CDATA[[Bangladesh] Flying to be costlier as jet fuel prices up again]]></description>
-            <link>https://bdnews24.com/bangladesh/8bdf60b3aa9c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8bdf60b3aa9c</guid>
-            <pubDate>Tue, 07 Apr 2026 19:14:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026January/SM/biman-dreamliner-787-030921-001-1767806977.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
