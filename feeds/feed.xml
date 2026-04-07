@@ -4,13 +4,69 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 08:03:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 09:56:13 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Apr 2026 08:03:56 GMT</pubDate>
+        <pubDate>Tue, 07 Apr 2026 09:56:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[IEA chief: energy crisis worst on record]]></title>
-            <description><![CDATA[[World] IEA chief: energy crisis worst on record]]></description>
+            <title><![CDATA[Vance visits Hungary to boost Orban before election]]></title>
+            <description><![CDATA[[World] Vance visits Hungary to boost Orban before election]]></description>
+            <link>https://bdnews24.com/world/0ac35d6acbb7</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/0ac35d6acbb7</guid>
+            <pubDate>Tue, 07 Apr 2026 15:52:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/jd-vance-hungary-070426-01-1775555496.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[April 7, 2026]]></title>
+            <description><![CDATA[[Image] April 7, 2026]]></description>
+            <link>https://bdnews24.com/media-en/image/25d238509ab9</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/25d238509ab9</guid>
+            <pubDate>Tue, 07 Apr 2026 15:49:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/shirin-sharmin-chowdhury-070426-03-1775554601.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jamaat-led alliance announce 4-day programme]]></title>
+            <description><![CDATA[[Bangladesh] Jamaat-led alliance announce 4-day programme]]></description>
+            <link>https://bdnews24.com/bangladesh/79ec1e6c85aa</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/79ec1e6c85aa</guid>
+            <pubDate>Tue, 07 Apr 2026 15:21:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/jamaat-jote-press-conference-070426-01-1775552061.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ICT issues arrest warrants for Hasan Mahmud, Nowfel]]></title>
+            <description><![CDATA[[Bangladesh] ICT issues arrest warrants for Hasan Mahmud, Nowfel]]></description>
+            <link>https://bdnews24.com/bangladesh/c5c57741d314</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c5c57741d314</guid>
+            <pubDate>Tue, 07 Apr 2026 15:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024July/SM/ctg-killed-wasim-pic-160724-1721143344.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine accuses Russia of aiding Iran war effort]]></title>
+            <description><![CDATA[[THE LONG READ] Ukraine accuses Russia of aiding Iran war effort]]></description>
+            <link>https://bdnews24.com/the-long-read/4c240692e34c</link>
+            <guid isPermaLink="true">https://bdnews24.com/the-long-read/4c240692e34c</guid>
+            <pubDate>Tue, 07 Apr 2026 15:11:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/russia-flags-iran-tensions-19022026-01-1771512330.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police petition to question ex-speaker Shirin in custody]]></title>
+            <description><![CDATA[[Bangladesh] Police petition to question ex-speaker Shirin in custody]]></description>
+            <link>https://bdnews24.com/bangladesh/728b217d45ac</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/728b217d45ac</guid>
+            <pubDate>Tue, 07 Apr 2026 15:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/shirin-sharmin-chowdhury-070426-01-1775549960.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tk 46.84bn allocated to combat COVID-19 pandemic so far: health minister]]></title>
+            <description><![CDATA[[Bangladesh] Tk 46.84bn allocated to combat COVID-19 pandemic so far: health minister]]></description>
+            <link>https://bdnews24.com/bangladesh/b4dabbefb0af</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b4dabbefb0af</guid>
+            <pubDate>Tue, 07 Apr 2026 14:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/covid-19-vaccine-020121-01-1775547778.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Energy crisis worst on record: IEA chief]]></title>
+            <description><![CDATA[[World] Energy crisis worst on record: IEA chief]]></description>
             <link>https://bdnews24.com/world/4d97e0e3d6fe</link>
             <guid isPermaLink="true">https://bdnews24.com/world/4d97e0e3d6fe</guid>
             <pubDate>Tue, 07 Apr 2026 13:57:00 GMT</pubDate>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/entertainment/9e2c440669d4</guid>
             <pubDate>Tue, 07 Apr 2026 10:33:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/netflix-logo-270326-01-1774589210.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pressure mounts on UK govt to ban Kanye West]]></title>
-            <description><![CDATA[[Entertainment] Pressure mounts on UK govt to ban Kanye West]]></description>
-            <link>https://bdnews24.com/entertainment/526735ec2e2e</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/526735ec2e2e</guid>
-            <pubDate>Tue, 07 Apr 2026 10:20:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/keyne-west-1775535622.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Asian airlines trim schedules, carry extra fuel]]></title>
-            <description><![CDATA[[Aviation] Asian airlines trim schedules, carry extra fuel]]></description>
-            <link>https://bdnews24.com/aviation/b7cf089ded32</link>
-            <guid isPermaLink="true">https://bdnews24.com/aviation/b7cf089ded32</guid>
-            <pubDate>Tue, 07 Apr 2026 10:18:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/asian-airlines-7426-1775535382.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UN expected to vote on Hormuz resolution Tuesday]]></title>
-            <description><![CDATA[[Middle East] UN expected to vote on Hormuz resolution Tuesday]]></description>
-            <link>https://bdnews24.com/world/middle-east/2382df42fe2f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/2382df42fe2f</guid>
-            <pubDate>Tue, 07 Apr 2026 10:15:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/strait-of-hormuz-060426-01-1775458701.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[China's Xi urges faster development of new energy system]]></title>
-            <description><![CDATA[[World] China's Xi urges faster development of new energy system]]></description>
-            <link>https://bdnews24.com/world/4db73c949b4d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/4db73c949b4d</guid>
-            <pubDate>Tue, 07 Apr 2026 10:12:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/china-xi-energy-060426-01-1775535062.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israeli airstrike kills 10 near Gaza school]]></title>
-            <description><![CDATA[[Middle East] Israeli airstrike kills 10 near Gaza school]]></description>
-            <link>https://bdnews24.com/world/middle-east/4b89398bfb8a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/4b89398bfb8a</guid>
-            <pubDate>Tue, 07 Apr 2026 10:08:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/gaza-strike-7426-1775534770.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Russia plant accident toll hits 12]]></title>
-            <description><![CDATA[[Europe] Russia plant accident toll hits 12]]></description>
-            <link>https://bdnews24.com/world/europe/aea646d115f2</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/aea646d115f2</guid>
-            <pubDate>Tue, 07 Apr 2026 10:01:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/russia-plant-fire-death-toll-060426-01-1775534385.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vietnam's top leader To Lam consolidates power]]></title>
-            <description><![CDATA[[South-East Asia] Vietnam's top leader To Lam consolidates power]]></description>
-            <link>https://bdnews24.com/world/south-east-asia/245a5473d354</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/south-east-asia/245a5473d354</guid>
-            <pubDate>Tue, 07 Apr 2026 09:58:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026January/SM/lam-20126-1768878902.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
