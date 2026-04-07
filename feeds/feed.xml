@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 18:43:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 19:47:44 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Apr 2026 18:43:22 GMT</pubDate>
+        <pubDate>Tue, 07 Apr 2026 19:47:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US urges Americans to leave Middle East]]></title>
+            <description><![CDATA[[World] US urges Americans to leave Middle East]]></description>
+            <link>https://bdnews24.com/world/7fedd61e227e</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/7fedd61e227e</guid>
+            <pubDate>Wed, 08 Apr 2026 01:44:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-americans-leave-middleeast-080426-01-1775590988.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sales drop ‘up to 30%’ after 7pm store closure]]></title>
+            <description><![CDATA[[Business] Sales drop ‘up to 30%’ after 7pm store closure]]></description>
+            <link>https://bdnews24.com/business/47d049f2d71c</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/47d049f2d71c</guid>
+            <pubDate>Wed, 08 Apr 2026 01:38:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/mouchak-market-070426-01-1775586923.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bulbul declares himself ‘only legitimate BCB chief’]]></title>
+            <description><![CDATA[[Cricket] Bulbul declares himself ‘only legitimate BCB chief’]]></description>
+            <link>https://bdnews24.com/cricket/305b7389e24f</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/305b7389e24f</guid>
+            <pubDate>Wed, 08 Apr 2026 01:18:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/aminul-bcb-070426-1775582395.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fuel prices may rise for months despite Hormuz reopening: US EIA]]></title>
+            <description><![CDATA[[World] Fuel prices may rise for months despite Hormuz reopening: US EIA]]></description>
+            <link>https://bdnews24.com/world/84efc8b22b6d</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/84efc8b22b6d</guid>
+            <pubDate>Wed, 08 Apr 2026 01:06:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iraq-hormuz-exemption-schedule-060426-01-1775447593.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Bar Council polls on May 19]]></title>
             <description><![CDATA[[Bangladesh] Bar Council polls on May 19]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/9fac2a2c830a</guid>
             <pubDate>Tue, 07 Apr 2026 21:17:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/fm-delhi-070426-1775577861.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Partisan appointments dominate BB, universities: Rumeen]]></title>
-            <description><![CDATA[[Bangladesh] Partisan appointments dominate BB, universities: Rumeen]]></description>
-            <link>https://bdnews24.com/bangladesh/417f2d54132c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/417f2d54132c</guid>
-            <pubDate>Tue, 07 Apr 2026 21:07:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/rumin-farhana-070426-1775572967.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[French nationals released from Iran: Macron]]></title>
-            <description><![CDATA[[World] French nationals released from Iran: Macron]]></description>
-            <link>https://bdnews24.com/world/642355be557c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/642355be557c</guid>
-            <pubDate>Tue, 07 Apr 2026 20:48:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/french-nationals-released-07042026-01-1775572991.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[DNCC moves to clear footpaths as pedestrian deaths rise]]></title>
-            <description><![CDATA[[Bangladesh] DNCC moves to clear footpaths as pedestrian deaths rise]]></description>
-            <link>https://bdnews24.com/bangladesh/d030c6bf3977</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d030c6bf3977</guid>
-            <pubDate>Tue, 07 Apr 2026 20:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/footpath-eviction-dhaka-060426-05-1775416426.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4 killed in Manipur violence]]></title>
-            <description><![CDATA[[Neighbours] 4 killed in Manipur violence]]></description>
-            <link>https://bdnews24.com/neighbours/60e3992e4de2</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/60e3992e4de2</guid>
-            <pubDate>Tue, 07 Apr 2026 20:25:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/4-dead-manipur-07042026-01-1775571876.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
