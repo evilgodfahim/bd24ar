@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 17:56:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 19:02:00 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Apr 2026 17:56:32 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 19:02:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Women’s sports to hit $3bn in 2026]]></title>
+            <description><![CDATA[[Sport] Women’s sports to hit $3bn in 2026]]></description>
+            <link>https://bdnews24.com/sport/1d086b178e02</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/1d086b178e02</guid>
+            <pubDate>Thu, 09 Apr 2026 00:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/women-sport-080426-01-1775673972.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Leicester's six-point deduction upheld]]></title>
+            <description><![CDATA[[Sport] Leicester's six-point deduction upheld]]></description>
+            <link>https://bdnews24.com/sport/c58e735a9f1a</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/c58e735a9f1a</guid>
+            <pubDate>Thu, 09 Apr 2026 00:41:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/leicester-worldwide-1775673682.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wealthy nations slash foreign aid for second year: debt group]]></title>
+            <description><![CDATA[[World] Wealthy nations slash foreign aid for second year: debt group]]></description>
+            <link>https://bdnews24.com/world/5ac0e5486b3c</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/5ac0e5486b3c</guid>
+            <pubDate>Thu, 09 Apr 2026 00:11:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/kenya-080426-01-1775671836.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Child freedom fighter’ status sought for Tarique]]></title>
+            <description><![CDATA[[Bangladesh] ‘Child freedom fighter’ status sought for Tarique]]></description>
+            <link>https://bdnews24.com/bangladesh/d2eeb494405c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d2eeb494405c</guid>
+            <pubDate>Thu, 09 Apr 2026 00:01:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/khaleda-tarique-koko-080426-01-1775658221.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[US-Iran will talk behind closed doors: Trump]]></title>
             <description><![CDATA[[World] US-Iran will talk behind closed doors: Trump]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/ea39fee4a858</guid>
             <pubDate>Wed, 08 Apr 2026 20:23:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/oath-preparing-parliament-house-150226-017-1771155489.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt to import 300,000 more tonnes of diesel]]></title>
-            <description><![CDATA[[Business] Govt to import 300,000 more tonnes of diesel]]></description>
-            <link>https://bdnews24.com/business/5061d87f253e</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/5061d87f253e</guid>
-            <pubDate>Wed, 08 Apr 2026 20:14:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/ctg-pic-of-oil-ship030426-1775228894.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Iranian attacks’ damage Saudi oil pipeline]]></title>
-            <description><![CDATA[[World] ‘Iranian attacks’ damage Saudi oil pipeline]]></description>
-            <link>https://bdnews24.com/world/556fe8637979</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/556fe8637979</guid>
-            <pubDate>Wed, 08 Apr 2026 20:11:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/saudi-aramco-030326-01-1772546067.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Students to get SSC admit cards by Apr 13]]></title>
-            <description><![CDATA[[Education] Students to get SSC admit cards by Apr 13]]></description>
-            <link>https://bdnews24.com/education/112918397895</link>
-            <guid isPermaLink="true">https://bdnews24.com/education/112918397895</guid>
-            <pubDate>Wed, 08 Apr 2026 19:42:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-02/ca0f6220-6c87-40a8-992d-89bb7627d04b/ssc_exam_motijhil_ideal_school_150922_20.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US to work with Iran, review sanctions: Trump]]></title>
-            <description><![CDATA[[World] US to work with Iran, review sanctions: Trump]]></description>
-            <link>https://bdnews24.com/world/61f3d45f190c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/61f3d45f190c</guid>
-            <pubDate>Wed, 08 Apr 2026 19:35:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-ceasefire-08042026-1775655280.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
