@@ -4,13 +4,85 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 08:05:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 09:56:31 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Apr 2026 08:05:09 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 09:56:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Fire Service looks for source of smoke at Green Life Hospital]]></title>
-            <description><![CDATA[[Bangladesh] Fire Service looks for source of smoke at Green Life Hospital]]></description>
+            <title><![CDATA[3 more children die of ‘measles’ in Rajshahi]]></title>
+            <description><![CDATA[[Health] 3 more children die of ‘measles’ in Rajshahi]]></description>
+            <link>https://bdnews24.com/health/cae9db74b13e</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/cae9db74b13e</guid>
+            <pubDate>Wed, 08 Apr 2026 15:56:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/rajshahi-ham-080426-01-1775639465.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rumeen vocal against measles deaths, scarce vaccines in parliament]]></title>
+            <description><![CDATA[[Bangladesh] Rumeen vocal against measles deaths, scarce vaccines in parliament]]></description>
+            <link>https://bdnews24.com/bangladesh/1cc2d32cc176</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1cc2d32cc176</guid>
+            <pubDate>Wed, 08 Apr 2026 15:51:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/rumeen-farhana-080426-01-1775641046.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lebanon not part of truce: Netanyahu]]></title>
+            <description><![CDATA[[Middle East] Lebanon not part of truce: Netanyahu]]></description>
+            <link>https://bdnews24.com/world/middle-east/68cb9ef0bbd9</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/68cb9ef0bbd9</guid>
+            <pubDate>Wed, 08 Apr 2026 15:35:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/netanyahu-8426-1775640871.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rain, Nor’westers likely in 8 divisions]]></title>
+            <description><![CDATA[[Bangladesh] Rain, Nor’westers likely in 8 divisions]]></description>
+            <link>https://bdnews24.com/bangladesh/5b5be0475491</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5b5be0475491</guid>
+            <pubDate>Wed, 08 Apr 2026 15:15:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/2024-04/404af0b0-0649-4f28-9cc9-adc8ec47cbe2/Wind_gust_dhaka_university_160424_09.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Benapole cargo handling halted after worker death]]></title>
+            <description><![CDATA[[Bangladesh] Benapole cargo handling halted after worker death]]></description>
+            <link>https://bdnews24.com/bangladesh/81d15216376c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/81d15216376c</guid>
+            <pubDate>Wed, 08 Apr 2026 15:11:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/jeshore-benapole-port-070426-01-1775585299.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ban on AL stays as Anti-Terrorism Bill passed]]></title>
+            <description><![CDATA[[Politics] Ban on AL stays as Anti-Terrorism Bill passed]]></description>
+            <link>https://bdnews24.com/politics/18ac6a71e608</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/18ac6a71e608</guid>
+            <pubDate>Wed, 08 Apr 2026 14:57:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025May/SM/road-paint-awami-league-ban-090525-006-1747052755.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Air Force chief meets PM]]></title>
+            <description><![CDATA[[Bangladesh] Air Force chief meets PM]]></description>
+            <link>https://bdnews24.com/bangladesh/d4c06d45dc63</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d4c06d45dc63</guid>
+            <pubDate>Wed, 08 Apr 2026 14:35:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/tareq-rahman-air-080426-01-1775634743.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tulip ‘flat graft’ case ready for trial]]></title>
+            <description><![CDATA[[Politics] Tulip ‘flat graft’ case ready for trial]]></description>
+            <link>https://bdnews24.com/politics/05c3822858cb</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/05c3822858cb</guid>
+            <pubDate>Wed, 08 Apr 2026 14:13:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025January/SM/unnamed-1736872579.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Starmer heads to the Gulf to discuss Hormuz reopening]]></title>
+            <description><![CDATA[[World] Starmer heads to the Gulf to discuss Hormuz reopening]]></description>
+            <link>https://bdnews24.com/world/329f87f589c2</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/329f87f589c2</guid>
+            <pubDate>Wed, 08 Apr 2026 14:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/starmer-8426-1775635835.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Electrical glitch’ caused smoke at Green Life Hospital]]></title>
+            <description><![CDATA[[Bangladesh] ‘Electrical glitch’ caused smoke at Green Life Hospital]]></description>
             <link>https://bdnews24.com/bangladesh/77df81caf7cf</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/77df81caf7cf</guid>
             <pubDate>Wed, 08 Apr 2026 13:44:00 GMT</pubDate>
@@ -95,78 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/business/9ce84a4f6793</guid>
             <pubDate>Wed, 08 Apr 2026 10:19:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/tiktok-logo-080426-01-1775621929.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Havertz gives Arsenal 1-0 lead over Sporting]]></title>
-            <description><![CDATA[[Sport] Havertz gives Arsenal 1-0 lead over Sporting]]></description>
-            <link>https://bdnews24.com/sport/b48b9fdd8faf</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/b48b9fdd8faf</guid>
-            <pubDate>Wed, 08 Apr 2026 10:14:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/ucl-arsenal-sporting-080426-01-1775621631.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bayern seize advantage over Real with 2-1 win]]></title>
-            <description><![CDATA[[Sport] Bayern seize advantage over Real with 2-1 win]]></description>
-            <link>https://bdnews24.com/sport/8aa75ffcb006</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/8aa75ffcb006</guid>
-            <pubDate>Wed, 08 Apr 2026 10:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/real-madrid-bayern-munich-080426-01-1775621345.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taiwan opposition leader pledges reconciliation]]></title>
-            <description><![CDATA[[World] Taiwan opposition leader pledges reconciliation]]></description>
-            <link>https://bdnews24.com/world/f6fa1954454c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/f6fa1954454c</guid>
-            <pubDate>Wed, 08 Apr 2026 10:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/cheng-li-wun-080426-01-1775621018.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Amad backs Carrick for Man Utd top job]]></title>
-            <description><![CDATA[[Sport] Amad backs Carrick for Man Utd top job]]></description>
-            <link>https://bdnews24.com/sport/089e44b5b0ef</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/089e44b5b0ef</guid>
-            <pubDate>Wed, 08 Apr 2026 09:53:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/carrick-man-utd-diallo-080426-01-1775620361.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tamim to represent Bangladesh at ICC, ACC]]></title>
-            <description><![CDATA[[Cricket] Tamim to represent Bangladesh at ICC, ACC]]></description>
-            <link>https://bdnews24.com/cricket/19058c6ab0da</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/19058c6ab0da</guid>
-            <pubDate>Wed, 08 Apr 2026 09:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/tamim-iqbal-bcb-080426-1775615283.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Investor reactions to 2-week Iran ceasefire]]></title>
-            <description><![CDATA[[World] Investor reactions to 2-week Iran ceasefire]]></description>
-            <link>https://bdnews24.com/world/5cd138c37e22</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/5cd138c37e22</guid>
-            <pubDate>Wed, 08 Apr 2026 09:50:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/vietnam-to-lam-china-visit-080426-01-1775620183.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Investor reactions to 2-week Iran ceasefire]]></title>
-            <description><![CDATA[[World] Investor reactions to 2-week Iran ceasefire]]></description>
-            <link>https://bdnews24.com/world/858dc12c8953</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/858dc12c8953</guid>
-            <pubDate>Wed, 08 Apr 2026 09:48:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/investors-business-iran-ceasefire-080426-01-1775620086.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil slides below $100, stocks soar after Iran ceasefire]]></title>
-            <description><![CDATA[[Business] Oil slides below $100, stocks soar after Iran ceasefire]]></description>
-            <link>https://bdnews24.com/business/f3c4028e28b0</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/f3c4028e28b0</guid>
-            <pubDate>Wed, 08 Apr 2026 09:35:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/oil-prices-iran-us-080426-01-1775619274.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[North Korea fires ballistic missiles]]></title>
-            <description><![CDATA[[World] North Korea fires ballistic missiles]]></description>
-            <link>https://bdnews24.com/world/05d7f705b320</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/05d7f705b320</guid>
-            <pubDate>Wed, 08 Apr 2026 09:31:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/north-korea-fires-missiles-080426-01-1775619042.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
