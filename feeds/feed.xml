@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 19:02:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 20:30:26 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Apr 2026 19:02:00 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 20:30:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iran ‘ready’ to surrender enriched uranium: White House]]></title>
+            <description><![CDATA[[World] Iran ‘ready’ to surrender enriched uranium: White House]]></description>
+            <link>https://bdnews24.com/world/da13e688c21a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/da13e688c21a</guid>
+            <pubDate>Thu, 09 Apr 2026 01:53:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/uranium-9426-01-1775677939.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[LPG prices soar beyond official rate]]></title>
+            <description><![CDATA[[Business] LPG prices soar beyond official rate]]></description>
+            <link>https://bdnews24.com/business/159894f73367</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/159894f73367</guid>
+            <pubDate>Thu, 09 Apr 2026 01:32:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026January/SM/rajshahi-lp-gas-080126-03-1767873746.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Measles surge overwhelms Shishu Hospital]]></title>
+            <description><![CDATA[[Health] Measles surge overwhelms Shishu Hospital]]></description>
+            <link>https://bdnews24.com/health/2a6b142ce36c</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/2a6b142ce36c</guid>
+            <pubDate>Thu, 09 Apr 2026 01:23:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/bangladesh-chil-hospital-080426-01-1775670359.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shaky US-Iran ceasefire in doubt]]></title>
+            <description><![CDATA[[World] Shaky US-Iran ceasefire in doubt]]></description>
+            <link>https://bdnews24.com/world/5f07426fa3cb</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/5f07426fa3cb</guid>
+            <pubDate>Thu, 09 Apr 2026 01:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/vance-08042026-02-1775675737.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Italy eyes betting cash to fix football]]></title>
+            <description><![CDATA[[Sport] Italy eyes betting cash to fix football]]></description>
+            <link>https://bdnews24.com/sport/7c4c5e6a4784</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/7c4c5e6a4784</guid>
+            <pubDate>Thu, 09 Apr 2026 01:13:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/gabriele-gravina-030426-01-1775155674.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tamim’s board roles set, cricket operations pending]]></title>
+            <description><![CDATA[[Cricket] Tamim’s board roles set, cricket operations pending]]></description>
+            <link>https://bdnews24.com/cricket/a93cdc65da5f</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/a93cdc65da5f</guid>
+            <pubDate>Thu, 09 Apr 2026 01:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/tamim-bcb-meeting-080426-1775665152.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Women’s sports to hit $3bn in 2026]]></title>
             <description><![CDATA[[Sport] Women’s sports to hit $3bn in 2026]]></description>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/media-en/image/c97121823aa6</guid>
             <pubDate>Wed, 08 Apr 2026 21:33:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/cable-poles-theft-070426-010-1775578561.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka renews request for Hasina’s extradition at Delhi talks]]></title>
-            <description><![CDATA[[Bangladesh] Dhaka renews request for Hasina’s extradition at Delhi talks]]></description>
-            <link>https://bdnews24.com/bangladesh/b09c7d60336e</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b09c7d60336e</guid>
-            <pubDate>Wed, 08 Apr 2026 21:27:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/khalil-jaishankar-meeting-080426-02-1775652614.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[10 more die with measles symptoms]]></title>
-            <description><![CDATA[[Bangladesh] 10 more die with measles symptoms]]></description>
-            <link>https://bdnews24.com/bangladesh/7b764bb87338</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7b764bb87338</guid>
-            <pubDate>Wed, 08 Apr 2026 21:21:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/rajshahi-ham-080426-01-1775639465.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UK shows interest in ground handling at third terminal]]></title>
-            <description><![CDATA[[Business] UK shows interest in ground handling at third terminal]]></description>
-            <link>https://bdnews24.com/business/ed0e11d6f9ce</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/ed0e11d6f9ce</guid>
-            <pubDate>Wed, 08 Apr 2026 21:11:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/rosie-winterton-afroza-khanam-080426-01-1775655660.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BSF ‘sorry’ after killing Bangladeshi]]></title>
-            <description><![CDATA[[Bangladesh] BSF ‘sorry’ after killing Bangladeshi]]></description>
-            <link>https://bdnews24.com/bangladesh/e97370eeb037</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e97370eeb037</guid>
-            <pubDate>Wed, 08 Apr 2026 21:07:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/lamonirhat-border-080426-01-1775624183.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[DU students, DMCH doctors clash]]></title>
-            <description><![CDATA[[Campus] DU students, DMCH doctors clash]]></description>
-            <link>https://bdnews24.com/campus/a366014dfb5f</link>
-            <guid isPermaLink="true">https://bdnews24.com/campus/a366014dfb5f</guid>
-            <pubDate>Wed, 08 Apr 2026 20:59:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/dhaka-medical-clash-080426-03-1775657850.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chief whip warns of action over parliament sound glitch]]></title>
-            <description><![CDATA[[Bangladesh] Chief whip warns of action over parliament sound glitch]]></description>
-            <link>https://bdnews24.com/bangladesh/ea39fee4a858</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ea39fee4a858</guid>
-            <pubDate>Wed, 08 Apr 2026 20:23:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/oath-preparing-parliament-house-150226-017-1771155489.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
