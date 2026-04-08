@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 21:35:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 22:27:51 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Apr 2026 21:35:22 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 22:27:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[PSG beat Liverpool 2-0 in quarter-final first leg]]></title>
+            <description><![CDATA[[Sport] PSG beat Liverpool 2-0 in quarter-final first leg]]></description>
+            <link>https://bdnews24.com/sport/f2b572b09ab5</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/f2b572b09ab5</guid>
+            <pubDate>Thu, 09 Apr 2026 04:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/psg-liverpool-090426-01-1775685565.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Atletico beat 10-man Barca 2-0]]></title>
+            <description><![CDATA[[Sport] Atletico beat 10-man Barca 2-0]]></description>
+            <link>https://bdnews24.com/sport/1599c56f699f</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/1599c56f699f</guid>
+            <pubDate>Thu, 09 Apr 2026 03:58:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/camp-nou-090426-01-1775685444.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Israel’s air raids on Lebanon kill 254]]></title>
             <description><![CDATA[[World] Israel’s air raids on Lebanon kill 254]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/business/45eff0ea6c6c</guid>
             <pubDate>Wed, 08 Apr 2026 22:15:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/trump-80426-01-1775664856.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gulistan pavements back under illegal occupation]]></title>
-            <description><![CDATA[[Image] Gulistan pavements back under illegal occupation]]></description>
-            <link>https://bdnews24.com/media-en/image/1bf91cf439db</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/1bf91cf439db</guid>
-            <pubDate>Wed, 08 Apr 2026 21:55:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/sidewalk-occupy-gulistan-080426-016-1775659191.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[What US, Iran, Israel and Pakistan have said about the ceasefire]]></title>
-            <description><![CDATA[[World] What US, Iran, Israel and Pakistan have said about the ceasefire]]></description>
-            <link>https://bdnews24.com/world/022e4539e404</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/022e4539e404</guid>
-            <pubDate>Wed, 08 Apr 2026 21:39:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/mewar-080426-01-1775662714.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
