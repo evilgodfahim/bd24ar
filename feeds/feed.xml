@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 16:06:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 17:56:32 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Apr 2026 16:06:07 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 17:56:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US-Iran will talk behind closed doors: Trump]]></title>
+            <description><![CDATA[[World] US-Iran will talk behind closed doors: Trump]]></description>
+            <link>https://bdnews24.com/world/77a291307613</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/77a291307613</guid>
+            <pubDate>Wed, 08 Apr 2026 23:35:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-war-protest-08042026-1775669648.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Special security for Bangabandhu family scrapped]]></title>
+            <description><![CDATA[[Bangladesh] Special security for Bangabandhu family scrapped]]></description>
+            <link>https://bdnews24.com/bangladesh/448cadd42113</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/448cadd42113</guid>
+            <pubDate>Wed, 08 Apr 2026 23:19:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024August/SM/hasina-rehana-mujibyear-290824-01-1724926007.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian envoy, PM’s defence advisor discuss military ties]]></title>
+            <description><![CDATA[[Bangladesh] Indian envoy, PM’s defence advisor discuss military ties]]></description>
+            <link>https://bdnews24.com/bangladesh/2023fb9814d8</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2023fb9814d8</guid>
+            <pubDate>Wed, 08 Apr 2026 23:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/adviser-080426-1775664565.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[No import duty for electric school buses]]></title>
+            <description><![CDATA[[Business] No import duty for electric school buses]]></description>
+            <link>https://bdnews24.com/business/4051002b3c16</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/4051002b3c16</guid>
+            <pubDate>Wed, 08 Apr 2026 23:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025February/SM/electric-bus-110225-02-1739286554.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel hits Lebanon with heaviest airstrikes as Hezbollah pauses]]></title>
+            <description><![CDATA[[World] Israel hits Lebanon with heaviest airstrikes as Hezbollah pauses]]></description>
+            <link>https://bdnews24.com/world/4d2d63354acb</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/4d2d63354acb</guid>
+            <pubDate>Wed, 08 Apr 2026 22:48:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/lebanon-80426-01-1775666854.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israeli strikes kill 89 in Lebanon, wound 700]]></title>
+            <description><![CDATA[[World] Israeli strikes kill 89 in Lebanon, wound 700]]></description>
+            <link>https://bdnews24.com/world/41be66d0a7c8</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/41be66d0a7c8</guid>
+            <pubDate>Wed, 08 Apr 2026 22:24:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/lebanon-strike-08042026-01-1775665451.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump vows 50% tariffs on countries arming Iran]]></title>
+            <description><![CDATA[[Business] Trump vows 50% tariffs on countries arming Iran]]></description>
+            <link>https://bdnews24.com/business/45eff0ea6c6c</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/45eff0ea6c6c</guid>
+            <pubDate>Wed, 08 Apr 2026 22:15:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/trump-80426-01-1775664856.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Gulistan pavements back under illegal occupation]]></title>
             <description><![CDATA[[Image] Gulistan pavements back under illegal occupation]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/61f3d45f190c</guid>
             <pubDate>Wed, 08 Apr 2026 19:35:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-ceasefire-08042026-1775655280.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wars impose deep, prolonged economic costs: IMF research]]></title>
-            <description><![CDATA[[Economy] Wars impose deep, prolonged economic costs: IMF research]]></description>
-            <link>https://bdnews24.com/economy/54234e58543b</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/54234e58543b</guid>
-            <pubDate>Wed, 08 Apr 2026 19:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/import/media/2021/10/09/imf-crisis-mission-091021-01.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Khalilur, Jaishankar agree to keep in ‘close touch’]]></title>
-            <description><![CDATA[[Bangladesh] Khalilur, Jaishankar agree to keep in ‘close touch’]]></description>
-            <link>https://bdnews24.com/bangladesh/597a5228470d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/597a5228470d</guid>
-            <pubDate>Wed, 08 Apr 2026 19:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/khalil-jaishankar-meeting-080426-01-1775652569.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warner charged for alleged drunk driving]]></title>
-            <description><![CDATA[[Sport] Warner charged for alleged drunk driving]]></description>
-            <link>https://bdnews24.com/sport/a394c29ae9d7</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/a394c29ae9d7</guid>
-            <pubDate>Wed, 08 Apr 2026 18:54:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/2024-01/fac99dae-a208-407e-b267-353e6561bb9a/Warner_060124_01.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Internet users to face slow speed for 80 hours]]></title>
-            <description><![CDATA[[Bangladesh] Internet users to face slow speed for 80 hours]]></description>
-            <link>https://bdnews24.com/bangladesh/1de60c99fa86</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1de60c99fa86</guid>
-            <pubDate>Wed, 08 Apr 2026 18:44:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/import/media/2021/08/17/internet-cable-170821-01.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka hails Iran ceasefire]]></title>
-            <description><![CDATA[[Bangladesh] Dhaka hails Iran ceasefire]]></description>
-            <link>https://bdnews24.com/bangladesh/bf903e5eb122</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/bf903e5eb122</guid>
-            <pubDate>Wed, 08 Apr 2026 18:43:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-ceasefire-trump-080426-01-1775603053.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hasnat slates ‘unprofessional’ BCB panel]]></title>
-            <description><![CDATA[[Bangladesh] Hasnat slates ‘unprofessional’ BCB panel]]></description>
-            <link>https://bdnews24.com/bangladesh/485d3aaa8e4d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/485d3aaa8e4d</guid>
-            <pubDate>Wed, 08 Apr 2026 18:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/hasnat-abdullah-080426-01-1775650345.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Greece to ban social media for under-15s in 2027]]></title>
-            <description><![CDATA[[Europe] Greece to ban social media for under-15s in 2027]]></description>
-            <link>https://bdnews24.com/world/europe/7b4420e9a939</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/7b4420e9a939</guid>
-            <pubDate>Wed, 08 Apr 2026 18:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/greece-ai-080426-01-1775646272.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
