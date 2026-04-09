@@ -4,13 +4,93 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 11:42:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 12:54:20 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Apr 2026 11:42:53 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 12:54:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[‘Key suspects spared’ in Abu Sayed murder case: father]]></title>
-            <description><![CDATA[[Bangladesh] ‘Key suspects spared’ in Abu Sayed murder case: father]]></description>
+            <title><![CDATA[Can US-Iran talks bridge the nuclear divide?]]></title>
+            <description><![CDATA[[World] Can US-Iran talks bridge the nuclear divide?]]></description>
+            <link>https://bdnews24.com/world/8a382b1b62de</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/8a382b1b62de</guid>
+            <pubDate>Thu, 09 Apr 2026 18:53:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-iran-090426-01-1775739021.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Measles kills 7 more as daily cases hit weekly high]]></title>
+            <description><![CDATA[[Bangladesh] Measles kills 7 more as daily cases hit weekly high]]></description>
+            <link>https://bdnews24.com/bangladesh/eadc7c04cdd6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/eadc7c04cdd6</guid>
+            <pubDate>Thu, 09 Apr 2026 18:46:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/measles-hospital-270326-04-1774640617.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[National award-winning artist Tarun Ghosh dies]]></title>
+            <description><![CDATA[[Glitz] National award-winning artist Tarun Ghosh dies]]></description>
+            <link>https://bdnews24.com/glitz/4bfa4f4f672f</link>
+            <guid isPermaLink="true">https://bdnews24.com/glitz/4bfa4f4f672f</guid>
+            <pubDate>Thu, 09 Apr 2026 18:45:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/tarun-gosh-090426-01-1775732225.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[2 more suspected measles deaths in Barishal]]></title>
+            <description><![CDATA[[Bangladesh] 2 more suspected measles deaths in Barishal]]></description>
+            <link>https://bdnews24.com/bangladesh/53d6dfc8e981</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/53d6dfc8e981</guid>
+            <pubDate>Thu, 09 Apr 2026 18:40:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/barishal-medical-meselss-090426-01-1775735361.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israeli strikes on Lebanon 'make talks meaningless': Iran]]></title>
+            <description><![CDATA[[World] Israeli strikes on Lebanon 'make talks meaningless': Iran]]></description>
+            <link>https://bdnews24.com/world/1a0bfa56f85a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/1a0bfa56f85a</guid>
+            <pubDate>Thu, 09 Apr 2026 18:24:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/pezeshkian-pressure-nuclear-talks-21022026-01-1771692091.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vote counting begins in Sherpur, Bogura]]></title>
+            <description><![CDATA[[Bangladesh] Vote counting begins in Sherpur, Bogura]]></description>
+            <link>https://bdnews24.com/bangladesh/e5bd263e0749</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e5bd263e0749</guid>
+            <pubDate>Thu, 09 Apr 2026 18:23:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/sherpur-3-vote-090426-04-1775733901.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 stabbed over petrol queue in Gaibandha]]></title>
+            <description><![CDATA[[Bangladesh] 3 stabbed over petrol queue in Gaibandha]]></description>
+            <link>https://bdnews24.com/bangladesh/31defd536c8b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/31defd536c8b</guid>
+            <pubDate>Thu, 09 Apr 2026 18:19:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/gaibandha-oil-pump-090426-01-1775735933.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sherpur-3: Jamaat candidate boycotts polls]]></title>
+            <description><![CDATA[[Bangladesh] Sherpur-3: Jamaat candidate boycotts polls]]></description>
+            <link>https://bdnews24.com/bangladesh/e07ffebe774e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e07ffebe774e</guid>
+            <pubDate>Thu, 09 Apr 2026 18:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/sherpur-jamayat-cancle-090426-01-1775730830.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Govt to add 200 Indian broad-gauge coaches]]></title>
+            <description><![CDATA[[Bangladesh] Govt to add 200 Indian broad-gauge coaches]]></description>
+            <link>https://bdnews24.com/bangladesh/08da5f9ca9a3</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/08da5f9ca9a3</guid>
+            <pubDate>Thu, 09 Apr 2026 18:07:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/rail-coach-090426-01-1775731642.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Court orders fresh probe into toll plaza deaths]]></title>
+            <description><![CDATA[[Bangladesh] Court orders fresh probe into toll plaza deaths]]></description>
+            <link>https://bdnews24.com/bangladesh/998567b4f2d9</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/998567b4f2d9</guid>
+            <pubDate>Thu, 09 Apr 2026 17:59:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024December/SM/munshiganj-accident-pic-271224-02-1735289709.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Key suspects shielded’ in Abu Sayed verdict: father]]></title>
+            <description><![CDATA[[Bangladesh] ‘Key suspects shielded’ in Abu Sayed verdict: father]]></description>
             <link>https://bdnews24.com/bangladesh/ac2cefcbdf9c</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/ac2cefcbdf9c</guid>
             <pubDate>Thu, 09 Apr 2026 17:36:00 GMT</pubDate>
@@ -87,86 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/health/1d190c29c0c1</guid>
             <pubDate>Thu, 09 Apr 2026 15:41:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/chandpur-hospital-090426-1775722348.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[50% tariffs on countries supplying Iran arms: Trump]]></title>
-            <description><![CDATA[[Americas] 50% tariffs on countries supplying Iran arms: Trump]]></description>
-            <link>https://bdnews24.com/world/americas/ae249c2da99f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/ae249c2da99f</guid>
-            <pubDate>Thu, 09 Apr 2026 15:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025September/SM/president-trump-110925-01-1757586460.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ex-MP Rumi arrested]]></title>
-            <description><![CDATA[[Bangladesh] Ex-MP Rumi arrested]]></description>
-            <link>https://bdnews24.com/bangladesh/f5b5fd7d08f9</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f5b5fd7d08f9</guid>
-            <pubDate>Thu, 09 Apr 2026 15:10:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/lalmonirhat-ex-mp-arrest-090826-01-1775718238.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Separate questions in public exams ‘not fair’: education minister]]></title>
-            <description><![CDATA[[Bangladesh] Separate questions in public exams ‘not fair’: education minister]]></description>
-            <link>https://bdnews24.com/bangladesh/09f1c9cb8958</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/09f1c9cb8958</guid>
-            <pubDate>Thu, 09 Apr 2026 14:37:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/ehsanul-hoque-milan-090426-01-1775721907.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA['Some' Dhaka schools to have 3 days of online classes a week]]></title>
-            <description><![CDATA[[Education] 'Some' Dhaka schools to have 3 days of online classes a week]]></description>
-            <link>https://bdnews24.com/education/95c8920f2efb</link>
-            <guid isPermaLink="true">https://bdnews24.com/education/95c8920f2efb</guid>
-            <pubDate>Thu, 09 Apr 2026 14:10:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/ehsanul-hoque-milan-090426-02-1775724393.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles: 2 more children with symptoms die in Mymensingh]]></title>
-            <description><![CDATA[[Health] Measles: 2 more children with symptoms die in Mymensingh]]></description>
-            <link>https://bdnews24.com/health/8821dffd6162</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/8821dffd6162</guid>
-            <pubDate>Thu, 09 Apr 2026 13:37:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/mymensing-hum-090426-01-1775715280.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Human Rights Commission Ordinance scrapped, AL era law reinstated]]></title>
-            <description><![CDATA[[Bangladesh] Human Rights Commission Ordinance scrapped, AL era law reinstated]]></description>
-            <link>https://bdnews24.com/bangladesh/dca97dbb7fba</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/dca97dbb7fba</guid>
-            <pubDate>Thu, 09 Apr 2026 13:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026January/SM/national-human-rights-commission-130126-01-1768286679.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2 to die for murder of Abu Sayed]]></title>
-            <description><![CDATA[[Bangladesh] 2 to die for murder of Abu Sayed]]></description>
-            <link>https://bdnews24.com/bangladesh/786d314df09b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/786d314df09b</guid>
-            <pubDate>Thu, 09 Apr 2026 13:25:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024July/SM/sust-grafiti-280724-01-1722195817.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hadi murder suspect Faisal sentenced in arms case]]></title>
-            <description><![CDATA[[Bangladesh] Hadi murder suspect Faisal sentenced in arms case]]></description>
-            <link>https://bdnews24.com/bangladesh/0cf20205f45c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0cf20205f45c</guid>
-            <pubDate>Thu, 09 Apr 2026 13:22:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/faisal-karim-masud-090426-01-1775717984.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel launches fresh strikes on Lebanon]]></title>
-            <description><![CDATA[[World] Israel launches fresh strikes on Lebanon]]></description>
-            <link>https://bdnews24.com/world/09b60329b96a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/09b60329b96a</guid>
-            <pubDate>Thu, 09 Apr 2026 13:06:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/lebanon-israel-strike-9426-1775726357.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4 more children die in a day at Rajshahi Medical]]></title>
-            <description><![CDATA[[Health] 4 more children die in a day at Rajshahi Medical]]></description>
-            <link>https://bdnews24.com/health/a45e2daecc90</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/a45e2daecc90</guid>
-            <pubDate>Thu, 09 Apr 2026 12:44:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/rajshahi-measles-090426-01-1775714060.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
