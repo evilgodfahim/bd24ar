@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 18:43:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 19:56:06 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Apr 2026 18:43:50 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 19:56:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trade deficit widens by $3.2bn in 8 months]]></title>
+            <description><![CDATA[[Economy] Trade deficit widens by $3.2bn in 8 months]]></description>
+            <link>https://bdnews24.com/economy/9f8436e168db</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/9f8436e168db</guid>
+            <pubDate>Fri, 10 Apr 2026 01:27:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024August/SM/101-malaysia-ship-aliya-chittagong-140217-14-1724956158.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Direct tax exemptions nearly equal to total revenue in FY23]]></title>
+            <description><![CDATA[[Economy] Direct tax exemptions nearly equal to total revenue in FY23]]></description>
+            <link>https://bdnews24.com/economy/c31a34f09709</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/c31a34f09709</guid>
+            <pubDate>Fri, 10 Apr 2026 01:01:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025March/SM/nbr-building-agargaon-190125-008-1741790723.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rain triggers waterlogging, road collapse in Ctg]]></title>
+            <description><![CDATA[[Bangladesh] Rain triggers waterlogging, road collapse in Ctg]]></description>
+            <link>https://bdnews24.com/bangladesh/42d1a03b1a62</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/42d1a03b1a62</guid>
+            <pubDate>Fri, 10 Apr 2026 00:49:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/chattogram-road-problem-090426-01-1775758710.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Pakistan’s Iran peace bid fraught with risk]]></title>
             <description><![CDATA[[World] Pakistan’s Iran peace bid fraught with risk]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/03c1214e63d5</guid>
             <pubDate>Thu, 09 Apr 2026 22:19:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/bakiloa-police-station-220922-01-100-1775743749.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[WHO warns Lebanon hospitals may soon run out of supplies]]></title>
-            <description><![CDATA[[World] WHO warns Lebanon hospitals may soon run out of supplies]]></description>
-            <link>https://bdnews24.com/world/53cc48489180</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/53cc48489180</guid>
-            <pubDate>Thu, 09 Apr 2026 22:12:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/lebanon-hospitals-090426-01-1775751126.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Malaysia reopens doors to Bangladeshi workers]]></title>
-            <description><![CDATA[[Bangladesh] Malaysia reopens doors to Bangladeshi workers]]></description>
-            <link>https://bdnews24.com/bangladesh/5174fe7441fd</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5174fe7441fd</guid>
-            <pubDate>Thu, 09 Apr 2026 22:08:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/mahdi-amin-092426-1775749433.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arsenal return to Premier League title push]]></title>
-            <description><![CDATA[[Sport] Arsenal return to Premier League title push]]></description>
-            <link>https://bdnews24.com/sport/0d90b3b4054f</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/0d90b3b4054f</guid>
-            <pubDate>Thu, 09 Apr 2026 21:47:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/arsenal-win-090426-01-1775749556.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
