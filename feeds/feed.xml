@@ -4,10 +4,82 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 04:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 06:13:32 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Apr 2026 04:22:24 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 06:13:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[2 ships with octane, furnace oil arrive in port]]></title>
+            <description><![CDATA[[Bangladesh] 2 ships with octane, furnace oil arrive in port]]></description>
+            <link>https://bdnews24.com/bangladesh/275db88f62c1</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/275db88f62c1</guid>
+            <pubDate>Thu, 09 Apr 2026 12:06:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2022-10/aded0a62-c1ac-415f-964f-fe22c64b8ad1/chattagram_port_241022_01.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Abu Sayed’s family at tribunal]]></title>
+            <description><![CDATA[[Bangladesh] Abu Sayed’s family at tribunal]]></description>
+            <link>https://bdnews24.com/bangladesh/9d5303b9ae72</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9d5303b9ae72</guid>
+            <pubDate>Thu, 09 Apr 2026 11:38:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/abu-sayeed-family-090426-01-1775712438.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hezbollah resumes fire on Israel]]></title>
+            <description><![CDATA[[World] Hezbollah resumes fire on Israel]]></description>
+            <link>https://bdnews24.com/world/7e1afd2f9396</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/7e1afd2f9396</guid>
+            <pubDate>Thu, 09 Apr 2026 11:13:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-war-9426-1775711571.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Myanmar's Min Aung Hlaing appoints new cabinet]]></title>
+            <description><![CDATA[[South Asia] Myanmar's Min Aung Hlaing appoints new cabinet]]></description>
+            <link>https://bdnews24.com/world/south-asia/091895a59b7b</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/south-asia/091895a59b7b</guid>
+            <pubDate>Thu, 09 Apr 2026 11:09:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/import/media/2021/04/17/min-aung-hlaing-170421-01.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US military to stay around Iran: Trump]]></title>
+            <description><![CDATA[[World] US military to stay around Iran: Trump]]></description>
+            <link>https://bdnews24.com/world/fb7903976d10</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/fb7903976d10</guid>
+            <pubDate>Thu, 09 Apr 2026 11:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-tehran-7426-1775537477.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Asia stocks turn cautious as reality intrudes in Gulf]]></title>
+            <description><![CDATA[[Business] Asia stocks turn cautious as reality intrudes in Gulf]]></description>
+            <link>https://bdnews24.com/business/051a0ec44e1f</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/051a0ec44e1f</guid>
+            <pubDate>Thu, 09 Apr 2026 10:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/asia-stocks-iran-ceasefire-090426-01-1775710054.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[AC Milan, Inter, Juve to play pre-season matches in Perth]]></title>
+            <description><![CDATA[[Sport] AC Milan, Inter, Juve to play pre-season matches in Perth]]></description>
+            <link>https://bdnews24.com/sport/65190109e817</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/65190109e817</guid>
+            <pubDate>Thu, 09 Apr 2026 10:38:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/ac-milan-napoli-9426-1775709520.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS to travel the world for 34-city ‘ARIRANG’ tour]]></title>
+            <description><![CDATA[[Entertainment] BTS to travel the world for 34-city ‘ARIRANG’ tour]]></description>
+            <link>https://bdnews24.com/entertainment/e14b5b8f01f9</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/e14b5b8f01f9</guid>
+            <pubDate>Thu, 09 Apr 2026 10:36:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026January/SM/bts-world-tour-140126-01-1768366219.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[France's Macron urges US, Iran to respect ceasefire in Lebanon]]></title>
+            <description><![CDATA[[World] France's Macron urges US, Iran to respect ceasefire in Lebanon]]></description>
+            <link>https://bdnews24.com/world/dcceec70e2df</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/dcceec70e2df</guid>
+            <pubDate>Thu, 09 Apr 2026 10:27:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/france-macron-lebanon-ceasefire-090426-01-1775708789.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Bangladesh awaits verdict in Abu Sayed murder case]]></title>
             <description><![CDATA[[Bangladesh] Bangladesh awaits verdict in Abu Sayed murder case]]></description>
@@ -95,78 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/business/c627fddfcbf2</guid>
             <pubDate>Thu, 09 Apr 2026 09:14:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/walt-disney-logo-090426-01-1775704459.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Voting begins in Bogura-6, Sherpur-3]]></title>
-            <description><![CDATA[[Bangladesh] Voting begins in Bogura-6, Sherpur-3]]></description>
-            <link>https://bdnews24.com/bangladesh/70fe079dedee</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/70fe079dedee</guid>
-            <pubDate>Thu, 09 Apr 2026 08:46:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/parliament-election-120226-210-1775677347.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PSG beat Liverpool 2-0 in quarter-final first leg]]></title>
-            <description><![CDATA[[Sport] PSG beat Liverpool 2-0 in quarter-final first leg]]></description>
-            <link>https://bdnews24.com/sport/f2b572b09ab5</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/f2b572b09ab5</guid>
-            <pubDate>Thu, 09 Apr 2026 04:00:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/psg-liverpool-090426-01-1775685565.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Atletico beat 10-man Barca 2-0]]></title>
-            <description><![CDATA[[Sport] Atletico beat 10-man Barca 2-0]]></description>
-            <link>https://bdnews24.com/sport/1599c56f699f</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/1599c56f699f</guid>
-            <pubDate>Thu, 09 Apr 2026 03:58:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/camp-nou-090426-01-1775685444.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel’s air raids on Lebanon kill 254]]></title>
-            <description><![CDATA[[World] Israel’s air raids on Lebanon kill 254]]></description>
-            <link>https://bdnews24.com/world/780495c5b2f6</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/780495c5b2f6</guid>
-            <pubDate>Thu, 09 Apr 2026 02:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/lebanon-strike-090426-01-1775680402.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran ‘ready’ to surrender enriched uranium: White House]]></title>
-            <description><![CDATA[[World] Iran ‘ready’ to surrender enriched uranium: White House]]></description>
-            <link>https://bdnews24.com/world/da13e688c21a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/da13e688c21a</guid>
-            <pubDate>Thu, 09 Apr 2026 01:53:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/uranium-9426-01-1775677939.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[LPG prices soar beyond official rate]]></title>
-            <description><![CDATA[[Business] LPG prices soar beyond official rate]]></description>
-            <link>https://bdnews24.com/business/159894f73367</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/159894f73367</guid>
-            <pubDate>Thu, 09 Apr 2026 01:32:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026January/SM/rajshahi-lp-gas-080126-03-1767873746.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles surge overwhelms Shishu Hospital]]></title>
-            <description><![CDATA[[Health] Measles surge overwhelms Shishu Hospital]]></description>
-            <link>https://bdnews24.com/health/2a6b142ce36c</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/2a6b142ce36c</guid>
-            <pubDate>Thu, 09 Apr 2026 01:23:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/bangladesh-chil-hospital-080426-01-1775670359.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shaky US-Iran ceasefire in doubt]]></title>
-            <description><![CDATA[[World] Shaky US-Iran ceasefire in doubt]]></description>
-            <link>https://bdnews24.com/world/5f07426fa3cb</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/5f07426fa3cb</guid>
-            <pubDate>Thu, 09 Apr 2026 01:16:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/vance-08042026-02-1775675737.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Italy eyes betting cash to fix football]]></title>
-            <description><![CDATA[[Sport] Italy eyes betting cash to fix football]]></description>
-            <link>https://bdnews24.com/sport/7c4c5e6a4784</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/7c4c5e6a4784</guid>
-            <pubDate>Thu, 09 Apr 2026 01:13:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/gabriele-gravina-030426-01-1775155674.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
