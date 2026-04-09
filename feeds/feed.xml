@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 19:56:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 20:39:56 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Apr 2026 19:56:06 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 20:39:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Argentina to face Honduras, Iceland in WC warm-ups]]></title>
+            <description><![CDATA[[Sport] Argentina to face Honduras, Iceland in WC warm-ups]]></description>
+            <link>https://bdnews24.com/sport/3889e2999eef</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/3889e2999eef</guid>
+            <pubDate>Fri, 10 Apr 2026 02:25:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/argentina-wc-100426-01-1775766329.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US moves to auto-register men for military draft eligibility]]></title>
+            <description><![CDATA[[Americas] US moves to auto-register men for military draft eligibility]]></description>
+            <link>https://bdnews24.com/world/americas/e927e739390d</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/e927e739390d</guid>
+            <pubDate>Fri, 10 Apr 2026 02:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025June/SM/members-us-army-150625-01-1749930129.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Trade deficit widens by $3.2bn in 8 months]]></title>
             <description><![CDATA[[Economy] Trade deficit widens by $3.2bn in 8 months]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/9e3ee5cfbff6</guid>
             <pubDate>Thu, 09 Apr 2026 22:32:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/maguire-desperate-09042026-01-1775752358.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[52 pick up forms for reserved seats]]></title>
-            <description><![CDATA[[Bangladesh] 52 pick up forms for reserved seats]]></description>
-            <link>https://bdnews24.com/bangladesh/262d15217674</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/262d15217674</guid>
-            <pubDate>Thu, 09 Apr 2026 22:27:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/women-seat-nomination-090426-01-1775745795.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Father, grandmother held over toddler’s death in Ctg]]></title>
-            <description><![CDATA[[Bangladesh] Father, grandmother held over toddler’s death in Ctg]]></description>
-            <link>https://bdnews24.com/bangladesh/03c1214e63d5</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/03c1214e63d5</guid>
-            <pubDate>Thu, 09 Apr 2026 22:19:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/bakiloa-police-station-220922-01-100-1775743749.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
