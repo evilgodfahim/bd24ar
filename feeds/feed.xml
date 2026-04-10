@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 06:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 08:13:46 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Apr 2026 06:25:05 GMT</pubDate>
+        <pubDate>Fri, 10 Apr 2026 08:13:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Khosru compares economies left by Khaleda, Hasina govts]]></title>
+            <description><![CDATA[[Economy] Khosru compares economies left by Khaleda, Hasina govts]]></description>
+            <link>https://bdnews24.com/economy/683f771a2564</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/683f771a2564</guid>
+            <pubDate>Fri, 10 Apr 2026 13:22:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/khaleda-hasina-100426-01-1775803111.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lakshmipur man called away over the phone found dead]]></title>
+            <description><![CDATA[[Bangladesh] Lakshmipur man called away over the phone found dead]]></description>
+            <link>https://bdnews24.com/bangladesh/ee99ff91e341</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ee99ff91e341</guid>
+            <pubDate>Fri, 10 Apr 2026 13:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/laxmipur-murder-100426-01-1775799857.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Measles: Another child dies in Mymensingh]]></title>
             <description><![CDATA[[Bangladesh] Measles: Another child dies in Mymensingh]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/e7a8082d512c</guid>
             <pubDate>Fri, 10 Apr 2026 00:37:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/pak-100526-01-1775759770.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man held at Dhaka airport with gold, foreign currency]]></title>
-            <description><![CDATA[[Bangladesh] Man held at Dhaka airport with gold, foreign currency]]></description>
-            <link>https://bdnews24.com/bangladesh/b2390b7491b3</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b2390b7491b3</guid>
-            <pubDate>Fri, 10 Apr 2026 00:25:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/img-20260409-wa0009-1775759097.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cardoso makes T20 history with 9-wicket haul]]></title>
-            <description><![CDATA[[Sport] Cardoso makes T20 history with 9-wicket haul]]></description>
-            <link>https://bdnews24.com/sport/774ec0f66f04</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/774ec0f66f04</guid>
-            <pubDate>Fri, 10 Apr 2026 00:12:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/laura-cardoso-090426-01-1775740536.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
