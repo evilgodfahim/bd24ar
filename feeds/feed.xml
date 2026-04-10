@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 10:47:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 11:38:34 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Apr 2026 10:47:42 GMT</pubDate>
+        <pubDate>Fri, 10 Apr 2026 11:38:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Slot says club support strong]]></title>
+            <description><![CDATA[[Sport] Slot says club support strong]]></description>
+            <link>https://bdnews24.com/sport/7fd84ce519f1</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/7fd84ce519f1</guid>
+            <pubDate>Fri, 10 Apr 2026 17:29:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/slot-club-support-100426-01-1775820571.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kompany's birthday wish is 3 points for Bayern]]></title>
+            <description><![CDATA[[Sport] Kompany's birthday wish is 3 points for Bayern]]></description>
+            <link>https://bdnews24.com/sport/2cca236f3769</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/2cca236f3769</guid>
+            <pubDate>Fri, 10 Apr 2026 17:26:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/kompany-bayern-3-points-100426-01-1775820347.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[CONMEBOL backs Infantino for fourth FIFA term]]></title>
+            <description><![CDATA[[Sport] CONMEBOL backs Infantino for fourth FIFA term]]></description>
+            <link>https://bdnews24.com/sport/5cb18295eee4</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/5cb18295eee4</guid>
+            <pubDate>Fri, 10 Apr 2026 17:21:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/conmebol-infantino-fifa-backing-100426-01-1775820068.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Barca lodge UEFA complaint after Atletico loss]]></title>
+            <description><![CDATA[[Sport] Barca lodge UEFA complaint after Atletico loss]]></description>
+            <link>https://bdnews24.com/sport/bc1b46a7e935</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/bc1b46a7e935</guid>
+            <pubDate>Fri, 10 Apr 2026 17:19:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/barca-complaint-atletico-defeat-100426-01-1775819941.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Green's return to bowling fails to ignite KKR]]></title>
+            <description><![CDATA[[Cricket] Green's return to bowling fails to ignite KKR]]></description>
+            <link>https://bdnews24.com/cricket/8beeb02fd131</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/8beeb02fd131</guid>
+            <pubDate>Fri, 10 Apr 2026 17:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/green-return-kolkata-ignite-080426-01-1775819764.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Van driver killed by passenger’s brick strike in Rajshahi]]></title>
+            <description><![CDATA[[Bangladesh] Van driver killed by passenger’s brick strike in Rajshahi]]></description>
+            <link>https://bdnews24.com/bangladesh/ce3734c6c6b1</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ce3734c6c6b1</guid>
+            <pubDate>Fri, 10 Apr 2026 17:01:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/rajshahi-murder-100426-01-1775814352.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India to curb news, political posts on social media]]></title>
+            <description><![CDATA[[World] India to curb news, political posts on social media]]></description>
+            <link>https://bdnews24.com/world/e81982ae963f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e81982ae963f</guid>
+            <pubDate>Fri, 10 Apr 2026 16:55:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/india-digital-censorship-it-rules-100426-1775812624.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Bangladeshi man ‘killed’ by Khasi inside India]]></title>
             <description><![CDATA[[Bangladesh] Bangladeshi man ‘killed’ by Khasi inside India]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/993b85720d0e</guid>
             <pubDate>Fri, 10 Apr 2026 10:02:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/kuwait-airport-drone-attack-280226-01-1772301023.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX posts $5bn loss in 2025: report]]></title>
-            <description><![CDATA[[Business] SpaceX posts $5bn loss in 2025: report]]></description>
-            <link>https://bdnews24.com/business/c573dd99c935</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/c573dd99c935</guid>
-            <pubDate>Fri, 10 Apr 2026 09:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/spacex-loss-100426-01-1775793405.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saudi Arabia says attacks cut oil output]]></title>
-            <description><![CDATA[[Middle East] Saudi Arabia says attacks cut oil output]]></description>
-            <link>https://bdnews24.com/world/middle-east/233e569ab438</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/233e569ab438</guid>
-            <pubDate>Fri, 10 Apr 2026 09:54:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/attacks-cut-saudi-oil-output-100426-01-1775793230.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pentagon violated court order to restore press access: judge]]></title>
-            <description><![CDATA[[Americas] Pentagon violated court order to restore press access: judge]]></description>
-            <link>https://bdnews24.com/world/americas/022863f9928f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/022863f9928f</guid>
-            <pubDate>Fri, 10 Apr 2026 09:45:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-pentagon-100426-01-1775792650.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Melania Trump denies Epstein connection]]></title>
-            <description><![CDATA[[Americas] Melania Trump denies Epstein connection]]></description>
-            <link>https://bdnews24.com/world/americas/b5a7505404de</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/b5a7505404de</guid>
-            <pubDate>Fri, 10 Apr 2026 09:43:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/melania-trump-epstein-100426-01-1775792495.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US-Iran ceasefire strains ahead of talks]]></title>
-            <description><![CDATA[[Middle East] US-Iran ceasefire strains ahead of talks]]></description>
-            <link>https://bdnews24.com/world/middle-east/ac79ca595ff6</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/ac79ca595ff6</guid>
-            <pubDate>Fri, 10 Apr 2026 09:39:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-iran-ceasefire-strains-100426-01-1775792178.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Will introduce resolution to halt US military aid to Israel: Sanders]]></title>
-            <description><![CDATA[[World] Will introduce resolution to halt US military aid to Israel: Sanders]]></description>
-            <link>https://bdnews24.com/world/0558e794ca1f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/0558e794ca1f</guid>
-            <pubDate>Fri, 10 Apr 2026 09:14:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/sanders-israel-military-aid-100426-01-1775790784.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Argentina to face Honduras, Iceland in WC warm-ups]]></title>
-            <description><![CDATA[[Sport] Argentina to face Honduras, Iceland in WC warm-ups]]></description>
-            <link>https://bdnews24.com/sport/3889e2999eef</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/3889e2999eef</guid>
-            <pubDate>Fri, 10 Apr 2026 02:25:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/argentina-wc-100426-01-1775766329.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
