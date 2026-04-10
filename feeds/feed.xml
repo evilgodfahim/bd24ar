@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 09:57:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 10:47:42 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Apr 2026 09:57:54 GMT</pubDate>
+        <pubDate>Fri, 10 Apr 2026 10:47:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bangladeshi man ‘killed’ by Khasi inside India]]></title>
+            <description><![CDATA[[Bangladesh] Bangladeshi man ‘killed’ by Khasi inside India]]></description>
+            <link>https://bdnews24.com/bangladesh/07667a9cae63</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/07667a9cae63</guid>
+            <pubDate>Fri, 10 Apr 2026 16:36:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/sylhet-border-100426-01-1775812990.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[3 madrasa students ‘raped’ in Meherpur]]></title>
             <description><![CDATA[[Bangladesh] 3 madrasa students ‘raped’ in Meherpur]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/3889e2999eef</guid>
             <pubDate>Fri, 10 Apr 2026 02:25:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/argentina-wc-100426-01-1775766329.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US moves to auto-register men for military draft eligibility]]></title>
-            <description><![CDATA[[Americas] US moves to auto-register men for military draft eligibility]]></description>
-            <link>https://bdnews24.com/world/americas/e927e739390d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/e927e739390d</guid>
-            <pubDate>Fri, 10 Apr 2026 02:08:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025June/SM/members-us-army-150625-01-1749930129.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
