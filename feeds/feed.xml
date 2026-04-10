@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 04:36:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 06:25:05 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Apr 2026 04:36:11 GMT</pubDate>
+        <pubDate>Fri, 10 Apr 2026 06:25:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Measles: Another child dies in Mymensingh]]></title>
+            <description><![CDATA[[Bangladesh] Measles: Another child dies in Mymensingh]]></description>
+            <link>https://bdnews24.com/bangladesh/4ba48b004062</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4ba48b004062</guid>
+            <pubDate>Fri, 10 Apr 2026 11:42:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/mymensing-hum-100426-01-1775796042.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka-Khulna highway blocked by fuel-seeking customers]]></title>
+            <description><![CDATA[[Bangladesh] Dhaka-Khulna highway blocked by fuel-seeking customers]]></description>
+            <link>https://bdnews24.com/bangladesh/b9d7e2ff8a6d</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b9d7e2ff8a6d</guid>
+            <pubDate>Fri, 10 Apr 2026 11:28:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/gopalganj-road-bloked-100426-01-1775794103.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Iran shouldn’t charge fees for Hormuz transit: Trump]]></title>
             <description><![CDATA[[World] Iran shouldn’t charge fees for Hormuz transit: Trump]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/774ec0f66f04</guid>
             <pubDate>Fri, 10 Apr 2026 00:12:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/laura-cardoso-090426-01-1775740536.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Artemis II unifies politically divided Americans]]></title>
-            <description><![CDATA[[Science] Artemis II unifies politically divided Americans]]></description>
-            <link>https://bdnews24.com/science/fdbb883a929f</link>
-            <guid isPermaLink="true">https://bdnews24.com/science/fdbb883a929f</guid>
-            <pubDate>Fri, 10 Apr 2026 00:01:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/artemis-unifies-americans-09042026-01-1775757685.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Banks push for MFS-style agent expansion]]></title>
-            <description><![CDATA[[Business] Banks push for MFS-style agent expansion]]></description>
-            <link>https://bdnews24.com/business/ef1d631b8660</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/ef1d631b8660</guid>
-            <pubDate>Thu, 09 Apr 2026 23:54:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/agent-banking-1775757356.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
