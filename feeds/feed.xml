@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – Latest News]]></title>
+        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 19:36:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 20:23:14 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Apr 2026 19:36:18 GMT</pubDate>
+        <pubDate>Fri, 10 Apr 2026 20:23:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: timeout of 65000ms exceeded]]></description>
-            <link>https://bdnews24.com</link>
-            <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Fri, 10 Apr 2026 19:36:18 GMT</pubDate>
+            <title><![CDATA[FIFA's latest World Cup ticket category tops $4k per seat]]></title>
+            <description><![CDATA[[Sport] FIFA's latest World Cup ticket category tops $4k per seat]]></description>
+            <link>https://bdnews24.com/sport/b1504de25451</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/b1504de25451</guid>
+            <pubDate>Sat, 11 Apr 2026 02:01:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/wc-ticket-price-110426-01-1775851178.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Barely alive’: Survivor recounts 'Arakan Army' horror]]></title>
+            <description><![CDATA[[Bangladesh] ‘Barely alive’: Survivor recounts 'Arakan Army' horror]]></description>
+            <link>https://bdnews24.com/bangladesh/27d99b26d17e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/27d99b26d17e</guid>
+            <pubDate>Sat, 11 Apr 2026 01:55:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/coxsbazar-fisherman-100426-01-1775850797.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Harris might run for president again]]></title>
+            <description><![CDATA[[World] Harris might run for president again]]></description>
+            <link>https://bdnews24.com/world/2a3444d1cfea</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/2a3444d1cfea</guid>
+            <pubDate>Sat, 11 Apr 2026 01:24:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/harris-run-president-11042026-01-1775849021.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How many have been killed in the Iran war?]]></title>
+            <description><![CDATA[[World] How many have been killed in the Iran war?]]></description>
+            <link>https://bdnews24.com/world/d97da064d801</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/d97da064d801</guid>
+            <pubDate>Sat, 11 Apr 2026 01:23:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/how-many-killed-iran-11042026-01-1775848911.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[SC Secretariat future in doubt]]></title>
+            <description><![CDATA[[Bangladesh] SC Secretariat future in doubt]]></description>
+            <link>https://bdnews24.com/bangladesh/a75f4b307f41</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a75f4b307f41</guid>
+            <pubDate>Sat, 11 Apr 2026 00:21:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026January/SM/supreme-court-secretariat-111225-02-1767880346.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran gets its wish of negotiating with Vance]]></title>
+            <description><![CDATA[[World] Iran gets its wish of negotiating with Vance]]></description>
+            <link>https://bdnews24.com/world/d942c85c84fa</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/d942c85c84fa</guid>
+            <pubDate>Sat, 11 Apr 2026 00:07:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-wish-negotiate-10042026-01-1775844426.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arteta plays down talks on new Arsenal contract]]></title>
+            <description><![CDATA[[Sport] Arteta plays down talks on new Arsenal contract]]></description>
+            <link>https://bdnews24.com/sport/3831e60a2e25</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/3831e60a2e25</guid>
+            <pubDate>Fri, 10 Apr 2026 23:41:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/arteta-downplay-contract-talks-100426-01-1775842855.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Juve extend coach Spalletti’s contract to 2028]]></title>
+            <description><![CDATA[[Sport] Juve extend coach Spalletti’s contract to 2028]]></description>
+            <link>https://bdnews24.com/sport/7767a38dbd36</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/7767a38dbd36</guid>
+            <pubDate>Fri, 10 Apr 2026 23:39:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/juve-extend-spalletti-contract-100426-01-1775842697.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Spurs boss targets survival with attacking play]]></title>
+            <description><![CDATA[[Sport] New Spurs boss targets survival with attacking play]]></description>
+            <link>https://bdnews24.com/sport/7a1620fa190d</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/7a1620fa190d</guid>
+            <pubDate>Fri, 10 Apr 2026 23:36:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/spurs-boss-attacking-football-100426-01-1775842574.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[AIUB students join biodiversity walk at Dhanmondi Lake]]></title>
+            <description><![CDATA[[Environment] AIUB students join biodiversity walk at Dhanmondi Lake]]></description>
+            <link>https://bdnews24.com/environment/c096e6a606ed</link>
+            <guid isPermaLink="true">https://bdnews24.com/environment/c096e6a606ed</guid>
+            <pubDate>Fri, 10 Apr 2026 23:35:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/aiub-10042026-1775842502.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Guardiola calls for ‘consistency’ from Man City]]></title>
+            <description><![CDATA[[Sport] Guardiola calls for ‘consistency’ from Man City]]></description>
+            <link>https://bdnews24.com/sport/96f2e34044f0</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/96f2e34044f0</guid>
+            <pubDate>Fri, 10 Apr 2026 23:33:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025November/SM/guardiola-241125-01-1763994088.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fernandez will miss Man City game: Rosenior]]></title>
+            <description><![CDATA[[Sport] Fernandez will miss Man City game: Rosenior]]></description>
+            <link>https://bdnews24.com/sport/948bb5c0a5a9</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/948bb5c0a5a9</guid>
+            <pubDate>Fri, 10 Apr 2026 23:32:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/enzo-fernandez-040426-01-1775296091.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu seeks delay in corruption trial testimony]]></title>
+            <description><![CDATA[[World] Netanyahu seeks delay in corruption trial testimony]]></description>
+            <link>https://bdnews24.com/world/f52ab663ea24</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/f52ab663ea24</guid>
+            <pubDate>Fri, 10 Apr 2026 23:30:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/2024-04/0987c979-7f0d-4329-bd2f-195adad8a9ad/Benjamin_Netanyahu_010424_01.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Measles surge overwhelms Infectious Diseases Hospital]]></title>
+            <description><![CDATA[[Health] Measles surge overwhelms Infectious Diseases Hospital]]></description>
+            <link>https://bdnews24.com/health/cc054f9998e9</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/cc054f9998e9</guid>
+            <pubDate>Fri, 10 Apr 2026 23:28:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/infectious-disease-hospital-100426-01-1775840463.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dipali went to Lebanon 2 years ago: UNO]]></title>
+            <description><![CDATA[[Bangladesh] Dipali went to Lebanon 2 years ago: UNO]]></description>
+            <link>https://bdnews24.com/bangladesh/5b31e1803c70</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5b31e1803c70</guid>
+            <pubDate>Fri, 10 Apr 2026 23:15:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/lebanon-dipali-100426-01-1775831848.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Parliament settles fate of 120 ordinances in 6 days]]></title>
+            <description><![CDATA[[Bangladesh] Parliament settles fate of 120 ordinances in 6 days]]></description>
+            <link>https://bdnews24.com/bangladesh/102dea3622aa</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/102dea3622aa</guid>
+            <pubDate>Fri, 10 Apr 2026 23:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/13th-parliament-1773296033.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladeshi sailors rescued after attack near Hormuz]]></title>
+            <description><![CDATA[[Bangladesh] Bangladeshi sailors rescued after attack near Hormuz]]></description>
+            <link>https://bdnews24.com/bangladesh/78ba015bc877</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/78ba015bc877</guid>
+            <pubDate>Fri, 10 Apr 2026 22:58:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/mv-gold-autumn-100426-01-1775837836.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘This is not Shahbagh’: speaker tells Hasnat]]></title>
+            <description><![CDATA[[Bangladesh] ‘This is not Shahbagh’: speaker tells Hasnat]]></description>
+            <link>https://bdnews24.com/bangladesh/5e36ed4b9043</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5e36ed4b9043</guid>
+            <pubDate>Fri, 10 Apr 2026 22:39:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/speaker-hafiz-uddin-ahmed-151226-01-1773587026.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fuel crisis, rain make kitchen staples costlier]]></title>
+            <description><![CDATA[[Business] Fuel crisis, rain make kitchen staples costlier]]></description>
+            <link>https://bdnews24.com/business/37a6e91bc005</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/37a6e91bc005</guid>
+            <pubDate>Fri, 10 Apr 2026 22:11:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/market-price-dhaka-100426-06-1775835565.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran war leaves economies reeling]]></title>
+            <description><![CDATA[[Economy] Iran war leaves economies reeling]]></description>
+            <link>https://bdnews24.com/economy/428fd288025b</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/428fd288025b</guid>
+            <pubDate>Fri, 10 Apr 2026 21:57:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/uk-economy-10426-1775836630.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
