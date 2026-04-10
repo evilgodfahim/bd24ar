@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 11:38:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 12:40:22 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Apr 2026 11:38:34 GMT</pubDate>
+        <pubDate>Fri, 10 Apr 2026 12:40:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Starmer, Trump discuss military options for Hormuz]]></title>
+            <description><![CDATA[[World] Starmer, Trump discuss military options for Hormuz]]></description>
+            <link>https://bdnews24.com/world/8e6a24ba4390</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/8e6a24ba4390</guid>
+            <pubDate>Fri, 10 Apr 2026 18:17:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/starmer-trump-hormuz-options-100426-01-1775823455.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump warns Iran on Hormuz tolls]]></title>
+            <description><![CDATA[[World] Trump warns Iran on Hormuz tolls]]></description>
+            <link>https://bdnews24.com/world/07f9d5ada7db</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/07f9d5ada7db</guid>
+            <pubDate>Fri, 10 Apr 2026 18:17:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/hormuz-closure-me-fortunes-06042026-01-1775496449.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[WFP warns Lebanon facing food crisis]]></title>
+            <description><![CDATA[[World] WFP warns Lebanon facing food crisis]]></description>
+            <link>https://bdnews24.com/world/514701741770</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/514701741770</guid>
+            <pubDate>Fri, 10 Apr 2026 18:14:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/wfp-warns-lebanon-food-crisis-100426-01-1775823187.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Parliament scraps age cap for BB governor]]></title>
+            <description><![CDATA[[Bangladesh] Parliament scraps age cap for BB governor]]></description>
+            <link>https://bdnews24.com/bangladesh/1cd080ac428a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1cd080ac428a</guid>
+            <pubDate>Fri, 10 Apr 2026 17:54:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024September/SM/bangladesh-bank-110924-01-1726061067.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[App-only fuel push begins at two Dhaka pumps]]></title>
+            <description><![CDATA[[Bangladesh] App-only fuel push begins at two Dhaka pumps]]></description>
+            <link>https://bdnews24.com/bangladesh/7c7995850f69</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7c7995850f69</guid>
+            <pubDate>Fri, 10 Apr 2026 17:45:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/fuel-pass-100426-01-1775819488.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[2 more suspected measles deaths in Barishal]]></title>
+            <description><![CDATA[[Health] 2 more suspected measles deaths in Barishal]]></description>
+            <link>https://bdnews24.com/health/090b5486ba49</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/090b5486ba49</guid>
+            <pubDate>Fri, 10 Apr 2026 17:39:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/barishal-measles-situation-310326-01-1774972353.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Slot says club support strong]]></title>
             <description><![CDATA[[Sport] Slot says club support strong]]></description>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/ee99ff91e341</guid>
             <pubDate>Fri, 10 Apr 2026 13:04:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/laxmipur-murder-100426-01-1775799857.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles: Another child dies in Mymensingh]]></title>
-            <description><![CDATA[[Bangladesh] Measles: Another child dies in Mymensingh]]></description>
-            <link>https://bdnews24.com/bangladesh/4ba48b004062</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4ba48b004062</guid>
-            <pubDate>Fri, 10 Apr 2026 11:42:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/mymensing-hum-100426-01-1775796042.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka-Khulna highway blocked by fuel-seeking customers]]></title>
-            <description><![CDATA[[Bangladesh] Dhaka-Khulna highway blocked by fuel-seeking customers]]></description>
-            <link>https://bdnews24.com/bangladesh/b9d7e2ff8a6d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b9d7e2ff8a6d</guid>
-            <pubDate>Fri, 10 Apr 2026 11:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/gopalganj-road-bloked-100426-01-1775794103.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran shouldn’t charge fees for Hormuz transit: Trump]]></title>
-            <description><![CDATA[[World] Iran shouldn’t charge fees for Hormuz transit: Trump]]></description>
-            <link>https://bdnews24.com/world/0b3d480d1ff3</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/0b3d480d1ff3</guid>
-            <pubDate>Fri, 10 Apr 2026 10:29:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/trump-hormuz-fees-iran-100426-01-1775795264.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stocks shaky as attacks on Lebanon tests Iran ceasefire]]></title>
-            <description><![CDATA[[Economy] Stocks shaky as attacks on Lebanon tests Iran ceasefire]]></description>
-            <link>https://bdnews24.com/economy/8dbea85fcf56</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/8dbea85fcf56</guid>
-            <pubDate>Fri, 10 Apr 2026 10:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/tokyo-brokerage-100426-01-1775795077.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rutte tells allies Trump wants Hormuz pledges within days]]></title>
-            <description><![CDATA[[Europe] Rutte tells allies Trump wants Hormuz pledges within days]]></description>
-            <link>https://bdnews24.com/world/europe/12e988c6bae4</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/12e988c6bae4</guid>
-            <pubDate>Fri, 10 Apr 2026 10:15:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/mark-rutte-100426-01-1775794443.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kuwait condemns drone attacks on vital facilities]]></title>
-            <description><![CDATA[[Middle East] Kuwait condemns drone attacks on vital facilities]]></description>
-            <link>https://bdnews24.com/world/middle-east/993b85720d0e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/993b85720d0e</guid>
-            <pubDate>Fri, 10 Apr 2026 10:02:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/kuwait-airport-drone-attack-280226-01-1772301023.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
