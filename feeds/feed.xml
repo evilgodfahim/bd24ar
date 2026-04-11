@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Apr 2026 13:45:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 14:26:28 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Apr 2026 13:45:45 GMT</pubDate>
+        <pubDate>Sat, 11 Apr 2026 14:26:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US forces 'clearing' Strait of Hormuz: Trump]]></title>
+            <description><![CDATA[[World] US forces 'clearing' Strait of Hormuz: Trump]]></description>
+            <link>https://bdnews24.com/world/c1ddc793bd7a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/c1ddc793bd7a</guid>
+            <pubDate>Sat, 11 Apr 2026 19:55:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-clearing-hormuz-11042026-01-1775915678.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Clerk booked over Kushtia schoolgirl ‘rape’]]></title>
+            <description><![CDATA[[Bangladesh] Clerk booked over Kushtia schoolgirl ‘rape’]]></description>
+            <link>https://bdnews24.com/bangladesh/7e319f6d7483</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7e319f6d7483</guid>
+            <pubDate>Sat, 11 Apr 2026 19:51:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025January/SM/kustia-murder-arrest-160125-01-1737020511.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Black astronaut inspires millions]]></title>
             <description><![CDATA[[World] Black astronaut inspires millions]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/f1ab368fa6b4</guid>
             <pubDate>Sat, 11 Apr 2026 13:55:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/cu-snake-rescue-110426-01-1775888558.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran sends ‘Minab 168’ tribute before Pakistan talks]]></title>
-            <description><![CDATA[[World] Iran sends ‘Minab 168’ tribute before Pakistan talks]]></description>
-            <link>https://bdnews24.com/world/234aebdbed36</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/234aebdbed36</guid>
-            <pubDate>Sat, 11 Apr 2026 13:45:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/iran-war-flight-168-minab-110426-1775890638.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US intel shows China to ship weapons to Iran: CNN]]></title>
-            <description><![CDATA[[World] US intel shows China to ship weapons to Iran: CNN]]></description>
-            <link>https://bdnews24.com/world/ec0347168675</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ec0347168675</guid>
-            <pubDate>Sat, 11 Apr 2026 12:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/china-iran-tiananmen-square-110426-1775886301.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
