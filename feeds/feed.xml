@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Apr 2026 05:52:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 06:45:36 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Apr 2026 05:52:27 GMT</pubDate>
+        <pubDate>Sat, 11 Apr 2026 06:45:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US intel shows China to ship weapons to Iran: CNN]]></title>
+            <description><![CDATA[[World] US intel shows China to ship weapons to Iran: CNN]]></description>
+            <link>https://bdnews24.com/world/ec0347168675</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ec0347168675</guid>
+            <pubDate>Sat, 11 Apr 2026 12:34:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/china-iran-tiananmen-square-110426-1775886301.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladeshi killed in Saudi building collapse]]></title>
+            <description><![CDATA[[Bangladesh] Bangladeshi killed in Saudi building collapse]]></description>
+            <link>https://bdnews24.com/bangladesh/4e26128500f1</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4e26128500f1</guid>
+            <pubDate>Sat, 11 Apr 2026 11:59:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/1000047400-1775882863.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Fire at Ctg shopping complex]]></title>
             <description><![CDATA[[Bangladesh] Fire at Ctg shopping complex]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/d97da064d801</guid>
             <pubDate>Sat, 11 Apr 2026 01:23:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/how-many-killed-iran-11042026-01-1775848911.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[SC Secretariat future in doubt]]></title>
-            <description><![CDATA[[Bangladesh] SC Secretariat future in doubt]]></description>
-            <link>https://bdnews24.com/bangladesh/a75f4b307f41</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a75f4b307f41</guid>
-            <pubDate>Sat, 11 Apr 2026 00:21:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026January/SM/supreme-court-secretariat-111225-02-1767880346.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran gets its wish of negotiating with Vance]]></title>
-            <description><![CDATA[[World] Iran gets its wish of negotiating with Vance]]></description>
-            <link>https://bdnews24.com/world/d942c85c84fa</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/d942c85c84fa</guid>
-            <pubDate>Sat, 11 Apr 2026 00:07:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-wish-negotiate-10042026-01-1775844426.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
