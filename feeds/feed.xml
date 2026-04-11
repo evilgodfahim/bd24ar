@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Apr 2026 01:07:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 04:09:05 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Apr 2026 01:07:57 GMT</pubDate>
+        <pubDate>Sat, 11 Apr 2026 04:09:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Middle East war will cut growth: WB chief]]></title>
+            <description><![CDATA[[Economy] Middle East war will cut growth: WB chief]]></description>
+            <link>https://bdnews24.com/economy/9bf316046116</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/9bf316046116</guid>
+            <pubDate>Sat, 11 Apr 2026 10:07:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/ajay-banga-11426-1775880351.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US, Iran set for talks, doubts over Lebanon]]></title>
+            <description><![CDATA[[World] US, Iran set for talks, doubts over Lebanon]]></description>
+            <link>https://bdnews24.com/world/5c0a026faa3a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/5c0a026faa3a</guid>
+            <pubDate>Sat, 11 Apr 2026 09:43:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-iran-talks-doubts-lebanon-110426-01-1775878913.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US consumer inflation hot in March]]></title>
+            <description><![CDATA[[Americas] US consumer inflation hot in March]]></description>
+            <link>https://bdnews24.com/world/americas/5a8ba104c2e6</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/5a8ba104c2e6</guid>
+            <pubDate>Sat, 11 Apr 2026 09:38:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/consumer-shop-us-11426-1775878642.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US ‘likely to extend’ Russian oil waiver]]></title>
+            <description><![CDATA[[Business] US ‘likely to extend’ Russian oil waiver]]></description>
+            <link>https://bdnews24.com/business/a03f2b94cd00</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/a03f2b94cd00</guid>
+            <pubDate>Sat, 11 Apr 2026 09:26:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/russia-energy-demand-06032026-01-1772796695.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Equities mixed, oil dips in cautious trade]]></title>
+            <description><![CDATA[[Economy] Equities mixed, oil dips in cautious trade]]></description>
+            <link>https://bdnews24.com/economy/7fbd891846f1</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/7fbd891846f1</guid>
+            <pubDate>Sat, 11 Apr 2026 09:19:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/stocks-11426-1775877523.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Real title hopes hit with draw at home]]></title>
+            <description><![CDATA[[Sport] Real title hopes hit with draw at home]]></description>
+            <link>https://bdnews24.com/sport/509fe091495e</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/509fe091495e</guid>
+            <pubDate>Sat, 11 Apr 2026 09:01:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/untitled-5-1775854932.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Artemis II astronauts safely back on Earth]]></title>
+            <description><![CDATA[[Science] Artemis II astronauts safely back on Earth]]></description>
+            <link>https://bdnews24.com/science/ec13de72b0a5</link>
+            <guid isPermaLink="true">https://bdnews24.com/science/ec13de72b0a5</guid>
+            <pubDate>Sat, 11 Apr 2026 08:32:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/artemis-moon-11426-1775874686.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Jet fuel shortage risk seen in Europe within weeks]]></title>
             <description><![CDATA[[Aviation] Jet fuel shortage risk seen in Europe within weeks]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/948bb5c0a5a9</guid>
             <pubDate>Fri, 10 Apr 2026 23:32:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/enzo-fernandez-040426-01-1775296091.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu seeks delay in corruption trial testimony]]></title>
-            <description><![CDATA[[World] Netanyahu seeks delay in corruption trial testimony]]></description>
-            <link>https://bdnews24.com/world/f52ab663ea24</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/f52ab663ea24</guid>
-            <pubDate>Fri, 10 Apr 2026 23:30:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/2024-04/0987c979-7f0d-4329-bd2f-195adad8a9ad/Benjamin_Netanyahu_010424_01.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles surge overwhelms Infectious Diseases Hospital]]></title>
-            <description><![CDATA[[Health] Measles surge overwhelms Infectious Diseases Hospital]]></description>
-            <link>https://bdnews24.com/health/cc054f9998e9</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/cc054f9998e9</guid>
-            <pubDate>Fri, 10 Apr 2026 23:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/infectious-disease-hospital-100426-01-1775840463.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dipali went to Lebanon 2 years ago: UNO]]></title>
-            <description><![CDATA[[Bangladesh] Dipali went to Lebanon 2 years ago: UNO]]></description>
-            <link>https://bdnews24.com/bangladesh/5b31e1803c70</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5b31e1803c70</guid>
-            <pubDate>Fri, 10 Apr 2026 23:15:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/lebanon-dipali-100426-01-1775831848.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Parliament settles fate of 120 ordinances in 6 days]]></title>
-            <description><![CDATA[[Bangladesh] Parliament settles fate of 120 ordinances in 6 days]]></description>
-            <link>https://bdnews24.com/bangladesh/102dea3622aa</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/102dea3622aa</guid>
-            <pubDate>Fri, 10 Apr 2026 23:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/13th-parliament-1773296033.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladeshi sailors rescued after attack near Hormuz]]></title>
-            <description><![CDATA[[Bangladesh] Bangladeshi sailors rescued after attack near Hormuz]]></description>
-            <link>https://bdnews24.com/bangladesh/78ba015bc877</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/78ba015bc877</guid>
-            <pubDate>Fri, 10 Apr 2026 22:58:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/mv-gold-autumn-100426-01-1775837836.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘This is not Shahbagh’: speaker tells Hasnat]]></title>
-            <description><![CDATA[[Bangladesh] ‘This is not Shahbagh’: speaker tells Hasnat]]></description>
-            <link>https://bdnews24.com/bangladesh/5e36ed4b9043</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5e36ed4b9043</guid>
-            <pubDate>Fri, 10 Apr 2026 22:39:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/speaker-hafiz-uddin-ahmed-151226-01-1773587026.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fuel crisis, rain make kitchen staples costlier]]></title>
-            <description><![CDATA[[Business] Fuel crisis, rain make kitchen staples costlier]]></description>
-            <link>https://bdnews24.com/business/37a6e91bc005</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/37a6e91bc005</guid>
-            <pubDate>Fri, 10 Apr 2026 22:11:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/market-price-dhaka-100426-06-1775835565.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
