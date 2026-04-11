@@ -4,9 +4,9 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Apr 2026 21:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 22:18:39 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Apr 2026 21:21:21 GMT</pubDate>
+        <pubDate>Sat, 11 Apr 2026 22:18:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Ancelotti sets 60-day deadline for Neymar’s World Cup audition]]></title>
@@ -14,7 +14,7 @@
             <link>https://bdnews24.com/sport/f279bca81c87</link>
             <guid isPermaLink="true">https://bdnews24.com/sport/f279bca81c87</guid>
             <pubDate>Sun, 12 Apr 2026 01:07:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/neymar-120426-01-1775943075.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Chaos at pumps as ‘Fuel Pass’ app glitches]]></title>
