@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Apr 2026 09:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 10:22:02 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Apr 2026 09:29:47 GMT</pubDate>
+        <pubDate>Sat, 11 Apr 2026 10:22:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bashar wants Shakib back for longer spell]]></title>
+            <description><![CDATA[[Cricket] Bashar wants Shakib back for longer spell]]></description>
+            <link>https://bdnews24.com/cricket/8f8a6442d51e</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/8f8a6442d51e</guid>
+            <pubDate>Sat, 11 Apr 2026 15:43:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/shakib-bcb-110426-1775894277.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Infant dies with measles symptoms in Sylhet]]></title>
+            <description><![CDATA[[Health] Infant dies with measles symptoms in Sylhet]]></description>
+            <link>https://bdnews24.com/health/ca04b663fdd7</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/ca04b663fdd7</guid>
+            <pubDate>Sat, 11 Apr 2026 15:31:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/sylhet-osmani-medical-070324-01-1775730838.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Relief minister falls ill at Saidpur Airport]]></title>
             <description><![CDATA[[Bangladesh] Relief minister falls ill at Saidpur Airport]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/509fe091495e</guid>
             <pubDate>Sat, 11 Apr 2026 09:01:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/untitled-5-1775854932.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Artemis II astronauts safely back on Earth]]></title>
-            <description><![CDATA[[Science] Artemis II astronauts safely back on Earth]]></description>
-            <link>https://bdnews24.com/science/ec13de72b0a5</link>
-            <guid isPermaLink="true">https://bdnews24.com/science/ec13de72b0a5</guid>
-            <pubDate>Sat, 11 Apr 2026 08:32:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/artemis-moon-11426-1775874686.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jet fuel shortage risk seen in Europe within weeks]]></title>
-            <description><![CDATA[[Aviation] Jet fuel shortage risk seen in Europe within weeks]]></description>
-            <link>https://bdnews24.com/aviation/de2670a44217</link>
-            <guid isPermaLink="true">https://bdnews24.com/aviation/de2670a44217</guid>
-            <pubDate>Sat, 11 Apr 2026 02:37:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/emirates-plane-11426-1775853385.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
