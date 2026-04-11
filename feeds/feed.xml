@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Apr 2026 11:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 12:29:21 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Apr 2026 11:20:35 GMT</pubDate>
+        <pubDate>Sat, 11 Apr 2026 12:29:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Pakistan sends fighter jets to Saudi under pact]]></title>
+            <description><![CDATA[[World] Pakistan sends fighter jets to Saudi under pact]]></description>
+            <link>https://bdnews24.com/world/6c07fd3bab7e</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/6c07fd3bab7e</guid>
+            <pubDate>Sat, 11 Apr 2026 18:15:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/pakistan-saudi-arab-110426-0911-1775907834.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[RAB making ‘unbiased’ list of extortionists]]></title>
             <description><![CDATA[[Bangladesh] RAB making ‘unbiased’ list of extortionists]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/36ffac2c72d0</guid>
             <pubDate>Sat, 11 Apr 2026 11:03:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/sylhet-chintai-100426-01-1775879886.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sooryavanshi's hot streak continues in IPL]]></title>
-            <description><![CDATA[[Cricket] Sooryavanshi's hot streak continues in IPL]]></description>
-            <link>https://bdnews24.com/cricket/27c9dc05263e</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/27c9dc05263e</guid>
-            <pubDate>Sat, 11 Apr 2026 10:50:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/baibhav-sooryavanshi-ipl-110426-1775878254.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
