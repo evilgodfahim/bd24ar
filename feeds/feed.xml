@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Apr 2026 15:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 16:22:04 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Apr 2026 15:22:14 GMT</pubDate>
+        <pubDate>Sat, 11 Apr 2026 16:22:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iran's supreme leader has severe, disfiguring wounds]]></title>
+            <description><![CDATA[[World] Iran's supreme leader has severe, disfiguring wounds]]></description>
+            <link>https://bdnews24.com/world/ddef66a11083</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ddef66a11083</guid>
+            <pubDate>Sat, 11 Apr 2026 22:01:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/mojtaba-wounds-11042026-01-1775923261.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ADB trims Bangladesh growth forecast to 4%]]></title>
+            <description><![CDATA[[Economy] ADB trims Bangladesh growth forecast to 4%]]></description>
+            <link>https://bdnews24.com/economy/c6d7a177c8f9</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/c6d7a177c8f9</guid>
+            <pubDate>Sat, 11 Apr 2026 21:42:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-05/a18f1583-e7e6-46f8-84f5-9de1b2e92af2/may_day_labourers_010523_01.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Neymar has 2 months to prove himself: Ancelotti]]></title>
             <description><![CDATA[[Sport] Neymar has 2 months to prove himself: Ancelotti]]></description>
@@ -134,7 +150,7 @@
             <link>https://bdnews24.com/world/middle-east/24bc99a8154e</link>
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/24bc99a8154e</guid>
             <pubDate>Sat, 11 Apr 2026 17:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/pakistan-11426-1775905715.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/unfreeze-funds-11042026-01-1775921702.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Over 600 reserved seat aspirants eye BNP ticket]]></title>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/bb34700d4c56</guid>
             <pubDate>Sat, 11 Apr 2026 16:56:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-us-talks-pakistan-11426-1775904945.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Americans weigh war in Iran, rising gas prices, fears]]></title>
-            <description><![CDATA[[THE LONG READ] Americans weigh war in Iran, rising gas prices, fears]]></description>
-            <link>https://bdnews24.com/the-long-read/4fb91f4ea7ce</link>
-            <guid isPermaLink="true">https://bdnews24.com/the-long-read/4fb91f4ea7ce</guid>
-            <pubDate>Sat, 11 Apr 2026 16:48:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-jet-wreckage-6426-1775444730.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Embankment breach threatens vast Boro fields]]></title>
-            <description><![CDATA[[Bangladesh] Embankment breach threatens vast Boro fields]]></description>
-            <link>https://bdnews24.com/bangladesh/5754d10df503</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5754d10df503</guid>
-            <pubDate>Sat, 11 Apr 2026 16:44:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/sunamganj-dekhar-haor-110426-01-1775900674.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
