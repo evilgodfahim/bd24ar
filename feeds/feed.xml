@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Apr 2026 07:41:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 08:29:30 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Apr 2026 07:41:44 GMT</pubDate>
+        <pubDate>Sat, 11 Apr 2026 08:29:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[King cobra rescued from CU campus]]></title>
+            <description><![CDATA[[Bangladesh] King cobra rescued from CU campus]]></description>
+            <link>https://bdnews24.com/bangladesh/f1ab368fa6b4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f1ab368fa6b4</guid>
+            <pubDate>Sat, 11 Apr 2026 13:55:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/cu-snake-rescue-110426-01-1775888558.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran sends ‘Minab 168’ tribute before Pakistan talks]]></title>
+            <description><![CDATA[[World] Iran sends ‘Minab 168’ tribute before Pakistan talks]]></description>
+            <link>https://bdnews24.com/world/234aebdbed36</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/234aebdbed36</guid>
+            <pubDate>Sat, 11 Apr 2026 13:45:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/iran-war-flight-168-minab-110426-1775890638.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[US intel shows China to ship weapons to Iran: CNN]]></title>
             <description><![CDATA[[World] US intel shows China to ship weapons to Iran: CNN]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/27d99b26d17e</guid>
             <pubDate>Sat, 11 Apr 2026 01:55:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/coxsbazar-fisherman-100426-01-1775850797.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Harris might run for president again]]></title>
-            <description><![CDATA[[World] Harris might run for president again]]></description>
-            <link>https://bdnews24.com/world/2a3444d1cfea</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/2a3444d1cfea</guid>
-            <pubDate>Sat, 11 Apr 2026 01:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/harris-run-president-11042026-01-1775849021.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How many have been killed in the Iran war?]]></title>
-            <description><![CDATA[[World] How many have been killed in the Iran war?]]></description>
-            <link>https://bdnews24.com/world/d97da064d801</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/d97da064d801</guid>
-            <pubDate>Sat, 11 Apr 2026 01:23:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/how-many-killed-iran-11042026-01-1775848911.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
