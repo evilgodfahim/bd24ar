@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Apr 2026 13:51:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Apr 2026 14:31:45 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Apr 2026 13:51:52 GMT</pubDate>
+        <pubDate>Sun, 12 Apr 2026 14:31:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Retired teachers to be hired to ease staff shortage]]></title>
+            <description><![CDATA[[Education] Retired teachers to be hired to ease staff shortage]]></description>
+            <link>https://bdnews24.com/education/af2784005dd2</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/af2784005dd2</guid>
+            <pubDate>Sun, 12 Apr 2026 20:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2022-09/81cb48d6-870e-4398-a433-ad5fbdeb2e76/new_curriculum_piloting_150922_02.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US will start blockading Strait of Hormuz: Trump]]></title>
+            <description><![CDATA[[World] US will start blockading Strait of Hormuz: Trump]]></description>
+            <link>https://bdnews24.com/world/367e8ebda1cd</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/367e8ebda1cd</guid>
+            <pubDate>Sun, 12 Apr 2026 19:59:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-blockade-hormuz-12042026-01-1776002302.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Armed forces must avoid corruption, abuse: PM]]></title>
+            <description><![CDATA[[Bangladesh] Armed forces must avoid corruption, abuse: PM]]></description>
+            <link>https://bdnews24.com/bangladesh/468f52f6f6a3</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/468f52f6f6a3</guid>
+            <pubDate>Sun, 12 Apr 2026 19:53:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/pm-armd-forces-darbar-120426-01-1775995661.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[DU restricts entry, bans vehicles for Baishakhi Shobhajatra]]></title>
             <description><![CDATA[[Campus] DU restricts entry, bans vehicles for Baishakhi Shobhajatra]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/9b6e58c9ddf7</guid>
             <pubDate>Sun, 12 Apr 2026 16:58:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/al-aqsa-mosque-120426-01-1775991463.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt eyes clean labour export to Malaysia: Mahdi]]></title>
-            <description><![CDATA[[Bangladesh] Govt eyes clean labour export to Malaysia: Mahdi]]></description>
-            <link>https://bdnews24.com/bangladesh/93b673a7c400</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/93b673a7c400</guid>
-            <pubDate>Sun, 12 Apr 2026 16:41:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/mahdi-amin-120426-01-1775988157.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gaza aid flotilla aims to break Israeli blockade]]></title>
-            <description><![CDATA[[Middle East] Gaza aid flotilla aims to break Israeli blockade]]></description>
-            <link>https://bdnews24.com/world/middle-east/9a1ed051f821</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/9a1ed051f821</guid>
-            <pubDate>Sun, 12 Apr 2026 16:02:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/global-sumud-flotilla-120426-01-1775988074.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[5 jailed for life over Mymensingh land killing]]></title>
-            <description><![CDATA[[Bangladesh] 5 jailed for life over Mymensingh land killing]]></description>
-            <link>https://bdnews24.com/bangladesh/8b7fa85c9302</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8b7fa85c9302</guid>
-            <pubDate>Sun, 12 Apr 2026 15:40:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/mymensingh-life-time-jail-120426-1775984791.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
