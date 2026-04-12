@@ -4,10 +4,82 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Apr 2026 01:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Apr 2026 04:36:36 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Apr 2026 01:17:03 GMT</pubDate>
+        <pubDate>Sun, 12 Apr 2026 04:36:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[China should abandon threats against Taiwan: US diplomat]]></title>
+            <description><![CDATA[[World] China should abandon threats against Taiwan: US diplomat]]></description>
+            <link>https://bdnews24.com/world/8bc45d780524</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/8bc45d780524</guid>
+            <pubDate>Sun, 12 Apr 2026 09:59:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/cheng-li-wun-120426-01-1775966376.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Manhattan district attorney probes Swalwell sexual assault claims]]></title>
+            <description><![CDATA[[Americas] Manhattan district attorney probes Swalwell sexual assault claims]]></description>
+            <link>https://bdnews24.com/world/americas/783fcbdf930c</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/783fcbdf930c</guid>
+            <pubDate>Sun, 12 Apr 2026 09:56:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/eric-swalwell-120426-01-1775966209.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russia, Ukraine trade Easter ceasefire violations claims]]></title>
+            <description><![CDATA[[World] Russia, Ukraine trade Easter ceasefire violations claims]]></description>
+            <link>https://bdnews24.com/world/d2bc27513681</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/d2bc27513681</guid>
+            <pubDate>Sun, 12 Apr 2026 09:42:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/russia-ukraine-ceasefire-violations-120426-01-1775965283.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[523 arrested at London Palestinian Action protest]]></title>
+            <description><![CDATA[[Europe] 523 arrested at London Palestinian Action protest]]></description>
+            <link>https://bdnews24.com/world/europe/9904ac1c567c</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/9904ac1c567c</guid>
+            <pubDate>Sun, 12 Apr 2026 09:39:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/2023-10/264c64ba-6bb6-4f77-bdf3-b47a30c7bd98/demonstrators_151023_01.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US intelligence says China to ship weapons to Iran: CNN]]></title>
+            <description><![CDATA[[World] US intelligence says China to ship weapons to Iran: CNN]]></description>
+            <link>https://bdnews24.com/world/cc4b7d0808bc</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/cc4b7d0808bc</guid>
+            <pubDate>Sun, 12 Apr 2026 09:35:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/china-iran-weapons-120426-01-1775964900.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hungarians vote in closely watched election]]></title>
+            <description><![CDATA[[Europe] Hungarians vote in closely watched election]]></description>
+            <link>https://bdnews24.com/world/europe/fbb8d1311655</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/fbb8d1311655</guid>
+            <pubDate>Sun, 12 Apr 2026 09:31:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/hungary-election-orban-120426-01-1775964705.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS brings ‘ARIRANG’ tour to AMC theatres]]></title>
+            <description><![CDATA[[Entertainment] BTS brings ‘ARIRANG’ tour to AMC theatres]]></description>
+            <link>https://bdnews24.com/entertainment/1020ffbde9b8</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/1020ffbde9b8</guid>
+            <pubDate>Sun, 12 Apr 2026 09:29:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/bts-tour-120426-01-1775964554.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[30 dead in Haiti stampede]]></title>
+            <description><![CDATA[[Americas] 30 dead in Haiti stampede]]></description>
+            <link>https://bdnews24.com/world/americas/c221602c0220</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/c221602c0220</guid>
+            <pubDate>Sun, 12 Apr 2026 09:18:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/haiti-citadelle-laferriere-120426-1775963911.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US leaves Iran peace talks without a deal]]></title>
+            <description><![CDATA[[World] US leaves Iran peace talks without a deal]]></description>
+            <link>https://bdnews24.com/world/60014bf089e4</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/60014bf089e4</guid>
+            <pubDate>Sun, 12 Apr 2026 09:15:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-leaves-without-iran-deal-120426-01-1775963719.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Ancelotti sets 60-day deadline for Neymar’s World Cup audition]]></title>
             <description><![CDATA[[Sport] Ancelotti sets 60-day deadline for Neymar’s World Cup audition]]></description>
@@ -95,78 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/2ccdf8dbb432</guid>
             <pubDate>Sat, 11 Apr 2026 23:33:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/empty-oil-tankers-11042026-01-1775928711.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ICE launches effort to uncover ‘birth tourism schemes’]]></title>
-            <description><![CDATA[[World] ICE launches effort to uncover ‘birth tourism schemes’]]></description>
-            <link>https://bdnews24.com/world/0d73ba69b145</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/0d73ba69b145</guid>
-            <pubDate>Sat, 11 Apr 2026 23:06:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/ice-birthright-citizenship-11042026-01-1775927093.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Probe begins over dog culling at Bagerhat shrine]]></title>
-            <description><![CDATA[[Bangladesh] Probe begins over dog culling at Bagerhat shrine]]></description>
-            <link>https://bdnews24.com/bangladesh/a92a2174ca35</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a92a2174ca35</guid>
-            <pubDate>Sat, 11 Apr 2026 22:39:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/bagerhat-mazar-dog-110426-01-1775916174.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine can be useful in Strait of Hormuz: Britain]]></title>
-            <description><![CDATA[[World] Ukraine can be useful in Strait of Hormuz: Britain]]></description>
-            <link>https://bdnews24.com/world/022095ecce49</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/022095ecce49</guid>
-            <pubDate>Sat, 11 Apr 2026 22:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/ukraine-useful-hormuz-11042026-01-1775925318.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran supreme leader has 'severe, disfiguring wounds']]></title>
-            <description><![CDATA[[World] Iran supreme leader has 'severe, disfiguring wounds']]></description>
-            <link>https://bdnews24.com/world/ddef66a11083</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ddef66a11083</guid>
-            <pubDate>Sat, 11 Apr 2026 22:01:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/mojtaba-wounds-11042026-01-1775923261.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ADB trims Bangladesh growth forecast to 4%]]></title>
-            <description><![CDATA[[Economy] ADB trims Bangladesh growth forecast to 4%]]></description>
-            <link>https://bdnews24.com/economy/c6d7a177c8f9</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/c6d7a177c8f9</guid>
-            <pubDate>Sat, 11 Apr 2026 21:42:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-05/a18f1583-e7e6-46f8-84f5-9de1b2e92af2/may_day_labourers_010523_01.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Neymar has 2 months to prove himself: Ancelotti]]></title>
-            <description><![CDATA[[Sport] Neymar has 2 months to prove himself: Ancelotti]]></description>
-            <link>https://bdnews24.com/sport/b7536d41972c</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/b7536d41972c</guid>
-            <pubDate>Sat, 11 Apr 2026 20:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/neymar-ancelotti-11042026-01-1775918156.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[April 11, 2026]]></title>
-            <description><![CDATA[[Image] April 11, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/4ce7f07c6297</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/4ce7f07c6297</guid>
-            <pubDate>Sat, 11 Apr 2026 20:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/measles-patient-mgh-110426-009-1775909206.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Family pleads for body of Bangladeshi killed in Lebanon airstrike]]></title>
-            <description><![CDATA[[Bangladesh] Family pleads for body of Bangladeshi killed in Lebanon airstrike]]></description>
-            <link>https://bdnews24.com/bangladesh/821e86683cf0</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/821e86683cf0</guid>
-            <pubDate>Sat, 11 Apr 2026 20:32:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/faridpur-dipali-110426-01-1775915432.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Irish police move to break oil refinery blockade]]></title>
-            <description><![CDATA[[World] Irish police move to break oil refinery blockade]]></description>
-            <link>https://bdnews24.com/world/58856e242f81</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/58856e242f81</guid>
-            <pubDate>Sat, 11 Apr 2026 20:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/ireland-refinery-blockade-11042026-01-1775917714.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
