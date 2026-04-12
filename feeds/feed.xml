@@ -4,13 +4,29 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Apr 2026 08:36:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Apr 2026 09:34:51 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Apr 2026 08:36:47 GMT</pubDate>
+        <pubDate>Sun, 12 Apr 2026 09:34:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Shirin Sharmin Chaudhury gets bail]]></title>
-            <description><![CDATA[[Bangladesh] Shirin Sharmin Chaudhury gets bail]]></description>
+            <title><![CDATA[‎Online classes begin at Viqarunnisa]]></title>
+            <description><![CDATA[[Education] ‎Online classes begin at Viqarunnisa]]></description>
+            <link>https://bdnews24.com/education/8c5dfab5ca37</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/8c5dfab5ca37</guid>
+            <pubDate>Sun, 12 Apr 2026 15:11:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/pandemic-online-class-280820-10-1774972062.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Emergency measles-rubella vaccination campaign inaugurated in DSCC]]></title>
+            <description><![CDATA[[Bangladesh] Emergency measles-rubella vaccination campaign inaugurated in DSCC]]></description>
+            <link>https://bdnews24.com/bangladesh/b203c09679f5</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b203c09679f5</guid>
+            <pubDate>Sun, 12 Apr 2026 14:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/measles-vaccination-dscc-120426-01-1775983658.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shirin Sharmin gets bail, ‘no bar’ to release]]></title>
+            <description><![CDATA[[Bangladesh] Shirin Sharmin gets bail, ‘no bar’ to release]]></description>
             <link>https://bdnews24.com/bangladesh/8dda34b13fb1</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/8dda34b13fb1</guid>
             <pubDate>Sun, 12 Apr 2026 14:10:00 GMT</pubDate>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/91c9fb9bb3a9</guid>
             <pubDate>Sun, 12 Apr 2026 11:26:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/brighton-return-europe-dream-120426-01-1775971604.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stuttering Arsenal given title jolt]]></title>
-            <description><![CDATA[[Sport] Stuttering Arsenal given title jolt]]></description>
-            <link>https://bdnews24.com/sport/a0f35ceb5a42</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/a0f35ceb5a42</guid>
-            <pubDate>Sun, 12 Apr 2026 11:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/stuttering-arsenal-jolted-120426-01-1775971382.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[City, Chelsea attempt to set aside distractions]]></title>
-            <description><![CDATA[[Sport] City, Chelsea attempt to set aside distractions]]></description>
-            <link>https://bdnews24.com/sport/61729c16e877</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/61729c16e877</guid>
-            <pubDate>Sun, 12 Apr 2026 11:22:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/city-chelsea-distractions-120426-01-1775971323.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
