@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Apr 2026 10:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Apr 2026 11:24:40 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Apr 2026 10:27:30 GMT</pubDate>
+        <pubDate>Sun, 12 Apr 2026 11:24:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No transparency gap in ordinances: law minister]]></title>
+            <description><![CDATA[[Bangladesh] No transparency gap in ordinances: law minister]]></description>
+            <link>https://bdnews24.com/bangladesh/2cabdaa22e1c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2cabdaa22e1c</guid>
+            <pubDate>Sun, 12 Apr 2026 17:22:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/no-transparency-gap-120426-01-1775992939.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Measles drive kicks off in Mymensingh]]></title>
+            <description><![CDATA[[Bangladesh] Measles drive kicks off in Mymensingh]]></description>
+            <link>https://bdnews24.com/bangladesh/39de2758e91f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/39de2758e91f</guid>
+            <pubDate>Sun, 12 Apr 2026 17:14:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/mymensingh-haam-tika-120426-01-1775990019.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel's Ben-Gvir visits flashpoint Al-Aqsa Mosque compound]]></title>
+            <description><![CDATA[[Middle East] Israel's Ben-Gvir visits flashpoint Al-Aqsa Mosque compound]]></description>
+            <link>https://bdnews24.com/world/middle-east/9b6e58c9ddf7</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/9b6e58c9ddf7</guid>
+            <pubDate>Sun, 12 Apr 2026 16:58:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/al-aqsa-mosque-120426-01-1775991463.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Govt eyes clean labour export to Malaysia: Mahdi]]></title>
+            <description><![CDATA[[Bangladesh] Govt eyes clean labour export to Malaysia: Mahdi]]></description>
+            <link>https://bdnews24.com/bangladesh/93b673a7c400</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/93b673a7c400</guid>
+            <pubDate>Sun, 12 Apr 2026 16:41:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/mahdi-amin-120426-01-1775988157.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Gaza aid flotilla aims to break Israeli blockade]]></title>
             <description><![CDATA[[Middle East] Gaza aid flotilla aims to break Israeli blockade]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/54c4ee900254</guid>
             <pubDate>Sun, 12 Apr 2026 11:57:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/liverpool-find-momentum-120426-01-1775973408.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Barca rout Espanyol to go 9 points clear]]></title>
-            <description><![CDATA[[Sport] Barca rout Espanyol to go 9 points clear]]></description>
-            <link>https://bdnews24.com/sport/18e3509ea539</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/18e3509ea539</guid>
-            <pubDate>Sun, 12 Apr 2026 11:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/barcelona-tighten-grip-120426-01-1775973330.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Diesel shortage halts irrigation in Rangpur]]></title>
-            <description><![CDATA[[Bangladesh] Diesel shortage halts irrigation in Rangpur]]></description>
-            <link>https://bdnews24.com/bangladesh/b8b86673ebc6</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b8b86673ebc6</guid>
-            <pubDate>Sun, 12 Apr 2026 11:55:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/rangpur-oil-land-120426-01-1775969314.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bayern shatter league goal record]]></title>
-            <description><![CDATA[[Sport] Bayern shatter league goal record]]></description>
-            <link>https://bdnews24.com/sport/792ea5ef5cb5</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/792ea5ef5cb5</guid>
-            <pubDate>Sun, 12 Apr 2026 11:53:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/bayern-munich-goal-record-120426-01-1775973209.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thiago on cloud nine]]></title>
-            <description><![CDATA[[Sport] Thiago on cloud nine]]></description>
-            <link>https://bdnews24.com/sport/bcc00c3fc012</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/bcc00c3fc012</guid>
-            <pubDate>Sun, 12 Apr 2026 11:50:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/thiago-brentford-cloud-nine-120426-01-1775972969.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
