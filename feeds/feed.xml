@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Apr 2026 19:31:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Apr 2026 20:21:51 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Apr 2026 19:31:31 GMT</pubDate>
+        <pubDate>Sun, 12 Apr 2026 20:21:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[ICT jails Jubo League leader for ‘contemptuous’ post]]></title>
+            <description><![CDATA[[Politics] ICT jails Jubo League leader for ‘contemptuous’ post]]></description>
+            <link>https://bdnews24.com/politics/243a8cf5af3c</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/243a8cf5af3c</guid>
+            <pubDate>Mon, 13 Apr 2026 01:54:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/patwari-babu-120426-01-1776018808.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mosquitoes still swarm Dhaka despite control claims]]></title>
+            <description><![CDATA[[Bangladesh] Mosquitoes still swarm Dhaka despite control claims]]></description>
+            <link>https://bdnews24.com/bangladesh/9d860dff6e20</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9d860dff6e20</guid>
+            <pubDate>Mon, 13 Apr 2026 01:46:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/fogging-machine-mosquito-killing-bfdc-300719-11-1776022737.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[April 13, 2026]]></title>
             <description><![CDATA[[Image] April 13, 2026]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/face987efe31</guid>
             <pubDate>Sun, 12 Apr 2026 21:34:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/shama-obaed-islam-120426-01-1776005580.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Ringleader’ hacked to death in Mohammadpur]]></title>
-            <description><![CDATA[[Bangladesh] ‘Ringleader’ hacked to death in Mohammadpur]]></description>
-            <link>https://bdnews24.com/bangladesh/a224bc8d8355</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a224bc8d8355</guid>
-            <pubDate>Sun, 12 Apr 2026 21:17:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/exel-emon-murder-120426-01-1775999932.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Islami Bank MD sent on compulsory leave]]></title>
-            <description><![CDATA[[Business] Islami Bank MD sent on compulsory leave]]></description>
-            <link>https://bdnews24.com/business/a32a3a1b957f</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/a32a3a1b957f</guid>
-            <pubDate>Sun, 12 Apr 2026 21:02:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025August/SM/islami-bank-100-1754245632.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
