@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Apr 2026 15:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Apr 2026 16:24:22 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Apr 2026 15:25:29 GMT</pubDate>
+        <pubDate>Sun, 12 Apr 2026 16:24:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Pahela Baishakh in the air]]></title>
+            <description><![CDATA[[Image] Pahela Baishakh in the air]]></description>
+            <link>https://bdnews24.com/media-en/image/1d597ad21e3c</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/1d597ad21e3c</guid>
+            <pubDate>Sun, 12 Apr 2026 22:18:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/craft-du-110426-039-1776000861.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spurs remain in bottom 3 after Sunderland defeat]]></title>
+            <description><![CDATA[[Sport] Spurs remain in bottom 3 after Sunderland defeat]]></description>
+            <link>https://bdnews24.com/sport/83d814c9c18c</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/83d814c9c18c</guid>
+            <pubDate>Sun, 12 Apr 2026 22:09:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/tottenham-hotspur-120426-01-1776010136.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump vows Hormuz blockade as Iran talks fail]]></title>
+            <description><![CDATA[[World] Trump vows Hormuz blockade as Iran talks fail]]></description>
+            <link>https://bdnews24.com/world/d5112aca7dcb</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/d5112aca7dcb</guid>
+            <pubDate>Sun, 12 Apr 2026 21:52:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/trump-120426-01-1776007852.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh welcomes US-Iran peace initiative]]></title>
+            <description><![CDATA[[Bangladesh] Bangladesh welcomes US-Iran peace initiative]]></description>
+            <link>https://bdnews24.com/bangladesh/face987efe31</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/face987efe31</guid>
+            <pubDate>Sun, 12 Apr 2026 21:34:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/shama-obaed-islam-120426-01-1776005580.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[‘Ringleader’ hacked to death in Mohammadpur]]></title>
             <description><![CDATA[[Bangladesh] ‘Ringleader’ hacked to death in Mohammadpur]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/media-en/image/b8c141bbdad8</guid>
             <pubDate>Sun, 12 Apr 2026 18:46:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/measles-vaccination-dscc-120426-08-1775988998.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran sets 2 months to restore refiners]]></title>
-            <description><![CDATA[[World] Iran sets 2 months to restore refiners]]></description>
-            <link>https://bdnews24.com/world/7965d31c7783</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/7965d31c7783</guid>
-            <pubDate>Sun, 12 Apr 2026 18:41:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-refining-120426-01-1775997542.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles: 10 die in a day as outbreak worsens]]></title>
-            <description><![CDATA[[Bangladesh] Measles: 10 die in a day as outbreak worsens]]></description>
-            <link>https://bdnews24.com/bangladesh/499c7b8e0641</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/499c7b8e0641</guid>
-            <pubDate>Sun, 12 Apr 2026 18:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/measles-patient-sonkromon-bedi-hospital-290326-040-1774790031.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[CU student dies of ‘illness’]]></title>
-            <description><![CDATA[[Campus] CU student dies of ‘illness’]]></description>
-            <link>https://bdnews24.com/campus/bd766ade530b</link>
-            <guid isPermaLink="true">https://bdnews24.com/campus/bd766ade530b</guid>
-            <pubDate>Sun, 12 Apr 2026 18:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/zibok-chakma-120426-1775990003.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[DNCC launches measles vaccination drive]]></title>
-            <description><![CDATA[[Bangladesh] DNCC launches measles vaccination drive]]></description>
-            <link>https://bdnews24.com/bangladesh/e8ab5ba0a56b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e8ab5ba0a56b</guid>
-            <pubDate>Sun, 12 Apr 2026 18:03:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/measles-vaccination-dncc-120426-01-1775991012.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
