@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Apr 2026 11:48:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Apr 2026 12:55:18 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Apr 2026 11:48:53 GMT</pubDate>
+        <pubDate>Tue, 14 Apr 2026 12:55:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Crackdown planned on human trafficking, drugs: Minister]]></title>
+            <description><![CDATA[[Bangladesh] Crackdown planned on human trafficking, drugs: Minister]]></description>
+            <link>https://bdnews24.com/bangladesh/723a834debbf</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/723a834debbf</guid>
+            <pubDate>Tue, 14 Apr 2026 18:28:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/teknaf-salauddin-140426-01-1776166974.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Body with throat slit found on Nilphamari temple premises]]></title>
+            <description><![CDATA[[Bangladesh] Body with throat slit found on Nilphamari temple premises]]></description>
+            <link>https://bdnews24.com/bangladesh/1d81c6ed4d47</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1d81c6ed4d47</guid>
+            <pubDate>Tue, 14 Apr 2026 18:22:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/nilphamari-jaldhaka-thana-140426-01-1776164058.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Father ‘throws infant to the floor’, killing him]]></title>
             <description><![CDATA[[Bangladesh] Father ‘throws infant to the floor’, killing him]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/787a6a6392e4</guid>
             <pubDate>Tue, 14 Apr 2026 14:04:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/hormuz-strait-140426-02-1776148179.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kushtia ‘shrine leader’ murder: Case against 200]]></title>
-            <description><![CDATA[[Bangladesh] Kushtia ‘shrine leader’ murder: Case against 200]]></description>
-            <link>https://bdnews24.com/bangladesh/1e24d069e1ec</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1e24d069e1ec</guid>
-            <pubDate>Tue, 14 Apr 2026 12:40:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/kushtia-murder-mamla-140426-1776142825.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[New trial over Maradona's death begins in Argentina]]></title>
-            <description><![CDATA[[People] New trial over Maradona's death begins in Argentina]]></description>
-            <link>https://bdnews24.com/people/545cf6f9d009</link>
-            <guid isPermaLink="true">https://bdnews24.com/people/545cf6f9d009</guid>
-            <pubDate>Tue, 14 Apr 2026 12:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/diego-maradona-140426-01-1776148524.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
