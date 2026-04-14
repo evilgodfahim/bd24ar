@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Apr 2026 08:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Apr 2026 10:04:43 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Apr 2026 08:18:44 GMT</pubDate>
+        <pubDate>Tue, 14 Apr 2026 10:04:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US, Iran may resume Islamabad talks this week]]></title>
+            <description><![CDATA[[World] US, Iran may resume Islamabad talks this week]]></description>
+            <link>https://bdnews24.com/world/ca85fa1e591e</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ca85fa1e591e</guid>
+            <pubDate>Tue, 14 Apr 2026 15:56:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/islamabad-talks-110426-01-1775909674.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India’s Uttar Pradesh raises workers’ wages amid protests]]></title>
+            <description><![CDATA[[Neighbours] India’s Uttar Pradesh raises workers’ wages amid protests]]></description>
+            <link>https://bdnews24.com/neighbours/0e7c56f04026</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/0e7c56f04026</guid>
+            <pubDate>Tue, 14 Apr 2026 15:35:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/india-protest-14426-1776159298.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hyderabad rout Rajasthan]]></title>
+            <description><![CDATA[[Cricket] Hyderabad rout Rajasthan]]></description>
+            <link>https://bdnews24.com/cricket/8666124a7a84</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/8666124a7a84</guid>
+            <pubDate>Tue, 14 Apr 2026 15:33:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/hyderabad-cricket-14426-1776159176.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[College student hacked to death in Jatrabari]]></title>
+            <description><![CDATA[[Bangladesh] College student hacked to death in Jatrabari]]></description>
+            <link>https://bdnews24.com/bangladesh/0808a5ac9f1c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0808a5ac9f1c</guid>
+            <pubDate>Tue, 14 Apr 2026 15:33:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/jatrabari-thana-online-1776157076.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh thrives when farmers thrive: PM]]></title>
+            <description><![CDATA[[Bangladesh] Bangladesh thrives when farmers thrive: PM]]></description>
+            <link>https://bdnews24.com/bangladesh/38bfd75219e6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/38bfd75219e6</guid>
+            <pubDate>Tue, 14 Apr 2026 14:52:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/tarique-rahman-140426-301-1776155097.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Infant with measles symptoms dies in Mymensingh]]></title>
+            <description><![CDATA[[Bangladesh] Infant with measles symptoms dies in Mymensingh]]></description>
+            <link>https://bdnews24.com/bangladesh/b3ef79e5611a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b3ef79e5611a</guid>
+            <pubDate>Tue, 14 Apr 2026 14:49:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/mymensingh-ham-death-140426-01-1776151276.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fuel queues drain Pahela Baishakh joy in Dhaka]]></title>
+            <description><![CDATA[[Bangladesh] Fuel queues drain Pahela Baishakh joy in Dhaka]]></description>
+            <link>https://bdnews24.com/bangladesh/50aa47883275</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/50aa47883275</guid>
+            <pubDate>Tue, 14 Apr 2026 14:44:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/sonarbangla-filling-station-140426-01-1776153908.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Iraq coach undecided on future beyond WC]]></title>
             <description><![CDATA[[Sport] Iraq coach undecided on future beyond WC]]></description>
@@ -65,12 +121,12 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/tangail-farmers-card-launch-program-140426-01-1776143378.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Oil prices ease as US begins Iran port blockade]]></title>
-            <description><![CDATA[[World] Oil prices ease as US begins Iran port blockade]]></description>
+            <title><![CDATA[US, Iran may resume war talks this week]]></title>
+            <description><![CDATA[[World] US, Iran may resume war talks this week]]></description>
             <link>https://bdnews24.com/world/7192d26fa334</link>
             <guid isPermaLink="true">https://bdnews24.com/world/7192d26fa334</guid>
             <pubDate>Tue, 14 Apr 2026 10:54:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-port-14426-1776142377.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-us-talks-pakistan-11426-1775904945.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Prince Harry, Meghan arrive in Australia]]></title>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/business/cf4bd6e9df94</guid>
             <pubDate>Tue, 14 Apr 2026 10:33:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/china-14426-1776141123.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[April 14, 2026]]></title>
-            <description><![CDATA[[Image] April 14, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/93af299f553d</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/93af299f553d</guid>
-            <pubDate>Tue, 14 Apr 2026 10:29:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/chhyanat-ramna-botomul-140426-07-1776139674.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Goldman Sachs beats profit estimates]]></title>
-            <description><![CDATA[[Business] Goldman Sachs beats profit estimates]]></description>
-            <link>https://bdnews24.com/business/4561095b29e9</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/4561095b29e9</guid>
-            <pubDate>Tue, 14 Apr 2026 10:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/goldman-sachs-140426-01-1776140639.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israeli strikes kill 4 in Gaza]]></title>
-            <description><![CDATA[[World] Israeli strikes kill 4 in Gaza]]></description>
-            <link>https://bdnews24.com/world/abbf4f244091</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/abbf4f244091</guid>
-            <pubDate>Tue, 14 Apr 2026 10:21:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/gaza-strikes-ceasefire-140426-01-1776140404.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Leeds grab 2-1 win over Man Utd]]></title>
-            <description><![CDATA[[Sport] Leeds grab 2-1 win over Man Utd]]></description>
-            <link>https://bdnews24.com/sport/704eff723698</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/704eff723698</guid>
-            <pubDate>Tue, 14 Apr 2026 10:17:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/epl-leeds-man-utd-140426-01-1776140158.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Will continue to speak out against war: Pope]]></title>
-            <description><![CDATA[[World] Will continue to speak out against war: Pope]]></description>
-            <link>https://bdnews24.com/world/ca887838d7d8</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ca887838d7d8</guid>
-            <pubDate>Tue, 14 Apr 2026 10:12:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/pope-leo-trump-iran-war-140426-01-1776139893.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dozens detained in NYC protest over US arms sales to Israel]]></title>
-            <description><![CDATA[[Americas] Dozens detained in NYC protest over US arms sales to Israel]]></description>
-            <link>https://bdnews24.com/world/americas/7e17748a2eab</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/7e17748a2eab</guid>
-            <pubDate>Tue, 14 Apr 2026 10:02:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/nypd-arrest-140426-01-1776139306.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Carney clinches majority govt in Canada special elections]]></title>
-            <description><![CDATA[[World] Carney clinches majority govt in Canada special elections]]></description>
-            <link>https://bdnews24.com/world/e88c32ffa4f3</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/e88c32ffa4f3</guid>
-            <pubDate>Tue, 14 Apr 2026 09:59:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/canada-carney-election-majority-140426-01-1776139088.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
