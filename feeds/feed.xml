@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Apr 2026 19:58:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Apr 2026 20:50:12 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Apr 2026 19:58:34 GMT</pubDate>
+        <pubDate>Tue, 14 Apr 2026 20:50:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US hosts rare Israel-Lebanon talks]]></title>
+            <description><![CDATA[[World] US hosts rare Israel-Lebanon talks]]></description>
+            <link>https://bdnews24.com/world/8bc8e31a50ad</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/8bc8e31a50ad</guid>
+            <pubDate>Wed, 15 Apr 2026 02:44:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/israel-lebanon-140426-1776199414.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[bdnews24's Bengali New Year celebration]]></title>
             <description><![CDATA[[Image] bdnews24's Bengali New Year celebration]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/c3c08827d0c2</guid>
             <pubDate>Tue, 14 Apr 2026 21:02:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/jet-fuel-shock-14042026-01-1776178826.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu struggles for political gains in Iran war]]></title>
-            <description><![CDATA[[World] Netanyahu struggles for political gains in Iran war]]></description>
-            <link>https://bdnews24.com/world/78d577c178b8</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/78d577c178b8</guid>
-            <pubDate>Tue, 14 Apr 2026 20:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/netanyahu-struggle-gain-14042026-01-1776178244.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
