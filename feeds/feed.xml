@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Apr 2026 12:55:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Apr 2026 14:44:45 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Apr 2026 12:55:18 GMT</pubDate>
+        <pubDate>Tue, 14 Apr 2026 14:44:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[IMF cuts growth outlook, flags Iran war recession threat]]></title>
+            <description><![CDATA[[Economy] IMF cuts growth outlook, flags Iran war recession threat]]></description>
+            <link>https://bdnews24.com/economy/cb452ff83363</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/cb452ff83363</guid>
+            <pubDate>Tue, 14 Apr 2026 19:41:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/imf-growth-140426-01-1776174108.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Not bothered by others’ beliefs: Jamaat MP]]></title>
+            <description><![CDATA[[Bangladesh] Not bothered by others’ beliefs: Jamaat MP]]></description>
+            <link>https://bdnews24.com/bangladesh/a6946107c28d</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a6946107c28d</guid>
+            <pubDate>Tue, 14 Apr 2026 19:23:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/jamaat-baisakhi-rally-140426-01-1776168192.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Crackdown planned on human trafficking, drugs: Minister]]></title>
             <description><![CDATA[[Bangladesh] Crackdown planned on human trafficking, drugs: Minister]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/427a117a7519</guid>
             <pubDate>Tue, 14 Apr 2026 14:14:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iraq-coach-14426-1776154417.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Under pressure: Tracking the pain in G7 government debt]]></title>
-            <description><![CDATA[[Economy] Under pressure: Tracking the pain in G7 government debt]]></description>
-            <link>https://bdnews24.com/economy/0f4ebd8ade65</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/0f4ebd8ade65</guid>
-            <pubDate>Tue, 14 Apr 2026 14:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/2023-05/cc2c27cb-9c89-4cf5-a046-dc5ff000c299/G_7_leaders_sanctions_01.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US-sanctioned tankers pass Hormuz amid blockade: data]]></title>
-            <description><![CDATA[[Middle East] US-sanctioned tankers pass Hormuz amid blockade: data]]></description>
-            <link>https://bdnews24.com/world/middle-east/787a6a6392e4</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/787a6a6392e4</guid>
-            <pubDate>Tue, 14 Apr 2026 14:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/hormuz-strait-140426-02-1776148179.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
