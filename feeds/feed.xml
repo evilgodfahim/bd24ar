@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Apr 2026 18:55:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Apr 2026 19:58:34 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Apr 2026 18:55:27 GMT</pubDate>
+        <pubDate>Tue, 14 Apr 2026 19:58:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[bdnews24's Bengali New Year celebration]]></title>
+            <description><![CDATA[[Image] bdnews24's Bengali New Year celebration]]></description>
+            <link>https://bdnews24.com/media-en/image/c9fde5aac728</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/c9fde5aac728</guid>
+            <pubDate>Wed, 15 Apr 2026 01:23:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/bdnews24-boishakh-130426-413-1776186015.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India’s $1 housekeepers drive demand, safety fears]]></title>
+            <description><![CDATA[[Neighbours] India’s $1 housekeepers drive demand, safety fears]]></description>
+            <link>https://bdnews24.com/neighbours/65097c4c5ae1</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/65097c4c5ae1</guid>
+            <pubDate>Wed, 15 Apr 2026 01:13:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/india-housekeepers-150426-01-1776193924.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[6 ships turned back in Hormuz blockade: US military]]></title>
+            <description><![CDATA[[World] 6 ships turned back in Hormuz blockade: US military]]></description>
+            <link>https://bdnews24.com/world/8c9e1b24dc71</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/8c9e1b24dc71</guid>
+            <pubDate>Wed, 15 Apr 2026 00:55:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/vessel-hormuz-ceasefire-breach-12042026-01-1776018059.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Iran war fuels fertiliser fears in developing world: UN]]></title>
             <description><![CDATA[[World] Iran war fuels fertiliser fears in developing world: UN]]></description>
@@ -38,7 +62,7 @@
             <link>https://bdnews24.com/world/f14fddcf2bd3</link>
             <guid isPermaLink="true">https://bdnews24.com/world/f14fddcf2bd3</guid>
             <pubDate>Tue, 14 Apr 2026 23:32:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/lebanon-israel-talks-140426-01-1776185350.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/rubio-and-others-lebanon-talks-140426-01-1776189269.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Doly Begum elected as federal MP in Canada]]></title>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/78d577c178b8</guid>
             <pubDate>Tue, 14 Apr 2026 20:51:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/netanyahu-struggle-gain-14042026-01-1776178244.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[IMF cuts growth outlook, flags Iran war recession threat]]></title>
-            <description><![CDATA[[Economy] IMF cuts growth outlook, flags Iran war recession threat]]></description>
-            <link>https://bdnews24.com/economy/cb452ff83363</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/cb452ff83363</guid>
-            <pubDate>Tue, 14 Apr 2026 19:41:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/imf-growth-140426-01-1776174108.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Not bothered by others’ beliefs: Jamaat MP]]></title>
-            <description><![CDATA[[Bangladesh] Not bothered by others’ beliefs: Jamaat MP]]></description>
-            <link>https://bdnews24.com/bangladesh/a6946107c28d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a6946107c28d</guid>
-            <pubDate>Tue, 14 Apr 2026 19:23:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/jamaat-baisakhi-rally-140426-01-1776168192.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Crackdown planned on human trafficking, drugs: Minister]]></title>
-            <description><![CDATA[[Bangladesh] Crackdown planned on human trafficking, drugs: Minister]]></description>
-            <link>https://bdnews24.com/bangladesh/723a834debbf</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/723a834debbf</guid>
-            <pubDate>Tue, 14 Apr 2026 18:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/teknaf-salauddin-140426-01-1776166974.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
