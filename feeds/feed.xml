@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Apr 2026 04:35:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Apr 2026 06:24:30 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Apr 2026 04:35:28 GMT</pubDate>
+        <pubDate>Tue, 14 Apr 2026 06:24:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Tangail residents await PM’s Noboborsho visit]]></title>
+            <description><![CDATA[[Bangladesh] Tangail residents await PM’s Noboborsho visit]]></description>
+            <link>https://bdnews24.com/bangladesh/ad09b8861a79</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ad09b8861a79</guid>
+            <pubDate>Tue, 14 Apr 2026 12:07:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/tangail-farmers-card-launch-program-140426-01-1776143378.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM in Tangail for Farmer Card rollout]]></title>
+            <description><![CDATA[[Bangladesh] PM in Tangail for Farmer Card rollout]]></description>
+            <link>https://bdnews24.com/bangladesh/c01af8cd1fcf</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c01af8cd1fcf</guid>
+            <pubDate>Tue, 14 Apr 2026 11:59:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/tangail-farmers-card-launch-program-140426-01-1776143378.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oil prices ease as US begins Iran port blockade]]></title>
+            <description><![CDATA[[World] Oil prices ease as US begins Iran port blockade]]></description>
+            <link>https://bdnews24.com/world/7192d26fa334</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/7192d26fa334</guid>
+            <pubDate>Tue, 14 Apr 2026 10:54:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-port-14426-1776142377.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prince Harry, Meghan arrive in Australia]]></title>
+            <description><![CDATA[[People] Prince Harry, Meghan arrive in Australia]]></description>
+            <link>https://bdnews24.com/people/30b322765977</link>
+            <guid isPermaLink="true">https://bdnews24.com/people/30b322765977</guid>
+            <pubDate>Tue, 14 Apr 2026 10:51:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/harrymeghan-14426-1776142244.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US, Iran leave door open to dialogue]]></title>
+            <description><![CDATA[[World] US, Iran leave door open to dialogue]]></description>
+            <link>https://bdnews24.com/world/7bf5f1ae3e81</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/7bf5f1ae3e81</guid>
+            <pubDate>Tue, 14 Apr 2026 10:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/pakistan-us-iran-14426-1776142675.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stocks gain, oil and dollar retreat]]></title>
+            <description><![CDATA[[Economy] Stocks gain, oil and dollar retreat]]></description>
+            <link>https://bdnews24.com/economy/bde830ca0ec5</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/bde830ca0ec5</guid>
+            <pubDate>Tue, 14 Apr 2026 10:41:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/japan-nikkei-140426-01-1776141615.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chayyanaut heralds new year at Ramna Botomul]]></title>
+            <description><![CDATA[[Image] Chayyanaut heralds new year at Ramna Botomul]]></description>
+            <link>https://bdnews24.com/media-en/image/3ae8608c913d</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/3ae8608c913d</guid>
+            <pubDate>Tue, 14 Apr 2026 10:36:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/chhyanat-ramna-botomul-140426-10-1776139960.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[China's export engine stutters]]></title>
             <description><![CDATA[[Business] China's export engine stutters]]></description>
@@ -81,8 +137,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-vance-iran-talks-140426-01-1776138662.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Boishakhi Shobhajatra’ at DU’s Fine Arts Faculty]]></title>
-            <description><![CDATA[[Bangladesh] Boishakhi Shobhajatra’ at DU’s Fine Arts Faculty]]></description>
+            <title><![CDATA['Boishakhi Shobhajatra’ at DU’s Fine Arts Faculty]]></title>
+            <description><![CDATA[[Bangladesh] 'Boishakhi Shobhajatra’ at DU’s Fine Arts Faculty]]></description>
             <link>https://bdnews24.com/bangladesh/3f8bc3f2882e</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/3f8bc3f2882e</guid>
             <pubDate>Tue, 14 Apr 2026 09:46:00 GMT</pubDate>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/9bafca0b5376</guid>
             <pubDate>Tue, 14 Apr 2026 08:57:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/pohela-boishakh-chayanot-140426-01-1776126503.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[7 die as rice-laden truck falls into ditch in Daudkandi]]></title>
-            <description><![CDATA[[Bangladesh] 7 die as rice-laden truck falls into ditch in Daudkandi]]></description>
-            <link>https://bdnews24.com/bangladesh/7f36283934ea</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7f36283934ea</guid>
-            <pubDate>Tue, 14 Apr 2026 08:48:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/kumilla-accident-140426-1776132161.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hinge’s record three-wicket over sinks Royals]]></title>
-            <description><![CDATA[[Cricket] Hinge’s record three-wicket over sinks Royals]]></description>
-            <link>https://bdnews24.com/cricket/380ee8e775b4</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/380ee8e775b4</guid>
-            <pubDate>Tue, 14 Apr 2026 02:20:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/praful-hinge-140426-01-1776111567.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[A bloom of humanity in the light of Baishakh]]></title>
-            <description><![CDATA[[Bangladesh] A bloom of humanity in the light of Baishakh]]></description>
-            <link>https://bdnews24.com/bangladesh/ce7b4bb92a6b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ce7b4bb92a6b</guid>
-            <pubDate>Tue, 14 Apr 2026 01:55:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/hari-boishu-tripura-khagrachari-130426-13-1776085235.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Britney Spears enters rehab following DUI arrest]]></title>
-            <description><![CDATA[[Entertainment] Britney Spears enters rehab following DUI arrest]]></description>
-            <link>https://bdnews24.com/entertainment/237be1c36ef5</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/237be1c36ef5</guid>
-            <pubDate>Tue, 14 Apr 2026 01:16:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/spears-110226-01-1770816602.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[IEA ready to tap more oil reserves as war disrupts supply]]></title>
-            <description><![CDATA[[World] IEA ready to tap more oil reserves as war disrupts supply]]></description>
-            <link>https://bdnews24.com/world/853e334b6e7b</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/853e334b6e7b</guid>
-            <pubDate>Tue, 14 Apr 2026 01:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/iea-chief-23326-1774235521.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel hits Lebanon border town before US talks]]></title>
-            <description><![CDATA[[World] Israel hits Lebanon border town before US talks]]></description>
-            <link>https://bdnews24.com/world/520ec3277273</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/520ec3277273</guid>
-            <pubDate>Tue, 14 Apr 2026 00:59:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/israel-lebanon-130426-1776106744.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Slot backs Liverpool for Anfield comeback]]></title>
-            <description><![CDATA[[Sport] Slot backs Liverpool for Anfield comeback]]></description>
-            <link>https://bdnews24.com/sport/623364d896d2</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/623364d896d2</guid>
-            <pubDate>Tue, 14 Apr 2026 00:53:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/arne-slot-130426-01-1776106409.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
