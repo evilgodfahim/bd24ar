@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Apr 2026 06:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Apr 2026 08:18:44 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Apr 2026 06:24:30 GMT</pubDate>
+        <pubDate>Tue, 14 Apr 2026 08:18:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iraq coach undecided on future beyond WC]]></title>
+            <description><![CDATA[[Sport] Iraq coach undecided on future beyond WC]]></description>
+            <link>https://bdnews24.com/sport/427a117a7519</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/427a117a7519</guid>
+            <pubDate>Tue, 14 Apr 2026 14:14:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iraq-coach-14426-1776154417.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Under pressure: Tracking the pain in G7 government debt]]></title>
+            <description><![CDATA[[Economy] Under pressure: Tracking the pain in G7 government debt]]></description>
+            <link>https://bdnews24.com/economy/0f4ebd8ade65</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/0f4ebd8ade65</guid>
+            <pubDate>Tue, 14 Apr 2026 14:09:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/2023-05/cc2c27cb-9c89-4cf5-a046-dc5ff000c299/G_7_leaders_sanctions_01.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US-sanctioned tankers pass Hormuz amid blockade: data]]></title>
+            <description><![CDATA[[Middle East] US-sanctioned tankers pass Hormuz amid blockade: data]]></description>
+            <link>https://bdnews24.com/world/middle-east/787a6a6392e4</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/787a6a6392e4</guid>
+            <pubDate>Tue, 14 Apr 2026 14:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/hormuz-strait-140426-02-1776148179.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kushtia ‘shrine leader’ murder: Case against 200]]></title>
+            <description><![CDATA[[Bangladesh] Kushtia ‘shrine leader’ murder: Case against 200]]></description>
+            <link>https://bdnews24.com/bangladesh/1e24d069e1ec</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1e24d069e1ec</guid>
+            <pubDate>Tue, 14 Apr 2026 12:40:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/kushtia-murder-mamla-140426-1776142825.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[New trial over Maradona's death begins in Argentina]]></title>
+            <description><![CDATA[[People] New trial over Maradona's death begins in Argentina]]></description>
+            <link>https://bdnews24.com/people/545cf6f9d009</link>
+            <guid isPermaLink="true">https://bdnews24.com/people/545cf6f9d009</guid>
+            <pubDate>Tue, 14 Apr 2026 12:36:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/diego-maradona-140426-01-1776148524.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Tangail residents await PM’s Noboborsho visit]]></title>
             <description><![CDATA[[Bangladesh] Tangail residents await PM’s Noboborsho visit]]></description>
@@ -17,8 +57,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/tangail-farmers-card-launch-program-140426-01-1776143378.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[PM in Tangail for Farmer Card rollout]]></title>
-            <description><![CDATA[[Bangladesh] PM in Tangail for Farmer Card rollout]]></description>
+            <title><![CDATA[PM kicks off Farmer Card drive in Tangail]]></title>
+            <description><![CDATA[[Bangladesh] PM kicks off Farmer Card drive in Tangail]]></description>
             <link>https://bdnews24.com/bangladesh/c01af8cd1fcf</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/c01af8cd1fcf</guid>
             <pubDate>Tue, 14 Apr 2026 11:59:00 GMT</pubDate>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/e88c32ffa4f3</guid>
             <pubDate>Tue, 14 Apr 2026 09:59:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/canada-carney-election-majority-140426-01-1776139088.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US, Iran made a lot of progress in talks: Vance]]></title>
-            <description><![CDATA[[World] US, Iran made a lot of progress in talks: Vance]]></description>
-            <link>https://bdnews24.com/world/9e5258275486</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/9e5258275486</guid>
-            <pubDate>Tue, 14 Apr 2026 09:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-vance-iran-talks-140426-01-1776138662.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA['Boishakhi Shobhajatra’ at DU’s Fine Arts Faculty]]></title>
-            <description><![CDATA[[Bangladesh] 'Boishakhi Shobhajatra’ at DU’s Fine Arts Faculty]]></description>
-            <link>https://bdnews24.com/bangladesh/3f8bc3f2882e</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3f8bc3f2882e</guid>
-            <pubDate>Tue, 14 Apr 2026 09:46:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/baishakhi-rally-140426-01-1776136470.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan says all options on table for funding]]></title>
-            <description><![CDATA[[South Asia] Pakistan says all options on table for funding]]></description>
-            <link>https://bdnews24.com/world/south-asia/4caa32a2d964</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/south-asia/4caa32a2d964</guid>
-            <pubDate>Tue, 14 Apr 2026 09:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/muhammad-aurangzeb-140426-01-1776137732.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chhayanaut rings in New Year with call for fearless society]]></title>
-            <description><![CDATA[[Entertainment] Chhayanaut rings in New Year with call for fearless society]]></description>
-            <link>https://bdnews24.com/entertainment/9e126ecc06ee</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/9e126ecc06ee</guid>
-            <pubDate>Tue, 14 Apr 2026 09:33:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/pahela-baishakh-celebration-140426-01-1776134374.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pahela Baishakh celebration at Ramna Botomul]]></title>
-            <description><![CDATA[[Bangladesh] Pahela Baishakh celebration at Ramna Botomul]]></description>
-            <link>https://bdnews24.com/bangladesh/9bafca0b5376</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9bafca0b5376</guid>
-            <pubDate>Tue, 14 Apr 2026 08:57:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/pohela-boishakh-chayanot-140426-01-1776126503.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
