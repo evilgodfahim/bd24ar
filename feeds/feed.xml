@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Apr 2026 21:40:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Apr 2026 22:34:52 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Apr 2026 21:40:26 GMT</pubDate>
+        <pubDate>Tue, 14 Apr 2026 22:34:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Dembele double sends PSG into semis]]></title>
+            <description><![CDATA[[Sport] Dembele double sends PSG into semis]]></description>
+            <link>https://bdnews24.com/sport/fe527e6e486b</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/fe527e6e486b</guid>
+            <pubDate>Wed, 15 Apr 2026 04:19:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/ousmane-dembele-150426-01-1776205111.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Atletico survive Barca scare to reach semis]]></title>
+            <description><![CDATA[[Sport] Atletico survive Barca scare to reach semis]]></description>
+            <link>https://bdnews24.com/sport/8bff5450f9d9</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/8bff5450f9d9</guid>
+            <pubDate>Wed, 15 Apr 2026 04:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/atletico-barca-150426-01-1776204413.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Trump, Modi stress need to keep Hormuz open in call]]></title>
             <description><![CDATA[[World] Trump, Modi stress need to keep Hormuz open in call]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/de3660d84353</guid>
             <pubDate>Tue, 14 Apr 2026 21:31:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/italy-suspend-israel-deal-14042026-01-1776180607.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Madrasa teacher ‘kills self’ over student abuse charges]]></title>
-            <description><![CDATA[[Bangladesh] Madrasa teacher ‘kills self’ over student abuse charges]]></description>
-            <link>https://bdnews24.com/bangladesh/aee2a90ae853</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/aee2a90ae853</guid>
-            <pubDate>Tue, 14 Apr 2026 21:30:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025January/SM/meherpur-gangni-210424-1737910035.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Baishakh brings the city to bdnews24.com]]></title>
-            <description><![CDATA[[Bangladesh] Baishakh brings the city to bdnews24.com]]></description>
-            <link>https://bdnews24.com/bangladesh/77d0aa0670b0</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/77d0aa0670b0</guid>
-            <pubDate>Tue, 14 Apr 2026 21:13:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/bdnews24-boishakh-140426-227-1776182625.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
