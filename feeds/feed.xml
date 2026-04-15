@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Apr 2026 15:57:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 16:54:32 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Apr 2026 15:57:11 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 16:54:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[950,000 children vaccinated against measles]]></title>
+            <description><![CDATA[[Bangladesh] 950,000 children vaccinated against measles]]></description>
+            <link>https://bdnews24.com/bangladesh/436b6bd89591</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/436b6bd89591</guid>
+            <pubDate>Wed, 15 Apr 2026 22:45:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/narayangonj-measless-050426-01-1775411589.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kuwait detained US-Kuwaiti journalist: CPJ]]></title>
+            <description><![CDATA[[World] Kuwait detained US-Kuwaiti journalist: CPJ]]></description>
+            <link>https://bdnews24.com/world/c1eae0adbd61</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/c1eae0adbd61</guid>
+            <pubDate>Wed, 15 Apr 2026 21:58:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/shihab-150426-01-1776268711.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Trump signals peace as Pakistan army chief in Tehran]]></title>
             <description><![CDATA[[World] Trump signals peace as Pakistan army chief in Tehran]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/42dc84f91a4c</guid>
             <pubDate>Wed, 15 Apr 2026 18:22:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/hadi-murder-helal-remand-150426-01-1776250401.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Special cell’ to curb women, children abuse: advisor]]></title>
-            <description><![CDATA[[Bangladesh] ‘Special cell’ to curb women, children abuse: advisor]]></description>
-            <link>https://bdnews24.com/bangladesh/f50bda24a363</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f50bda24a363</guid>
-            <pubDate>Wed, 15 Apr 2026 18:02:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024December/SM/sexual-harass-021224-01-1733162551.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles menace will take time to ebb: advisor]]></title>
-            <description><![CDATA[[Health] Measles menace will take time to ebb: advisor]]></description>
-            <link>https://bdnews24.com/health/e08a5c8968c3</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/e08a5c8968c3</guid>
-            <pubDate>Wed, 15 Apr 2026 17:52:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/measles-hospital-270326-04-1774640617.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
