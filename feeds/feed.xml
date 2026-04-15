@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Apr 2026 16:54:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 17:57:28 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Apr 2026 16:54:32 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 17:57:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Maguire out of Chelsea trip after ban]]></title>
+            <description><![CDATA[[Sport] Maguire out of Chelsea trip after ban]]></description>
+            <link>https://bdnews24.com/sport/060019742e10</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/060019742e10</guid>
+            <pubDate>Wed, 15 Apr 2026 23:32:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/harry-maguire-150426-01-1776274291.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Asian Cup draw set for May 9 after delay]]></title>
+            <description><![CDATA[[Sport] Asian Cup draw set for May 9 after delay]]></description>
+            <link>https://bdnews24.com/sport/58ce2649de46</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/58ce2649de46</guid>
+            <pubDate>Wed, 15 Apr 2026 23:02:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/asia-cup-040226-1770180093.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[950,000 children vaccinated against measles]]></title>
             <description><![CDATA[[Bangladesh] 950,000 children vaccinated against measles]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/1ba0d8f97a99</guid>
             <pubDate>Wed, 15 Apr 2026 18:48:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-blockade-hormuz-12042026-01-1776002302.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[9 dead after Turkey's second school shooting in two days]]></title>
-            <description><![CDATA[[World] 9 dead after Turkey's second school shooting in two days]]></description>
-            <link>https://bdnews24.com/world/b693a1e62e7d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/b693a1e62e7d</guid>
-            <pubDate>Wed, 15 Apr 2026 18:43:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/turkey-school-schooting-15042026-1776257005.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Arms dealer’ to be quizzed in Hadi probe]]></title>
-            <description><![CDATA[[Bangladesh] ‘Arms dealer’ to be quizzed in Hadi probe]]></description>
-            <link>https://bdnews24.com/bangladesh/42dc84f91a4c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/42dc84f91a4c</guid>
-            <pubDate>Wed, 15 Apr 2026 18:22:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/hadi-murder-helal-remand-150426-01-1776250401.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
