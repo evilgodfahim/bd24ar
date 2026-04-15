@@ -4,10 +4,90 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Apr 2026 01:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 04:35:36 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Apr 2026 01:14:52 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 04:35:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Amazon to buy satellite firm Globalstar in $11.57bn deal]]></title>
+            <description><![CDATA[[Business] Amazon to buy satellite firm Globalstar in $11.57bn deal]]></description>
+            <link>https://bdnews24.com/business/b34d1b513c37</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/b34d1b513c37</guid>
+            <pubDate>Wed, 15 Apr 2026 10:13:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/atlas-v-rocket-150426-01-1776226388.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israeli fire kills 11 in Gaza: medics]]></title>
+            <description><![CDATA[[Middle East] Israeli fire kills 11 in Gaza: medics]]></description>
+            <link>https://bdnews24.com/world/middle-east/ee47a57ccab8</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/ee47a57ccab8</guid>
+            <pubDate>Wed, 15 Apr 2026 10:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/israel-fire-gaza-150426-01-1776226093.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US strike in Pacific kills 4]]></title>
+            <description><![CDATA[[World] US strike in Pacific kills 4]]></description>
+            <link>https://bdnews24.com/world/1f977e3b3d4e</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/1f977e3b3d4e</guid>
+            <pubDate>Wed, 15 Apr 2026 10:06:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-strikes-pacific-150426-01-1776225943.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Couple killed as bus crushes motorcycle in Khulna]]></title>
+            <description><![CDATA[[Bangladesh] Couple killed as bus crushes motorcycle in Khulna]]></description>
+            <link>https://bdnews24.com/bangladesh/41b10e6a159b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/41b10e6a159b</guid>
+            <pubDate>Wed, 15 Apr 2026 09:59:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/khulna-accident-150426-01-1776224449.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India plant blast kills 14]]></title>
+            <description><![CDATA[[Neighbours] India plant blast kills 14]]></description>
+            <link>https://bdnews24.com/neighbours/2acc4bcb653e</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/2acc4bcb653e</guid>
+            <pubDate>Wed, 15 Apr 2026 09:53:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/vedanta-plant-15426-1776225077.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[World Bank could provide up to $100 billion in funds for countries hit by war, Banga says]]></title>
+            <description><![CDATA[[World] World Bank could provide up to $100 billion in funds for countries hit by war, Banga says]]></description>
+            <link>https://bdnews24.com/world/e508b5592deb</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e508b5592deb</guid>
+            <pubDate>Wed, 15 Apr 2026 09:46:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/wb-funds-iran-war-150426-01-1776224736.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sanctioned tanker turns back to Strait of Hormuz]]></title>
+            <description><![CDATA[[Middle East] Sanctioned tanker turns back to Strait of Hormuz]]></description>
+            <link>https://bdnews24.com/world/middle-east/957fd7adcc53</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/957fd7adcc53</guid>
+            <pubDate>Wed, 15 Apr 2026 09:39:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/tanker-hormuz-blocked-150426-01-1776224210.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canada, UK, Australia, Japan call for end to Lebanon hostilities]]></title>
+            <description><![CDATA[[World] Canada, UK, Australia, Japan call for end to Lebanon hostilities]]></description>
+            <link>https://bdnews24.com/world/54805271c031</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/54805271c031</guid>
+            <pubDate>Wed, 15 Apr 2026 09:34:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/countries-lebanon-war-150426-01-1776224029.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[RHD engineer made project director amid graft probe]]></title>
+            <description><![CDATA[[Bangladesh] RHD engineer made project director amid graft probe]]></description>
+            <link>https://bdnews24.com/bangladesh/89d7405c7020</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/89d7405c7020</guid>
+            <pubDate>Wed, 15 Apr 2026 09:19:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024August/SM/roads-and-highway-head-office-180824-1724007348.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hormuz traffic barely affected on 1st day of US blockade]]></title>
+            <description><![CDATA[[Middle East] Hormuz traffic barely affected on 1st day of US blockade]]></description>
+            <link>https://bdnews24.com/world/middle-east/422822a9778c</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/422822a9778c</guid>
+            <pubDate>Wed, 15 Apr 2026 08:51:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/strait-of-hormuz-200326-01-1773991973.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Dembele double sends PSG into semis]]></title>
             <description><![CDATA[[Sport] Dembele double sends PSG into semis]]></description>
@@ -87,86 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/d9404b506539</guid>
             <pubDate>Tue, 14 Apr 2026 23:47:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026January/SM/bola-trolar-dubi-020125-01-1767367999.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA['Historic' Israel-Lebanon talks should agree peace framework: Rubio]]></title>
-            <description><![CDATA[[World] 'Historic' Israel-Lebanon talks should agree peace framework: Rubio]]></description>
-            <link>https://bdnews24.com/world/f14fddcf2bd3</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/f14fddcf2bd3</guid>
-            <pubDate>Tue, 14 Apr 2026 23:32:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/rubio-and-others-lebanon-talks-140426-01-1776189269.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Doly Begum elected as federal MP in Canada]]></title>
-            <description><![CDATA[[Bangladesh] Doly Begum elected as federal MP in Canada]]></description>
-            <link>https://bdnews24.com/bangladesh/c372368d3d9e</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c372368d3d9e</guid>
-            <pubDate>Tue, 14 Apr 2026 23:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/doly-begum-14042026-1776187103.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stars light up bdnews24.com’s Baishakh celebration]]></title>
-            <description><![CDATA[[Bangladesh] Stars light up bdnews24.com’s Baishakh celebration]]></description>
-            <link>https://bdnews24.com/bangladesh/3202582913ae</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3202582913ae</guid>
-            <pubDate>Tue, 14 Apr 2026 23:06:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/bdnews24-boishakh-140426-277-1776179403.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pope Leo issues warning on democracy]]></title>
-            <description><![CDATA[[World] Pope Leo issues warning on democracy]]></description>
-            <link>https://bdnews24.com/world/652eaacd0091</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/652eaacd0091</guid>
-            <pubDate>Tue, 14 Apr 2026 22:55:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/pope-leo-warns-democracy-14042026-01-1776185658.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hasnat confronted for visiting ‘AL-linked’ house]]></title>
-            <description><![CDATA[[Bangladesh] Hasnat confronted for visiting ‘AL-linked’ house]]></description>
-            <link>https://bdnews24.com/bangladesh/810e90da7d47</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/810e90da7d47</guid>
-            <pubDate>Tue, 14 Apr 2026 22:32:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/chottagram-hasnat-abdulla-140426-01-1776184022.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Baishakhi Shobhajatra ushers in Bengali New Year 1433]]></title>
-            <description><![CDATA[[Image] Baishakhi Shobhajatra ushers in Bengali New Year 1433]]></description>
-            <link>https://bdnews24.com/media-en/image/db8f7caf846c</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/db8f7caf846c</guid>
-            <pubDate>Tue, 14 Apr 2026 22:23:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/baishakhi-shobhajatra-140426-019-1776149370.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[China 'unreliable partner' by hoarding oil: Bessent]]></title>
-            <description><![CDATA[[World] China 'unreliable partner' by hoarding oil: Bessent]]></description>
-            <link>https://bdnews24.com/world/36be796d6aec</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/36be796d6aec</guid>
-            <pubDate>Tue, 14 Apr 2026 22:11:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/china-hoarding-bessent-14042026-01-1776183027.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[World is drifting toward more adverse growth: IMF]]></title>
-            <description><![CDATA[[Economy] World is drifting toward more adverse growth: IMF]]></description>
-            <link>https://bdnews24.com/economy/48558d943c71</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/48558d943c71</guid>
-            <pubDate>Tue, 14 Apr 2026 21:45:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/adverse-growth-imf-14042026-01-1776181456.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Opposition trying to stall public-interest programmes under ‘ghost of autocracy’: Tarique]]></title>
-            <description><![CDATA[[Bangladesh] Opposition trying to stall public-interest programmes under ‘ghost of autocracy’: Tarique]]></description>
-            <link>https://bdnews24.com/bangladesh/d0a432b26e89</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d0a432b26e89</guid>
-            <pubDate>Tue, 14 Apr 2026 21:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/tangail-140426-1776177422.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Italy suspends Israeli defence deal]]></title>
-            <description><![CDATA[[World] Italy suspends Israeli defence deal]]></description>
-            <link>https://bdnews24.com/world/de3660d84353</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/de3660d84353</guid>
-            <pubDate>Tue, 14 Apr 2026 21:31:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/italy-suspend-israel-deal-14042026-01-1776180607.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
