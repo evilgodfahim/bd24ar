@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Apr 2026 19:05:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 20:35:54 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Apr 2026 19:05:18 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 20:35:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Level crossings turn deadly as safety crisis deepens]]></title>
+            <description><![CDATA[[Bangladesh] Level crossings turn deadly as safety crisis deepens]]></description>
+            <link>https://bdnews24.com/bangladesh/8dca540522f4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8dca540522f4</guid>
+            <pubDate>Thu, 16 Apr 2026 01:52:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/comilla-accident-220326-01-1774174059.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Atlantic current collapse risk ‘higher than thought’]]></title>
+            <description><![CDATA[[Environment] Atlantic current collapse risk ‘higher than thought’]]></description>
+            <link>https://bdnews24.com/environment/e34c42327878</link>
+            <guid isPermaLink="true">https://bdnews24.com/environment/e34c42327878</guid>
+            <pubDate>Thu, 16 Apr 2026 01:11:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/atlantic-ocean-160426-01-1776280261.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Measles: Vaccines in stock, syringes not]]></title>
             <description><![CDATA[[Health] Measles: Vaccines in stock, syringes not]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/health/67f62159202e</guid>
             <pubDate>Wed, 15 Apr 2026 21:09:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/measles-patient-sonkromon-bedi-hospital-290326-040-1774790031.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PM calls for $2bn support as energy crunch bites]]></title>
-            <description><![CDATA[[Bangladesh] PM calls for $2bn support as energy crunch bites]]></description>
-            <link>https://bdnews24.com/bangladesh/69bb8f1de8f7</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/69bb8f1de8f7</guid>
-            <pubDate>Wed, 15 Apr 2026 21:03:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/pm-azec-summit-150426-03-1776263055.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hasnat seeks urgent expansion of Cumilla-Sylhet Highway]]></title>
-            <description><![CDATA[[Bangladesh] Hasnat seeks urgent expansion of Cumilla-Sylhet Highway]]></description>
-            <link>https://bdnews24.com/bangladesh/e22f68dff92f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e22f68dff92f</guid>
-            <pubDate>Wed, 15 Apr 2026 20:25:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/hasnat-abdullah-080426-01-1775650345.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
