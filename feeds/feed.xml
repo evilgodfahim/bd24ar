@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Apr 2026 14:24:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 15:57:11 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Apr 2026 14:24:51 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 15:57:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump signals peace as Pakistan army chief in Tehran]]></title>
+            <description><![CDATA[[World] Trump signals peace as Pakistan army chief in Tehran]]></description>
+            <link>https://bdnews24.com/world/3708a35cac27</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/3708a35cac27</guid>
+            <pubDate>Wed, 15 Apr 2026 21:33:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/lebanon-south-150426-01-1776267154.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rain likely Thursday as heatwave grips 6 districts]]></title>
+            <description><![CDATA[[Bangladesh] Rain likely Thursday as heatwave grips 6 districts]]></description>
+            <link>https://bdnews24.com/bangladesh/f8a06931aad9</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f8a06931aad9</guid>
+            <pubDate>Wed, 15 Apr 2026 21:30:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/rangpur-hot-weather-150722-01-1776265872.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shimanto Bank holds Business Summit 2026]]></title>
+            <description><![CDATA[[Business] Shimanto Bank holds Business Summit 2026]]></description>
+            <link>https://bdnews24.com/business/16a3c410d05e</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/16a3c410d05e</guid>
+            <pubDate>Wed, 15 Apr 2026 21:23:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/shimanto-bank-15042026-1776266551.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tarique named in TIME 100]]></title>
+            <description><![CDATA[[Bangladesh] Tarique named in TIME 100]]></description>
+            <link>https://bdnews24.com/bangladesh/6340da1db9d5</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6340da1db9d5</guid>
+            <pubDate>Wed, 15 Apr 2026 21:14:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026January/SM/tareq-1769613821.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 more die of measles, symptoms]]></title>
+            <description><![CDATA[[Health] 3 more die of measles, symptoms]]></description>
+            <link>https://bdnews24.com/health/67f62159202e</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/67f62159202e</guid>
+            <pubDate>Wed, 15 Apr 2026 21:09:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/measles-patient-sonkromon-bedi-hospital-290326-040-1774790031.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM calls for $2bn support as energy crunch bites]]></title>
+            <description><![CDATA[[Bangladesh] PM calls for $2bn support as energy crunch bites]]></description>
+            <link>https://bdnews24.com/bangladesh/69bb8f1de8f7</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/69bb8f1de8f7</guid>
+            <pubDate>Wed, 15 Apr 2026 21:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/pm-azec-summit-150426-03-1776263055.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hasnat seeks urgent expansion of Cumilla-Sylhet Highway]]></title>
+            <description><![CDATA[[Bangladesh] Hasnat seeks urgent expansion of Cumilla-Sylhet Highway]]></description>
+            <link>https://bdnews24.com/bangladesh/e22f68dff92f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e22f68dff92f</guid>
+            <pubDate>Wed, 15 Apr 2026 20:25:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/hasnat-abdullah-080426-01-1775650345.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[3 tankers bring jet fuel, diesel to port]]></title>
             <description><![CDATA[[Business] 3 tankers bring jet fuel, diesel to port]]></description>
@@ -81,8 +137,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-blockade-hormuz-12042026-01-1776002302.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[4 dead after Turkey's second school shooting in two days]]></title>
-            <description><![CDATA[[World] 4 dead after Turkey's second school shooting in two days]]></description>
+            <title><![CDATA[9 dead after Turkey's second school shooting in two days]]></title>
+            <description><![CDATA[[World] 9 dead after Turkey's second school shooting in two days]]></description>
             <link>https://bdnews24.com/world/b693a1e62e7d</link>
             <guid isPermaLink="true">https://bdnews24.com/world/b693a1e62e7d</guid>
             <pubDate>Wed, 15 Apr 2026 18:43:00 GMT</pubDate>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/health/e08a5c8968c3</guid>
             <pubDate>Wed, 15 Apr 2026 17:52:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/measles-hospital-270326-04-1774640617.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Griezmann dares to dream after Atletico oust Barca]]></title>
-            <description><![CDATA[[Sport] Griezmann dares to dream after Atletico oust Barca]]></description>
-            <link>https://bdnews24.com/sport/3f75a5f56720</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/3f75a5f56720</guid>
-            <pubDate>Wed, 15 Apr 2026 17:37:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/griezmann-dream-barca-oust-150426-01-1776253043.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Raphinha fumes at refereeing after Barca exit]]></title>
-            <description><![CDATA[[Sport] Raphinha fumes at refereeing after Barca exit]]></description>
-            <link>https://bdnews24.com/sport/c8e9c7b15e78</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/c8e9c7b15e78</guid>
-            <pubDate>Wed, 15 Apr 2026 17:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/raphinha-fumes-refereering-exit-150426-01-1776252957.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Enrique credits team belief]]></title>
-            <description><![CDATA[[Sport] Enrique credits team belief]]></description>
-            <link>https://bdnews24.com/sport/66c5d73637e0</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/66c5d73637e0</guid>
-            <pubDate>Wed, 15 Apr 2026 17:33:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/enrique-credits-team-belief-150426-01-1776252707.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Slot laments missed chances in European exit]]></title>
-            <description><![CDATA[[Sport] Slot laments missed chances in European exit]]></description>
-            <link>https://bdnews24.com/sport/c007ed788ba0</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/c007ed788ba0</guid>
-            <pubDate>Wed, 15 Apr 2026 17:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/slot-laments-ucl-exit-150426-01-1776252436.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No Awami League project was realistic: PM advisor]]></title>
-            <description><![CDATA[[Bangladesh] No Awami League project was realistic: PM advisor]]></description>
-            <link>https://bdnews24.com/bangladesh/a7127b6b23db</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a7127b6b23db</guid>
-            <pubDate>Wed, 15 Apr 2026 17:03:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/third-terminal-1776250974.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Minister gives parliament freedom fighter count]]></title>
-            <description><![CDATA[[Bangladesh] Minister gives parliament freedom fighter count]]></description>
-            <link>https://bdnews24.com/bangladesh/3189795ade32</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3189795ade32</guid>
-            <pubDate>Wed, 15 Apr 2026 16:38:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/freedom-fighter-141220-01-1776243520.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Real Madrid great Santamaria dies]]></title>
-            <description><![CDATA[[Sport] Real Madrid great Santamaria dies]]></description>
-            <link>https://bdnews24.com/sport/865e949d90bf</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/865e949d90bf</guid>
-            <pubDate>Wed, 15 Apr 2026 16:37:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/real-madrid-santamaria-15426-1776249467.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
