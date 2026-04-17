@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Apr 2026 18:39:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 19:49:35 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Apr 2026 18:39:51 GMT</pubDate>
+        <pubDate>Fri, 17 Apr 2026 19:49:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Shipping firms seek clarity before crossing Hormuz]]></title>
+            <description><![CDATA[[World] Shipping firms seek clarity before crossing Hormuz]]></description>
+            <link>https://bdnews24.com/world/d2feec9f05ad</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/d2feec9f05ad</guid>
+            <pubDate>Sat, 18 Apr 2026 01:19:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/shipping-concerns-hormuz-170425-01-1776453529.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What will happen if Eastern Refinery closes?]]></title>
+            <description><![CDATA[[Business] What will happen if Eastern Refinery closes?]]></description>
+            <link>https://bdnews24.com/business/d928bbe7ba24</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/d928bbe7ba24</guid>
+            <pubDate>Sat, 18 Apr 2026 01:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/eastern-refinery-170426-06-1776454523.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Myanmar cuts ex-leader Aung San Suu Kyi's sentence]]></title>
+            <description><![CDATA[[World] Myanmar cuts ex-leader Aung San Suu Kyi's sentence]]></description>
+            <link>https://bdnews24.com/world/456220502f14</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/456220502f14</guid>
+            <pubDate>Sat, 18 Apr 2026 00:51:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/myanmar-suu-kyi-sentence-cut-170425-01-1776451870.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[PM inspects Hajj camp, inaugurates Hajj flights]]></title>
             <description><![CDATA[[Bangladesh] PM inspects Hajj camp, inaugurates Hajj flights]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/9e02222576ad</guid>
             <pubDate>Fri, 17 Apr 2026 21:29:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/city-beat-arsenal-guardiola-17042026-01-1776439738.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil falls 11% as Iran declares Strait of Hormuz open]]></title>
-            <description><![CDATA[[Business] Oil falls 11% as Iran declares Strait of Hormuz open]]></description>
-            <link>https://bdnews24.com/business/d35560b810c8</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/d35560b810c8</guid>
-            <pubDate>Fri, 17 Apr 2026 20:57:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/oil-price-drops-hormuz-170425-01-1776437788.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Slovakia will file lawsuit over Russian gas ban: PM]]></title>
-            <description><![CDATA[[World] Slovakia will file lawsuit over Russian gas ban: PM]]></description>
-            <link>https://bdnews24.com/world/503cc85ffed3</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/503cc85ffed3</guid>
-            <pubDate>Fri, 17 Apr 2026 20:32:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/slovakia-lawsuit-gas-ban-17042026-01-1776436342.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[IPD slams 'energy inequality']]></title>
-            <description><![CDATA[[Bangladesh] IPD slams 'energy inequality']]></description>
-            <link>https://bdnews24.com/bangladesh/4d1c329890bf</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4d1c329890bf</guid>
-            <pubDate>Fri, 17 Apr 2026 20:29:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/ipd-170426-01-1776435864.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
