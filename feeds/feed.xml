@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Apr 2026 08:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 10:02:33 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Apr 2026 08:19:33 GMT</pubDate>
+        <pubDate>Fri, 17 Apr 2026 10:02:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Kiwis grind to 247 in Mirpur opener]]></title>
+            <description><![CDATA[[Cricket] Kiwis grind to 247 in Mirpur opener]]></description>
+            <link>https://bdnews24.com/cricket/a597769df405</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/a597769df405</guid>
+            <pubDate>Fri, 17 Apr 2026 15:46:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/bangladesh-170426-01-1776402653.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India, Pakistan ‘held backchannel talks’ after Op Sindoor]]></title>
+            <description><![CDATA[[South Asia] India, Pakistan ‘held backchannel talks’ after Op Sindoor]]></description>
+            <link>https://bdnews24.com/world/south-asia/5bc7119671e8</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/south-asia/5bc7119671e8</guid>
+            <pubDate>Fri, 17 Apr 2026 15:44:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025May/SM/india-pakistan-operation-sindur-070525-1746604381.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pakistani-flagged tanker exits Gulf via Hormuz: data]]></title>
+            <description><![CDATA[[Middle East] Pakistani-flagged tanker exits Gulf via Hormuz: data]]></description>
+            <link>https://bdnews24.com/world/middle-east/cfbec85f4ff9</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/cfbec85f4ff9</guid>
+            <pubDate>Fri, 17 Apr 2026 15:05:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/strait-of-hormuz-250326-01-1774413751.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Khosru targets recovery of $200bn in ‘stolen funds’]]></title>
+            <description><![CDATA[[Economy] Khosru targets recovery of $200bn in ‘stolen funds’]]></description>
+            <link>https://bdnews24.com/economy/68575b2b92ff</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/68575b2b92ff</guid>
+            <pubDate>Fri, 17 Apr 2026 15:01:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025May/SM/amir-khosru-mahmud-chowdhury-250114-0001-1748620827.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Starmer faces calls to resign]]></title>
+            <description><![CDATA[[World] Starmer faces calls to resign]]></description>
+            <link>https://bdnews24.com/world/c87bb4ce415c</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/c87bb4ce415c</guid>
+            <pubDate>Fri, 17 Apr 2026 14:19:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025February/SM/uk-keir-starmer-170225-01-1739759861.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[No May fuel worries, focus now on June: state minister]]></title>
             <description><![CDATA[[Bangladesh] No May fuel worries, focus now on June: state minister]]></description>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/neighbours/a03d33468377</guid>
             <pubDate>Fri, 17 Apr 2026 10:19:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026January/SM/junta-chief-13126-1768276425.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine PM more confident of US backing after visit]]></title>
-            <description><![CDATA[[World] Ukraine PM more confident of US backing after visit]]></description>
-            <link>https://bdnews24.com/world/87ba3a211d8c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/87ba3a211d8c</guid>
-            <pubDate>Fri, 17 Apr 2026 10:01:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/ukraine-pm-17426-1776398430.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Russian missile, drone barrage kills 17 across Ukraine]]></title>
-            <description><![CDATA[[World] Russian missile, drone barrage kills 17 across Ukraine]]></description>
-            <link>https://bdnews24.com/world/0a6a84d7a6d5</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/0a6a84d7a6d5</guid>
-            <pubDate>Fri, 17 Apr 2026 09:59:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/russia-missile-barrage-ukraine-170426-01-1776398299.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stocks set for weekly gain, oil below $100]]></title>
-            <description><![CDATA[[Economy] Stocks set for weekly gain, oil below $100]]></description>
-            <link>https://bdnews24.com/economy/4faffb769171</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/4faffb769171</guid>
-            <pubDate>Fri, 17 Apr 2026 09:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/stock-market-050126-01-1770179135.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Artemis II crew spots heat shield wear on Earth return]]></title>
-            <description><![CDATA[[Science] Artemis II crew spots heat shield wear on Earth return]]></description>
-            <link>https://bdnews24.com/science/fa89f583b442</link>
-            <guid isPermaLink="true">https://bdnews24.com/science/fa89f583b442</guid>
-            <pubDate>Fri, 17 Apr 2026 09:47:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/artemis-notes-heat-shield-charring-170426-01-1776397580.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Boeing hiring over 100 factory workers a week]]></title>
-            <description><![CDATA[[Aviation] Boeing hiring over 100 factory workers a week]]></description>
-            <link>https://bdnews24.com/aviation/1e9586573793</link>
-            <guid isPermaLink="true">https://bdnews24.com/aviation/1e9586573793</guid>
-            <pubDate>Fri, 17 Apr 2026 09:44:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025July/SM/boeing-plane-maker-logo-airshow-australia-140725-1752491551.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
