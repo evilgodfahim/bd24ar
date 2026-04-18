@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 21:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 22:21:00 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 21:23:10 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 22:21:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bangladesh slates Israel’s Somaliland envoy move]]></title>
+            <description><![CDATA[[World] Bangladesh slates Israel’s Somaliland envoy move]]></description>
+            <link>https://bdnews24.com/world/42cb988f46e0</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/42cb988f46e0</guid>
+            <pubDate>Sun, 19 Apr 2026 03:45:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/somaliland-190426-1776542293.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA['Prennoy': The remote hillside hostel bringing children back to school]]></title>
             <description><![CDATA[[Bangladesh] 'Prennoy': The remote hillside hostel bringing children back to school]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/fbd77050e8ac</guid>
             <pubDate>Sat, 18 Apr 2026 21:00:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/tankers-cross-hormuz-18042026-01-1776524430.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump announces reforms to speed up psychedelic drug access]]></title>
-            <description><![CDATA[[World] Trump announces reforms to speed up psychedelic drug access]]></description>
-            <link>https://bdnews24.com/world/9feacd0c4845</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/9feacd0c4845</guid>
-            <pubDate>Sat, 18 Apr 2026 20:58:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/trump-drug-access-18042026-01-1776524280.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
