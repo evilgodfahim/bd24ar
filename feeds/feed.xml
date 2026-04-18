@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 07:51:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 08:35:05 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 07:51:45 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 08:35:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[MAYA Bengal in Motion pays tribute to Jasimuddin]]></title>
+            <description><![CDATA[[Entertainment] MAYA Bengal in Motion pays tribute to Jasimuddin]]></description>
+            <link>https://bdnews24.com/entertainment/397a388655f9</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/397a388655f9</guid>
+            <pubDate>Sat, 18 Apr 2026 14:30:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/maya-bengal-1-18426-1776500985.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Railway policeman ‘kills himself’ in Khulna]]></title>
             <description><![CDATA[[Bangladesh] Railway policeman ‘kills himself’ in Khulna]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/a977d7c0a0ca</guid>
             <pubDate>Sat, 18 Apr 2026 09:15:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/italy-gianluca-mancini-180426-01-1776481950.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shipping firms seek clarity before crossing Hormuz]]></title>
-            <description><![CDATA[[World] Shipping firms seek clarity before crossing Hormuz]]></description>
-            <link>https://bdnews24.com/world/d2feec9f05ad</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/d2feec9f05ad</guid>
-            <pubDate>Sat, 18 Apr 2026 01:19:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/shipping-concerns-hormuz-170425-01-1776453529.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
