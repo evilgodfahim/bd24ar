@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 04:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 06:05:30 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 04:21:04 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 06:05:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iran war reveals Trump’s pressure point]]></title>
+            <description><![CDATA[[World] Iran war reveals Trump’s pressure point]]></description>
+            <link>https://bdnews24.com/world/168f476f4401</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/168f476f4401</guid>
+            <pubDate>Sat, 18 Apr 2026 11:30:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-war-trump-pressure-point-180426-01-1776490158.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US to recover Iran uranium at ‘leisurely pace’]]></title>
+            <description><![CDATA[[Middle East] US to recover Iran uranium at ‘leisurely pace’]]></description>
+            <link>https://bdnews24.com/world/middle-east/f14dbb1ab75e</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/f14dbb1ab75e</guid>
+            <pubDate>Sat, 18 Apr 2026 11:13:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025June/SM/iran-nuclear-facilities-20250620-1750423404.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Good news’ on Iran: Trump]]></title>
+            <description><![CDATA[[World] ‘Good news’ on Iran: Trump]]></description>
+            <link>https://bdnews24.com/world/37ab6a2a6734</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/37ab6a2a6734</guid>
+            <pubDate>Sat, 18 Apr 2026 10:51:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/trump-18426-1776487864.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian ‘Ramayana’ film seeks global viewers]]></title>
+            <description><![CDATA[[Entertainment] Indian ‘Ramayana’ film seeks global viewers]]></description>
+            <link>https://bdnews24.com/entertainment/737ad08c33a7</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/737ad08c33a7</guid>
+            <pubDate>Sat, 18 Apr 2026 10:42:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/india-ranbir-18426-1776487351.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wall Street indexes hit record highs]]></title>
+            <description><![CDATA[[Economy] Wall Street indexes hit record highs]]></description>
+            <link>https://bdnews24.com/economy/81d277e3682a</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/81d277e3682a</guid>
+            <pubDate>Sat, 18 Apr 2026 10:20:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/wall-st-18426-1776486041.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Inter edge closer to title]]></title>
             <description><![CDATA[[Sport] Inter edge closer to title]]></description>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/f385e3dbae5f</guid>
             <pubDate>Sat, 18 Apr 2026 00:05:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/lebanese-return-17042026-01-1776449069.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Papaya soars, eggs scramble]]></title>
-            <description><![CDATA[[Business] Papaya soars, eggs scramble]]></description>
-            <link>https://bdnews24.com/business/8d12ab9c8629</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/8d12ab9c8629</guid>
-            <pubDate>Sat, 18 Apr 2026 00:01:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/market-price-vegetable-170426-02-1776444894.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arteta hopeful on Madueke, rules out Saka for City clash]]></title>
-            <description><![CDATA[[Sport] Arteta hopeful on Madueke, rules out Saka for City clash]]></description>
-            <link>https://bdnews24.com/sport/8e2e0f70d88c</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/8e2e0f70d88c</guid>
-            <pubDate>Fri, 17 Apr 2026 23:58:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/arteta-city-clash-17042026-01-1776448700.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Carrick shrugs off Martinez, Maguire bans]]></title>
-            <description><![CDATA[[Sport] Carrick shrugs off Martinez, Maguire bans]]></description>
-            <link>https://bdnews24.com/sport/21ff33e49496</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/21ff33e49496</guid>
-            <pubDate>Fri, 17 Apr 2026 23:57:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/carrick-shrugs-off-ban-17042026-01-1776448614.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ships crossing Hormuz need IRGC nod: Iran official]]></title>
-            <description><![CDATA[[World] Ships crossing Hormuz need IRGC nod: Iran official]]></description>
-            <link>https://bdnews24.com/world/d15505e7ba81</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/d15505e7ba81</guid>
-            <pubDate>Fri, 17 Apr 2026 23:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/hormuz-open-17042026-01-1776432958.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Resistance brews over minister’s proposed CRB visit]]></title>
-            <description><![CDATA[[Bangladesh] Resistance brews over minister’s proposed CRB visit]]></description>
-            <link>https://bdnews24.com/bangladesh/371dbd902bbd</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/371dbd902bbd</guid>
-            <pubDate>Fri, 17 Apr 2026 23:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/ctg-railway-hospital-03-1776448149.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
