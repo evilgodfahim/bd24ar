@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 10:29:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 11:25:15 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 10:29:10 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 11:25:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Lightning strikes kill 3 farmers in Sunamganj]]></title>
+            <description><![CDATA[[Bangladesh] Lightning strikes kill 3 farmers in Sunamganj]]></description>
+            <link>https://bdnews24.com/bangladesh/0b0ab990fe7b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0b0ab990fe7b</guid>
+            <pubDate>Sat, 18 Apr 2026 16:56:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2022-08/c992ce25-86f5-413c-b202-9027e1737d24/lightning_290822_01.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gujarat sink Kolkata, Rabada lauds bowling]]></title>
+            <description><![CDATA[[Cricket] Gujarat sink Kolkata, Rabada lauds bowling]]></description>
+            <link>https://bdnews24.com/cricket/a61bbbafad2e</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/a61bbbafad2e</guid>
+            <pubDate>Sat, 18 Apr 2026 16:37:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/gujarat-v-kolkata-18426-1776508619.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[4-year-old boy drowns in Chuadanga canal]]></title>
+            <description><![CDATA[[Bangladesh] 4-year-old boy drowns in Chuadanga canal]]></description>
+            <link>https://bdnews24.com/bangladesh/f0cab177bfc2</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f0cab177bfc2</guid>
+            <pubDate>Sat, 18 Apr 2026 16:35:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/chuadanga-damurhuda-180426-01-1776504637.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Sarfaraz to coach Pakistan in Bangladesh Test series]]></title>
             <description><![CDATA[[Cricket] Sarfaraz to coach Pakistan in Bangladesh Test series]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/entertainment/737ad08c33a7</guid>
             <pubDate>Sat, 18 Apr 2026 10:42:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/india-ranbir-18426-1776487351.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wall Street indexes hit record highs]]></title>
-            <description><![CDATA[[Economy] Wall Street indexes hit record highs]]></description>
-            <link>https://bdnews24.com/economy/81d277e3682a</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/81d277e3682a</guid>
-            <pubDate>Sat, 18 Apr 2026 10:20:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/wall-st-18426-1776486041.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Inter edge closer to title]]></title>
-            <description><![CDATA[[Sport] Inter edge closer to title]]></description>
-            <link>https://bdnews24.com/sport/318448fc52d9</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/318448fc52d9</guid>
-            <pubDate>Sat, 18 Apr 2026 10:07:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/inter-edge-closer-title-180426-01-1776485204.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stocks romp to records, oil plunges]]></title>
-            <description><![CDATA[[Business] Stocks romp to records, oil plunges]]></description>
-            <link>https://bdnews24.com/business/6a78f70a06a6</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/6a78f70a06a6</guid>
-            <pubDate>Sat, 18 Apr 2026 10:01:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/stocks-7326-1772851234.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
