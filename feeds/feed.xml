@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 08:35:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 09:36:27 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 08:35:05 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 09:36:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Mymensingh Medical shuts classes after hall clash]]></title>
+            <description><![CDATA[[Bangladesh] Mymensingh Medical shuts classes after hall clash]]></description>
+            <link>https://bdnews24.com/bangladesh/47f7544ec9ad</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/47f7544ec9ad</guid>
+            <pubDate>Sat, 18 Apr 2026 15:35:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/mymensingh-hamla-180426-01-1776502075.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh's first Hajj flight lands in Saudi]]></title>
+            <description><![CDATA[[Bangladesh] Bangladesh's first Hajj flight lands in Saudi]]></description>
+            <link>https://bdnews24.com/bangladesh/f843f82f1137</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f843f82f1137</guid>
+            <pubDate>Sat, 18 Apr 2026 14:40:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/haj-flight-saudi-arab-180426-01-1776499690.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[MAYA Bengal in Motion pays tribute to Jasimuddin]]></title>
             <description><![CDATA[[Entertainment] MAYA Bengal in Motion pays tribute to Jasimuddin]]></description>
@@ -81,12 +97,12 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025June/SM/iran-nuclear-facilities-20250620-1750423404.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[‘Good news’ on Iran: Trump]]></title>
-            <description><![CDATA[[World] ‘Good news’ on Iran: Trump]]></description>
+            <title><![CDATA[Trump touts ‘good news’ as tankers cross Hormuz]]></title>
+            <description><![CDATA[[World] Trump touts ‘good news’ as tankers cross Hormuz]]></description>
             <link>https://bdnews24.com/world/37ab6a2a6734</link>
             <guid isPermaLink="true">https://bdnews24.com/world/37ab6a2a6734</guid>
             <pubDate>Sat, 18 Apr 2026 10:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/trump-18426-1776487864.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/lebanon-diplaced-return-180426-01-1776501977.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Indian ‘Ramayana’ film seeks global viewers]]></title>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/business/826bec1315d4</guid>
             <pubDate>Sat, 18 Apr 2026 09:34:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/oil-pumpjack-130326-01-1773377864.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joyjatra fails to cross Hormuz]]></title>
-            <description><![CDATA[[Bangladesh] Joyjatra fails to cross Hormuz]]></description>
-            <link>https://bdnews24.com/bangladesh/2dd2231d44f5</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2dd2231d44f5</guid>
-            <pubDate>Sat, 18 Apr 2026 09:32:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/banglar-joyjatra-100426-01-1775825382.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Italian football faces identity crisis]]></title>
-            <description><![CDATA[[Sport] Italian football faces identity crisis]]></description>
-            <link>https://bdnews24.com/sport/a977d7c0a0ca</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/a977d7c0a0ca</guid>
-            <pubDate>Sat, 18 Apr 2026 09:15:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/italy-gianluca-mancini-180426-01-1776481950.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
