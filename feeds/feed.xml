@@ -4,13 +4,45 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 14:34:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 15:27:16 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 14:34:40 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 15:27:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Libya recovers 17 ‘migrants’ bodies on Tripoli coast]]></title>
-            <description><![CDATA[[World] Libya recovers 17 ‘migrants’ bodies on Tripoli coast]]></description>
+            <title><![CDATA[Baishakhi Fair at the Bangla Academy premises]]></title>
+            <description><![CDATA[[Image] Baishakhi Fair at the Bangla Academy premises]]></description>
+            <link>https://bdnews24.com/media-en/image/e02c3fb6844e</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/e02c3fb6844e</guid>
+            <pubDate>Sat, 18 Apr 2026 21:19:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/baisakhi-fair-180426-010-1776519058.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Some tankers cross Hormuz before shots fired: data]]></title>
+            <description><![CDATA[[World] Some tankers cross Hormuz before shots fired: data]]></description>
+            <link>https://bdnews24.com/world/fbd77050e8ac</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/fbd77050e8ac</guid>
+            <pubDate>Sat, 18 Apr 2026 21:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/tankers-cross-hormuz-18042026-01-1776524430.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump announces reforms to speed up psychedelic drug access]]></title>
+            <description><![CDATA[[World] Trump announces reforms to speed up psychedelic drug access]]></description>
+            <link>https://bdnews24.com/world/9feacd0c4845</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/9feacd0c4845</guid>
+            <pubDate>Sat, 18 Apr 2026 20:58:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/trump-drug-access-18042026-01-1776524280.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[FM urges global action for safe Rohingya repatriation]]></title>
+            <description><![CDATA[[Bangladesh] FM urges global action for safe Rohingya repatriation]]></description>
+            <link>https://bdnews24.com/bangladesh/244edb2c6e1b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/244edb2c6e1b</guid>
+            <pubDate>Sat, 18 Apr 2026 20:37:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rohingya-camp-160520-01-1773677247.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladeshi among 17 ‘migrants’ found dead in Libya]]></title>
+            <description><![CDATA[[World] Bangladeshi among 17 ‘migrants’ found dead in Libya]]></description>
             <link>https://bdnews24.com/world/ea263476e42d</link>
             <guid isPermaLink="true">https://bdnews24.com/world/ea263476e42d</guid>
             <pubDate>Sat, 18 Apr 2026 20:28:00 GMT</pubDate>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/1ae91fb905ef</guid>
             <pubDate>Sat, 18 Apr 2026 16:19:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/tareque-rahman-180426-01-1776505851.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Irish crime boss Daniel Kinahan arrested]]></title>
-            <description><![CDATA[[World] Irish crime boss Daniel Kinahan arrested]]></description>
-            <link>https://bdnews24.com/world/6db5886dee6d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/6db5886dee6d</guid>
-            <pubDate>Sat, 18 Apr 2026 16:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/dubai-police-18426-1776506668.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Public interest comes first: minister on NCT]]></title>
-            <description><![CDATA[[Bangladesh] Public interest comes first: minister on NCT]]></description>
-            <link>https://bdnews24.com/bangladesh/a5195f8cef32</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a5195f8cef32</guid>
-            <pubDate>Sat, 18 Apr 2026 16:00:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/chattogram-minister-shaikh-rabiul-alam-180426-01-1776502096.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mymensingh Medical shuts classes after hostel clash]]></title>
-            <description><![CDATA[[Bangladesh] Mymensingh Medical shuts classes after hostel clash]]></description>
-            <link>https://bdnews24.com/bangladesh/47f7544ec9ad</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/47f7544ec9ad</guid>
-            <pubDate>Sat, 18 Apr 2026 15:35:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/mymensingh-hamla-180426-01-1776502075.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh's first Hajj flight lands in Saudi]]></title>
-            <description><![CDATA[[Bangladesh] Bangladesh's first Hajj flight lands in Saudi]]></description>
-            <link>https://bdnews24.com/bangladesh/f843f82f1137</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f843f82f1137</guid>
-            <pubDate>Sat, 18 Apr 2026 14:40:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/haj-flight-saudi-arab-180426-01-1776499690.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
