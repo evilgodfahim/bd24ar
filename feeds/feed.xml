@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 12:32:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 13:53:55 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 12:32:53 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 13:53:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No harassment for political ideology: Speaker Hafiz]]></title>
+            <description><![CDATA[[Bangladesh] No harassment for political ideology: Speaker Hafiz]]></description>
+            <link>https://bdnews24.com/bangladesh/956ccdbefd6e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/956ccdbefd6e</guid>
+            <pubDate>Sat, 18 Apr 2026 19:46:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/bhola-speaker-hafiz-180426-01-1776514057.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[French soldier killed in Lebanon: Macron]]></title>
+            <description><![CDATA[[World] French soldier killed in Lebanon: Macron]]></description>
+            <link>https://bdnews24.com/world/a8395a7ac3f9</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/a8395a7ac3f9</guid>
+            <pubDate>Sat, 18 Apr 2026 19:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/french-soldier-killed-18042026-01-1776517374.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lightning strikes kill 2 in Mymensingh]]></title>
+            <description><![CDATA[[Bangladesh] Lightning strikes kill 2 in Mymensingh]]></description>
+            <link>https://bdnews24.com/bangladesh/061ae36511f4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/061ae36511f4</guid>
+            <pubDate>Sat, 18 Apr 2026 18:35:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024October/SM/lightning-01-24-1727773862.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Iran says Hormuz shut, vessels report gunfire]]></title>
             <description><![CDATA[[World] Iran says Hormuz shut, vessels report gunfire]]></description>
@@ -25,8 +49,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/hadi-murder-helal-remand-150426-01-1776250401.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Lightning strikes kill 4 farmers in Sunamganj]]></title>
-            <description><![CDATA[[Bangladesh] Lightning strikes kill 4 farmers in Sunamganj]]></description>
+            <title><![CDATA[Lightning strikes kill 5 farmers in Sunamganj]]></title>
+            <description><![CDATA[[Bangladesh] Lightning strikes kill 5 farmers in Sunamganj]]></description>
             <link>https://bdnews24.com/bangladesh/0b0ab990fe7b</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/0b0ab990fe7b</guid>
             <pubDate>Sat, 18 Apr 2026 16:56:00 GMT</pubDate>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/economy/445092a78772</guid>
             <pubDate>Sat, 18 Apr 2026 12:18:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/amir-khosru-mahmud-chowdhury-170426-02jpg-1776492099.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fuel Pass BD pilot expands beyond Dhaka]]></title>
-            <description><![CDATA[[Bangladesh] Fuel Pass BD pilot expands beyond Dhaka]]></description>
-            <link>https://bdnews24.com/bangladesh/d2f94842d10a</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d2f94842d10a</guid>
-            <pubDate>Sat, 18 Apr 2026 12:17:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/petrol-pump-oil-crisis-060326-018-1772822278.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran war reveals Trump’s pressure point]]></title>
-            <description><![CDATA[[World] Iran war reveals Trump’s pressure point]]></description>
-            <link>https://bdnews24.com/world/168f476f4401</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/168f476f4401</guid>
-            <pubDate>Sat, 18 Apr 2026 11:30:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-war-trump-pressure-point-180426-01-1776490158.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US to recover Iran uranium at ‘leisurely pace’]]></title>
-            <description><![CDATA[[Middle East] US to recover Iran uranium at ‘leisurely pace’]]></description>
-            <link>https://bdnews24.com/world/middle-east/f14dbb1ab75e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/f14dbb1ab75e</guid>
-            <pubDate>Sat, 18 Apr 2026 11:13:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025June/SM/iran-nuclear-facilities-20250620-1750423404.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
