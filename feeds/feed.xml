@@ -4,13 +4,29 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 11:25:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 12:32:53 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 11:25:15 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 12:32:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Lightning strikes kill 3 farmers in Sunamganj]]></title>
-            <description><![CDATA[[Bangladesh] Lightning strikes kill 3 farmers in Sunamganj]]></description>
+            <title><![CDATA[Iran says Hormuz shut, vessels report gunfire]]></title>
+            <description><![CDATA[[World] Iran says Hormuz shut, vessels report gunfire]]></description>
+            <link>https://bdnews24.com/world/29480f05b204</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/29480f05b204</guid>
+            <pubDate>Sat, 18 Apr 2026 18:32:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/hormuz-shut-18042026-01-1776515504.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hadi killing: Arms dealer Helal confesses in court]]></title>
+            <description><![CDATA[[Bangladesh] Hadi killing: Arms dealer Helal confesses in court]]></description>
+            <link>https://bdnews24.com/bangladesh/81cb9ec0cea8</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/81cb9ec0cea8</guid>
+            <pubDate>Sat, 18 Apr 2026 17:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/hadi-murder-helal-remand-150426-01-1776250401.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lightning strikes kill 4 farmers in Sunamganj]]></title>
+            <description><![CDATA[[Bangladesh] Lightning strikes kill 4 farmers in Sunamganj]]></description>
             <link>https://bdnews24.com/bangladesh/0b0ab990fe7b</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/0b0ab990fe7b</guid>
             <pubDate>Sat, 18 Apr 2026 16:56:00 GMT</pubDate>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/f14dbb1ab75e</guid>
             <pubDate>Sat, 18 Apr 2026 11:13:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025June/SM/iran-nuclear-facilities-20250620-1750423404.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hormuz traffic resumes, Iran hints at fresh closure]]></title>
-            <description><![CDATA[[World] Hormuz traffic resumes, Iran hints at fresh closure]]></description>
-            <link>https://bdnews24.com/world/37ab6a2a6734</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/37ab6a2a6734</guid>
-            <pubDate>Sat, 18 Apr 2026 10:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/japan-iran-hormuz-210326-01-1774063756.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian ‘Ramayana’ film seeks global viewers]]></title>
-            <description><![CDATA[[Entertainment] Indian ‘Ramayana’ film seeks global viewers]]></description>
-            <link>https://bdnews24.com/entertainment/737ad08c33a7</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/737ad08c33a7</guid>
-            <pubDate>Sat, 18 Apr 2026 10:42:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/india-ranbir-18426-1776487351.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
