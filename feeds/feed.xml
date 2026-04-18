@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 17:27:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 18:30:22 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 17:27:19 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 18:30:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Remains of 34 expats arrive in Dhaka]]></title>
+            <description><![CDATA[[Bangladesh] Remains of 34 expats arrive in Dhaka]]></description>
+            <link>https://bdnews24.com/bangladesh/6bf2562f2f05</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6bf2562f2f05</guid>
+            <pubDate>Sun, 19 Apr 2026 00:09:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/dead-body-comes-from-abroad-180426-01-1776532133.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eta suffers home loss in opener]]></title>
+            <description><![CDATA[[Sport] Eta suffers home loss in opener]]></description>
+            <link>https://bdnews24.com/sport/b41795cbefa3</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/b41795cbefa3</guid>
+            <pubDate>Sun, 19 Apr 2026 00:06:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/bundesliga-coach-180426-1776535529.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wolves nearing Premier League relegation losing to Leeds]]></title>
+            <description><![CDATA[[Sport] Wolves nearing Premier League relegation losing to Leeds]]></description>
+            <link>https://bdnews24.com/sport/15d2b8b0587b</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/15d2b8b0587b</guid>
+            <pubDate>Sat, 18 Apr 2026 23:55:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/premier-league-180426-1776534843.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Delhi edge Bengaluru in final over thriller]]></title>
+            <description><![CDATA[[Cricket] Delhi edge Bengaluru in final over thriller]]></description>
+            <link>https://bdnews24.com/cricket/7cc8ce480a2d</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/7cc8ce480a2d</guid>
+            <pubDate>Sat, 18 Apr 2026 23:42:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/ipl-delhi-win-180426-1776534041.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Neglect led to measles ‘epidemic’: doctors]]></title>
+            <description><![CDATA[[Bangladesh] Neglect led to measles ‘epidemic’: doctors]]></description>
+            <link>https://bdnews24.com/bangladesh/a0f6f9c07868</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a0f6f9c07868</guid>
+            <pubDate>Sat, 18 Apr 2026 23:27:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/press-conference-by-doctors-about-measles-18042026-1776522793.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Storms forecast in 6 divisions]]></title>
             <description><![CDATA[[Bangladesh] Storms forecast in 6 divisions]]></description>
@@ -22,7 +62,7 @@
             <link>https://bdnews24.com/business/8fee395da6e8</link>
             <guid isPermaLink="true">https://bdnews24.com/business/8fee395da6e8</guid>
             <pubDate>Sat, 18 Apr 2026 22:52:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/fuel-crisis-at-pump-18042026-5-1776529860.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/fuel-crisis-at-pump-18042026-5-1776536018.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Diesel crisis leaves farmers stranded at filling stations]]></title>
@@ -30,7 +70,7 @@
             <link>https://bdnews24.com/bangladesh/dd685e17e2ca</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/dd685e17e2ca</guid>
             <pubDate>Sat, 18 Apr 2026 22:42:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/farmer-fuel-180426-1776531371.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/fuel-crisis-at-pump-18042026-4-1776535874.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[India approves $1.4bn maritime insurance pool]]></title>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/ea263476e42d</guid>
             <pubDate>Sat, 18 Apr 2026 20:28:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/libya-recovers-migrants-18042026-01-1776522464.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Naogaon man held for ‘child rape’]]></title>
-            <description><![CDATA[[Bangladesh] Naogaon man held for ‘child rape’]]></description>
-            <link>https://bdnews24.com/bangladesh/a3961b338486</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a3961b338486</guid>
-            <pubDate>Sat, 18 Apr 2026 20:23:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/naogaon-rape-arrest-180426-01-1776512823.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[April 18, 2026]]></title>
-            <description><![CDATA[[Image] April 18, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/490af092a60e</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/490af092a60e</guid>
-            <pubDate>Sat, 18 Apr 2026 20:15:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/oil-crisis-tejgaon-180426-003-1776518165.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[HSC exams to begin Jul 2]]></title>
-            <description><![CDATA[[Education] HSC exams to begin Jul 2]]></description>
-            <link>https://bdnews24.com/education/f28f0fa1d1ce</link>
-            <guid isPermaLink="true">https://bdnews24.com/education/f28f0fa1d1ce</guid>
-            <pubDate>Sat, 18 Apr 2026 20:11:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024June/SM/hsc-starts-300624-01-1719723934.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US withdrawal from European security could be 'destructive': Turkey]]></title>
-            <description><![CDATA[[World] US withdrawal from European security could be 'destructive': Turkey]]></description>
-            <link>https://bdnews24.com/world/4dfc821030ac</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/4dfc821030ac</guid>
-            <pubDate>Sat, 18 Apr 2026 19:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-withdrawal-destructive-18042026-01-1776520549.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lightning strikes kill 12 in 6 districts]]></title>
-            <description><![CDATA[[Bangladesh] Lightning strikes kill 12 in 6 districts]]></description>
-            <link>https://bdnews24.com/bangladesh/82949faf3aaf</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/82949faf3aaf</guid>
-            <pubDate>Sat, 18 Apr 2026 19:53:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2022-08/c992ce25-86f5-413c-b202-9027e1737d24/lightning_290822_01.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
