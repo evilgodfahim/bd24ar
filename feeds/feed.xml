@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 18:30:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 19:32:35 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 18:30:22 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 19:32:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[New Moscow-Delhi deal allows stationing of troops, warships]]></title>
+            <description><![CDATA[[Business] New Moscow-Delhi deal allows stationing of troops, warships]]></description>
+            <link>https://bdnews24.com/business/fa1c37b9aa53</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/fa1c37b9aa53</guid>
+            <pubDate>Sun, 19 Apr 2026 01:31:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2024July/SM/modi-putin-150724-01-1721054988.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Remains of 34 expats arrive in Dhaka]]></title>
             <description><![CDATA[[Bangladesh] Remains of 34 expats arrive in Dhaka]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/244edb2c6e1b</guid>
             <pubDate>Sat, 18 Apr 2026 20:37:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/rohingya-camp-160520-01-1773677247.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladeshi among 17 ‘migrants’ found dead in Libya]]></title>
-            <description><![CDATA[[World] Bangladeshi among 17 ‘migrants’ found dead in Libya]]></description>
-            <link>https://bdnews24.com/world/ea263476e42d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ea263476e42d</guid>
-            <pubDate>Sat, 18 Apr 2026 20:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/libya-recovers-migrants-18042026-01-1776522464.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
