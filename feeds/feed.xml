@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Apr 2026 14:32:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 15:27:19 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Apr 2026 14:32:09 GMT</pubDate>
+        <pubDate>Sun, 19 Apr 2026 15:27:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Political parties demand fuel price review]]></title>
+            <description><![CDATA[[Politics] Political parties demand fuel price review]]></description>
+            <link>https://bdnews24.com/politics/2b26aeba8e49</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/2b26aeba8e49</guid>
+            <pubDate>Sun, 19 Apr 2026 21:24:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/oil-crisis-filling-station-190426-043-1776610512.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rat poison found in HiPP baby food jar in Austria]]></title>
+            <description><![CDATA[[World] Rat poison found in HiPP baby food jar in Austria]]></description>
+            <link>https://bdnews24.com/world/6a8f6c87cca5</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/6a8f6c87cca5</guid>
+            <pubDate>Sun, 19 Apr 2026 21:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/product-1776610940.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iranians see no relief after war under military rule]]></title>
+            <description><![CDATA[[World] Iranians see no relief after war under military rule]]></description>
+            <link>https://bdnews24.com/world/a4b9b839d68c</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/a4b9b839d68c</guid>
+            <pubDate>Sun, 19 Apr 2026 20:59:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-resident-190426-02-1776610630.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[HC goes virtual 2 days a week to save energy]]></title>
             <description><![CDATA[[Bangladesh] HC goes virtual 2 days a week to save energy]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/ccba51ae93ab</guid>
             <pubDate>Sun, 19 Apr 2026 15:45:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/dinesh-trivedi-india-19042026-01-1776591891.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Meeting with Trump possible once 'big deal' is ready: Lukashenko]]></title>
-            <description><![CDATA[[Europe] Meeting with Trump possible once 'big deal' is ready: Lukashenko]]></description>
-            <link>https://bdnews24.com/world/europe/5d06eacb680b</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/5d06eacb680b</guid>
-            <pubDate>Sun, 19 Apr 2026 15:25:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025December/SM/a-lukashenko-131225-01-1765638912.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Perceived politicisation could undermine ICT legitimacy: Bergman]]></title>
-            <description><![CDATA[[Bangladesh] Perceived politicisation could undermine ICT legitimacy: Bergman]]></description>
-            <link>https://bdnews24.com/bangladesh/0fbf275bf5b5</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0fbf275bf5b5</guid>
-            <pubDate>Sun, 19 Apr 2026 15:02:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025December/SM/international-crimes-tribunal-111125-002-1765101831.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[DAP fertiliser factory shut down amid ammonia shortage]]></title>
-            <description><![CDATA[[Bangladesh] DAP fertiliser factory shut down amid ammonia shortage]]></description>
-            <link>https://bdnews24.com/bangladesh/14bfb7cf7391</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/14bfb7cf7391</guid>
-            <pubDate>Sun, 19 Apr 2026 14:50:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/dap-company-closed-190426-01-1776587920.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
