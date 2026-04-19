@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Apr 2026 20:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 21:24:02 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Apr 2026 20:23:37 GMT</pubDate>
+        <pubDate>Sun, 19 Apr 2026 21:24:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bus fare hike talks end without decision]]></title>
+            <description><![CDATA[[Bangladesh] Bus fare hike talks end without decision]]></description>
+            <link>https://bdnews24.com/bangladesh/7b47afef7021</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7b47afef7021</guid>
+            <pubDate>Mon, 20 Apr 2026 02:36:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/import/media/2021/11/08/dhaka-new-bus-fare-081121-01.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Fuel shock sparks inflation fears, calls for market watch]]></title>
             <description><![CDATA[[Bangladesh] Fuel shock sparks inflation fears, calls for market watch]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/26d240d18ad5</guid>
             <pubDate>Sun, 19 Apr 2026 22:54:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/brta-meeting-19042026-1776615088.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BPC to boost fuel supply from Monday]]></title>
-            <description><![CDATA[[Bangladesh] BPC to boost fuel supply from Monday]]></description>
-            <link>https://bdnews24.com/bangladesh/36d251e4e519</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/36d251e4e519</guid>
-            <pubDate>Sun, 19 Apr 2026 22:47:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/fuel-crisis-filling-stations-080326-054-1772974051.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
