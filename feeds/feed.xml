@@ -4,10 +4,98 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Apr 2026 16:25:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 17:26:07 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Apr 2026 16:25:15 GMT</pubDate>
+        <pubDate>Sun, 19 Apr 2026 17:26:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Mhatre injury adds to Chennai woe]]></title>
+            <description><![CDATA[[Cricket] Mhatre injury adds to Chennai woe]]></description>
+            <link>https://bdnews24.com/cricket/f9655d3d9b9c</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/f9655d3d9b9c</guid>
+            <pubDate>Sun, 19 Apr 2026 23:25:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/ayush-mhatre-190426-02-1776619443.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kyiv shooting: Gunman dead, 8 still in hospital]]></title>
+            <description><![CDATA[[World] Kyiv shooting: Gunman dead, 8 still in hospital]]></description>
+            <link>https://bdnews24.com/world/8d801c5dcba7</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/8d801c5dcba7</guid>
+            <pubDate>Sun, 19 Apr 2026 23:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/kyiv-shooting-19426-1776618959.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Probe ordered over ‘inflated’ parliament purchase]]></title>
+            <description><![CDATA[[Bangladesh] Probe ordered over ‘inflated’ parliament purchase]]></description>
+            <link>https://bdnews24.com/bangladesh/558b407f839b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/558b407f839b</guid>
+            <pubDate>Sun, 19 Apr 2026 23:14:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/oath-preparing-parliament-house-150226-017-1771155489.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Late Abraham strike secures Villa win]]></title>
+            <description><![CDATA[[Sport] Late Abraham strike secures Villa win]]></description>
+            <link>https://bdnews24.com/sport/2b9bb534a205</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/2b9bb534a205</guid>
+            <pubDate>Sun, 19 Apr 2026 23:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/tammy-abraham-190426-02-1776618712.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gibbs-White hat-trick lifts Forest]]></title>
+            <description><![CDATA[[Sport] Gibbs-White hat-trick lifts Forest]]></description>
+            <link>https://bdnews24.com/sport/a999280e2bc9</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/a999280e2bc9</guid>
+            <pubDate>Sun, 19 Apr 2026 23:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/gibbs-white-190426-02-1776618463.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[DNCC installs 450 solar LED lights at Bhashantek slum]]></title>
+            <description><![CDATA[[Bangladesh] DNCC installs 450 solar LED lights at Bhashantek slum]]></description>
+            <link>https://bdnews24.com/bangladesh/8dbedf7869b7</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8dbedf7869b7</guid>
+            <pubDate>Sun, 19 Apr 2026 23:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/bhashantek-slums-solar-led-190426-01-1776618158.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canada’s US ties now a ‘weakness’, says Carney]]></title>
+            <description><![CDATA[[World] Canada’s US ties now a ‘weakness’, says Carney]]></description>
+            <link>https://bdnews24.com/world/912c78d353e7</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/912c78d353e7</guid>
+            <pubDate>Sun, 19 Apr 2026 23:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/mark-carney-19426-1776618028.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BRTA holds talks on bus fare hike]]></title>
+            <description><![CDATA[[Bangladesh] BRTA holds talks on bus fare hike]]></description>
+            <link>https://bdnews24.com/bangladesh/26d240d18ad5</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/26d240d18ad5</guid>
+            <pubDate>Sun, 19 Apr 2026 22:54:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/brta-meeting-19042026-1776615088.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BPC to boost fuel supply from Monday]]></title>
+            <description><![CDATA[[Bangladesh] BPC to boost fuel supply from Monday]]></description>
+            <link>https://bdnews24.com/bangladesh/36d251e4e519</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/36d251e4e519</guid>
+            <pubDate>Sun, 19 Apr 2026 22:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/fuel-crisis-at-pump-18042026-5-1776536018.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[HC: why not mandatory registration of house help]]></title>
+            <description><![CDATA[[Bangladesh] HC: why not mandatory registration of house help]]></description>
+            <link>https://bdnews24.com/bangladesh/6d894b468c7a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6d894b468c7a</guid>
+            <pubDate>Sun, 19 Apr 2026 22:37:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2024-02/1175ddc8-7e61-4cc7-8e72-ca2405d34914/domestic_workers_290224_04.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police probe fake calls using cabinet secretary’s name]]></title>
+            <description><![CDATA[[Bangladesh] Police probe fake calls using cabinet secretary’s name]]></description>
+            <link>https://bdnews24.com/bangladesh/0780b12a3071</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0780b12a3071</guid>
+            <pubDate>Sun, 19 Apr 2026 22:33:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/phone-scammer-190426-01-1776613831.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Prosecutors move to charge Shamim Osman at ICT]]></title>
             <description><![CDATA[[Bangladesh] Prosecutors move to charge Shamim Osman at ICT]]></description>
@@ -79,94 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/dde92cfc170e</guid>
             <pubDate>Sun, 19 Apr 2026 19:59:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/parliament-session-160426-1776344005.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bailey Road fire: 22 charged, 13 face arrest]]></title>
-            <description><![CDATA[[Bangladesh] Bailey Road fire: 22 charged, 13 face arrest]]></description>
-            <link>https://bdnews24.com/bangladesh/6be27146a79e</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6be27146a79e</guid>
-            <pubDate>Sun, 19 Apr 2026 19:57:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2024-03/739e99b7-12ae-4132-8a22-c51c7c82af20/bailey_road_fire_aftermath_020324_004.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Clean water by the side of the road]]></title>
-            <description><![CDATA[[Image] Clean water by the side of the road]]></description>
-            <link>https://bdnews24.com/media-en/image/de06ff9ff11b</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/de06ff9ff11b</guid>
-            <pubDate>Sun, 19 Apr 2026 19:57:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/water-collection-ittefaq-more-180426-002-1776527074.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump threatens fresh strikes, says Iran broke ceasefire]]></title>
-            <description><![CDATA[[World] Trump threatens fresh strikes, says Iran broke ceasefire]]></description>
-            <link>https://bdnews24.com/world/fb9308a90d96</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/fb9308a90d96</guid>
-            <pubDate>Sun, 19 Apr 2026 19:32:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/donald-trump-180426-01-1776605527.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US officials heading to Pakistan for talks: Trump]]></title>
-            <description><![CDATA[[World] US officials heading to Pakistan for talks: Trump]]></description>
-            <link>https://bdnews24.com/world/fec6fba3559d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/fec6fba3559d</guid>
-            <pubDate>Sun, 19 Apr 2026 19:18:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/trump-150426-01-1776605454.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Deep exploration well drilling begins at Titas]]></title>
-            <description><![CDATA[[Bangladesh] Deep exploration well drilling begins at Titas]]></description>
-            <link>https://bdnews24.com/bangladesh/2cb695800baa</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2cb695800baa</guid>
-            <pubDate>Sun, 19 Apr 2026 18:53:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/brahambaria-gas-rig-190426-01-1776600222.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles drive: 1.1mn children to get jabs on Day 1]]></title>
-            <description><![CDATA[[Bangladesh] Measles drive: 1.1mn children to get jabs on Day 1]]></description>
-            <link>https://bdnews24.com/bangladesh/ed8e426e02c3</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ed8e426e02c3</guid>
-            <pubDate>Sun, 19 Apr 2026 18:52:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/measles-hospital-270326-04-1774640617.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt owes Tk 523bn to power plants: minister]]></title>
-            <description><![CDATA[[Bangladesh] Govt owes Tk 523bn to power plants: minister]]></description>
-            <link>https://bdnews24.com/bangladesh/1fea08a5e1ee</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1fea08a5e1ee</guid>
-            <pubDate>Sun, 19 Apr 2026 18:14:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-02/ceda0a36-71dd-435f-9e61-55a8a1bcde40/chattogram_s_alam_power_plant_260223_07.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles: 4 more children die]]></title>
-            <description><![CDATA[[Bangladesh] Measles: 4 more children die]]></description>
-            <link>https://bdnews24.com/bangladesh/9f7aef1258dd</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9f7aef1258dd</guid>
-            <pubDate>Sun, 19 Apr 2026 18:13:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/chattogram-medical-measles-corner-300326-03-1774973400.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran war forced fuel price hike: minister]]></title>
-            <description><![CDATA[[Bangladesh] Iran war forced fuel price hike: minister]]></description>
-            <link>https://bdnews24.com/bangladesh/7db023e91d57</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7db023e91d57</guid>
-            <pubDate>Sun, 19 Apr 2026 17:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/iqbal-tuku-190426-01-1776596336.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fuel first, now LPG: 12kg cylinder price up by Tk 212]]></title>
-            <description><![CDATA[[Economy] Fuel first, now LPG: 12kg cylinder price up by Tk 212]]></description>
-            <link>https://bdnews24.com/economy/4e107983573e</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/4e107983573e</guid>
-            <pubDate>Sun, 19 Apr 2026 17:08:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/lpg-gas-cylinder-190426-002-1776596793.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Not all IMF conditions acceptable to us: Khosru]]></title>
-            <description><![CDATA[[Economy] Not all IMF conditions acceptable to us: Khosru]]></description>
-            <link>https://bdnews24.com/economy/46c34b2987b1</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/46c34b2987b1</guid>
-            <pubDate>Sun, 19 Apr 2026 16:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/amir-khasru-mahmud-190426-1776591496.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
