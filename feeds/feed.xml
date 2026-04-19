@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Apr 2026 11:25:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 12:32:17 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Apr 2026 11:25:37 GMT</pubDate>
+        <pubDate>Sun, 19 Apr 2026 12:32:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Govt owes Tk 523bn to power plants: minister]]></title>
+            <description><![CDATA[[Bangladesh] Govt owes Tk 523bn to power plants: minister]]></description>
+            <link>https://bdnews24.com/bangladesh/1fea08a5e1ee</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1fea08a5e1ee</guid>
+            <pubDate>Sun, 19 Apr 2026 18:14:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-02/ceda0a36-71dd-435f-9e61-55a8a1bcde40/chattogram_s_alam_power_plant_260223_07.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Measles: 4 more children die]]></title>
+            <description><![CDATA[[Bangladesh] Measles: 4 more children die]]></description>
+            <link>https://bdnews24.com/bangladesh/9f7aef1258dd</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9f7aef1258dd</guid>
+            <pubDate>Sun, 19 Apr 2026 18:13:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/chattogram-medical-measles-corner-300326-03-1774973400.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran war forced fuel price hike: minister]]></title>
+            <description><![CDATA[[Bangladesh] Iran war forced fuel price hike: minister]]></description>
+            <link>https://bdnews24.com/bangladesh/7db023e91d57</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7db023e91d57</guid>
+            <pubDate>Sun, 19 Apr 2026 17:28:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/iqbal-tuku-190426-01-1776596336.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Fuel first, now LPG: 12kg cylinder price up by Tk 212]]></title>
             <description><![CDATA[[Economy] Fuel first, now LPG: 12kg cylinder price up by Tk 212]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/campus/4c9e90c4c6fe</guid>
             <pubDate>Sun, 19 Apr 2026 12:00:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/ulab-ny-event-19042026-01-1776578393.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Child with measles symptoms dies in Mymensingh]]></title>
-            <description><![CDATA[[Bangladesh] Child with measles symptoms dies in Mymensingh]]></description>
-            <link>https://bdnews24.com/bangladesh/e43a62ec9688</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e43a62ec9688</guid>
-            <pubDate>Sun, 19 Apr 2026 11:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/mymensing-hum-190426-01-1776573957.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Meta targets May 20 for first wave of layoffs]]></title>
-            <description><![CDATA[[Business] Meta targets May 20 for first wave of layoffs]]></description>
-            <link>https://bdnews24.com/business/241b9400fce9</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/241b9400fce9</guid>
-            <pubDate>Sun, 19 Apr 2026 10:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/meta-logo-190426-01-1776574271.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Republicans claim Obama's with them in Virginia fight. He isn't]]></title>
-            <description><![CDATA[[Americas] Republicans claim Obama's with them in Virginia fight. He isn't]]></description>
-            <link>https://bdnews24.com/world/americas/9ed67b9f0c66</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/9ed67b9f0c66</guid>
-            <pubDate>Sun, 19 Apr 2026 10:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025November/SM/barack-obama-021125-01-1762056448.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
