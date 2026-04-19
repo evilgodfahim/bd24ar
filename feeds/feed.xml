@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Apr 2026 18:30:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 19:33:08 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Apr 2026 18:30:45 GMT</pubDate>
+        <pubDate>Sun, 19 Apr 2026 19:33:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Shehbaz speaks with Iran's president]]></title>
+            <description><![CDATA[[World] Shehbaz speaks with Iran's president]]></description>
+            <link>https://bdnews24.com/world/44d8d8776662</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/44d8d8776662</guid>
+            <pubDate>Mon, 20 Apr 2026 01:29:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/sherif-200426-1776626909.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel reveals map of Lebanon gains]]></title>
+            <description><![CDATA[[World] Israel reveals map of Lebanon gains]]></description>
+            <link>https://bdnews24.com/world/f143fe2a8115</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/f143fe2a8115</guid>
+            <pubDate>Mon, 20 Apr 2026 01:18:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/israel-map-200426-02-1776626246.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[AC Milan secure 1-0 victory away at Verona]]></title>
             <description><![CDATA[[Sport] AC Milan secure 1-0 victory away at Verona]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/0780b12a3071</guid>
             <pubDate>Sun, 19 Apr 2026 22:33:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/phone-scammer-190426-01-1776613831.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prosecutors move to charge Shamim Osman at ICT]]></title>
-            <description><![CDATA[[Bangladesh] Prosecutors move to charge Shamim Osman at ICT]]></description>
-            <link>https://bdnews24.com/bangladesh/361ca64c5f09</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/361ca64c5f09</guid>
-            <pubDate>Sun, 19 Apr 2026 22:22:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-12/dd10f42d-d265-4d6c-a15b-d4327d976ea4/narayanganj_showcused_021223_01.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arrest over ‘cartoon’ sparks questions in parliament]]></title>
-            <description><![CDATA[[Bangladesh] Arrest over ‘cartoon’ sparks questions in parliament]]></description>
-            <link>https://bdnews24.com/bangladesh/362bda4deea9</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/362bda4deea9</guid>
-            <pubDate>Sun, 19 Apr 2026 21:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/13th-parliament-1773296033.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
