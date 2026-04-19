@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Apr 2026 09:36:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 10:28:29 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Apr 2026 09:36:31 GMT</pubDate>
+        <pubDate>Sun, 19 Apr 2026 10:28:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Fuel prices alone won't drive inflation: Khosru]]></title>
+            <description><![CDATA[[Bangladesh] Fuel prices alone won't drive inflation: Khosru]]></description>
+            <link>https://bdnews24.com/bangladesh/6bf0be7f58de</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6bf0be7f58de</guid>
+            <pubDate>Sun, 19 Apr 2026 16:27:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024September/SM/petrol-pump-010924-03-1725185229.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Won’t allow hospital to be built at CRB: Mayor Shahadat]]></title>
+            <description><![CDATA[[Bangladesh] Won’t allow hospital to be built at CRB: Mayor Shahadat]]></description>
+            <link>https://bdnews24.com/bangladesh/c3a270369bb6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c3a270369bb6</guid>
+            <pubDate>Sun, 19 Apr 2026 15:54:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/chottogram-mayor-shahadat-hossain-190426-01-1776578729.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dinesh Trivedi to be India’s next envoy to Bangladesh: report]]></title>
+            <description><![CDATA[[Bangladesh] Dinesh Trivedi to be India’s next envoy to Bangladesh: report]]></description>
+            <link>https://bdnews24.com/bangladesh/ccba51ae93ab</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ccba51ae93ab</guid>
+            <pubDate>Sun, 19 Apr 2026 15:45:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/dinesh-trivedi-india-19042026-01-1776591891.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Meeting with Trump possible once 'big deal' is ready: Lukashenko]]></title>
             <description><![CDATA[[Europe] Meeting with Trump possible once 'big deal' is ready: Lukashenko]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/13a2e967c94e</guid>
             <pubDate>Sun, 19 Apr 2026 10:00:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/2026-04-18t223224z-1257460803-up1em4i1q5g4i-rtrmadp-3-soccer-spain-atm-rso-1776571237.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Robots race past humans in Beijing half-marathon]]></title>
-            <description><![CDATA[[Tech] Robots race past humans in Beijing half-marathon]]></description>
-            <link>https://bdnews24.com/tech/4b24e0c23e53</link>
-            <guid isPermaLink="true">https://bdnews24.com/tech/4b24e0c23e53</guid>
-            <pubDate>Sun, 19 Apr 2026 09:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/beijing-robot-marathon-190426-01-1776570958.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spurs in drop zone, Wolves on brink of relegation]]></title>
-            <description><![CDATA[[Sport] Spurs in drop zone, Wolves on brink of relegation]]></description>
-            <link>https://bdnews24.com/sport/ab3cb5a7d46b</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/ab3cb5a7d46b</guid>
-            <pubDate>Sun, 19 Apr 2026 09:53:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/epl-spurs-wolves-relegation-190426-01-1776570772.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man Utd earn hard-fought win at Chelsea]]></title>
-            <description><![CDATA[[Sport] Man Utd earn hard-fought win at Chelsea]]></description>
-            <link>https://bdnews24.com/sport/22ded96c9a13</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/22ded96c9a13</guid>
-            <pubDate>Sun, 19 Apr 2026 09:46:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/epl-man-utd-chelsea-190426-01-1776570378.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
