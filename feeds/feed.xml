@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Apr 2026 10:28:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 11:25:37 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Apr 2026 10:28:29 GMT</pubDate>
+        <pubDate>Sun, 19 Apr 2026 11:25:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Fuel first, now LPG: 12kg cylinder price up by Tk 212]]></title>
+            <description><![CDATA[[Economy] Fuel first, now LPG: 12kg cylinder price up by Tk 212]]></description>
+            <link>https://bdnews24.com/economy/4e107983573e</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/4e107983573e</guid>
+            <pubDate>Sun, 19 Apr 2026 17:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2022-09/03f48d48-2642-46d9-8682-ab7c8f361761/gas_cylinder_250922_01.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Not all IMF conditions acceptable to us: Khosru]]></title>
+            <description><![CDATA[[Economy] Not all IMF conditions acceptable to us: Khosru]]></description>
+            <link>https://bdnews24.com/economy/46c34b2987b1</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/46c34b2987b1</guid>
+            <pubDate>Sun, 19 Apr 2026 16:56:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/amir-khasru-mahmud-190426-1776591496.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[April 19, 2026]]></title>
+            <description><![CDATA[[Image] April 19, 2026]]></description>
+            <link>https://bdnews24.com/media-en/image/7494bffb0d70</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/7494bffb0d70</guid>
+            <pubDate>Sun, 19 Apr 2026 16:39:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/fire-damaged-vehicles-shishu-academy-190426-002-1776526593.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Fuel prices alone won't drive inflation: Khosru]]></title>
             <description><![CDATA[[Bangladesh] Fuel prices alone won't drive inflation: Khosru]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/americas/9ed67b9f0c66</guid>
             <pubDate>Sun, 19 Apr 2026 10:36:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025November/SM/barack-obama-021125-01-1762056448.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pump owners 'hail' govt's decision to hike fuel prices]]></title>
-            <description><![CDATA[[Bangladesh] Pump owners 'hail' govt's decision to hike fuel prices]]></description>
-            <link>https://bdnews24.com/bangladesh/7563811e9e72</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7563811e9e72</guid>
-            <pubDate>Sun, 19 Apr 2026 10:25:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2022-08/d7897b93-1f5e-482a-8450-a42f65e784ab/filling_station_motorcycle_060822_11.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[N Korea fires multiple ballistic missiles towards sea off its east coast]]></title>
-            <description><![CDATA[[Asia Pacific] N Korea fires multiple ballistic missiles towards sea off its east coast]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/c288676a6264</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/c288676a6264</guid>
-            <pubDate>Sun, 19 Apr 2026 10:11:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/n-korea-missiles-190426-01-1776571847.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sociedad beat Atletico on penalties to win Copa del Rey]]></title>
-            <description><![CDATA[[Sport] Sociedad beat Atletico on penalties to win Copa del Rey]]></description>
-            <link>https://bdnews24.com/sport/13a2e967c94e</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/13a2e967c94e</guid>
-            <pubDate>Sun, 19 Apr 2026 10:00:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/2026-04-18t223224z-1257460803-up1em4i1q5g4i-rtrmadp-3-soccer-spain-atm-rso-1776571237.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
