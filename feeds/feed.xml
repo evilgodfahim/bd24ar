@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Apr 2026 17:26:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 18:30:45 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Apr 2026 17:26:07 GMT</pubDate>
+        <pubDate>Sun, 19 Apr 2026 18:30:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[AC Milan secure 1-0 victory away at Verona]]></title>
+            <description><![CDATA[[Sport] AC Milan secure 1-0 victory away at Verona]]></description>
+            <link>https://bdnews24.com/sport/754b4637ac5e</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/754b4637ac5e</guid>
+            <pubDate>Mon, 20 Apr 2026 00:30:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/milan-verona-20426-1776623377.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Van Dijk keeps Liverpool in Champions League hunt]]></title>
+            <description><![CDATA[[Sport] Van Dijk keeps Liverpool in Champions League hunt]]></description>
+            <link>https://bdnews24.com/sport/4441f3fdadbe</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/4441f3fdadbe</guid>
+            <pubDate>Mon, 20 Apr 2026 00:09:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/liverpool-19426-1776622164.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Malaysia: 1,000 homes destroyed in massive Sabah fire]]></title>
+            <description><![CDATA[[World] Malaysia: 1,000 homes destroyed in massive Sabah fire]]></description>
+            <link>https://bdnews24.com/world/a42404c25a2c</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/a42404c25a2c</guid>
+            <pubDate>Mon, 20 Apr 2026 00:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/sabah-fire-19426-1776621746.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Open tender for NCT if interests not secured: minister]]></title>
+            <description><![CDATA[[Bangladesh] Open tender for NCT if interests not secured: minister]]></description>
+            <link>https://bdnews24.com/bangladesh/222f0b0413e2</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/222f0b0413e2</guid>
+            <pubDate>Sun, 19 Apr 2026 23:49:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/ctg-port-minister-pic-19042026-1776618372.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Allies warn rushed US–Iran deal risks deadlock]]></title>
+            <description><![CDATA[[World] Allies warn rushed US–Iran deal risks deadlock]]></description>
+            <link>https://bdnews24.com/world/e2efb035d699</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e2efb035d699</guid>
+            <pubDate>Sun, 19 Apr 2026 23:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-war-190426-02-1776620811.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[8 children killed in Louisiana mass shooting: police]]></title>
+            <description><![CDATA[[World] 8 children killed in Louisiana mass shooting: police]]></description>
+            <link>https://bdnews24.com/world/f32d54f0c72c</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/f32d54f0c72c</guid>
+            <pubDate>Sun, 19 Apr 2026 23:45:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/police-190426-01-1776619262.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[London synagogue arson attacks spark probe into Iran links]]></title>
+            <description><![CDATA[[World] London synagogue arson attacks spark probe into Iran links]]></description>
+            <link>https://bdnews24.com/world/230ad7c405ea</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/230ad7c405ea</guid>
+            <pubDate>Sun, 19 Apr 2026 23:43:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/jewish-community-ambulance-19426-1776620611.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Mhatre injury adds to Chennai woe]]></title>
             <description><![CDATA[[Cricket] Mhatre injury adds to Chennai woe]]></description>
@@ -78,7 +134,7 @@
             <link>https://bdnews24.com/bangladesh/36d251e4e519</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/36d251e4e519</guid>
             <pubDate>Sun, 19 Apr 2026 22:47:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/fuel-crisis-at-pump-18042026-5-1776536018.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/fuel-crisis-filling-stations-080326-054-1772974051.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[HC: why not mandatory registration of house help]]></title>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/362bda4deea9</guid>
             <pubDate>Sun, 19 Apr 2026 21:56:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/13th-parliament-1773296033.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tk 0.15 per km bus fare hike proposed]]></title>
-            <description><![CDATA[[Bangladesh] Tk 0.15 per km bus fare hike proposed]]></description>
-            <link>https://bdnews24.com/bangladesh/99557fcd2e91</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/99557fcd2e91</guid>
-            <pubDate>Sun, 19 Apr 2026 21:49:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2022-08/fc38fc41-4b0b-4557-97f6-dddcbd118f2d/public_suffering_070822_02.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kuwait detains journalist over war posts]]></title>
-            <description><![CDATA[[World] Kuwait detains journalist over war posts]]></description>
-            <link>https://bdnews24.com/world/6b23ca4ac173</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/6b23ca4ac173</guid>
-            <pubDate>Sun, 19 Apr 2026 21:31:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025December/SM/cpj-logo-101225-01-1765347638.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Political parties demand fuel price review]]></title>
-            <description><![CDATA[[Politics] Political parties demand fuel price review]]></description>
-            <link>https://bdnews24.com/politics/2b26aeba8e49</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/2b26aeba8e49</guid>
-            <pubDate>Sun, 19 Apr 2026 21:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/oil-crisis-filling-station-190426-043-1776610512.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rat poison found in HiPP baby food jar in Austria]]></title>
-            <description><![CDATA[[World] Rat poison found in HiPP baby food jar in Austria]]></description>
-            <link>https://bdnews24.com/world/6a8f6c87cca5</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/6a8f6c87cca5</guid>
-            <pubDate>Sun, 19 Apr 2026 21:03:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/product-1776610940.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iranians see no relief after war under military rule]]></title>
-            <description><![CDATA[[World] Iranians see no relief after war under military rule]]></description>
-            <link>https://bdnews24.com/world/a4b9b839d68c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/a4b9b839d68c</guid>
-            <pubDate>Sun, 19 Apr 2026 20:59:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-resident-190426-02-1776610630.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[HC goes virtual 2 days a week to save energy]]></title>
-            <description><![CDATA[[Bangladesh] HC goes virtual 2 days a week to save energy]]></description>
-            <link>https://bdnews24.com/bangladesh/7d8f78e21ee3</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7d8f78e21ee3</guid>
-            <pubDate>Sun, 19 Apr 2026 20:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024July/SM/high-court-mm-1722173343.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[10th wage board to raise journalists’ pay soon: minister]]></title>
-            <description><![CDATA[[Bangladesh] 10th wage board to raise journalists’ pay soon: minister]]></description>
-            <link>https://bdnews24.com/bangladesh/dde92cfc170e</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/dde92cfc170e</guid>
-            <pubDate>Sun, 19 Apr 2026 19:59:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/parliament-session-160426-1776344005.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
