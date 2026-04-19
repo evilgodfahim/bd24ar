@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Apr 2026 07:59:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 08:53:40 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Apr 2026 07:59:29 GMT</pubDate>
+        <pubDate>Sun, 19 Apr 2026 08:53:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[DAP fertiliser factory shut down amid ammonia shortage]]></title>
+            <description><![CDATA[[Bangladesh] DAP fertiliser factory shut down amid ammonia shortage]]></description>
+            <link>https://bdnews24.com/bangladesh/14bfb7cf7391</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/14bfb7cf7391</guid>
+            <pubDate>Sun, 19 Apr 2026 14:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/dap-company-closed-190426-01-1776587920.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Another child dies of measles in Cumilla]]></title>
+            <description><![CDATA[[Bangladesh] Another child dies of measles in Cumilla]]></description>
+            <link>https://bdnews24.com/bangladesh/c1c2a8c02b91</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c1c2a8c02b91</guid>
+            <pubDate>Sun, 19 Apr 2026 14:28:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/cumilla-ham-dead-190426-01-1776582123.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran will not give up nuclear rights: Pezeshkian]]></title>
+            <description><![CDATA[[World] Iran will not give up nuclear rights: Pezeshkian]]></description>
+            <link>https://bdnews24.com/world/81d437ea1045</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/81d437ea1045</guid>
+            <pubDate>Sun, 19 Apr 2026 14:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/stop-aggression-pezeshkian-21032026-01-1774109306.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[3 govt bodies get new chiefs]]></title>
             <description><![CDATA[[Bangladesh] 3 govt bodies get new chiefs]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/europe/b1f4f942433c</guid>
             <pubDate>Sun, 19 Apr 2026 09:35:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/kyiv-shooting-190426-01-1776569687.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pope Leo downplays feud with Trump]]></title>
-            <description><![CDATA[[World] Pope Leo downplays feud with Trump]]></description>
-            <link>https://bdnews24.com/world/97d8b4fce525</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/97d8b4fce525</guid>
-            <pubDate>Sun, 19 Apr 2026 09:32:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/pope-leo-trump-comments-190426-01-1776569513.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[French soldier killed in Lebanon UN mission attack: officials]]></title>
-            <description><![CDATA[[Middle East] French soldier killed in Lebanon UN mission attack: officials]]></description>
-            <link>https://bdnews24.com/world/middle-east/5e17d4754b4c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/5e17d4754b4c</guid>
-            <pubDate>Sun, 19 Apr 2026 09:29:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/lebanon-un-attack-190426-01-1776569312.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No date set for next round of negotiations with US: Iran]]></title>
-            <description><![CDATA[[Middle East] No date set for next round of negotiations with US: Iran]]></description>
-            <link>https://bdnews24.com/world/middle-east/50513e0302c3</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/50513e0302c3</guid>
-            <pubDate>Sun, 19 Apr 2026 09:11:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/saeed-khatibzadeh-190426-01-1776568231.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
