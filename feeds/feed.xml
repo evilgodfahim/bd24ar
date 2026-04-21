@@ -4,17 +4,57 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Apr 2026 04:38:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 06:27:34 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Apr 2026 04:38:23 GMT</pubDate>
+        <pubDate>Tue, 21 Apr 2026 06:27:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US positive on Iran deal but talks still uncertain]]></title>
+            <description><![CDATA[[World] US positive on Iran deal but talks still uncertain]]></description>
+            <link>https://bdnews24.com/world/a30ad33ec3d7</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/a30ad33ec3d7</guid>
+            <pubDate>Tue, 21 Apr 2026 11:53:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/2026-04-21t023300z-1818879516-rc2etkai3rhf-rtrmadp-3-iran-crisis-pakistan-1776750808.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Textile mill caretaker killed in Narsingdi]]></title>
+            <description><![CDATA[[Bangladesh] Textile mill caretaker killed in Narsingdi]]></description>
+            <link>https://bdnews24.com/bangladesh/6868123710ce</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6868123710ce</guid>
+            <pubDate>Tue, 21 Apr 2026 11:43:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/norsingdee-murder-210426-01-1776744857.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hormuz blockade will stay until deal: Trump]]></title>
+            <description><![CDATA[[Middle East] Hormuz blockade will stay until deal: Trump]]></description>
+            <link>https://bdnews24.com/world/middle-east/95e019090550</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/95e019090550</guid>
+            <pubDate>Tue, 21 Apr 2026 11:42:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/hormuz-strait-210426-01-1776743723.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stocks rebound as Iran peace talks in focus]]></title>
+            <description><![CDATA[[Economy] Stocks rebound as Iran peace talks in focus]]></description>
+            <link>https://bdnews24.com/economy/e67c003012d5</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/e67c003012d5</guid>
+            <pubDate>Tue, 21 Apr 2026 10:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/japan-nikkei-140426-01-1776141615.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bleak futures spur Rohingya refugees to gamble with death at sea]]></title>
+            <description><![CDATA[[South-East Asia] Bleak futures spur Rohingya refugees to gamble with death at sea]]></description>
+            <link>https://bdnews24.com/world/south-east-asia/827aadf2089a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/south-east-asia/827aadf2089a</guid>
+            <pubDate>Tue, 21 Apr 2026 10:38:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/rohingya-refugees-210426-01-1776746206.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[1.85mn students sit for SSC, equivalent exams]]></title>
             <description><![CDATA[[Education] 1.85mn students sit for SSC, equivalent exams]]></description>
             <link>https://bdnews24.com/education/74fc536dd986</link>
             <guid isPermaLink="true">https://bdnews24.com/education/74fc536dd986</guid>
             <pubDate>Tue, 21 Apr 2026 10:35:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/mothijheel-tnt-school-210426-1776744029.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/motijheel-school-ssc-exam-210426-1776746680.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[25 killed in India firecracker factory blast]]></title>
@@ -31,14 +71,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/86077396887c</guid>
             <pubDate>Tue, 21 Apr 2026 10:11:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-airforce-210426-01-1776744605.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Amazon to invest up to $25bn in Anthropic]]></title>
-            <description><![CDATA[[Business] Amazon to invest up to $25bn in Anthropic]]></description>
-            <link>https://bdnews24.com/business/fc57356f1bf5</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/fc57356f1bf5</guid>
-            <pubDate>Tue, 21 Apr 2026 10:06:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/amazon-anthropic-210426-01-1776744323.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Amazon to invest up to $25bn in Anthropic]]></title>
@@ -110,7 +142,7 @@
             <link>https://bdnews24.com/bangladesh/8ec3dc787e14</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/8ec3dc787e14</guid>
             <pubDate>Tue, 21 Apr 2026 09:35:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-10/a12b9ac4-2bb8-4f0b-9a4f-1cf4913f530a/police_shapla_chattar_281023_010.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/police-new-dress-proposal-210426-01-1776747809.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Oil surges on worries about US-Iran ceasefire]]></title>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/d953bcc51662</guid>
             <pubDate>Tue, 21 Apr 2026 09:22:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/nz-pm-21426-1776741737.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4 of a family killed in Naogaon]]></title>
-            <description><![CDATA[[Bangladesh] 4 of a family killed in Naogaon]]></description>
-            <link>https://bdnews24.com/bangladesh/67c28cdb7ca0</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/67c28cdb7ca0</guid>
-            <pubDate>Tue, 21 Apr 2026 09:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/niamotpur-thana-210426-1776740192.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Apple insider Ternus to succeed Cook as CEO]]></title>
-            <description><![CDATA[[Technology] Apple insider Ternus to succeed Cook as CEO]]></description>
-            <link>https://bdnews24.com/technology/f78c694cf8d8</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/f78c694cf8d8</guid>
-            <pubDate>Tue, 21 Apr 2026 03:27:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/john-ternus-210426-01-1776720328.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran mulls US talks in Pakistan amid blockade]]></title>
-            <description><![CDATA[[World] Iran mulls US talks in Pakistan amid blockade]]></description>
-            <link>https://bdnews24.com/world/9c9c4a59147f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/9c9c4a59147f</guid>
-            <pubDate>Tue, 21 Apr 2026 03:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/pakistan-talks-210426-01-1776720132.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gulf fears US-Iran deal may cement Tehran’s Hormuz grip]]></title>
-            <description><![CDATA[[World] Gulf fears US-Iran deal may cement Tehran’s Hormuz grip]]></description>
-            <link>https://bdnews24.com/world/c0e938235504</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/c0e938235504</guid>
-            <pubDate>Tue, 21 Apr 2026 03:08:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/strait-of-hormuz-210426-01-1776719224.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
