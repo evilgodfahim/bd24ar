@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Apr 2026 11:52:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 12:54:33 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Apr 2026 11:52:05 GMT</pubDate>
+        <pubDate>Tue, 21 Apr 2026 12:54:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bangladeshi self-deports from US after ‘brutal’ ICE detention]]></title>
+            <description><![CDATA[[Bangladesh] Bangladeshi self-deports from US after ‘brutal’ ICE detention]]></description>
+            <link>https://bdnews24.com/bangladesh/f685add85280</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f685add85280</guid>
+            <pubDate>Tue, 21 Apr 2026 18:29:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/copy-of-32-split-screen-3-1-1776774542.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Child dies of suspected measles in Barishal]]></title>
+            <description><![CDATA[[Health] Child dies of suspected measles in Barishal]]></description>
+            <link>https://bdnews24.com/health/93cb77d49276</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/93cb77d49276</guid>
+            <pubDate>Tue, 21 Apr 2026 18:26:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-06/0afc99fe-6c64-4709-8361-102e524b06c9/sher_e_bangla_medical_college_220623.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[‘Land dispute’ behind Naogaon quadruple murder?]]></title>
             <description><![CDATA[[Bangladesh] ‘Land dispute’ behind Naogaon quadruple murder?]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/education/135ad0d0d6a6</guid>
             <pubDate>Tue, 21 Apr 2026 14:32:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/ehsanul-hoque-milan-210426-01-1776756966.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nepal resumes issuing permits for workers headed to Middle East]]></title>
-            <description><![CDATA[[South Asia] Nepal resumes issuing permits for workers headed to Middle East]]></description>
-            <link>https://bdnews24.com/world/south-asia/d00ef5506ae1</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/south-asia/d00ef5506ae1</guid>
-            <pubDate>Tue, 21 Apr 2026 14:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025September/SM/soldier-nepal-parliament-100925-01-1757498214.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gas pressure drops as one FSRU remains closed]]></title>
-            <description><![CDATA[[Business] Gas pressure drops as one FSRU remains closed]]></description>
-            <link>https://bdnews24.com/business/c7f166ebc56a</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/c7f166ebc56a</guid>
-            <pubDate>Tue, 21 Apr 2026 13:38:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024December/SM/lng-terminal-311224-01-1735632436.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
