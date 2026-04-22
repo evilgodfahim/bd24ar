@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Apr 2026 15:59:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Apr 2026 17:01:14 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Apr 2026 15:59:57 GMT</pubDate>
+        <pubDate>Wed, 22 Apr 2026 17:01:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Shahina new primary education DG]]></title>
+            <description><![CDATA[[Bangladesh] Shahina new primary education DG]]></description>
+            <link>https://bdnews24.com/bangladesh/a02108963212</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a02108963212</guid>
+            <pubDate>Wed, 22 Apr 2026 22:29:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2024-02/7e68bf87-1118-451b-b350-28606ae6db64/primary_edu_270224.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Last-minute World Cup ticket sales reopen]]></title>
             <description><![CDATA[[Sport] Last-minute World Cup ticket sales reopen]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/912043515e67</guid>
             <pubDate>Wed, 22 Apr 2026 18:38:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/tarique-rahman-parliament-220426-04-1776855872.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Power, fuel crisis paralyses Savar industries]]></title>
-            <description><![CDATA[[Business] Power, fuel crisis paralyses Savar industries]]></description>
-            <link>https://bdnews24.com/business/514a5b499a19</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/514a5b499a19</guid>
-            <pubDate>Wed, 22 Apr 2026 18:31:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/sever-fuel-crisis-220426-01-1776858944.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
