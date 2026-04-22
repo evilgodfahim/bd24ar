@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Apr 2026 08:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Apr 2026 10:08:30 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Apr 2026 08:22:39 GMT</pubDate>
+        <pubDate>Wed, 22 Apr 2026 10:08:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Schedule for HSC exams announced]]></title>
+            <description><![CDATA[[Education] Schedule for HSC exams announced]]></description>
+            <link>https://bdnews24.com/education/c4577642faa5</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/c4577642faa5</guid>
+            <pubDate>Wed, 22 Apr 2026 15:43:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-08/18c899fa-5495-4a6a-a683-eec24fbbe1e3/hsc_examination_170823_27.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Govt pledges free jute-made uniforms, schoolbags]]></title>
+            <description><![CDATA[[Bangladesh] Govt pledges free jute-made uniforms, schoolbags]]></description>
+            <link>https://bdnews24.com/bangladesh/ba210de173e4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ba210de173e4</guid>
+            <pubDate>Wed, 22 Apr 2026 15:40:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/kidz-151123-01-1774356894.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Farida Khanom named new Dhaka DC]]></title>
+            <description><![CDATA[[Bangladesh] Farida Khanom named new Dhaka DC]]></description>
+            <link>https://bdnews24.com/bangladesh/f327418631d5</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f327418631d5</guid>
+            <pubDate>Wed, 22 Apr 2026 15:24:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024September/SM/ministry-pub-admin-111123-1726573417.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Decision on bus fare hike likely on Thursday: minister]]></title>
+            <description><![CDATA[[Bangladesh] Decision on bus fare hike likely on Thursday: minister]]></description>
+            <link>https://bdnews24.com/bangladesh/9bf263dc5828</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9bf263dc5828</guid>
+            <pubDate>Wed, 22 Apr 2026 15:19:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/dhaka-new-bus-fare-081121-02-1776848823.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gunfire hits 3 ships in Hormuz]]></title>
+            <description><![CDATA[[Middle East] Gunfire hits 3 ships in Hormuz]]></description>
+            <link>https://bdnews24.com/world/middle-east/ddd12df2854c</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/ddd12df2854c</guid>
+            <pubDate>Wed, 22 Apr 2026 15:02:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/damaged-ship-2202426-1776848479.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US-Bangla flights return to Middle East skies]]></title>
+            <description><![CDATA[[Aviation] US-Bangla flights return to Middle East skies]]></description>
+            <link>https://bdnews24.com/aviation/d5152bab0d2f</link>
+            <guid isPermaLink="true">https://bdnews24.com/aviation/d5152bab0d2f</guid>
+            <pubDate>Wed, 22 Apr 2026 14:57:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/us-bangla-flight-220426-01-1776844813.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mother with 1.5-month-old baby freed on bail]]></title>
+            <description><![CDATA[[Bangladesh] Mother with 1.5-month-old baby freed on bail]]></description>
+            <link>https://bdnews24.com/bangladesh/ffb5b3d6e926</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ffb5b3d6e926</guid>
+            <pubDate>Wed, 22 Apr 2026 14:56:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/shilpi-begum-220426-01-1776846481.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Expat ‘missing’ in Malaysia jungle for 27 years returns home]]></title>
             <description><![CDATA[[Bangladesh] Expat ‘missing’ in Malaysia jungle for 27 years returns home]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/31080d5af198</guid>
             <pubDate>Wed, 22 Apr 2026 11:33:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-dollar-220426-1776835977.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australian social media ban marred by weak platform checks]]></title>
-            <description><![CDATA[[World] Australian social media ban marred by weak platform checks]]></description>
-            <link>https://bdnews24.com/world/6959aa8b2c1a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/6959aa8b2c1a</guid>
-            <pubDate>Wed, 22 Apr 2026 11:17:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/australia-social-media-ban-030426-01-1775190703.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Europe readies response to 2nd energy crisis in 4 years]]></title>
-            <description><![CDATA[[Europe] Europe readies response to 2nd energy crisis in 4 years]]></description>
-            <link>https://bdnews24.com/world/europe/362a4e7e5e19</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/362a4e7e5e19</guid>
-            <pubDate>Wed, 22 Apr 2026 10:40:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/eu-energy-220426-01-1776832827.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[McKellen, Coel spar in Soderbergh's 'The Christophers']]></title>
-            <description><![CDATA[[Entertainment] McKellen, Coel spar in Soderbergh's 'The Christophers']]></description>
-            <link>https://bdnews24.com/entertainment/8def493e5ddb</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/8def493e5ddb</guid>
-            <pubDate>Wed, 22 Apr 2026 10:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/mckellen-220426-1776831907.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hong Kong fire victim gathers memories from the ashes]]></title>
-            <description><![CDATA[[Asia Pacific] Hong Kong fire victim gathers memories from the ashes]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/bb6f734ca580</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/bb6f734ca580</guid>
-            <pubDate>Wed, 22 Apr 2026 10:22:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/honk-kong-fire-220426-01-1776831697.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brighton outclass woeful Chelsea 3-0]]></title>
-            <description><![CDATA[[Sport] Brighton outclass woeful Chelsea 3-0]]></description>
-            <link>https://bdnews24.com/sport/432b13904f25</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/432b13904f25</guid>
-            <pubDate>Wed, 22 Apr 2026 10:18:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/epl-brighton-chelsea-220426-01-1776831479.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Real Madrid edge Alaves 2-1 to end winless run]]></title>
-            <description><![CDATA[[Sport] Real Madrid edge Alaves 2-1 to end winless run]]></description>
-            <link>https://bdnews24.com/sport/e3b47c38830f</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/e3b47c38830f</guid>
-            <pubDate>Wed, 22 Apr 2026 10:14:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/laliga-real-madrid-alaves-220426-01-1776831197.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Virginians approve Democratic redistricting map]]></title>
-            <description><![CDATA[[Politics] Virginians approve Democratic redistricting map]]></description>
-            <link>https://bdnews24.com/politics/adb631175d9b</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/adb631175d9b</guid>
-            <pubDate>Wed, 22 Apr 2026 09:53:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/virginia-democrats-redistricting-220426-01-1776829963.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
