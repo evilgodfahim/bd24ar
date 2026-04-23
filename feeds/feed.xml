@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 08:26:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 10:11:54 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Apr 2026 08:26:45 GMT</pubDate>
+        <pubDate>Thu, 23 Apr 2026 10:11:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Shanto ton leaves NZ chasing 266]]></title>
+            <description><![CDATA[[Cricket] Shanto ton leaves NZ chasing 266]]></description>
+            <link>https://bdnews24.com/cricket/a9b0718acf15</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/a9b0718acf15</guid>
+            <pubDate>Thu, 23 Apr 2026 15:57:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/najmul-hossain-shanto-230426-01-1776926209.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lebanon to seek truce extension]]></title>
+            <description><![CDATA[[Middle East] Lebanon to seek truce extension]]></description>
+            <link>https://bdnews24.com/world/middle-east/d61eb359f5c7</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/d61eb359f5c7</guid>
+            <pubDate>Thu, 23 Apr 2026 15:46:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/southern-lebanon-230426-1776937526.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 to die for gang-rape of Jamalpur housewife]]></title>
+            <description><![CDATA[[Bangladesh] 3 to die for gang-rape of Jamalpur housewife]]></description>
+            <link>https://bdnews24.com/bangladesh/a86b9b6e5999</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a86b9b6e5999</guid>
+            <pubDate>Thu, 23 Apr 2026 15:37:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/jamalpur-conviction-230426-01-1776936262.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hormuz crisis puts Malacca Strait in view]]></title>
+            <description><![CDATA[[World] Hormuz crisis puts Malacca Strait in view]]></description>
+            <link>https://bdnews24.com/world/961b8c3b66ff</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/961b8c3b66ff</guid>
+            <pubDate>Thu, 23 Apr 2026 15:32:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/malacca-strait-230426-1776936729.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cambridge English hosts event to boost English proficiency]]></title>
+            <description><![CDATA[[Education] Cambridge English hosts event to boost English proficiency]]></description>
+            <link>https://bdnews24.com/education/0c23946dec82</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/0c23946dec82</guid>
+            <pubDate>Thu, 23 Apr 2026 15:21:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/dsc07999-1776936109.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[8-hour gas supply disruption in parts of Dhaka]]></title>
+            <description><![CDATA[[Bangladesh] 8-hour gas supply disruption in parts of Dhaka]]></description>
+            <link>https://bdnews24.com/bangladesh/37969cc6e4a7</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/37969cc6e4a7</guid>
+            <pubDate>Thu, 23 Apr 2026 15:14:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2024-02/eb840bf5-a7d7-412e-9233-b0a2ed0f6adf/netrokona_gas_020224_1.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shanto hits ton, Tigers eye big total]]></title>
+            <description><![CDATA[[Cricket] Shanto hits ton, Tigers eye big total]]></description>
+            <link>https://bdnews24.com/cricket/721b09133920</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/721b09133920</guid>
+            <pubDate>Thu, 23 Apr 2026 14:31:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/najmul-hossain-shanto-230426-01-1776926209.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Measles: Another child dies at Mymensingh Medical]]></title>
             <description><![CDATA[[Bangladesh] Measles: Another child dies at Mymensingh Medical]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/a4f65a397657</guid>
             <pubDate>Thu, 23 Apr 2026 12:13:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-billboard-230426-1776924742.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Voting under way in 1st phase of West Bengal Assembly polls]]></title>
-            <description><![CDATA[[Neighbours] Voting under way in 1st phase of West Bengal Assembly polls]]></description>
-            <link>https://bdnews24.com/neighbours/e277a1bd7aeb</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/e277a1bd7aeb</guid>
-            <pubDate>Thu, 23 Apr 2026 11:16:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/bengal-election-230426-01-1776916692.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jet crash tied to selfies, S Korea Air Force apologises]]></title>
-            <description><![CDATA[[Aviation] Jet crash tied to selfies, S Korea Air Force apologises]]></description>
-            <link>https://bdnews24.com/aviation/1e5eb24e2b8e</link>
-            <guid isPermaLink="true">https://bdnews24.com/aviation/1e5eb24e2b8e</guid>
-            <pubDate>Thu, 23 Apr 2026 11:11:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2024December/SM/south-korea-plane-crash-291224-02-1735453530.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man City go top, relegate Burnley]]></title>
-            <description><![CDATA[[Sport] Man City go top, relegate Burnley]]></description>
-            <link>https://bdnews24.com/sport/3b465c0671ff</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/3b465c0671ff</guid>
-            <pubDate>Thu, 23 Apr 2026 11:08:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/epl-man-city-burnley-230426-01-1776920793.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Libya rescues 404 migrants: Red Crescent]]></title>
-            <description><![CDATA[[World] Libya rescues 404 migrants: Red Crescent]]></description>
-            <link>https://bdnews24.com/world/11936de95a36</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/11936de95a36</guid>
-            <pubDate>Thu, 23 Apr 2026 11:07:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/migrants-libya-230426-1776920749.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Asian shares track Wall Street to record highs]]></title>
-            <description><![CDATA[[Business] Asian shares track Wall Street to record highs]]></description>
-            <link>https://bdnews24.com/business/b399df9adb4f</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/b399df9adb4f</guid>
-            <pubDate>Thu, 23 Apr 2026 11:01:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/asia-shares-230426-01-1776920442.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India turns to digital currency to plug welfare gaps]]></title>
-            <description><![CDATA[[Economy] India turns to digital currency to plug welfare gaps]]></description>
-            <link>https://bdnews24.com/economy/22189f7a39ed</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/22189f7a39ed</guid>
-            <pubDate>Thu, 23 Apr 2026 10:54:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/india-shop-230426-1776919999.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yamal limps off after Barca beats Celta]]></title>
-            <description><![CDATA[[Sport] Yamal limps off after Barca beats Celta]]></description>
-            <link>https://bdnews24.com/sport/f1874003b1c6</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/f1874003b1c6</guid>
-            <pubDate>Thu, 23 Apr 2026 10:44:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/laliga-barcelona-celta-vigo-yamal-230426-01-1776919432.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
