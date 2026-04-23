@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 18:51:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 19:59:52 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Apr 2026 18:51:42 GMT</pubDate>
+        <pubDate>Thu, 23 Apr 2026 19:59:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[King Charles heads to US to steady strained ties]]></title>
+            <description><![CDATA[[World] King Charles heads to US to steady strained ties]]></description>
+            <link>https://bdnews24.com/world/ac337e7d8a27</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ac337e7d8a27</guid>
+            <pubDate>Fri, 24 Apr 2026 01:39:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/charles-trump-230426-01-1776969668.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cabinet nods to end duty-free cars for MPs]]></title>
+            <description><![CDATA[[Bangladesh] Cabinet nods to end duty-free cars for MPs]]></description>
+            <link>https://bdnews24.com/bangladesh/fad295cc5aeb</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/fad295cc5aeb</guid>
+            <pubDate>Fri, 24 Apr 2026 01:35:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/tarique-rahman-at-cabinet-meeting-23042026-1776971577.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Adani unit shutdown pushes load-shedding to 2,500MW]]></title>
+            <description><![CDATA[[Bangladesh] Adani unit shutdown pushes load-shedding to 2,500MW]]></description>
+            <link>https://bdnews24.com/bangladesh/530f2603f488</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/530f2603f488</guid>
+            <pubDate>Fri, 24 Apr 2026 01:11:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2022-10/7625b4e5-c266-49ac-ae48-1e056465b4c6/loadshedding_home_power_cut_190722_01.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[White House to host Lebanon-Israeli talks]]></title>
+            <description><![CDATA[[World] White House to host Lebanon-Israeli talks]]></description>
+            <link>https://bdnews24.com/world/c0c86da3e5be</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/c0c86da3e5be</guid>
+            <pubDate>Fri, 24 Apr 2026 01:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/wh-070226-1770436323.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police reform beyond uniforms!]]></title>
+            <description><![CDATA[[Opinion] Police reform beyond uniforms!]]></description>
+            <link>https://bdnews24.com/opinion/e10375f3b3ea</link>
+            <guid isPermaLink="true">https://bdnews24.com/opinion/e10375f3b3ea</guid>
+            <pubDate>Fri, 24 Apr 2026 00:51:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/police-new-dress-proposal-210426-01-1776747809.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[DOJ cuts thousands of jobs while vowing to get tough on crime]]></title>
             <description><![CDATA[[World] DOJ cuts thousands of jobs while vowing to get tough on crime]]></description>
@@ -33,8 +73,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/lgbt-extremist-23042026-01-1776968230.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[DUCSU leaders beaten up as tension erupts over ‘screenshot’]]></title>
-            <description><![CDATA[[Campus] DUCSU leaders beaten up as tension erupts over ‘screenshot’]]></description>
+            <title><![CDATA[DUCSU leaders beaten up over ‘screenshot’]]></title>
+            <description><![CDATA[[Campus] DUCSU leaders beaten up over ‘screenshot’]]></description>
             <link>https://bdnews24.com/campus/86572f0b134b</link>
             <guid isPermaLink="true">https://bdnews24.com/campus/86572f0b134b</guid>
             <pubDate>Thu, 23 Apr 2026 23:43:00 GMT</pubDate>
@@ -105,8 +145,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/pri-seminar-government-loan-230426-01-1776958532.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Jamaat ally nomination for reserved women’s seat scrapped]]></title>
-            <description><![CDATA[[Politics] Jamaat ally nomination for reserved women’s seat scrapped]]></description>
+            <title><![CDATA[Jamaat ally nomination for reserved seat scrapped]]></title>
+            <description><![CDATA[[Politics] Jamaat ally nomination for reserved seat scrapped]]></description>
             <link>https://bdnews24.com/politics/798a9590a1d4</link>
             <guid isPermaLink="true">https://bdnews24.com/politics/798a9590a1d4</guid>
             <pubDate>Thu, 23 Apr 2026 22:20:00 GMT</pubDate>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/media-en/image/12aaed52ed14</guid>
             <pubDate>Thu, 23 Apr 2026 21:56:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/bolikhala-mela-chattogram-230426-07-1776957037.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladeshi tourist killed in Malaysia crash]]></title>
-            <description><![CDATA[[Bangladesh] Bangladeshi tourist killed in Malaysia crash]]></description>
-            <link>https://bdnews24.com/bangladesh/3ac62dc189fe</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3ac62dc189fe</guid>
-            <pubDate>Thu, 23 Apr 2026 21:37:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/bangladeshi-couple-suffered-road-accident-in-malaysia-23042026-1776951369.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Italy dismisses idea of replacing Iran at World Cup]]></title>
-            <description><![CDATA[[Sport] Italy dismisses idea of replacing Iran at World Cup]]></description>
-            <link>https://bdnews24.com/sport/84d3443c122f</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/84d3443c122f</guid>
-            <pubDate>Thu, 23 Apr 2026 21:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/italy-players-230426-01-1776958074.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Barapukuria power plant grinds to a halt]]></title>
-            <description><![CDATA[[Bangladesh] Barapukuria power plant grinds to a halt]]></description>
-            <link>https://bdnews24.com/bangladesh/d46bd6a21ca9</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d46bd6a21ca9</guid>
-            <pubDate>Thu, 23 Apr 2026 21:22:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/import/media/2018/07/21/dinajpur-barapukuria-pic-03.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prof Sohel named head of DSHE]]></title>
-            <description><![CDATA[[Bangladesh] Prof Sohel named head of DSHE]]></description>
-            <link>https://bdnews24.com/bangladesh/51e1cb331468</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/51e1cb331468</guid>
-            <pubDate>Thu, 23 Apr 2026 21:12:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/khan-moinuddin-al-mahmud-sohel-23042026-1776954562.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[174 stranded Bangladeshis return from Libya]]></title>
-            <description><![CDATA[[Bangladesh] 174 stranded Bangladeshis return from Libya]]></description>
-            <link>https://bdnews24.com/bangladesh/18be8bc603ef</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/18be8bc603ef</guid>
-            <pubDate>Thu, 23 Apr 2026 21:03:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/libya-repatriation-230426-01-1776952597.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
