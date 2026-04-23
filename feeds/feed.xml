@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 11:51:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 12:54:26 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Apr 2026 11:51:28 GMT</pubDate>
+        <pubDate>Thu, 23 Apr 2026 12:54:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Heatwave grips 20 districts]]></title>
+            <description><![CDATA[[Bangladesh] Heatwave grips 20 districts]]></description>
+            <link>https://bdnews24.com/bangladesh/4c8555f7772d</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4c8555f7772d</guid>
+            <pubDate>Thu, 23 Apr 2026 18:41:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-05/7c99fa5b-be4a-4364-808f-a6f7423a612a/Hot_Weather_090523_01.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pietersen backs Bethell to stay in IPL despite criticism]]></title>
+            <description><![CDATA[[Cricket] Pietersen backs Bethell to stay in IPL despite criticism]]></description>
+            <link>https://bdnews24.com/cricket/05964bf00fe9</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/05964bf00fe9</guid>
+            <pubDate>Thu, 23 Apr 2026 18:31:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/pietersen-backs-bethell-ipl-230426-01-1776947444.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jadeja pleased as Rajasthan middle order response]]></title>
+            <description><![CDATA[[Cricket] Jadeja pleased as Rajasthan middle order response]]></description>
+            <link>https://bdnews24.com/cricket/22cefab59f15</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/22cefab59f15</guid>
+            <pubDate>Thu, 23 Apr 2026 18:27:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/jadeja-pleased-middle-order-230426-01-1776947247.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM proposes cross-party committee on energy crisis]]></title>
+            <description><![CDATA[[Bangladesh] PM proposes cross-party committee on energy crisis]]></description>
+            <link>https://bdnews24.com/bangladesh/e6f68a40573e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e6f68a40573e</guid>
+            <pubDate>Thu, 23 Apr 2026 18:25:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/tarique-rahman-230426-1776943350.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Construction begins on cricket stadium for 2028 LA Games]]></title>
+            <description><![CDATA[[Cricket] Construction begins on cricket stadium for 2028 LA Games]]></description>
+            <link>https://bdnews24.com/cricket/1377afc032dd</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/1377afc032dd</guid>
+            <pubDate>Thu, 23 Apr 2026 18:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/la-memorial-coliseum-230426-01-1776946548.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Malnutrition hampering measles cure: health minister]]></title>
+            <description><![CDATA[[Health] Malnutrition hampering measles cure: health minister]]></description>
+            <link>https://bdnews24.com/health/7169a550a350</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/7169a550a350</guid>
+            <pubDate>Thu, 23 Apr 2026 18:09:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/health-minister-23042026-1776941343.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[LPG selling above fixed rate: Rumeen]]></title>
+            <description><![CDATA[[Bangladesh] LPG selling above fixed rate: Rumeen]]></description>
+            <link>https://bdnews24.com/bangladesh/cba31fd66fec</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cba31fd66fec</guid>
+            <pubDate>Thu, 23 Apr 2026 18:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/parliament-rumin-farhana-gas-230426-01-1776944446.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[9 dead in Pakistan mining site attack]]></title>
             <description><![CDATA[[South Asia] 9 dead in Pakistan mining site attack]]></description>
@@ -25,8 +81,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/banani-bus-accident-23042026-2-1776942744.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Measles: Hospitals barred from turning away patients]]></title>
-            <description><![CDATA[[Health] Measles: Hospitals barred from turning away patients]]></description>
+            <title><![CDATA[Hospitals barred from turning away measles patients]]></title>
+            <description><![CDATA[[Health] Hospitals barred from turning away measles patients]]></description>
             <link>https://bdnews24.com/health/b17bc2d2022a</link>
             <guid isPermaLink="true">https://bdnews24.com/health/b17bc2d2022a</guid>
             <pubDate>Thu, 23 Apr 2026 17:46:00 GMT</pubDate>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/health/deb3504f3477</guid>
             <pubDate>Thu, 23 Apr 2026 16:46:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025November/SM/pills-171125-01-1763397125.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4 get life in prison for 2003 Keraniganj murder]]></title>
-            <description><![CDATA[[Bangladesh] 4 get life in prison for 2003 Keraniganj murder]]></description>
-            <link>https://bdnews24.com/bangladesh/64bbd5339ba9</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/64bbd5339ba9</guid>
-            <pubDate>Thu, 23 Apr 2026 16:42:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/cmm-court-dhaka-1000-1774008444.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Army chief links air power ‘gap’ to Rohingya crisis]]></title>
-            <description><![CDATA[[Bangladesh] Army chief links air power ‘gap’ to Rohingya crisis]]></description>
-            <link>https://bdnews24.com/bangladesh/735df7831b30</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/735df7831b30</guid>
-            <pubDate>Thu, 23 Apr 2026 16:37:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/waker-uz-zaman-230426-01-1776937728.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shanto ton leaves NZ chasing 266]]></title>
-            <description><![CDATA[[Cricket] Shanto ton leaves NZ chasing 266]]></description>
-            <link>https://bdnews24.com/cricket/a9b0718acf15</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/a9b0718acf15</guid>
-            <pubDate>Thu, 23 Apr 2026 15:57:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/najmul-hossain-shanto-230426-01-1776926209.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lebanon to seek truce extension]]></title>
-            <description><![CDATA[[Middle East] Lebanon to seek truce extension]]></description>
-            <link>https://bdnews24.com/world/middle-east/d61eb359f5c7</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/d61eb359f5c7</guid>
-            <pubDate>Thu, 23 Apr 2026 15:46:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/southern-lebanon-230426-1776937526.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 to die for gang-rape of Jamalpur housewife]]></title>
-            <description><![CDATA[[Bangladesh] 3 to die for gang-rape of Jamalpur housewife]]></description>
-            <link>https://bdnews24.com/bangladesh/a86b9b6e5999</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a86b9b6e5999</guid>
-            <pubDate>Thu, 23 Apr 2026 15:37:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/jamalpur-conviction-230426-01-1776936262.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hormuz crisis puts Malacca Strait in view]]></title>
-            <description><![CDATA[[World] Hormuz crisis puts Malacca Strait in view]]></description>
-            <link>https://bdnews24.com/world/961b8c3b66ff</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/961b8c3b66ff</guid>
-            <pubDate>Thu, 23 Apr 2026 15:32:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/malacca-strait-230426-1776936729.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cambridge English hosts event to boost English proficiency]]></title>
-            <description><![CDATA[[Education] Cambridge English hosts event to boost English proficiency]]></description>
-            <link>https://bdnews24.com/education/0c23946dec82</link>
-            <guid isPermaLink="true">https://bdnews24.com/education/0c23946dec82</guid>
-            <pubDate>Thu, 23 Apr 2026 15:21:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/dsc07999-1776936109.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
