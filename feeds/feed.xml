@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 19:59:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 20:52:51 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Apr 2026 19:59:52 GMT</pubDate>
+        <pubDate>Thu, 23 Apr 2026 20:52:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Rajshahi college violence leaves 5 injured]]></title>
+            <description><![CDATA[[Campus] Rajshahi college violence leaves 5 injured]]></description>
+            <link>https://bdnews24.com/campus/ad7890971855</link>
+            <guid isPermaLink="true">https://bdnews24.com/campus/ad7890971855</guid>
+            <pubDate>Fri, 24 Apr 2026 02:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/rajshahi-college-attack-240426-01-1776972772.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Energy crunch leaves rural Bangladesh reeling]]></title>
+            <description><![CDATA[[Bangladesh] Energy crunch leaves rural Bangladesh reeling]]></description>
+            <link>https://bdnews24.com/bangladesh/163b384c84cb</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/163b384c84cb</guid>
+            <pubDate>Fri, 24 Apr 2026 02:02:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/electricity-crisis-loadsheding-230426-01-1776974056.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[King Charles heads to US to steady strained ties]]></title>
             <description><![CDATA[[World] King Charles heads to US to steady strained ties]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/politics/798a9590a1d4</guid>
             <pubDate>Thu, 23 Apr 2026 22:20:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/monira-sharmin-230426-201-1776960186.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Old Dhaka monkeys battle heatwave]]></title>
-            <description><![CDATA[[Image] Old Dhaka monkeys battle heatwave]]></description>
-            <link>https://bdnews24.com/media-en/image/2ded85b6921c</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/2ded85b6921c</guid>
-            <pubDate>Thu, 23 Apr 2026 22:13:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/monkey-watermelon-hot-day-230426-011-1776951217.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[April 23, 2026]]></title>
-            <description><![CDATA[[Image] April 23, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/12aaed52ed14</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/12aaed52ed14</guid>
-            <pubDate>Thu, 23 Apr 2026 21:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/bolikhala-mela-chattogram-230426-07-1776957037.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
