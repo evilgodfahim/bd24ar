@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 19:42:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 20:33:34 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Apr 2026 19:42:01 GMT</pubDate>
+        <pubDate>Fri, 24 Apr 2026 20:33:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[King Charles to attend 9/11 event with NY Mayor Mamdani]]></title>
+            <description><![CDATA[[World] King Charles to attend 9/11 event with NY Mayor Mamdani]]></description>
+            <link>https://bdnews24.com/world/687a17cfb5ff</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/687a17cfb5ff</guid>
+            <pubDate>Sat, 25 Apr 2026 02:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/charles-mamdani-nyc-250426-01-1777061375.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israeli fire kills 12 in Gaza, medics say]]></title>
+            <description><![CDATA[[Middle East] Israeli fire kills 12 in Gaza, medics say]]></description>
+            <link>https://bdnews24.com/world/middle-east/67f208e3c088</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/67f208e3c088</guid>
+            <pubDate>Sat, 25 Apr 2026 02:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/israel-gaza-fire-250426-01-1777060790.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran to make offer aimed at satisfying US demands: Trump]]></title>
+            <description><![CDATA[[World] Iran to make offer aimed at satisfying US demands: Trump]]></description>
+            <link>https://bdnews24.com/world/660c6eba8fb1</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/660c6eba8fb1</guid>
+            <pubDate>Sat, 25 Apr 2026 01:51:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/trump-iran-deal-250426-01-1777060252.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[New York state marks Apr 14 as Bangla New Year Day]]></title>
+            <description><![CDATA[[Americas] New York state marks Apr 14 as Bangla New Year Day]]></description>
+            <link>https://bdnews24.com/world/americas/fbd46be974c9</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/fbd46be974c9</guid>
+            <pubDate>Sat, 25 Apr 2026 01:46:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/bengali-new-year-nyc-250426-1777059905.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Hopes for peace talks as Iran FM, envoys head to Pakistan]]></title>
             <description><![CDATA[[World] Hopes for peace talks as Iran FM, envoys head to Pakistan]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/76c61a9fcc18</guid>
             <pubDate>Fri, 24 Apr 2026 22:49:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/narail-hindu-family-road-240426-01-1777046872.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran war leaves seafarers stranded]]></title>
-            <description><![CDATA[[World] Iran war leaves seafarers stranded]]></description>
-            <link>https://bdnews24.com/world/638ab3d57d64</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/638ab3d57d64</guid>
-            <pubDate>Fri, 24 Apr 2026 22:47:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-seafarers-24042026-01-1777049178.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Third LNG terminal tender opens as outages grow]]></title>
-            <description><![CDATA[[Bangladesh] Third LNG terminal tender opens as outages grow]]></description>
-            <link>https://bdnews24.com/bangladesh/a2614f249dde</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a2614f249dde</guid>
-            <pubDate>Fri, 24 Apr 2026 21:55:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/sylhet-commerce-minister-240426-01-1777040110.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Araghchi heading to Pakistan to resume indirect talks with US]]></title>
-            <description><![CDATA[[World] Araghchi heading to Pakistan to resume indirect talks with US]]></description>
-            <link>https://bdnews24.com/world/7395e348f8e6</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/7395e348f8e6</guid>
-            <pubDate>Fri, 24 Apr 2026 21:16:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/araghchi-150326-01-1773575820.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gulshan Society gets new committee, Omar Sadat re-elected]]></title>
-            <description><![CDATA[[Bangladesh] Gulshan Society gets new committee, Omar Sadat re-elected]]></description>
-            <link>https://bdnews24.com/bangladesh/dda0ad8b123a</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/dda0ad8b123a</guid>
-            <pubDate>Fri, 24 Apr 2026 21:15:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/img-20260424-wa0014-1777043589.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
