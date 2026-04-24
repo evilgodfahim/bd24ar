@@ -4,10 +4,82 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 16:43:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 17:41:27 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Apr 2026 16:43:40 GMT</pubDate>
+        <pubDate>Fri, 24 Apr 2026 17:41:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Rodri out of FA Cup semi]]></title>
+            <description><![CDATA[[Sport] Rodri out of FA Cup semi]]></description>
+            <link>https://bdnews24.com/sport/8b161a35546a</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/8b161a35546a</guid>
+            <pubDate>Fri, 24 Apr 2026 23:33:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/rodri-out-24042026-01-1777051954.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chornobyl plant haunted by war 40 years after disaster]]></title>
+            <description><![CDATA[[World] Chornobyl plant haunted by war 40 years after disaster]]></description>
+            <link>https://bdnews24.com/world/e36fe62bf366</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e36fe62bf366</guid>
+            <pubDate>Fri, 24 Apr 2026 23:18:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/chornobyl-plant-24042026-01-1777051055.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Actor Tariquzzaman Tapan dies]]></title>
+            <description><![CDATA[[Entertainment] Actor Tariquzzaman Tapan dies]]></description>
+            <link>https://bdnews24.com/entertainment/511b3c447b3c</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/511b3c447b3c</guid>
+            <pubDate>Fri, 24 Apr 2026 23:13:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/tarekzaman-tapan-actor-240426-1777048439.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 children with measles symptoms die in Sylhet]]></title>
+            <description><![CDATA[[Health] 3 children with measles symptoms die in Sylhet]]></description>
+            <link>https://bdnews24.com/health/893bba03fef5</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/893bba03fef5</guid>
+            <pubDate>Fri, 24 Apr 2026 23:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/syhlet-ham-dead-240426-1777022629.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[19th Dhaka Auto Series of Exhibitions]]></title>
+            <description><![CDATA[[Image] 19th Dhaka Auto Series of Exhibitions]]></description>
+            <link>https://bdnews24.com/media-en/image/ce502617fa57</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/ce502617fa57</guid>
+            <pubDate>Fri, 24 Apr 2026 23:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/dhaka-auto-series-exhibitions-240426-035-1777046392.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BNP expels leader after shoe attack on female teacher]]></title>
+            <description><![CDATA[[Politics] BNP expels leader after shoe attack on female teacher]]></description>
+            <link>https://bdnews24.com/politics/136381cd2aab</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/136381cd2aab</guid>
+            <pubDate>Fri, 24 Apr 2026 22:52:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/rajshahi-bnp-akbar-suspend-240426-01-1777036752.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[April 24, 2026]]></title>
+            <description><![CDATA[[Image] April 24, 2026]]></description>
+            <link>https://bdnews24.com/media-en/image/dae55bf47bcd</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/dae55bf47bcd</guid>
+            <pubDate>Fri, 24 Apr 2026 22:49:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/rana-plaza-tragedy-savar-240426-022-1777040399.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wall blocking 25 Narail Hindu families removed after 9 days]]></title>
+            <description><![CDATA[[Bangladesh] Wall blocking 25 Narail Hindu families removed after 9 days]]></description>
+            <link>https://bdnews24.com/bangladesh/76c61a9fcc18</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/76c61a9fcc18</guid>
+            <pubDate>Fri, 24 Apr 2026 22:49:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/narail-hindu-family-road-240426-01-1777046872.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran war leaves seafarers stranded]]></title>
+            <description><![CDATA[[World] Iran war leaves seafarers stranded]]></description>
+            <link>https://bdnews24.com/world/638ab3d57d64</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/638ab3d57d64</guid>
+            <pubDate>Fri, 24 Apr 2026 22:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-seafarers-24042026-01-1777049178.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Third LNG terminal tender opens as outages grow]]></title>
             <description><![CDATA[[Bangladesh] Third LNG terminal tender opens as outages grow]]></description>
@@ -95,78 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/4263faecf6f0</guid>
             <pubDate>Fri, 24 Apr 2026 18:46:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/earthquake-seminar-240426-02-1777032590.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles: 7 more children die]]></title>
-            <description><![CDATA[[Bangladesh] Measles: 7 more children die]]></description>
-            <link>https://bdnews24.com/bangladesh/4292b0a00cc5</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4292b0a00cc5</guid>
-            <pubDate>Fri, 24 Apr 2026 18:45:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/measles-patient-sonkromon-bedi-hospital-290326-040-1774790031.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu reveals cancer diagnosis]]></title>
-            <description><![CDATA[[World] Netanyahu reveals cancer diagnosis]]></description>
-            <link>https://bdnews24.com/world/a471e5a0b283</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/a471e5a0b283</guid>
-            <pubDate>Fri, 24 Apr 2026 18:39:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025November/SM/netanyahu-161125-01-1763297705.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4 held for ‘impersonating’ DB police in Gopalganj]]></title>
-            <description><![CDATA[[Bangladesh] 4 held for ‘impersonating’ DB police in Gopalganj]]></description>
-            <link>https://bdnews24.com/bangladesh/6e45145f7563</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6e45145f7563</guid>
-            <pubDate>Fri, 24 Apr 2026 18:33:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/gopalganj-dakat-arrested-240426-01-1777026731.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh at ‘high risk’ from measles: WHO]]></title>
-            <description><![CDATA[[Bangladesh] Bangladesh at ‘high risk’ from measles: WHO]]></description>
-            <link>https://bdnews24.com/bangladesh/74987c8594cd</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/74987c8594cd</guid>
-            <pubDate>Fri, 24 Apr 2026 17:54:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/chattogram-medical-measles-corner-300326-03-1774973400.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles: How the Yunus govt failed children]]></title>
-            <description><![CDATA[[Opinion] Measles: How the Yunus govt failed children]]></description>
-            <link>https://bdnews24.com/opinion/bb6c11eea000</link>
-            <guid isPermaLink="true">https://bdnews24.com/opinion/bb6c11eea000</guid>
-            <pubDate>Fri, 24 Apr 2026 17:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/measles-patient-dncc-210426-003-1776799530.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shibir accused of using JnUCSU for party agenda]]></title>
-            <description><![CDATA[[Campus] Shibir accused of using JnUCSU for party agenda]]></description>
-            <link>https://bdnews24.com/campus/eed9c05984ba</link>
-            <guid isPermaLink="true">https://bdnews24.com/campus/eed9c05984ba</guid>
-            <pubDate>Fri, 24 Apr 2026 17:35:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/jnucsu-240426-1777028598.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka seeks more time for LDC graduation]]></title>
-            <description><![CDATA[[Bangladesh] Dhaka seeks more time for LDC graduation]]></description>
-            <link>https://bdnews24.com/bangladesh/1c4df3deb746</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1c4df3deb746</guid>
-            <pubDate>Fri, 24 Apr 2026 17:06:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/salahuddin-noman-chowdhury-240426-1777026638.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Another child dies with measles symptoms in Sylhet]]></title>
-            <description><![CDATA[[Bangladesh] Another child dies with measles symptoms in Sylhet]]></description>
-            <link>https://bdnews24.com/bangladesh/974a4fe936d3</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/974a4fe936d3</guid>
-            <pubDate>Fri, 24 Apr 2026 16:54:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/syhlet-ham-dead-240426-1777022629.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Islamabad maintains security lockdown expecting US-Iran talks]]></title>
-            <description><![CDATA[[South Asia] Islamabad maintains security lockdown expecting US-Iran talks]]></description>
-            <link>https://bdnews24.com/world/south-asia/8a9d9116e0a9</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/south-asia/8a9d9116e0a9</guid>
-            <pubDate>Fri, 24 Apr 2026 16:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/islamabad-security-240426-01-1777026760.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
