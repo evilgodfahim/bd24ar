@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 18:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 19:42:01 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Apr 2026 18:34:10 GMT</pubDate>
+        <pubDate>Fri, 24 Apr 2026 19:42:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Hopes for peace talks as Iran FM, envoys head to Pakistan]]></title>
+            <description><![CDATA[[World] Hopes for peace talks as Iran FM, envoys head to Pakistan]]></description>
+            <link>https://bdnews24.com/world/ea5ce7bbe655</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ea5ce7bbe655</guid>
+            <pubDate>Sat, 25 Apr 2026 01:25:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-us-peace-talks-hope-250426-01-1777058660.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Missing Bangladeshi student found dead in Florida]]></title>
+            <description><![CDATA[[Americas] Missing Bangladeshi student found dead in Florida]]></description>
+            <link>https://bdnews24.com/world/americas/ab216efe441d</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/ab216efe441d</guid>
+            <pubDate>Sat, 25 Apr 2026 01:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/zamil-limon-nahida-bristy-230426-01-1776943340.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[UEFA suspends Prestianni for homophobic conduct]]></title>
             <description><![CDATA[[Sport] UEFA suspends Prestianni for homophobic conduct]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/dda0ad8b123a</guid>
             <pubDate>Fri, 24 Apr 2026 21:15:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/img-20260424-wa0014-1777043589.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BJP’s Amit Shah ‘amused’ by Mamata threat to ‘take Delhi’]]></title>
-            <description><![CDATA[[World] BJP’s Amit Shah ‘amused’ by Mamata threat to ‘take Delhi’]]></description>
-            <link>https://bdnews24.com/world/0bf6aeab2c24</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/0bf6aeab2c24</guid>
-            <pubDate>Fri, 24 Apr 2026 20:41:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/momota-amit-shah-240426-01-1777036891.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Movement will continue in parliament, in the streets: Shafiqur]]></title>
-            <description><![CDATA[[Politics] Movement will continue in parliament, in the streets: Shafiqur]]></description>
-            <link>https://bdnews24.com/politics/093aa1072d50</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/093aa1072d50</guid>
-            <pubDate>Fri, 24 Apr 2026 20:23:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/shafiqur-rahman-240426-01-1777036758.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
