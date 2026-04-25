@@ -4,9 +4,9 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 18:32:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 19:36:20 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Apr 2026 18:32:33 GMT</pubDate>
+        <pubDate>Sat, 25 Apr 2026 19:36:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Family baffled by Bristy killing in US]]></title>
@@ -14,7 +14,7 @@
             <link>https://bdnews24.com/bangladesh/fcaae909ccf0</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/fcaae909ccf0</guid>
             <pubDate>Sun, 26 Apr 2026 00:25:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/madaripur-nihad-home-250426-01-1777144579.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Barca see off Getafe to close in on title]]></title>
@@ -30,7 +30,7 @@
             <link>https://bdnews24.com/bangladesh/26a8099ef39f</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/26a8099ef39f</guid>
             <pubDate>Sun, 26 Apr 2026 00:15:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-03/74e25c4d-3d4e-438c-b0c7-c29dcf12defb/ac_bus_010323_07.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Rahul ton in vain as Punjab seal record chase]]></title>
@@ -78,7 +78,7 @@
             <link>https://bdnews24.com/world/881eeb5c70a7</link>
             <guid isPermaLink="true">https://bdnews24.com/world/881eeb5c70a7</guid>
             <pubDate>Sat, 25 Apr 2026 23:15:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/trump-cancel-trip-25042026-01-1777144901.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Militao risks missing WC with hamstring injury]]></title>
