@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – Latest News]]></title>
+        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 11:30:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 12:34:06 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Apr 2026 11:30:57 GMT</pubDate>
+        <pubDate>Sat, 25 Apr 2026 12:34:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: timeout of 65000ms exceeded]]></description>
-            <link>https://bdnews24.com</link>
-            <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Sat, 25 Apr 2026 11:30:57 GMT</pubDate>
+            <title><![CDATA[PM orders rehabilitation of evicted hawkers]]></title>
+            <description><![CDATA[[Bangladesh] PM orders rehabilitation of evicted hawkers]]></description>
+            <link>https://bdnews24.com/bangladesh/578bfb7c8157</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/578bfb7c8157</guid>
+            <pubDate>Sat, 25 Apr 2026 18:27:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI chief apologises over failure to alert police]]></title>
+            <description><![CDATA[[Technology] OpenAI chief apologises over failure to alert police]]></description>
+            <link>https://bdnews24.com/technology/bfe3849f1cf9</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/bfe3849f1cf9</guid>
+            <pubDate>Sat, 25 Apr 2026 18:21:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bagha Sharif secures hat-trick Boli Khela win]]></title>
+            <description><![CDATA[[Sport] Bagha Sharif secures hat-trick Boli Khela win]]></description>
+            <link>https://bdnews24.com/sport/eb1d02066da4</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/eb1d02066da4</guid>
+            <pubDate>Sat, 25 Apr 2026 18:20:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Turkey eyes role In Hormuz demining: minister]]></title>
+            <description><![CDATA[[World] Turkey eyes role In Hormuz demining: minister]]></description>
+            <link>https://bdnews24.com/world/87093b44bd11</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/87093b44bd11</guid>
+            <pubDate>Sat, 25 Apr 2026 18:08:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Missing customs officer found dead]]></title>
+            <description><![CDATA[[Bangladesh] Missing customs officer found dead]]></description>
+            <link>https://bdnews24.com/bangladesh/540c963d8b02</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/540c963d8b02</guid>
+            <pubDate>Sat, 25 Apr 2026 18:06:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump attends press gala after years of boycott]]></title>
+            <description><![CDATA[[World] Trump attends press gala after years of boycott]]></description>
+            <link>https://bdnews24.com/world/db036bdaab0f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/db036bdaab0f</guid>
+            <pubDate>Sat, 25 Apr 2026 17:53:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Judges have no role in deportation shield fight: Trump]]></title>
+            <description><![CDATA[[THE LONG READ] Judges have no role in deportation shield fight: Trump]]></description>
+            <link>https://bdnews24.com/the-long-read/32446ef451f0</link>
+            <guid isPermaLink="true">https://bdnews24.com/the-long-read/32446ef451f0</guid>
+            <pubDate>Sat, 25 Apr 2026 17:43:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[2027 SSC exams may shift to December: minister]]></title>
+            <description><![CDATA[[Education] 2027 SSC exams may shift to December: minister]]></description>
+            <link>https://bdnews24.com/education/5dc29b337bc7</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/5dc29b337bc7</guid>
+            <pubDate>Sat, 25 Apr 2026 17:04:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jamaat mindset ‘distorted’: Fakhrul]]></title>
+            <description><![CDATA[[Politics] Jamaat mindset ‘distorted’: Fakhrul]]></description>
+            <link>https://bdnews24.com/politics/5c59c575a156</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/5c59c575a156</guid>
+            <pubDate>Sat, 25 Apr 2026 16:46:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Measles: 11 deaths, 229 cases]]></title>
+            <description><![CDATA[[Health] Measles: 11 deaths, 229 cases]]></description>
+            <link>https://bdnews24.com/health/1aa506048965</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/1aa506048965</guid>
+            <pubDate>Sat, 25 Apr 2026 16:16:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran slates US seizure of ‘medical supply ship’]]></title>
+            <description><![CDATA[[World] Iran slates US seizure of ‘medical supply ship’]]></description>
+            <link>https://bdnews24.com/world/fab0af42f6aa</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/fab0af42f6aa</guid>
+            <pubDate>Sat, 25 Apr 2026 16:11:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tk 10mn funded for ‘Yes’ campaign: student leader]]></title>
+            <description><![CDATA[[Bangladesh] Tk 10mn funded for ‘Yes’ campaign: student leader]]></description>
+            <link>https://bdnews24.com/bangladesh/ef5515a30ff9</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ef5515a30ff9</guid>
+            <pubDate>Sat, 25 Apr 2026 15:47:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fernandes aims World Cup win for Ronaldo]]></title>
+            <description><![CDATA[[Sport] Fernandes aims World Cup win for Ronaldo]]></description>
+            <link>https://bdnews24.com/sport/240eefc906cf</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/240eefc906cf</guid>
+            <pubDate>Sat, 25 Apr 2026 15:41:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[32,000 pilgrims reach Saudi, 2 dead]]></title>
+            <description><![CDATA[[Bangladesh] 32,000 pilgrims reach Saudi, 2 dead]]></description>
+            <link>https://bdnews24.com/bangladesh/997de4e86d8f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/997de4e86d8f</guid>
+            <pubDate>Sat, 25 Apr 2026 15:15:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Hidden’ propaganda hits footpath drives: DNCC]]></title>
+            <description><![CDATA[[Bangladesh] ‘Hidden’ propaganda hits footpath drives: DNCC]]></description>
+            <link>https://bdnews24.com/bangladesh/0b31ddc7e0ab</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0b31ddc7e0ab</guid>
+            <pubDate>Sat, 25 Apr 2026 14:59:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[CTTC downplays panic over threat alert]]></title>
+            <description><![CDATA[[Bangladesh] CTTC downplays panic over threat alert]]></description>
+            <link>https://bdnews24.com/bangladesh/6eb27d5ef37b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6eb27d5ef37b</guid>
+            <pubDate>Sat, 25 Apr 2026 13:51:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM calls for skilled, accountable administration]]></title>
+            <description><![CDATA[[Bangladesh] PM calls for skilled, accountable administration]]></description>
+            <link>https://bdnews24.com/bangladesh/bdc9a388a8fa</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/bdc9a388a8fa</guid>
+            <pubDate>Sat, 25 Apr 2026 13:47:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump to discuss digital tax, NATO with King Charles]]></title>
+            <description><![CDATA[[World] Trump to discuss digital tax, NATO with King Charles]]></description>
+            <link>https://bdnews24.com/world/fdfe5406b5c1</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/fdfe5406b5c1</guid>
+            <pubDate>Sat, 25 Apr 2026 13:08:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man gunned down in Raozan]]></title>
+            <description><![CDATA[[Bangladesh] Man gunned down in Raozan]]></description>
+            <link>https://bdnews24.com/bangladesh/4eb9e8a93a43</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4eb9e8a93a43</guid>
+            <pubDate>Sat, 25 Apr 2026 12:41:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US-Kuwaiti journalist exits Kuwait after release: official]]></title>
+            <description><![CDATA[[Media] US-Kuwaiti journalist exits Kuwait after release: official]]></description>
+            <link>https://bdnews24.com/media-en/64afa0e3303c</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/64afa0e3303c</guid>
+            <pubDate>Sat, 25 Apr 2026 12:33:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
