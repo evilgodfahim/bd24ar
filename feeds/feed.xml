@@ -4,10 +4,114 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 01:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 04:25:55 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Apr 2026 01:13:20 GMT</pubDate>
+        <pubDate>Sat, 25 Apr 2026 04:25:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Police warn of 'plot' to hit parliament]]></title>
+            <description><![CDATA[[Bangladesh] Police warn of 'plot' to hit parliament]]></description>
+            <link>https://bdnews24.com/bangladesh/0e188f05d8cb</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0e188f05d8cb</guid>
+            <pubDate>Sat, 25 Apr 2026 10:18:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024August/SM/police-headquarter-050824-01-1722868947.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US lawyer defends Iran war as self-defence]]></title>
+            <description><![CDATA[[World] US lawyer defends Iran war as self-defence]]></description>
+            <link>https://bdnews24.com/world/2ae5aa92f090</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/2ae5aa92f090</guid>
+            <pubDate>Sat, 25 Apr 2026 09:46:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-lawyer-defends-iran-war-250426-01-1777088744.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US consumer sentiment hits record low in April]]></title>
+            <description><![CDATA[[Americas] US consumer sentiment hits record low in April]]></description>
+            <link>https://bdnews24.com/world/americas/f76fc83f1469</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/f76fc83f1469</guid>
+            <pubDate>Sat, 25 Apr 2026 09:42:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-ny-250426-1777088526.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Purdue opioid victims hit wall of paperwork]]></title>
+            <description><![CDATA[[THE LONG READ] Purdue opioid victims hit wall of paperwork]]></description>
+            <link>https://bdnews24.com/the-long-read/78afc6cb01e0</link>
+            <guid isPermaLink="true">https://bdnews24.com/the-long-read/78afc6cb01e0</guid>
+            <pubDate>Sat, 25 Apr 2026 09:38:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/purdue-opioid-victim-paperwork-250426-01-1777088265.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech lifts US stocks, oil dips on Iran peace hopes]]></title>
+            <description><![CDATA[[Economy] Tech lifts US stocks, oil dips on Iran peace hopes]]></description>
+            <link>https://bdnews24.com/economy/dc6db1cac5d2</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/dc6db1cac5d2</guid>
+            <pubDate>Sat, 25 Apr 2026 09:32:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-stocks-250426-1777087918.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump signals possible Iran breakthrough again]]></title>
+            <description><![CDATA[[World] Trump signals possible Iran breakthrough again]]></description>
+            <link>https://bdnews24.com/world/d96b3460e26e</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/d96b3460e26e</guid>
+            <pubDate>Sat, 25 Apr 2026 09:28:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/trump-signals-breakthrough-250426-01-1777087702.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hezbollah calls truce ‘meaningless’]]></title>
+            <description><![CDATA[[World] Hezbollah calls truce ‘meaningless’]]></description>
+            <link>https://bdnews24.com/world/67759847f6dd</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/67759847f6dd</guid>
+            <pubDate>Sat, 25 Apr 2026 09:24:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/hezbollah-truce-meaningless-250426-01-1777087485.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Forest go 8 points clear from relegation]]></title>
+            <description><![CDATA[[Sport] Forest go 8 points clear from relegation]]></description>
+            <link>https://bdnews24.com/sport/34ac478bc6b1</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/34ac478bc6b1</guid>
+            <pubDate>Sat, 25 Apr 2026 09:21:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/forest-relegation-clear-250426-01-1777087237.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Google to invest up to $40bn in Anthropic]]></title>
+            <description><![CDATA[[Technology] Google to invest up to $40bn in Anthropic]]></description>
+            <link>https://bdnews24.com/technology/e206f13f07df</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/e206f13f07df</guid>
+            <pubDate>Sat, 25 Apr 2026 09:17:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/google-logo-250426-1777087042.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US sanctions Chinese refinery over Iranian oil]]></title>
+            <description><![CDATA[[Business] US sanctions Chinese refinery over Iranian oil]]></description>
+            <link>https://bdnews24.com/business/bc9a585e8717</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/bc9a585e8717</guid>
+            <pubDate>Sat, 25 Apr 2026 09:13:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/china-refinary-250426-1777086762.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Napoli hit four to stall Inter title party]]></title>
+            <description><![CDATA[[Sport] Napoli hit four to stall Inter title party]]></description>
+            <link>https://bdnews24.com/sport/c44172f7905a</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/c44172f7905a</guid>
+            <pubDate>Sat, 25 Apr 2026 09:11:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/napoli-stall-inter-title-250426-01-1777086583.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kohli heroics as RCB ace 206 chase]]></title>
+            <description><![CDATA[[Sport] Kohli heroics as RCB ace 206 chase]]></description>
+            <link>https://bdnews24.com/sport/25ad2e5e73c1</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/25ad2e5e73c1</guid>
+            <pubDate>Sat, 25 Apr 2026 09:07:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/virat-kohli-240426-01-1777051188.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bellerin stuns Real in stoppage time]]></title>
+            <description><![CDATA[[Sport] Bellerin stuns Real in stoppage time]]></description>
+            <link>https://bdnews24.com/sport/e2ea203db283</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/e2ea203db283</guid>
+            <pubDate>Sat, 25 Apr 2026 08:59:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/real-madrid-250426-02-1777064967.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Injury forces Alcaraz’s exit from French Open]]></title>
             <description><![CDATA[[Sport] Injury forces Alcaraz’s exit from French Open]]></description>
@@ -41,20 +145,20 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/trump-iran-deal-250426-01-1777060252.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[NY resolution on Bangla New Year brings grand end to festival]]></title>
-            <description><![CDATA[[Americas] NY resolution on Bangla New Year brings grand end to festival]]></description>
+            <title><![CDATA[NY resolution marks grand Bangla New Year finale]]></title>
+            <description><![CDATA[[Americas] NY resolution marks grand Bangla New Year finale]]></description>
             <link>https://bdnews24.com/world/americas/fbd46be974c9</link>
             <guid isPermaLink="true">https://bdnews24.com/world/americas/fbd46be974c9</guid>
             <pubDate>Sat, 25 Apr 2026 01:46:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/bengali-new-year-nyc-250426-1777059905.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Hopes for peace talks as Iran FM, envoys head to Pakistan]]></title>
-            <description><![CDATA[[World] Hopes for peace talks as Iran FM, envoys head to Pakistan]]></description>
+            <title><![CDATA[Iran FM in Pakistan, Trump eyes US terms deal]]></title>
+            <description><![CDATA[[World] Iran FM in Pakistan, Trump eyes US terms deal]]></description>
             <link>https://bdnews24.com/world/ea5ce7bbe655</link>
             <guid isPermaLink="true">https://bdnews24.com/world/ea5ce7bbe655</guid>
             <pubDate>Sat, 25 Apr 2026 01:25:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-us-peace-talks-hope-250426-01-1777058660.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-fm-250426-1777085916.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Missing Bangladeshi student found dead in Florida]]></title>
@@ -63,110 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/americas/ab216efe441d</guid>
             <pubDate>Sat, 25 Apr 2026 01:08:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/zamil-limon-nahida-bristy-230426-01-1776943340.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UEFA suspends Prestianni for homophobic conduct]]></title>
-            <description><![CDATA[[Sport] UEFA suspends Prestianni for homophobic conduct]]></description>
-            <link>https://bdnews24.com/sport/76b07d7b3bb5</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/76b07d7b3bb5</guid>
-            <pubDate>Sat, 25 Apr 2026 00:32:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/prestianni-suspended-24042026-01-1777055454.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eggs on the boil as food inflation bites]]></title>
-            <description><![CDATA[[Business] Eggs on the boil as food inflation bites]]></description>
-            <link>https://bdnews24.com/business/028d8e8c41b8</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/028d8e8c41b8</guid>
-            <pubDate>Sat, 25 Apr 2026 00:19:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/dhaka-daily-necessities-market-240426-1-1777049918.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Palace eye quadruple against Liverpool]]></title>
-            <description><![CDATA[[Sport] Palace eye quadruple against Liverpool]]></description>
-            <link>https://bdnews24.com/sport/ef3af4786398</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/ef3af4786398</guid>
-            <pubDate>Sat, 25 Apr 2026 00:16:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/palace-liverpool-win-24042026-01-1777054542.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chelsea players are united: McFarlane]]></title>
-            <description><![CDATA[[Sport] Chelsea players are united: McFarlane]]></description>
-            <link>https://bdnews24.com/sport/7ed288147a32</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/7ed288147a32</guid>
-            <pubDate>Sat, 25 Apr 2026 00:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/chelsea-players-united-24042026-01-1777053786.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bracewell handed ban after testing positive for cocaine]]></title>
-            <description><![CDATA[[Cricket] Bracewell handed ban after testing positive for cocaine]]></description>
-            <link>https://bdnews24.com/cricket/c95975ab69b2</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/c95975ab69b2</guid>
-            <pubDate>Sat, 25 Apr 2026 00:01:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/bracewell-ban-cocaine-24042026-01-1777053668.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arsenal welcome back Saka in PL title race]]></title>
-            <description><![CDATA[[Sport] Arsenal welcome back Saka in PL title race]]></description>
-            <link>https://bdnews24.com/sport/85ef57d0c354</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/85ef57d0c354</guid>
-            <pubDate>Fri, 24 Apr 2026 23:54:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025April/SM/arsenal-saka-020425-01-1743566841.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rodri out of FA Cup semi]]></title>
-            <description><![CDATA[[Sport] Rodri out of FA Cup semi]]></description>
-            <link>https://bdnews24.com/sport/8b161a35546a</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/8b161a35546a</guid>
-            <pubDate>Fri, 24 Apr 2026 23:33:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/rodri-out-24042026-01-1777051954.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chornobyl plant haunted by war 40 years after disaster]]></title>
-            <description><![CDATA[[World] Chornobyl plant haunted by war 40 years after disaster]]></description>
-            <link>https://bdnews24.com/world/e36fe62bf366</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/e36fe62bf366</guid>
-            <pubDate>Fri, 24 Apr 2026 23:18:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/chornobyl-plant-24042026-01-1777051055.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Actor Tariquzzaman Tapan dies]]></title>
-            <description><![CDATA[[Entertainment] Actor Tariquzzaman Tapan dies]]></description>
-            <link>https://bdnews24.com/entertainment/511b3c447b3c</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/511b3c447b3c</guid>
-            <pubDate>Fri, 24 Apr 2026 23:13:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/tarekzaman-tapan-actor-240426-1777048439.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 children with measles symptoms die in Sylhet]]></title>
-            <description><![CDATA[[Health] 3 children with measles symptoms die in Sylhet]]></description>
-            <link>https://bdnews24.com/health/893bba03fef5</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/893bba03fef5</guid>
-            <pubDate>Fri, 24 Apr 2026 23:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/syhlet-ham-dead-240426-1777022629.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[19th Dhaka Auto Series of Exhibitions]]></title>
-            <description><![CDATA[[Image] 19th Dhaka Auto Series of Exhibitions]]></description>
-            <link>https://bdnews24.com/media-en/image/ce502617fa57</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/ce502617fa57</guid>
-            <pubDate>Fri, 24 Apr 2026 23:03:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/dhaka-auto-series-exhibitions-240426-035-1777046392.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BNP expels leader after shoe attack on female teacher]]></title>
-            <description><![CDATA[[Politics] BNP expels leader after shoe attack on female teacher]]></description>
-            <link>https://bdnews24.com/politics/136381cd2aab</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/136381cd2aab</guid>
-            <pubDate>Fri, 24 Apr 2026 22:52:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/rajshahi-bnp-akbar-suspend-240426-01-1777036752.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[April 24, 2026]]></title>
-            <description><![CDATA[[Image] April 24, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/dae55bf47bcd</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/dae55bf47bcd</guid>
-            <pubDate>Fri, 24 Apr 2026 22:49:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/rana-plaza-tragedy-savar-240426-022-1777040399.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
