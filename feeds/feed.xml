@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 19:36:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 20:25:19 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Apr 2026 19:36:20 GMT</pubDate>
+        <pubDate>Sat, 25 Apr 2026 20:25:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[April 25, 2026]]></title>
+            <description><![CDATA[[Image] April 25, 2026]]></description>
+            <link>https://bdnews24.com/media-en/image/b0083d04420e</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/b0083d04420e</guid>
+            <pubDate>Sun, 26 Apr 2026 01:51:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/boli-bagha-sharif-chattogran-250426-07-1777145931.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[4 held over ‘rape’ of housewife in Bogura]]></title>
+            <description><![CDATA[[Bangladesh] 4 held over ‘rape’ of housewife in Bogura]]></description>
+            <link>https://bdnews24.com/bangladesh/1845089632e3</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1845089632e3</guid>
+            <pubDate>Sun, 26 Apr 2026 01:51:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/bogra-rape-arrest-250426-01-1777146655.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Family baffled by Bristy killing in US]]></title>
             <description><![CDATA[[Bangladesh] Family baffled by Bristy killing in US]]></description>
@@ -150,22 +166,6 @@
             <link>https://bdnews24.com/business/2d77d414f72b</link>
             <guid isPermaLink="true">https://bdnews24.com/business/2d77d414f72b</guid>
             <pubDate>Sat, 25 Apr 2026 22:18:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[MCCI seeks one-page digital tax returns via app]]></title>
-            <description><![CDATA[[Business] MCCI seeks one-page digital tax returns via app]]></description>
-            <link>https://bdnews24.com/business/6353b61e300c</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/6353b61e300c</guid>
-            <pubDate>Sat, 25 Apr 2026 21:42:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[1 dies as BNP groups clash over harvesting]]></title>
-            <description><![CDATA[[Politics] 1 dies as BNP groups clash over harvesting]]></description>
-            <link>https://bdnews24.com/politics/824fe2ce4402</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/824fe2ce4402</guid>
-            <pubDate>Sat, 25 Apr 2026 21:15:00 GMT</pubDate>
             <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
