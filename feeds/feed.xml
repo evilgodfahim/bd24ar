@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 14:35:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 15:30:13 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Apr 2026 14:35:12 GMT</pubDate>
+        <pubDate>Sat, 25 Apr 2026 15:30:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[1 dies as BNP groups clash over harvesting]]></title>
+            <description><![CDATA[[Politics] 1 dies as BNP groups clash over harvesting]]></description>
+            <link>https://bdnews24.com/politics/824fe2ce4402</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/824fe2ce4402</guid>
+            <pubDate>Sat, 25 Apr 2026 21:15:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pakistan to allow spectators at PSL final]]></title>
+            <description><![CDATA[[Cricket] Pakistan to allow spectators at PSL final]]></description>
+            <link>https://bdnews24.com/cricket/4797fdcc965f</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/4797fdcc965f</guid>
+            <pubDate>Sat, 25 Apr 2026 20:53:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BNP chief's advisor Abdul Quddus dies]]></title>
+            <description><![CDATA[[Politics] BNP chief's advisor Abdul Quddus dies]]></description>
+            <link>https://bdnews24.com/politics/d816759f03c4</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/d816759f03c4</guid>
+            <pubDate>Sat, 25 Apr 2026 20:45:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Puja Chery’s father sent to jail for ‘fraud’]]></title>
             <description><![CDATA[[Bangladesh] Puja Chery’s father sent to jail for ‘fraud’]]></description>
@@ -142,30 +166,6 @@
             <link>https://bdnews24.com/world/87093b44bd11</link>
             <guid isPermaLink="true">https://bdnews24.com/world/87093b44bd11</guid>
             <pubDate>Sat, 25 Apr 2026 18:08:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Missing customs officer found dead]]></title>
-            <description><![CDATA[[Bangladesh] Missing customs officer found dead]]></description>
-            <link>https://bdnews24.com/bangladesh/540c963d8b02</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/540c963d8b02</guid>
-            <pubDate>Sat, 25 Apr 2026 18:06:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump attends press gala after years of boycott]]></title>
-            <description><![CDATA[[World] Trump attends press gala after years of boycott]]></description>
-            <link>https://bdnews24.com/world/db036bdaab0f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/db036bdaab0f</guid>
-            <pubDate>Sat, 25 Apr 2026 17:53:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Judges have no role in deportation shield fight: Trump]]></title>
-            <description><![CDATA[[THE LONG READ] Judges have no role in deportation shield fight: Trump]]></description>
-            <link>https://bdnews24.com/the-long-read/32446ef451f0</link>
-            <guid isPermaLink="true">https://bdnews24.com/the-long-read/32446ef451f0</guid>
-            <pubDate>Sat, 25 Apr 2026 17:43:00 GMT</pubDate>
             <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
