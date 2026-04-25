@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 20:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 21:25:32 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Apr 2026 20:25:19 GMT</pubDate>
+        <pubDate>Sat, 25 Apr 2026 21:25:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[City reach fourth straight FA Cup final]]></title>
+            <description><![CDATA[[Sport] City reach fourth straight FA Cup final]]></description>
+            <link>https://bdnews24.com/sport/3a22545c7e2d</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/3a22545c7e2d</guid>
+            <pubDate>Sun, 26 Apr 2026 02:32:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/man-city-260426-01-1777149113.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Middle East crisis leaves expats in turmoil]]></title>
+            <description><![CDATA[[Bangladesh] Middle East crisis leaves expats in turmoil]]></description>
+            <link>https://bdnews24.com/bangladesh/086d3ec8c5a8</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/086d3ec8c5a8</guid>
+            <pubDate>Sun, 26 Apr 2026 02:26:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/azadi-square-070426-01-1775534943.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[April 25, 2026]]></title>
             <description><![CDATA[[Image] April 25, 2026]]></description>
@@ -73,12 +89,12 @@
             <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Tottenham, West Ham both win]]></title>
-            <description><![CDATA[[Sport] Tottenham, West Ham both win]]></description>
+            <title><![CDATA[Arsenal back on top as Spurs, West Ham win]]></title>
+            <description><![CDATA[[Sport] Arsenal back on top as Spurs, West Ham win]]></description>
             <link>https://bdnews24.com/sport/add43c44d14c</link>
             <guid isPermaLink="true">https://bdnews24.com/sport/add43c44d14c</guid>
             <pubDate>Sat, 25 Apr 2026 23:33:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/west-ham-250426-01-1777150338.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Militao risks missing World Cup]]></title>
@@ -150,22 +166,6 @@
             <link>https://bdnews24.com/economy/a7f1dbdd292a</link>
             <guid isPermaLink="true">https://bdnews24.com/economy/a7f1dbdd292a</guid>
             <pubDate>Sat, 25 Apr 2026 22:26:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump ‘cancels’ negotiators' trip to Pakistan: Fox News]]></title>
-            <description><![CDATA[[World] Trump ‘cancels’ negotiators' trip to Pakistan: Fox News]]></description>
-            <link>https://bdnews24.com/world/4a308862badc</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/4a308862badc</guid>
-            <pubDate>Sat, 25 Apr 2026 22:24:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fuel crisis drives costs nearly 20%: BKMEA]]></title>
-            <description><![CDATA[[Business] Fuel crisis drives costs nearly 20%: BKMEA]]></description>
-            <link>https://bdnews24.com/business/2d77d414f72b</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/2d77d414f72b</guid>
-            <pubDate>Sat, 25 Apr 2026 22:18:00 GMT</pubDate>
             <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
