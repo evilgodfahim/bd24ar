@@ -4,16 +4,16 @@
         <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 06:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 07:59:03 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Apr 2026 06:14:47 GMT</pubDate>
+        <pubDate>Sat, 25 Apr 2026 07:59:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Feed generation failed]]></title>
             <description><![CDATA[An error occurred during scraping: timeout of 65000ms exceeded]]></description>
             <link>https://bdnews24.com</link>
             <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Sat, 25 Apr 2026 06:14:47 GMT</pubDate>
+            <pubDate>Sat, 25 Apr 2026 07:59:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
