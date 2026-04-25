@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 15:30:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 16:27:55 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Apr 2026 15:30:13 GMT</pubDate>
+        <pubDate>Sat, 25 Apr 2026 16:27:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Politicisation has ‘drained’ banks: Khosru]]></title>
+            <description><![CDATA[[Economy] Politicisation has ‘drained’ banks: Khosru]]></description>
+            <link>https://bdnews24.com/economy/a7f1dbdd292a</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/a7f1dbdd292a</guid>
+            <pubDate>Sat, 25 Apr 2026 22:26:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump ‘cancels’ negotiators' trip to Pakistan: Fox News]]></title>
+            <description><![CDATA[[World] Trump ‘cancels’ negotiators' trip to Pakistan: Fox News]]></description>
+            <link>https://bdnews24.com/world/4a308862badc</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/4a308862badc</guid>
+            <pubDate>Sat, 25 Apr 2026 22:24:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fuel crisis drives costs nearly 20%: BKMEA]]></title>
+            <description><![CDATA[[Business] Fuel crisis drives costs nearly 20%: BKMEA]]></description>
+            <link>https://bdnews24.com/business/2d77d414f72b</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/2d77d414f72b</guid>
+            <pubDate>Sat, 25 Apr 2026 22:18:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[MCCI seeks one-page digital tax returns via app]]></title>
+            <description><![CDATA[[Business] MCCI seeks one-page digital tax returns via app]]></description>
+            <link>https://bdnews24.com/business/6353b61e300c</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/6353b61e300c</guid>
+            <pubDate>Sat, 25 Apr 2026 21:42:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[1 dies as BNP groups clash over harvesting]]></title>
             <description><![CDATA[[Politics] 1 dies as BNP groups clash over harvesting]]></description>
@@ -134,38 +166,6 @@
             <link>https://bdnews24.com/world/3b2a91dde7d6</link>
             <guid isPermaLink="true">https://bdnews24.com/world/3b2a91dde7d6</guid>
             <pubDate>Sat, 25 Apr 2026 18:38:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PM orders rehabilitation of evicted hawkers]]></title>
-            <description><![CDATA[[Bangladesh] PM orders rehabilitation of evicted hawkers]]></description>
-            <link>https://bdnews24.com/bangladesh/578bfb7c8157</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/578bfb7c8157</guid>
-            <pubDate>Sat, 25 Apr 2026 18:27:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI chief apologises over failure to alert police]]></title>
-            <description><![CDATA[[Technology] OpenAI chief apologises over failure to alert police]]></description>
-            <link>https://bdnews24.com/technology/bfe3849f1cf9</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/bfe3849f1cf9</guid>
-            <pubDate>Sat, 25 Apr 2026 18:21:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bagha Sharif secures hat-trick Boli Khela win]]></title>
-            <description><![CDATA[[Sport] Bagha Sharif secures hat-trick Boli Khela win]]></description>
-            <link>https://bdnews24.com/sport/eb1d02066da4</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/eb1d02066da4</guid>
-            <pubDate>Sat, 25 Apr 2026 18:20:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Turkey eyes role In Hormuz demining: minister]]></title>
-            <description><![CDATA[[World] Turkey eyes role In Hormuz demining: minister]]></description>
-            <link>https://bdnews24.com/world/87093b44bd11</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/87093b44bd11</guid>
-            <pubDate>Sat, 25 Apr 2026 18:08:00 GMT</pubDate>
             <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
