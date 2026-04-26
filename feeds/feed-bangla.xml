@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ]]></title>
+        <description><![CDATA[bangla.bdnews24.com আর্কাইভ থেকে সর্বশেষ সংবাদ]]></description>
         <link>https://bangla.bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Apr 2026 06:53:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 08:09:27 GMT</lastBuildDate>
         <atom:link href="https://bangla.bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Apr 2026 06:53:49 GMT</pubDate>
+        <pubDate>Sun, 26 Apr 2026 08:09:27 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: timeout of 65000ms exceeded]]></description>
-            <link>https://bangla.bdnews24.com</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com</guid>
-            <pubDate>Sun, 26 Apr 2026 06:53:49 GMT</pubDate>
+            <title><![CDATA[ওসমানী মেডিকেলে হামের উপসর্গে ৮ ও ১৮ মাস বয়সী ২ শিশুর মৃত্যু]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] ওসমানী মেডিকেলে হামের উপসর্গে ৮ ও ১৮ মাস বয়সী ২ শিশুর মৃত্যু]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/c7fb392b2869</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/c7fb392b2869</guid>
+            <pubDate>Sun, 26 Apr 2026 08:09:27 GMT</pubDate>
+            <enclosure url="https://bangla.bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[যশোর আসছেন প্রধানমন্ত্রী, পুনঃখনন করা হবে ‘জিয়া খাল’]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] যশোর আসছেন প্রধানমন্ত্রী, পুনঃখনন করা হবে ‘জিয়া খাল’]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/f31a41842b0a</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/f31a41842b0a</guid>
+            <pubDate>Sun, 26 Apr 2026 08:09:27 GMT</pubDate>
+            <enclosure url="https://bangla.bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[মালিতে একাধিক সেনা ঘাঁটিতে ‘একযোগে জঙ্গি হামলা’, বামাকোতে কারফিউ]]></title>
+            <description><![CDATA[[বিশ্ব] মালিতে একাধিক সেনা ঘাঁটিতে ‘একযোগে জঙ্গি হামলা’, বামাকোতে কারফিউ]]></description>
+            <link>https://bangla.bdnews24.com/world/14c9475026e7</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/world/14c9475026e7</guid>
+            <pubDate>Sun, 26 Apr 2026 08:09:27 GMT</pubDate>
+            <enclosure url="https://bangla.bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[লিমন-বৃষ্টি হত্যাকাণ্ডের সন্দেহভাজন কে এই হিশাম?]]></title>
+            <description><![CDATA[[বিশ্ব] লিমন-বৃষ্টি হত্যাকাণ্ডের সন্দেহভাজন কে এই হিশাম?]]></description>
+            <link>https://bangla.bdnews24.com/world/32c0e8daf195</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/world/32c0e8daf195</guid>
+            <pubDate>Sun, 26 Apr 2026 08:09:27 GMT</pubDate>
+            <enclosure url="https://bangla.bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[হোয়াইট হাউস করেসপন্ডেন্টস ডিনারে হামলাকারী ‘অসুস্থ মানুষ’: ট্রাম্প]]></title>
+            <description><![CDATA[[টিউব] হোয়াইট হাউস করেসপন্ডেন্টস ডিনারে হামলাকারী ‘অসুস্থ মানুষ’: ট্রাম্প]]></description>
+            <link>https://bangla.bdnews24.com/tube/2e07d4de6964</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/2e07d4de6964</guid>
+            <pubDate>Sun, 26 Apr 2026 08:09:27 GMT</pubDate>
+            <enclosure url="https://bangla.bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[চাকা ফেটে ট্রলি উল্টে খাদে, চালকের সহকারীর মৃত্যু]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] চাকা ফেটে ট্রলি উল্টে খাদে, চালকের সহকারীর মৃত্যু]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/bc17ff91844d</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/bc17ff91844d</guid>
+            <pubDate>Sun, 26 Apr 2026 08:09:27 GMT</pubDate>
+            <enclosure url="https://bangla.bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[শুটিং শেষে হাসপাতালে নিকোল কিডম্যান]]></title>
+            <description><![CDATA[[গ্লিটজ] শুটিং শেষে হাসপাতালে নিকোল কিডম্যান]]></description>
+            <link>https://bangla.bdnews24.com/glitz/eb6700318268</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/glitz/eb6700318268</guid>
+            <pubDate>Sun, 26 Apr 2026 08:09:27 GMT</pubDate>
+            <enclosure url="https://bangla.bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[যৌতুকের জন্য স্ত্রী হত্যায় স্বামীর প্রাণদণ্ড]]></title>
+            <description><![CDATA[[বাংলাদেশ] যৌতুকের জন্য স্ত্রী হত্যায় স্বামীর প্রাণদণ্ড]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/36f9e116c168</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/36f9e116c168</guid>
+            <pubDate>Sun, 26 Apr 2026 08:09:27 GMT</pubDate>
+            <enclosure url="https://bangla.bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[টঙ্গীতে ঘরে ছেলের, রেললাইনে পড়ে ছিল বাবার লাশ]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] টঙ্গীতে ঘরে ছেলের, রেললাইনে পড়ে ছিল বাবার লাশ]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/22e3a5c285bf</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/22e3a5c285bf</guid>
+            <pubDate>Sun, 26 Apr 2026 08:09:27 GMT</pubDate>
+            <enclosure url="https://bangla.bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[গুলির শব্দের পর হোয়াইট হাউস করেসপনডেন্টস ডিনার থেকে যখন সরিয়ে নেওয়া হলো ট্রাম্পকে]]></title>
+            <description><![CDATA[[টিউব] গুলির শব্দের পর হোয়াইট হাউস করেসপনডেন্টস ডিনার থেকে যখন সরিয়ে নেওয়া হলো ট্রাম্পকে]]></description>
+            <link>https://bangla.bdnews24.com/tube/6ac79337315f</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/6ac79337315f</guid>
+            <pubDate>Sun, 26 Apr 2026 08:09:27 GMT</pubDate>
+            <enclosure url="https://bangla.bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ওয়াশিংটনের একই হোটেলে প্রেসিডেন্ট রিগ্যানের ওপরও হামলা হয়েছিল]]></title>
+            <description><![CDATA[[বিশ্ব] ওয়াশিংটনের একই হোটেলে প্রেসিডেন্ট রিগ্যানের ওপরও হামলা হয়েছিল]]></description>
+            <link>https://bangla.bdnews24.com/world/fc937f7cc6bb</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/world/fc937f7cc6bb</guid>
+            <pubDate>Sun, 26 Apr 2026 08:09:27 GMT</pubDate>
+            <enclosure url="https://bangla.bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[মুক্তিযুদ্ধের ইতিহাস ক্যামেরায় ধারণ করা রঘু রাইয়ের জীবনাবসান]]></title>
+            <description><![CDATA[[বাংলাদেশ] মুক্তিযুদ্ধের ইতিহাস ক্যামেরায় ধারণ করা রঘু রাইয়ের জীবনাবসান]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/b9e3e65dc3d0</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/b9e3e65dc3d0</guid>
+            <pubDate>Sun, 26 Apr 2026 08:09:27 GMT</pubDate>
+            <enclosure url="https://bangla.bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[খাগড়াছড়িতে ছাত্রলীগের ‘নতুন কমিটির’ বিরুদ্ধে মামলা]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] খাগড়াছড়িতে ছাত্রলীগের ‘নতুন কমিটির’ বিরুদ্ধে মামলা]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/11d3e58f2213</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/11d3e58f2213</guid>
+            <pubDate>Sun, 26 Apr 2026 08:09:27 GMT</pubDate>
+            <enclosure url="https://bangla.bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[সরকারের প্রথম একনেক সভা মুলতবির ১৯ দিন পর হল দ্বিতীয় বৈঠক]]></title>
+            <description><![CDATA[[অর্থনীতি] সরকারের প্রথম একনেক সভা মুলতবির ১৯ দিন পর হল দ্বিতীয় বৈঠক]]></description>
+            <link>https://bangla.bdnews24.com/economy/b1035d884979</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/economy/b1035d884979</guid>
+            <pubDate>Sun, 26 Apr 2026 08:09:27 GMT</pubDate>
+            <enclosure url="https://bangla.bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[দিনদিন মুখে বলা কথার পরিমাণ কমিয়ে দিচ্ছে মানুষ]]></title>
+            <description><![CDATA[[টেক] দিনদিন মুখে বলা কথার পরিমাণ কমিয়ে দিচ্ছে মানুষ]]></description>
+            <link>https://bangla.bdnews24.com/tech/084179d8f4c2</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tech/084179d8f4c2</guid>
+            <pubDate>Sun, 26 Apr 2026 08:09:27 GMT</pubDate>
+            <enclosure url="https://bangla.bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[কলম্বিয়ায় বিদ্রোহীদের বোমা হামলায় নিহত ১৪]]></title>
+            <description><![CDATA[[বিশ্ব] কলম্বিয়ায় বিদ্রোহীদের বোমা হামলায় নিহত ১৪]]></description>
+            <link>https://bangla.bdnews24.com/world/b78adcc5778c</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/world/b78adcc5778c</guid>
+            <pubDate>Sun, 26 Apr 2026 08:09:27 GMT</pubDate>
+            <enclosure url="https://bangla.bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ফোনের নীল আলো নয়, ঘুম নষ্টের বড় কারণ আধুনিক জীবন]]></title>
+            <description><![CDATA[[টেক] ফোনের নীল আলো নয়, ঘুম নষ্টের বড় কারণ আধুনিক জীবন]]></description>
+            <link>https://bangla.bdnews24.com/tech/a73fd7335e9a</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tech/a73fd7335e9a</guid>
+            <pubDate>Sun, 26 Apr 2026 08:09:27 GMT</pubDate>
+            <enclosure url="https://bangla.bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[অক্ষয়ের কন্যার কাছে নগ্ন ছবি চাওয়ার ঘটনায় গ্রেপ্তার একজন]]></title>
+            <description><![CDATA[[গ্লিটজ] অক্ষয়ের কন্যার কাছে নগ্ন ছবি চাওয়ার ঘটনায় গ্রেপ্তার একজন]]></description>
+            <link>https://bangla.bdnews24.com/glitz/b49534d72ee6</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/glitz/b49534d72ee6</guid>
+            <pubDate>Sun, 26 Apr 2026 08:09:27 GMT</pubDate>
+            <enclosure url="https://bangla.bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ময়মনসিংহ মেডিকেলে হামের উপসর্গ নিয়ে আরেক শিশুর মৃত্যু]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] ময়মনসিংহ মেডিকেলে হামের উপসর্গ নিয়ে আরেক শিশুর মৃত্যু]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/fd28b64e6b3a</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/fd28b64e6b3a</guid>
+            <pubDate>Sun, 26 Apr 2026 08:09:27 GMT</pubDate>
+            <enclosure url="https://bangla.bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[হোয়াইট হাউজের সাংবাদিক সমিতির নৈশভোজে গুলি, দ্রুত নিরাপদ স্থানে ট্রাম্প]]></title>
+            <description><![CDATA[[বিশ্ব] হোয়াইট হাউজের সাংবাদিক সমিতির নৈশভোজে গুলি, দ্রুত নিরাপদ স্থানে ট্রাম্প]]></description>
+            <link>https://bangla.bdnews24.com/world/4431e3b7a0eb</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/world/4431e3b7a0eb</guid>
+            <pubDate>Sun, 26 Apr 2026 08:09:27 GMT</pubDate>
+            <enclosure url="https://bangla.bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
