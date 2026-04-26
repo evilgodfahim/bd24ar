@@ -4,13 +4,45 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Apr 2026 17:29:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 18:33:46 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Apr 2026 17:29:10 GMT</pubDate>
+        <pubDate>Sun, 26 Apr 2026 18:33:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Slain customs officer’s wife search for answers]]></title>
-            <description><![CDATA[[Bangladesh] Slain customs officer’s wife search for answers]]></description>
+            <title><![CDATA[Chelsea edge Leeds to reach FA Cup final]]></title>
+            <description><![CDATA[[Sport] Chelsea edge Leeds to reach FA Cup final]]></description>
+            <link>https://bdnews24.com/sport/ef8f5a88ed8e</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/ef8f5a88ed8e</guid>
+            <pubDate>Mon, 27 Apr 2026 00:31:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/enzo-fernandez-270426-01-1777228176.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[12 years on, families of Narayanganj seven-murder victims await justice]]></title>
+            <description><![CDATA[[Bangladesh] 12 years on, families of Narayanganj seven-murder victims await justice]]></description>
+            <link>https://bdnews24.com/bangladesh/2c3866c720dd</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2c3866c720dd</guid>
+            <pubDate>Mon, 27 Apr 2026 00:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025April/SM/narayangongo-7-murder-nupur-roja-270425-02-1745737103.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[April 26, 2026]]></title>
+            <description><![CDATA[[Image] April 26, 2026]]></description>
+            <link>https://bdnews24.com/media-en/image/31682a37260a</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/31682a37260a</guid>
+            <pubDate>Mon, 27 Apr 2026 00:06:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/lychee-khagrachari-260426-005-1777214259.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Italy referee chief steps aside amid fraud probe]]></title>
+            <description><![CDATA[[Sport] Italy referee chief steps aside amid fraud probe]]></description>
+            <link>https://bdnews24.com/sport/6ad45db1214f</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/6ad45db1214f</guid>
+            <pubDate>Sun, 26 Apr 2026 23:55:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/gianluca-rocchi-260426-01-1777226057.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Slain customs officer’s wife searches for answers]]></title>
+            <description><![CDATA[[Bangladesh] Slain customs officer’s wife searches for answers]]></description>
             <link>https://bdnews24.com/bangladesh/bdf888a02cb9</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/bdf888a02cb9</guid>
             <pubDate>Sun, 26 Apr 2026 23:23:00 GMT</pubDate>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/e74e86687e76</guid>
             <pubDate>Sun, 26 Apr 2026 19:49:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/koria-bangladeshi-260426-1777212532.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Two killed in 300-feet road bike crash]]></title>
-            <description><![CDATA[[Bangladesh] Two killed in 300-feet road bike crash]]></description>
-            <link>https://bdnews24.com/bangladesh/ecb756ef895f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ecb756ef895f</guid>
-            <pubDate>Sun, 26 Apr 2026 19:49:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/dead-body-01-1777212395.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lightning kills 8 in four districts]]></title>
-            <description><![CDATA[[Bangladesh] Lightning kills 8 in four districts]]></description>
-            <link>https://bdnews24.com/bangladesh/d514e47055b3</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d514e47055b3</guid>
-            <pubDate>Sun, 26 Apr 2026 19:42:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2022-08/c992ce25-86f5-413c-b202-9027e1737d24/lightning_290822_01.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rain relief for heat-baked Dhaka]]></title>
-            <description><![CDATA[[Bangladesh] Rain relief for heat-baked Dhaka]]></description>
-            <link>https://bdnews24.com/bangladesh/9b0721fdcdb8</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9b0721fdcdb8</guid>
-            <pubDate>Sun, 26 Apr 2026 19:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/rain-dhaka-260426-020-1777212496.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sawe makes history with sub-two-hour London win]]></title>
-            <description><![CDATA[[Sport] Sawe makes history with sub-two-hour London win]]></description>
-            <link>https://bdnews24.com/sport/5c81d4365b37</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/5c81d4365b37</guid>
-            <pubDate>Sun, 26 Apr 2026 19:14:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/sabastian-sawe-260426-01-1777213391.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
