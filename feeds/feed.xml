@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Apr 2026 11:30:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 12:36:54 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Apr 2026 11:30:19 GMT</pubDate>
+        <pubDate>Sun, 26 Apr 2026 12:36:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Primary teacher candidates launch Shahbagh protest]]></title>
+            <description><![CDATA[[Bangladesh] Primary teacher candidates launch Shahbagh protest]]></description>
+            <link>https://bdnews24.com/bangladesh/779b6b8b4cf9</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/779b6b8b4cf9</guid>
+            <pubDate>Sun, 26 Apr 2026 18:16:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Emergency services, police exempt from fuel rationing: PM]]></title>
+            <description><![CDATA[[Bangladesh] Emergency services, police exempt from fuel rationing: PM]]></description>
+            <link>https://bdnews24.com/bangladesh/d2f1c8540da4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d2f1c8540da4</guid>
+            <pubDate>Sun, 26 Apr 2026 18:13:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[MPs lose duty-free car privilege]]></title>
+            <description><![CDATA[[Bangladesh] MPs lose duty-free car privilege]]></description>
+            <link>https://bdnews24.com/bangladesh/c19158c9fba6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c19158c9fba6</guid>
+            <pubDate>Sun, 26 Apr 2026 17:42:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Govt appoints new DGs to 11 departments, new chairmen to 3 authorities]]></title>
             <description><![CDATA[[Bangladesh] Govt appoints new DGs to 11 departments, new chairmen to 3 authorities]]></description>
@@ -142,30 +166,6 @@
             <link>https://bdnews24.com/bangladesh/8b69f7b6b6a6</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/8b69f7b6b6a6</guid>
             <pubDate>Sun, 26 Apr 2026 10:59:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ICE detains family less than 2 days after release order: lawyers]]></title>
-            <description><![CDATA[[Americas] ICE detains family less than 2 days after release order: lawyers]]></description>
-            <link>https://bdnews24.com/world/americas/001e4cad13b6</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/001e4cad13b6</guid>
-            <pubDate>Sun, 26 Apr 2026 10:52:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel says it will attack Hezbollah 'forcefully']]></title>
-            <description><![CDATA[[Middle East] Israel says it will attack Hezbollah 'forcefully']]></description>
-            <link>https://bdnews24.com/world/middle-east/a3a6e1330520</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/a3a6e1330520</guid>
-            <pubDate>Sun, 26 Apr 2026 10:47:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US-Iran peace hopes fade]]></title>
-            <description><![CDATA[[Middle East] US-Iran peace hopes fade]]></description>
-            <link>https://bdnews24.com/world/middle-east/daba69755337</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/daba69755337</guid>
-            <pubDate>Sun, 26 Apr 2026 10:44:00 GMT</pubDate>
             <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
