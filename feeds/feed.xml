@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News]]></title>
-        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
+        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Apr 2026 01:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 04:50:19 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Apr 2026 01:22:03 GMT</pubDate>
+        <pubDate>Sun, 26 Apr 2026 04:50:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[City reach fourth straight FA Cup final]]></title>
-            <description><![CDATA[[Sport] City reach fourth straight FA Cup final]]></description>
-            <link>https://bdnews24.com/sport/3a22545c7e2d</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/3a22545c7e2d</guid>
-            <pubDate>Sun, 26 Apr 2026 02:32:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/man-city-260426-01-1777149113.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Middle East crisis leaves expats in turmoil]]></title>
-            <description><![CDATA[[Bangladesh] Middle East crisis leaves expats in turmoil]]></description>
-            <link>https://bdnews24.com/bangladesh/086d3ec8c5a8</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/086d3ec8c5a8</guid>
-            <pubDate>Sun, 26 Apr 2026 02:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/azadi-square-070426-01-1775534943.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[April 25, 2026]]></title>
-            <description><![CDATA[[Image] April 25, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/b0083d04420e</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/b0083d04420e</guid>
-            <pubDate>Sun, 26 Apr 2026 01:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/boli-bagha-sharif-chattogran-250426-07-1777145931.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4 held over ‘rape’ of housewife in Bogura]]></title>
-            <description><![CDATA[[Bangladesh] 4 held over ‘rape’ of housewife in Bogura]]></description>
-            <link>https://bdnews24.com/bangladesh/1845089632e3</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1845089632e3</guid>
-            <pubDate>Sun, 26 Apr 2026 01:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/bogra-rape-arrest-250426-01-1777146655.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Family baffled by Bristy killing in US]]></title>
-            <description><![CDATA[[Bangladesh] Family baffled by Bristy killing in US]]></description>
-            <link>https://bdnews24.com/bangladesh/fcaae909ccf0</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/fcaae909ccf0</guid>
-            <pubDate>Sun, 26 Apr 2026 00:25:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/madaripur-nihad-home-250426-01-1777144579.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Barca see off Getafe to close in on title]]></title>
-            <description><![CDATA[[Sport] Barca see off Getafe to close in on title]]></description>
-            <link>https://bdnews24.com/sport/7a0779f1d55d</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/7a0779f1d55d</guid>
-            <pubDate>Sun, 26 Apr 2026 00:23:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/barcelona-250426-01-1777141358.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BRTA publishes revised bus fares]]></title>
-            <description><![CDATA[[Bangladesh] BRTA publishes revised bus fares]]></description>
-            <link>https://bdnews24.com/bangladesh/26a8099ef39f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/26a8099ef39f</guid>
-            <pubDate>Sun, 26 Apr 2026 00:15:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-03/74e25c4d-3d4e-438c-b0c7-c29dcf12defb/ac_bus_010323_07.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rahul ton in vain as Punjab seal record chase]]></title>
-            <description><![CDATA[[Cricket] Rahul ton in vain as Punjab seal record chase]]></description>
-            <link>https://bdnews24.com/cricket/515c81f5d4de</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/515c81f5d4de</guid>
-            <pubDate>Sun, 26 Apr 2026 00:06:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/punjab-kings-250426-01-1777161486.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Olise, Kane lead 4-3 Bayern comeback at Mainz]]></title>
-            <description><![CDATA[[Sport] Olise, Kane lead 4-3 Bayern comeback at Mainz]]></description>
-            <link>https://bdnews24.com/sport/79071f15810a</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/79071f15810a</guid>
-            <pubDate>Sat, 25 Apr 2026 23:59:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/bayern-munich-250426-01-1777161568.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Woman 'gang-raped' in Mymensingh]]></title>
-            <description><![CDATA[[Bangladesh] Woman 'gang-raped' in Mymensingh]]></description>
-            <link>https://bdnews24.com/bangladesh/92d61750c3e2</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/92d61750c3e2</guid>
-            <pubDate>Sat, 25 Apr 2026 23:38:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/mymensingh-nandail-thana-210426-01-1776793582.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arsenal back on top as Spurs, West Ham win]]></title>
-            <description><![CDATA[[Sport] Arsenal back on top as Spurs, West Ham win]]></description>
-            <link>https://bdnews24.com/sport/add43c44d14c</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/add43c44d14c</guid>
-            <pubDate>Sat, 25 Apr 2026 23:33:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/west-ham-250426-01-1777150338.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Militao risks missing World Cup]]></title>
-            <description><![CDATA[[Sport] Militao risks missing World Cup]]></description>
-            <link>https://bdnews24.com/sport/10f0fa119168</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/10f0fa119168</guid>
-            <pubDate>Sat, 25 Apr 2026 23:25:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/militao-injury-25042026-01-1777161834.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump ‘cancels’ envoys' trip to Pakistan]]></title>
-            <description><![CDATA[[World] Trump ‘cancels’ envoys' trip to Pakistan]]></description>
-            <link>https://bdnews24.com/world/881eeb5c70a7</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/881eeb5c70a7</guid>
-            <pubDate>Sat, 25 Apr 2026 23:15:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/trump-cancel-trip-25042026-01-1777144901.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BSTI told to work on holidays]]></title>
-            <description><![CDATA[[Business] BSTI told to work on holidays]]></description>
-            <link>https://bdnews24.com/business/aee1845bb999</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/aee1845bb999</guid>
-            <pubDate>Sat, 25 Apr 2026 23:02:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/bsti-importer-service-250426-01-1777162022.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Palestinian elections let Gazans vote after years]]></title>
-            <description><![CDATA[[World] Palestinian elections let Gazans vote after years]]></description>
-            <link>https://bdnews24.com/world/1f781a8956a3</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/1f781a8956a3</guid>
-            <pubDate>Sat, 25 Apr 2026 23:00:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/palestine-vote-250426-1777162155.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt mulls ad opening for online, TV media]]></title>
-            <description><![CDATA[[Bangladesh] Govt mulls ad opening for online, TV media]]></description>
-            <link>https://bdnews24.com/bangladesh/71a7d10ae0cd</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/71a7d10ae0cd</guid>
-            <pubDate>Sat, 25 Apr 2026 22:58:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/amir-khosru-mahmud-chowdhury-fm-250426-02-1777162363.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Insurgents attack military bases across Mali]]></title>
-            <description><![CDATA[[World] Insurgents attack military bases across Mali]]></description>
-            <link>https://bdnews24.com/world/cbcbcae21fc6</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/cbcbcae21fc6</guid>
-            <pubDate>Sat, 25 Apr 2026 22:57:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/mali-attack-25042026-01-1777162497.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ngidi to leave hospital soon after injury]]></title>
-            <description><![CDATA[[Sport] Ngidi to leave hospital soon after injury]]></description>
-            <link>https://bdnews24.com/sport/ba4479cc10f9</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/ba4479cc10f9</guid>
-            <pubDate>Sat, 25 Apr 2026 22:41:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/lungi-ngid-250426-01-1777146968.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Politicisation has ‘drained’ banks: Khosru]]></title>
-            <description><![CDATA[[Economy] Politicisation has ‘drained’ banks: Khosru]]></description>
-            <link>https://bdnews24.com/economy/a7f1dbdd292a</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/a7f1dbdd292a</guid>
-            <pubDate>Sat, 25 Apr 2026 22:26:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump ‘cancels’ negotiators' trip to Pakistan: Fox News]]></title>
-            <description><![CDATA[[World] Trump ‘cancels’ negotiators' trip to Pakistan: Fox News]]></description>
-            <link>https://bdnews24.com/world/4a308862badc</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/4a308862badc</guid>
-            <pubDate>Sat, 25 Apr 2026 22:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/trump-cancels-pak-trip-25042026-01-1777162675.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: timeout of 65000ms exceeded]]></description>
+            <link>https://bdnews24.com</link>
+            <guid isPermaLink="true">https://bdnews24.com</guid>
+            <pubDate>Sun, 26 Apr 2026 04:50:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
