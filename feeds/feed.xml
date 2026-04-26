@@ -4,17 +4,33 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Apr 2026 13:57:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 14:37:56 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Apr 2026 13:57:07 GMT</pubDate>
+        <pubDate>Sun, 26 Apr 2026 14:37:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Mali defence minister 'killed' in assault]]></title>
+            <description><![CDATA[[World] Mali defence minister 'killed' in assault]]></description>
+            <link>https://bdnews24.com/world/99e87b64d244</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/99e87b64d244</guid>
+            <pubDate>Sun, 26 Apr 2026 20:34:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/mali-minister-dead-26042026-1777214037.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[SSC Day 3: 34,000 absent, 40 expelled]]></title>
+            <description><![CDATA[[Education] SSC Day 3: 34,000 absent, 40 expelled]]></description>
+            <link>https://bdnews24.com/education/bd82d20da5e7</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/bd82d20da5e7</guid>
+            <pubDate>Sun, 26 Apr 2026 20:29:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/ssc-examination-210426-034-1776777963-1777213758.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Bangladeshi worker’s assault launched probe in South Korea]]></title>
             <description><![CDATA[[Bangladesh] Bangladeshi worker’s assault launched probe in South Korea]]></description>
             <link>https://bdnews24.com/bangladesh/e74e86687e76</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/e74e86687e76</guid>
             <pubDate>Sun, 26 Apr 2026 19:49:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/koria-bangladeshi-260426-1777212532.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Two killed in 300-feet road bike crash]]></title>
@@ -22,7 +38,7 @@
             <link>https://bdnews24.com/bangladesh/ecb756ef895f</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/ecb756ef895f</guid>
             <pubDate>Sun, 26 Apr 2026 19:49:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/dead-body-01-1777212395.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Lightning kills 8 in four districts]]></title>
@@ -30,7 +46,7 @@
             <link>https://bdnews24.com/bangladesh/d514e47055b3</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/d514e47055b3</guid>
             <pubDate>Sun, 26 Apr 2026 19:42:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2022-08/c992ce25-86f5-413c-b202-9027e1737d24/lightning_290822_01.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Rain relief for heat-baked Dhaka]]></title>
@@ -38,7 +54,7 @@
             <link>https://bdnews24.com/bangladesh/9b0721fdcdb8</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/9b0721fdcdb8</guid>
             <pubDate>Sun, 26 Apr 2026 19:26:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/rain-dhaka-260426-020-1777212496.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Sawe makes history with sub-two-hour London win]]></title>
@@ -46,7 +62,7 @@
             <link>https://bdnews24.com/sport/5c81d4365b37</link>
             <guid isPermaLink="true">https://bdnews24.com/sport/5c81d4365b37</guid>
             <pubDate>Sun, 26 Apr 2026 19:14:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/sabastian-sawe-260426-01-1777213391.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Jashore ready to welcome PM on maiden visit]]></title>
@@ -54,7 +70,7 @@
             <link>https://bdnews24.com/bangladesh/e9e72d41c518</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/e9e72d41c518</guid>
             <pubDate>Sun, 26 Apr 2026 19:09:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/jashore-prime-minister-260426-01-1777212642.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Cummins hails IPL's big-chase 'challenge']]></title>
@@ -94,7 +110,7 @@
             <link>https://bdnews24.com/bangladesh/779b6b8b4cf9</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/779b6b8b4cf9</guid>
             <pubDate>Sun, 26 Apr 2026 18:16:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/primary-teacher-protest-in-1777213301.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Emergency services, police exempt from fuel rationing: PM]]></title>
@@ -102,7 +118,7 @@
             <link>https://bdnews24.com/bangladesh/d2f1c8540da4</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/d2f1c8540da4</guid>
             <pubDate>Sun, 26 Apr 2026 18:13:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/tarique-rahman-parliament-220426-03-1776855872.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[MPs lose duty-free car privilege]]></title>
@@ -110,7 +126,7 @@
             <link>https://bdnews24.com/bangladesh/c19158c9fba6</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/c19158c9fba6</guid>
             <pubDate>Sun, 26 Apr 2026 17:42:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024June/SM/pm-car-060624-1-1717675967.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Govt appoints new DGs to 11 departments, new chairmen to 3 authorities]]></title>
@@ -150,22 +166,6 @@
             <link>https://bdnews24.com/health/27b10ea268f5</link>
             <guid isPermaLink="true">https://bdnews24.com/health/27b10ea268f5</guid>
             <pubDate>Sun, 26 Apr 2026 15:43:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fuel Pass to be launched for cars]]></title>
-            <description><![CDATA[[Bangladesh] Fuel Pass to be launched for cars]]></description>
-            <link>https://bdnews24.com/bangladesh/71b11bd5be76</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/71b11bd5be76</guid>
-            <pubDate>Sun, 26 Apr 2026 15:14:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nor’westers in 4 divisions, heavy rain in 3]]></title>
-            <description><![CDATA[[Bangladesh] Nor’westers in 4 divisions, heavy rain in 3]]></description>
-            <link>https://bdnews24.com/bangladesh/11d6e655848f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/11d6e655848f</guid>
-            <pubDate>Sun, 26 Apr 2026 14:40:00 GMT</pubDate>
             <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
