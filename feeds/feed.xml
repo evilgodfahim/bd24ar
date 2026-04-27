@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Apr 2026 19:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Apr 2026 20:47:25 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Apr 2026 19:10:55 GMT</pubDate>
+        <pubDate>Mon, 27 Apr 2026 20:47:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Hazlewood shines as Bengaluru crush Delhi]]></title>
+            <description><![CDATA[[Sport] Hazlewood shines as Bengaluru crush Delhi]]></description>
+            <link>https://bdnews24.com/sport/7f2c4bf43cc1</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/7f2c4bf43cc1</guid>
+            <pubDate>Tue, 28 Apr 2026 02:35:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/josh-hazlewood-280426-01-1777322051.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mayor Sahadat’s term: law vs claim]]></title>
+            <description><![CDATA[[Bangladesh] Mayor Sahadat’s term: law vs claim]]></description>
+            <link>https://bdnews24.com/bangladesh/433dfca6065c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/433dfca6065c</guid>
+            <pubDate>Tue, 28 Apr 2026 02:31:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024November/SM/shadat-hossain-031124-1730612471.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Shooting suspect charged with attempting to assassinate Trump]]></title>
             <description><![CDATA[[World] Shooting suspect charged with attempting to assassinate Trump]]></description>
@@ -30,7 +46,7 @@
             <link>https://bdnews24.com/entertainment/3297d3635d92</link>
             <guid isPermaLink="true">https://bdnews24.com/entertainment/3297d3635d92</guid>
             <pubDate>Tue, 28 Apr 2026 00:18:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025February/SM/channel1-logo-240225-1740381979.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/channel-one-inauguration-270426-1777320075.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[3 hacked to death in Faridpur]]></title>
@@ -38,7 +54,7 @@
             <link>https://bdnews24.com/bangladesh/eb92dd38c4d3</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/eb92dd38c4d3</guid>
             <pubDate>Mon, 27 Apr 2026 23:49:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024November/SM/faridpur-kotwali-thana-201124-01-1732122320.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/faridpur-three-murder-270426-01-1777315114.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Palestinians use Gaza rubble to restore streets]]></title>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/3b8a722a8d10</guid>
             <pubDate>Mon, 27 Apr 2026 21:21:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/friedrich-merz-190226-01-1771472614.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prada relaunches controversial ‘Indian’ sandals]]></title>
-            <description><![CDATA[[Lifestyle] Prada relaunches controversial ‘Indian’ sandals]]></description>
-            <link>https://bdnews24.com/lifestyle/faae4ff993b3</link>
-            <guid isPermaLink="true">https://bdnews24.com/lifestyle/faae4ff993b3</guid>
-            <pubDate>Mon, 27 Apr 2026 21:06:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025June/SM/kolhapuri-sandals-290625-01-1751165436.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[CPJ urges release of 4 detained journalists]]></title>
-            <description><![CDATA[[Bangladesh] CPJ urges release of 4 detained journalists]]></description>
-            <link>https://bdnews24.com/bangladesh/4c0ac599f4ca</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4c0ac599f4ca</guid>
-            <pubDate>Mon, 27 Apr 2026 21:01:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/cpj-letter-270426-1777291699-1777292686.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
