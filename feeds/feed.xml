@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Apr 2026 17:57:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Apr 2026 19:10:55 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Apr 2026 17:57:58 GMT</pubDate>
+        <pubDate>Mon, 27 Apr 2026 19:10:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Shooting suspect charged with attempting to assassinate Trump]]></title>
+            <description><![CDATA[[World] Shooting suspect charged with attempting to assassinate Trump]]></description>
+            <link>https://bdnews24.com/world/ff064a466a9e</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ff064a466a9e</guid>
+            <pubDate>Tue, 28 Apr 2026 00:59:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/white-house-270426-1777316289.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[15 students freed in Nigerian orphanage raid]]></title>
+            <description><![CDATA[[Africa] 15 students freed in Nigerian orphanage raid]]></description>
+            <link>https://bdnews24.com/world/africa/4808cd215430</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/africa/4808cd215430</guid>
+            <pubDate>Tue, 28 Apr 2026 00:42:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/nigeria-21226-1771614923.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Channel One back on air after 16 years]]></title>
+            <description><![CDATA[[Entertainment] Channel One back on air after 16 years]]></description>
+            <link>https://bdnews24.com/entertainment/3297d3635d92</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/3297d3635d92</guid>
+            <pubDate>Tue, 28 Apr 2026 00:18:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025February/SM/channel1-logo-240225-1740381979.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[3 hacked to death in Faridpur]]></title>
             <description><![CDATA[[Bangladesh] 3 hacked to death in Faridpur]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/4c0ac599f4ca</guid>
             <pubDate>Mon, 27 Apr 2026 21:01:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/cpj-letter-270426-1777291699-1777292686.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka seeks fair trial for Bristy, Limon killings]]></title>
-            <description><![CDATA[[Bangladesh] Dhaka seeks fair trial for Bristy, Limon killings]]></description>
-            <link>https://bdnews24.com/bangladesh/310381e653f1</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/310381e653f1</guid>
-            <pubDate>Mon, 27 Apr 2026 20:48:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/shapon-christensen-270426-1777293703.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cigarette packs to get QR codes to curb tax evasion]]></title>
-            <description><![CDATA[[Business] Cigarette packs to get QR codes to curb tax evasion]]></description>
-            <link>https://bdnews24.com/business/a84a60108d63</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/a84a60108d63</guid>
-            <pubDate>Mon, 27 Apr 2026 20:32:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024July/SM/cigarette-bandroll-120724-01-1720896474.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[White House weighs presidential security]]></title>
-            <description><![CDATA[[World] White House weighs presidential security]]></description>
-            <link>https://bdnews24.com/world/775b66a6f726</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/775b66a6f726</guid>
-            <pubDate>Mon, 27 Apr 2026 20:25:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/secret-service-27042026-1777299864.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
