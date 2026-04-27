@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Apr 2026 20:47:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Apr 2026 21:43:19 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Apr 2026 20:47:25 GMT</pubDate>
+        <pubDate>Mon, 27 Apr 2026 21:43:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Man United set for UCL return]]></title>
+            <description><![CDATA[[Sport] Man United set for UCL return]]></description>
+            <link>https://bdnews24.com/sport/ef566f2811af</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/ef566f2811af</guid>
+            <pubDate>Tue, 28 Apr 2026 03:22:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/man-utd-280426-01-1777324924.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tailgating allowed at Boston World Cup matches]]></title>
+            <description><![CDATA[[Sport] Tailgating allowed at Boston World Cup matches]]></description>
+            <link>https://bdnews24.com/sport/6eeab54432be</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/6eeab54432be</guid>
+            <pubDate>Tue, 28 Apr 2026 02:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/wc-us-280426-01-1777323038.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Hazlewood shines as Bengaluru crush Delhi]]></title>
             <description><![CDATA[[Sport] Hazlewood shines as Bengaluru crush Delhi]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/4595b4e1c451</guid>
             <pubDate>Mon, 27 Apr 2026 21:41:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/khagrachari-eliphent-dead-270426-01-1777286828.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Accept NCP’s Nusrat as candidate: HC to EC]]></title>
-            <description><![CDATA[[Bangladesh] Accept NCP’s Nusrat as candidate: HC to EC]]></description>
-            <link>https://bdnews24.com/bangladesh/30eb1cbc46bc</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/30eb1cbc46bc</guid>
-            <pubDate>Mon, 27 Apr 2026 21:29:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025November/SM/highcourt-1763486476.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran is ‘humiliating US’: Friedrich Merz]]></title>
-            <description><![CDATA[[World] Iran is ‘humiliating US’: Friedrich Merz]]></description>
-            <link>https://bdnews24.com/world/3b8a722a8d10</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/3b8a722a8d10</guid>
-            <pubDate>Mon, 27 Apr 2026 21:21:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/friedrich-merz-190226-01-1771472614.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
