@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Apr 2026 19:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 20:56:39 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Apr 2026 19:14:41 GMT</pubDate>
+        <pubDate>Tue, 28 Apr 2026 20:56:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trade deal is a joint commitment: US envoy]]></title>
+            <description><![CDATA[[Business] Trade deal is a joint commitment: US envoy]]></description>
+            <link>https://bdnews24.com/business/be1e5d323b7d</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/be1e5d323b7d</guid>
+            <pubDate>Wed, 29 Apr 2026 02:41:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/brent-christensen-280426-1777401713.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kurigram truck-microbus crash kills 3]]></title>
+            <description><![CDATA[[Bangladesh] Kurigram truck-microbus crash kills 3]]></description>
+            <link>https://bdnews24.com/bangladesh/5dd37f61a76c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5dd37f61a76c</guid>
+            <pubDate>Wed, 29 Apr 2026 02:18:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/kurigram-accident-death-280426-01-1777405165.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Measles spreads to remote Bandarban hills]]></title>
+            <description><![CDATA[[Bangladesh] Measles spreads to remote Bandarban hills]]></description>
+            <link>https://bdnews24.com/bangladesh/72c92de14d10</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/72c92de14d10</guid>
+            <pubDate>Wed, 29 Apr 2026 02:02:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/bandarban-massive-measles-26042026-03-1777300756.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Family: Limon suspected Florida killer was ‘psychopath’]]></title>
             <description><![CDATA[[Bangladesh] Family: Limon suspected Florida killer was ‘psychopath’]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/28ad09faa054</guid>
             <pubDate>Tue, 28 Apr 2026 21:04:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/khondokar-naim-ahmed-titon-280426-01-1777395401.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Schoolgirl ‘raped after abduction’ in Gaibandha]]></title>
-            <description><![CDATA[[Bangladesh] Schoolgirl ‘raped after abduction’ in Gaibandha]]></description>
-            <link>https://bdnews24.com/bangladesh/0e3cbf3e6172</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0e3cbf3e6172</guid>
-            <pubDate>Tue, 28 Apr 2026 20:43:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025June/SM/gaibandha-gobindhagonj-thana-290625-01-1751199733.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Darfur children at ‘breaking point’ amid hunger, war: UN]]></title>
-            <description><![CDATA[[World] Darfur children at ‘breaking point’ amid hunger, war: UN]]></description>
-            <link>https://bdnews24.com/world/82d1eb74fb71</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/82d1eb74fb71</guid>
-            <pubDate>Tue, 28 Apr 2026 20:22:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/children-darfur-un-28042026-01-1777386066.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Moscow construction site blaze kills 7]]></title>
-            <description><![CDATA[[World] Moscow construction site blaze kills 7]]></description>
-            <link>https://bdnews24.com/world/27b107ed75cb</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/27b107ed75cb</guid>
-            <pubDate>Tue, 28 Apr 2026 20:15:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/moscow-fire-death-28042026-01-1777385635.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
