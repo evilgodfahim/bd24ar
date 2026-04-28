@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Apr 2026 20:56:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 21:50:08 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Apr 2026 20:56:39 GMT</pubDate>
+        <pubDate>Tue, 28 Apr 2026 21:50:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[PSG edge Bayern in 5-4 epic]]></title>
+            <description><![CDATA[[Sport] PSG edge Bayern in 5-4 epic]]></description>
+            <link>https://bdnews24.com/sport/d3933d2061b2</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/d3933d2061b2</guid>
+            <pubDate>Wed, 29 Apr 2026 03:23:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/psg-bayern-280426-01-1777411402.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Trade deal is a joint commitment: US envoy]]></title>
             <description><![CDATA[[Business] Trade deal is a joint commitment: US envoy]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/3895f2f53e20</guid>
             <pubDate>Tue, 28 Apr 2026 21:42:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/white-house-280426-01-1777390255.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Market victim is ‘top criminal’ Titon: police]]></title>
-            <description><![CDATA[[Bangladesh] New Market victim is ‘top criminal’ Titon: police]]></description>
-            <link>https://bdnews24.com/bangladesh/28ad09faa054</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/28ad09faa054</guid>
-            <pubDate>Tue, 28 Apr 2026 21:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/khondokar-naim-ahmed-titon-280426-01-1777395401.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
