@@ -4,10 +4,162 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Apr 2026 12:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 15:13:31 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Apr 2026 12:18:27 GMT</pubDate>
+        <pubDate>Tue, 28 Apr 2026 15:13:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Man shot dead in Dhaka’s New Market area]]></title>
+            <description><![CDATA[[Bangladesh] Man shot dead in Dhaka’s New Market area]]></description>
+            <link>https://bdnews24.com/bangladesh/28ad09faa054</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/28ad09faa054</guid>
+            <pubDate>Tue, 28 Apr 2026 21:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025November/SM/new-market-thana-171125-1763405588.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Schoolgirl ‘raped after abduction’ in Gaibandha]]></title>
+            <description><![CDATA[[Bangladesh] Schoolgirl ‘raped after abduction’ in Gaibandha]]></description>
+            <link>https://bdnews24.com/bangladesh/0e3cbf3e6172</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0e3cbf3e6172</guid>
+            <pubDate>Tue, 28 Apr 2026 20:43:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025June/SM/gaibandha-gobindhagonj-thana-290625-01-1751199733.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Darfur children at ‘breaking point’ amid hunger, war: UN]]></title>
+            <description><![CDATA[[World] Darfur children at ‘breaking point’ amid hunger, war: UN]]></description>
+            <link>https://bdnews24.com/world/82d1eb74fb71</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/82d1eb74fb71</guid>
+            <pubDate>Tue, 28 Apr 2026 20:22:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/children-darfur-un-28042026-01-1777386066.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Moscow construction site blaze kills 7]]></title>
+            <description><![CDATA[[World] Moscow construction site blaze kills 7]]></description>
+            <link>https://bdnews24.com/world/27b107ed75cb</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/27b107ed75cb</guid>
+            <pubDate>Tue, 28 Apr 2026 20:15:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/moscow-fire-death-28042026-01-1777385635.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US, Iran clash at UN over Tehran’s nuclear role]]></title>
+            <description><![CDATA[[World] US, Iran clash at UN over Tehran’s nuclear role]]></description>
+            <link>https://bdnews24.com/world/9ac4b97aeced</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/9ac4b97aeced</guid>
+            <pubDate>Tue, 28 Apr 2026 20:14:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-iran-clash-28042026-01-1777385618.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[RAB sees ‘no’ security concern]]></title>
+            <description><![CDATA[[Bangladesh] RAB sees ‘no’ security concern]]></description>
+            <link>https://bdnews24.com/bangladesh/9821e83f868f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9821e83f868f</guid>
+            <pubDate>Tue, 28 Apr 2026 20:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/rab-briefing-terrorist-attack-280426-001-1777383703.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump unhappy with Iran's latest proposal]]></title>
+            <description><![CDATA[[World] Trump unhappy with Iran's latest proposal]]></description>
+            <link>https://bdnews24.com/world/edcc86ea1293</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/edcc86ea1293</guid>
+            <pubDate>Tue, 28 Apr 2026 20:01:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/trump-unhappy-iran-28042026-01-1777384788.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What Trivedi's appointment means for Dhaka-Delhi ties]]></title>
+            <description><![CDATA[[Features & Analysis] What Trivedi's appointment means for Dhaka-Delhi ties]]></description>
+            <link>https://bdnews24.com/opinion/features-analysis/a856de7d73e6</link>
+            <guid isPermaLink="true">https://bdnews24.com/opinion/features-analysis/a856de7d73e6</guid>
+            <pubDate>Tue, 28 Apr 2026 19:44:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/dinesh-trivedi-280426-01-1777385747.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Effort begins to rescue Baltic humpback whale]]></title>
+            <description><![CDATA[[Environment] Effort begins to rescue Baltic humpback whale]]></description>
+            <link>https://bdnews24.com/environment/373c2b809c3a</link>
+            <guid isPermaLink="true">https://bdnews24.com/environment/373c2b809c3a</guid>
+            <pubDate>Tue, 28 Apr 2026 19:41:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/timmy-whale-rescue-28042026-01-1777383566.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ICJ ruling on Rohingya genocide soon: Khalilur]]></title>
+            <description><![CDATA[[Bangladesh] ICJ ruling on Rohingya genocide soon: Khalilur]]></description>
+            <link>https://bdnews24.com/bangladesh/cd00b8f9c854</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cd00b8f9c854</guid>
+            <pubDate>Tue, 28 Apr 2026 19:33:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/danish-siddiqui-280426-02-1777380743.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Militao out of World Cup after surgery]]></title>
+            <description><![CDATA[[Sport] Militao out of World Cup after surgery]]></description>
+            <link>https://bdnews24.com/sport/80c9b18c89da</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/80c9b18c89da</guid>
+            <pubDate>Tue, 28 Apr 2026 19:25:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/militao-injury-25042026-01-1777161834.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Rooppur Nuclear Power Plant, in photos]]></title>
+            <description><![CDATA[[Image] The Rooppur Nuclear Power Plant, in photos]]></description>
+            <link>https://bdnews24.com/media-en/image/7c1e8b11d6c3</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/7c1e8b11d6c3</guid>
+            <pubDate>Tue, 28 Apr 2026 19:22:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/rooppur-nuclear-power-plant-280426-06-1777373825.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sesko backs Carrick for Man United job]]></title>
+            <description><![CDATA[[Sport] Sesko backs Carrick for Man United job]]></description>
+            <link>https://bdnews24.com/sport/e22b7255ab8e</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/e22b7255ab8e</guid>
+            <pubDate>Tue, 28 Apr 2026 19:19:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/michael-carrick-280426-01-1777382197.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sherpas open route to move up Everest]]></title>
+            <description><![CDATA[[World] Sherpas open route to move up Everest]]></description>
+            <link>https://bdnews24.com/world/bc30c50fc79e</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/bc30c50fc79e</guid>
+            <pubDate>Tue, 28 Apr 2026 19:18:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/sherpas-everest-28042026-01-1777382257.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[UAE leaves OPEC and OPEC+]]></title>
+            <description><![CDATA[[World] UAE leaves OPEC and OPEC+]]></description>
+            <link>https://bdnews24.com/world/d890d9d8f493</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/d890d9d8f493</guid>
+            <pubDate>Tue, 28 Apr 2026 19:13:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/opec-280426-01-1777383331.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[464 murder, 666 rape charges since Feb 17: Salahuddin]]></title>
+            <description><![CDATA[[Bangladesh] 464 murder, 666 rape charges since Feb 17: Salahuddin]]></description>
+            <link>https://bdnews24.com/bangladesh/59a0bbe684bb</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/59a0bbe684bb</guid>
+            <pubDate>Tue, 28 Apr 2026 18:59:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/exel-emon-murder-120426-01-1775999932.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Commotion as MP Fazlur says martyr families ‘cannot join Jamaat’]]></title>
+            <description><![CDATA[[Bangladesh] Commotion as MP Fazlur says martyr families ‘cannot join Jamaat’]]></description>
+            <link>https://bdnews24.com/bangladesh/676fb35402b2</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/676fb35402b2</guid>
+            <pubDate>Tue, 28 Apr 2026 18:39:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/fazlur-rahaman-280426-01-1777377883.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Measles spreads to mountains]]></title>
+            <description><![CDATA[[Image] Measles spreads to mountains]]></description>
+            <link>https://bdnews24.com/media-en/image/7c18d9d6e428</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/7c18d9d6e428</guid>
+            <pubDate>Tue, 28 Apr 2026 18:35:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/bandarban-massive-measles-26042026-01-1777300707.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[April 28, 2026]]></title>
+            <description><![CDATA[[Image] April 28, 2026]]></description>
+            <link>https://bdnews24.com/media-en/image/3a8f00790e63</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/3a8f00790e63</guid>
+            <pubDate>Tue, 28 Apr 2026 18:18:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/rooppur-security-280426-03-1777372787.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[PM meets with Chevron delegation]]></title>
             <description><![CDATA[[Bangladesh] PM meets with Chevron delegation]]></description>
@@ -15,158 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/977db8858635</guid>
             <pubDate>Tue, 28 Apr 2026 17:51:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/tarique-rahman-280426-201-1777375294.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heavy rain floods Cumilla, leaves SSC candidates in distress]]></title>
-            <description><![CDATA[[Bangladesh] Heavy rain floods Cumilla, leaves SSC candidates in distress]]></description>
-            <link>https://bdnews24.com/bangladesh/b70e54ce1015</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b70e54ce1015</guid>
-            <pubDate>Tue, 28 Apr 2026 17:49:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/cumilla-rain-ssc-exam-280426-01-1777373501.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[SSC exams: 32,000 students absent on Day 4]]></title>
-            <description><![CDATA[[Education] SSC exams: 32,000 students absent on Day 4]]></description>
-            <link>https://bdnews24.com/education/56040c007351</link>
-            <guid isPermaLink="true">https://bdnews24.com/education/56040c007351</guid>
-            <pubDate>Tue, 28 Apr 2026 17:30:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/motijheel-school-ssc-exam-210426-1776746680.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[A few hours of rain inundates Chattogram]]></title>
-            <description><![CDATA[[Bangladesh] A few hours of rain inundates Chattogram]]></description>
-            <link>https://bdnews24.com/bangladesh/60d0f3d5cbe6</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/60d0f3d5cbe6</guid>
-            <pubDate>Tue, 28 Apr 2026 17:23:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/chattogram-rain-water-logging-280426-01-1777370344.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran eases internet curbs for businesses]]></title>
-            <description><![CDATA[[Middle East] Iran eases internet curbs for businesses]]></description>
-            <link>https://bdnews24.com/world/middle-east/fa61c4d24c71</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/fa61c4d24c71</guid>
-            <pubDate>Tue, 28 Apr 2026 16:54:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026January/SM/iran-17126-1768642339.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fuel loading begins at Rooppur nuclear power plant]]></title>
-            <description><![CDATA[[Bangladesh] Fuel loading begins at Rooppur nuclear power plant]]></description>
-            <link>https://bdnews24.com/bangladesh/dd0557abff9b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/dd0557abff9b</guid>
-            <pubDate>Tue, 28 Apr 2026 16:22:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/pabna-ruppur-280426-05-1777371311.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sweden warns of potential jet fuel shortage]]></title>
-            <description><![CDATA[[Aviation] Sweden warns of potential jet fuel shortage]]></description>
-            <link>https://bdnews24.com/aviation/10fc621067e0</link>
-            <guid isPermaLink="true">https://bdnews24.com/aviation/10fc621067e0</guid>
-            <pubDate>Tue, 28 Apr 2026 16:17:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/jet-fuel-280426-1777371427.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Democracy needs rule of law to thrive: PM]]></title>
-            <description><![CDATA[[Bangladesh] Democracy needs rule of law to thrive: PM]]></description>
-            <link>https://bdnews24.com/bangladesh/8e77fce2f681</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8e77fce2f681</guid>
-            <pubDate>Tue, 28 Apr 2026 16:07:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/traeq-rahman-280426-01-1777367475.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles: 9 more children die]]></title>
-            <description><![CDATA[[Bangladesh] Measles: 9 more children die]]></description>
-            <link>https://bdnews24.com/bangladesh/2a4ea89db2fe</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2a4ea89db2fe</guid>
-            <pubDate>Tue, 28 Apr 2026 16:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/syhlet-ham-dead-240426-1777022629.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mimo suicide: DU teacher Sudip suspended from academic activities]]></title>
-            <description><![CDATA[[Campus] Mimo suicide: DU teacher Sudip suspended from academic activities]]></description>
-            <link>https://bdnews24.com/campus/5c0025722ba4</link>
-            <guid isPermaLink="true">https://bdnews24.com/campus/5c0025722ba4</guid>
-            <pubDate>Tue, 28 Apr 2026 15:35:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/sudip-chakraborty-280426-01-1777368073.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Didn’t see enough fraud to overturn results: EU poll observers]]></title>
-            <description><![CDATA[[Bangladesh] Didn’t see enough fraud to overturn results: EU poll observers]]></description>
-            <link>https://bdnews24.com/bangladesh/31ee347b10da</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/31ee347b10da</guid>
-            <pubDate>Tue, 28 Apr 2026 15:22:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/ivars-ijabs-280426-1777366305.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[29 killed in Nigeria attack: governor]]></title>
-            <description><![CDATA[[Africa] 29 killed in Nigeria attack: governor]]></description>
-            <link>https://bdnews24.com/world/africa/34270afad1c0</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/africa/34270afad1c0</guid>
-            <pubDate>Tue, 28 Apr 2026 15:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/gunmen-attack-280426-01-1777363715.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Father ‘strangles’ 3-year-old to death in Badda]]></title>
-            <description><![CDATA[[Bangladesh] Father ‘strangles’ 3-year-old to death in Badda]]></description>
-            <link>https://bdnews24.com/bangladesh/0f1fb9943277</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0f1fb9943277</guid>
-            <pubDate>Tue, 28 Apr 2026 15:01:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/badda-police-station-280426-01-1777366124.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[SC upholds ex-CJ Khairul’s bail in 5 cases]]></title>
-            <description><![CDATA[[Bangladesh] SC upholds ex-CJ Khairul’s bail in 5 cases]]></description>
-            <link>https://bdnews24.com/bangladesh/11e58bbf31ec</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/11e58bbf31ec</guid>
-            <pubDate>Tue, 28 Apr 2026 14:57:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025July/SM/khairul-hauque-240725-001-1753371152.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nor’wester storms, heavy rain in all divisions]]></title>
-            <description><![CDATA[[Bangladesh] Nor’wester storms, heavy rain in all divisions]]></description>
-            <link>https://bdnews24.com/bangladesh/c09409077e81</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c09409077e81</guid>
-            <pubDate>Tue, 28 Apr 2026 14:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/rain-1000-1777366021.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How does Iran war threaten subsea cables?]]></title>
-            <description><![CDATA[[THE LONG READ] How does Iran war threaten subsea cables?]]></description>
-            <link>https://bdnews24.com/the-long-read/7071406d75f7</link>
-            <guid isPermaLink="true">https://bdnews24.com/the-long-read/7071406d75f7</guid>
-            <pubDate>Tue, 28 Apr 2026 14:20:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-strait-of-hormuz-240426-01-1777001002.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How will Rooppur plant load nuclear fuel?]]></title>
-            <description><![CDATA[[Bangladesh] How will Rooppur plant load nuclear fuel?]]></description>
-            <link>https://bdnews24.com/bangladesh/ba4954b1a08e</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ba4954b1a08e</guid>
-            <pubDate>Tue, 28 Apr 2026 13:55:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/rooppur-nuclear-power-plant-280426-01-1777358563.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indonesia commuter train crash toll rises to 14]]></title>
-            <description><![CDATA[[World] Indonesia commuter train crash toll rises to 14]]></description>
-            <link>https://bdnews24.com/world/70173ee22645</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/70173ee22645</guid>
-            <pubDate>Tue, 28 Apr 2026 13:40:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/train-crash-280426-01-1777358995.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No militant activity in Bangladesh: home minister]]></title>
-            <description><![CDATA[[Bangladesh] No militant activity in Bangladesh: home minister]]></description>
-            <link>https://bdnews24.com/bangladesh/4f2d05403933</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4f2d05403933</guid>
-            <pubDate>Tue, 28 Apr 2026 13:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/salahuddin-ahmed-280426-01-1777361648.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[N Korea sharply increased executions during pandemic lockdown]]></title>
-            <description><![CDATA[[Asia Pacific] N Korea sharply increased executions during pandemic lockdown]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/790fdc9e8e17</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/790fdc9e8e17</guid>
-            <pubDate>Tue, 28 Apr 2026 13:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/kim-jong-un-280426-01-1777361178.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
