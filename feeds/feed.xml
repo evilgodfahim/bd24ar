@@ -4,17 +4,57 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Apr 2026 07:55:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2026 09:55:14 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Apr 2026 07:55:13 GMT</pubDate>
+        <pubDate>Wed, 29 Apr 2026 09:55:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Cautionary signal maintained at seaports, rainfall nationwide]]></title>
-            <description><![CDATA[[Bangladesh] Cautionary signal maintained at seaports, rainfall nationwide]]></description>
+            <title><![CDATA[Teesta plan includes 110km dredging push]]></title>
+            <description><![CDATA[[Bangladesh] Teesta plan includes 110km dredging push]]></description>
+            <link>https://bdnews24.com/bangladesh/875100f4a94b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/875100f4a94b</guid>
+            <pubDate>Wed, 29 Apr 2026 15:41:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024June/SM/untitled-1-1719173508.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran war, fuel worries hit airlines summer plans]]></title>
+            <description><![CDATA[[Aviation] Iran war, fuel worries hit airlines summer plans]]></description>
+            <link>https://bdnews24.com/aviation/4f815f9be1f0</link>
+            <guid isPermaLink="true">https://bdnews24.com/aviation/4f815f9be1f0</guid>
+            <pubDate>Wed, 29 Apr 2026 15:30:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/airplane-290426-1777454966.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tarique visits sick MP during parliament session break]]></title>
+            <description><![CDATA[[Politics] Tarique visits sick MP during parliament session break]]></description>
+            <link>https://bdnews24.com/politics/c1bd48bced52</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/c1bd48bced52</guid>
+            <pubDate>Wed, 29 Apr 2026 14:55:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/tarique-sick-mp-290426-1777452862.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Adidas reports strong sales, profit]]></title>
+            <description><![CDATA[[Fashion] Adidas reports strong sales, profit]]></description>
+            <link>https://bdnews24.com/Fashion/d5b95158a27a</link>
+            <guid isPermaLink="true">https://bdnews24.com/Fashion/d5b95158a27a</guid>
+            <pubDate>Wed, 29 Apr 2026 14:45:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24-english/2024-03/255b73f8-de1b-4cb0-966c-a520d52dc80b/adidas_sportswear_130324_01.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Raise public awareness to curb waterlogging: Tarique]]></title>
+            <description><![CDATA[[Bangladesh] Raise public awareness to curb waterlogging: Tarique]]></description>
+            <link>https://bdnews24.com/bangladesh/6bd990de02be</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6bd990de02be</guid>
+            <pubDate>Wed, 29 Apr 2026 14:02:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/chattogram-canal-condition-280426-01-1777401511.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[4 rivers overflow danger level, flooding in 2 districts]]></title>
+            <description><![CDATA[[Bangladesh] 4 rivers overflow danger level, flooding in 2 districts]]></description>
             <link>https://bdnews24.com/bangladesh/0dd81d2712e2</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/0dd81d2712e2</guid>
             <pubDate>Wed, 29 Apr 2026 13:39:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2024September/SM/55-sadarghat-launch-terminal-140924-1726315561.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-07/ce3c4ea8-02ec-4d30-9828-ecc27a751a46/netrokona__river_flow_020723_01.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Govt adopts 12-point programme to make Dhaka ‘clean and green’]]></title>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/americas/62860c8d73ca</guid>
             <pubDate>Wed, 29 Apr 2026 10:47:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/trump-comey-indictment-290426-01-1777437984.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[King Charles promotes US-UK unity amid Iran tensions]]></title>
-            <description><![CDATA[[World] King Charles promotes US-UK unity amid Iran tensions]]></description>
-            <link>https://bdnews24.com/world/7f4ff2035744</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/7f4ff2035744</guid>
-            <pubDate>Wed, 29 Apr 2026 10:42:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/king-charles-us-uk-unity-290426-01-1777437660.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US mandates ‘enhanced’ security checks for immigrants]]></title>
-            <description><![CDATA[[Americas] US mandates ‘enhanced’ security checks for immigrants]]></description>
-            <link>https://bdnews24.com/world/americas/e35a1c636600</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/e35a1c636600</guid>
-            <pubDate>Wed, 29 Apr 2026 10:39:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-immigration-security-checks-290426-01-1777437536.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Elon Musk says OpenAI was his idea]]></title>
-            <description><![CDATA[[Business] Elon Musk says OpenAI was his idea]]></description>
-            <link>https://bdnews24.com/business/c850b1b15a1d</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/c850b1b15a1d</guid>
-            <pubDate>Wed, 29 Apr 2026 10:32:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/elon-musk-cpurt-290426-01-1777437082.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taiwan minister says she visited 2nd islet in South China Sea]]></title>
-            <description><![CDATA[[World] Taiwan minister says she visited 2nd islet in South China Sea]]></description>
-            <link>https://bdnews24.com/world/cd42c3f7a606</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/cd42c3f7a606</guid>
-            <pubDate>Wed, 29 Apr 2026 10:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/kuan-bi-ling-290426-01-1777436743.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BNP-Jamaat duke it out in Dhaka Bar vote]]></title>
-            <description><![CDATA[[Bangladesh] BNP-Jamaat duke it out in Dhaka Bar vote]]></description>
-            <link>https://bdnews24.com/bangladesh/aed628d19c9b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/aed628d19c9b</guid>
-            <pubDate>Wed, 29 Apr 2026 10:23:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/dhaka-bar-election-290426-01-1777434745.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
