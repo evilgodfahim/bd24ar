@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Apr 2026 20:48:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2026 21:49:02 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Apr 2026 20:48:55 GMT</pubDate>
+        <pubDate>Wed, 29 Apr 2026 21:49:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Atletico fight back to hold Arsenal in first leg]]></title>
+            <description><![CDATA[[Sport] Atletico fight back to hold Arsenal in first leg]]></description>
+            <link>https://bdnews24.com/sport/ddd619a83338</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/ddd619a83338</guid>
+            <pubDate>Thu, 30 Apr 2026 03:39:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/arsenal-penalty-300426-01-1777498684.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Salah set for return before season end]]></title>
             <description><![CDATA[[Sport] Salah set for return before season end]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/20d4fb805e4a</guid>
             <pubDate>Wed, 29 Apr 2026 22:24:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/pm-japan-290426-1777474295.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Britain's lifetime smoking ban to become law]]></title>
-            <description><![CDATA[[Europe] Britain's lifetime smoking ban to become law]]></description>
-            <link>https://bdnews24.com/world/europe/749f1bab8b51</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/749f1bab8b51</guid>
-            <pubDate>Wed, 29 Apr 2026 21:54:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/britain-smoking-ban-29042026-01-1777478090.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
