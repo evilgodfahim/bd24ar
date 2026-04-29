@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Apr 2026 19:04:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2026 20:48:55 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Apr 2026 19:04:06 GMT</pubDate>
+        <pubDate>Wed, 29 Apr 2026 20:48:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Salah set for return before season end]]></title>
+            <description><![CDATA[[Sport] Salah set for return before season end]]></description>
+            <link>https://bdnews24.com/sport/a8ccba91d490</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/a8ccba91d490</guid>
+            <pubDate>Thu, 30 Apr 2026 02:32:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/liverpool-salah-injury-260426-01-1777307974.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hakimi ruled out of PSG’s Bayern clash]]></title>
+            <description><![CDATA[[Sport] Hakimi ruled out of PSG’s Bayern clash]]></description>
+            <link>https://bdnews24.com/sport/2e65bf8b97f2</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/2e65bf8b97f2</guid>
+            <pubDate>Thu, 30 Apr 2026 02:31:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/achraf-hakimi-300426-01-1777494637.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian shooting families sue OpenAI, Altman]]></title>
+            <description><![CDATA[[Technology] Canadian shooting families sue OpenAI, Altman]]></description>
+            <link>https://bdnews24.com/technology/cab995a9e300</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/cab995a9e300</guid>
+            <pubDate>Thu, 30 Apr 2026 02:07:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/canada-mass-shooting-300426-01-1777493151.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Raozan’s spiral of violence: politics or turf war?]]></title>
+            <description><![CDATA[[Bangladesh] Raozan’s spiral of violence: politics or turf war?]]></description>
+            <link>https://bdnews24.com/bangladesh/74c7d0de5aaa</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/74c7d0de5aaa</guid>
+            <pubDate>Thu, 30 Apr 2026 02:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/raujan-murder-protest-280426-01-1777491090.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bengaluru wall collapse kills 7]]></title>
+            <description><![CDATA[[World] Bengaluru wall collapse kills 7]]></description>
+            <link>https://bdnews24.com/world/5d427f75c691</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/5d427f75c691</guid>
+            <pubDate>Thu, 30 Apr 2026 01:40:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/kerala-wall-290426-1777491533.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Measles cases may drop by May: UNICEF]]></title>
+            <description><![CDATA[[Health] Measles cases may drop by May: UNICEF]]></description>
+            <link>https://bdnews24.com/health/6425e6ec81ea</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/6425e6ec81ea</guid>
+            <pubDate>Thu, 30 Apr 2026 01:33:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/health-ministry-briefing-29042026-1777484991.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US to issue passports with Trump image]]></title>
+            <description><![CDATA[[World] US to issue passports with Trump image]]></description>
+            <link>https://bdnews24.com/world/d6f7f3fd8f7f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/d6f7f3fd8f7f</guid>
+            <pubDate>Thu, 30 Apr 2026 01:28:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-passport-300426-01-1777490839.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Genome study uncovers post-Roman changes]]></title>
             <description><![CDATA[[Lifestyle] Genome study uncovers post-Roman changes]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/europe/749f1bab8b51</guid>
             <pubDate>Wed, 29 Apr 2026 21:54:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/britain-smoking-ban-29042026-01-1777478090.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bayern ready for PSG sequel after goal fest]]></title>
-            <description><![CDATA[[Sport] Bayern ready for PSG sequel after goal fest]]></description>
-            <link>https://bdnews24.com/sport/42a0c94e63db</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/42a0c94e63db</guid>
-            <pubDate>Wed, 29 Apr 2026 21:54:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/bayern-munich-290426-01-1777478030.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Punjab’s unbeaten run ends in IPL reality check]]></title>
-            <description><![CDATA[[Cricket] Punjab’s unbeaten run ends in IPL reality check]]></description>
-            <link>https://bdnews24.com/cricket/c443e0f81c4b</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/c443e0f81c4b</guid>
-            <pubDate>Wed, 29 Apr 2026 21:42:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/punjab-kings-290426-01-1777477283.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran war makes green jet fuel interesting]]></title>
-            <description><![CDATA[[Opinion] Iran war makes green jet fuel interesting]]></description>
-            <link>https://bdnews24.com/opinion/206b350c27f0</link>
-            <guid isPermaLink="true">https://bdnews24.com/opinion/206b350c27f0</guid>
-            <pubDate>Wed, 29 Apr 2026 21:38:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-war-green-fuel-29042026-01-1777477095.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tk 3tn needed for road repairs: minister]]></title>
-            <description><![CDATA[[Bangladesh] Tk 3tn needed for road repairs: minister]]></description>
-            <link>https://bdnews24.com/bangladesh/bf014f2bfd3e</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/bf014f2bfd3e</guid>
-            <pubDate>Wed, 29 Apr 2026 21:30:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/shekh-robiul-alam-290426-1777474007.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shakib dubs T20 WC withdrawal as ‘big loss’]]></title>
-            <description><![CDATA[[Sport] Shakib dubs T20 WC withdrawal as ‘big loss’]]></description>
-            <link>https://bdnews24.com/sport/719a4ab9d097</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/719a4ab9d097</guid>
-            <pubDate>Wed, 29 Apr 2026 21:21:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024October/SM/shakib-al-hasan-bangladesh-171024-01-1729146743.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wife ‘raped’ after husband beaten in Rajshahi]]></title>
-            <description><![CDATA[[Bangladesh] Wife ‘raped’ after husband beaten in Rajshahi]]></description>
-            <link>https://bdnews24.com/bangladesh/b1d2ca05e26e</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b1d2ca05e26e</guid>
-            <pubDate>Wed, 29 Apr 2026 21:18:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/rajshahi-sardaha-station-290426-01-1777465456.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump urges Iran deal, discusses longer blockade]]></title>
-            <description><![CDATA[[World] Trump urges Iran deal, discusses longer blockade]]></description>
-            <link>https://bdnews24.com/world/4ab97cf3722d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/4ab97cf3722d</guid>
-            <pubDate>Wed, 29 Apr 2026 21:15:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/strait-of-hormuz-290426-01-1777475681.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
