@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2026 07:58:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 10:02:07 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Apr 2026 07:58:02 GMT</pubDate>
+        <pubDate>Thu, 30 Apr 2026 10:02:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Man to die for rape, murder of girl in Cumilla]]></title>
+            <description><![CDATA[[Bangladesh] Man to die for rape, murder of girl in Cumilla]]></description>
+            <link>https://bdnews24.com/bangladesh/7b059dd289e6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7b059dd289e6</guid>
+            <pubDate>Thu, 30 Apr 2026 15:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/cumilla-verdict-300426-1777536539.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[King Charles shows, Britain’s still got it!]]></title>
+            <description><![CDATA[[Opinion] King Charles shows, Britain’s still got it!]]></description>
+            <link>https://bdnews24.com/opinion/776e558dea56</link>
+            <guid isPermaLink="true">https://bdnews24.com/opinion/776e558dea56</guid>
+            <pubDate>Thu, 30 Apr 2026 15:17:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/opinion-king-charles-300426-01-1777540617.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US for international help to reopen Hormuz]]></title>
+            <description><![CDATA[[World] US for international help to reopen Hormuz]]></description>
+            <link>https://bdnews24.com/world/e071da2e8cda</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e071da2e8cda</guid>
+            <pubDate>Thu, 30 Apr 2026 15:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/strait-hormuz-300426-1777539996.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chandpur fishers prepare to return to Meghna as hilsa ban ends]]></title>
+            <description><![CDATA[[Bangladesh] Chandpur fishers prepare to return to Meghna as hilsa ban ends]]></description>
+            <link>https://bdnews24.com/bangladesh/6a841ff25ecd</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6a841ff25ecd</guid>
+            <pubDate>Thu, 30 Apr 2026 14:59:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/chandpur-fisherman-preparation-300426-01-1777535375.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[4 rivers overflow danger level]]></title>
+            <description><![CDATA[[Bangladesh] 4 rivers overflow danger level]]></description>
+            <link>https://bdnews24.com/bangladesh/43121d93abfa</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/43121d93abfa</guid>
+            <pubDate>Thu, 30 Apr 2026 14:56:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/netrokona-rain-300426-02-1777525535.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Myanmar cuts Suu Kyi’s sentence again]]></title>
+            <description><![CDATA[[World] Myanmar cuts Suu Kyi’s sentence again]]></description>
+            <link>https://bdnews24.com/world/255a9c08a639</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/255a9c08a639</guid>
+            <pubDate>Thu, 30 Apr 2026 13:59:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/myanmar-suu-kyi-sentence-cut-170425-01-1776451870.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[People will enjoy their rights irrespective of religion, race: PM]]></title>
             <description><![CDATA[[Bangladesh] People will enjoy their rights irrespective of religion, race: PM]]></description>
@@ -41,8 +89,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/emi-shahbagh-thana-7th-march-speech-070326-1772907780.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Fire breaks out at chemical warehouse in Demra]]></title>
-            <description><![CDATA[[Bangladesh] Fire breaks out at chemical warehouse in Demra]]></description>
+            <title><![CDATA[Demra factory fire doused]]></title>
+            <description><![CDATA[[Bangladesh] Demra factory fire doused]]></description>
             <link>https://bdnews24.com/bangladesh/365fbcbf16af</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/365fbcbf16af</guid>
             <pubDate>Thu, 30 Apr 2026 13:00:00 GMT</pubDate>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/business/814aacfb767b</guid>
             <pubDate>Thu, 30 Apr 2026 10:28:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2024May/SM/meta-logo-120524-01-1715481326.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US is reviewing potential reduction of troops in Germany: Trump]]></title>
-            <description><![CDATA[[Americas] US is reviewing potential reduction of troops in Germany: Trump]]></description>
-            <link>https://bdnews24.com/world/americas/76eed178b3e5</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/76eed178b3e5</guid>
-            <pubDate>Thu, 30 Apr 2026 10:25:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-germany-flags-300426-01-1777523115.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UAE oil break exposes deepening Saudi rift]]></title>
-            <description><![CDATA[[Middle East] UAE oil break exposes deepening Saudi rift]]></description>
-            <link>https://bdnews24.com/world/middle-east/1e8caa85475c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/1e8caa85475c</guid>
-            <pubDate>Thu, 30 Apr 2026 10:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/uae-opec-saudi-rift-300426-01-1777522970.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Court denies NZ mosque shooter’s bid to appeal convictions]]></title>
-            <description><![CDATA[[Asia Pacific] Court denies NZ mosque shooter’s bid to appeal convictions]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/7fedff47b109</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/7fedff47b109</guid>
-            <pubDate>Thu, 30 Apr 2026 10:08:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/sentencing-of-nz-gunman-270820-03-1770610104.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US accuses Mexican governor of alleged cartel ties]]></title>
-            <description><![CDATA[[Americas] US accuses Mexican governor of alleged cartel ties]]></description>
-            <link>https://bdnews24.com/world/americas/16e82cfe2625</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/16e82cfe2625</guid>
-            <pubDate>Thu, 30 Apr 2026 10:06:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/ruben-rocha-300426-01-1777521991.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel intercepts Gaza aid ships: organisers]]></title>
-            <description><![CDATA[[World] Israel intercepts Gaza aid ships: organisers]]></description>
-            <link>https://bdnews24.com/world/9daf75034aa2</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/9daf75034aa2</guid>
-            <pubDate>Thu, 30 Apr 2026 10:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025September/SM/boats-300925-01-1759249659.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taiwan tops Beijing's agenda for Trump-Xi summit]]></title>
-            <description><![CDATA[[World] Taiwan tops Beijing's agenda for Trump-Xi summit]]></description>
-            <link>https://bdnews24.com/world/d0e54914eb94</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/d0e54914eb94</guid>
-            <pubDate>Thu, 30 Apr 2026 10:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/us-china-trump-xi-taiwan-300426-01-1777521850.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
