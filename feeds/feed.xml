@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2026 20:02:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 21:44:16 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Apr 2026 20:02:32 GMT</pubDate>
+        <pubDate>Thu, 30 Apr 2026 21:44:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Malta honours Shoeb Chowdhury for diplomatic service]]></title>
+            <description><![CDATA[[World] Malta honours Shoeb Chowdhury for diplomatic service]]></description>
+            <link>https://bdnews24.com/world/2dd21494612b</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/2dd21494612b</guid>
+            <pubDate>Fri, 01 May 2026 03:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/malta-30042026-1777583445.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mainoo signs new Man Utd deal]]></title>
+            <description><![CDATA[[Sport] Mainoo signs new Man Utd deal]]></description>
+            <link>https://bdnews24.com/sport/2f552d4430ef</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/2f552d4430ef</guid>
+            <pubDate>Fri, 01 May 2026 03:09:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/mainoo-man-utd-deal-01052026-01-1777583274.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arsenal can raise title pressure on Man City]]></title>
+            <description><![CDATA[[Sport] Arsenal can raise title pressure on Man City]]></description>
+            <link>https://bdnews24.com/sport/28dbebd491df</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/28dbebd491df</guid>
+            <pubDate>Fri, 01 May 2026 03:06:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/arsenal-pl-title-pressure-01052026-01-1777583066.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Convicted scientist rebuilds brain computer lab]]></title>
+            <description><![CDATA[[Technology] Convicted scientist rebuilds brain computer lab]]></description>
+            <link>https://bdnews24.com/technology/bf9d6bc7cefe</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/bf9d6bc7cefe</guid>
+            <pubDate>Fri, 01 May 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/china-scientist-brain-lab-01052026-01-1777582737.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump criticises Merz over ‘Iran interference’]]></title>
+            <description><![CDATA[[World] Trump criticises Merz over ‘Iran interference’]]></description>
+            <link>https://bdnews24.com/world/be41fccb8d37</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/be41fccb8d37</guid>
+            <pubDate>Fri, 01 May 2026 02:38:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/trump-merz-01052026-01-1777581443.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel intercepts Gaza aid ships in international waters]]></title>
+            <description><![CDATA[[World] Israel intercepts Gaza aid ships in international waters]]></description>
+            <link>https://bdnews24.com/world/b6b21bf6f5be</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/b6b21bf6f5be</guid>
+            <pubDate>Fri, 01 May 2026 02:26:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/israel-intercepts-aid-ships-30042026-01-1777580660.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stuck for life in tannery work, no way out]]></title>
+            <description><![CDATA[[Bangladesh] Stuck for life in tannery work, no way out]]></description>
+            <link>https://bdnews24.com/bangladesh/e20502b8ccb2</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e20502b8ccb2</guid>
+            <pubDate>Fri, 01 May 2026 02:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-04/2f34b499-61f1-419e-a18f-986db78e59eb/savar_tannery_estate_0100523_11.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Death of a Lebanese village]]></title>
             <description><![CDATA[[Bangladesh] Death of a Lebanese village]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/4ee9aa95941a</guid>
             <pubDate>Thu, 30 Apr 2026 22:28:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/young-1777566474.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sangakkara, Mahanama to lead interim SLC body]]></title>
-            <description><![CDATA[[Sport] Sangakkara, Mahanama to lead interim SLC body]]></description>
-            <link>https://bdnews24.com/sport/20ced3a29352</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/20ced3a29352</guid>
-            <pubDate>Thu, 30 Apr 2026 22:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/kumar-sangakkara-1777566267.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rats infest Gaza's tent camps]]></title>
-            <description><![CDATA[[World] Rats infest Gaza's tent camps]]></description>
-            <link>https://bdnews24.com/world/71604ff5365e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/71604ff5365e</guid>
-            <pubDate>Thu, 30 Apr 2026 22:13:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/rats-infest-gaza-30042026-01-1777565457.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Biman signs deal with Boeing for 14 aircraft]]></title>
-            <description><![CDATA[[Business] Biman signs deal with Boeing for 14 aircraft]]></description>
-            <link>https://bdnews24.com/business/a0e95fa94c4b</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/a0e95fa94c4b</guid>
-            <pubDate>Thu, 30 Apr 2026 22:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/biman-and-boeing-agreement-30042026-1777563952.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[United secure Mainoo until 2031]]></title>
-            <description><![CDATA[[Sport] United secure Mainoo until 2031]]></description>
-            <link>https://bdnews24.com/sport/b741a470173b</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/b741a470173b</guid>
-            <pubDate>Thu, 30 Apr 2026 22:01:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/kobbie-mainoo-300426-01-1777564795.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Parker departs Burnley after relegation]]></title>
-            <description><![CDATA[[Sport] Parker departs Burnley after relegation]]></description>
-            <link>https://bdnews24.com/sport/6d095b5e2f44</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/6d095b5e2f44</guid>
-            <pubDate>Thu, 30 Apr 2026 21:54:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/scott-parker-300426-01-1777564330.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[1 in 5 reserved seat women MPs in debt, 65% millionaire: TIB]]></title>
-            <description><![CDATA[[Bangladesh] 1 in 5 reserved seat women MPs in debt, 65% millionaire: TIB]]></description>
-            <link>https://bdnews24.com/bangladesh/5bd31caf8e84</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5bd31caf8e84</guid>
-            <pubDate>Thu, 30 Apr 2026 21:44:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2023-05/6df47226-47d7-46e7-a414-77f5d1bbcbd0/tib_230523_01.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Haor flood situation may ease next week end]]></title>
-            <description><![CDATA[[Bangladesh] Haor flood situation may ease next week end]]></description>
-            <link>https://bdnews24.com/bangladesh/bb782f2634cc</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/bb782f2634cc</guid>
-            <pubDate>Thu, 30 Apr 2026 21:33:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/kishoreganj-hawor-paddy-300426-03-1777545345.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
