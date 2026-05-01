@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 May 2026 10:59:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 11:58:01 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 01 May 2026 10:59:13 GMT</pubDate>
+        <pubDate>Fri, 01 May 2026 11:58:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump criticism adds transatlantic strain]]></title>
+            <description><![CDATA[[THE LONG READ] Trump criticism adds transatlantic strain]]></description>
+            <link>https://bdnews24.com/the-long-read/724a8c5a7144</link>
+            <guid isPermaLink="true">https://bdnews24.com/the-long-read/724a8c5a7144</guid>
+            <pubDate>Fri, 01 May 2026 17:26:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/trump-merz-010526-1777634754.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM joins May Day rally]]></title>
+            <description><![CDATA[[Politics] PM joins May Day rally]]></description>
+            <link>https://bdnews24.com/politics/6a33aef8af59</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/6a33aef8af59</guid>
+            <pubDate>Fri, 01 May 2026 17:06:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/bnp-may-day-rally-010526-01-1777631821.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Trump's approval ratings have sunk]]></title>
             <description><![CDATA[[Americas] Trump's approval ratings have sunk]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/health/329ec37d1dd4</guid>
             <pubDate>Fri, 01 May 2026 12:09:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/cumilla-hospital-010526-01-1777613476.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[EC flags ‘abnormal’ voter count at ex-councillor’s houses]]></title>
-            <description><![CDATA[[Bangladesh] EC flags ‘abnormal’ voter count at ex-councillor’s houses]]></description>
-            <link>https://bdnews24.com/bangladesh/596998f693e6</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/596998f693e6</guid>
-            <pubDate>Fri, 01 May 2026 12:01:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/narayangonj-voter-list-300426-01-1777608130.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No place for US in Gulf: Mojtaba]]></title>
-            <description><![CDATA[[World] No place for US in Gulf: Mojtaba]]></description>
-            <link>https://bdnews24.com/world/e27cdcff66d4</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/e27cdcff66d4</guid>
-            <pubDate>Fri, 01 May 2026 11:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/iran-chief-mojtaba-khamenei-010526-1777609857.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
