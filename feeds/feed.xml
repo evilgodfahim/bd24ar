@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 May 2026 11:58:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 13:08:28 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 01 May 2026 11:58:01 GMT</pubDate>
+        <pubDate>Fri, 01 May 2026 13:08:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Toddler separated, mother sent to jail over NGO loan dispute]]></title>
+            <description><![CDATA[[Bangladesh] Toddler separated, mother sent to jail over NGO loan dispute]]></description>
+            <link>https://bdnews24.com/bangladesh/c02f2f4abe62</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c02f2f4abe62</guid>
+            <pubDate>Fri, 01 May 2026 18:55:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/sirajganj-arrest-010526-01-1777636635.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nominee not yet decided for Dhaka mayor races: Jamaat]]></title>
+            <description><![CDATA[[Bangladesh] Nominee not yet decided for Dhaka mayor races: Jamaat]]></description>
+            <link>https://bdnews24.com/bangladesh/8df09b16b921</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8df09b16b921</guid>
+            <pubDate>Fri, 01 May 2026 18:51:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/municipal-tax-fairs-240419-35-1777633126.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sports most effective in fending off addiction, degradation: PM]]></title>
+            <description><![CDATA[[Bangladesh] Sports most effective in fending off addiction, degradation: PM]]></description>
+            <link>https://bdnews24.com/bangladesh/9923e96c85c8</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9923e96c85c8</guid>
+            <pubDate>Fri, 01 May 2026 18:30:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025October/SM/tarique-rahman-061025-01-1759724731.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Trump criticism adds transatlantic strain]]></title>
             <description><![CDATA[[THE LONG READ] Trump criticism adds transatlantic strain]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/6e7e6027f49d</guid>
             <pubDate>Fri, 01 May 2026 12:43:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/uk-jewish-attack-010526-01-1777617786.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gujarat beat RCB]]></title>
-            <description><![CDATA[[Cricket] Gujarat beat RCB]]></description>
-            <link>https://bdnews24.com/cricket/9605d149abef</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/9605d149abef</guid>
-            <pubDate>Fri, 01 May 2026 12:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/gujarat-vs-rcb-010526-1777616762.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dubai chefs cut menus as Iran war disrupts supply chains]]></title>
-            <description><![CDATA[[Lifestyle] Dubai chefs cut menus as Iran war disrupts supply chains]]></description>
-            <link>https://bdnews24.com/lifestyle/af14c3fdbba7</link>
-            <guid isPermaLink="true">https://bdnews24.com/lifestyle/af14c3fdbba7</guid>
-            <pubDate>Fri, 01 May 2026 12:20:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/dubai-chef-010526-1777616385.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles: 92 kids crammed into 30-bed unit in Cumilla]]></title>
-            <description><![CDATA[[Health] Measles: 92 kids crammed into 30-bed unit in Cumilla]]></description>
-            <link>https://bdnews24.com/health/329ec37d1dd4</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/329ec37d1dd4</guid>
-            <pubDate>Fri, 01 May 2026 12:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/cumilla-hospital-010526-01-1777613476.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
