@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 May 2026 15:43:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 16:41:40 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 01 May 2026 15:43:14 GMT</pubDate>
+        <pubDate>Fri, 01 May 2026 16:41:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Beef prices jump as food gets dearer]]></title>
+            <description><![CDATA[[Business] Beef prices jump as food gets dearer]]></description>
+            <link>https://bdnews24.com/business/c1e3985219c6</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/c1e3985219c6</guid>
+            <pubDate>Fri, 01 May 2026 22:39:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/kitchen-market-price-010526-06-1777653305.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Some quarters trying to make the country ‘friendless’: PM]]></title>
             <description><![CDATA[[Politics] Some quarters trying to make the country ‘friendless’: PM]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/politics/6a33aef8af59</guid>
             <pubDate>Fri, 01 May 2026 17:06:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/bnp-may-day-rally-010526-01-1777631821.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump's approval ratings have sunk]]></title>
-            <description><![CDATA[[Americas] Trump's approval ratings have sunk]]></description>
-            <link>https://bdnews24.com/world/americas/bb8cedbd6c5e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/bb8cedbd6c5e</guid>
-            <pubDate>Fri, 01 May 2026 16:58:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/donald-trump-approval-010526-01-1777633043.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
