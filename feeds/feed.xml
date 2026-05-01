@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 May 2026 18:53:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 19:58:40 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 01 May 2026 18:53:16 GMT</pubDate>
+        <pubDate>Fri, 01 May 2026 19:58:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Haor flooding: Protective dams ‘worsening’ waterlogging]]></title>
+            <description><![CDATA[[Bangladesh] Haor flooding: Protective dams ‘worsening’ waterlogging]]></description>
+            <link>https://bdnews24.com/bangladesh/351bcbe1296b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/351bcbe1296b</guid>
+            <pubDate>Sat, 02 May 2026 01:43:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/sunamgonj-haor-waterlogg-010526-01-1777664249.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[UNICEF warned interim govt on measles procurement: report]]></title>
+            <description><![CDATA[[Bangladesh] UNICEF warned interim govt on measles procurement: report]]></description>
+            <link>https://bdnews24.com/bangladesh/cf944de7e3e3</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cf944de7e3e3</guid>
+            <pubDate>Sat, 02 May 2026 01:02:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/measles-patient-sonkromon-bedi-hospital-290326-040-1774790031.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[BNP panel sweeps Dhaka Bar polls]]></title>
             <description><![CDATA[[Bangladesh] BNP panel sweeps Dhaka Bar polls]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/53d1f811dc53</guid>
             <pubDate>Fri, 01 May 2026 20:28:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/netrokona-rain-300426-02-1777525535.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Their work goes on, even on May Day]]></title>
-            <description><![CDATA[[Image] Their work goes on, even on May Day]]></description>
-            <link>https://bdnews24.com/media-en/image/03311000a7ad</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/03311000a7ad</guid>
-            <pubDate>Fri, 01 May 2026 20:27:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/labor-day-dockyard-010526-060-1777645642.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[May 1, 2026]]></title>
-            <description><![CDATA[[Image] May 1, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/0232d9643af5</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/0232d9643af5</guid>
-            <pubDate>Fri, 01 May 2026 19:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/labour-day-010526-005-1777635875.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
