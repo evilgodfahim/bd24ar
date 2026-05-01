@@ -4,10 +4,74 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 May 2026 05:31:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 07:56:54 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 01 May 2026 05:31:19 GMT</pubDate>
+        <pubDate>Fri, 01 May 2026 07:56:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Stage set for BNP's May Day rally]]></title>
+            <description><![CDATA[[Politics] Stage set for BNP's May Day rally]]></description>
+            <link>https://bdnews24.com/politics/126f351ee855</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/126f351ee855</guid>
+            <pubDate>Fri, 01 May 2026 13:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/paltan-rally-010526-1-1777621834.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Guterres says money owed by US is 'non-negotiable']]></title>
+            <description><![CDATA[[World] Guterres says money owed by US is 'non-negotiable']]></description>
+            <link>https://bdnews24.com/world/b6a90133da03</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/b6a90133da03</guid>
+            <pubDate>Fri, 01 May 2026 13:42:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/antonio-guterres-010426-01-1777621298.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK police charge man over stabbing of two Jewish men]]></title>
+            <description><![CDATA[[World] UK police charge man over stabbing of two Jewish men]]></description>
+            <link>https://bdnews24.com/world/6e7e6027f49d</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/6e7e6027f49d</guid>
+            <pubDate>Fri, 01 May 2026 12:43:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/uk-jewish-attack-010526-01-1777617786.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gujarat beat RCB]]></title>
+            <description><![CDATA[[Cricket] Gujarat beat RCB]]></description>
+            <link>https://bdnews24.com/cricket/9605d149abef</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/9605d149abef</guid>
+            <pubDate>Fri, 01 May 2026 12:26:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/gujarat-vs-rcb-010526-1777616762.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dubai chefs cut menus as Iran war disrupts supply chains]]></title>
+            <description><![CDATA[[Lifestyle] Dubai chefs cut menus as Iran war disrupts supply chains]]></description>
+            <link>https://bdnews24.com/lifestyle/af14c3fdbba7</link>
+            <guid isPermaLink="true">https://bdnews24.com/lifestyle/af14c3fdbba7</guid>
+            <pubDate>Fri, 01 May 2026 12:20:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/dubai-chef-010526-1777616385.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Measles: 92 kids crammed into 30-bed unit in Cumilla]]></title>
+            <description><![CDATA[[Health] Measles: 92 kids crammed into 30-bed unit in Cumilla]]></description>
+            <link>https://bdnews24.com/health/329ec37d1dd4</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/329ec37d1dd4</guid>
+            <pubDate>Fri, 01 May 2026 12:09:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/cumilla-hospital-010526-01-1777613476.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[EC flags ‘abnormal’ voter count at ex-councillor’s houses]]></title>
+            <description><![CDATA[[Bangladesh] EC flags ‘abnormal’ voter count at ex-councillor’s houses]]></description>
+            <link>https://bdnews24.com/bangladesh/596998f693e6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/596998f693e6</guid>
+            <pubDate>Fri, 01 May 2026 12:01:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/narayangonj-voter-list-300426-01-1777608130.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[No place for US in Gulf: Mojtaba]]></title>
+            <description><![CDATA[[World] No place for US in Gulf: Mojtaba]]></description>
+            <link>https://bdnews24.com/world/e27cdcff66d4</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e27cdcff66d4</guid>
+            <pubDate>Fri, 01 May 2026 11:36:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/iran-chief-mojtaba-khamenei-010526-1777609857.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[US naval blockade squeezes Iran's oil exports]]></title>
             <description><![CDATA[[Middle East] US naval blockade squeezes Iran's oil exports]]></description>
@@ -103,70 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/entertainment/cbc69b21c436</guid>
             <pubDate>Fri, 01 May 2026 09:28:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/new-movie-010526-1777606076.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump signs bill to fund DHS after lengthy shutdown]]></title>
-            <description><![CDATA[[Americas] Trump signs bill to fund DHS after lengthy shutdown]]></description>
-            <link>https://bdnews24.com/world/americas/db252c3166d7</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/db252c3166d7</guid>
-            <pubDate>Fri, 01 May 2026 09:20:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/dhs-14226-1771050288.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UAE bans travel to Iran, Lebanon, Iraq]]></title>
-            <description><![CDATA[[Middle East] UAE bans travel to Iran, Lebanon, Iraq]]></description>
-            <link>https://bdnews24.com/world/middle-east/460a691221a2</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/460a691221a2</guid>
-            <pubDate>Fri, 01 May 2026 09:11:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/war-impact-010526-1777605085.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran war truce 'terminated' enmity for war powers deadline: official]]></title>
-            <description><![CDATA[[World] Iran war truce 'terminated' enmity for war powers deadline: official]]></description>
-            <link>https://bdnews24.com/world/dd107baf1b70</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/dd107baf1b70</guid>
-            <pubDate>Fri, 01 May 2026 09:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/iran-flag-010526-01-1777604604.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran will be at World Cup: FIFA boss]]></title>
-            <description><![CDATA[[Sport] Iran will be at World Cup: FIFA boss]]></description>
-            <link>https://bdnews24.com/sport/88dd61023fdc</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/88dd61023fdc</guid>
-            <pubDate>Fri, 01 May 2026 05:15:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/fifa-chief-010526-1777590728.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Over 500mn tickets requested for WC: FIFA]]></title>
-            <description><![CDATA[[Sport] Over 500mn tickets requested for WC: FIFA]]></description>
-            <link>https://bdnews24.com/sport/fe2c30557836</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/fe2c30557836</guid>
-            <pubDate>Fri, 01 May 2026 05:10:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/trump-iran-italy-world-cup-230426-01-1776917994.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Malta honours Shoeb Chowdhury for diplomatic service]]></title>
-            <description><![CDATA[[World] Malta honours Shoeb Chowdhury for diplomatic service]]></description>
-            <link>https://bdnews24.com/world/2dd21494612b</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/2dd21494612b</guid>
-            <pubDate>Fri, 01 May 2026 03:12:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/malta-30042026-1777583445.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mainoo signs new Man Utd deal]]></title>
-            <description><![CDATA[[Sport] Mainoo signs new Man Utd deal]]></description>
-            <link>https://bdnews24.com/sport/2f552d4430ef</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/2f552d4430ef</guid>
-            <pubDate>Fri, 01 May 2026 03:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/mainoo-man-utd-deal-01052026-01-1777583274.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arsenal can raise title pressure on Man City]]></title>
-            <description><![CDATA[[Sport] Arsenal can raise title pressure on Man City]]></description>
-            <link>https://bdnews24.com/sport/28dbebd491df</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/28dbebd491df</guid>
-            <pubDate>Fri, 01 May 2026 03:06:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/arsenal-pl-title-pressure-01052026-01-1777583066.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
