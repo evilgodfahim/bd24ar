@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 May 2026 19:58:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 20:47:48 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 01 May 2026 19:58:40 GMT</pubDate>
+        <pubDate>Fri, 01 May 2026 20:47:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[‘Widespread irregularities’ in Bangladesh bar polls: European bar associatio]]></title>
+            <description><![CDATA[[Bangladesh] ‘Widespread irregularities’ in Bangladesh bar polls: European bar associatio]]></description>
+            <link>https://bdnews24.com/bangladesh/29b5486c43c4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/29b5486c43c4</guid>
+            <pubDate>Sat, 02 May 2026 02:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/logo-ccbe-010526-01-1777666079.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Haor flooding: Protective dams ‘worsening’ waterlogging]]></title>
             <description><![CDATA[[Bangladesh] Haor flooding: Protective dams ‘worsening’ waterlogging]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/7cea3606eeca</guid>
             <pubDate>Fri, 01 May 2026 20:31:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/tarique-rahman-may-day-rally-010526-01-1777640672.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[5 rivers flowing above danger levels, Netrokona worries]]></title>
-            <description><![CDATA[[Bangladesh] 5 rivers flowing above danger levels, Netrokona worries]]></description>
-            <link>https://bdnews24.com/bangladesh/53d1f811dc53</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/53d1f811dc53</guid>
-            <pubDate>Fri, 01 May 2026 20:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/netrokona-rain-300426-02-1777525535.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
