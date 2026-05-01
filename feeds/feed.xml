@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 May 2026 09:26:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 10:59:13 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 01 May 2026 09:26:29 GMT</pubDate>
+        <pubDate>Fri, 01 May 2026 10:59:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump's approval ratings have sunk]]></title>
+            <description><![CDATA[[Americas] Trump's approval ratings have sunk]]></description>
+            <link>https://bdnews24.com/world/americas/bb8cedbd6c5e</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/bb8cedbd6c5e</guid>
+            <pubDate>Fri, 01 May 2026 16:58:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/donald-trump-approval-010526-01-1777633043.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka sees country's highest rainfall]]></title>
+            <description><![CDATA[[Bangladesh] Dhaka sees country's highest rainfall]]></description>
+            <link>https://bdnews24.com/bangladesh/8f71dbf77e5b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8f71dbf77e5b</guid>
+            <pubDate>Fri, 01 May 2026 16:53:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/dscc-waterlog-010526-001-1777631634.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 held over Tk 250,000 robbery at Baridhara church]]></title>
+            <description><![CDATA[[Bangladesh] 3 held over Tk 250,000 robbery at Baridhara church]]></description>
+            <link>https://bdnews24.com/bangladesh/9df487461559</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9df487461559</guid>
+            <pubDate>Fri, 01 May 2026 16:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/police-briefing-010426-01-1777626735.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran cannot be trusted over Hormuz: UAE]]></title>
+            <description><![CDATA[[Middle East] Iran cannot be trusted over Hormuz: UAE]]></description>
+            <link>https://bdnews24.com/world/middle-east/e9d7f4f43853</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/e9d7f4f43853</guid>
+            <pubDate>Fri, 01 May 2026 16:15:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/iran-hormuz-030326-01-1772533228.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Labour groups press for Tk 30,000 minimum wage on May Day]]></title>
+            <description><![CDATA[[Bangladesh] Labour groups press for Tk 30,000 minimum wage on May Day]]></description>
+            <link>https://bdnews24.com/bangladesh/e22d9652e39c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e22d9652e39c</guid>
+            <pubDate>Fri, 01 May 2026 16:09:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/may-day-pressclub-010526-01-1777629808.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Salah ruled out of Man Utd clash: Slot]]></title>
+            <description><![CDATA[[Sport] Salah ruled out of Man Utd clash: Slot]]></description>
+            <link>https://bdnews24.com/sport/43fe58939d76</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/43fe58939d76</guid>
+            <pubDate>Fri, 01 May 2026 15:40:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025December/SM/salah-slams-liverpool-071225-01-1765078464.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Trump lifts tariffs on UK whisky]]></title>
             <description><![CDATA[[Americas] Trump lifts tariffs on UK whisky]]></description>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/e27cdcff66d4</guid>
             <pubDate>Fri, 01 May 2026 11:36:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/iran-chief-mojtaba-khamenei-010526-1777609857.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US naval blockade squeezes Iran's oil exports]]></title>
-            <description><![CDATA[[Middle East] US naval blockade squeezes Iran's oil exports]]></description>
-            <link>https://bdnews24.com/world/middle-east/a02d5255b5c0</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/a02d5255b5c0</guid>
-            <pubDate>Fri, 01 May 2026 11:10:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/iran-shipping-010526-1777612168.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Suu Kyi to meet legal team this weekend]]></title>
-            <description><![CDATA[[Neighbours] Suu Kyi to meet legal team this weekend]]></description>
-            <link>https://bdnews24.com/neighbours/43d43cda068b</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/43d43cda068b</guid>
-            <pubDate>Fri, 01 May 2026 11:06:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/suu-kyi-file-01052026-01-1777611969.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Afghan refugees stranded at Pakistan border]]></title>
-            <description><![CDATA[[Society] Afghan refugees stranded at Pakistan border]]></description>
-            <link>https://bdnews24.com/society/50ce289b031c</link>
-            <guid isPermaLink="true">https://bdnews24.com/society/50ce289b031c</guid>
-            <pubDate>Fri, 01 May 2026 10:55:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/afghan-border-010526-1777611233.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hard work, low pay in private hospitals]]></title>
-            <description><![CDATA[[Bangladesh] Hard work, low pay in private hospitals]]></description>
-            <link>https://bdnews24.com/bangladesh/f9db0c8c38fd</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f9db0c8c38fd</guid>
-            <pubDate>Fri, 01 May 2026 10:37:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2022-08/32a26530-6638-48f0-9af7-ea9ff6663ac9/seasonal_diseases_shishu_hospital_240822_17.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladeshi imam arrested in New York over 'child sex abuse']]></title>
-            <description><![CDATA[[Bangladesh] Bangladeshi imam arrested in New York over 'child sex abuse']]></description>
-            <link>https://bdnews24.com/bangladesh/e64e50bfbdaa</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e64e50bfbdaa</guid>
-            <pubDate>Fri, 01 May 2026 10:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/tajul-islam-010526-1777605814.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine sees path to Japanese arms]]></title>
-            <description><![CDATA[[Europe] Ukraine sees path to Japanese arms]]></description>
-            <link>https://bdnews24.com/world/europe/34461bea640e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/34461bea640e</guid>
-            <pubDate>Fri, 01 May 2026 10:14:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/yurii-lutovinov-010526-01-1777608799.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
