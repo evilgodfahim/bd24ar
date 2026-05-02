@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 02 May 2026 12:40:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 May 2026 14:03:06 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 02 May 2026 12:40:19 GMT</pubDate>
+        <pubDate>Sat, 02 May 2026 14:03:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Four-day DC conference begins Sunday]]></title>
+            <description><![CDATA[[Bangladesh] Four-day DC conference begins Sunday]]></description>
+            <link>https://bdnews24.com/bangladesh/c91affecc33d</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c91affecc33d</guid>
+            <pubDate>Sat, 02 May 2026 19:20:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/dc-confference-020526-01-1777726021.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tk 5tn 'laundered' in Awami League’s last 10 years: minister]]></title>
+            <description><![CDATA[[Bangladesh] Tk 5tn 'laundered' in Awami League’s last 10 years: minister]]></description>
+            <link>https://bdnews24.com/bangladesh/e49dbafee8b6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e49dbafee8b6</guid>
+            <pubDate>Sat, 02 May 2026 19:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/tangail-azam-020526-01-1777721964.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Garment workers block Ctg road over unpaid wages]]></title>
+            <description><![CDATA[[Bangladesh] Garment workers block Ctg road over unpaid wages]]></description>
+            <link>https://bdnews24.com/bangladesh/ceedfbce3adf</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ceedfbce3adf</guid>
+            <pubDate>Sat, 02 May 2026 19:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/chattagram-labour-strike-020526-01-1777723308.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[7 Bangladeshi pilgrims die as 41,000 reach Saudi]]></title>
             <description><![CDATA[[Bangladesh] 7 Bangladeshi pilgrims die as 41,000 reach Saudi]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/campus/cd3889b99db6</guid>
             <pubDate>Sat, 02 May 2026 14:14:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/du-bsl-protest-020526-1777707315.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lightning kills 72 as farmers bear the brunt: SSTF]]></title>
-            <description><![CDATA[[Bangladesh] Lightning kills 72 as farmers bear the brunt: SSTF]]></description>
-            <link>https://bdnews24.com/bangladesh/c479b62e65e8</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c479b62e65e8</guid>
-            <pubDate>Sat, 02 May 2026 14:13:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/lightning-01-100-1777709586.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran Nobel laureate Mohammadi hospitalised]]></title>
-            <description><![CDATA[[People] Iran Nobel laureate Mohammadi hospitalised]]></description>
-            <link>https://bdnews24.com/people/7cde7fbc8ff8</link>
-            <guid isPermaLink="true">https://bdnews24.com/people/7cde7fbc8ff8</guid>
-            <pubDate>Sat, 02 May 2026 14:10:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/iran-mohammadi-020526-1777709343.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran standoff risks turning into Trump’s bigger crisis]]></title>
-            <description><![CDATA[[World] Iran standoff risks turning into Trump’s bigger crisis]]></description>
-            <link>https://bdnews24.com/world/22492105bcf7</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/22492105bcf7</guid>
-            <pubDate>Sat, 02 May 2026 13:23:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/iran-standoff-trump-crisis-020526-01-1777706570.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
