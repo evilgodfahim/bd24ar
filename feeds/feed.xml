@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 02 May 2026 16:33:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 May 2026 17:34:42 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 02 May 2026 16:33:51 GMT</pubDate>
+        <pubDate>Sat, 02 May 2026 17:34:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bangladesh-India ties are 'brotherly': diplomat]]></title>
+            <description><![CDATA[[Bangladesh] Bangladesh-India ties are 'brotherly': diplomat]]></description>
+            <link>https://bdnews24.com/bangladesh/7f5a40595423</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7f5a40595423</guid>
+            <pubDate>Sat, 02 May 2026 23:24:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/lalmonirhat-indian-020526-01-1777736263.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[12 civil servants to attend training in Pakistan]]></title>
             <description><![CDATA[[Bangladesh] 12 civil servants to attend training in Pakistan]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/ceedfbce3adf</guid>
             <pubDate>Sat, 02 May 2026 19:03:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/chattagram-labour-strike-020526-01-1777723308.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[7 Bangladeshi pilgrims die as 41,000 reach Saudi]]></title>
-            <description><![CDATA[[Bangladesh] 7 Bangladeshi pilgrims die as 41,000 reach Saudi]]></description>
-            <link>https://bdnews24.com/bangladesh/726edc3404e0</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/726edc3404e0</guid>
-            <pubDate>Sat, 02 May 2026 18:32:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/haj-flight-saudi-arab-180426-01-1776499690.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
