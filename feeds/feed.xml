@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 02 May 2026 18:39:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 May 2026 19:45:00 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 02 May 2026 18:39:36 GMT</pubDate>
+        <pubDate>Sat, 02 May 2026 19:45:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Flash floods shatter Haor farmers’ dreams]]></title>
+            <description><![CDATA[[Bangladesh] Flash floods shatter Haor farmers’ dreams]]></description>
+            <link>https://bdnews24.com/bangladesh/8b54b1663e58</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8b54b1663e58</guid>
+            <pubDate>Sun, 03 May 2026 01:40:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/sunamgonj-haor-waterlagg-020526-01-1777750485.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Iran offers Strait deal, Trump dissatisfied]]></title>
             <description><![CDATA[[World] Iran offers Strait deal, Trump dissatisfied]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/c91affecc33d</guid>
             <pubDate>Sat, 02 May 2026 19:20:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/dc-confference-020526-01-1777726021.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tk 5tn 'laundered' in Awami League’s last 10 years: minister]]></title>
-            <description><![CDATA[[Bangladesh] Tk 5tn 'laundered' in Awami League’s last 10 years: minister]]></description>
-            <link>https://bdnews24.com/bangladesh/e49dbafee8b6</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e49dbafee8b6</guid>
-            <pubDate>Sat, 02 May 2026 19:16:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/tangail-azam-020526-01-1777721964.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
