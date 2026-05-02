@@ -4,10 +4,74 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 02 May 2026 08:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 May 2026 09:51:29 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 02 May 2026 08:16:02 GMT</pubDate>
+        <pubDate>Sat, 02 May 2026 09:51:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US bypasses Congress for $8.6bn arms sales]]></title>
+            <description><![CDATA[[World] US bypasses Congress for $8.6bn arms sales]]></description>
+            <link>https://bdnews24.com/world/0a73cb7bbeff</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/0a73cb7bbeff</guid>
+            <pubDate>Sat, 02 May 2026 15:46:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/patriot-missiles-020526-01-1777712194.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heavy rain looms over 4 divisions]]></title>
+            <description><![CDATA[[Bangladesh] Heavy rain looms over 4 divisions]]></description>
+            <link>https://bdnews24.com/bangladesh/364be67dc6b3</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/364be67dc6b3</guid>
+            <pubDate>Sat, 02 May 2026 15:43:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024May/SM/rain-dhaka-020524-1-1714675879.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reserved seat MPs to take oath Sunday]]></title>
+            <description><![CDATA[[Bangladesh] Reserved seat MPs to take oath Sunday]]></description>
+            <link>https://bdnews24.com/bangladesh/7c66c7818390</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7c66c7818390</guid>
+            <pubDate>Sat, 02 May 2026 15:26:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2022-07/0ecf19f0-3d5d-4414-8d97-e188e197d4c7/kidz_250722_02.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM opens river re-excavation work in Sylhet]]></title>
+            <description><![CDATA[[Bangladesh] PM opens river re-excavation work in Sylhet]]></description>
+            <link>https://bdnews24.com/bangladesh/abe0d345c339</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/abe0d345c339</guid>
+            <pubDate>Sat, 02 May 2026 15:17:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/tarique-rahman-020526-505-1777710645.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Group posing as law enforcers busted in Dhaka]]></title>
+            <description><![CDATA[[Bangladesh] Group posing as law enforcers busted in Dhaka]]></description>
+            <link>https://bdnews24.com/bangladesh/bb6bfbec02db</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/bb6bfbec02db</guid>
+            <pubDate>Sat, 02 May 2026 15:15:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/fake-rab-020526-01-1777712078.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Top criminals ‘hardly exist’: DMP chief]]></title>
+            <description><![CDATA[[Bangladesh] Top criminals ‘hardly exist’: DMP chief]]></description>
+            <link>https://bdnews24.com/bangladesh/6742780a756b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6742780a756b</guid>
+            <pubDate>Sat, 02 May 2026 15:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/dmp-comissioner-sarwar-020526-01-1777708398.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM vows better road, rail links with Sylhet]]></title>
+            <description><![CDATA[[Bangladesh] PM vows better road, rail links with Sylhet]]></description>
+            <link>https://bdnews24.com/bangladesh/137c12e72877</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/137c12e72877</guid>
+            <pubDate>Sat, 02 May 2026 14:39:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/tarique-rahman-020526-501-1777709149.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rain halts play in Mirpur]]></title>
+            <description><![CDATA[[Cricket] Rain halts play in Mirpur]]></description>
+            <link>https://bdnews24.com/cricket/89e65f73c0be</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/89e65f73c0be</guid>
+            <pubDate>Sat, 02 May 2026 14:29:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/rain-stadium-020526-01-1777711827.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[2 held after Chhatra League procession at DU]]></title>
             <description><![CDATA[[Campus] 2 held after Chhatra League procession at DU]]></description>
@@ -103,70 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/ec94d32802c2</guid>
             <pubDate>Sat, 02 May 2026 10:52:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/iran-cargo-ship-200426-01-1776654078.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI actors, writers will be ineligible for Oscars]]></title>
-            <description><![CDATA[[Entertainment] AI actors, writers will be ineligible for Oscars]]></description>
-            <link>https://bdnews24.com/entertainment/bfcccb819485</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/bfcccb819485</guid>
-            <pubDate>Sat, 02 May 2026 10:34:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/ai-logo-020526-1777696379.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump dissatisfied over Iran proposal]]></title>
-            <description><![CDATA[[World] Trump dissatisfied over Iran proposal]]></description>
-            <link>https://bdnews24.com/world/3d760f34e340</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/3d760f34e340</guid>
-            <pubDate>Sat, 02 May 2026 10:32:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/trump-280426-1777344301.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wall St seen higher on earnings, jobs outlook]]></title>
-            <description><![CDATA[[Economy] Wall St seen higher on earnings, jobs outlook]]></description>
-            <link>https://bdnews24.com/economy/38aec10a782b</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/38aec10a782b</guid>
-            <pubDate>Sat, 02 May 2026 10:29:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/wall-st-18426-1776486041.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Global markets tread water]]></title>
-            <description><![CDATA[[Business] Global markets tread water]]></description>
-            <link>https://bdnews24.com/business/0f32c4171597</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/0f32c4171597</guid>
-            <pubDate>Sat, 02 May 2026 10:26:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/trader-share-020526-1777695980.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japan PM Takaichi arrives in Hanoi for talks]]></title>
-            <description><![CDATA[[Asia Pacific] Japan PM Takaichi arrives in Hanoi for talks]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/b607e50cc8e5</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/b607e50cc8e5</guid>
-            <pubDate>Sat, 02 May 2026 10:23:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/japan-pm-020526-1777695786.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dollar set for sharp weekly loss versus yen]]></title>
-            <description><![CDATA[[Economy] Dollar set for sharp weekly loss versus yen]]></description>
-            <link>https://bdnews24.com/economy/a3a94815d52f</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/a3a94815d52f</guid>
-            <pubDate>Sat, 02 May 2026 10:13:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/dollar-vs-yen-020526-1777695117.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Babar Ali conquers deadly Makalu peak]]></title>
-            <description><![CDATA[[Bangladesh] Babar Ali conquers deadly Makalu peak]]></description>
-            <link>https://bdnews24.com/bangladesh/64aecadc0a19</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/64aecadc0a19</guid>
-            <pubDate>Sat, 02 May 2026 10:01:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/babar-ali-020526-01-1777692909.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mexico highway bus crash kills 11]]></title>
-            <description><![CDATA[[World] Mexico highway bus crash kills 11]]></description>
-            <link>https://bdnews24.com/world/4f0773a86b15</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/4f0773a86b15</guid>
-            <pubDate>Sat, 02 May 2026 09:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/mexico-bus-crash-020526-1777693787.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
