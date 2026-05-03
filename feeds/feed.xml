@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 May 2026 21:30:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 May 2026 22:28:43 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 03 May 2026 21:30:57 GMT</pubDate>
+        <pubDate>Sun, 03 May 2026 22:28:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Vinicius double keeps Real title hopes alive]]></title>
+            <description><![CDATA[[Sport] Vinicius double keeps Real title hopes alive]]></description>
+            <link>https://bdnews24.com/sport/0fee83957a9a</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/0fee83957a9a</guid>
+            <pubDate>Mon, 04 May 2026 03:30:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/real-madrid-040426-01-1777843787.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Inter clinch title with 2-0 victory over Parma]]></title>
             <description><![CDATA[[Sport] Inter clinch title with 2-0 victory over Parma]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/c7c75ab71b3c</guid>
             <pubDate>Sun, 03 May 2026 22:24:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/lakshmi-mittal-030426-01-1777825474.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[OPEC+ agrees third oil output hike]]></title>
-            <description><![CDATA[[Business] OPEC+ agrees third oil output hike]]></description>
-            <link>https://bdnews24.com/business/b7aa2783d744</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/b7aa2783d744</guid>
-            <pubDate>Sun, 03 May 2026 22:08:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/strait-of-hormuz-030426-01-1777824474.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
