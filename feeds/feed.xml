@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 May 2026 15:35:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 May 2026 16:34:28 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 03 May 2026 15:35:54 GMT</pubDate>
+        <pubDate>Sun, 03 May 2026 16:34:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[49 MPs sworn into reserved seats]]></title>
+            <description><![CDATA[[Politics] 49 MPs sworn into reserved seats]]></description>
+            <link>https://bdnews24.com/politics/2cebe19e292c</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/2cebe19e292c</guid>
+            <pubDate>Sun, 03 May 2026 22:29:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/women-mp-oath-030526-01-1777823295.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shapla Chattar violence left ‘32 dead’: probe]]></title>
+            <description><![CDATA[[Bangladesh] Shapla Chattar violence left ‘32 dead’: probe]]></description>
+            <link>https://bdnews24.com/bangladesh/c58fb889a594</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c58fb889a594</guid>
+            <pubDate>Sun, 03 May 2026 22:27:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025March/SM/shapla-chattar-12032025-1741773168.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mittal, Poonawalla seal $1.65bn IPL franchise]]></title>
+            <description><![CDATA[[Sport] Mittal, Poonawalla seal $1.65bn IPL franchise]]></description>
+            <link>https://bdnews24.com/sport/c7c75ab71b3c</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/c7c75ab71b3c</guid>
+            <pubDate>Sun, 03 May 2026 22:24:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/lakshmi-mittal-030426-01-1777825474.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[OPEC+ agrees third oil output hike]]></title>
+            <description><![CDATA[[Business] OPEC+ agrees third oil output hike]]></description>
+            <link>https://bdnews24.com/business/b7aa2783d744</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/b7aa2783d744</guid>
+            <pubDate>Sun, 03 May 2026 22:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/strait-of-hormuz-030426-01-1777824474.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[6 jailed for life over BNP leader’s murder in Dhaka]]></title>
+            <description><![CDATA[[Bangladesh] 6 jailed for life over BNP leader’s murder in Dhaka]]></description>
+            <link>https://bdnews24.com/bangladesh/d1fda7aa92d1</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d1fda7aa92d1</guid>
+            <pubDate>Sun, 03 May 2026 21:53:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025October/SM/saju-killing-case-291025-01-1761735431.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[2 US troops missing during African Lion exercise]]></title>
+            <description><![CDATA[[World] 2 US troops missing during African Lion exercise]]></description>
+            <link>https://bdnews24.com/world/96aabc650ac0</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/96aabc650ac0</guid>
+            <pubDate>Sun, 03 May 2026 21:53:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/us-troops-missing-03052026-01-1777823502.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[No primary teacher candidates will be left out: minister]]></title>
+            <description><![CDATA[[Education] No primary teacher candidates will be left out: minister]]></description>
+            <link>https://bdnews24.com/education/16f629d77329</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/16f629d77329</guid>
+            <pubDate>Sun, 03 May 2026 21:45:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/ehsanul-haque-milon-edu-minister-030526-1777815971.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Remittance tops $3bn for five straight months]]></title>
             <description><![CDATA[[Economy] Remittance tops $3bn for five straight months]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/408aebe5eb49</guid>
             <pubDate>Sun, 03 May 2026 19:20:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/hezbollah-steep-price-03052026-01-1777814430.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[High labour costs, floods hit Kishoreganj Haor farms]]></title>
-            <description><![CDATA[[Bangladesh] High labour costs, floods hit Kishoreganj Haor farms]]></description>
-            <link>https://bdnews24.com/bangladesh/eee376d8a0b4</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/eee376d8a0b4</guid>
-            <pubDate>Sun, 03 May 2026 19:17:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/kishoreganj-hawor-paddy-030526-01-1777809557.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Customers lock Ctg merged banks in protest]]></title>
-            <description><![CDATA[[Bangladesh] Customers lock Ctg merged banks in protest]]></description>
-            <link>https://bdnews24.com/bangladesh/d9db806d2730</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d9db806d2730</guid>
-            <pubDate>Sun, 03 May 2026 19:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/chattagram-bank-protest-030526-01-1777808696.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[81% children covered by measles vaccines: minister]]></title>
-            <description><![CDATA[[Health] 81% children covered by measles vaccines: minister]]></description>
-            <link>https://bdnews24.com/health/69e7587483a5</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/69e7587483a5</guid>
-            <pubDate>Sun, 03 May 2026 18:46:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/shakhawat-hossain-bakul-health-minister-030526-1777812328.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heatwave, storms forecast in May]]></title>
-            <description><![CDATA[[Bangladesh] Heatwave, storms forecast in May]]></description>
-            <link>https://bdnews24.com/bangladesh/085bb51e3511</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/085bb51e3511</guid>
-            <pubDate>Sun, 03 May 2026 18:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025May/SM/khulna-cyclone-badh-241022-03-1746086420.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fatal Sylhet crash shatters family dreams]]></title>
-            <description><![CDATA[[Bangladesh] Fatal Sylhet crash shatters family dreams]]></description>
-            <link>https://bdnews24.com/bangladesh/39119f72b555</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/39119f72b555</guid>
-            <pubDate>Sun, 03 May 2026 18:13:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/sylhet-eight-dead-pandab-030526-01-1777806604.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Driver fatigue behind Sylhet crash: Fire Service]]></title>
-            <description><![CDATA[[Bangladesh] Driver fatigue behind Sylhet crash: Fire Service]]></description>
-            <link>https://bdnews24.com/bangladesh/25f854f9b252</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/25f854f9b252</guid>
-            <pubDate>Sun, 03 May 2026 18:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/sylhet-eight-dead-pandab-030526-05-1777806622.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shots fired on commissioner’s order: July witness]]></title>
-            <description><![CDATA[[Bangladesh] Shots fired on commissioner’s order: July witness]]></description>
-            <link>https://bdnews24.com/bangladesh/8adb6c8fc7f0</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8adb6c8fc7f0</guid>
-            <pubDate>Sun, 03 May 2026 17:52:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/imam-hasan-taim-220226-03-1771756299.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
