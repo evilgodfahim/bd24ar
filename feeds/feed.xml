@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 May 2026 17:36:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 May 2026 18:39:51 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 03 May 2026 17:36:47 GMT</pubDate>
+        <pubDate>Sun, 03 May 2026 18:39:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Major shipment of 10 vaccine types arriving soon]]></title>
+            <description><![CDATA[[Health] Major shipment of 10 vaccine types arriving soon]]></description>
+            <link>https://bdnews24.com/health/863aa4767a72</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/863aa4767a72</guid>
+            <pubDate>Mon, 04 May 2026 00:33:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/measles-vaccine-130426-01-1776069424.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sinner storms past Zverev in 57-minute masterclass]]></title>
+            <description><![CDATA[[Sport] Sinner storms past Zverev in 57-minute masterclass]]></description>
+            <link>https://bdnews24.com/sport/d4b6132e64dc</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/d4b6132e64dc</guid>
+            <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/jannik-sinner-030426-01-1777831202.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[United sink rivals Liverpool 3-2]]></title>
+            <description><![CDATA[[Sport] United sink rivals Liverpool 3-2]]></description>
+            <link>https://bdnews24.com/sport/52d50d9b9fd6</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/52d50d9b9fd6</guid>
+            <pubDate>Sun, 03 May 2026 23:44:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/kobbie-mainoo-030426-01-1777830237.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[2 women die in Channel crossing attempt]]></title>
             <description><![CDATA[[World] 2 women die in Channel crossing attempt]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/media-en/image/194fc123a019</guid>
             <pubDate>Sun, 03 May 2026 19:55:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/rain-du-030526-033-1777810037.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[April exports rebound 33% after 8-month fall]]></title>
-            <description><![CDATA[[Business] April exports rebound 33% after 8-month fall]]></description>
-            <link>https://bdnews24.com/business/4948ffb6247d</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/4948ffb6247d</guid>
-            <pubDate>Sun, 03 May 2026 19:53:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025June/SM/chittagong-port-container-handling-16062025-1750086065.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shakira concert draws 2mn fans in Rio]]></title>
-            <description><![CDATA[[Entertainment] Shakira concert draws 2mn fans in Rio]]></description>
-            <link>https://bdnews24.com/entertainment/60317243d4a0</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/60317243d4a0</guid>
-            <pubDate>Sun, 03 May 2026 19:46:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/shakira-concert-030426-01-1777815896.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel extends Gaza flotilla activists’ detention]]></title>
-            <description><![CDATA[[World] Israel extends Gaza flotilla activists’ detention]]></description>
-            <link>https://bdnews24.com/world/9e64447beffd</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/9e64447beffd</guid>
-            <pubDate>Sun, 03 May 2026 19:41:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/israel-activist-detention-03052026-01-1777815554.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
