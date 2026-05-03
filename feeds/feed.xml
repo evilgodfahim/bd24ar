@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 May 2026 16:34:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 May 2026 17:36:47 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 03 May 2026 16:34:28 GMT</pubDate>
+        <pubDate>Sun, 03 May 2026 17:36:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[2 women die in Channel crossing attempt]]></title>
+            <description><![CDATA[[World] 2 women die in Channel crossing attempt]]></description>
+            <link>https://bdnews24.com/world/2188e2757fc8</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/2188e2757fc8</guid>
+            <pubDate>Sun, 03 May 2026 22:40:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/women-die-channel-03052026-01-1777826418.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rubio to meet with Pope Leo]]></title>
+            <description><![CDATA[[World] Rubio to meet with Pope Leo]]></description>
+            <link>https://bdnews24.com/world/9a5f24d4419a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/9a5f24d4419a</guid>
+            <pubDate>Sun, 03 May 2026 22:37:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/rubio-meet-pope-03052026-01-1777826255.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[2 die in southern England explosion: police]]></title>
+            <description><![CDATA[[World] 2 die in southern England explosion: police]]></description>
+            <link>https://bdnews24.com/world/14bcaa581ca2</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/14bcaa581ca2</guid>
+            <pubDate>Sun, 03 May 2026 22:34:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/england-explosion-death-03052026-01-1777826079.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[49 MPs sworn into reserved seats]]></title>
             <description><![CDATA[[Politics] 49 MPs sworn into reserved seats]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/9e64447beffd</guid>
             <pubDate>Sun, 03 May 2026 19:41:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/israel-activist-detention-03052026-01-1777815554.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Manfuza Chowdhury becomes Radisson Blu’s assistant director of marketing]]></title>
-            <description><![CDATA[[Business] Manfuza Chowdhury becomes Radisson Blu’s assistant director of marketing]]></description>
-            <link>https://bdnews24.com/business/c7a03dbab70d</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/c7a03dbab70d</guid>
-            <pubDate>Sun, 03 May 2026 19:38:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/radisson-03052026-1777815426.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kartik return lifts Chennai's youth push in IPL]]></title>
-            <description><![CDATA[[Cricket] Kartik return lifts Chennai's youth push in IPL]]></description>
-            <link>https://bdnews24.com/cricket/3007e39daa82</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/3007e39daa82</guid>
-            <pubDate>Sun, 03 May 2026 19:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/kartik-sharma-030426-01-1777814900.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hezbollah pays steep price to reverse its fortunes]]></title>
-            <description><![CDATA[[World] Hezbollah pays steep price to reverse its fortunes]]></description>
-            <link>https://bdnews24.com/world/408aebe5eb49</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/408aebe5eb49</guid>
-            <pubDate>Sun, 03 May 2026 19:20:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/hezbollah-steep-price-03052026-01-1777814430.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
