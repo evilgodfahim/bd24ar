@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 04 May 2026 20:08:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2026 21:50:34 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 04 May 2026 20:08:53 GMT</pubDate>
+        <pubDate>Mon, 04 May 2026 21:50:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Doku rescues draw but City title hopes fade]]></title>
+            <description><![CDATA[[Sport] Doku rescues draw but City title hopes fade]]></description>
+            <link>https://bdnews24.com/sport/2ec2b2e6391c</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/2ec2b2e6391c</guid>
+            <pubDate>Tue, 05 May 2026 03:39:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/man-city-050426-01-1777930652.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[West Bengal turns saffron in historic BJP sweep]]></title>
+            <description><![CDATA[[Neighbours] West Bengal turns saffron in historic BJP sweep]]></description>
+            <link>https://bdnews24.com/neighbours/172f0685826e</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/172f0685826e</guid>
+            <pubDate>Tue, 05 May 2026 02:25:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/west-bangal-bjp-040526-101-1777923579.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Odegaard, Havertz fit for Atletico tie: Arteta]]></title>
             <description><![CDATA[[Sport] Odegaard, Havertz fit for Atletico tie: Arteta]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/neighbours/6adff5c8f5ca</guid>
             <pubDate>Mon, 04 May 2026 22:26:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/bjp-big-gains-04052026-01-1777911896.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vijay eyes historic breakthrough in Tamil Nadu polls]]></title>
-            <description><![CDATA[[Neighbours] Vijay eyes historic breakthrough in Tamil Nadu polls]]></description>
-            <link>https://bdnews24.com/neighbours/0f1cc2526c5c</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/0f1cc2526c5c</guid>
-            <pubDate>Mon, 04 May 2026 22:08:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/vijoi-040526-01-1777903860.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ron Haque Sikder dies in Dubai]]></title>
-            <description><![CDATA[[Bangladesh] Ron Haque Sikder dies in Dubai]]></description>
-            <link>https://bdnews24.com/bangladesh/49dde3ea089d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/49dde3ea089d</guid>
-            <pubDate>Mon, 04 May 2026 22:00:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/ron-haque-sikder-sikder-group-040526-1777910373.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
