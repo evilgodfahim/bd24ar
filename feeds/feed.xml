@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 04 May 2026 10:52:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2026 12:16:04 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 04 May 2026 10:52:33 GMT</pubDate>
+        <pubDate>Mon, 04 May 2026 12:16:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Tensions flare over Ctg Bar nomination access]]></title>
+            <description><![CDATA[[Bangladesh] Tensions flare over Ctg Bar nomination access]]></description>
+            <link>https://bdnews24.com/bangladesh/0744be368d90</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0744be368d90</guid>
+            <pubDate>Mon, 04 May 2026 18:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/chattogram-bar-council-election-040526-01-1777892298.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eastern University hosts workshop on human trafficking]]></title>
+            <description><![CDATA[[Campus] Eastern University hosts workshop on human trafficking]]></description>
+            <link>https://bdnews24.com/campus/45711c8f7a07</link>
+            <guid isPermaLink="true">https://bdnews24.com/campus/45711c8f7a07</guid>
+            <pubDate>Mon, 04 May 2026 18:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/eastern-university-040526-1777896590.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Measles: 17 more children die]]></title>
+            <description><![CDATA[[Health] Measles: 17 more children die]]></description>
+            <link>https://bdnews24.com/health/6d097fc67563</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/6d097fc67563</guid>
+            <pubDate>Mon, 04 May 2026 18:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/measles-patient-dncc-210426-003-1776799530.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[40 held in DMCH anti-broker drive]]></title>
+            <description><![CDATA[[Bangladesh] 40 held in DMCH anti-broker drive]]></description>
+            <link>https://bdnews24.com/bangladesh/af517564ba5d</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/af517564ba5d</guid>
+            <pubDate>Mon, 04 May 2026 17:32:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/pharmaceutical-company-representative-arrest-040526-013-1777890052.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Can’t find a hospital bed,’ mother laments]]></title>
+            <description><![CDATA[[Bangladesh] ‘Can’t find a hospital bed,’ mother laments]]></description>
+            <link>https://bdnews24.com/bangladesh/778b66bc8947</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/778b66bc8947</guid>
+            <pubDate>Mon, 04 May 2026 17:01:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/bangladesh-children-hospital-alif-040526-02-1777889579.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[7 rivers flowing above danger level]]></title>
             <description><![CDATA[[Bangladesh] 7 rivers flowing above danger level]]></description>
@@ -17,8 +57,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/netrokona-rain-300426-02-1777525535.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[DIU to host 2026 IAUP conference]]></title>
-            <description><![CDATA[[Campus] DIU to host 2026 IAUP conference]]></description>
+            <title><![CDATA[Daffodil University to host 2026 IAUP conference]]></title>
+            <description><![CDATA[[Campus] Daffodil University to host 2026 IAUP conference]]></description>
             <link>https://bdnews24.com/campus/fbef545ecbe8</link>
             <guid isPermaLink="true">https://bdnews24.com/campus/fbef545ecbe8</guid>
             <pubDate>Mon, 04 May 2026 15:49:00 GMT</pubDate>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/7d19ebd64241</guid>
             <pubDate>Mon, 04 May 2026 11:42:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024July/SM/high-court-mm-1722173343.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Another child with ‘measles’ dies at Mymensingh Medical]]></title>
-            <description><![CDATA[[Health] Another child with ‘measles’ dies at Mymensingh Medical]]></description>
-            <link>https://bdnews24.com/health/0b968d0302ac</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/0b968d0302ac</guid>
-            <pubDate>Mon, 04 May 2026 10:53:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/mymensingh-haam-death-040526-01-1777865327.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Limon’s body lands in Dhaka]]></title>
-            <description><![CDATA[[Bangladesh] Limon’s body lands in Dhaka]]></description>
-            <link>https://bdnews24.com/bangladesh/662d05484f17</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/662d05484f17</guid>
-            <pubDate>Mon, 04 May 2026 10:25:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/limon-deadbody-dhaka-040526-01-1777869714.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fireworks as Inter reclaim Serie A throne]]></title>
-            <description><![CDATA[[Sport] Fireworks as Inter reclaim Serie A throne]]></description>
-            <link>https://bdnews24.com/sport/6dbc5914fa88</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/6dbc5914fa88</guid>
-            <pubDate>Mon, 04 May 2026 10:21:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/inter-serie-a-celebrations-040526-01-1777868436.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2 die in Tangail road accident]]></title>
-            <description><![CDATA[[Bangladesh] 2 die in Tangail road accident]]></description>
-            <link>https://bdnews24.com/bangladesh/7a797c9949cc</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7a797c9949cc</guid>
-            <pubDate>Mon, 04 May 2026 10:18:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/tangail-dead-040526-1777866647.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Antonelli wins Miami as Mercedes stretches F1 lead]]></title>
-            <description><![CDATA[[Sport] Antonelli wins Miami as Mercedes stretches F1 lead]]></description>
-            <link>https://bdnews24.com/sport/56b98ff2ae71</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/56b98ff2ae71</guid>
-            <pubDate>Mon, 04 May 2026 10:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/antonelli-f1-miami-040526-01-1777867668.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
