@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 04 May 2026 16:46:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2026 18:08:58 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 04 May 2026 16:46:29 GMT</pubDate>
+        <pubDate>Mon, 04 May 2026 18:08:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[130 Nigerians seek repatriation from South Africa: Abuja]]></title>
+            <description><![CDATA[[World] 130 Nigerians seek repatriation from South Africa: Abuja]]></description>
+            <link>https://bdnews24.com/world/dd54921f5384</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/dd54921f5384</guid>
+            <pubDate>Mon, 04 May 2026 23:40:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/nigerian-repatriation-04052026-01-1777916360.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Power suppliers hesitate over Venezuela grid repairs]]></title>
+            <description><![CDATA[[World] Power suppliers hesitate over Venezuela grid repairs]]></description>
+            <link>https://bdnews24.com/world/0cba80fd203f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/0cba80fd203f</guid>
+            <pubDate>Mon, 04 May 2026 23:24:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/venezuela-power-04052026-01-1777915368.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[FIFA faces WC broadcast crisis in India, China]]></title>
+            <description><![CDATA[[World] FIFA faces WC broadcast crisis in India, China]]></description>
+            <link>https://bdnews24.com/world/f3125aeca021</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/f3125aeca021</guid>
+            <pubDate>Mon, 04 May 2026 23:16:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/wc-boradcast-crisis-04052026-01-1777914883.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Korean ship on fire in Hormuz, Iran hits UAE oil port]]></title>
+            <description><![CDATA[[World] Korean ship on fire in Hormuz, Iran hits UAE oil port]]></description>
+            <link>https://bdnews24.com/world/a0743ce4e405</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/a0743ce4e405</guid>
+            <pubDate>Mon, 04 May 2026 23:13:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/ship-fire-hormuz-04052026-01-1777914730.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BGB on alert as Indian states count vote]]></title>
+            <description><![CDATA[[Bangladesh] BGB on alert as Indian states count vote]]></description>
+            <link>https://bdnews24.com/bangladesh/2d3cc68a1cc3</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2d3cc68a1cc3</guid>
+            <pubDate>Mon, 04 May 2026 23:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/rajshahi-bgb-070220-01-1777911371.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Evacuations planned as ‘hantavirus outbreak’ traps 150 on ship]]></title>
             <description><![CDATA[[World] Evacuations planned as ‘hantavirus outbreak’ traps 150 on ship]]></description>
@@ -73,8 +113,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/fm-pranay-verma-040526-02-1777908286.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Dhaka to host US team amid RTA controversy]]></title>
-            <description><![CDATA[[Business] Dhaka to host US team amid RTA controversy]]></description>
+            <title><![CDATA[Dhaka to host US team amid ART controversy]]></title>
+            <description><![CDATA[[Business] Dhaka to host US team amid ART controversy]]></description>
             <link>https://bdnews24.com/business/8d46dd1bf64c</link>
             <guid isPermaLink="true">https://bdnews24.com/business/8d46dd1bf64c</guid>
             <pubDate>Mon, 04 May 2026 21:17:00 GMT</pubDate>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/f162213ae41e</guid>
             <pubDate>Mon, 04 May 2026 20:00:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/man-arrested-in-abduction-case-042526-1777900746.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mymensingh road crash toll hits 4]]></title>
-            <description><![CDATA[[Bangladesh] Mymensingh road crash toll hits 4]]></description>
-            <link>https://bdnews24.com/bangladesh/8ac05a18613b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8ac05a18613b</guid>
-            <pubDate>Mon, 04 May 2026 19:56:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/mymensingh-accident-040526-01-1777896741.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fuel Pass mandatory at 68 Dhaka filling stations]]></title>
-            <description><![CDATA[[Bangladesh] Fuel Pass mandatory at 68 Dhaka filling stations]]></description>
-            <link>https://bdnews24.com/bangladesh/e0a591ce5824</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e0a591ce5824</guid>
-            <pubDate>Mon, 04 May 2026 19:30:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/fuel-crisis-filling-stations-080326-051-1772973758.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[100,000 flood-hit Haor families to get aid: Dulu]]></title>
-            <description><![CDATA[[Bangladesh] 100,000 flood-hit Haor families to get aid: Dulu]]></description>
-            <link>https://bdnews24.com/bangladesh/23e7aeb812e8</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/23e7aeb812e8</guid>
-            <pubDate>Mon, 04 May 2026 19:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/ahsan-habib-dulu-state-min-040526-1777899574.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Law minister against SC judges’ retirement age cut]]></title>
-            <description><![CDATA[[Bangladesh] Law minister against SC judges’ retirement age cut]]></description>
-            <link>https://bdnews24.com/bangladesh/0ad3cde9f5f7</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0ad3cde9f5f7</guid>
-            <pubDate>Mon, 04 May 2026 19:12:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024July/SM/high-court-supreme-court-1720703894-1721132090.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[IUB coach earns WSF Level-2 certification]]></title>
-            <description><![CDATA[[Campus] IUB coach earns WSF Level-2 certification]]></description>
-            <link>https://bdnews24.com/campus/12f5f82a0fa4</link>
-            <guid isPermaLink="true">https://bdnews24.com/campus/12f5f82a0fa4</guid>
-            <pubDate>Mon, 04 May 2026 18:52:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/4x3-wsf-level-2-squash-news-1-1777899119.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
