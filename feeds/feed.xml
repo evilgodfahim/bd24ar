@@ -4,10 +4,90 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 May 2026 04:50:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 07:09:48 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 05 May 2026 04:50:31 GMT</pubDate>
+        <pubDate>Tue, 05 May 2026 07:09:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Talk of ‘reinforcing manpower’ for Army at DC conference]]></title>
+            <description><![CDATA[[Bangladesh] Talk of ‘reinforcing manpower’ for Army at DC conference]]></description>
+            <link>https://bdnews24.com/bangladesh/834761e66886</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/834761e66886</guid>
+            <pubDate>Tue, 05 May 2026 12:52:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/dc-conf-050526-1777963923.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Protesters torch trucks after pedestrian run over in Rajshahi]]></title>
+            <description><![CDATA[[Bangladesh] Protesters torch trucks after pedestrian run over in Rajshahi]]></description>
+            <link>https://bdnews24.com/bangladesh/589539d8af39</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/589539d8af39</guid>
+            <pubDate>Tue, 05 May 2026 12:36:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/rajshahi-accidant-050526-01-1777958345.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US readies visa sanctions on China over migrants issue]]></title>
+            <description><![CDATA[[Asia Pacific] US readies visa sanctions on China over migrants issue]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/df6fe6b77e50</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/df6fe6b77e50</guid>
+            <pubDate>Tue, 05 May 2026 12:11:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/china-migrant-boy-050526-1777961375.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Measles deaths hit 25 at Mymensingh hospital]]></title>
+            <description><![CDATA[[Health] Measles deaths hit 25 at Mymensingh hospital]]></description>
+            <link>https://bdnews24.com/health/65c0c7a1895c</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/65c0c7a1895c</guid>
+            <pubDate>Tue, 05 May 2026 11:43:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/mymensing-hum-050526-01-1777957360.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Naria hospital stuck in legal row, theft hits unused facility]]></title>
+            <description><![CDATA[[Bangladesh] Naria hospital stuck in legal row, theft hits unused facility]]></description>
+            <link>https://bdnews24.com/bangladesh/b9285a6c8383</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b9285a6c8383</guid>
+            <pubDate>Tue, 05 May 2026 11:31:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/shariarpur-hospital-040526-01-1777952398.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Colorado firebomb attack suspect to plead guilty to hate crimes]]></title>
+            <description><![CDATA[[Americas] Colorado firebomb attack suspect to plead guilty to hate crimes]]></description>
+            <link>https://bdnews24.com/world/americas/534270aab20c</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/534270aab20c</guid>
+            <pubDate>Tue, 05 May 2026 11:11:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025June/SM/colorado-attack-020625-01-1748833642.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Musk settles SEC lawsuit over Twitter disclosures]]></title>
+            <description><![CDATA[[Business] Musk settles SEC lawsuit over Twitter disclosures]]></description>
+            <link>https://bdnews24.com/business/76dc884e66d4</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/76dc884e66d4</guid>
+            <pubDate>Tue, 05 May 2026 11:07:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/x-logo-050526-01-1777957653.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Drone damaged Ukraine nuclear plant: IAEA]]></title>
+            <description><![CDATA[[Europe] Drone damaged Ukraine nuclear plant: IAEA]]></description>
+            <link>https://bdnews24.com/world/europe/a7d5e90eef72</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/a7d5e90eef72</guid>
+            <pubDate>Tue, 05 May 2026 10:56:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/ukraine-nuclear-plant-attack-050526-01-1777956863.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shares slide, oil prices elevate over Iran war]]></title>
+            <description><![CDATA[[Economy] Shares slide, oil prices elevate over Iran war]]></description>
+            <link>https://bdnews24.com/economy/4fc118b69865</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/4fc118b69865</guid>
+            <pubDate>Tue, 05 May 2026 10:52:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/china-10226-1770692625.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran would be ‘blown off the Earth’: Trump]]></title>
+            <description><![CDATA[[World] Iran would be ‘blown off the Earth’: Trump]]></description>
+            <link>https://bdnews24.com/world/372a89960eb5</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/372a89960eb5</guid>
+            <pubDate>Tue, 05 May 2026 10:52:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/donald-trump-050526-01-1777956318.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[3 killed as plane crashes into building in Brazil]]></title>
             <description><![CDATA[[Americas] 3 killed as plane crashes into building in Brazil]]></description>
@@ -87,86 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/americas/e1d82b78e276</guid>
             <pubDate>Tue, 05 May 2026 09:37:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/white-house-gunfire-050526-01-1777952164.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2 killed, multiple injured after car hits bystanders in Leipzig]]></title>
-            <description><![CDATA[[Europe] 2 killed, multiple injured after car hits bystanders in Leipzig]]></description>
-            <link>https://bdnews24.com/world/europe/321c97b137bc</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/321c97b137bc</guid>
-            <pubDate>Tue, 05 May 2026 09:17:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/leipzig-germany-accident-050526-01-1777951016.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump undertakes sweeping makeover of White House]]></title>
-            <description><![CDATA[[Americas] Trump undertakes sweeping makeover of White House]]></description>
-            <link>https://bdnews24.com/world/americas/886c110505b5</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/886c110505b5</guid>
-            <pubDate>Tue, 05 May 2026 09:10:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/trump-wh-makeover-050526-01-1777950543.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US military escorts Maersk ship through Hormuz]]></title>
-            <description><![CDATA[[World] US military escorts Maersk ship through Hormuz]]></description>
-            <link>https://bdnews24.com/world/069bc01f4280</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/069bc01f4280</guid>
-            <pubDate>Tue, 05 May 2026 08:58:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/maersk-vessel-050526-1777949865.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[IMF chief warns of ‘much worse outcome’ if war drags on]]></title>
-            <description><![CDATA[[World] IMF chief warns of ‘much worse outcome’ if war drags on]]></description>
-            <link>https://bdnews24.com/world/649656142954</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/649656142954</guid>
-            <pubDate>Tue, 05 May 2026 08:47:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/imf-chief-050526-1777949187.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[21 killed in China fireworks factory blast]]></title>
-            <description><![CDATA[[Asia Pacific] 21 killed in China fireworks factory blast]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/1da479cab872</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/1da479cab872</guid>
-            <pubDate>Tue, 05 May 2026 08:38:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/china-factory-bast-050526-1777948616.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fresh attacks as US, Iran wrestle for Gulf control]]></title>
-            <description><![CDATA[[World] Fresh attacks as US, Iran wrestle for Gulf control]]></description>
-            <link>https://bdnews24.com/world/a7fc88dd2674</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/a7fc88dd2674</guid>
-            <pubDate>Tue, 05 May 2026 08:31:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/bandar-abbas-050526-1777948206.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Doku rescues draw but City title hopes fade]]></title>
-            <description><![CDATA[[Sport] Doku rescues draw but City title hopes fade]]></description>
-            <link>https://bdnews24.com/sport/2ec2b2e6391c</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/2ec2b2e6391c</guid>
-            <pubDate>Tue, 05 May 2026 03:39:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/man-city-050426-01-1777930652.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[West Bengal turns saffron in historic BJP sweep]]></title>
-            <description><![CDATA[[Neighbours] West Bengal turns saffron in historic BJP sweep]]></description>
-            <link>https://bdnews24.com/neighbours/172f0685826e</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/172f0685826e</guid>
-            <pubDate>Tue, 05 May 2026 02:25:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/west-bangal-bjp-040526-101-1777923579.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Odegaard, Havertz fit for Atletico tie: Arteta]]></title>
-            <description><![CDATA[[Sport] Odegaard, Havertz fit for Atletico tie: Arteta]]></description>
-            <link>https://bdnews24.com/sport/8c7962777135</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/8c7962777135</guid>
-            <pubDate>Tue, 05 May 2026 02:07:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/mikel-arteta-050426-01-1777925171.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[FIFA hands Alves 5-year ban over harassment]]></title>
-            <description><![CDATA[[Sport] FIFA hands Alves 5-year ban over harassment]]></description>
-            <link>https://bdnews24.com/sport/985ff5c0e960</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/985ff5c0e960</guid>
-            <pubDate>Tue, 05 May 2026 02:05:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2024November/SM/fifa-logo-111124-01-1731294805.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
