@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 May 2026 20:49:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 21:50:18 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 05 May 2026 20:49:49 GMT</pubDate>
+        <pubDate>Tue, 05 May 2026 21:50:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Saka fires Arsenal into UCL final]]></title>
+            <description><![CDATA[[Sport] Saka fires Arsenal into UCL final]]></description>
+            <link>https://bdnews24.com/sport/faab7705af81</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/faab7705af81</guid>
+            <pubDate>Wed, 06 May 2026 03:32:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/arsenal-ucl-060426-01-1778016618.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fox Sports hiring 'World Cup Watcher' for $50,000]]></title>
+            <description><![CDATA[[Sport] Fox Sports hiring 'World Cup Watcher' for $50,000]]></description>
+            <link>https://bdnews24.com/sport/542fbf8b973c</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/542fbf8b973c</guid>
+            <pubDate>Wed, 06 May 2026 02:59:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/fox-sports-060426-01-1778014752.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[City slate ‘racist abuse’ of Semenyo, Guehi at Everton]]></title>
             <description><![CDATA[[Sport] City slate ‘racist abuse’ of Semenyo, Guehi at Everton]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/business/7158b75da1ee</guid>
             <pubDate>Tue, 05 May 2026 23:12:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026January/SM/united-islam-bank-010126-01-1767282906.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Italy envoy meets defence advisor]]></title>
-            <description><![CDATA[[Bangladesh] Italy envoy meets defence advisor]]></description>
-            <link>https://bdnews24.com/bangladesh/14de5a2b17a4</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/14de5a2b17a4</guid>
-            <pubDate>Tue, 05 May 2026 23:08:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/italy-envoy-1778000879.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran hit by Gholizadeh injury before World Cup]]></title>
-            <description><![CDATA[[Sport] Iran hit by Gholizadeh injury before World Cup]]></description>
-            <link>https://bdnews24.com/sport/20dcc76e9797</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/20dcc76e9797</guid>
-            <pubDate>Tue, 05 May 2026 23:05:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/ali-gholizadeh-050426-01-1778000639.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
