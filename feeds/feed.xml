@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 06 May 2026 19:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 21:00:19 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 06 May 2026 19:16:53 GMT</pubDate>
+        <pubDate>Wed, 06 May 2026 21:00:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Broken harvest, drowned hopes in Haor lands]]></title>
+            <description><![CDATA[[Bangladesh] Broken harvest, drowned hopes in Haor lands]]></description>
+            <link>https://bdnews24.com/bangladesh/be6668c4a712</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/be6668c4a712</guid>
+            <pubDate>Thu, 07 May 2026 01:49:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/sunamgonj-haor-paddy-cut-060526-01-1778096634.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brazil sees first indigenous pro football team]]></title>
+            <description><![CDATA[[Sport] Brazil sees first indigenous pro football team]]></description>
+            <link>https://bdnews24.com/sport/5879274371a8</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/5879274371a8</guid>
+            <pubDate>Thu, 07 May 2026 01:18:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/clube-originarios-070426-01-1778095023.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Lightning kills 4 in Mymensingh, Naogaon]]></title>
             <description><![CDATA[[Bangladesh] Lightning kills 4 in Mymensingh, Naogaon]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/politics/ae40a640591c</guid>
             <pubDate>Wed, 06 May 2026 22:04:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/mirza-abbas-malaysia-hospital-060526-01-1778079620.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[IPL final moved to Ahmedabad]]></title>
-            <description><![CDATA[[Sport] IPL final moved to Ahmedabad]]></description>
-            <link>https://bdnews24.com/sport/1e0ecc9d4950</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/1e0ecc9d4950</guid>
-            <pubDate>Wed, 06 May 2026 22:02:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/ipl-final-060426-01-1778083273.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[FIFA extends Prestianni ban worldwide]]></title>
-            <description><![CDATA[[Sport] FIFA extends Prestianni ban worldwide]]></description>
-            <link>https://bdnews24.com/sport/a5cec6ca8266</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/a5cec6ca8266</guid>
-            <pubDate>Wed, 06 May 2026 21:38:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/gianluca-prestianni-060426-01-1778081821.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
