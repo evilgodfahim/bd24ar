@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 06 May 2026 10:53:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 12:21:25 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 06 May 2026 10:53:37 GMT</pubDate>
+        <pubDate>Wed, 06 May 2026 12:21:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Inflation climbs back into 9% zone]]></title>
+            <description><![CDATA[[Economy] Inflation climbs back into 9% zone]]></description>
+            <link>https://bdnews24.com/economy/15d474599563</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/15d474599563</guid>
+            <pubDate>Wed, 06 May 2026 18:18:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024May/SM/tcb-lalbagh-100623-05-1715628545.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[German woman on hantavirus-hit ship to be tested]]></title>
+            <description><![CDATA[[Europe] German woman on hantavirus-hit ship to be tested]]></description>
+            <link>https://bdnews24.com/world/europe/d3b236c90f8f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/d3b236c90f8f</guid>
+            <pubDate>Wed, 06 May 2026 18:11:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/hantavirus-ship-060526-01-1778069471.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Measles test kits running low, only 13 left]]></title>
+            <description><![CDATA[[Health] Measles test kits running low, only 13 left]]></description>
+            <link>https://bdnews24.com/health/c46b66f3049e</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/c46b66f3049e</guid>
+            <pubDate>Wed, 06 May 2026 17:29:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/antigen-test-240820-1-1778065372.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Measles: 7 more children die]]></title>
+            <description><![CDATA[[Bangladesh] Measles: 7 more children die]]></description>
+            <link>https://bdnews24.com/bangladesh/5efc725fdb3e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5efc725fdb3e</guid>
+            <pubDate>Wed, 06 May 2026 17:25:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/mymensing-hum-090426-01-1775715280.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Padma Barrage study nearly done, decision soon: Anee]]></title>
+            <description><![CDATA[[Bangladesh] Padma Barrage study nearly done, decision soon: Anee]]></description>
+            <link>https://bdnews24.com/bangladesh/579b040dc419</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/579b040dc419</guid>
+            <pubDate>Wed, 06 May 2026 17:09:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/shahid-uddin-chowdhury-anee-060526-01-1778065212.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jahajbari ‘murder’: Indictment hearing against Hasina Jun 7]]></title>
+            <description><![CDATA[[Bangladesh] Jahajbari ‘murder’: Indictment hearing against Hasina Jun 7]]></description>
+            <link>https://bdnews24.com/bangladesh/6c55a31bc3f3</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6c55a31bc3f3</guid>
+            <pubDate>Wed, 06 May 2026 16:57:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025March/SM/41-taj-manjil-kallyanpur-militants-killed-am-260716-005-1742812703.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[US, Iran closing in on memorandum to end war: Pakistani source]]></title>
             <description><![CDATA[[Middle East] US, Iran closing in on memorandum to end war: Pakistani source]]></description>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/politics/1b9e761add65</guid>
             <pubDate>Wed, 06 May 2026 13:38:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/ncp-nusrat-060526-1778052969.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[China to probe deadly fireworks factory blast]]></title>
-            <description><![CDATA[[Asia Pacific] China to probe deadly fireworks factory blast]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/a4b182cd262d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/a4b182cd262d</guid>
-            <pubDate>Wed, 06 May 2026 13:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/china-fire-060526-01-1778052277.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Madrasa teacher arrested for ‘raping’ minor in Netrokona]]></title>
-            <description><![CDATA[[Bangladesh] Madrasa teacher arrested for ‘raping’ minor in Netrokona]]></description>
-            <link>https://bdnews24.com/bangladesh/b776dde27978</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b776dde27978</guid>
-            <pubDate>Wed, 06 May 2026 13:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/netrakona-madrasa-rape-040526-01-1777913189.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Panel formed to review social security recipients: state minister]]></title>
-            <description><![CDATA[[Bangladesh] Panel formed to review social security recipients: state minister]]></description>
-            <link>https://bdnews24.com/bangladesh/b4b8b4cc47ca</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b4b8b4cc47ca</guid>
-            <pubDate>Wed, 06 May 2026 13:02:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/farzana-sharmin-060526-01-1778048209.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tulip ‘flat graft’ case hearing Jun 28]]></title>
-            <description><![CDATA[[Bangladesh] Tulip ‘flat graft’ case hearing Jun 28]]></description>
-            <link>https://bdnews24.com/bangladesh/78dd910a0c6a</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/78dd910a0c6a</guid>
-            <pubDate>Wed, 06 May 2026 12:14:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025January/SM/unnamed-1736872579.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Two tales of damage at Korchar Haor]]></title>
-            <description><![CDATA[[Bangladesh] Two tales of damage at Korchar Haor]]></description>
-            <link>https://bdnews24.com/bangladesh/971f57690ce7</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/971f57690ce7</guid>
-            <pubDate>Wed, 06 May 2026 11:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/sunamgonj-haor-paddy-cut-050526-01-1778035730.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Housewife killed in Narail, husband detained]]></title>
-            <description><![CDATA[[Bangladesh] Housewife killed in Narail, husband detained]]></description>
-            <link>https://bdnews24.com/bangladesh/40348d8d6218</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/40348d8d6218</guid>
-            <pubDate>Wed, 06 May 2026 10:59:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/narail-arrest-photo060526-01-1778040001.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
