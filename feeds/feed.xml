@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 06 May 2026 21:00:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 21:57:39 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 06 May 2026 21:00:19 GMT</pubDate>
+        <pubDate>Wed, 06 May 2026 21:57:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[PSG reach UCL final with 1-1 draw at Bayern]]></title>
+            <description><![CDATA[[Sport] PSG reach UCL final with 1-1 draw at Bayern]]></description>
+            <link>https://bdnews24.com/sport/1fa52777dd05</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/1fa52777dd05</guid>
+            <pubDate>Thu, 07 May 2026 03:24:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/psg-vitinha-070426-01-1778102633.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Broken harvest, drowned hopes in Haor lands]]></title>
             <description><![CDATA[[Bangladesh] Broken harvest, drowned hopes in Haor lands]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/media-en/image/53e683ee3c65</guid>
             <pubDate>Wed, 06 May 2026 22:08:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/protest-du-060526-008-1778080783.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mirza Abbas feeling ‘better’: wife]]></title>
-            <description><![CDATA[[Politics] Mirza Abbas feeling ‘better’: wife]]></description>
-            <link>https://bdnews24.com/politics/ae40a640591c</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/ae40a640591c</guid>
-            <pubDate>Wed, 06 May 2026 22:04:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/mirza-abbas-malaysia-hospital-060526-01-1778079620.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
