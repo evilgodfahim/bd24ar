@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 07 May 2026 19:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 May 2026 20:54:46 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 07 May 2026 19:21:48 GMT</pubDate>
+        <pubDate>Thu, 07 May 2026 20:54:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[In Haor floods, harvest and feed disappear together]]></title>
+            <description><![CDATA[[Bangladesh] In Haor floods, harvest and feed disappear together]]></description>
+            <link>https://bdnews24.com/bangladesh/f9d857910e9a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f9d857910e9a</guid>
+            <pubDate>Fri, 08 May 2026 01:36:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/sunamgonj-haor-cow-food-070526-01-1778182303.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Bangladeshi man jailed in Malaysia for molestation]]></title>
             <description><![CDATA[[World] Bangladeshi man jailed in Malaysia for molestation]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/41cacdc7180c</guid>
             <pubDate>Thu, 07 May 2026 22:03:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/hearts-scottish-title-07052026-01-1778169745.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dutch to play final WC warmup against Uzbeks]]></title>
-            <description><![CDATA[[Sport] Dutch to play final WC warmup against Uzbeks]]></description>
-            <link>https://bdnews24.com/sport/a37af560840f</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/a37af560840f</guid>
-            <pubDate>Thu, 07 May 2026 22:01:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025October/SM/ned-v-finland-131025-01-1760294015.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
