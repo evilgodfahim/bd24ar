@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 07 May 2026 21:43:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 May 2026 22:48:41 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 07 May 2026 21:43:34 GMT</pubDate>
+        <pubDate>Thu, 07 May 2026 22:48:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Sarr fires Palace into Conference League final]]></title>
+            <description><![CDATA[[Football] Sarr fires Palace into Conference League final]]></description>
+            <link>https://bdnews24.com/sport/football/640a4c221bf6</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/football/640a4c221bf6</guid>
+            <pubDate>Fri, 08 May 2026 04:18:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/palace-european-campaign-080526-01-1778192313.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Villa storm into Europa final with Forest rout]]></title>
+            <description><![CDATA[[Football] Villa storm into Europa final with Forest rout]]></description>
+            <link>https://bdnews24.com/sport/football/ee535b764cab</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/football/ee535b764cab</guid>
+            <pubDate>Fri, 08 May 2026 04:11:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/villa-crush-forest-europa-01-1778191877.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[In Haor floods, harvest and feed disappear together]]></title>
             <description><![CDATA[[Bangladesh] In Haor floods, harvest and feed disappear together]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/6213586d998b</guid>
             <pubDate>Thu, 07 May 2026 22:34:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/pm-meeting-070526-1778166806.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India seeks faster Bangladesh verification to repatriate ‘illegal migrants’]]></title>
-            <description><![CDATA[[Bangladesh] India seeks faster Bangladesh verification to repatriate ‘illegal migrants’]]></description>
-            <link>https://bdnews24.com/bangladesh/a65e4e00aa33</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a65e4e00aa33</guid>
-            <pubDate>Thu, 07 May 2026 22:08:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/randhir-jaiswal-070526-1778166060.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hearts in sight of Scottish title]]></title>
-            <description><![CDATA[[Sport] Hearts in sight of Scottish title]]></description>
-            <link>https://bdnews24.com/sport/41cacdc7180c</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/41cacdc7180c</guid>
-            <pubDate>Thu, 07 May 2026 22:03:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/hearts-scottish-title-07052026-01-1778169745.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
