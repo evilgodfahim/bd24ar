@@ -4,10 +4,82 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 May 2026 04:46:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 06:26:10 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 May 2026 04:46:04 GMT</pubDate>
+        <pubDate>Fri, 08 May 2026 06:26:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US global image slips below Russia: survey]]></title>
+            <description><![CDATA[[World] US global image slips below Russia: survey]]></description>
+            <link>https://bdnews24.com/world/ce29147d8346</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ce29147d8346</guid>
+            <pubDate>Fri, 08 May 2026 12:15:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/us-capitol-080526-1778220863.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[WC ticket prices dropping on secondary market]]></title>
+            <description><![CDATA[[Sport] WC ticket prices dropping on secondary market]]></description>
+            <link>https://bdnews24.com/sport/752ed755d8b5</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/752ed755d8b5</guid>
+            <pubDate>Fri, 08 May 2026 11:59:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/wc-080526-1778219933.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shakira unveils official World Cup song]]></title>
+            <description><![CDATA[[Entertainment] Shakira unveils official World Cup song]]></description>
+            <link>https://bdnews24.com/entertainment/68b08ff1a664</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/68b08ff1a664</guid>
+            <pubDate>Fri, 08 May 2026 11:54:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/shakira-080526-1778219647.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Housewife killed in Khagrachhari, husband arrested]]></title>
+            <description><![CDATA[[Bangladesh] Housewife killed in Khagrachhari, husband arrested]]></description>
+            <link>https://bdnews24.com/bangladesh/018befeda9ca</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/018befeda9ca</guid>
+            <pubDate>Fri, 08 May 2026 11:35:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/khagrachari-murder-080526-01-1778214409.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A small town in Germany braces for end to life with US troops]]></title>
+            <description><![CDATA[[Europe] A small town in Germany braces for end to life with US troops]]></description>
+            <link>https://bdnews24.com/world/europe/17f3bbf744fc</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/17f3bbf744fc</guid>
+            <pubDate>Fri, 08 May 2026 11:25:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/germany-troop-withdrawal-080526-01-1778217942.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Transport worker found dead in Khagrachhari]]></title>
+            <description><![CDATA[[Bangladesh] Transport worker found dead in Khagrachhari]]></description>
+            <link>https://bdnews24.com/bangladesh/e222a74627b4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e222a74627b4</guid>
+            <pubDate>Fri, 08 May 2026 11:25:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/khagrachari-deadbody-080526-01-1778215397.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 shops gutted in Narail fire]]></title>
+            <description><![CDATA[[Bangladesh] 3 shops gutted in Narail fire]]></description>
+            <link>https://bdnews24.com/bangladesh/0009bc3ae90f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0009bc3ae90f</guid>
+            <pubDate>Fri, 08 May 2026 10:53:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/narail-fire-080526-01-1778214940.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[China factory blast toll rises to 37]]></title>
+            <description><![CDATA[[Asia Pacific] China factory blast toll rises to 37]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/6cdb28c878f8</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/6cdb28c878f8</guid>
+            <pubDate>Fri, 08 May 2026 10:49:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/china-factory-bast-050526-1777948616.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[S Korea heads to local elections]]></title>
+            <description><![CDATA[[Asia Pacific] S Korea heads to local elections]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/74d99ac42933</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/74d99ac42933</guid>
+            <pubDate>Fri, 08 May 2026 10:46:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/s-korea-politian-080526-1778215484.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[US trade court blocks Trump tariffs]]></title>
             <description><![CDATA[[Americas] US trade court blocks Trump tariffs]]></description>
@@ -73,8 +145,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/mike-waltz-080526-01-1778210124.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[US, Iran exchange fire, but Trump says ceasefire still in effect]]></title>
-            <description><![CDATA[[World] US, Iran exchange fire, but Trump says ceasefire still in effect]]></description>
+            <title><![CDATA[UAE countering Iranian air attack]]></title>
+            <description><![CDATA[[World] UAE countering Iranian air attack]]></description>
             <link>https://bdnews24.com/world/0f00e0089309</link>
             <guid isPermaLink="true">https://bdnews24.com/world/0f00e0089309</guid>
             <pubDate>Fri, 08 May 2026 09:05:00 GMT</pubDate>
@@ -95,78 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/football/640a4c221bf6</guid>
             <pubDate>Fri, 08 May 2026 04:18:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/palace-european-campaign-080526-01-1778192313.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Villa storm into Europa final with Forest rout]]></title>
-            <description><![CDATA[[Football] Villa storm into Europa final with Forest rout]]></description>
-            <link>https://bdnews24.com/sport/football/ee535b764cab</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/football/ee535b764cab</guid>
-            <pubDate>Fri, 08 May 2026 04:11:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/villa-crush-forest-europa-01-1778191877.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[In Haor floods, harvest and feed disappear together]]></title>
-            <description><![CDATA[[Bangladesh] In Haor floods, harvest and feed disappear together]]></description>
-            <link>https://bdnews24.com/bangladesh/f9d857910e9a</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f9d857910e9a</guid>
-            <pubDate>Fri, 08 May 2026 01:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/sunamgonj-haor-cow-food-070526-01-1778182303.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladeshi man jailed in Malaysia for molestation]]></title>
-            <description><![CDATA[[World] Bangladeshi man jailed in Malaysia for molestation]]></description>
-            <link>https://bdnews24.com/world/d237d09e949d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/d237d09e949d</guid>
-            <pubDate>Fri, 08 May 2026 01:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/malayshia-bangladeshi-jail-070526-1778177644.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2 die with measles symptoms in Sylhet]]></title>
-            <description><![CDATA[[Health] 2 die with measles symptoms in Sylhet]]></description>
-            <link>https://bdnews24.com/health/a78a609602b1</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/a78a609602b1</guid>
-            <pubDate>Fri, 08 May 2026 01:07:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/sylhet-hospital-070526-01-1778153612.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UNICEF warned Yunus govt of vaccine crisis]]></title>
-            <description><![CDATA[[Bangladesh] UNICEF warned Yunus govt of vaccine crisis]]></description>
-            <link>https://bdnews24.com/bangladesh/883d8e8396e7</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/883d8e8396e7</guid>
-            <pubDate>Fri, 08 May 2026 00:59:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/cumilla-hum-160426-05-1776325855.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Huerzeler agrees contract extension]]></title>
-            <description><![CDATA[[Sport] Huerzeler agrees contract extension]]></description>
-            <link>https://bdnews24.com/sport/733943edb893</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/733943edb893</guid>
-            <pubDate>Fri, 08 May 2026 00:47:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/fabian-huerzeler-070526-01-1778179609.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Remittance crosses $30bn mark]]></title>
-            <description><![CDATA[[Economy] Remittance crosses $30bn mark]]></description>
-            <link>https://bdnews24.com/economy/4392a6b21cd0</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/4392a6b21cd0</guid>
-            <pubDate>Fri, 08 May 2026 00:44:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/02-malaysia-bangladeshiworker-270814-0012-1777947582.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ctg man shot dead, child injured]]></title>
-            <description><![CDATA[[Bangladesh] Ctg man shot dead, child injured]]></description>
-            <link>https://bdnews24.com/bangladesh/6d28b45e4166</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6d28b45e4166</guid>
-            <pubDate>Fri, 08 May 2026 00:33:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/chattagram-medical-college-hospital-250226-01-1772034313.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Startup funding enters new era as BSIC nears launch]]></title>
-            <description><![CDATA[[Business] Startup funding enters new era as BSIC nears launch]]></description>
-            <link>https://bdnews24.com/business/c6851aa3c4df</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/c6851aa3c4df</guid>
-            <pubDate>Fri, 08 May 2026 00:20:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/start-up-bsic-070526-01-1778176819.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
