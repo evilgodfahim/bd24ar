@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 May 2026 14:28:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 16:06:34 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 May 2026 14:28:38 GMT</pubDate>
+        <pubDate>Fri, 08 May 2026 16:06:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Police close Sornomoye suicide case]]></title>
+            <description><![CDATA[[Bangladesh] Police close Sornomoye suicide case]]></description>
+            <link>https://bdnews24.com/bangladesh/7c1a26087278</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7c1a26087278</guid>
+            <pubDate>Fri, 08 May 2026 22:01:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025October/SM/sornomoyee-biswas-191025-02-1760890458.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Food & Agro Bangladesh International Expo]]></title>
+            <description><![CDATA[[Image] Food & Agro Bangladesh International Expo]]></description>
+            <link>https://bdnews24.com/media-en/image/a44e2f8ed1f4</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/a44e2f8ed1f4</guid>
+            <pubDate>Fri, 08 May 2026 21:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/food-agro-bangladesh-international-expo-080526-028-1778252006.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Starmer vows to fight after Labour setback]]></title>
+            <description><![CDATA[[World] Starmer vows to fight after Labour setback]]></description>
+            <link>https://bdnews24.com/world/d0bd08e245fd</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/d0bd08e245fd</guid>
+            <pubDate>Fri, 08 May 2026 21:44:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/starmer-fight-08052026-01-1778255008.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indonesia halts search for missing hikers]]></title>
+            <description><![CDATA[[World] Indonesia halts search for missing hikers]]></description>
+            <link>https://bdnews24.com/world/8d7471f2ebb0</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/8d7471f2ebb0</guid>
+            <pubDate>Fri, 08 May 2026 21:22:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/indonesia-halt-search-08052026-01-1778253745.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Special cell formed to fast-track MPs’ election promises]]></title>
+            <description><![CDATA[[Bangladesh] Special cell formed to fast-track MPs’ election promises]]></description>
+            <link>https://bdnews24.com/bangladesh/41004b7e24ad</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/41004b7e24ad</guid>
+            <pubDate>Fri, 08 May 2026 21:17:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/pmo-100-1778252414.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Working on July Charter dissenting notes: Asaduzzaman]]></title>
+            <description><![CDATA[[Bangladesh] Working on July Charter dissenting notes: Asaduzzaman]]></description>
+            <link>https://bdnews24.com/bangladesh/9edff7747a4d</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9edff7747a4d</guid>
+            <pubDate>Fri, 08 May 2026 21:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/khulna-low-minister-080526-01-1778249193.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh, Pakistan sign MoU to stop drug trafficking]]></title>
+            <description><![CDATA[[Bangladesh] Bangladesh, Pakistan sign MoU to stop drug trafficking]]></description>
+            <link>https://bdnews24.com/bangladesh/6a72cbcf75ae</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6a72cbcf75ae</guid>
+            <pubDate>Fri, 08 May 2026 21:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/bangladesh-pakistan-mou-080526-01-1778248186.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Man detained from AL flash march near old Ganabhaban]]></title>
             <description><![CDATA[[Politics] Man detained from AL flash march near old Ganabhaban]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/c1987f15fc70</guid>
             <pubDate>Fri, 08 May 2026 17:21:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/hajj-080526-1778235847.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Returning from Bandarban with fever, seizure, Prof Jothi dies]]></title>
-            <description><![CDATA[[Bangladesh] Returning from Bandarban with fever, seizure, Prof Jothi dies]]></description>
-            <link>https://bdnews24.com/bangladesh/803adfe0cc91</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/803adfe0cc91</guid>
-            <pubDate>Fri, 08 May 2026 17:10:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/zakia-sultana-juthi-080526-01-1778233162.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gulf states lift curbs on US Hormuz mission: WSJ]]></title>
-            <description><![CDATA[[World] Gulf states lift curbs on US Hormuz mission: WSJ]]></description>
-            <link>https://bdnews24.com/world/c7421ac969ce</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/c7421ac969ce</guid>
-            <pubDate>Fri, 08 May 2026 16:30:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/sentcom-080526-01-1778233966.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US intel says Iran can outlast blockade for months: WaPo]]></title>
-            <description><![CDATA[[Middle East] US intel says Iran can outlast blockade for months: WaPo]]></description>
-            <link>https://bdnews24.com/world/middle-east/5d68016f50ec</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/5d68016f50ec</guid>
-            <pubDate>Fri, 08 May 2026 16:02:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/iran-war-hormuz-stranded-vassels-190426-1776585103.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[May 8, 2026]]></title>
-            <description><![CDATA[[Image] May 8, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/7845b88963e2</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/7845b88963e2</guid>
-            <pubDate>Fri, 08 May 2026 15:31:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/asian-emerald-cuckoo-080526-03-1778231437.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shanto smashes ninth Test century]]></title>
-            <description><![CDATA[[Cricket] Shanto smashes ninth Test century]]></description>
-            <link>https://bdnews24.com/cricket/c4e25c2b2824</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/c4e25c2b2824</guid>
-            <pubDate>Fri, 08 May 2026 15:25:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/shanto-100-080526-01-1778230068.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[New hantavirus case suspected on remote island]]></title>
-            <description><![CDATA[[World] New hantavirus case suspected on remote island]]></description>
-            <link>https://bdnews24.com/world/12bb121c229b</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/12bb121c229b</guid>
-            <pubDate>Fri, 08 May 2026 15:18:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/granadilla-port-080526-01-1778231841.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Pangkha Rubel’ arrested in Adabor]]></title>
-            <description><![CDATA[[Bangladesh] ‘Pangkha Rubel’ arrested in Adabor]]></description>
-            <link>https://bdnews24.com/bangladesh/57ae338d65d9</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/57ae338d65d9</guid>
-            <pubDate>Fri, 08 May 2026 14:40:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/pankha-rubel-080526-1778226332.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
