@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 May 2026 20:32:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 May 2026 21:32:15 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 09 May 2026 20:32:08 GMT</pubDate>
+        <pubDate>Sat, 09 May 2026 21:32:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[FDI slips by 23.56% in 9 months]]></title>
+            <description><![CDATA[[Bangladesh] FDI slips by 23.56% in 9 months]]></description>
+            <link>https://bdnews24.com/bangladesh/76d896163b82</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/76d896163b82</guid>
+            <pubDate>Sun, 10 May 2026 02:44:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025January/SM/patuakhali-power-plant-190125-01-1737301236.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arsenal cautious ahead of West Ham clash]]></title>
+            <description><![CDATA[[Sport] Arsenal cautious ahead of West Ham clash]]></description>
+            <link>https://bdnews24.com/sport/b5a8bd4341de</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/b5a8bd4341de</guid>
+            <pubDate>Sun, 10 May 2026 02:41:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/arsenal-west-ham-100526-01-1778359236.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Parents crushed by costs of fighting measles as ‘everything must be bought’]]></title>
             <description><![CDATA[[Bangladesh] Parents crushed by costs of fighting measles as ‘everything must be bought’]]></description>
@@ -57,8 +73,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/cmm-court-dhaka-1000-1774008444.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Gaza flotilla activists to be released from Israel detention and deported]]></title>
-            <description><![CDATA[[Bangladesh] Gaza flotilla activists to be released from Israel detention and deported]]></description>
+            <title><![CDATA[Gaza flotilla activists to be released, deported]]></title>
+            <description><![CDATA[[Bangladesh] Gaza flotilla activists to be released, deported]]></description>
             <link>https://bdnews24.com/bangladesh/d5fed6a04f75</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/d5fed6a04f75</guid>
             <pubDate>Sat, 09 May 2026 22:43:00 GMT</pubDate>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/politics/60a09c173af5</guid>
             <pubDate>Sat, 09 May 2026 20:50:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/tarique-10226-1770709085.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2 missing hikers found after Mount Dukono eruption, 1 dead]]></title>
-            <description><![CDATA[[World] 2 missing hikers found after Mount Dukono eruption, 1 dead]]></description>
-            <link>https://bdnews24.com/world/d3e94156ec85</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/d3e94156ec85</guid>
-            <pubDate>Sat, 09 May 2026 20:36:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/missing-hikers-dukono-09052026-01-1778337341.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian sailor dies in ship fire near Hormuz]]></title>
-            <description><![CDATA[[Neighbours] Indian sailor dies in ship fire near Hormuz]]></description>
-            <link>https://bdnews24.com/neighbours/f6e6b9535de7</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/f6e6b9535de7</guid>
-            <pubDate>Sat, 09 May 2026 20:28:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/ship-fire-hormuz-04052026-01-1777914730.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
