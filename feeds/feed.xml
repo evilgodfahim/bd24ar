@@ -4,13 +4,77 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 May 2026 14:11:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 May 2026 15:39:26 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 09 May 2026 14:11:16 GMT</pubDate>
+        <pubDate>Sat, 09 May 2026 15:39:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Police suspect 'family feud' after 5 found dead in Gazipur]]></title>
-            <description><![CDATA[[Bangladesh] Police suspect 'family feud' after 5 found dead in Gazipur]]></description>
+            <title><![CDATA[Kaarina Kaisar put on life support]]></title>
+            <description><![CDATA[[Entertainment] Kaarina Kaisar put on life support]]></description>
+            <link>https://bdnews24.com/entertainment/0960047a05e5</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/0960047a05e5</guid>
+            <pubDate>Sat, 09 May 2026 21:15:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/karina-kaysar-with-her-father-090526-01-1778336786.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chelsea halt losing streak with draw at Liverpool]]></title>
+            <description><![CDATA[[Sport] Chelsea halt losing streak with draw at Liverpool]]></description>
+            <link>https://bdnews24.com/sport/65ff16ccf9d8</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/65ff16ccf9d8</guid>
+            <pubDate>Sat, 09 May 2026 21:08:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/chelsea-pl-090526-01-1778339239.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pro-independence parties surge across Britain]]></title>
+            <description><![CDATA[[World] Pro-independence parties surge across Britain]]></description>
+            <link>https://bdnews24.com/world/a06634038986</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/a06634038986</guid>
+            <pubDate>Sat, 09 May 2026 20:54:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/pro-independence-parties-09052026-01-1778338481.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Restoring public trust in police is govt’s top priority: PM]]></title>
+            <description><![CDATA[[Politics] Restoring public trust in police is govt’s top priority: PM]]></description>
+            <link>https://bdnews24.com/politics/60a09c173af5</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/60a09c173af5</guid>
+            <pubDate>Sat, 09 May 2026 20:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026February/SM/tarique-10226-1770709085.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[2 missing hikers found after Mount Dukono eruption, 1 dead]]></title>
+            <description><![CDATA[[World] 2 missing hikers found after Mount Dukono eruption, 1 dead]]></description>
+            <link>https://bdnews24.com/world/d3e94156ec85</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/d3e94156ec85</guid>
+            <pubDate>Sat, 09 May 2026 20:36:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/missing-hikers-dukono-09052026-01-1778337341.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian sailor dies in ship fire near Hormuz]]></title>
+            <description><![CDATA[[Neighbours] Indian sailor dies in ship fire near Hormuz]]></description>
+            <link>https://bdnews24.com/neighbours/f6e6b9535de7</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/f6e6b9535de7</guid>
+            <pubDate>Sat, 09 May 2026 20:28:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/ship-fire-hormuz-04052026-01-1777914730.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Experts guide to contain hantavirus outbreak]]></title>
+            <description><![CDATA[[World] Experts guide to contain hantavirus outbreak]]></description>
+            <link>https://bdnews24.com/world/d82392a7e0aa</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/d82392a7e0aa</guid>
+            <pubDate>Sat, 09 May 2026 20:24:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/hantavirus-outbreak-09052026-01-1778336603.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Probe opens into ‘negligence’ behind deadly measles outbreak]]></title>
+            <description><![CDATA[[Bangladesh] Probe opens into ‘negligence’ behind deadly measles outbreak]]></description>
+            <link>https://bdnews24.com/bangladesh/70835be6de05</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/70835be6de05</guid>
+            <pubDate>Sat, 09 May 2026 20:12:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/kamruzzaman-chowdhury-090526-1778337654.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police suspect family feud after 5 found dead in Gazipur]]></title>
+            <description><![CDATA[[Bangladesh] Police suspect family feud after 5 found dead in Gazipur]]></description>
             <link>https://bdnews24.com/bangladesh/08bf7dc1cbd1</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/08bf7dc1cbd1</guid>
             <pubDate>Sat, 09 May 2026 20:09:00 GMT</pubDate>
@@ -103,70 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/c189a59409ba</guid>
             <pubDate>Sat, 09 May 2026 17:29:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026February/SM/chattagram-medical-college-hospital-250226-01-1772034313.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles: 9 more children die, toll 350 up]]></title>
-            <description><![CDATA[[Health] Measles: 9 more children die, toll 350 up]]></description>
-            <link>https://bdnews24.com/health/f8e7bbb9d56e</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/f8e7bbb9d56e</guid>
-            <pubDate>Sat, 09 May 2026 17:06:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026March/SM/measles-patient-sonkromon-bedi-hospital-290326-040-1774790031.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How changing habits in China may help Amazon forest]]></title>
-            <description><![CDATA[[THE LONG READ] How changing habits in China may help Amazon forest]]></description>
-            <link>https://bdnews24.com/the-long-read/b0841ec020f5</link>
-            <guid isPermaLink="true">https://bdnews24.com/the-long-read/b0841ec020f5</guid>
-            <pubDate>Sat, 09 May 2026 16:40:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2025February/SM/brazil-amazon-1740073325.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Death toll rises in Ctg-Cox’s Bazar crash]]></title>
-            <description><![CDATA[[Bangladesh] Death toll rises in Ctg-Cox’s Bazar crash]]></description>
-            <link>https://bdnews24.com/bangladesh/683d4001347d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/683d4001347d</guid>
-            <pubDate>Sat, 09 May 2026 16:39:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/chottogram-accident-090526-01-1778310624.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Abbas 5-for checks Tigers surge]]></title>
-            <description><![CDATA[[Cricket] Abbas 5-for checks Tigers surge]]></description>
-            <link>https://bdnews24.com/cricket/a387867c2a65</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/a387867c2a65</guid>
-            <pubDate>Sat, 09 May 2026 16:20:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/miraz-090526-01-1778321450.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bahrain arrests 41 ‘linked to Iran IRGC’]]></title>
-            <description><![CDATA[[Middle East] Bahrain arrests 41 ‘linked to Iran IRGC’]]></description>
-            <link>https://bdnews24.com/world/middle-east/834725d3c861</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/834725d3c861</guid>
-            <pubDate>Sat, 09 May 2026 16:08:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/bahrain-080426-01-1775621227.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump hopes for extension of Ukraine-Russia truce]]></title>
-            <description><![CDATA[[World] Trump hopes for extension of Ukraine-Russia truce]]></description>
-            <link>https://bdnews24.com/world/5e9b2eb2dc1b</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/5e9b2eb2dc1b</guid>
-            <pubDate>Sat, 09 May 2026 15:49:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/ukraine-090526-1778320135.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tarique seeks party unity to deliver promises]]></title>
-            <description><![CDATA[[Bangladesh] Tarique seeks party unity to deliver promises]]></description>
-            <link>https://bdnews24.com/bangladesh/c14c8dde4bcb</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c14c8dde4bcb</guid>
-            <pubDate>Sat, 09 May 2026 15:48:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/tarique-rahman-090526-01-1778318087.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jamaat chief backs ‘realistic view’ on US trade deal]]></title>
-            <description><![CDATA[[Politics] Jamaat chief backs ‘realistic view’ on US trade deal]]></description>
-            <link>https://bdnews24.com/politics/d33063a81863</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/d33063a81863</guid>
-            <pubDate>Sat, 09 May 2026 15:27:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/shafikur-rahman-jamaat-090526-01-1778314610.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
