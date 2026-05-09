@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 May 2026 18:41:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 May 2026 19:48:05 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 09 May 2026 18:41:04 GMT</pubDate>
+        <pubDate>Sat, 09 May 2026 19:48:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Parents crushed by costs of fighting measles as ‘everything must be bought’]]></title>
+            <description><![CDATA[[Bangladesh] Parents crushed by costs of fighting measles as ‘everything must be bought’]]></description>
+            <link>https://bdnews24.com/bangladesh/bdb6265d51b0</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/bdb6265d51b0</guid>
+            <pubDate>Sun, 10 May 2026 01:45:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/measles-patient-280426-008-1777390083.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eden College erupts at midnight over student politics ban]]></title>
+            <description><![CDATA[[Campus] Eden College erupts at midnight over student politics ban]]></description>
+            <link>https://bdnews24.com/campus/289a7cb7edf2</link>
+            <guid isPermaLink="true">https://bdnews24.com/campus/289a7cb7edf2</guid>
+            <pubDate>Sun, 10 May 2026 01:24:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/eden-college-student-090526-01-1778353768.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Drone kills Bangladeshi man 'fighting' for Russia]]></title>
             <description><![CDATA[[Bangladesh] Drone kills Bangladeshi man 'fighting' for Russia]]></description>
@@ -113,8 +129,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/karina-kaysar-with-her-father-090526-01-1778336786.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Chelsea halt losing streak with draw at Liverpool]]></title>
-            <description><![CDATA[[Sport] Chelsea halt losing streak with draw at Liverpool]]></description>
+            <title><![CDATA[City remain in title race as Liverpool held]]></title>
+            <description><![CDATA[[Sport] City remain in title race as Liverpool held]]></description>
             <link>https://bdnews24.com/sport/65ff16ccf9d8</link>
             <guid isPermaLink="true">https://bdnews24.com/sport/65ff16ccf9d8</guid>
             <pubDate>Sat, 09 May 2026 21:08:00 GMT</pubDate>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/neighbours/f6e6b9535de7</guid>
             <pubDate>Sat, 09 May 2026 20:28:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/ship-fire-hormuz-04052026-01-1777914730.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Experts guide to contain hantavirus outbreak]]></title>
-            <description><![CDATA[[World] Experts guide to contain hantavirus outbreak]]></description>
-            <link>https://bdnews24.com/world/d82392a7e0aa</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/d82392a7e0aa</guid>
-            <pubDate>Sat, 09 May 2026 20:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/hantavirus-outbreak-09052026-01-1778336603.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Probe opens into ‘negligence’ behind deadly measles outbreak]]></title>
-            <description><![CDATA[[Bangladesh] Probe opens into ‘negligence’ behind deadly measles outbreak]]></description>
-            <link>https://bdnews24.com/bangladesh/70835be6de05</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/70835be6de05</guid>
-            <pubDate>Sat, 09 May 2026 20:12:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/kamruzzaman-chowdhury-090526-1778337654.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
