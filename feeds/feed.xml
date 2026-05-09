@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 May 2026 07:04:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 May 2026 09:05:07 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 09 May 2026 07:04:13 GMT</pubDate>
+        <pubDate>Sat, 09 May 2026 09:05:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Quality education still out of reach: minister]]></title>
+            <description><![CDATA[[Education] Quality education still out of reach: minister]]></description>
+            <link>https://bdnews24.com/education/012b1c2a5043</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/012b1c2a5043</guid>
+            <pubDate>Sat, 09 May 2026 14:21:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/ehsanul-haque-milon-090526-01-1778311037.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US, Iran no closer to ending war]]></title>
+            <description><![CDATA[[World] US, Iran no closer to ending war]]></description>
+            <link>https://bdnews24.com/world/668bed55439f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/668bed55439f</guid>
+            <pubDate>Sat, 09 May 2026 14:04:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/iran-us-090526-1778313811.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tarique meets BNP affiliates]]></title>
+            <description><![CDATA[[Politics] Tarique meets BNP affiliates]]></description>
+            <link>https://bdnews24.com/politics/dc4abd1a4bc4</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/dc4abd1a4bc4</guid>
+            <pubDate>Sat, 09 May 2026 13:43:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/tareq-rahman-bnp-090526-01-1778309874.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Astronomers map alien world with unprecedented clarity]]></title>
+            <description><![CDATA[[Science] Astronomers map alien world with unprecedented clarity]]></description>
+            <link>https://bdnews24.com/science/01cf6cf69b46</link>
+            <guid isPermaLink="true">https://bdnews24.com/science/01cf6cf69b46</guid>
+            <pubDate>Sat, 09 May 2026 13:28:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/webb-alien-exoplanet-survey-090526-01-1778311603.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cries of Bristy’s mother echo through airport]]></title>
+            <description><![CDATA[[Bangladesh] Cries of Bristy’s mother echo through airport]]></description>
+            <link>https://bdnews24.com/bangladesh/400315003a2e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/400315003a2e</guid>
+            <pubDate>Sat, 09 May 2026 13:19:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/bristy-mother-090526-01-1778307010.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Raja Subramani named India’s new defence chief]]></title>
+            <description><![CDATA[[Neighbours] Raja Subramani named India’s new defence chief]]></description>
+            <link>https://bdnews24.com/neighbours/b588750f6cd6</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/b588750f6cd6</guid>
+            <pubDate>Sat, 09 May 2026 13:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/lt-general-ns-raja-subramani-090526-1778306882.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Suvendu sworn in as Bengal CM]]></title>
             <description><![CDATA[[Neighbours] Suvendu sworn in as Bengal CM]]></description>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/97e3810b6587</guid>
             <pubDate>Sat, 09 May 2026 10:16:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/neymar-wc-run-messi-070526-01-1778300124.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Police Week begins Sunday]]></title>
-            <description><![CDATA[[Bangladesh] Police Week begins Sunday]]></description>
-            <link>https://bdnews24.com/bangladesh/f5613083d05d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f5613083d05d</guid>
-            <pubDate>Sat, 09 May 2026 10:05:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025February/SM/police-medal-240225-01-1740386416.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[5 found dead in Gazipur home]]></title>
-            <description><![CDATA[[Bangladesh] 5 found dead in Gazipur home]]></description>
-            <link>https://bdnews24.com/bangladesh/9032dd6f2a1f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9032dd6f2a1f</guid>
-            <pubDate>Sat, 09 May 2026 09:47:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/kapasia-thana-090526-1778296756.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mother finds sleeping son dead upon return]]></title>
-            <description><![CDATA[[Bangladesh] Mother finds sleeping son dead upon return]]></description>
-            <link>https://bdnews24.com/bangladesh/af2b68304cbe</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/af2b68304cbe</guid>
-            <pubDate>Sat, 09 May 2026 09:23:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/badda-police-station-280426-01-1777366124.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Inflation outpaces wages for 50 consecutive months]]></title>
-            <description><![CDATA[[Economy] Inflation outpaces wages for 50 consecutive months]]></description>
-            <link>https://bdnews24.com/economy/7b57bcf21834</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/7b57bcf21834</guid>
-            <pubDate>Sat, 09 May 2026 01:48:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025April/SM/may-day-labour-worker-010525-009-1746030128.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man Utd’s Bruno wins FWA Footballer of the Year]]></title>
-            <description><![CDATA[[Sport] Man Utd’s Bruno wins FWA Footballer of the Year]]></description>
-            <link>https://bdnews24.com/sport/ab3fa693d975</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/ab3fa693d975</guid>
-            <pubDate>Sat, 09 May 2026 01:33:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/man-utd-bruno-fwa-award-090526-01-1778268696.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunamganj farmers fail to meet govt target]]></title>
-            <description><![CDATA[[Bangladesh] Sunamganj farmers fail to meet govt target]]></description>
-            <link>https://bdnews24.com/bangladesh/54ad6456cec5</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/54ad6456cec5</guid>
-            <pubDate>Sat, 09 May 2026 01:13:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/sunamgonj-paddy-080526-01-1778261268.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
