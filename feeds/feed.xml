@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 May 2026 16:38:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 May 2026 17:39:26 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 09 May 2026 16:38:17 GMT</pubDate>
+        <pubDate>Sat, 09 May 2026 17:39:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Police Week medal ceremony postponed]]></title>
+            <description><![CDATA[[Bangladesh] Police Week medal ceremony postponed]]></description>
+            <link>https://bdnews24.com/bangladesh/03c1da53d3e6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/03c1da53d3e6</guid>
+            <pubDate>Sat, 09 May 2026 23:25:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025February/SM/police-medal-240225-01-1740386416.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[EC officer charged over ‘dowry violence’]]></title>
+            <description><![CDATA[[Bangladesh] EC officer charged over ‘dowry violence’]]></description>
+            <link>https://bdnews24.com/bangladesh/4345521fdab6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4345521fdab6</guid>
+            <pubDate>Sat, 09 May 2026 23:03:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026March/SM/cmm-court-dhaka-1000-1774008444.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gaza flotilla activists to be released from Israel detention and deported]]></title>
+            <description><![CDATA[[Bangladesh] Gaza flotilla activists to be released from Israel detention and deported]]></description>
+            <link>https://bdnews24.com/bangladesh/d5fed6a04f75</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d5fed6a04f75</guid>
+            <pubDate>Sat, 09 May 2026 22:43:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/gaza-activists-released-09052026-01-1778344774.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Bodies of 2 Bangladeshis shot dead by BSF returned]]></title>
             <description><![CDATA[[Bangladesh] Bodies of 2 Bangladeshis shot dead by BSF returned]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/26905835eab1</guid>
             <pubDate>Sat, 09 May 2026 19:54:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/sheikh-suvendu-090526-01-1778334797.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump's feuds, tensions likely to outlast Iran war]]></title>
-            <description><![CDATA[[World] Trump's feuds, tensions likely to outlast Iran war]]></description>
-            <link>https://bdnews24.com/world/bd8b17579ced</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/bd8b17579ced</guid>
-            <pubDate>Sat, 09 May 2026 19:35:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/trump-feud-09052026-01-1778333682.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Teen ‘kills self’ after beating over ‘theft’]]></title>
-            <description><![CDATA[[Bangladesh] Teen ‘kills self’ after beating over ‘theft’]]></description>
-            <link>https://bdnews24.com/bangladesh/431c620d5183</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/431c620d5183</guid>
-            <pubDate>Sat, 09 May 2026 19:12:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025April/SM/pabna-chatmohar-thana-200425-01-1745163834.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Green happy in support as Allen smashes 100]]></title>
-            <description><![CDATA[[Cricket] Green happy in support as Allen smashes 100]]></description>
-            <link>https://bdnews24.com/cricket/54368b9186c9</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/54368b9186c9</guid>
-            <pubDate>Sat, 09 May 2026 19:11:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/allen-green-090526-01-1778332246.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
