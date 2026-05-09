@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 May 2026 17:39:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 May 2026 18:41:04 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 09 May 2026 17:39:26 GMT</pubDate>
+        <pubDate>Sat, 09 May 2026 18:41:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Drone kills Bangladeshi man 'fighting' for Russia]]></title>
+            <description><![CDATA[[Bangladesh] Drone kills Bangladeshi man 'fighting' for Russia]]></description>
+            <link>https://bdnews24.com/bangladesh/ffa02dc771c0</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ffa02dc771c0</guid>
+            <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/kishoreganj-riad-090526-01-1778344178.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Slain US student Bristy buried in Madaripur]]></title>
+            <description><![CDATA[[Bangladesh] Slain US student Bristy buried in Madaripur]]></description>
+            <link>https://bdnews24.com/bangladesh/25e18590a252</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/25e18590a252</guid>
+            <pubDate>Sat, 09 May 2026 23:54:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/madaripur-brishty-090526-01-1778341286.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Police Week medal ceremony postponed]]></title>
             <description><![CDATA[[Bangladesh] Police Week medal ceremony postponed]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/70835be6de05</guid>
             <pubDate>Sat, 09 May 2026 20:12:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/kamruzzaman-chowdhury-090526-1778337654.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Police suspect family feud after 5 found dead in Gazipur]]></title>
-            <description><![CDATA[[Bangladesh] Police suspect family feud after 5 found dead in Gazipur]]></description>
-            <link>https://bdnews24.com/bangladesh/08bf7dc1cbd1</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/08bf7dc1cbd1</guid>
-            <pubDate>Sat, 09 May 2026 20:09:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/gazipur-5-murder-090526-1778331938.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hasina greets new West Bengal CM Suvendu]]></title>
-            <description><![CDATA[[Bangladesh] Hasina greets new West Bengal CM Suvendu]]></description>
-            <link>https://bdnews24.com/bangladesh/26905835eab1</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/26905835eab1</guid>
-            <pubDate>Sat, 09 May 2026 19:54:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/sheikh-suvendu-090526-01-1778334797.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
