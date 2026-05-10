@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 10 May 2026 09:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 May 2026 10:52:03 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 10 May 2026 09:19:00 GMT</pubDate>
+        <pubDate>Sun, 10 May 2026 10:52:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trust between police, public will curb crime: PM Tarique]]></title>
+            <description><![CDATA[[Bangladesh] Trust between police, public will curb crime: PM Tarique]]></description>
+            <link>https://bdnews24.com/bangladesh/903bea5fb4c4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/903bea5fb4c4</guid>
+            <pubDate>Sun, 10 May 2026 16:47:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/tarique-rahman-100526-01-1778404123.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Haor flooding eases as major rivers start to recede]]></title>
+            <description><![CDATA[[Bangladesh] Haor flooding eases as major rivers start to recede]]></description>
+            <link>https://bdnews24.com/bangladesh/d685a410f430</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d685a410f430</guid>
+            <pubDate>Sun, 10 May 2026 16:40:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/netrokona-rain-300426-02-1777525535.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[UWC Hong Kong principal to visit Dhaka]]></title>
+            <description><![CDATA[[Campus] UWC Hong Kong principal to visit Dhaka]]></description>
+            <link>https://bdnews24.com/campus/7823bbf123c0</link>
+            <guid isPermaLink="true">https://bdnews24.com/campus/7823bbf123c0</guid>
+            <pubDate>Sun, 10 May 2026 15:52:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/uwc-spencer-a-fowler-100526-1-1778406758.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[DU Proctor Saifuddin Ahmed resigns]]></title>
+            <description><![CDATA[[Campus] DU Proctor Saifuddin Ahmed resigns]]></description>
+            <link>https://bdnews24.com/campus/dd78ac43fa57</link>
+            <guid isPermaLink="true">https://bdnews24.com/campus/dd78ac43fa57</guid>
+            <pubDate>Sun, 10 May 2026 15:48:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024August/SM/du-new-proctor-280824-01-1724845975.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Mohammadpur 9-murder case: Nanak, 27 others indicted]]></title>
             <description><![CDATA[[Bangladesh] Mohammadpur 9-murder case: Nanak, 27 others indicted]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/a32938789b9c</guid>
             <pubDate>Sun, 10 May 2026 10:03:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/australia-anti-migrant-politics-100526-01-1778385728.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nike sued by consumers]]></title>
-            <description><![CDATA[[Business] Nike sued by consumers]]></description>
-            <link>https://bdnews24.com/business/fdd2ec7d57c0</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/fdd2ec7d57c0</guid>
-            <pubDate>Sun, 10 May 2026 10:02:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/nike-shoes-100524-01-1778385690.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Passengers on hantavirus-hit ship considered high risk: EU]]></title>
-            <description><![CDATA[[World] Passengers on hantavirus-hit ship considered high risk: EU]]></description>
-            <link>https://bdnews24.com/world/3ebfdd634dba</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/3ebfdd634dba</guid>
-            <pubDate>Sun, 10 May 2026 09:51:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/hantavirus-ship-passengers-high-risk-100526-01-1778385050.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel built, defended secret base in Iraq: WSJ]]></title>
-            <description><![CDATA[[World] Israel built, defended secret base in Iraq: WSJ]]></description>
-            <link>https://bdnews24.com/world/28a65a5c2a11</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/28a65a5c2a11</guid>
-            <pubDate>Sun, 10 May 2026 09:49:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/israel-iraq-military-base-100526-01-1778384741.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PM Tarique inaugurates Police Week]]></title>
-            <description><![CDATA[[Bangladesh] PM Tarique inaugurates Police Week]]></description>
-            <link>https://bdnews24.com/bangladesh/dc44445d0152</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/dc44445d0152</guid>
-            <pubDate>Sun, 10 May 2026 09:32:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/tarique-rahman-100526-1778383080.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
