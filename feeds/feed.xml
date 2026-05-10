@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 10 May 2026 17:40:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 May 2026 18:42:25 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 10 May 2026 17:40:26 GMT</pubDate>
+        <pubDate>Sun, 10 May 2026 18:42:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Celtic beat Rangers to keep title hopes alive]]></title>
+            <description><![CDATA[[Sport] Celtic beat Rangers to keep title hopes alive]]></description>
+            <link>https://bdnews24.com/sport/ae0acc297f27</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/ae0acc297f27</guid>
+            <pubDate>Sun, 10 May 2026 23:54:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/celtic-players-100526-01-1778435598.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flick's father dies before Clasico]]></title>
+            <description><![CDATA[[Sport] Flick's father dies before Clasico]]></description>
+            <link>https://bdnews24.com/sport/c78db68c028f</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/c78db68c028f</guid>
+            <pubDate>Sun, 10 May 2026 23:48:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/hansi-flick-100526-001-1778435307.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Forest edge toward safety, Villa held]]></title>
             <description><![CDATA[[Sport] Forest edge toward safety, Villa held]]></description>
@@ -81,8 +97,8 @@
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024July/SM/dollar-researve-bangladesh-bank-080523-01-1719925711.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Gazipur murders: “She endured turmoil for her children”]]></title>
-            <description><![CDATA[[Bangladesh] Gazipur murders: “She endured turmoil for her children”]]></description>
+            <title><![CDATA[Gazipur murders: “She endured abuse for her children”]]></title>
+            <description><![CDATA[[Bangladesh] Gazipur murders: “She endured abuse for her children”]]></description>
             <link>https://bdnews24.com/bangladesh/c7f0b345732d</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/c7f0b345732d</guid>
             <pubDate>Sun, 10 May 2026 20:55:00 GMT</pubDate>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/8a3a7c6b5ed9</guid>
             <pubDate>Sun, 10 May 2026 19:38:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/strait-of-hormuz-100526-01-1778420270.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCP names 100 candidates for local polls]]></title>
-            <description><![CDATA[[Politics] NCP names 100 candidates for local polls]]></description>
-            <link>https://bdnews24.com/politics/9a0ad708496f</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/9a0ad708496f</guid>
-            <pubDate>Sun, 10 May 2026 19:29:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/ncp-press-meet-100526-1778418102.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[S Korean ship hit in Hormuz: ministry]]></title>
-            <description><![CDATA[[World] S Korean ship hit in Hormuz: ministry]]></description>
-            <link>https://bdnews24.com/world/b4d1bf1e9239</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/b4d1bf1e9239</guid>
-            <pubDate>Sun, 10 May 2026 19:24:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/korean-ship-100526-01-1778419432.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
