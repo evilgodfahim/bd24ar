@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 10 May 2026 19:50:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 May 2026 20:34:54 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 10 May 2026 19:50:20 GMT</pubDate>
+        <pubDate>Sun, 10 May 2026 20:34:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trossard fires Arsenal past West Ham]]></title>
+            <description><![CDATA[[Sport] Trossard fires Arsenal past West Ham]]></description>
+            <link>https://bdnews24.com/sport/1f9fdbd5b3e8</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/1f9fdbd5b3e8</guid>
+            <pubDate>Mon, 11 May 2026 01:50:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/trossard-goal-100526-01-1778434475.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[DU caught in fresh battle for campus control]]></title>
             <description><![CDATA[[Campus] DU caught in fresh battle for campus control]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/5100913b1fd1</guid>
             <pubDate>Sun, 10 May 2026 20:17:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/1000546507-1778422617.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kuwait says hostile drones intercepted]]></title>
-            <description><![CDATA[[World] Kuwait says hostile drones intercepted]]></description>
-            <link>https://bdnews24.com/world/7ff7eb4acdf1</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/7ff7eb4acdf1</guid>
-            <pubDate>Sun, 10 May 2026 19:58:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026April/SM/bahrain-attack-050426-01-1775361209.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
