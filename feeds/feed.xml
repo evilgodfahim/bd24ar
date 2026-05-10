@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 10 May 2026 07:51:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 May 2026 09:19:00 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 10 May 2026 07:51:50 GMT</pubDate>
+        <pubDate>Sun, 10 May 2026 09:19:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Mohammadpur 9-murder case: Nanak, 27 others indicted]]></title>
+            <description><![CDATA[[Bangladesh] Mohammadpur 9-murder case: Nanak, 27 others indicted]]></description>
+            <link>https://bdnews24.com/bangladesh/9243ee1afc42</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9243ee1afc42</guid>
+            <pubDate>Sun, 10 May 2026 14:56:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bdnews24/2022-08/d8413bac-bcc9-46d9-9169-862908e4e4e5/jahangir_kabir_nanok_260822_01.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[12 Pakistani policemen killed in car bombing]]></title>
+            <description><![CDATA[[South Asia] 12 Pakistani policemen killed in car bombing]]></description>
+            <link>https://bdnews24.com/world/south-asia/a3403c66bb95</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/south-asia/a3403c66bb95</guid>
+            <pubDate>Sun, 10 May 2026 14:35:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/pakistan-car-bombing-100526-01-1778402108.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinmoy Das's bail rejected in lawyer Alif murder case]]></title>
+            <description><![CDATA[[Bangladesh] Chinmoy Das's bail rejected in lawyer Alif murder case]]></description>
+            <link>https://bdnews24.com/bangladesh/bd7d11f5dd7e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/bd7d11f5dd7e</guid>
+            <pubDate>Sun, 10 May 2026 14:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024November/SM/chinmoy-arrest-fight-chattogram-261124-17-1732624500.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[No project to be approved until standards maintained: minister]]></title>
             <description><![CDATA[[Bangladesh] No project to be approved until standards maintained: minister]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/dc44445d0152</guid>
             <pubDate>Sun, 10 May 2026 09:32:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/tarique-rahman-100526-1778383080.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[FDI slips by 23.56% in 9 months]]></title>
-            <description><![CDATA[[Bangladesh] FDI slips by 23.56% in 9 months]]></description>
-            <link>https://bdnews24.com/bangladesh/76d896163b82</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/76d896163b82</guid>
-            <pubDate>Sun, 10 May 2026 02:44:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2025January/SM/patuakhali-power-plant-190125-01-1737301236.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arsenal cautious ahead of West Ham clash]]></title>
-            <description><![CDATA[[Sport] Arsenal cautious ahead of West Ham clash]]></description>
-            <link>https://bdnews24.com/sport/b5a8bd4341de</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/b5a8bd4341de</guid>
-            <pubDate>Sun, 10 May 2026 02:41:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/arsenal-west-ham-100526-01-1778359236.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Parents crushed by costs of fighting measles as ‘everything must be bought’]]></title>
-            <description><![CDATA[[Bangladesh] Parents crushed by costs of fighting measles as ‘everything must be bought’]]></description>
-            <link>https://bdnews24.com/bangladesh/bdb6265d51b0</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/bdb6265d51b0</guid>
-            <pubDate>Sun, 10 May 2026 01:45:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026April/SM/measles-patient-280426-008-1777390083.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
