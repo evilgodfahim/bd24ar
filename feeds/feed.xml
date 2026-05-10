@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 10 May 2026 16:39:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 May 2026 17:40:26 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 10 May 2026 16:39:06 GMT</pubDate>
+        <pubDate>Sun, 10 May 2026 17:40:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Forest edge toward safety, Villa held]]></title>
+            <description><![CDATA[[Sport] Forest edge toward safety, Villa held]]></description>
+            <link>https://bdnews24.com/sport/1e8a210505d6</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/1e8a210505d6</guid>
+            <pubDate>Sun, 10 May 2026 23:31:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/aston-villa-100526-01-1778434242.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[200 trees cut in Khulna without inviting bids]]></title>
+            <description><![CDATA[[Bangladesh] 200 trees cut in Khulna without inviting bids]]></description>
+            <link>https://bdnews24.com/bangladesh/412730195540</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/412730195540</guid>
+            <pubDate>Sun, 10 May 2026 23:10:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/khulna-tree-100526-01-1778430273.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Modi urges India to conserve fuel]]></title>
+            <description><![CDATA[[Neighbours] Modi urges India to conserve fuel]]></description>
+            <link>https://bdnews24.com/neighbours/b4be8d6bb18f</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/b4be8d6bb18f</guid>
+            <pubDate>Sun, 10 May 2026 23:01:00 GMT</pubDate>
+            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/narendra-modi-100526-01-1778432476.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Barishal University teachers call ‘total shutdown’]]></title>
             <description><![CDATA[[Bangladesh] Barishal University teachers call ‘total shutdown’]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/b4d1bf1e9239</guid>
             <pubDate>Sun, 10 May 2026 19:24:00 GMT</pubDate>
             <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/korean-ship-100526-01-1778419432.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Remittance beats last fiscal with 1.5 months left]]></title>
-            <description><![CDATA[[Economy] Remittance beats last fiscal with 1.5 months left]]></description>
-            <link>https://bdnews24.com/economy/5317b8ce2e22</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/5317b8ce2e22</guid>
-            <pubDate>Sun, 10 May 2026 19:20:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026January/SM/money-transfer-shop-020126-1767362690.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prof Israfil appointed DU acting proctor]]></title>
-            <description><![CDATA[[Campus] Prof Israfil appointed DU acting proctor]]></description>
-            <link>https://bdnews24.com/campus/f2315bb97fdf</link>
-            <guid isPermaLink="true">https://bdnews24.com/campus/f2315bb97fdf</guid>
-            <pubDate>Sun, 10 May 2026 18:59:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2026May/SM/du-israfil-ratan-100526-01-1778417667.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Starc eyes 2027 World Cup]]></title>
-            <description><![CDATA[[Sport] Starc eyes 2027 World Cup]]></description>
-            <link>https://bdnews24.com/sport/7fd25c911f1b</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/7fd25c911f1b</guid>
-            <pubDate>Sun, 10 May 2026 18:45:00 GMT</pubDate>
-            <enclosure url="https://cdn.bdnews24.com/bdnews24/media/english/imgAll/2026May/SM/mitchell-starc-100526-01-1778417127.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
