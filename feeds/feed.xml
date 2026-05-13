@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 13 May 2026 20:25:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2026 22:02:24 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 13 May 2026 20:25:25 GMT</pubDate>
+        <pubDate>Wed, 13 May 2026 22:02:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[City cut Arsenal lead to two points]]></title>
+            <description><![CDATA[[Sport] City cut Arsenal lead to two points]]></description>
+            <link>https://bdnews24.com/sport/26ad45b7e206</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/26ad45b7e206</guid>
+            <pubDate>Thu, 14 May 2026 03:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/man-city-140526-01-1778707834.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Lebanon strikes: A war Karim feared ends in his ‘death’]]></title>
             <description><![CDATA[[Bangladesh] Lebanon strikes: A war Karim feared ends in his ‘death’]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/entertainment/4609e134f862</guid>
             <pubDate>Wed, 13 May 2026 21:22:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/sheba-prokasoni-130526-1778684964.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[High tariffs won't cool India's gold, silver rush]]></title>
-            <description><![CDATA[[Neighbours] High tariffs won't cool India's gold, silver rush]]></description>
-            <link>https://bdnews24.com/neighbours/dd6223425610</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/dd6223425610</guid>
-            <pubDate>Wed, 13 May 2026 21:19:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/india-gold-130526-01-1778685463.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
