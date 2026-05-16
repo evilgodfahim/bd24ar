@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 16 May 2026 10:52:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 May 2026 11:40:54 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 16 May 2026 10:52:22 GMT</pubDate>
+        <pubDate>Sat, 16 May 2026 11:40:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Measles: 2 children die, 108 new cases]]></title>
+            <description><![CDATA[[Health] Measles: 2 children die, 108 new cases]]></description>
+            <link>https://bdnews24.com/health/f736d6b2f837</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/f736d6b2f837</guid>
+            <pubDate>Sat, 16 May 2026 17:16:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/mymensing-hum-090426-01-1775715280.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Litton rescues collapsing Tigers]]></title>
             <description><![CDATA[[Cricket] Litton rescues collapsing Tigers]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/3af0e7d86a35</guid>
             <pubDate>Sat, 16 May 2026 11:43:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/mizanur-rahman-sinha-160526-1778910924.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[China Boeing order may rise up to 750: Trump]]></title>
-            <description><![CDATA[[Business] China Boeing order may rise up to 750: Trump]]></description>
-            <link>https://bdnews24.com/business/e641a93f5be8</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/e641a93f5be8</guid>
-            <pubDate>Sat, 16 May 2026 11:20:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025July/SM/boeing-plane-maker-logo-airshow-australia-140725-1752491551.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
