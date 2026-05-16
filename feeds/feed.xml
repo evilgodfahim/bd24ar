@@ -4,10 +4,74 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 16 May 2026 05:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 May 2026 07:45:23 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 16 May 2026 05:16:34 GMT</pubDate>
+        <pubDate>Sat, 16 May 2026 07:45:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Gas outage to hit Savar, Ashulia for 18 hours]]></title>
+            <description><![CDATA[[Bangladesh] Gas outage to hit Savar, Ashulia for 18 hours]]></description>
+            <link>https://bdnews24.com/bangladesh/7d951a2bf207</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7d951a2bf207</guid>
+            <pubDate>Sat, 16 May 2026 13:29:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/ctg-gas-crisis-06112018-02-1778914521.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump diplomacy hits limit in Iran]]></title>
+            <description><![CDATA[[World] Trump diplomacy hits limit in Iran]]></description>
+            <link>https://bdnews24.com/world/1954e466f74f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/1954e466f74f</guid>
+            <pubDate>Sat, 16 May 2026 13:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/iran-tehran-160526-1778915517.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wife detained for ‘butchering’ husband]]></title>
+            <description><![CDATA[[Bangladesh] Wife detained for ‘butchering’ husband]]></description>
+            <link>https://bdnews24.com/bangladesh/65522346dfc6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/65522346dfc6</guid>
+            <pubDate>Sat, 16 May 2026 13:02:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/shariatpur-pic-160526-03-1778911100.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US, Nigerian forces kill ISIS deputy leader: Trump]]></title>
+            <description><![CDATA[[World] US, Nigerian forces kill ISIS deputy leader: Trump]]></description>
+            <link>https://bdnews24.com/world/6a9d1d511354</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/6a9d1d511354</guid>
+            <pubDate>Sat, 16 May 2026 12:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/donald-trump-160526-1778913979.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[JU students demand proctor’s resignation]]></title>
+            <description><![CDATA[[Campus] JU students demand proctor’s resignation]]></description>
+            <link>https://bdnews24.com/campus/023ad48fcfbc</link>
+            <guid isPermaLink="true">https://bdnews24.com/campus/023ad48fcfbc</guid>
+            <pubDate>Sat, 16 May 2026 11:43:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/ju-movement-160526-01-1778907808.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ACME chief, ex-minister Mizanur Rahman dies]]></title>
+            <description><![CDATA[[Bangladesh] ACME chief, ex-minister Mizanur Rahman dies]]></description>
+            <link>https://bdnews24.com/bangladesh/3af0e7d86a35</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3af0e7d86a35</guid>
+            <pubDate>Sat, 16 May 2026 11:43:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/mizanur-rahman-sinha-160526-1778910924.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[China Boeing order may rise up to 750: Trump]]></title>
+            <description><![CDATA[[Business] China Boeing order may rise up to 750: Trump]]></description>
+            <link>https://bdnews24.com/business/e641a93f5be8</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/e641a93f5be8</guid>
+            <pubDate>Sat, 16 May 2026 11:20:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025July/SM/boeing-plane-maker-logo-airshow-australia-140725-1752491551.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dollar climbs for fifth straight day]]></title>
+            <description><![CDATA[[Economy] Dollar climbs for fifth straight day]]></description>
+            <link>https://bdnews24.com/economy/738e3d520934</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/738e3d520934</guid>
+            <pubDate>Sat, 16 May 2026 11:16:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026March/SM/dollar-euro-pound-060326-01-1772782360.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Iraqi man helped plan militia attacks in US, Europe: DOJ]]></title>
             <description><![CDATA[[Americas] Iraqi man helped plan militia attacks in US, Europe: DOJ]]></description>
@@ -103,70 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/eeef77cc7c6f</guid>
             <pubDate>Sat, 16 May 2026 09:33:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/lukaku-in-world-cup-160526-01-1778902405.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PM heads to Chandpur on first official visit]]></title>
-            <description><![CDATA[[Bangladesh] PM heads to Chandpur on first official visit]]></description>
-            <link>https://bdnews24.com/bangladesh/01051bc94937</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/01051bc94937</guid>
-            <pubDate>Sat, 16 May 2026 09:28:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/tarique-rahman-140426-1776141339.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Villa thrashes Liverpool 4-2, clinch UCL spot]]></title>
-            <description><![CDATA[[Sport] Villa thrashes Liverpool 4-2, clinch UCL spot]]></description>
-            <link>https://bdnews24.com/sport/6bf5b910604d</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/6bf5b910604d</guid>
-            <pubDate>Sat, 16 May 2026 03:44:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/epl-aston-villa-liverpool-160526-01-1778881368.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Delhi flight ‘foxed’ at Dhaka airport]]></title>
-            <description><![CDATA[[Bangladesh] Delhi flight ‘foxed’ at Dhaka airport]]></description>
-            <link>https://bdnews24.com/bangladesh/070b59d8d44c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/070b59d8d44c</guid>
-            <pubDate>Sat, 16 May 2026 02:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/shahzalal-international-airport-15052026-1778872460.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Content creator Kaarina Kaisar dies]]></title>
-            <description><![CDATA[[Entertainment] Content creator Kaarina Kaisar dies]]></description>
-            <link>https://bdnews24.com/entertainment/b0f6ada30880</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/b0f6ada30880</guid>
-            <pubDate>Sat, 16 May 2026 02:27:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/karina-kaisar-110526-01-1778493211.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Missing SUST student found dead]]></title>
-            <description><![CDATA[[Campus] Missing SUST student found dead]]></description>
-            <link>https://bdnews24.com/campus/a42336e5086c</link>
-            <guid isPermaLink="true">https://bdnews24.com/campus/a42336e5086c</guid>
-            <pubDate>Sat, 16 May 2026 01:59:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/sust-student-dead-150526-01-1778852599.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How much is to be gained by bringing SSC exams forward?]]></title>
-            <description><![CDATA[[Bangladesh] How much is to be gained by bringing SSC exams forward?]]></description>
-            <link>https://bdnews24.com/bangladesh/312938067324</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/312938067324</guid>
-            <pubDate>Sat, 16 May 2026 01:42:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025March/SM/ssc-first-day-01-1742129287.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel, Lebanon agree to extend truce: US]]></title>
-            <description><![CDATA[[World] Israel, Lebanon agree to extend truce: US]]></description>
-            <link>https://bdnews24.com/world/8bfd29f5cd2c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/8bfd29f5cd2c</guid>
-            <pubDate>Sat, 16 May 2026 01:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/lebanon-strikes-150526-1778873483.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Ebola outbreak ‘kills’ 65 in Congo]]></title>
-            <description><![CDATA[[World] New Ebola outbreak ‘kills’ 65 in Congo]]></description>
-            <link>https://bdnews24.com/world/ba430846285a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ba430846285a</guid>
-            <pubDate>Sat, 16 May 2026 01:29:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/congo-ebola-16052026-1778873247.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
