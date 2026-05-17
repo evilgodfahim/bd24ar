@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 17 May 2026 18:49:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 May 2026 19:57:57 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 17 May 2026 18:49:19 GMT</pubDate>
+        <pubDate>Sun, 17 May 2026 19:57:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Vinicius gives Real win over Sevilla]]></title>
+            <description><![CDATA[[Sport] Vinicius gives Real win over Sevilla]]></description>
+            <link>https://bdnews24.com/sport/61506cdbf651</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/61506cdbf651</guid>
+            <pubDate>Mon, 18 May 2026 01:57:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/real-madrid-180526-01-1779047749.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Local polls draw rivals forward as BNP holds back]]></title>
+            <description><![CDATA[[Politics] Local polls draw rivals forward as BNP holds back]]></description>
+            <link>https://bdnews24.com/politics/782e79fa62b5</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/782e79fa62b5</guid>
+            <pubDate>Mon, 18 May 2026 01:51:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/tangail-up-election-261221-01-1779046843.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sinner wins Italian Open]]></title>
+            <description><![CDATA[[Sport] Sinner wins Italian Open]]></description>
+            <link>https://bdnews24.com/sport/cb7abd6fb3ec</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/cb7abd6fb3ec</guid>
+            <pubDate>Mon, 18 May 2026 01:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/jannik-sinner-180526-01-1779046247.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[UAE reports drone strike at nuclear power plant]]></title>
+            <description><![CDATA[[World] UAE reports drone strike at nuclear power plant]]></description>
+            <link>https://bdnews24.com/world/e38df06fac83</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e38df06fac83</guid>
+            <pubDate>Mon, 18 May 2026 01:08:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/abu-dhabi-170526-01-1779043160.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Qatari labour minister meets Tarique]]></title>
+            <description><![CDATA[[Bangladesh] Qatari labour minister meets Tarique]]></description>
+            <link>https://bdnews24.com/bangladesh/28ceb6cf071d</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/28ceb6cf071d</guid>
+            <pubDate>Mon, 18 May 2026 00:55:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/pm-qater-170526-1779044090.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Carrick plays down future talk]]></title>
+            <description><![CDATA[[Sport] Carrick plays down future talk]]></description>
+            <link>https://bdnews24.com/sport/46a8b862ef9f</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/46a8b862ef9f</guid>
+            <pubDate>Mon, 18 May 2026 00:51:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/michael-carrick-180526-01-1779043838.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fernandes equals assist record in United win]]></title>
+            <description><![CDATA[[Sport] Fernandes equals assist record in United win]]></description>
+            <link>https://bdnews24.com/sport/e5d3ecf784c8</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/e5d3ecf784c8</guid>
+            <pubDate>Mon, 18 May 2026 00:49:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/bruno-fernandes-180526-01-1779043704.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[UNICEF ‘repeatedly warned’ Yunus govt on vaccine stock]]></title>
             <description><![CDATA[[Health] UNICEF ‘repeatedly warned’ Yunus govt on vaccine stock]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/c5d22afc37de</guid>
             <pubDate>Sun, 17 May 2026 21:59:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/who-ebola-outbreak-17052026-01-1779033457.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Seven hospitals fail to save 7-month old]]></title>
-            <description><![CDATA[[Bangladesh] Seven hospitals fail to save 7-month old]]></description>
-            <link>https://bdnews24.com/bangladesh/0fe1e3a2e772</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0fe1e3a2e772</guid>
-            <pubDate>Sun, 17 May 2026 21:22:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/cumilla-ham-dead-sajat-170526-01-1779028233.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eid cattle flow into Dhaka ahead of rush]]></title>
-            <description><![CDATA[[Image] Eid cattle flow into Dhaka ahead of rush]]></description>
-            <link>https://bdnews24.com/media-en/image/3d2a1c2737c8</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/3d2a1c2737c8</guid>
-            <pubDate>Sun, 17 May 2026 21:20:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/sacrificial-animal-market-postogola-17052026-005-1779024814.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India rejects ruling on Indus Waters Treaty]]></title>
-            <description><![CDATA[[Neighbours] India rejects ruling on Indus Waters Treaty]]></description>
-            <link>https://bdnews24.com/neighbours/758121e54ff0</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/758121e54ff0</guid>
-            <pubDate>Sun, 17 May 2026 21:19:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/indus-river-170526-01-1779018356.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Former foreign ministry DG Sabbir sent to jail]]></title>
-            <description><![CDATA[[Bangladesh] Former foreign ministry DG Sabbir sent to jail]]></description>
-            <link>https://bdnews24.com/bangladesh/352513e81a14</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/352513e81a14</guid>
-            <pubDate>Sun, 17 May 2026 21:14:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/lalmonirhat-sabbir-arrest-170526-01-1779025363.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[May 17, 2026]]></title>
-            <description><![CDATA[[Image] May 17, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/c751f0e554f3</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/c751f0e554f3</guid>
-            <pubDate>Sun, 17 May 2026 21:07:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/mizanur-rahman-sinha-funeral-tarique-rahman-170526-002-1779019932.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel to set up defence offices in ex-UNRWA compound]]></title>
-            <description><![CDATA[[World] Israel to set up defence offices in ex-UNRWA compound]]></description>
-            <link>https://bdnews24.com/world/365524af6091</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/365524af6091</guid>
-            <pubDate>Sun, 17 May 2026 20:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/israel-defence-office-17052026-01-1779029614.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt moves to form Media Commission advisory panel]]></title>
-            <description><![CDATA[[Bangladesh] Govt moves to form Media Commission advisory panel]]></description>
-            <link>https://bdnews24.com/bangladesh/dc3381519142</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/dc3381519142</guid>
-            <pubDate>Sun, 17 May 2026 20:52:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/pm-editors-council-170526-02-1779024904.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
