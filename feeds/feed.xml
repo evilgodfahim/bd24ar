@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 17 May 2026 15:47:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 May 2026 16:41:53 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 17 May 2026 15:47:57 GMT</pubDate>
+        <pubDate>Sun, 17 May 2026 16:41:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[SC upholds Ivy’s bail in 2 more cases]]></title>
+            <description><![CDATA[[Bangladesh] SC upholds Ivy’s bail in 2 more cases]]></description>
+            <link>https://bdnews24.com/bangladesh/9af44864f055</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9af44864f055</guid>
+            <pubDate>Sun, 17 May 2026 22:35:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025May/SM/ivy-arrest-090525-201-1746760140.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[WHO declares Ebola global health emergency]]></title>
+            <description><![CDATA[[World] WHO declares Ebola global health emergency]]></description>
+            <link>https://bdnews24.com/world/c5d22afc37de</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/c5d22afc37de</guid>
+            <pubDate>Sun, 17 May 2026 21:59:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/who-ebola-outbreak-17052026-01-1779033457.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Seven hospitals fail to save 7-month old]]></title>
             <description><![CDATA[[Bangladesh] Seven hospitals fail to save 7-month old]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/38a23b45c8a2</guid>
             <pubDate>Sun, 17 May 2026 19:52:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/cid-arrest-170526-1779024876.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Southern US court shifts further right]]></title>
-            <description><![CDATA[[World] Southern US court shifts further right]]></description>
-            <link>https://bdnews24.com/world/4ea5f0c6c07b</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/4ea5f0c6c07b</guid>
-            <pubDate>Sun, 17 May 2026 19:50:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/appeals-court-170526-01-1779025737.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bail, withdrawal mark Bailey Road fire hearing]]></title>
-            <description><![CDATA[[Bangladesh] Bail, withdrawal mark Bailey Road fire hearing]]></description>
-            <link>https://bdnews24.com/bangladesh/42c2e1046410</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/42c2e1046410</guid>
-            <pubDate>Sun, 17 May 2026 19:48:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/baily-road-adib-170526-1779019803.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
