@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 17 May 2026 08:05:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 May 2026 10:15:24 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 17 May 2026 08:05:30 GMT</pubDate>
+        <pubDate>Sun, 17 May 2026 10:15:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bikers unwilling to pay advance tax submit memo to NBR]]></title>
+            <description><![CDATA[[Economy] Bikers unwilling to pay advance tax submit memo to NBR]]></description>
+            <link>https://bdnews24.com/economy/e2dbebe9e78f</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/e2dbebe9e78f</guid>
+            <pubDate>Sun, 17 May 2026 16:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/motor-cycle-tax-nbr-170526-01-1779004991.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tigers take lead as Nahid, Taijul topple Pakistan]]></title>
+            <description><![CDATA[[Cricket] Tigers take lead as Nahid, Taijul topple Pakistan]]></description>
+            <link>https://bdnews24.com/cricket/b92c23230150</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/b92c23230150</guid>
+            <pubDate>Sun, 17 May 2026 16:05:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/joy-tanzid-170526-01-1779010852.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman ‘dies in attack' over ‘ha-ha reaction’ in Cox’s Bazar]]></title>
+            <description><![CDATA[[Bangladesh] Woman ‘dies in attack' over ‘ha-ha reaction’ in Cox’s Bazar]]></description>
+            <link>https://bdnews24.com/bangladesh/7389aa7d756d</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7389aa7d756d</guid>
+            <pubDate>Sun, 17 May 2026 14:33:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/cox-murder-170526-01-1779004573.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[59mm of rain drenches Dhaka in 6 hours]]></title>
+            <description><![CDATA[[Bangladesh] 59mm of rain drenches Dhaka in 6 hours]]></description>
+            <link>https://bdnews24.com/bangladesh/488326dff3ac</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/488326dff3ac</guid>
+            <pubDate>Sun, 17 May 2026 14:08:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026March/SM/rain-dhaka-020326-00-1772447391.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Additional Secretary Abdul Mannan appointed Petrobangla chairman]]></title>
             <description><![CDATA[[Bangladesh] Additional Secretary Abdul Mannan appointed Petrobangla chairman]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/europe/7bacdd6c98fb</guid>
             <pubDate>Sun, 17 May 2026 09:17:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/london-protest-immigration-palestine-170526-01-1778987804.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Federal funding for Trump's ballroom in jeopardy]]></title>
-            <description><![CDATA[[Americas] Federal funding for Trump's ballroom in jeopardy]]></description>
-            <link>https://bdnews24.com/world/americas/d0feeca455dc</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/d0feeca455dc</guid>
-            <pubDate>Sun, 17 May 2026 09:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/white-house-ballroom-170526-01-1778987397.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Questions grow over Padma Barrage project]]></title>
-            <description><![CDATA[[Bangladesh] Questions grow over Padma Barrage project]]></description>
-            <link>https://bdnews24.com/bangladesh/a8d4d3de2963</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a8d4d3de2963</guid>
-            <pubDate>Sun, 17 May 2026 01:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/rajbari-pangsha-padma-160526-01-1778959070.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Neuer coy on Germany WC return]]></title>
-            <description><![CDATA[[Sport] Neuer coy on Germany WC return]]></description>
-            <link>https://bdnews24.com/sport/1b7ea49e5841</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/1b7ea49e5841</guid>
-            <pubDate>Sun, 17 May 2026 00:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/manuel-neuer-170526-01-1778956748.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kane hat-trick fires Bayern to 5-1 season finale win]]></title>
-            <description><![CDATA[[Sport] Kane hat-trick fires Bayern to 5-1 season finale win]]></description>
-            <link>https://bdnews24.com/sport/620ac1bcb80e</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/620ac1bcb80e</guid>
-            <pubDate>Sun, 17 May 2026 00:34:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/harry-kane-170526-01-1778956365.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
