@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 17 May 2026 05:38:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 May 2026 08:05:30 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 17 May 2026 05:38:03 GMT</pubDate>
+        <pubDate>Sun, 17 May 2026 08:05:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Additional Secretary Abdul Mannan appointed Petrobangla chairman]]></title>
+            <description><![CDATA[[Bangladesh] Additional Secretary Abdul Mannan appointed Petrobangla chairman]]></description>
+            <link>https://bdnews24.com/bangladesh/88a33c624a22</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/88a33c624a22</guid>
+            <pubDate>Sun, 17 May 2026 13:44:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/abdul-mannan-170526-1779004149.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[JU rape attempt: Registrar’s building locked down]]></title>
+            <description><![CDATA[[Campus] JU rape attempt: Registrar’s building locked down]]></description>
+            <link>https://bdnews24.com/campus/61c6fc6eccc9</link>
+            <guid isPermaLink="true">https://bdnews24.com/campus/61c6fc6eccc9</guid>
+            <pubDate>Sun, 17 May 2026 13:35:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/ju-movement-170526-01-1778998939.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chhatra League posters resurface on CU walls]]></title>
+            <description><![CDATA[[Campus] Chhatra League posters resurface on CU walls]]></description>
+            <link>https://bdnews24.com/campus/2344ebbbdb32</link>
+            <guid isPermaLink="true">https://bdnews24.com/campus/2344ebbbdb32</guid>
+            <pubDate>Sun, 17 May 2026 13:08:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/cu-bsl-poster-170526-01-1778997243.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[9-month-old dies with measles symptoms in Sherpur]]></title>
+            <description><![CDATA[[Health] 9-month-old dies with measles symptoms in Sherpur]]></description>
+            <link>https://bdnews24.com/health/0c30b6626a80</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/0c30b6626a80</guid>
+            <pubDate>Sun, 17 May 2026 12:54:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/sherpur-medical-170526-01-1778995830.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[68 rescued as fire breaks out on Delhi-bound train]]></title>
+            <description><![CDATA[[Neighbours] 68 rescued as fire breaks out on Delhi-bound train]]></description>
+            <link>https://bdnews24.com/neighbours/ce7f6b376d17</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/ce7f6b376d17</guid>
+            <pubDate>Sun, 17 May 2026 12:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/rajdhani-express-fire-india-170526-1778996098.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Taskin, Miraz put Pakistan under pressure]]></title>
+            <description><![CDATA[[Cricket] Taskin, Miraz put Pakistan under pressure]]></description>
+            <link>https://bdnews24.com/cricket/ab05c052ce68</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/ab05c052ce68</guid>
+            <pubDate>Sun, 17 May 2026 12:09:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/taskin-ahmed-170526-02-1778996779.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Republican Senator Cassidy loses re-election]]></title>
+            <description><![CDATA[[Americas] Republican Senator Cassidy loses re-election]]></description>
+            <link>https://bdnews24.com/world/americas/2146d452c516</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/2146d452c516</guid>
+            <pubDate>Sun, 17 May 2026 12:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/bill-cassidy-170526-01-1778998060.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[3 UPDF members held, firearm seized in CHT Army operation]]></title>
             <description><![CDATA[[Bangladesh] 3 UPDF members held, firearm seized in CHT Army operation]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/620ac1bcb80e</guid>
             <pubDate>Sun, 17 May 2026 00:34:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/harry-kane-170526-01-1778956365.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 held over Shah Ali shrine attack]]></title>
-            <description><![CDATA[[Bangladesh] 3 held over Shah Ali shrine attack]]></description>
-            <link>https://bdnews24.com/bangladesh/4baed899f425</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4baed899f425</guid>
-            <pubDate>Sun, 17 May 2026 00:19:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/sah-ali-vandalised-150526-04-1778835122.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Semenyo magic hands City FA Cup win]]></title>
-            <description><![CDATA[[Sport] Semenyo magic hands City FA Cup win]]></description>
-            <link>https://bdnews24.com/sport/f6b689723eef</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/f6b689723eef</guid>
-            <pubDate>Sun, 17 May 2026 00:18:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/man-city-170526-01-1778955290.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shah Ali shrine attack follows Yunus-era pattern: TIB]]></title>
-            <description><![CDATA[[Bangladesh] Shah Ali shrine attack follows Yunus-era pattern: TIB]]></description>
-            <link>https://bdnews24.com/bangladesh/c873f9dcae08</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c873f9dcae08</guid>
-            <pubDate>Sat, 16 May 2026 23:28:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/sah-ali-vandalised-150526-01-1778834914.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Salah urges Liverpool to revive 'heavy metal' football]]></title>
-            <description><![CDATA[[Sport] Salah urges Liverpool to revive 'heavy metal' football]]></description>
-            <link>https://bdnews24.com/sport/d6effe149e86</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/d6effe149e86</guid>
-            <pubDate>Sat, 16 May 2026 23:18:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/salah-liverpool-revive-16052026-01-1778951751.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cannes entry 'Gentle Monster' tackles taboo]]></title>
-            <description><![CDATA[[Entertainment] Cannes entry 'Gentle Monster' tackles taboo]]></description>
-            <link>https://bdnews24.com/entertainment/30302bd2d115</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/30302bd2d115</guid>
-            <pubDate>Sat, 16 May 2026 23:06:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/cannes-entry-gentle-monster-16052026-01-1778950959.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sudan PM meets President Shahabuddin in London]]></title>
-            <description><![CDATA[[Bangladesh] Sudan PM meets President Shahabuddin in London]]></description>
-            <link>https://bdnews24.com/bangladesh/795ac97fc4f5</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/795ac97fc4f5</guid>
-            <pubDate>Sat, 16 May 2026 22:57:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/president-sahabuddin-and-sudan-pm-kamal-idris-at-london-16052026-1778941789.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rural voters back Trump on Iran war]]></title>
-            <description><![CDATA[[Politics] Rural voters back Trump on Iran war]]></description>
-            <link>https://bdnews24.com/politics/d5ab4175ab6f</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/d5ab4175ab6f</guid>
-            <pubDate>Sat, 16 May 2026 22:28:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/donald-trump-160526-01-1778948693.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
