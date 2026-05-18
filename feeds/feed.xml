@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 18 May 2026 20:59:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 May 2026 22:01:02 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 18 May 2026 20:59:45 GMT</pubDate>
+        <pubDate>Mon, 18 May 2026 22:01:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Arsenal edge closer to league title]]></title>
+            <description><![CDATA[[Sport] Arsenal edge closer to league title]]></description>
+            <link>https://bdnews24.com/sport/1d1ab1731d5a</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/1d1ab1731d5a</guid>
+            <pubDate>Tue, 19 May 2026 03:44:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/arsenal-190526-01-1779140600.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[West Bengal cattle slaughter rules spark farmer backlash]]></title>
+            <description><![CDATA[[Neighbours] West Bengal cattle slaughter rules spark farmer backlash]]></description>
+            <link>https://bdnews24.com/neighbours/18c50b6d4fa0</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/18c50b6d4fa0</guid>
+            <pubDate>Tue, 19 May 2026 03:33:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/tangail-cow-170526-01-1779077606.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Guardiola to exit City after trophy-laden decade: report]]></title>
+            <description><![CDATA[[Sport] Guardiola to exit City after trophy-laden decade: report]]></description>
+            <link>https://bdnews24.com/sport/48cb55ad5ab9</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/48cb55ad5ab9</guid>
+            <pubDate>Tue, 19 May 2026 03:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/pep-guardiola-120526-01-1778595463.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[How Pakistan re-entered US crisis diplomacy]]></title>
             <description><![CDATA[[World] How Pakistan re-entered US crisis diplomacy]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/50bfb32198e8</guid>
             <pubDate>Mon, 18 May 2026 23:09:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/measles-patient-280426-020-1777390119.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘History repeating’ after HC guts Voting Rights Act: civil rights veterans]]></title>
-            <description><![CDATA[[World] ‘History repeating’ after HC guts Voting Rights Act: civil rights veterans]]></description>
-            <link>https://bdnews24.com/world/9ac29d27e683</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/9ac29d27e683</guid>
-            <pubDate>Mon, 18 May 2026 23:04:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/voting-rights-act-gutted-18052026-01-1779123769.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh gets $350mn WB loan for LNG imports]]></title>
-            <description><![CDATA[[Bangladesh] Bangladesh gets $350mn WB loan for LNG imports]]></description>
-            <link>https://bdnews24.com/bangladesh/05013ffefc76</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/05013ffefc76</guid>
-            <pubDate>Mon, 18 May 2026 22:58:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/world-bank-180526-01-1779120576.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Affair led to Saudi expat's murder in Dhaka: RAB]]></title>
-            <description><![CDATA[[Bangladesh] Affair led to Saudi expat's murder in Dhaka: RAB]]></description>
-            <link>https://bdnews24.com/bangladesh/2ddc48279ae7</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2ddc48279ae7</guid>
-            <pubDate>Mon, 18 May 2026 22:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/b-baria-mokarram-dead-body-180526-001-1779120002.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
