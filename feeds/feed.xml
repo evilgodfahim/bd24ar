@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 18 May 2026 19:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 May 2026 20:59:45 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 18 May 2026 19:20:24 GMT</pubDate>
+        <pubDate>Mon, 18 May 2026 20:59:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How Pakistan re-entered US crisis diplomacy]]></title>
+            <description><![CDATA[[World] How Pakistan re-entered US crisis diplomacy]]></description>
+            <link>https://bdnews24.com/world/72da76875fb0</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/72da76875fb0</guid>
+            <pubDate>Tue, 19 May 2026 02:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025October/SM/donald-trump-asim-munir-041025-011-1759601869.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Daffodil University builds smart biogas plant]]></title>
             <description><![CDATA[[Campus] Daffodil University builds smart biogas plant]]></description>
@@ -89,8 +97,8 @@
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/gautam-adani-150526-01-1778816089.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[US imposes temporary Ebola travel curbs]]></title>
-            <description><![CDATA[[Americas] US imposes temporary Ebola travel curbs]]></description>
+            <title><![CDATA[US citizen tests positive for Ebola in DRC]]></title>
+            <description><![CDATA[[Americas] US citizen tests positive for Ebola in DRC]]></description>
             <link>https://bdnews24.com/world/americas/153da255a833</link>
             <guid isPermaLink="true">https://bdnews24.com/world/americas/153da255a833</guid>
             <pubDate>Tue, 19 May 2026 00:15:00 GMT</pubDate>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/2ddc48279ae7</guid>
             <pubDate>Mon, 18 May 2026 22:55:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/b-baria-mokarram-dead-body-180526-001-1779120002.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4 die in Kenya fuel protests]]></title>
-            <description><![CDATA[[Africa] 4 die in Kenya fuel protests]]></description>
-            <link>https://bdnews24.com/world/africa/c98fe656ab99</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/africa/c98fe656ab99</guid>
-            <pubDate>Mon, 18 May 2026 22:53:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/kenya-protest-180526-01-1779123129.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
