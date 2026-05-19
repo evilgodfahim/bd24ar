@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 19 May 2026 20:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 May 2026 22:03:09 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 19 May 2026 20:21:53 GMT</pubDate>
+        <pubDate>Tue, 19 May 2026 22:03:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Mahfuj weighs in on Awami League’s 'return']]></title>
+            <description><![CDATA[[Politics] Mahfuj weighs in on Awami League’s 'return']]></description>
+            <link>https://bdnews24.com/politics/aa6db9af6282</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/aa6db9af6282</guid>
+            <pubDate>Wed, 20 May 2026 03:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/mahfuj-alam-190526-1779221315.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Set-piece kings Arsenal seal Premier League title]]></title>
+            <description><![CDATA[[Sport] Set-piece kings Arsenal seal Premier League title]]></description>
+            <link>https://bdnews24.com/sport/cd8a994b06e9</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/cd8a994b06e9</guid>
+            <pubDate>Wed, 20 May 2026 02:50:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/arsenal-pl-200526-01-1779223743.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Iran begin Turkey camp]]></title>
             <description><![CDATA[[Sport] Iran begin Turkey camp]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/health/a0315333d015</guid>
             <pubDate>Tue, 19 May 2026 23:01:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/ifad-19052026-1779210062.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How a housing pivot could rescue Starmer]]></title>
-            <description><![CDATA[[Opinion] How a housing pivot could rescue Starmer]]></description>
-            <link>https://bdnews24.com/opinion/b270c6ac71b0</link>
-            <guid isPermaLink="true">https://bdnews24.com/opinion/b270c6ac71b0</guid>
-            <pubDate>Tue, 19 May 2026 22:56:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/housing-pivot-starmer-19052026-01-1779209649.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[G7 will confront China with imbalances data: Bessent]]></title>
-            <description><![CDATA[[Business] G7 will confront China with imbalances data: Bessent]]></description>
-            <link>https://bdnews24.com/business/3dcd77cd520c</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/3dcd77cd520c</guid>
-            <pubDate>Tue, 19 May 2026 22:19:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/g7-china-bessent-19052026-01-1779207499.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
