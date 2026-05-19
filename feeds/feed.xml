@@ -4,10 +4,82 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 19 May 2026 16:42:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 May 2026 18:29:55 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 19 May 2026 16:42:14 GMT</pubDate>
+        <pubDate>Tue, 19 May 2026 18:29:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Pallabi girl murder suspect held]]></title>
+            <description><![CDATA[[Bangladesh] Pallabi girl murder suspect held]]></description>
+            <link>https://bdnews24.com/bangladesh/2624284b545f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2624284b545f</guid>
+            <pubDate>Wed, 20 May 2026 00:13:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/ramisha-school-student-death-190526-1779206290.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US may attack Iran again: Trump]]></title>
+            <description><![CDATA[[World] US may attack Iran again: Trump]]></description>
+            <link>https://bdnews24.com/world/a181e390a1a5</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/a181e390a1a5</guid>
+            <pubDate>Wed, 20 May 2026 00:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/donald-trump-190526-01-1779214287.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US ‘in no hurry’ to extend China trade truce: Bessent]]></title>
+            <description><![CDATA[[Business] US ‘in no hurry’ to extend China trade truce: Bessent]]></description>
+            <link>https://bdnews24.com/business/f037b56a6d4e</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/f037b56a6d4e</guid>
+            <pubDate>Wed, 20 May 2026 00:10:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/us-china-trade-truce-19052026-01-1779214158.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[High gas prices spur Americans to improvise]]></title>
+            <description><![CDATA[[World] High gas prices spur Americans to improvise]]></description>
+            <link>https://bdnews24.com/world/4251ae621be2</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/4251ae621be2</guid>
+            <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/car-alternatives-usa-19052026-01-1779213525.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russians ‘trained’ by China return to fight]]></title>
+            <description><![CDATA[[World] Russians ‘trained’ by China return to fight]]></description>
+            <link>https://bdnews24.com/world/ae5a779935a4</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ae5a779935a4</guid>
+            <pubDate>Tue, 19 May 2026 23:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/china-trained-russians-19052026-01-1779212462.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[30 workers fall ill at Gazipur factory]]></title>
+            <description><![CDATA[[Bangladesh] 30 workers fall ill at Gazipur factory]]></description>
+            <link>https://bdnews24.com/bangladesh/c1fa05652a60</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c1fa05652a60</guid>
+            <pubDate>Tue, 19 May 2026 23:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/gazipur-garments-190526-01-1779206704.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[HC issues rule over measles deaths, vaccine lapse]]></title>
+            <description><![CDATA[[Bangladesh] HC issues rule over measles deaths, vaccine lapse]]></description>
+            <link>https://bdnews24.com/bangladesh/3c479efbc81b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3c479efbc81b</guid>
+            <pubDate>Tue, 19 May 2026 23:22:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/measles-patient-280426-020-1777390119.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[IFAD-GAIN project aims to improve Bangladeshi diets]]></title>
+            <description><![CDATA[[Health] IFAD-GAIN project aims to improve Bangladeshi diets]]></description>
+            <link>https://bdnews24.com/health/a0315333d015</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/a0315333d015</guid>
+            <pubDate>Tue, 19 May 2026 23:01:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/ifad-19052026-1779210062.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How a housing pivot could rescue Starmer]]></title>
+            <description><![CDATA[[Opinion] How a housing pivot could rescue Starmer]]></description>
+            <link>https://bdnews24.com/opinion/b270c6ac71b0</link>
+            <guid isPermaLink="true">https://bdnews24.com/opinion/b270c6ac71b0</guid>
+            <pubDate>Tue, 19 May 2026 22:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/housing-pivot-starmer-19052026-01-1779209649.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[G7 will confront China with imbalances data: Bessent]]></title>
             <description><![CDATA[[Business] G7 will confront China with imbalances data: Bessent]]></description>
@@ -95,78 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/business/6042b2092c3f</guid>
             <pubDate>Tue, 19 May 2026 21:30:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024July/SM/credit-card-040420-1721065514.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mohammadpur ‘drug lord’ held at airport]]></title>
-            <description><![CDATA[[Bangladesh] Mohammadpur ‘drug lord’ held at airport]]></description>
-            <link>https://bdnews24.com/bangladesh/b0b7d8461a34</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b0b7d8461a34</guid>
-            <pubDate>Tue, 19 May 2026 21:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/pichchi-raja-190526-01-1779205360.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[May 19, 2026]]></title>
-            <description><![CDATA[[Image] May 19, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/d1244675ab48</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/d1244675ab48</guid>
-            <pubDate>Tue, 19 May 2026 21:27:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/tareque-rahmn-190526-07-1779192524.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Musk’s failed OpenAI attack may scar Altman’s reputation]]></title>
-            <description><![CDATA[[World] Musk’s failed OpenAI attack may scar Altman’s reputation]]></description>
-            <link>https://bdnews24.com/world/6db599055c39</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/6db599055c39</guid>
-            <pubDate>Tue, 19 May 2026 21:20:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/musk-attack-altman-19052026-01-1779203924.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX's upgraded Starship V3 ready for debut]]></title>
-            <description><![CDATA[[Technology] SpaceX's upgraded Starship V3 ready for debut]]></description>
-            <link>https://bdnews24.com/technology/64bf5043f3df</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/64bf5043f3df</guid>
-            <pubDate>Tue, 19 May 2026 21:06:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/spacex-starshipv3-launch-19052026-01-1779203068.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PM orders cleanup of Gulshan, Banani, Baridhara lakes]]></title>
-            <description><![CDATA[[Bangladesh] PM orders cleanup of Gulshan, Banani, Baridhara lakes]]></description>
-            <link>https://bdnews24.com/bangladesh/87a161505a42</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/87a161505a42</guid>
-            <pubDate>Tue, 19 May 2026 21:05:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/pm-gulshan-lake-190526-01-1779201866.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australia probes Sydney triple family killing]]></title>
-            <description><![CDATA[[Diaspora] Australia probes Sydney triple family killing]]></description>
-            <link>https://bdnews24.com/diaspora/2c674d014dfe</link>
-            <guid isPermaLink="true">https://bdnews24.com/diaspora/2c674d014dfe</guid>
-            <pubDate>Tue, 19 May 2026 20:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/aus-probe-syney-murder-19052026-01-1779202137.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Former mayor Atiqul denied bail in murder case]]></title>
-            <description><![CDATA[[Bangladesh] Former mayor Atiqul denied bail in murder case]]></description>
-            <link>https://bdnews24.com/bangladesh/4195a59f46bd</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4195a59f46bd</guid>
-            <pubDate>Tue, 19 May 2026 20:24:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/formar-meyor-atik-190526-1779196059.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[19,500 litres of fuel, cooking oil seized in Ctg]]></title>
-            <description><![CDATA[[Bangladesh] 19,500 litres of fuel, cooking oil seized in Ctg]]></description>
-            <link>https://bdnews24.com/bangladesh/7220b0ffea12</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7220b0ffea12</guid>
-            <pubDate>Tue, 19 May 2026 20:07:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/ctg-fuel-cost-gaurd-190526-01-1779198584.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[170 more stranded Bangladeshis return from Libya]]></title>
-            <description><![CDATA[[Bangladesh] 170 more stranded Bangladeshis return from Libya]]></description>
-            <link>https://bdnews24.com/bangladesh/bfba1f25eef0</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/bfba1f25eef0</guid>
-            <pubDate>Tue, 19 May 2026 19:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/libya-repatriation-230426-01-1776952597.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
