@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 20 May 2026 16:42:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2026 19:10:56 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 20 May 2026 16:42:03 GMT</pubDate>
+        <pubDate>Wed, 20 May 2026 19:10:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Uttara University hosts HR Summit]]></title>
+            <description><![CDATA[[Campus] Uttara University hosts HR Summit]]></description>
+            <link>https://bdnews24.com/campus/2ad7fc82cf79</link>
+            <guid isPermaLink="true">https://bdnews24.com/campus/2ad7fc82cf79</guid>
+            <pubDate>Thu, 21 May 2026 00:55:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/uttara-uni-20052026-1779303329.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[NBR faces massive Tk 1.76tn revenue shortfall]]></title>
+            <description><![CDATA[[Economy] NBR faces massive Tk 1.76tn revenue shortfall]]></description>
+            <link>https://bdnews24.com/economy/84a2db9c9e31</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/84a2db9c9e31</guid>
+            <pubDate>Thu, 21 May 2026 00:16:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024July/SM/1000-taka-note-250724-1721911694.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Remittances hit $2.5bn in 19 days]]></title>
+            <description><![CDATA[[Economy] Remittances hit $2.5bn in 19 days]]></description>
+            <link>https://bdnews24.com/economy/3efeac7ec041</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/3efeac7ec041</guid>
+            <pubDate>Thu, 21 May 2026 00:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025June/SM/dollar-remittence-290625-01-1751202760.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[4 new gas wells to feed grid next year: state minister]]></title>
+            <description><![CDATA[[Bangladesh] 4 new gas wells to feed grid next year: state minister]]></description>
+            <link>https://bdnews24.com/bangladesh/a47d7922be2e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a47d7922be2e</guid>
+            <pubDate>Wed, 20 May 2026 23:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/gazipur-gash-200526-01-1779293880.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Power Grid seeks 60% hike in transmission charges]]></title>
+            <description><![CDATA[[Bangladesh] Power Grid seeks 60% hike in transmission charges]]></description>
+            <link>https://bdnews24.com/bangladesh/f9d16314aec9</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f9d16314aec9</guid>
+            <pubDate>Wed, 20 May 2026 23:16:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/berc-public-hearing-200526-101-1779293633.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[IUB hosts Career and Networking Day]]></title>
+            <description><![CDATA[[Campus] IUB hosts Career and Networking Day]]></description>
+            <link>https://bdnews24.com/campus/8e0470714146</link>
+            <guid isPermaLink="true">https://bdnews24.com/campus/8e0470714146</guid>
+            <pubDate>Wed, 20 May 2026 23:09:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/iub-20052026-1779296966.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[50 rickshaws featuring US flag hit Dhaka street]]></title>
+            <description><![CDATA[[Bangladesh] 50 rickshaws featuring US flag hit Dhaka street]]></description>
+            <link>https://bdnews24.com/bangladesh/cad079f25949</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cad079f25949</guid>
+            <pubDate>Wed, 20 May 2026 23:06:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/us-flagged-rickshaw-200526-01-1779292775.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Xi, Putin unite against US but fail on gas deal]]></title>
             <description><![CDATA[[World] Xi, Putin unite against US but fail on gas deal]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/a9407ec77da3</guid>
             <pubDate>Wed, 20 May 2026 19:33:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/strait-of-hormuz-200526-01-1-1779283886.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[North London erupts as Arsenal win title]]></title>
-            <description><![CDATA[[Sport] North London erupts as Arsenal win title]]></description>
-            <link>https://bdnews24.com/sport/a9e14a9c0a90</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/a9e14a9c0a90</guid>
-            <pubDate>Wed, 20 May 2026 19:07:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/arsenal-fans-200526-01-1779282332.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tigers climb to best-ever Test ranking]]></title>
-            <description><![CDATA[[Cricket] Tigers climb to best-ever Test ranking]]></description>
-            <link>https://bdnews24.com/cricket/1a9f84e975bb</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/1a9f84e975bb</guid>
-            <pubDate>Wed, 20 May 2026 18:58:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/bangladesh-win-200526-1779265254.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UEFA bans Czech coach for life over secret filming]]></title>
-            <description><![CDATA[[Sport] UEFA bans Czech coach for life over secret filming]]></description>
-            <link>https://bdnews24.com/sport/dde6d691e1c0</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/dde6d691e1c0</guid>
-            <pubDate>Wed, 20 May 2026 18:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/uefa-logo-200526-01-1779281672.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tanzanian held with ‘cocaine’ in Dhaka]]></title>
-            <description><![CDATA[[Bangladesh] Tanzanian held with ‘cocaine’ in Dhaka]]></description>
-            <link>https://bdnews24.com/bangladesh/a520959a4777</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a520959a4777</guid>
-            <pubDate>Wed, 20 May 2026 18:53:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/cocaine-20526-1779281573.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spurs survival clash bigger than trophy: De Zerbi]]></title>
-            <description><![CDATA[[Sport] Spurs survival clash bigger than trophy: De Zerbi]]></description>
-            <link>https://bdnews24.com/sport/295c31a69d09</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/295c31a69d09</guid>
-            <pubDate>Wed, 20 May 2026 18:38:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/de-zerbi-200526-01-1779280542.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mirza Abbas seeks prayers from nation]]></title>
-            <description><![CDATA[[Bangladesh] Mirza Abbas seeks prayers from nation]]></description>
-            <link>https://bdnews24.com/bangladesh/d6f41d2428cb</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d6f41d2428cb</guid>
-            <pubDate>Wed, 20 May 2026 18:35:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/mirza-abbas-malaysia-hospital-060526-01-1778079620.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tigers now ready for elite Test battle: Wasim Akram]]></title>
-            <description><![CDATA[[Cricket] Tigers now ready for elite Test battle: Wasim Akram]]></description>
-            <link>https://bdnews24.com/cricket/a98da97aaaad</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/a98da97aaaad</guid>
-            <pubDate>Wed, 20 May 2026 18:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/bangladesh-200625-01-1779274990.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
