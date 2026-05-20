@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 20 May 2026 19:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2026 21:27:35 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 20 May 2026 19:10:56 GMT</pubDate>
+        <pubDate>Wed, 20 May 2026 21:27:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Aston Villa lift Europa League trophy]]></title>
+            <description><![CDATA[[Sport] Aston Villa lift Europa League trophy]]></description>
+            <link>https://bdnews24.com/sport/3aa2c6e49872</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/3aa2c6e49872</guid>
+            <pubDate>Thu, 21 May 2026 03:13:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/aston-villa-210526-01-1779311569.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lopez set to miss World Cup after foot surgery]]></title>
+            <description><![CDATA[[Sport] Lopez set to miss World Cup after foot surgery]]></description>
+            <link>https://bdnews24.com/sport/9a8b2f3fbe5c</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/9a8b2f3fbe5c</guid>
+            <pubDate>Thu, 21 May 2026 02:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/fermin-lopez-210526-01-1779309660.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Etienne Davignon dies before Lumumba assassination trial]]></title>
+            <description><![CDATA[[World] Etienne Davignon dies before Lumumba assassination trial]]></description>
+            <link>https://bdnews24.com/world/533353f84dc0</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/533353f84dc0</guid>
+            <pubDate>Thu, 21 May 2026 02:37:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/davignon-210522026-1779309451.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why are infants under 9 months dying of measles?]]></title>
+            <description><![CDATA[[Health] Why are infants under 9 months dying of measles?]]></description>
+            <link>https://bdnews24.com/health/fa3c90b75c61</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/fa3c90b75c61</guid>
+            <pubDate>Thu, 21 May 2026 02:34:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/measles-patient-dncc-hospital-120526-028-1778590985.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[West Bengal to implement controversial Citizenship Act]]></title>
+            <description><![CDATA[[Neighbours] West Bengal to implement controversial Citizenship Act]]></description>
+            <link>https://bdnews24.com/neighbours/5ae83861ad53</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/5ae83861ad53</guid>
+            <pubDate>Thu, 21 May 2026 02:23:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/suvendu-adhikary-200526-1779304044.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US indicts Cuba’s Raul Castro for murder]]></title>
+            <description><![CDATA[[World] US indicts Cuba’s Raul Castro for murder]]></description>
+            <link>https://bdnews24.com/world/26ac1a714175</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/26ac1a714175</guid>
+            <pubDate>Thu, 21 May 2026 01:15:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/raul-castro-210526-01-1779304444.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Uttara University hosts HR Summit]]></title>
             <description><![CDATA[[Campus] Uttara University hosts HR Summit]]></description>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/0778ca875ae4</guid>
             <pubDate>Wed, 20 May 2026 20:42:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025July/SM/khairul-hauque-240725-001-1753371152.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Negotiations with Iran in final stages: Trump]]></title>
-            <description><![CDATA[[World] Negotiations with Iran in final stages: Trump]]></description>
-            <link>https://bdnews24.com/world/667281b3d280</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/667281b3d280</guid>
-            <pubDate>Wed, 20 May 2026 20:16:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/us-aircraft-200526-01-1779286499.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tarique pledges Teesta, Padma barrages]]></title>
-            <description><![CDATA[[Bangladesh] Tarique pledges Teesta, Padma barrages]]></description>
-            <link>https://bdnews24.com/bangladesh/448ef68ab208</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/448ef68ab208</guid>
-            <pubDate>Wed, 20 May 2026 20:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/pm-gazipur-2090526-1779279836.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mushfiqur wins first Test Player of the Series at 39]]></title>
-            <description><![CDATA[[Sport] Mushfiqur wins first Test Player of the Series at 39]]></description>
-            <link>https://bdnews24.com/sport/081695348baa</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/081695348baa</guid>
-            <pubDate>Wed, 20 May 2026 19:56:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/mushifiqur-rahim-bangladesh-200526-1779274820.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vance or Rubio for 2028?]]></title>
-            <description><![CDATA[[World] Vance or Rubio for 2028?]]></description>
-            <link>https://bdnews24.com/world/67e12b400f20</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/67e12b400f20</guid>
-            <pubDate>Wed, 20 May 2026 19:48:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/jd-vance-200526-01-1779284837.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4 teens die in septic tank accident]]></title>
-            <description><![CDATA[[Bangladesh] 4 teens die in septic tank accident]]></description>
-            <link>https://bdnews24.com/bangladesh/aa95bc303224</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/aa95bc303224</guid>
-            <pubDate>Wed, 20 May 2026 19:46:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/brahmanbaria-septic-tank-200526-01-1779282200.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran expands hold over Hormuz]]></title>
-            <description><![CDATA[[World] Iran expands hold over Hormuz]]></description>
-            <link>https://bdnews24.com/world/a9407ec77da3</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/a9407ec77da3</guid>
-            <pubDate>Wed, 20 May 2026 19:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/strait-of-hormuz-200526-01-1-1779283886.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
