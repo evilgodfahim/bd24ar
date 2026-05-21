@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 May 2026 20:28:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2026 22:08:35 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 21 May 2026 20:28:06 GMT</pubDate>
+        <pubDate>Thu, 21 May 2026 22:08:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Rogers wins Europa League player of the season]]></title>
+            <description><![CDATA[[Sport] Rogers wins Europa League player of the season]]></description>
+            <link>https://bdnews24.com/sport/c08daa3a6855</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/c08daa3a6855</guid>
+            <pubDate>Fri, 22 May 2026 02:35:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/morgan-rogers-210526-01-1779395693.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Maguire hurt by England omission]]></title>
+            <description><![CDATA[[Sport] Maguire hurt by England omission]]></description>
+            <link>https://bdnews24.com/sport/88841553088c</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/88841553088c</guid>
+            <pubDate>Fri, 22 May 2026 02:34:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026April/SM/maguire-desperate-09042026-01-1775752358.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Riquelme eyes Real Madrid presidency]]></title>
+            <description><![CDATA[[Sport] Riquelme eyes Real Madrid presidency]]></description>
+            <link>https://bdnews24.com/sport/2dd39eb417c9</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/2dd39eb417c9</guid>
+            <pubDate>Fri, 22 May 2026 02:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/enrique-riquelme-210526-01-1779395492.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Artists have to speak out against 'monsters' like Trump: Almodovar]]></title>
+            <description><![CDATA[[Entertainment] Artists have to speak out against 'monsters' like Trump: Almodovar]]></description>
+            <link>https://bdnews24.com/entertainment/e102d2c81798</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/e102d2c81798</guid>
+            <pubDate>Fri, 22 May 2026 02:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/almodovar-trump-21052026-01-1779395344.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Pallabi child ‘rape, murder’ chargesheet due Sunday: minister]]></title>
             <description><![CDATA[[Bangladesh] Pallabi child ‘rape, murder’ chargesheet due Sunday: minister]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/29b0768849a7</guid>
             <pubDate>Thu, 21 May 2026 22:45:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/russia-nuclear-muscles-21052026-01-1779381860.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mirpur roads blocked as locals protest child’s murder]]></title>
-            <description><![CDATA[[Bangladesh] Mirpur roads blocked as locals protest child’s murder]]></description>
-            <link>https://bdnews24.com/bangladesh/c05cd2cc43fb</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c05cd2cc43fb</guid>
-            <pubDate>Thu, 21 May 2026 22:43:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/ramisa-murder-protest-2120526-02-1779380352.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[West Bengal launches ‘direct deportation’]]></title>
-            <description><![CDATA[[Neighbours] West Bengal launches ‘direct deportation’]]></description>
-            <link>https://bdnews24.com/neighbours/1e289f3a0a60</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/1e289f3a0a60</guid>
-            <pubDate>Thu, 21 May 2026 22:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/suvendu-adhikari-210526-1779376679.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BGB on duty at key transit hubs for Eid]]></title>
-            <description><![CDATA[[Bangladesh] BGB on duty at key transit hubs for Eid]]></description>
-            <link>https://bdnews24.com/bangladesh/6536cf190e7b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6536cf190e7b</guid>
-            <pubDate>Thu, 21 May 2026 22:38:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/bgb-dhaka-210526-1779379179.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[S Alam gets 5-month civil jail over loan default]]></title>
-            <description><![CDATA[[Bangladesh] S Alam gets 5-month civil jail over loan default]]></description>
-            <link>https://bdnews24.com/bangladesh/2a67fb806a9f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2a67fb806a9f</guid>
-            <pubDate>Thu, 21 May 2026 22:34:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024August/SM/saiful-alam-masud-s-alam-150824-1723728764.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
