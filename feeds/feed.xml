@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 22 May 2026 20:26:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 May 2026 21:54:54 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 22 May 2026 20:26:27 GMT</pubDate>
+        <pubDate>Fri, 22 May 2026 21:54:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Vegetable prices steady, protein packs punch]]></title>
+            <description><![CDATA[[Bangladesh] Vegetable prices steady, protein packs punch]]></description>
+            <link>https://bdnews24.com/bangladesh/49adebf4be6f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/49adebf4be6f</guid>
+            <pubDate>Sat, 23 May 2026 03:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/market-price-fish-220526-12-1779462223.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Colbert exit signals late-night shift to podcasts]]></title>
+            <description><![CDATA[[Entertainment] Colbert exit signals late-night shift to podcasts]]></description>
+            <link>https://bdnews24.com/entertainment/288ef535084d</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/288ef535084d</guid>
+            <pubDate>Sat, 23 May 2026 03:05:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/colbert-podcast-23052026-01-1779483832.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[De Zerbi wants Spurs to play with 'blood, character, spirit']]></title>
+            <description><![CDATA[[Sport] De Zerbi wants Spurs to play with 'blood, character, spirit']]></description>
+            <link>https://bdnews24.com/sport/c6f6037388cc</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/c6f6037388cc</guid>
+            <pubDate>Sat, 23 May 2026 02:57:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/de-zerbi-spurs-23052026-01-1779483406.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Official tried to ban voting machines used by half of US]]></title>
+            <description><![CDATA[[World] Official tried to ban voting machines used by half of US]]></description>
+            <link>https://bdnews24.com/world/1496a064c2e7</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/1496a064c2e7</guid>
+            <pubDate>Sat, 23 May 2026 02:38:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/official-ban-voting-machines-23052026-01-1779482257.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Bayern season verdict will come after Cup final: Kompany]]></title>
             <description><![CDATA[[Sport] Bayern season verdict will come after Cup final: Kompany]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/c3c77476a3cf</guid>
             <pubDate>Fri, 22 May 2026 23:45:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/tuchel-england-squad-22052026-01-1779471876.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Salah and I want what’s best for Liverpool: Slot]]></title>
-            <description><![CDATA[[Sport] Salah and I want what’s best for Liverpool: Slot]]></description>
-            <link>https://bdnews24.com/sport/9e50beb8d11f</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/9e50beb8d11f</guid>
-            <pubDate>Fri, 22 May 2026 23:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/salah-slot-220526-01-1779466291.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Outgoing Man City manager Guardiola's career, achievements]]></title>
-            <description><![CDATA[[Sport] Outgoing Man City manager Guardiola's career, achievements]]></description>
-            <link>https://bdnews24.com/sport/4fe417653bd4</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/4fe417653bd4</guid>
-            <pubDate>Fri, 22 May 2026 23:28:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/guardiola-career-22052026-01-1779470675.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Donald Trump’ buffalo becomes Eid sensation]]></title>
-            <description><![CDATA[[Lifestyle] ‘Donald Trump’ buffalo becomes Eid sensation]]></description>
-            <link>https://bdnews24.com/lifestyle/9b0483dde6e9</link>
-            <guid isPermaLink="true">https://bdnews24.com/lifestyle/9b0483dde6e9</guid>
-            <pubDate>Fri, 22 May 2026 23:23:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/donald-trump-buffalo-22052026-01-1779470552.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bakalia child rape suspect ‘confesses’ in court]]></title>
-            <description><![CDATA[[Bangladesh] Bakalia child rape suspect ‘confesses’ in court]]></description>
-            <link>https://bdnews24.com/bangladesh/9c67f2bba8d0</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9c67f2bba8d0</guid>
-            <pubDate>Fri, 22 May 2026 23:16:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/chattogram-arrested-monir-hosan-220526-01-1779464736.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
