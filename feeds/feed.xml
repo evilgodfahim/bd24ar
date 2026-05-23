@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 23 May 2026 19:59:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 May 2026 20:50:21 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 23 May 2026 19:59:27 GMT</pubDate>
+        <pubDate>Sat, 23 May 2026 20:50:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Riquelme to run for Real Madrid presidency]]></title>
+            <description><![CDATA[[Sport] Riquelme to run for Real Madrid presidency]]></description>
+            <link>https://bdnews24.com/sport/5c68b4a7509b</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/5c68b4a7509b</guid>
+            <pubDate>Sun, 24 May 2026 02:49:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/enrique-riquelme-240526-01-1779569261.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka hawker relocation plan faces questions]]></title>
+            <description><![CDATA[[Bangladesh] Dhaka hawker relocation plan faces questions]]></description>
+            <link>https://bdnews24.com/bangladesh/ab9c9411fac0</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ab9c9411fac0</guid>
+            <pubDate>Sun, 24 May 2026 02:44:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/dhaka-hawkers-market-170526-08-1779565531.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Celtic seal double with Scottish Cup win]]></title>
             <description><![CDATA[[Sport] Celtic seal double with Scottish Cup win]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/acc6a7065fbd</guid>
             <pubDate>Sat, 23 May 2026 22:29:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/dorm-strike-230526-01-1779553665.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[DR Congo will not change WC preparations]]></title>
-            <description><![CDATA[[Sport] DR Congo will not change WC preparations]]></description>
-            <link>https://bdnews24.com/sport/46b9f0b701e9</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/46b9f0b701e9</guid>
-            <pubDate>Sat, 23 May 2026 21:57:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/congo-wc-prep-23052026-01-1779551732.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 Ansar men accused of PM durbar chaos]]></title>
-            <description><![CDATA[[Bangladesh] 3 Ansar men accused of PM durbar chaos]]></description>
-            <link>https://bdnews24.com/bangladesh/6460b5919c7c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6460b5919c7c</guid>
-            <pubDate>Sat, 23 May 2026 21:46:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/gazipur-court-230526-01-1779545906.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
