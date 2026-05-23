@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 23 May 2026 17:52:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 May 2026 18:51:16 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 23 May 2026 17:52:01 GMT</pubDate>
+        <pubDate>Sat, 23 May 2026 18:51:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US, Iran report progress on talks ending war]]></title>
+            <description><![CDATA[[World] US, Iran report progress on talks ending war]]></description>
+            <link>https://bdnews24.com/world/0e27fc611fca</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/0e27fc611fca</guid>
+            <pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/us-iran-progress-23052026-01-1779559070.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Iraq turn to ex-captain Mahmoud as FA chief]]></title>
             <description><![CDATA[[Sport] Iraq turn to ex-captain Mahmoud as FA chief]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/8dc40b125526</guid>
             <pubDate>Sat, 23 May 2026 21:23:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/mir-shahe-alam-and-asif-mahmud-23052026-1779545736.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chinese team visits proposed Dharla Bridge site]]></title>
-            <description><![CDATA[[Bangladesh] Chinese team visits proposed Dharla Bridge site]]></description>
-            <link>https://bdnews24.com/bangladesh/a51045fdaa88</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a51045fdaa88</guid>
-            <pubDate>Sat, 23 May 2026 21:21:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/kurigram-bridge-visit-230526-01-1779541318.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
