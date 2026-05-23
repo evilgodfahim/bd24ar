@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 23 May 2026 20:50:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 May 2026 21:42:10 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 23 May 2026 20:50:21 GMT</pubDate>
+        <pubDate>Sat, 23 May 2026 21:42:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[ACC probes BAT Bangladesh ‘ownership fraud’ claims]]></title>
+            <description><![CDATA[[Business] ACC probes BAT Bangladesh ‘ownership fraud’ claims]]></description>
+            <link>https://bdnews24.com/business/0301de28d49e</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/0301de28d49e</guid>
+            <pubDate>Sun, 24 May 2026 03:08:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024October/SM/bat-bangladesh-300924-1-1727719382.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kane hat-trick hands Bayern German Cup victory]]></title>
+            <description><![CDATA[[Sport] Kane hat-trick hands Bayern German Cup victory]]></description>
+            <link>https://bdnews24.com/sport/de4b5e06c1c9</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/de4b5e06c1c9</guid>
+            <pubDate>Sun, 24 May 2026 02:51:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/harry-kane-240526-02-1779569418.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Riquelme to run for Real Madrid presidency]]></title>
             <description><![CDATA[[Sport] Riquelme to run for Real Madrid presidency]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/0098cc9f02f7</guid>
             <pubDate>Sat, 23 May 2026 22:38:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/al-leader-humayun-230526-01jpg-1779548739.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US, Iran near 60-day ceasefire extension: FT]]></title>
-            <description><![CDATA[[World] US, Iran near 60-day ceasefire extension: FT]]></description>
-            <link>https://bdnews24.com/world/c773d1034b55</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/c773d1034b55</guid>
-            <pubDate>Sat, 23 May 2026 22:32:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/iran-pakistan-230526-01-1779553875.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Russia claims Ukraine strike killed 18 in dorm]]></title>
-            <description><![CDATA[[World] Russia claims Ukraine strike killed 18 in dorm]]></description>
-            <link>https://bdnews24.com/world/acc6a7065fbd</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/acc6a7065fbd</guid>
-            <pubDate>Sat, 23 May 2026 22:29:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/dorm-strike-230526-01-1779553665.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
