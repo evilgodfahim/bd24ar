@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 23 May 2026 05:30:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 May 2026 08:01:33 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 23 May 2026 05:30:12 GMT</pubDate>
+        <pubDate>Sat, 23 May 2026 08:01:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bus-truck crash kills 3 in Kushtia]]></title>
+            <description><![CDATA[[Bangladesh] Bus-truck crash kills 3 in Kushtia]]></description>
+            <link>https://bdnews24.com/bangladesh/cc61c0a235d5</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cc61c0a235d5</guid>
+            <pubDate>Sat, 23 May 2026 13:44:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/kustia-accident-230526-01-1779521884.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mob attack sends child rape suspect to ICU]]></title>
+            <description><![CDATA[[Bangladesh] Mob attack sends child rape suspect to ICU]]></description>
+            <link>https://bdnews24.com/bangladesh/86f79659bda4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/86f79659bda4</guid>
+            <pubDate>Sat, 23 May 2026 13:15:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/fatulla-thana-230526-201-1779519191.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman’s charred body found in Gazipur home]]></title>
+            <description><![CDATA[[Bangladesh] Woman’s charred body found in Gazipur home]]></description>
+            <link>https://bdnews24.com/bangladesh/b9eaa3ae5f34</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b9eaa3ae5f34</guid>
+            <pubDate>Sat, 23 May 2026 12:50:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/gazipur-deadbody-230526-01-1779515087.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Measles’ kills infant in Mymensingh]]></title>
+            <description><![CDATA[[Bangladesh] ‘Measles’ kills infant in Mymensingh]]></description>
+            <link>https://bdnews24.com/bangladesh/9613f14dd89b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9613f14dd89b</guid>
+            <pubDate>Sat, 23 May 2026 12:27:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/mymensing-medical-150526-01-1778819210.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tarique heads to Trishal]]></title>
+            <description><![CDATA[[Bangladesh] Tarique heads to Trishal]]></description>
+            <link>https://bdnews24.com/bangladesh/7eee182a3c8e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7eee182a3c8e</guid>
+            <pubDate>Sat, 23 May 2026 11:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/dry-dock-230526-01-1779509154.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[No Trump–Lai talks currently planned]]></title>
             <description><![CDATA[[World] No Trump–Lai talks currently planned]]></description>
@@ -22,7 +62,7 @@
             <link>https://bdnews24.com/bangladesh/ce758760b297</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/ce758760b297</guid>
             <pubDate>Sat, 23 May 2026 11:21:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025March/SM/deadbody01-1742269502.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/ghoraghat-thana-pic-230526-01-1779518779.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Govt offices working on day off ahead of Eid break]]></title>
@@ -97,12 +137,12 @@
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026April/SM/us-immigration-vetting-280426-01-1777348818.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[8 dead, 38 trapped in China coal mine accident]]></title>
-            <description><![CDATA[[Asia Pacific] 8 dead, 38 trapped in China coal mine accident]]></description>
+            <title><![CDATA[China coal mine blast kills 90]]></title>
+            <description><![CDATA[[Asia Pacific] China coal mine blast kills 90]]></description>
             <link>https://bdnews24.com/world/asia-pacific/e35c95c31fdf</link>
             <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/e35c95c31fdf</guid>
             <pubDate>Sat, 23 May 2026 09:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/china-coal-mine-230526-1779505249.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/china-coal-mine-230526-2-1779518798.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Vegetable prices steady, protein packs punch]]></title>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/c6f6037388cc</guid>
             <pubDate>Sat, 23 May 2026 02:57:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/de-zerbi-spurs-23052026-01-1779483406.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Official tried to ban voting machines used by half of US]]></title>
-            <description><![CDATA[[World] Official tried to ban voting machines used by half of US]]></description>
-            <link>https://bdnews24.com/world/1496a064c2e7</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/1496a064c2e7</guid>
-            <pubDate>Sat, 23 May 2026 02:38:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/official-ban-voting-machines-23052026-01-1779482257.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bayern season verdict will come after Cup final: Kompany]]></title>
-            <description><![CDATA[[Sport] Bayern season verdict will come after Cup final: Kompany]]></description>
-            <link>https://bdnews24.com/sport/afa5040e4f76</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/afa5040e4f76</guid>
-            <pubDate>Sat, 23 May 2026 02:18:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/bayern-verdict-kompany-23052026-01-1779481012.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Reaction to Guardiola ending his tenure at Man City]]></title>
-            <description><![CDATA[[Sport] Reaction to Guardiola ending his tenure at Man City]]></description>
-            <link>https://bdnews24.com/sport/754a946e635e</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/754a946e635e</guid>
-            <pubDate>Sat, 23 May 2026 02:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/guardiola-leave-reaction-23052026-01-1779480745.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Congo protesters burn Ebola tents over victim’s body dispute]]></title>
-            <description><![CDATA[[Health] Congo protesters burn Ebola tents over victim’s body dispute]]></description>
-            <link>https://bdnews24.com/health/69fceb5a8ceb</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/69fceb5a8ceb</guid>
-            <pubDate>Sat, 23 May 2026 02:09:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/congo-burn-ebola-tent-23052026-01-1779480422.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Protesters condemn Ireland's 'George Floyd moment']]></title>
-            <description><![CDATA[[World] Protesters condemn Ireland's 'George Floyd moment']]></description>
-            <link>https://bdnews24.com/world/03cd01f8bce2</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/03cd01f8bce2</guid>
-            <pubDate>Sat, 23 May 2026 01:56:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/protest-ireland-floyd-23052026-01-1779479715.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
