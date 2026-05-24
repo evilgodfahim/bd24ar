@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 24 May 2026 15:52:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 May 2026 16:47:39 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 24 May 2026 15:52:29 GMT</pubDate>
+        <pubDate>Sun, 24 May 2026 16:47:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[West Bengal plans to detain illegal migrants: reports]]></title>
+            <description><![CDATA[[Neighbours] West Bengal plans to detain illegal migrants: reports]]></description>
+            <link>https://bdnews24.com/neighbours/11cd23d5c0eb</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/11cd23d5c0eb</guid>
+            <pubDate>Sun, 24 May 2026 22:18:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/suvendu-adikhari-260526-1779634714.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Banned Chhatra League posters reappear at CU]]></title>
+            <description><![CDATA[[Campus] Banned Chhatra League posters reappear at CU]]></description>
+            <link>https://bdnews24.com/campus/e487e799c674</link>
+            <guid isPermaLink="true">https://bdnews24.com/campus/e487e799c674</guid>
+            <pubDate>Sun, 24 May 2026 22:05:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/cu-bsl-poster-240526-02-1779632533.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Spanish protesters condemn Gaza flotilla activist treatment]]></title>
             <description><![CDATA[[World] Spanish protesters condemn Gaza flotilla activist treatment]]></description>
@@ -73,8 +89,8 @@
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/iran-uranium-handover-24052026-01-1779632956.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Foreign aid disbursement falls 19% in nine months]]></title>
-            <description><![CDATA[[Economy] Foreign aid disbursement falls 19% in nine months]]></description>
+            <title><![CDATA[Foreign aid disbursement falls 18% in nine months]]></title>
+            <description><![CDATA[[Economy] Foreign aid disbursement falls 18% in nine months]]></description>
             <link>https://bdnews24.com/economy/50d9db126a43</link>
             <guid isPermaLink="true">https://bdnews24.com/economy/50d9db126a43</guid>
             <pubDate>Sun, 24 May 2026 20:03:00 GMT</pubDate>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/57cea87c8c42</guid>
             <pubDate>Sun, 24 May 2026 19:00:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/dhaka-chitagong-highway-230526-001-1779626152.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[1 dead, 21 missing in Philippines collapse]]></title>
-            <description><![CDATA[[South-East Asia] 1 dead, 21 missing in Philippines collapse]]></description>
-            <link>https://bdnews24.com/world/south-east-asia/f777dfd13519</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/south-east-asia/f777dfd13519</guid>
-            <pubDate>Sun, 24 May 2026 18:57:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/philippines-collapse-240526-01-1779627253.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ICT expects 2 verdicts after Eid]]></title>
-            <description><![CDATA[[Bangladesh] ICT expects 2 verdicts after Eid]]></description>
-            <link>https://bdnews24.com/bangladesh/080a0d307b1d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/080a0d307b1d</guid>
-            <pubDate>Sun, 24 May 2026 18:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/ict-aminul-islam-240526-01-1779625256.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
