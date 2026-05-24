@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News]]></title>
-        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
+        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 24 May 2026 11:56:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 May 2026 13:01:54 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 24 May 2026 11:56:47 GMT</pubDate>
+        <pubDate>Sun, 24 May 2026 13:01:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Ramisa ‘rape, murder’ hearing Jun 1]]></title>
-            <description><![CDATA[[Bangladesh] Ramisa ‘rape, murder’ hearing Jun 1]]></description>
-            <link>https://bdnews24.com/bangladesh/81bfb6d78a2d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/81bfb6d78a2d</guid>
-            <pubDate>Sun, 24 May 2026 17:50:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/ramisa-charge-sheet-240526-01-1779615915.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles: 16 die, 128 new cases]]></title>
-            <description><![CDATA[[Health] Measles: 16 die, 128 new cases]]></description>
-            <link>https://bdnews24.com/health/c7ac27e4e21c</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/c7ac27e4e21c</guid>
-            <pubDate>Sun, 24 May 2026 17:03:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/measles-patient-dncc-hospital-120526-037-1778585242.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 teens die in Tangail road accident]]></title>
-            <description><![CDATA[[Bangladesh] 3 teens die in Tangail road accident]]></description>
-            <link>https://bdnews24.com/bangladesh/b896cf360f6b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b896cf360f6b</guid>
-            <pubDate>Sun, 24 May 2026 16:58:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/tangail-acc-240526-01-1779617950.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mild heatwave in 19 districts]]></title>
-            <description><![CDATA[[Bangladesh] Mild heatwave in 19 districts]]></description>
-            <link>https://bdnews24.com/bangladesh/42c03db063a7</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/42c03db063a7</guid>
-            <pubDate>Sun, 24 May 2026 16:34:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025June/SM/55-bath-summer-250414-0005-1749750328.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ramisa rape, murder heads to trial]]></title>
-            <description><![CDATA[[Bangladesh] Ramisa rape, murder heads to trial]]></description>
-            <link>https://bdnews24.com/bangladesh/8b52f515f2cd</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8b52f515f2cd</guid>
-            <pubDate>Sun, 24 May 2026 16:23:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/ramisa-charge-sheet-240526-01-1779615915.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India, US discuss Middle East, trade]]></title>
-            <description><![CDATA[[World] India, US discuss Middle East, trade]]></description>
-            <link>https://bdnews24.com/world/848ec1bc8bda</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/848ec1bc8bda</guid>
-            <pubDate>Sun, 24 May 2026 16:18:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/india-us-240526-1779617924.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[25% waiver on train fare for the elderly, disabled]]></title>
-            <description><![CDATA[[Bangladesh] 25% waiver on train fare for the elderly, disabled]]></description>
-            <link>https://bdnews24.com/bangladesh/b3e4c520cac4</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b3e4c520cac4</guid>
-            <pubDate>Sun, 24 May 2026 16:16:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026March/SM/kamalapur-railway-station-140326-09-1773496747.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan train blast kills 24]]></title>
-            <description><![CDATA[[World] Pakistan train blast kills 24]]></description>
-            <link>https://bdnews24.com/world/8fb790a8149c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/8fb790a8149c</guid>
-            <pubDate>Sun, 24 May 2026 15:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/balock-blast-240526-1779616151.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BNP leader targeted in Cox’s Bazar court shooting]]></title>
-            <description><![CDATA[[Bangladesh] BNP leader targeted in Cox’s Bazar court shooting]]></description>
-            <link>https://bdnews24.com/bangladesh/6c7490f7d53b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6c7490f7d53b</guid>
-            <pubDate>Sun, 24 May 2026 15:09:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/coxbazar-shot-240526-01-1779612637.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Want Hasina to face trial at home: minister]]></title>
-            <description><![CDATA[[Bangladesh] Want Hasina to face trial at home: minister]]></description>
-            <link>https://bdnews24.com/bangladesh/bf3e3ef31cc2</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/bf3e3ef31cc2</guid>
-            <pubDate>Sun, 24 May 2026 15:07:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/salahuddin-ahmod-240526-01-1779613368.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[32,500 vehicles cross Jamuna Bridge in a day]]></title>
-            <description><![CDATA[[Bangladesh] 32,500 vehicles cross Jamuna Bridge in a day]]></description>
-            <link>https://bdnews24.com/bangladesh/c8308bfc69d7</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c8308bfc69d7</guid>
-            <pubDate>Sun, 24 May 2026 14:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/tangail-jomuna-bridge-240526-01-1779604848.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Woman’s body recovered from USTC hospital area in Ctg]]></title>
-            <description><![CDATA[[Bangladesh] Woman’s body recovered from USTC hospital area in Ctg]]></description>
-            <link>https://bdnews24.com/bangladesh/a7df12656d08</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a7df12656d08</guid>
-            <pubDate>Sun, 24 May 2026 14:08:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025January/SM/dead-body-1000-1736086089.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[SC closed to mourn Yusuf Hossain Humayun]]></title>
-            <description><![CDATA[[Bangladesh] SC closed to mourn Yusuf Hossain Humayun]]></description>
-            <link>https://bdnews24.com/bangladesh/83d65129a6bc</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/83d65129a6bc</guid>
-            <pubDate>Sun, 24 May 2026 14:03:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2025December/SM/high-court-supreme-court-1000-1765374508.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[We will become model of green development: PM]]></title>
-            <description><![CDATA[[Environment] We will become model of green development: PM]]></description>
-            <link>https://bdnews24.com/environment/c958346b6e3e</link>
-            <guid isPermaLink="true">https://bdnews24.com/environment/c958346b6e3e</guid>
-            <pubDate>Sun, 24 May 2026 14:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/pm-tareq-rahman-240526-01-1779609025.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[RAB encourages ‘cashless transactions’ at Eid animal markets]]></title>
-            <description><![CDATA[[Bangladesh] RAB encourages ‘cashless transactions’ at Eid animal markets]]></description>
-            <link>https://bdnews24.com/bangladesh/acec41e7eb04</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/acec41e7eb04</guid>
-            <pubDate>Sun, 24 May 2026 13:32:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/rab-dg-240526-01-1779604680.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[DMP instructions for safe Eid journeys]]></title>
-            <description><![CDATA[[Bangladesh] DMP instructions for safe Eid journeys]]></description>
-            <link>https://bdnews24.com/bangladesh/97aa58b7764d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/97aa58b7764d</guid>
-            <pubDate>Sun, 24 May 2026 13:23:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025June/SM/eid-journey-bus-mohakhali-050625-014-1749135128.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Control room opened for rawhide management]]></title>
-            <description><![CDATA[[Bangladesh] Control room opened for rawhide management]]></description>
-            <link>https://bdnews24.com/bangladesh/a8d83da74b15</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a8d83da74b15</guid>
-            <pubDate>Sun, 24 May 2026 12:47:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/raw-hides-kurbani-100722-20-1778673152.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles: Another child dies in Mymensingh]]></title>
-            <description><![CDATA[[Health] Measles: Another child dies in Mymensingh]]></description>
-            <link>https://bdnews24.com/health/5651ca3f179a</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/5651ca3f179a</guid>
-            <pubDate>Sun, 24 May 2026 12:40:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/mymensingh-haam-death-240526-01-1779601264.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Last day for govt workers ahead of Eid break]]></title>
-            <description><![CDATA[[Bangladesh] Last day for govt workers ahead of Eid break]]></description>
-            <link>https://bdnews24.com/bangladesh/70f434f4f6ed</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/70f434f4f6ed</guid>
-            <pubDate>Sun, 24 May 2026 12:16:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025June/SM/secretariat-eid-040525-02-1749023926.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Green Card rule draws flak from US lawmakers]]></title>
-            <description><![CDATA[[Americas] New Green Card rule draws flak from US lawmakers]]></description>
-            <link>https://bdnews24.com/world/americas/1e8ed263089d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/1e8ed263089d</guid>
-            <pubDate>Sun, 24 May 2026 12:14:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/us-citizenship-uscis-230526-1779550747.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
+            <link>https://bdnews24.com</link>
+            <guid isPermaLink="true">https://bdnews24.com</guid>
+            <pubDate>Sun, 24 May 2026 13:01:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
