@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ]]></title>
+        <description><![CDATA[bangla.bdnews24.com আর্কাইভ থেকে সর্বশেষ সংবাদ]]></description>
         <link>https://bangla.bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 24 May 2026 13:01:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 May 2026 14:54:10 GMT</lastBuildDate>
         <atom:link href="https://bangla.bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 24 May 2026 13:01:54 GMT</pubDate>
+        <pubDate>Sun, 24 May 2026 14:54:10 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
-            <link>https://bangla.bdnews24.com</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com</guid>
-            <pubDate>Sun, 24 May 2026 13:01:54 GMT</pubDate>
+            <title><![CDATA[পিরোজপুরে কাপড় ব্যবসায়ী ও কৃষককে কুপিয়ে হত্যা]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] পিরোজপুরে কাপড় ব্যবসায়ী ও কৃষককে কুপিয়ে হত্যা]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/8577f99b9351</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/8577f99b9351</guid>
+            <pubDate>Sun, 24 May 2026 14:54:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/pirojpur-death-240526-01-1779634165.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[অধিনায়ক মারিয়ার প্রতিশ্রুতি ‘সবটুকু নিংড়ে দেব আমরা’]]></title>
+            <description><![CDATA[[খেলা] অধিনায়ক মারিয়ার প্রতিশ্রুতি ‘সবটুকু নিংড়ে দেব আমরা’]]></description>
+            <link>https://bangla.bdnews24.com/sport/f46e4deeb740</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/f46e4deeb740</guid>
+            <pubDate>Sun, 24 May 2026 14:54:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/womens-football-240526-01-1779634014.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ঈদে পাটুরিয়া ঘাটে বাড়তি চাপ, যানবাহনের দীর্ঘ সারি]]></title>
+            <description><![CDATA[[টিউব] ঈদে পাটুরিয়া ঘাটে বাড়তি চাপ, যানবাহনের দীর্ঘ সারি]]></description>
+            <link>https://bangla.bdnews24.com/tube/e5c2d38967f1</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/e5c2d38967f1</guid>
+            <pubDate>Sun, 24 May 2026 14:54:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/paturia-ferry-videotext-thum-1779633779.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[নরসিংদীতে বজ্রপাতে ট্রেনের ছাদে থাকা যাত্রীর মৃত্যু]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] নরসিংদীতে বজ্রপাতে ট্রেনের ছাদে থাকা যাত্রীর মৃত্যু]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/6642dee1d023</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/6642dee1d023</guid>
+            <pubDate>Sun, 24 May 2026 14:54:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/narsingdi-train-deadbody-240526-01-1779633683.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[রোগীর মৃত্যু ঘিরে বরিশাল মেডিকেলে সংঘর্ষ, ইন্টার্নদের কর্মবিরতি]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] রোগীর মৃত্যু ঘিরে বরিশাল মেডিকেলে সংঘর্ষ, ইন্টার্নদের কর্মবিরতি]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/9c1cb9b24a07</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/9c1cb9b24a07</guid>
+            <pubDate>Sun, 24 May 2026 14:54:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/barishal-shere-bangla-hospital-240526-01-1779633574.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[১৫ ছক্কায় রুয়ান্ডার ব্যাটসম্যানের বিধ্বংসী ১৬৪]]></title>
+            <description><![CDATA[[ক্রিকেট] ১৫ ছক্কায় রুয়ান্ডার ব্যাটসম্যানের বিধ্বংসী ১৬৪]]></description>
+            <link>https://bangla.bdnews24.com/cricket/f95593797b49</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/cricket/f95593797b49</guid>
+            <pubDate>Sun, 24 May 2026 14:54:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/hamza-khan-240526-01-1779633116.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[পাঞ্জাব ও কলকাতার আশা গুঁড়িয়ে প্লেঅফে রাজস্থান]]></title>
+            <description><![CDATA[[ক্রিকেট] পাঞ্জাব ও কলকাতার আশা গুঁড়িয়ে প্লেঅফে রাজস্থান]]></description>
+            <link>https://bangla.bdnews24.com/cricket/8c12aca49075</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/cricket/8c12aca49075</guid>
+            <pubDate>Sun, 24 May 2026 14:54:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/rajasthan-240526-01-1779632947.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[চট্টগ্রাম বিশ্ববিদ্যালয়ে দেয়ালে দেয়ালে ফের নিষিদ্ধ ছাত্রলীগের পোস্টার]]></title>
+            <description><![CDATA[[বাংলাদেশ] চট্টগ্রাম বিশ্ববিদ্যালয়ে দেয়ালে দেয়ালে ফের নিষিদ্ধ ছাত্রলীগের পোস্টার]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/71b2c0f58a98</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/71b2c0f58a98</guid>
+            <pubDate>Sun, 24 May 2026 14:54:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/cu-bsl-poster-240526-02-1779632533.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ইসলামী ব্যাংকের চেয়ারম্যান ও এমডির পদত্যাগ]]></title>
+            <description><![CDATA[[বাণিজ্য] ইসলামী ব্যাংকের চেয়ারম্যান ও এমডির পদত্যাগ]]></description>
+            <link>https://bangla.bdnews24.com/business/782064badaf0</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/business/782064badaf0</guid>
+            <pubDate>Sun, 24 May 2026 14:54:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/islami-banik-chairman-md-resign-240526-1779632522.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[শূন্যের রেকর্ডে ম্যাক্সওয়েলের পাশে রোহিত]]></title>
+            <description><![CDATA[[ক্রিকেট] শূন্যের রেকর্ডে ম্যাক্সওয়েলের পাশে রোহিত]]></description>
+            <link>https://bangla.bdnews24.com/cricket/5be2ff37327d</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/cricket/5be2ff37327d</guid>
+            <pubDate>Sun, 24 May 2026 14:54:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/rohit-sharma-240526-01-1779631854.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বার্সেলোনার ‘অর্থ নেই’, তাই নির্ভার বায়ার্ন প্রধান]]></title>
+            <description><![CDATA[[খেলা] বার্সেলোনার ‘অর্থ নেই’, তাই নির্ভার বায়ার্ন প্রধান]]></description>
+            <link>https://bangla.bdnews24.com/sport/3a3882b05995</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/3a3882b05995</guid>
+            <pubDate>Sun, 24 May 2026 14:54:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/harry-kane-240526-01-1779631743.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[হজ মৌসুমে মক্কায় পণ্যের বাড়তি দাম, বিপাকে অনেকে]]></title>
+            <description><![CDATA[[টিউব] হজ মৌসুমে মক্কায় পণ্যের বাড়তি দাম, বিপাকে অনেকে]]></description>
+            <link>https://bangla.bdnews24.com/tube/c185efaa336c</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/c185efaa336c</guid>
+            <pubDate>Sun, 24 May 2026 14:54:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/mecca-prices-hike-pkg-thum-1779631657.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[প্রস্তুত সাগরিকা পশুর হাট]]></title>
+            <description><![CDATA[[ছবি] প্রস্তুত সাগরিকা পশুর হাট]]></description>
+            <link>https://bangla.bdnews24.com/media_bn/image/a90b6ee70536</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/media_bn/image/a90b6ee70536</guid>
+            <pubDate>Sun, 24 May 2026 14:54:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/cattle-market-chattogram-24052612-1779630847.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[পাটুরিয়ায় এবার সতর্ক ঈদযাত্রা: যাত্রী নামিয়ে যানবাহন উঠছে ফেরিতে]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] পাটুরিয়ায় এবার সতর্ক ঈদযাত্রা: যাত্রী নামিয়ে যানবাহন উঠছে ফেরিতে]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/ccbd37aec645</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/ccbd37aec645</guid>
+            <pubDate>Sun, 24 May 2026 14:54:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/manikgonj-doulatdia-feri-ghat-240526-01-1779630129.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বিদেশিদের টানতে পিএসসি বদল, সাগরে গ্যাস অনুসন্ধানে নতুন দরপত্র]]></title>
+            <description><![CDATA[[বাণিজ্য] বিদেশিদের টানতে পিএসসি বদল, সাগরে গ্যাস অনুসন্ধানে নতুন দরপত্র]]></description>
+            <link>https://bangla.bdnews24.com/business/f8f0542b2e8a</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/business/f8f0542b2e8a</guid>
+            <pubDate>Sun, 24 May 2026 14:54:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/oil-boom-1000-1779629983.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বরগুনায় কিশোরীকে ধর্ষণের অভিযোগে খালু গ্রেপ্তার]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] বরগুনায় কিশোরীকে ধর্ষণের অভিযোগে খালু গ্রেপ্তার]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/cb155c428827</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/cb155c428827</guid>
+            <pubDate>Sun, 24 May 2026 14:54:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/barguna-arrest-240526-1779629668.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[সাতক্ষীরায় খাল খনন প্রকল্প নিয়ে কৃষকদের বিক্ষোভ]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] সাতক্ষীরায় খাল খনন প্রকল্প নিয়ে কৃষকদের বিক্ষোভ]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/dcf603ac2edc</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/dcf603ac2edc</guid>
+            <pubDate>Sun, 24 May 2026 14:54:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/satkhira-farmers-protest-240526-01-1779629347.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বান্দরবানে ত্রিপুরা শিশুকে ধর্ষণের অভিযোগে কিশোর কারাগারে]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] বান্দরবানে ত্রিপুরা শিশুকে ধর্ষণের অভিযোগে কিশোর কারাগারে]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/38ceca9a1a62</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/38ceca9a1a62</guid>
+            <pubDate>Sun, 24 May 2026 14:54:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/thanchi-thana-240526-01-1779629292.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[চট্টগ্রামের বোয়ালখালীতে চোর সন্দেহে যুবককে পিটিয়ে হত্যা]]></title>
+            <description><![CDATA[[চট্টগ্রাম] চট্টগ্রামের বোয়ালখালীতে চোর সন্দেহে যুবককে পিটিয়ে হত্যা]]></description>
+            <link>https://bangla.bdnews24.com/ctg/6b987b73ff8c</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/ctg/6b987b73ff8c</guid>
+            <pubDate>Sun, 24 May 2026 14:54:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024August/SM/boalkhali-thana-051020-01-1724486466.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[লালমনিরহাটে ঘরে নারীর লাশ, ধর্ষণের পর হত্যার ধারণা]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] লালমনিরহাটে ঘরে নারীর লাশ, ধর্ষণের পর হত্যার ধারণা]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/821dd4e64661</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/821dd4e64661</guid>
+            <pubDate>Sun, 24 May 2026 14:54:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024July/SM/lalmonirhat-aditmari-310724-01-1722438373.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
