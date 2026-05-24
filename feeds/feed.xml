@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 24 May 2026 17:49:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 May 2026 18:56:32 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 24 May 2026 17:49:21 GMT</pubDate>
+        <pubDate>Sun, 24 May 2026 18:56:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bangladesh Betar tightens dress code for news anchors]]></title>
+            <description><![CDATA[[Bangladesh] Bangladesh Betar tightens dress code for news anchors]]></description>
+            <link>https://bdnews24.com/bangladesh/f2fec027bebb</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f2fec027bebb</guid>
+            <pubDate>Mon, 25 May 2026 00:25:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/bangladesh-bater-240526-1779642231.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man Utd's Fernandes breaks Premier League assists record]]></title>
+            <description><![CDATA[[Sport] Man Utd's Fernandes breaks Premier League assists record]]></description>
+            <link>https://bdnews24.com/sport/b54ad98bee59</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/b54ad98bee59</guid>
+            <pubDate>Mon, 25 May 2026 00:18:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/fernandes-assist-record-24052026-01-1779646594.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sunderland beat Chelsea to seal European spot]]></title>
+            <description><![CDATA[[Sport] Sunderland beat Chelsea to seal European spot]]></description>
+            <link>https://bdnews24.com/sport/5d97cbce88dd</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/5d97cbce88dd</guid>
+            <pubDate>Mon, 25 May 2026 00:15:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/sunderland-europa-24052026-01-1779646430.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[West Ham relegated from Premier League]]></title>
+            <description><![CDATA[[Sport] West Ham relegated from Premier League]]></description>
+            <link>https://bdnews24.com/sport/1f29d4e1ddab</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/1f29d4e1ddab</guid>
+            <pubDate>Mon, 25 May 2026 00:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/west-ham-relegated-24052026-01-1779645938.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Spurs survive with victory over Everton]]></title>
             <description><![CDATA[[Sport] Spurs survive with victory over Everton]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/economy/50d9db126a43</guid>
             <pubDate>Sun, 24 May 2026 20:03:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025December/SM/dollar-1764530788.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt opens offshore gas bidding round]]></title>
-            <description><![CDATA[[Business] Govt opens offshore gas bidding round]]></description>
-            <link>https://bdnews24.com/business/efb4bb03d3fa</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/efb4bb03d3fa</guid>
-            <pubDate>Sun, 24 May 2026 20:00:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/oil-boom-1000-1779629983.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Remittance nears $3bn in 23 days of May]]></title>
-            <description><![CDATA[[Economy] Remittance nears $3bn in 23 days of May]]></description>
-            <link>https://bdnews24.com/economy/5be00d61573f</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/5be00d61573f</guid>
-            <pubDate>Sun, 24 May 2026 19:45:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025June/SM/dollar-remittence-290625-01-1751202760.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 get deaths for Bhola housewife murder]]></title>
-            <description><![CDATA[[Bangladesh] 3 get deaths for Bhola housewife murder]]></description>
-            <link>https://bdnews24.com/bangladesh/c6562a3a7c1f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c6562a3a7c1f</guid>
-            <pubDate>Sun, 24 May 2026 19:34:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/bhola-murder-three-hung-240526-01-1779627087.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Haddin hails Iyer after Punjab win]]></title>
-            <description><![CDATA[[Sport] Haddin hails Iyer after Punjab win]]></description>
-            <link>https://bdnews24.com/sport/2426b99ea6bf</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/2426b99ea6bf</guid>
-            <pubDate>Sun, 24 May 2026 19:32:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/shreyas-iyer-240526-01-1779629451.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
