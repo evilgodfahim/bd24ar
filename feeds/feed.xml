@@ -4,10 +4,82 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 25 May 2026 16:56:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 May 2026 18:21:36 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 25 May 2026 16:56:32 GMT</pubDate>
+        <pubDate>Mon, 25 May 2026 18:21:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Russia-Iran alliance faces strain amid regional conflicts]]></title>
+            <description><![CDATA[[World] Russia-Iran alliance faces strain amid regional conflicts]]></description>
+            <link>https://bdnews24.com/world/8e60ffc32ad9</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/8e60ffc32ad9</guid>
+            <pubDate>Tue, 26 May 2026 00:17:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2025June/SM/putin-araqchi-230625-01-1750680561.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Injured Davies named in Canada WC camp]]></title>
+            <description><![CDATA[[Sport] Injured Davies named in Canada WC camp]]></description>
+            <link>https://bdnews24.com/sport/b30f40fc2b6a</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/b30f40fc2b6a</guid>
+            <pubDate>Tue, 26 May 2026 00:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/alphonso-davies-250526-01-1779732703.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Gen Z account founder alleges crackdown, threats]]></title>
+            <description><![CDATA[[Neighbours] Indian Gen Z account founder alleges crackdown, threats]]></description>
+            <link>https://bdnews24.com/neighbours/8dcec8edb355</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/8dcec8edb355</guid>
+            <pubDate>Mon, 25 May 2026 23:58:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/cjp-crackdown-threats-25052026-01-1779731892.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 promoted to secretaries amid Eid break]]></title>
+            <description><![CDATA[[Bangladesh] 3 promoted to secretaries amid Eid break]]></description>
+            <link>https://bdnews24.com/bangladesh/a2924565bd8d</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a2924565bd8d</guid>
+            <pubDate>Mon, 25 May 2026 23:50:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025June/SM/secretariat-eid-040525-02-1749023926.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eid journey returns with familiar predicaments]]></title>
+            <description><![CDATA[[Bangladesh] Eid journey returns with familiar predicaments]]></description>
+            <link>https://bdnews24.com/bangladesh/ba9f0484dbeb</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ba9f0484dbeb</guid>
+            <pubDate>Mon, 25 May 2026 23:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/eid-bus-vara-250526-01-1779727413.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-SNP head pleads guilty to embezzling $540,000]]></title>
+            <description><![CDATA[[World] Ex-SNP head pleads guilty to embezzling $540,000]]></description>
+            <link>https://bdnews24.com/world/b812be088084</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/b812be088084</guid>
+            <pubDate>Mon, 25 May 2026 23:36:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/peter-murrell-embezzlement-25052026-01-1779730438.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran war poses threat to hunger-stricken Sudan]]></title>
+            <description><![CDATA[[World] Iran war poses threat to hunger-stricken Sudan]]></description>
+            <link>https://bdnews24.com/world/d428f007ac60</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/d428f007ac60</guid>
+            <pubDate>Mon, 25 May 2026 23:24:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/iran-war-sudan-25052026-01-1779729717.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[15km tailback on Dhaka-Tangail highway as Eid rush begins]]></title>
+            <description><![CDATA[[Bangladesh] 15km tailback on Dhaka-Tangail highway as Eid rush begins]]></description>
+            <link>https://bdnews24.com/bangladesh/85f51f326542</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/85f51f326542</guid>
+            <pubDate>Mon, 25 May 2026 23:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/gazipur-road-janjot-250526-04-1779725106.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rashed claims Hasnat tried to keep Sheikh Hasina in power]]></title>
+            <description><![CDATA[[Politics] Rashed claims Hasnat tried to keep Sheikh Hasina in power]]></description>
+            <link>https://bdnews24.com/politics/d9b11f575f91</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/d9b11f575f91</guid>
+            <pubDate>Mon, 25 May 2026 22:57:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/hasnat-abdullah-and-rashed-khan-25052026-1779722323.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Ebola patients flee as Congo health centres face attacks]]></title>
             <description><![CDATA[[World] Ebola patients flee as Congo health centres face attacks]]></description>
@@ -95,78 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/47650dbd4d57</guid>
             <pubDate>Mon, 25 May 2026 20:17:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/libya-repatriation-25052026-1779714737.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[DMP warns of fake traffic fine messages]]></title>
-            <description><![CDATA[[Bangladesh] DMP warns of fake traffic fine messages]]></description>
-            <link>https://bdnews24.com/bangladesh/01ac9673cf7f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/01ac9673cf7f</guid>
-            <pubDate>Mon, 25 May 2026 20:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/ai-cctv-camera-traffic-signal-140526-011-1778768555.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan train bombing kills over 30]]></title>
-            <description><![CDATA[[South-East Asia] Pakistan train bombing kills over 30]]></description>
-            <link>https://bdnews24.com/world/south-east-asia/d0ad82fa65c6</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/south-east-asia/d0ad82fa65c6</guid>
-            <pubDate>Mon, 25 May 2026 18:48:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/pak-bombing250526-1779713099.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[62% cabinet decisions implemented: PMO]]></title>
-            <description><![CDATA[[Bangladesh] 62% cabinet decisions implemented: PMO]]></description>
-            <link>https://bdnews24.com/bangladesh/1a1ff420877a</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1a1ff420877a</guid>
-            <pubDate>Mon, 25 May 2026 18:35:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/pmo-press-meet-250526-01-1779709987.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Amirul Haque elected CCCI chief]]></title>
-            <description><![CDATA[[Bangladesh] Amirul Haque elected CCCI chief]]></description>
-            <link>https://bdnews24.com/bangladesh/4537a6f40f41</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4537a6f40f41</guid>
-            <pubDate>Mon, 25 May 2026 18:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/amirul-haque-chittagong-chamber-president-250526-1779711459.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu finds Trump hard to budge on Iran]]></title>
-            <description><![CDATA[[World] Netanyahu finds Trump hard to budge on Iran]]></description>
-            <link>https://bdnews24.com/world/256b858085ed</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/256b858085ed</guid>
-            <pubDate>Mon, 25 May 2026 17:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/trump-netanyahu-250526-1779709991.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles: 17 children die in a day]]></title>
-            <description><![CDATA[[Health] Measles: 17 children die in a day]]></description>
-            <link>https://bdnews24.com/health/51e33df7cfc4</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/51e33df7cfc4</guid>
-            <pubDate>Mon, 25 May 2026 17:17:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/measles-patient-dncc-hospital-120526-028-1778590985.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Elderly man beaten to death over ‘cattle theft’ claim]]></title>
-            <description><![CDATA[[Bangladesh] Elderly man beaten to death over ‘cattle theft’ claim]]></description>
-            <link>https://bdnews24.com/bangladesh/919f2694c7d7</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/919f2694c7d7</guid>
-            <pubDate>Mon, 25 May 2026 17:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024November/SM/raujan-thana-151024-01-1731648993.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jungle Salimpur: Armed gang ambushes joint forces camp]]></title>
-            <description><![CDATA[[Bangladesh] Jungle Salimpur: Armed gang ambushes joint forces camp]]></description>
-            <link>https://bdnews24.com/bangladesh/ad10c36e5a47</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ad10c36e5a47</guid>
-            <pubDate>Mon, 25 May 2026 17:09:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/jungle-salimpur-250526-01-1779705423.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Finance minister eyes fresh IMF deal]]></title>
-            <description><![CDATA[[Economy] Finance minister eyes fresh IMF deal]]></description>
-            <link>https://bdnews24.com/economy/1210e340c7e6</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/1210e340c7e6</guid>
-            <pubDate>Mon, 25 May 2026 17:02:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/amir-khosru-mahmud-chowdhury-170426-02jpg-1776492099.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
