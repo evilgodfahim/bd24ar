@@ -4,17 +4,89 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 25 May 2026 14:27:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 May 2026 16:56:32 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 25 May 2026 14:27:49 GMT</pubDate>
+        <pubDate>Mon, 25 May 2026 16:56:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Fire erupts at Kalshi slum]]></title>
-            <description><![CDATA[[Bangladesh] Fire erupts at Kalshi slum]]></description>
+            <title><![CDATA[Ebola patients flee as Congo health centres face attacks]]></title>
+            <description><![CDATA[[World] Ebola patients flee as Congo health centres face attacks]]></description>
+            <link>https://bdnews24.com/world/1ffe2bfa3a20</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/1ffe2bfa3a20</guid>
+            <pubDate>Mon, 25 May 2026 22:52:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/congo-250526-1779727825.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fast-moving Ebola outbreak outpacing response efforts: WHO]]></title>
+            <description><![CDATA[[Health] Fast-moving Ebola outbreak outpacing response efforts: WHO]]></description>
+            <link>https://bdnews24.com/health/45c51044ac05</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/45c51044ac05</guid>
+            <pubDate>Mon, 25 May 2026 22:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/whochief-250526-1jpg-1779727546.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pope warns some weapons now ‘beyond human control’]]></title>
+            <description><![CDATA[[World] Pope warns some weapons now ‘beyond human control’]]></description>
+            <link>https://bdnews24.com/world/3d7a4f9eba8e</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/3d7a4f9eba8e</guid>
+            <pubDate>Mon, 25 May 2026 22:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/pope-warns-ai-25052026-01-1779726525.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joint forces camp attacked in Jungle Salimpur]]></title>
+            <description><![CDATA[[Image] Joint forces camp attacked in Jungle Salimpur]]></description>
+            <link>https://bdnews24.com/media-en/image/d727f5ff12dd</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/d727f5ff12dd</guid>
+            <pubDate>Mon, 25 May 2026 22:27:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/jungle-salimpur-250526-08-1779705549.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Govt eyes new IMF deal, leaving old pact]]></title>
+            <description><![CDATA[[Economy] Govt eyes new IMF deal, leaving old pact]]></description>
+            <link>https://bdnews24.com/economy/82c47917d177</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/82c47917d177</guid>
+            <pubDate>Mon, 25 May 2026 22:15:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/amir-khosru-mahmud-chowdhury-250526-01-1779723010.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[May 25, 2026]]></title>
+            <description><![CDATA[[Image] May 25, 2026]]></description>
+            <link>https://bdnews24.com/media-en/image/e4e0f047ec8c</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/e4e0f047ec8c</guid>
+            <pubDate>Mon, 25 May 2026 21:57:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/traffic-jam-dholairpur-25052026-006-1779713110.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran's top envoys discussing potential peace deal with Qatar PM]]></title>
+            <description><![CDATA[[World] Iran's top envoys discussing potential peace deal with Qatar PM]]></description>
+            <link>https://bdnews24.com/world/ff19881dcd19</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ff19881dcd19</guid>
+            <pubDate>Mon, 25 May 2026 21:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/iran-top-envoys-25052026-01-1779723445.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[7 hawkers killed in Tangail crash from same village]]></title>
+            <description><![CDATA[[Bangladesh] 7 hawkers killed in Tangail crash from same village]]></description>
+            <link>https://bdnews24.com/bangladesh/7d222df85fbf</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7d222df85fbf</guid>
+            <pubDate>Mon, 25 May 2026 21:06:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/naogaon-seven-dead-250526-01-1779717874.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bolivia President Paz cuts salary by 50%]]></title>
+            <description><![CDATA[[World] Bolivia President Paz cuts salary by 50%]]></description>
+            <link>https://bdnews24.com/world/38ba9b6c1840</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/38ba9b6c1840</guid>
+            <pubDate>Mon, 25 May 2026 21:01:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/bolivia-president-paycut-25052026-01-1779721186.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kalshi fire tamed after 2 hours]]></title>
+            <description><![CDATA[[Bangladesh] Kalshi fire tamed after 2 hours]]></description>
             <link>https://bdnews24.com/bangladesh/8e527d46f30f</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/8e527d46f30f</guid>
             <pubDate>Mon, 25 May 2026 20:21:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/kalshi-fire-250526-01-1779716864.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/kalshi-fire-250526-011-1779722280.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[170 more return from Libya ordeal]]></title>
@@ -95,78 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/economy/1210e340c7e6</guid>
             <pubDate>Mon, 25 May 2026 17:02:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/amir-khosru-mahmud-chowdhury-170426-02jpg-1776492099.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Flooding kills 9 in China: state media]]></title>
-            <description><![CDATA[[Asia Pacific] Flooding kills 9 in China: state media]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/28290328d916</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/28290328d916</guid>
-            <pubDate>Mon, 25 May 2026 16:53:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/china-flooding-250526-1779706356.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[8 BCB directors elected unopposed]]></title>
-            <description><![CDATA[[Cricket] 8 BCB directors elected unopposed]]></description>
-            <link>https://bdnews24.com/cricket/28b6d6a54c04</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/28b6d6a54c04</guid>
-            <pubDate>Mon, 25 May 2026 16:28:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025September/SM/bcb-office-260925-1758891148.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Main Eidgah congregation at 7:30am]]></title>
-            <description><![CDATA[[Bangladesh] Main Eidgah congregation at 7:30am]]></description>
-            <link>https://bdnews24.com/bangladesh/b705f42b1e59</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b705f42b1e59</guid>
-            <pubDate>Mon, 25 May 2026 15:44:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024June/SM/national-eidgah-160624-01-1718526025.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh Betar backtracks on dress code after backlash]]></title>
-            <description><![CDATA[[Bangladesh] Bangladesh Betar backtracks on dress code after backlash]]></description>
-            <link>https://bdnews24.com/bangladesh/dfb424e3d559</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/dfb424e3d559</guid>
-            <pubDate>Mon, 25 May 2026 15:20:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/bangladesh-betar-250526-201-1779695700.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rain, slow traffic add to Eid travel woes in Gazipur]]></title>
-            <description><![CDATA[[Bangladesh] Rain, slow traffic add to Eid travel woes in Gazipur]]></description>
-            <link>https://bdnews24.com/bangladesh/0fe339ae0f54</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0fe339ae0f54</guid>
-            <pubDate>Mon, 25 May 2026 15:19:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/gazipur-eid-jattra-250526-01-1779698211.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[DMP takes special security measures for cattle markets, terminals]]></title>
-            <description><![CDATA[[Bangladesh] DMP takes special security measures for cattle markets, terminals]]></description>
-            <link>https://bdnews24.com/bangladesh/5fb6a213d615</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5fb6a213d615</guid>
-            <pubDate>Mon, 25 May 2026 15:18:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/moshleh-uddin-ahmed-dmp-250526-01-1779699746.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[What will the weather be like on Eid?]]></title>
-            <description><![CDATA[[Bangladesh] What will the weather be like on Eid?]]></description>
-            <link>https://bdnews24.com/bangladesh/0e6e52268142</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0e6e52268142</guid>
-            <pubDate>Mon, 25 May 2026 14:59:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/eid-ul-azha-baitul-mukarram-rain-1779703336.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hajj rituals begins in Saudi Arabia]]></title>
-            <description><![CDATA[[Bangladesh] Hajj rituals begins in Saudi Arabia]]></description>
-            <link>https://bdnews24.com/bangladesh/ddb25c57fc76</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ddb25c57fc76</guid>
-            <pubDate>Mon, 25 May 2026 14:35:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/tents-in-mina-250526-01-1779694618.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles symptoms: Another child dies in Mymensingh]]></title>
-            <description><![CDATA[[Bangladesh] Measles symptoms: Another child dies in Mymensingh]]></description>
-            <link>https://bdnews24.com/bangladesh/9ed118760200</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9ed118760200</guid>
-            <pubDate>Mon, 25 May 2026 14:10:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/mymensingh-haam-death-250526-01-1779691908.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
