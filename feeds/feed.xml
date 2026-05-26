@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – Latest News]]></title>
+        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 26 May 2026 21:26:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 May 2026 22:58:24 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 26 May 2026 21:26:03 GMT</pubDate>
+        <pubDate>Tue, 26 May 2026 22:58:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
-            <link>https://bdnews24.com</link>
-            <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Tue, 26 May 2026 21:26:03 GMT</pubDate>
+            <title><![CDATA[Posta traders chase lost leather glory]]></title>
+            <description><![CDATA[[Business] Posta traders chase lost leather glory]]></description>
+            <link>https://bdnews24.com/business/1485552be6ab</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/1485552be6ab</guid>
+            <pubDate>Wed, 27 May 2026 01:42:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/posta-lalbagh-260526-002-1779824213.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bengaluru reach IPL final with Gujarat win]]></title>
+            <description><![CDATA[[Cricket] Bengaluru reach IPL final with Gujarat win]]></description>
+            <link>https://bdnews24.com/cricket/6d77a4716f37</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/6d77a4716f37</guid>
+            <pubDate>Wed, 27 May 2026 01:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/bengaluru-ipl-270526-01-1779822664.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s Abraham Accords push faces scepticism: report]]></title>
+            <description><![CDATA[[World] Trump’s Abraham Accords push faces scepticism: report]]></description>
+            <link>https://bdnews24.com/world/12278d0c853a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/12278d0c853a</guid>
+            <pubDate>Wed, 27 May 2026 00:50:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/trump-110526-1778467743.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[China probes mining tragedy that killed 82]]></title>
+            <description><![CDATA[[Asia Pacific] China probes mining tragedy that killed 82]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/7eecf5f1cadc</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/7eecf5f1cadc</guid>
+            <pubDate>Wed, 27 May 2026 00:29:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/china-mining-tragedy-26052026-01-1779820129.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Asif Mahmud rejects ‘kitchen cabinet’ claims]]></title>
+            <description><![CDATA[[Politics] Asif Mahmud rejects ‘kitchen cabinet’ claims]]></description>
+            <link>https://bdnews24.com/politics/a48049184abc</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/a48049184abc</guid>
+            <pubDate>Wed, 27 May 2026 00:25:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/asif-mahmud-sajeeb-ncp-260526-1779818780.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US to cut strategic bombers, warships to NATO: Spiegel]]></title>
+            <description><![CDATA[[World] US to cut strategic bombers, warships to NATO: Spiegel]]></description>
+            <link>https://bdnews24.com/world/7160c94501a1</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/7160c94501a1</guid>
+            <pubDate>Wed, 27 May 2026 00:23:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/us-cut-military-nato-26052026-01-1779819712.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man dies falling from train roof in Mymensingh]]></title>
+            <description><![CDATA[[Bangladesh] Man dies falling from train roof in Mymensingh]]></description>
+            <link>https://bdnews24.com/bangladesh/90a1fb78e649</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/90a1fb78e649</guid>
+            <pubDate>Wed, 27 May 2026 00:14:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/mymensingh-rail-accident-260526-01-1779808623.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US court blocks Alabama redistricting map change]]></title>
+            <description><![CDATA[[Americas] US court blocks Alabama redistricting map change]]></description>
+            <link>https://bdnews24.com/world/americas/3f517c93b93e</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/3f517c93b93e</guid>
+            <pubDate>Wed, 27 May 2026 00:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/us-block-alabama-26052026-01-1779819027.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russia, Kazakhstan will sign nuclear power deal: Kremlin]]></title>
+            <description><![CDATA[[World] Russia, Kazakhstan will sign nuclear power deal: Kremlin]]></description>
+            <link>https://bdnews24.com/world/4a04e9713b81</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/4a04e9713b81</guid>
+            <pubDate>Wed, 27 May 2026 00:09:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/russia-kazakh-deal-26052026-01-1779818910.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eid travel raises fears of measles spreading: experts]]></title>
+            <description><![CDATA[[Bangladesh] Eid travel raises fears of measles spreading: experts]]></description>
+            <link>https://bdnews24.com/bangladesh/3f00c077addb</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3f00c077addb</guid>
+            <pubDate>Tue, 26 May 2026 23:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/eid-journey-kamalapur-station-22052026-031-1779461755.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Suvendu tells ‘illegal’ Bangladeshis to leave]]></title>
+            <description><![CDATA[[Bangladesh] Suvendu tells ‘illegal’ Bangladeshis to leave]]></description>
+            <link>https://bdnews24.com/bangladesh/5d7701e986a4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5d7701e986a4</guid>
+            <pubDate>Tue, 26 May 2026 23:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/suvendu-adhikari-260526-1779815070.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian held with yaba pills in Narayanganj]]></title>
+            <description><![CDATA[[Bangladesh] Indian held with yaba pills in Narayanganj]]></description>
+            <link>https://bdnews24.com/bangladesh/4f0f56cd9f87</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4f0f56cd9f87</guid>
+            <pubDate>Tue, 26 May 2026 23:20:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/narayanganj-arrest-260526-260526-01-1779809787.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hasina among 23 formally charged over July ‘murder’]]></title>
+            <description><![CDATA[[Bangladesh] Hasina among 23 formally charged over July ‘murder’]]></description>
+            <link>https://bdnews24.com/bangladesh/37fb72fd4aaf</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/37fb72fd4aaf</guid>
+            <pubDate>Tue, 26 May 2026 23:16:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/import/media/2016/10/23/o-kader-al-league_gs.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Zee eyes FIFA WC streaming rights in India]]></title>
+            <description><![CDATA[[Sport] Zee eyes FIFA WC streaming rights in India]]></description>
+            <link>https://bdnews24.com/sport/e0ba2c7b20c1</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/e0ba2c7b20c1</guid>
+            <pubDate>Tue, 26 May 2026 23:13:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/zee-entertainment-260526-01-1779815532.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Allegri's exit revives 'reheated soup' debate]]></title>
+            <description><![CDATA[[Sport] Allegri's exit revives 'reheated soup' debate]]></description>
+            <link>https://bdnews24.com/sport/82b4965d99a4</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/82b4965d99a4</guid>
+            <pubDate>Tue, 26 May 2026 22:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/massimiliano-allegri-260526-01-1779813582.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rain threatens to dampen Eid celebrations]]></title>
+            <description><![CDATA[[Bangladesh] Rain threatens to dampen Eid celebrations]]></description>
+            <link>https://bdnews24.com/bangladesh/ebdc477da7ad</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ebdc477da7ad</guid>
+            <pubDate>Tue, 26 May 2026 22:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/cattle-market-gabtoli-280623-03-1779809860.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Italy-bound man returns from Libya, police nab 3 ‘traffickers’]]></title>
+            <description><![CDATA[[Bangladesh] Italy-bound man returns from Libya, police nab 3 ‘traffickers’]]></description>
+            <link>https://bdnews24.com/bangladesh/ca2d21bda8ae</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ca2d21bda8ae</guid>
+            <pubDate>Tue, 26 May 2026 22:21:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/pbi-libiya-arrest-260526-1779801791.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Palace boss eyes fairytale farewell]]></title>
+            <description><![CDATA[[Sport] Palace boss eyes fairytale farewell]]></description>
+            <link>https://bdnews24.com/sport/41fef1835e76</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/41fef1835e76</guid>
+            <pubDate>Tue, 26 May 2026 22:04:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/oliver-glasner-260526-01-1779811436.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Animal feed sellers ride the Eid cattle market wave]]></title>
+            <description><![CDATA[[Bangladesh] Animal feed sellers ride the Eid cattle market wave]]></description>
+            <link>https://bdnews24.com/bangladesh/f84ad6f1dcdc</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f84ad6f1dcdc</guid>
+            <pubDate>Tue, 26 May 2026 22:01:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/cattle-food-260526-01-1779810917.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel expands south Lebanon ground offensive]]></title>
+            <description><![CDATA[[World] Israel expands south Lebanon ground offensive]]></description>
+            <link>https://bdnews24.com/world/c35ede0c8aaf</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/c35ede0c8aaf</guid>
+            <pubDate>Tue, 26 May 2026 21:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/south-lebanon-260526-01-1779810422.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ]]></title>
+        <description><![CDATA[bangla.bdnews24.com আর্কাইভ থেকে সর্বশেষ সংবাদ]]></description>
         <link>https://bangla.bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 26 May 2026 21:26:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 May 2026 22:58:24 GMT</lastBuildDate>
         <atom:link href="https://bangla.bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 26 May 2026 21:26:03 GMT</pubDate>
+        <pubDate>Tue, 26 May 2026 22:58:24 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
-            <link>https://bangla.bdnews24.com</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com</guid>
-            <pubDate>Tue, 26 May 2026 21:26:03 GMT</pubDate>
+            <title><![CDATA[পোস্তায় আগের জৌলুস ফেরাতে চান কাঁচা চামড়া ব্যবসায়ীরা]]></title>
+            <description><![CDATA[[বাণিজ্য] পোস্তায় আগের জৌলুস ফেরাতে চান কাঁচা চামড়া ব্যবসায়ীরা]]></description>
+            <link>https://bangla.bdnews24.com/business/daa0a24a201e</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/business/daa0a24a201e</guid>
+            <pubDate>Tue, 26 May 2026 22:58:24 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/posta-lalbagh-260526-002-1779824213.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[টরন্টো ম্যারাথনে দেশের জার্সিতে নজর কাড়লেন নাফি]]></title>
+            <description><![CDATA[[প্রবাস] টরন্টো ম্যারাথনে দেশের জার্সিতে নজর কাড়লেন নাফি]]></description>
+            <link>https://bangla.bdnews24.com/probash/2913d5feb19d</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/probash/2913d5feb19d</guid>
+            <pubDate>Tue, 26 May 2026 22:58:24 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/canada-270526-01-1779822526.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ঈদযাত্রার সড়ক: অবধারিত যানজট, বৃষ্টিতে ভোগান্তি]]></title>
+            <description><![CDATA[[বাংলাদেশ] ঈদযাত্রার সড়ক: অবধারিত যানজট, বৃষ্টিতে ভোগান্তি]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/089c769d94b8</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/089c769d94b8</guid>
+            <pubDate>Tue, 26 May 2026 22:58:24 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/tangail-road-260526-2-1779768389.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[পাতিদারের বিধ্বংসী ইনিংসে গুজরাটকে গুঁড়িয়ে আবারও ফাইনালে বেঙ্গালুরু]]></title>
+            <description><![CDATA[[ক্রিকেট] পাতিদারের বিধ্বংসী ইনিংসে গুজরাটকে গুঁড়িয়ে আবারও ফাইনালে বেঙ্গালুরু]]></description>
+            <link>https://bangla.bdnews24.com/cricket/396cba975d1a</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/cricket/396cba975d1a</guid>
+            <pubDate>Tue, 26 May 2026 22:58:24 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/rajat-patidar-270526-01-1779820537.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[শিশু-কিশোরদের জন্য নিউ ইয়র্কে বসছে বাংলা বইমেলা]]></title>
+            <description><![CDATA[[প্রবাস] শিশু-কিশোরদের জন্য নিউ ইয়র্কে বসছে বাংলা বইমেলা]]></description>
+            <link>https://bangla.bdnews24.com/probash/499cec4333dc</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/probash/499cec4333dc</guid>
+            <pubDate>Tue, 26 May 2026 22:58:24 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/new-york-260526-01-1779818675.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[অন্তর্বর্তী সরকারের ‘কিচেন ক্যাবিনেটের’ সদস্য ছিলাম না: আসিফ মাহমুদ]]></title>
+            <description><![CDATA[[রাজনীতি] অন্তর্বর্তী সরকারের ‘কিচেন ক্যাবিনেটের’ সদস্য ছিলাম না: আসিফ মাহমুদ]]></description>
+            <link>https://bangla.bdnews24.com/politics/e7dc5c579457</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/politics/e7dc5c579457</guid>
+            <pubDate>Tue, 26 May 2026 22:58:24 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/asif-mahmud-sajeeb-ncp-260526-1779818780.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ফিলিস্তিন রাষ্ট্র ছাড়া ইসরায়েলের সঙ্গে সম্পর্ক নয়, জানাল সৌদি আরব-পাকিস্তান]]></title>
+            <description><![CDATA[[বিশ্ব] ফিলিস্তিন রাষ্ট্র ছাড়া ইসরায়েলের সঙ্গে সম্পর্ক নয়, জানাল সৌদি আরব-পাকিস্তান]]></description>
+            <link>https://bangla.bdnews24.com/world/1160f096331d</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/world/1160f096331d</guid>
+            <pubDate>Tue, 26 May 2026 22:58:24 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/abraham-accords-260526-01-1779818149.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বার্সেলোনার সঙ্গে ১৪ বছরের সম্পর্কের ইতি টানলেন পুতেয়াস]]></title>
+            <description><![CDATA[[খেলা] বার্সেলোনার সঙ্গে ১৪ বছরের সম্পর্কের ইতি টানলেন পুতেয়াস]]></description>
+            <link>https://bangla.bdnews24.com/sport/6814f2aa4c0f</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/6814f2aa4c0f</guid>
+            <pubDate>Tue, 26 May 2026 22:58:24 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/alexia-putellas-260526-01-1779818049.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ঈদযাত্রায় হামের বিস্তার বাড়ার শঙ্কা, ‘উদাসীনতা’ দেখছেন বিশেষজ্ঞরা]]></title>
+            <description><![CDATA[[স্বাস্থ্য] ঈদযাত্রায় হামের বিস্তার বাড়ার শঙ্কা, ‘উদাসীনতা’ দেখছেন বিশেষজ্ঞরা]]></description>
+            <link>https://bangla.bdnews24.com/health/42cad809bdc4</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/health/42cad809bdc4</guid>
+            <pubDate>Tue, 26 May 2026 22:58:24 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/eid-journey-kamalapur-station-22052026-031-1779461755.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বরিশাল শের-ই বাংলা মেডিকেল কলেজের পুকুরে ২ শিশুর লাশ]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] বরিশাল শের-ই বাংলা মেডিকেল কলেজের পুকুরে ২ শিশুর লাশ]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/825448e93042</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/825448e93042</guid>
+            <pubDate>Tue, 26 May 2026 22:58:24 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/barisal-two-child-dead-260526-01-1779817482.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[প্রধানমন্ত্রীর ঈদ শুভেচ্ছা, কোরবানি ও ইবাদত কবুলের প্রার্থনা]]></title>
+            <description><![CDATA[[বাংলাদেশ] প্রধানমন্ত্রীর ঈদ শুভেচ্ছা, কোরবানি ও ইবাদত কবুলের প্রার্থনা]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/cc9749ad766d</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/cc9749ad766d</guid>
+            <pubDate>Tue, 26 May 2026 22:58:24 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/pm-tarique-rahman-at-police-week-program-11052026-2-1778499528-1778578780.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[প্যারিসে উদীচী শিল্পীগোষ্ঠীর বর্ণাঢ্য বর্ষবরণ]]></title>
+            <description><![CDATA[[প্রবাস] প্যারিসে উদীচী শিল্পীগোষ্ঠীর বর্ণাঢ্য বর্ষবরণ]]></description>
+            <link>https://bangla.bdnews24.com/probash/c215fb5310bb</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/probash/c215fb5310bb</guid>
+            <pubDate>Tue, 26 May 2026 22:58:24 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/france-260526-01-1779815500.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[গাজীপুরে ৯৯.৭২% কারখানা বেতন, ৯৯.৭৩% বোনাস দিয়েছে: পুলিশ]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] গাজীপুরে ৯৯.৭২% কারখানা বেতন, ৯৯.৭৩% বোনাস দিয়েছে: পুলিশ]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/aeacc8cd74dd</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/aeacc8cd74dd</guid>
+            <pubDate>Tue, 26 May 2026 22:58:24 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024September/SM/ashulia-garments-090924-02-1725888926.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘অবৈধ বাংলাদেশিদের’ দ্রুত পশ্চিমবঙ্গ ছাড়ার হুঁশিয়ারি শুভেন্দুর]]></title>
+            <description><![CDATA[[প্রতিবেশী] ‘অবৈধ বাংলাদেশিদের’ দ্রুত পশ্চিমবঙ্গ ছাড়ার হুঁশিয়ারি শুভেন্দুর]]></description>
+            <link>https://bangla.bdnews24.com/neighbour/dbfb7de20d9e</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/neighbour/dbfb7de20d9e</guid>
+            <pubDate>Tue, 26 May 2026 22:58:24 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/suvendu-adhikari-260526-1779815070.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[পঞ্চগড়ে নদীতে বালু তুলতে গিয়ে মিলল মর্টার শেল]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] পঞ্চগড়ে নদীতে বালু তুলতে গিয়ে মিলল মর্টার শেল]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/295a5def10d7</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/295a5def10d7</guid>
+            <pubDate>Tue, 26 May 2026 22:58:24 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/panchagarh-moter-sel-260526-01-1779814225.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বাড্ডায় শাহ আলম হত্যা: হাসিনা-কাদেরসহ ২৩ জনের নামে অভিযোগপত্র]]></title>
+            <description><![CDATA[[বাংলাদেশ] বাড্ডায় শাহ আলম হত্যা: হাসিনা-কাদেরসহ ২৩ জনের নামে অভিযোগপত্র]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/32a76e71ed53</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/32a76e71ed53</guid>
+            <pubDate>Tue, 26 May 2026 22:58:24 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews24-english/import/media/2016/10/23/o-kader-al-league_gs.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[আধিপত্য নিয়ে সালথায় দুপক্ষে সংঘর্ষ, আহত ১০]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] আধিপত্য নিয়ে সালথায় দুপক্ষে সংঘর্ষ, আহত ১০]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/bcfea29ed4ff</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/bcfea29ed4ff</guid>
+            <pubDate>Tue, 26 May 2026 22:58:24 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/faridpur-clash-260526-1779812013.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[নতুন হামলা হলে পাল্টা জবাব হবে আরও ভয়াবহ: ইরান]]></title>
+            <description><![CDATA[[বিশ্ব] নতুন হামলা হলে পাল্টা জবাব হবে আরও ভয়াবহ: ইরান]]></description>
+            <link>https://bangla.bdnews24.com/world/bc4a8124199a</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/world/bc4a8124199a</guid>
+            <pubDate>Tue, 26 May 2026 22:58:24 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/iran-falg-260526-01-1779811709.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ফিলিস্তিনিদের ঈদ মাটি করে দিতে ৪৫ ভেড়া চুরি করল ইহুদিরা]]></title>
+            <description><![CDATA[[টিউব] ফিলিস্তিনিদের ঈদ মাটি করে দিতে ৪৫ ভেড়া চুরি করল ইহুদিরা]]></description>
+            <link>https://bangla.bdnews24.com/tube/d15dfa8631a5</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/d15dfa8631a5</guid>
+            <pubDate>Tue, 26 May 2026 22:58:24 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/palestinian-shepherd-pkg-thumb-26052026-1779811400.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[সাভারে বিএনপি নেতার অবৈধ গরুর হাট, ‘ইচ্ছামত হাসিল’]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] সাভারে বিএনপি নেতার অবৈধ গরুর হাট, ‘ইচ্ছামত হাসিল’]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/e554f55dc27f</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/e554f55dc27f</guid>
+            <pubDate>Tue, 26 May 2026 22:58:24 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/savar-cow-market-260526-01-1779811057.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
