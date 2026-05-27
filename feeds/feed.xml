@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 27 May 2026 21:42:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 May 2026 23:06:47 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 27 May 2026 21:42:30 GMT</pubDate>
+        <pubDate>Wed, 27 May 2026 23:06:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Crystal Palace win Conference League]]></title>
+            <description><![CDATA[[Sport] Crystal Palace win Conference League]]></description>
+            <link>https://bdnews24.com/sport/a37d098d5770</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/a37d098d5770</guid>
+            <pubDate>Thu, 28 May 2026 04:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/rayo-palace-280526-02-1779919172.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Barca ‘agree Anthony Gordon deal’ with Newcastle]]></title>
+            <description><![CDATA[[Sport] Barca ‘agree Anthony Gordon deal’ with Newcastle]]></description>
+            <link>https://bdnews24.com/sport/e292776b81eb</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/e292776b81eb</guid>
+            <pubDate>Thu, 28 May 2026 03:58:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/anthony-gordon-280526-02-1779919060.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Matthew Perry's assistant jailed]]></title>
+            <description><![CDATA[[Entertainment] Matthew Perry's assistant jailed]]></description>
+            <link>https://bdnews24.com/entertainment/1f6f1c943017</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/1f6f1c943017</guid>
+            <pubDate>Thu, 28 May 2026 03:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2025August/SM/matthew-perry-case-ketamine-queen-190825-01-1755575048.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Eid arrives under grey skies and grief]]></title>
             <description><![CDATA[[Bangladesh] Eid arrives under grey skies and grief]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/499ef21d2148</guid>
             <pubDate>Wed, 27 May 2026 21:32:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/dipu-moni-270526-1779891897.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jamaat men sold men to Russian Army: families]]></title>
-            <description><![CDATA[[Bangladesh] Jamaat men sold men to Russian Army: families]]></description>
-            <link>https://bdnews24.com/bangladesh/6be386813398</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6be386813398</guid>
-            <pubDate>Wed, 27 May 2026 20:50:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/lalmonirhat-rush-senabahini-270526-01-1779881434.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man dies after jumping from shopping mall]]></title>
-            <description><![CDATA[[Bangladesh] Man dies after jumping from shopping mall]]></description>
-            <link>https://bdnews24.com/bangladesh/08092d122732</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/08092d122732</guid>
-            <pubDate>Wed, 27 May 2026 20:29:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/basundhara-jump-death-270526-1779890421.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PSG eye European greatness against Arsenal]]></title>
-            <description><![CDATA[[Sport] PSG eye European greatness against Arsenal]]></description>
-            <link>https://bdnews24.com/sport/c81f2af7a2a9</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/c81f2af7a2a9</guid>
-            <pubDate>Wed, 27 May 2026 19:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/psg-ucl-270526-01-1779890026.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
