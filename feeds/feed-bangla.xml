@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ]]></title>
+        <description><![CDATA[bangla.bdnews24.com আর্কাইভ থেকে সর্বশেষ সংবাদ]]></description>
         <link>https://bangla.bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 29 May 2026 06:02:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 May 2026 10:37:01 GMT</lastBuildDate>
         <atom:link href="https://bangla.bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 29 May 2026 06:02:42 GMT</pubDate>
+        <pubDate>Fri, 29 May 2026 10:37:01 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
-            <link>https://bangla.bdnews24.com</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com</guid>
-            <pubDate>Fri, 29 May 2026 06:02:42 GMT</pubDate>
+            <title><![CDATA[লাওসে ভূমিধসে, গুহায় এক সপ্তাহ ধরে আটকা আছেন ৫ জন]]></title>
+            <description><![CDATA[[টিউব] লাওসে ভূমিধসে, গুহায় এক সপ্তাহ ধরে আটকা আছেন ৫ জন]]></description>
+            <link>https://bangla.bdnews24.com/tube/c55d55e00ab7</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/c55d55e00ab7</guid>
+            <pubDate>Fri, 29 May 2026 10:37:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/laos-cave-videotext-thumb-29052026-1780050685.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ঠাকুরগাঁও বিশ্ববিদ্যালয়ে নিয়োগে অনিয়ম করতে দেয়া হবে না: ফখরুল]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] ঠাকুরগাঁও বিশ্ববিদ্যালয়ে নিয়োগে অনিয়ম করতে দেয়া হবে না: ফখরুল]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/c9eec03be913</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/c9eec03be913</guid>
+            <pubDate>Fri, 29 May 2026 10:37:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/thakurgaon-mirza-fakhrul-290526-01-1780050587.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[প্রিয় গানে পরিচালক অনীক দত্তকে শেষ বিদায়]]></title>
+            <description><![CDATA[[গ্লিটজ] প্রিয় গানে পরিচালক অনীক দত্তকে শেষ বিদায়]]></description>
+            <link>https://bangla.bdnews24.com/glitz/55d9d283527a</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/glitz/55d9d283527a</guid>
+            <pubDate>Fri, 29 May 2026 10:37:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/anik-dutta-290526-01-1780050151.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[অবসরে যাচ্ছেন পাকিস্তানের বিখ্যাত সমর্থক ‘জলিল চাচা’]]></title>
+            <description><![CDATA[[ক্রিকেট] অবসরে যাচ্ছেন পাকিস্তানের বিখ্যাত সমর্থক ‘জলিল চাচা’]]></description>
+            <link>https://bangla.bdnews24.com/cricket/c9183a078838</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/cricket/c9183a078838</guid>
+            <pubDate>Fri, 29 May 2026 10:37:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/jalil-chacha-290526-01-1780049858.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ঈদের দ্বিতীয় দিনে ১২ হাজার টন বর্জ্য অপসারণের লক্ষ্য ডিএসসিসির]]></title>
+            <description><![CDATA[[বাংলাদেশ] ঈদের দ্বিতীয় দিনে ১২ হাজার টন বর্জ্য অপসারণের লক্ষ্য ডিএসসিসির]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/7133d7173996</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/7133d7173996</guid>
+            <pubDate>Fri, 29 May 2026 10:37:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/qurbani-waste-management-dscc-290526-01-1780049619.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘সত্যিকারের’ প্রেম: ডেটিং অ্যাপে প্রতারণা ঠেকাতে নতুন উদ্যোগ]]></title>
+            <description><![CDATA[[টেক] ‘সত্যিকারের’ প্রেম: ডেটিং অ্যাপে প্রতারণা ঠেকাতে নতুন উদ্যোগ]]></description>
+            <link>https://bangla.bdnews24.com/tech/86f8030742f3</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tech/86f8030742f3</guid>
+            <pubDate>Fri, 29 May 2026 10:37:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/datingapp-ai-260526-01-1780049083.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বিশ্বকাপের আগে ইতালিকে ছেড়ে অস্ট্রেলিয়াকে বেছে নিলেন ভলপাতো]]></title>
+            <description><![CDATA[[খেলা] বিশ্বকাপের আগে ইতালিকে ছেড়ে অস্ট্রেলিয়াকে বেছে নিলেন ভলপাতো]]></description>
+            <link>https://bangla.bdnews24.com/sport/b552599ff784</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/b552599ff784</guid>
+            <pubDate>Fri, 29 May 2026 10:37:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/volpato-290526-01-1780048405.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[মালদ্বীপকে হারিয়ে সেমিফাইনাল নিশ্চিত করার পর বাটলারের চোখ ভারতের দিকে]]></title>
+            <description><![CDATA[[টিউব] মালদ্বীপকে হারিয়ে সেমিফাইনাল নিশ্চিত করার পর বাটলারের চোখ ভারতের দিকে]]></description>
+            <link>https://bangla.bdnews24.com/tube/7e3718ed42aa</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/7e3718ed42aa</guid>
+            <pubDate>Fri, 29 May 2026 10:37:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/saff-semi-final-video-text-thumb-1780046719.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ফতুল্লায় শিশু ধর্ষণের অভিযোগে পিটুনি দেওয়া তরুণ মারা গেল আইসিইউতে]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] ফতুল্লায় শিশু ধর্ষণের অভিযোগে পিটুনি দেওয়া তরুণ মারা গেল আইসিইউতে]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/2666637fc03e</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/2666637fc03e</guid>
+            <pubDate>Fri, 29 May 2026 10:37:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/fatulla-thana-230526-201-1779519191.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ইরান চুক্তি নিয়ে নিজ দলেই চাপে ট্রাম্প, সংকীর্ণ হচ্ছে রাজনৈতিক পথ]]></title>
+            <description><![CDATA[[বিশ্ব] ইরান চুক্তি নিয়ে নিজ দলেই চাপে ট্রাম্প, সংকীর্ণ হচ্ছে রাজনৈতিক পথ]]></description>
+            <link>https://bangla.bdnews24.com/world/eb53685e3185</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/world/eb53685e3185</guid>
+            <pubDate>Fri, 29 May 2026 10:37:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/trump-iran-290526-01-1780046408.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[গরমে যেসব খাবার না খাওয়াই ভালো]]></title>
+            <description><![CDATA[[ভিডিও(হ্যালো)] গরমে যেসব খাবার না খাওয়াই ভালো]]></description>
+            <link>https://bangla.bdnews24.com/hello/hello-video/cab0c9f86fe5</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/hello/hello-video/cab0c9f86fe5</guid>
+            <pubDate>Fri, 29 May 2026 10:37:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/ws-heatwave-food-thum-1780036289.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[জিয়ার মৃত্যুবার্ষিকীতে বিএনপির নানা কর্মসূচি]]></title>
+            <description><![CDATA[[রাজনীতি] জিয়ার মৃত্যুবার্ষিকীতে বিএনপির নানা কর্মসূচি]]></description>
+            <link>https://bangla.bdnews24.com/politics/b5f7b454bac2</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/politics/b5f7b454bac2</guid>
+            <pubDate>Fri, 29 May 2026 10:37:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/ruhul-kabir-rizvi-290526-01-1780046040.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[হেরেও গর্বিত মালদ্বীপ কোচ]]></title>
+            <description><![CDATA[[খেলা] হেরেও গর্বিত মালদ্বীপ কোচ]]></description>
+            <link>https://bangla.bdnews24.com/sport/01a9e0a11239</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/01a9e0a11239</guid>
+            <pubDate>Fri, 29 May 2026 10:37:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/maldives-2905-01-1780045168.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[চাকরিতে ‘মহাবিপর্যয়’ ঘটাবে না এআই: আশ্বস্ত করলেন অল্টম্যান]]></title>
+            <description><![CDATA[[টেক] চাকরিতে ‘মহাবিপর্যয়’ ঘটাবে না এআই: আশ্বস্ত করলেন অল্টম্যান]]></description>
+            <link>https://bangla.bdnews24.com/tech/53de73c47881</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tech/53de73c47881</guid>
+            <pubDate>Fri, 29 May 2026 10:37:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/samaltman-reuters-260526-01-1780044345.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘১০-২, ১২-২, ১৪-২ স্কোরলাইনও হতে পারত’]]></title>
+            <description><![CDATA[[খেলা] ‘১০-২, ১২-২, ১৪-২ স্কোরলাইনও হতে পারত’]]></description>
+            <link>https://bangla.bdnews24.com/sport/4653c44df0dc</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/4653c44df0dc</guid>
+            <pubDate>Fri, 29 May 2026 10:37:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/butler-290526-01-1780044079.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[মালদ্বীপের দুই গোল কি সতর্ক বার্তা? বাটলার বললেন হ্যাঁ-না দুটোই]]></title>
+            <description><![CDATA[[খেলা] মালদ্বীপের দুই গোল কি সতর্ক বার্তা? বাটলার বললেন হ্যাঁ-না দুটোই]]></description>
+            <link>https://bangla.bdnews24.com/sport/ecabe0bfcb19</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/ecabe0bfcb19</guid>
+            <pubDate>Fri, 29 May 2026 10:37:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/bangladesh-290526-01-1780043342.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[আদ-দ্বীন হাসপাতালে নবজাতকের মৃত্যু: ক্ষতিপূরণ ও বিচার চেয়ে উকিল নোটিস]]></title>
+            <description><![CDATA[[বাংলাদেশ] আদ-দ্বীন হাসপাতালে নবজাতকের মৃত্যু: ক্ষতিপূরণ ও বিচার চেয়ে উকিল নোটিস]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/e1535bc9a660</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/e1535bc9a660</guid>
+            <pubDate>Fri, 29 May 2026 10:37:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/ad-din-hospital-moghbazar-270526-202-1779908627.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[কলম্বিয়ায় সশস্ত্র দলগুলোর মধ্যে সংঘর্ষে নিহত ৫২]]></title>
+            <description><![CDATA[[বিশ্ব] কলম্বিয়ায় সশস্ত্র দলগুলোর মধ্যে সংঘর্ষে নিহত ৫২]]></description>
+            <link>https://bangla.bdnews24.com/world/6f0916c2363b</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/world/6f0916c2363b</guid>
+            <pubDate>Fri, 29 May 2026 10:37:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/armed-groups-290526-01-1780042179.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ঈদের ছুটি: এখনো জমে ওঠেনি খাগড়াছড়ির পর্যটন]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] ঈদের ছুটি: এখনো জমে ওঠেনি খাগড়াছড়ির পর্যটন]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/538cdd4355a9</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/538cdd4355a9</guid>
+            <pubDate>Fri, 29 May 2026 10:37:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/khagrachori-turist-290526-01-1780041511.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[শিশুদের জন্য সামাজিক মাধ্যম ‘ধূমপানের মতোই ক্ষতিকর’]]></title>
+            <description><![CDATA[[টেক] শিশুদের জন্য সামাজিক মাধ্যম ‘ধূমপানের মতোই ক্ষতিকর’]]></description>
+            <link>https://bangla.bdnews24.com/tech/820a7ebbfc80</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tech/820a7ebbfc80</guid>
+            <pubDate>Fri, 29 May 2026 10:37:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/socialmedia-reuters-260526-01-1780040241.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

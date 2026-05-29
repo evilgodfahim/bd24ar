@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – Latest News]]></title>
+        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 29 May 2026 06:02:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 May 2026 10:37:00 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 29 May 2026 06:02:42 GMT</pubDate>
+        <pubDate>Fri, 29 May 2026 10:37:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
-            <link>https://bdnews24.com</link>
-            <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Fri, 29 May 2026 06:02:42 GMT</pubDate>
+            <title><![CDATA[Trump turns Greenland separatists toward Denmark]]></title>
+            <description><![CDATA[[World] Trump turns Greenland separatists toward Denmark]]></description>
+            <link>https://bdnews24.com/world/9b47fcfd6b77</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/9b47fcfd6b77</guid>
+            <pubDate>Fri, 29 May 2026 16:28:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/trump-greenland-separatists-denmark-290526-01-1780050340.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[906 'Ebola' cases, 223 deaths: WHO]]></title>
+            <description><![CDATA[[Health] 906 'Ebola' cases, 223 deaths: WHO]]></description>
+            <link>https://bdnews24.com/health/eb9877ca02c8</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/eb9877ca02c8</guid>
+            <pubDate>Fri, 29 May 2026 16:20:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/ebola-270526-1779855239.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man beaten over 'child rape' dies in ICU]]></title>
+            <description><![CDATA[[Bangladesh] Man beaten over 'child rape' dies in ICU]]></description>
+            <link>https://bdnews24.com/bangladesh/448db3dac0dc</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/448db3dac0dc</guid>
+            <pubDate>Fri, 29 May 2026 16:02:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/fatulla-thana-230526-201-1779519191.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arsenal move to secure Arteta future]]></title>
+            <description><![CDATA[[Sport] Arsenal move to secure Arteta future]]></description>
+            <link>https://bdnews24.com/sport/169ff2c88ed6</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/169ff2c88ed6</guid>
+            <pubDate>Fri, 29 May 2026 16:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/arsenal-arteta-future-290526-01-1780048785.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Monsoon rains in India forecast at 11-year low]]></title>
+            <description><![CDATA[[Neighbours] Monsoon rains in India forecast at 11-year low]]></description>
+            <link>https://bdnews24.com/neighbours/c1e0e84312a3</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/c1e0e84312a3</guid>
+            <pubDate>Fri, 29 May 2026 15:58:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/india-monsoon-290526-1780048648.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bulgaria will cut US military aircraft stay: PM Radev]]></title>
+            <description><![CDATA[[Aviation] Bulgaria will cut US military aircraft stay: PM Radev]]></description>
+            <link>https://bdnews24.com/aviation/66b684de341b</link>
+            <guid isPermaLink="true">https://bdnews24.com/aviation/66b684de341b</guid>
+            <pubDate>Fri, 29 May 2026 15:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/bulgaria-pm-290526-1780048517.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[DSCC aims to remove 12,000 tonnes of waste on 2nd day of Eid]]></title>
+            <description><![CDATA[[Bangladesh] DSCC aims to remove 12,000 tonnes of waste on 2nd day of Eid]]></description>
+            <link>https://bdnews24.com/bangladesh/6050b01f22d8</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6050b01f22d8</guid>
+            <pubDate>Fri, 29 May 2026 15:29:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/qurbani-waste-management-dscc-290526-01-1780049619.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BNP to mark death anniversary of Ziaur Rahman Saturday]]></title>
+            <description><![CDATA[[Politics] BNP to mark death anniversary of Ziaur Rahman Saturday]]></description>
+            <link>https://bdnews24.com/politics/272261502e97</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/272261502e97</guid>
+            <pubDate>Fri, 29 May 2026 15:17:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/ruhul-kabir-rizvi-290526-01-1780046040.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eid holiday tourism yet to pick up in Khagrachhari]]></title>
+            <description><![CDATA[[Travel & Tourism] Eid holiday tourism yet to pick up in Khagrachhari]]></description>
+            <link>https://bdnews24.com/travelandtourism/0d5a25a16f16</link>
+            <guid isPermaLink="true">https://bdnews24.com/travelandtourism/0d5a25a16f16</guid>
+            <pubDate>Fri, 29 May 2026 15:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/khagrachori-turist-290526-01-1780041511.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Legal notice seeks action over Ad-din newborn deaths]]></title>
+            <description><![CDATA[[Health] Legal notice seeks action over Ad-din newborn deaths]]></description>
+            <link>https://bdnews24.com/health/5d61d565fd0c</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/5d61d565fd0c</guid>
+            <pubDate>Fri, 29 May 2026 14:28:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/ad-din-hospital-moghbazar-270526-202-1779908627.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[China is building launch pads near its nuclear missile silos]]></title>
+            <description><![CDATA[[THE LONG READ] China is building launch pads near its nuclear missile silos]]></description>
+            <link>https://bdnews24.com/the-long-read/6f7fbb8c3816</link>
+            <guid isPermaLink="true">https://bdnews24.com/the-long-read/6f7fbb8c3816</guid>
+            <pubDate>Fri, 29 May 2026 14:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/china-launch-pad-290526-1780041958.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Infant with measles symptoms dies in Sylhet]]></title>
+            <description><![CDATA[[Bangladesh] Infant with measles symptoms dies in Sylhet]]></description>
+            <link>https://bdnews24.com/bangladesh/423ae3996930</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/423ae3996930</guid>
+            <pubDate>Fri, 29 May 2026 14:01:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/syhlet-hum-dead-250526-01-1779694118.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US bill seeks Eid holidays]]></title>
+            <description><![CDATA[[Americas] US bill seeks Eid holidays]]></description>
+            <link>https://bdnews24.com/world/americas/7365e81c4b16</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/7365e81c4b16</guid>
+            <pubDate>Fri, 29 May 2026 13:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/andre-carson-grace-meng-290526-01-1780034907.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Malaysia PM faces pressure over party defections]]></title>
+            <description><![CDATA[[Asia Pacific] Malaysia PM faces pressure over party defections]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/78c7468653ca</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/78c7468653ca</guid>
+            <pubDate>Fri, 29 May 2026 12:51:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/malaysia-pm-290526-1780037384.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Measles: 2 more children die in Faridpur]]></title>
+            <description><![CDATA[[Health] Measles: 2 more children die in Faridpur]]></description>
+            <link>https://bdnews24.com/health/a0cb06056788</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/a0cb06056788</guid>
+            <pubDate>Fri, 29 May 2026 12:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/foridpur-hum-260526-1779775142.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[UN adds Israel, Russia to sexual violence blacklist: report]]></title>
+            <description><![CDATA[[World] UN adds Israel, Russia to sexual violence blacklist: report]]></description>
+            <link>https://bdnews24.com/world/883ed7936b0f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/883ed7936b0f</guid>
+            <pubDate>Fri, 29 May 2026 12:17:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/israel-lebanon-tanks-290526-01-1780035334.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Colombia violence kills 52]]></title>
+            <description><![CDATA[[Americas] Colombia violence kills 52]]></description>
+            <link>https://bdnews24.com/world/americas/2f2fa2d38f1c</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/2f2fa2d38f1c</guid>
+            <pubDate>Fri, 29 May 2026 11:34:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/colombia-290526-1780032775.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[6 dead in India bridge collapse]]></title>
+            <description><![CDATA[[Neighbours] 6 dead in India bridge collapse]]></description>
+            <link>https://bdnews24.com/neighbours/29f4dd39e3b4</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/29f4dd39e3b4</guid>
+            <pubDate>Fri, 29 May 2026 11:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/bridge-collapses-290526-01-1780028349.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[2nd day of Eid sacrifices in Dhaka]]></title>
+            <description><![CDATA[[Bangladesh] 2nd day of Eid sacrifices in Dhaka]]></description>
+            <link>https://bdnews24.com/bangladesh/db3fed3402c9</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/db3fed3402c9</guid>
+            <pubDate>Fri, 29 May 2026 10:59:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/qurbani-second-day-290526-01-1780030700.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ebola treatments, vaccines selected for trials: WHO]]></title>
+            <description><![CDATA[[Health] Ebola treatments, vaccines selected for trials: WHO]]></description>
+            <link>https://bdnews24.com/health/33406accf9b1</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/33406accf9b1</guid>
+            <pubDate>Fri, 29 May 2026 10:42:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/ebola-who-210526-1779332516.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
