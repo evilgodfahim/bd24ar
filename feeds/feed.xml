@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News]]></title>
-        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
+        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 29 May 2026 20:04:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 May 2026 22:23:42 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 29 May 2026 20:04:04 GMT</pubDate>
+        <pubDate>Fri, 29 May 2026 22:23:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Is Dhallywood turning away from literature?]]></title>
-            <description><![CDATA[[Bangladesh] Is Dhallywood turning away from literature?]]></description>
-            <link>https://bdnews24.com/bangladesh/7582f2d844ba</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7582f2d844ba</guid>
-            <pubDate>Sat, 30 May 2026 01:56:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/film-adaptation-from-literature-280526-01-1780083085.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Donald Trump’ is now Mirpur zoo's Eid star]]></title>
-            <description><![CDATA[[Bangladesh] ‘Donald Trump’ is now Mirpur zoo's Eid star]]></description>
-            <link>https://bdnews24.com/bangladesh/3232b9810103</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3232b9810103</guid>
-            <pubDate>Sat, 30 May 2026 01:52:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/buffalo-donald-trump-280526-005-1779980806.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eid Day 2: Hide trade steadies as prices improve]]></title>
-            <description><![CDATA[[Business] Eid Day 2: Hide trade steadies as prices improve]]></description>
-            <link>https://bdnews24.com/business/5959b745bb7c</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/5959b745bb7c</guid>
-            <pubDate>Sat, 30 May 2026 01:47:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/raw-hide-posta-280526-12-1779997543.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fonseca stuns Djokovic in 5-set Roland Garros epic]]></title>
-            <description><![CDATA[[Sport] Fonseca stuns Djokovic in 5-set Roland Garros epic]]></description>
-            <link>https://bdnews24.com/sport/e53068e38bad</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/e53068e38bad</guid>
-            <pubDate>Sat, 30 May 2026 01:24:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/fonseca-stuns-djokovic-290526-01-1780082590.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[150 tourists stranded on Meghna sandbar]]></title>
-            <description><![CDATA[[Bangladesh] 150 tourists stranded on Meghna sandbar]]></description>
-            <link>https://bdnews24.com/bangladesh/06e93a793cfa</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/06e93a793cfa</guid>
-            <pubDate>Sat, 30 May 2026 01:14:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/lakshmipur-file-290526-1780079229.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Real top Forbes football rich list]]></title>
-            <description><![CDATA[[Sport] Real top Forbes football rich list]]></description>
-            <link>https://bdnews24.com/sport/66915ea510e0</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/66915ea510e0</guid>
-            <pubDate>Sat, 30 May 2026 00:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/real-top-forbes-list-300526-01-1780080826.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gill ton steers Gujarat into IPL final]]></title>
-            <description><![CDATA[[Sport] Gill ton steers Gujarat into IPL final]]></description>
-            <link>https://bdnews24.com/sport/459ed663a680</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/459ed663a680</guid>
-            <pubDate>Sat, 30 May 2026 00:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/gill-gujarat-ipl-30052026-01-1780080612.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PSG crave another Champions League high]]></title>
-            <description><![CDATA[[Sport] PSG crave another Champions League high]]></description>
-            <link>https://bdnews24.com/sport/fdd2617781f5</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/fdd2617781f5</guid>
-            <pubDate>Sat, 30 May 2026 00:31:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/psg-crave-ucl-30052026-01-1780079440.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mourinho signs deal for Madrid comeback: report]]></title>
-            <description><![CDATA[[Sport] Mourinho signs deal for Madrid comeback: report]]></description>
-            <link>https://bdnews24.com/sport/27a3e74b3a6a</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/27a3e74b3a6a</guid>
-            <pubDate>Sat, 30 May 2026 00:25:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/mourinho-madrid-30052026-01-1780079008.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arsenal hungry for history against PSG]]></title>
-            <description><![CDATA[[Sport] Arsenal hungry for history against PSG]]></description>
-            <link>https://bdnews24.com/sport/c83367263b67</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/c83367263b67</guid>
-            <pubDate>Sat, 30 May 2026 00:21:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/arsenal-hungry-psg-29052026-01-1780078800.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Timber fit for UCL final: Arteta]]></title>
-            <description><![CDATA[[Sport] Timber fit for UCL final: Arteta]]></description>
-            <link>https://bdnews24.com/sport/05d52dd3d0b9</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/05d52dd3d0b9</guid>
-            <pubDate>Sat, 30 May 2026 00:18:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/timber-ucl-arteta-29052026-01-1780078615.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Meta workplace tracking tool faces EU privacy scrutiny]]></title>
-            <description><![CDATA[[Technology] Meta workplace tracking tool faces EU privacy scrutiny]]></description>
-            <link>https://bdnews24.com/technology/088e6a457cd7</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/088e6a457cd7</guid>
-            <pubDate>Fri, 29 May 2026 23:36:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/meta-tool-eu-scrutiny-29052026-01-1780076065.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israeli forces cross key Lebanon river in ground offensive]]></title>
-            <description><![CDATA[[World] Israeli forces cross key Lebanon river in ground offensive]]></description>
-            <link>https://bdnews24.com/world/ae32af7c5770</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ae32af7c5770</guid>
-            <pubDate>Fri, 29 May 2026 23:16:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/israel-lebanon-offensive-29052026-01-1780074878.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hasina’s lawyer contests July Uprising death toll]]></title>
-            <description><![CDATA[[Bangladesh] Hasina’s lawyer contests July Uprising death toll]]></description>
-            <link>https://bdnews24.com/bangladesh/21d9b2b36298</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/21d9b2b36298</guid>
-            <pubDate>Fri, 29 May 2026 23:08:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025January/SM/sheikh-hasina-080124-01-1736316571.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bogura motorcycle crash kills 3]]></title>
-            <description><![CDATA[[Bangladesh] Bogura motorcycle crash kills 3]]></description>
-            <link>https://bdnews24.com/bangladesh/8552ece4c331</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8552ece4c331</guid>
-            <pubDate>Fri, 29 May 2026 22:23:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/bogra-kahalu-thana-250526-01-1779734494.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India to deport 386 people to Bangladesh: report]]></title>
-            <description><![CDATA[[Neighbours] India to deport 386 people to Bangladesh: report]]></description>
-            <link>https://bdnews24.com/neighbours/44efea7afb36</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/44efea7afb36</guid>
-            <pubDate>Fri, 29 May 2026 22:04:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/wb-hakimpur-290526-1780068296.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Crowds head home on Eid Day 2]]></title>
-            <description><![CDATA[[Image] Crowds head home on Eid Day 2]]></description>
-            <link>https://bdnews24.com/media-en/image/4b7b2536d598</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/4b7b2536d598</guid>
-            <pubDate>Fri, 29 May 2026 21:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/eid-journey-sadarghat-290526-017-1780068267.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump eyes Hormuz access, uranium curbs in Iran deal]]></title>
-            <description><![CDATA[[World] Trump eyes Hormuz access, uranium curbs in Iran deal]]></description>
-            <link>https://bdnews24.com/world/8b384e1ec8ed</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/8b384e1ec8ed</guid>
-            <pubDate>Fri, 29 May 2026 21:52:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/iran-action-29052026-01-1780068588.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Visitors crowd at Patenga Sea Beach]]></title>
-            <description><![CDATA[[Image] Visitors crowd at Patenga Sea Beach]]></description>
-            <link>https://bdnews24.com/media-en/image/b9e535fbbcc3</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/b9e535fbbcc3</guid>
-            <pubDate>Fri, 29 May 2026 21:42:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/eid-binodon-potenga-chattogram-290526-04-1780066173.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[May 29, 2026]]></title>
-            <description><![CDATA[[Image] May 29, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/41c2e412f6fa</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/41c2e412f6fa</guid>
-            <pubDate>Fri, 29 May 2026 21:35:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/people-waiting-sacrificial-meat-290526-011-1780065452.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: timeout of 65000ms exceeded]]></description>
+            <link>https://bdnews24.com</link>
+            <guid isPermaLink="true">https://bdnews24.com</guid>
+            <pubDate>Fri, 29 May 2026 22:23:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
