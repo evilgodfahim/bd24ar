@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 30 May 2026 06:38:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 May 2026 09:07:47 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 30 May 2026 06:38:50 GMT</pubDate>
+        <pubDate>Sat, 30 May 2026 09:07:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Teen dies in clash over ‘drug sale’ in Sarail]]></title>
+            <description><![CDATA[[Bangladesh] Teen dies in clash over ‘drug sale’ in Sarail]]></description>
+            <link>https://bdnews24.com/bangladesh/195cefa7db1b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/195cefa7db1b</guid>
+            <pubDate>Sat, 30 May 2026 15:02:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/brahmonbaria-clash-300526-01-1780123530.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tarique reviving Zia’s revolutionary programmes: Fakhrul]]></title>
+            <description><![CDATA[[Politics] Tarique reviving Zia’s revolutionary programmes: Fakhrul]]></description>
+            <link>https://bdnews24.com/politics/cbb88086e04a</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/cbb88086e04a</guid>
+            <pubDate>Sat, 30 May 2026 14:44:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/mirza-fakhrul-islam-alamgir-300526-01-1780130261.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[2 more children with measles symptoms die in Sylhet]]></title>
+            <description><![CDATA[[Bangladesh] 2 more children with measles symptoms die in Sylhet]]></description>
+            <link>https://bdnews24.com/bangladesh/5eb931e958d5</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5eb931e958d5</guid>
+            <pubDate>Sat, 30 May 2026 14:04:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/sylhet-hospital-130526-1778661545.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Father, son die in Mymensigh road accident]]></title>
+            <description><![CDATA[[Bangladesh] Father, son die in Mymensigh road accident]]></description>
+            <link>https://bdnews24.com/bangladesh/4b4cfc141333</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4b4cfc141333</guid>
+            <pubDate>Sat, 30 May 2026 13:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/mymensing-acc-300526-01-1780120482.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM launches food, clothing distribution to mark Zia’s death anniversary]]></title>
+            <description><![CDATA[[Politics] PM launches food, clothing distribution to mark Zia’s death anniversary]]></description>
+            <link>https://bdnews24.com/politics/2c96aa7e04ab</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/2c96aa7e04ab</guid>
+            <pubDate>Sat, 30 May 2026 13:26:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/tarique-rahman-cloth-food-distribution-300526-101-1780125520.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ad-Din Hospital probe deadline extended to Jun 3]]></title>
+            <description><![CDATA[[Health] Ad-Din Hospital probe deadline extended to Jun 3]]></description>
+            <link>https://bdnews24.com/health/6fb36317cc07</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/6fb36317cc07</guid>
+            <pubDate>Sat, 30 May 2026 12:51:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/ad-din-hospital-moghbazar-270526-05-1779866497.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[May 30, 2026]]></title>
+            <description><![CDATA[[Image] May 30, 2026]]></description>
+            <link>https://bdnews24.com/media-en/image/21a6b4ce3f60</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/21a6b4ce3f60</guid>
+            <pubDate>Sat, 30 May 2026 12:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/tarique-rahman-300526-01-1780122194.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[2 die as motorcycle falls in pond in Netrokona]]></title>
             <description><![CDATA[[Bangladesh] 2 die as motorcycle falls in pond in Netrokona]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/7988727b76b8</guid>
             <pubDate>Sat, 30 May 2026 09:44:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/usa-hegseth-china-defence-300526-01-1780112546.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Myanmar junta chief heads to India]]></title>
-            <description><![CDATA[[Neighbours] Myanmar junta chief heads to India]]></description>
-            <link>https://bdnews24.com/neighbours/272b6329425d</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/272b6329425d</guid>
-            <pubDate>Sat, 30 May 2026 09:36:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/myanmar-junta-chief-india-300526-01-1780112065.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US immigration agent arrested in Texas]]></title>
-            <description><![CDATA[[World] US immigration agent arrested in Texas]]></description>
-            <link>https://bdnews24.com/world/1a9310d86b91</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/1a9310d86b91</guid>
-            <pubDate>Sat, 30 May 2026 09:25:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/federal-agents-300526-01-1780111479.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump says he will soon decide on Iran deal]]></title>
-            <description><![CDATA[[World] Trump says he will soon decide on Iran deal]]></description>
-            <link>https://bdnews24.com/world/324cc468aa91</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/324cc468aa91</guid>
-            <pubDate>Sat, 30 May 2026 09:14:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/iran-crisis-mural-300526-01-1780110821.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran's strongest card in nuclear talks]]></title>
-            <description><![CDATA[[West Asia] Iran's strongest card in nuclear talks]]></description>
-            <link>https://bdnews24.com/world/middle-east/932be114adbe</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/932be114adbe</guid>
-            <pubDate>Sat, 30 May 2026 02:21:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2025June/SM/iran-nuclear-facilities-20250620-1750423404.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hajj pilgrims begin return journey]]></title>
-            <description><![CDATA[[Bangladesh] Hajj pilgrims begin return journey]]></description>
-            <link>https://bdnews24.com/bangladesh/b139414e0da0</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b139414e0da0</guid>
-            <pubDate>Sat, 30 May 2026 02:18:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/hajj-satan-stoning-270526-02-1779867373.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Is Dhallywood turning away from literature?]]></title>
-            <description><![CDATA[[Bangladesh] Is Dhallywood turning away from literature?]]></description>
-            <link>https://bdnews24.com/bangladesh/7582f2d844ba</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7582f2d844ba</guid>
-            <pubDate>Sat, 30 May 2026 01:56:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/film-adaptation-from-literature-280526-01-1780083085.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Donald Trump’ is now Mirpur zoo's Eid star]]></title>
-            <description><![CDATA[[Bangladesh] ‘Donald Trump’ is now Mirpur zoo's Eid star]]></description>
-            <link>https://bdnews24.com/bangladesh/3232b9810103</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3232b9810103</guid>
-            <pubDate>Sat, 30 May 2026 01:52:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/buffalo-donald-trump-280526-005-1779980806.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
