@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 30 May 2026 09:07:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 May 2026 11:09:26 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 30 May 2026 09:07:47 GMT</pubDate>
+        <pubDate>Sat, 30 May 2026 11:09:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Measles: 8 more children die]]></title>
+            <description><![CDATA[[Health] Measles: 8 more children die]]></description>
+            <link>https://bdnews24.com/health/5da7cab3fd6e</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/5da7cab3fd6e</guid>
+            <pubDate>Sat, 30 May 2026 15:59:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/mymensing-hum-050526-01-1777957360.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM calls for embracing Zia’s ideology to build nation]]></title>
+            <description><![CDATA[[Bangladesh] PM calls for embracing Zia’s ideology to build nation]]></description>
+            <link>https://bdnews24.com/bangladesh/4a00ad8420bc</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4a00ad8420bc</guid>
+            <pubDate>Sat, 30 May 2026 15:46:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/tarique-rahman-cloth-food-distribution-300526-102-1780125595.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Teen dies in clash over ‘drug sale’ in Sarail]]></title>
             <description><![CDATA[[Bangladesh] Teen dies in clash over ‘drug sale’ in Sarail]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/ad30f1a131cc</guid>
             <pubDate>Sat, 30 May 2026 10:02:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/migrants-rio-grande-300526-01-1780113708.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US general meets Cuban military officials]]></title>
-            <description><![CDATA[[Americas] US general meets Cuban military officials]]></description>
-            <link>https://bdnews24.com/world/americas/8b82c2a0803a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/8b82c2a0803a</guid>
-            <pubDate>Sat, 30 May 2026 09:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/us-general-cuba-300526-01-1780112991.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pentagon chief sounds 'alarm' over China's buildup]]></title>
-            <description><![CDATA[[World] Pentagon chief sounds 'alarm' over China's buildup]]></description>
-            <link>https://bdnews24.com/world/7988727b76b8</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/7988727b76b8</guid>
-            <pubDate>Sat, 30 May 2026 09:44:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/usa-hegseth-china-defence-300526-01-1780112546.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
