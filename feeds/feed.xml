@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 30 May 2026 20:01:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 May 2026 21:47:24 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 30 May 2026 20:01:15 GMT</pubDate>
+        <pubDate>Sat, 30 May 2026 21:47:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US backtracks on Green Card rule]]></title>
+            <description><![CDATA[[World] US backtracks on Green Card rule]]></description>
+            <link>https://bdnews24.com/world/3fb36bdea46a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/3fb36bdea46a</guid>
+            <pubDate>Sun, 31 May 2026 02:33:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/us-citizenship-uscis-230526-1779550747.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sangakkara backs Sooryavanshi for India call-up]]></title>
+            <description><![CDATA[[Sport] Sangakkara backs Sooryavanshi for India call-up]]></description>
+            <link>https://bdnews24.com/sport/82483a678159</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/82483a678159</guid>
+            <pubDate>Sun, 31 May 2026 02:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/kumar-sangakkara-310526-01-1780173007.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[On the field but off the books: Female farmers’ battle for recognition]]></title>
+            <description><![CDATA[[Bangladesh] On the field but off the books: Female farmers’ battle for recognition]]></description>
+            <link>https://bdnews24.com/bangladesh/68b4c9859f8c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/68b4c9859f8c</guid>
+            <pubDate>Sun, 31 May 2026 02:26:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/bhola-female-farmar-290526-01-1780171275.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Johansson replaces injured Holm]]></title>
             <description><![CDATA[[Sport] Johansson replaces injured Holm]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/551985e9acd8</guid>
             <pubDate>Sat, 30 May 2026 20:14:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/eu-flags-300526-1780150366.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ad-din probe extended to interview mothers]]></title>
-            <description><![CDATA[[Bangladesh] Ad-din probe extended to interview mothers]]></description>
-            <link>https://bdnews24.com/bangladesh/038e200410e7</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/038e200410e7</guid>
-            <pubDate>Sat, 30 May 2026 19:38:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/health-minister-300526-1780145643.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US probes Vietnam's IP practices]]></title>
-            <description><![CDATA[[World] US probes Vietnam's IP practices]]></description>
-            <link>https://bdnews24.com/world/5fbf7bfb318c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/5fbf7bfb318c</guid>
-            <pubDate>Sat, 30 May 2026 19:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/vietnam-mall-300526-1780148196.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canada’s new citizenship rule piques American interest]]></title>
-            <description><![CDATA[[World] Canada’s new citizenship rule piques American interest]]></description>
-            <link>https://bdnews24.com/world/c12c6fa18c21</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/c12c6fa18c21</guid>
-            <pubDate>Sat, 30 May 2026 19:29:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/canada-30052026-1780147766.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
