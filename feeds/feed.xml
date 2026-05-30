@@ -4,13 +4,21 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 30 May 2026 16:53:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 May 2026 17:55:09 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 30 May 2026 16:53:00 GMT</pubDate>
+        <pubDate>Sat, 30 May 2026 17:55:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[NCP's Asif ‘took’ Tk 150mn, Hasnat Tk 100mn: Cumilla ZP admin]]></title>
-            <description><![CDATA[[Bangladesh] NCP's Asif ‘took’ Tk 150mn, Hasnat Tk 100mn: Cumilla ZP admin]]></description>
+            <title><![CDATA[Thousands attend ousted Turkish leader’s protest in Ankara]]></title>
+            <description><![CDATA[[World] Thousands attend ousted Turkish leader’s protest in Ankara]]></description>
+            <link>https://bdnews24.com/world/dbb653993164</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/dbb653993164</guid>
+            <pubDate>Sat, 30 May 2026 23:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/ozel-30052026-1780163219.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCP's Asif, Hasnat 'took' Tk 250mn: Cumilla ZP admin]]></title>
+            <description><![CDATA[[Bangladesh] NCP's Asif, Hasnat 'took' Tk 250mn: Cumilla ZP admin]]></description>
             <link>https://bdnews24.com/bangladesh/d2ac86cb65d7</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/d2ac86cb65d7</guid>
             <pubDate>Sat, 30 May 2026 22:34:00 GMT</pubDate>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/americas/f0d70465d082</guid>
             <pubDate>Sat, 30 May 2026 17:23:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/china-military-300526-01-1780140116.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Woman headed to see deceased father dies in road crash]]></title>
-            <description><![CDATA[[Bangladesh] Woman headed to see deceased father dies in road crash]]></description>
-            <link>https://bdnews24.com/bangladesh/bfce78857060</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/bfce78857060</guid>
-            <pubDate>Sat, 30 May 2026 17:22:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/nolchiti-thana-300526-01-1780134835.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
