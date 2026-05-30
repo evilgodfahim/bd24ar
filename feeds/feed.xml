@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 30 May 2026 15:57:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 May 2026 16:53:00 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 30 May 2026 15:57:03 GMT</pubDate>
+        <pubDate>Sat, 30 May 2026 16:53:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[NCP's Asif ‘took’ Tk 150mn, Hasnat Tk 100mn: Cumilla ZP admin]]></title>
+            <description><![CDATA[[Bangladesh] NCP's Asif ‘took’ Tk 150mn, Hasnat Tk 100mn: Cumilla ZP admin]]></description>
+            <link>https://bdnews24.com/bangladesh/d2ac86cb65d7</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d2ac86cb65d7</guid>
+            <pubDate>Sat, 30 May 2026 22:34:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/cumilla-zela-administrator-300526-01-1780154675.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Trinamool’s Abhishek hospitalised after being heckled]]></title>
             <description><![CDATA[[Neighbours] Trinamool’s Abhishek hospitalised after being heckled]]></description>
@@ -17,8 +25,8 @@
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/abhishek-banerjee-1780154835.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[3 found dead in Khulna house]]></title>
-            <description><![CDATA[[Bangladesh] 3 found dead in Khulna house]]></description>
+            <title><![CDATA[2 found dead in Khulna house, another missing]]></title>
+            <description><![CDATA[[Bangladesh] 2 found dead in Khulna house, another missing]]></description>
             <link>https://bdnews24.com/bangladesh/b1bb2bda20ac</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/b1bb2bda20ac</guid>
             <pubDate>Sat, 30 May 2026 21:41:00 GMT</pubDate>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/bfce78857060</guid>
             <pubDate>Sat, 30 May 2026 17:22:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/nolchiti-thana-300526-01-1780134835.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles: 8 more children die]]></title>
-            <description><![CDATA[[Health] Measles: 8 more children die]]></description>
-            <link>https://bdnews24.com/health/5da7cab3fd6e</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/5da7cab3fd6e</guid>
-            <pubDate>Sat, 30 May 2026 15:59:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/mymensing-hum-050526-01-1777957360.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
