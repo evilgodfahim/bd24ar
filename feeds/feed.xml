@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 30 May 2026 17:55:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 May 2026 18:55:22 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 30 May 2026 17:55:09 GMT</pubDate>
+        <pubDate>Sat, 30 May 2026 18:55:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[DNA test may spare millions from chemotherapy]]></title>
+            <description><![CDATA[[Health] DNA test may spare millions from chemotherapy]]></description>
+            <link>https://bdnews24.com/health/05ff9ccf0517</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/05ff9ccf0517</guid>
+            <pubDate>Sun, 31 May 2026 00:50:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/cancer-represental-photo-30052026-1780166837.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Liverpool sack Slot after downturn]]></title>
+            <description><![CDATA[[Sport] Liverpool sack Slot after downturn]]></description>
+            <link>https://bdnews24.com/sport/dcab68a319fb</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/dcab68a319fb</guid>
+            <pubDate>Sun, 31 May 2026 00:33:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/arne-slot-310526-01-1780166015.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Journalists attacked at Ad-din Hospital]]></title>
+            <description><![CDATA[[Bangladesh] Journalists attacked at Ad-din Hospital]]></description>
+            <link>https://bdnews24.com/bangladesh/2962afee01a3</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2962afee01a3</guid>
+            <pubDate>Sun, 31 May 2026 00:05:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/ad-din-hospital-0300526-02-1780160495.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Thousands attend ousted Turkish leader’s protest in Ankara]]></title>
             <description><![CDATA[[World] Thousands attend ousted Turkish leader’s protest in Ankara]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/9edec9ff75a2</guid>
             <pubDate>Sat, 30 May 2026 18:52:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/to-lam-30052026-1780145480.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Philippines still under threat from China: minister]]></title>
-            <description><![CDATA[[World] Philippines still under threat from China: minister]]></description>
-            <link>https://bdnews24.com/world/c71a1ab11b05</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/c71a1ab11b05</guid>
-            <pubDate>Sat, 30 May 2026 18:34:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/philippines-minister-300526-1780144402.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Film screening in Brahmanbaria called off over ‘obscenity’]]></title>
-            <description><![CDATA[[Bangladesh] Film screening in Brahmanbaria called off over ‘obscenity’]]></description>
-            <link>https://bdnews24.com/bangladesh/9f137cca9a94</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9f137cca9a94</guid>
-            <pubDate>Sat, 30 May 2026 18:10:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/brahambaria-banalota-express-290526-01-1780064898.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pentagon chief sounds 'alarm' over China's buildup]]></title>
-            <description><![CDATA[[Americas] Pentagon chief sounds 'alarm' over China's buildup]]></description>
-            <link>https://bdnews24.com/world/americas/f0d70465d082</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/f0d70465d082</guid>
-            <pubDate>Sat, 30 May 2026 17:23:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/china-military-300526-01-1780140116.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
