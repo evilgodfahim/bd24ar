@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 31 May 2026 16:52:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 May 2026 17:51:39 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 31 May 2026 16:52:58 GMT</pubDate>
+        <pubDate>Sun, 31 May 2026 17:51:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bentaleb back for Algeria]]></title>
+            <description><![CDATA[[Sport] Bentaleb back for Algeria]]></description>
+            <link>https://bdnews24.com/sport/12a207dfcd7a</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/12a207dfcd7a</guid>
+            <pubDate>Sun, 31 May 2026 23:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/algeria-310526-01-1780249142.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kvaratskhelia named UCL best player]]></title>
+            <description><![CDATA[[Sport] Kvaratskhelia named UCL best player]]></description>
+            <link>https://bdnews24.com/sport/7aec10c1190e</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/7aec10c1190e</guid>
+            <pubDate>Sun, 31 May 2026 23:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/khvicha-kvaratskhelia-310526-01-1780248571.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu orders deeper Israeli incursion into Lebanon]]></title>
+            <description><![CDATA[[World] Netanyahu orders deeper Israeli incursion into Lebanon]]></description>
+            <link>https://bdnews24.com/world/382c8b076cbe</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/382c8b076cbe</guid>
+            <pubDate>Sun, 31 May 2026 23:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/netanyahu-incursion-lebanon-31052026-01-1780246697.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Fuel prices rise again in June]]></title>
             <description><![CDATA[[Business] Fuel prices rise again in June]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/neighbours/b2ac2d60d7aa</guid>
             <pubDate>Sun, 31 May 2026 19:19:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/kalyan-banerjee-attacked-310526-1780230977.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mexico beat Australia 1-0 in WC warmup]]></title>
-            <description><![CDATA[[Sport] Mexico beat Australia 1-0 in WC warmup]]></description>
-            <link>https://bdnews24.com/sport/89ed26210250</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/89ed26210250</guid>
-            <pubDate>Sun, 31 May 2026 19:12:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/rose-bowl-warmup-310526-01-1780232899.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kostyuk stuns Swiatek in Paris shocker]]></title>
-            <description><![CDATA[[Sport] Kostyuk stuns Swiatek in Paris shocker]]></description>
-            <link>https://bdnews24.com/sport/af339bf3d83e</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/af339bf3d83e</guid>
-            <pubDate>Sun, 31 May 2026 18:57:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/kostyuk-swiatek-paris-310526-01-1780232200.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[5 held over ‘attack’ on Trinamool’s Abhishek: NDTV]]></title>
-            <description><![CDATA[[Neighbours] 5 held over ‘attack’ on Trinamool’s Abhishek: NDTV]]></description>
-            <link>https://bdnews24.com/neighbours/b3cf4d9b0a4e</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/b3cf4d9b0a4e</guid>
-            <pubDate>Sun, 31 May 2026 18:32:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/abhishek-banerjee-1780154835.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
