@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 31 May 2026 06:44:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 May 2026 09:39:36 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 31 May 2026 06:44:36 GMT</pubDate>
+        <pubDate>Sun, 31 May 2026 09:39:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Jamaat sheltering ‘many covert extortionists’: Rizvi]]></title>
+            <description><![CDATA[[Politics] Jamaat sheltering ‘many covert extortionists’: Rizvi]]></description>
+            <link>https://bdnews24.com/politics/8feb50a56a8f</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/8feb50a56a8f</guid>
+            <pubDate>Sun, 31 May 2026 15:02:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/ruhul-kabir-rizvee-310526-01-1780216791.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 die in Netrokona road crash]]></title>
+            <description><![CDATA[[Bangladesh] 3 die in Netrokona road crash]]></description>
+            <link>https://bdnews24.com/bangladesh/c0eae3ff30b1</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c0eae3ff30b1</guid>
+            <pubDate>Sun, 31 May 2026 14:35:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/netrokona-accident-310526-1780214053.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman, son hacked to death in Manikganj]]></title>
+            <description><![CDATA[[Bangladesh] Woman, son hacked to death in Manikganj]]></description>
+            <link>https://bdnews24.com/bangladesh/81814bde40ee</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/81814bde40ee</guid>
+            <pubDate>Sun, 31 May 2026 13:49:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/manikgonjo-doulotpur-thana-310526-01-1780210504.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[No evictions in Jungle Salimpur ‘for now’: home minister]]></title>
+            <description><![CDATA[[Bangladesh] No evictions in Jungle Salimpur ‘for now’: home minister]]></description>
+            <link>https://bdnews24.com/bangladesh/beb9a29c0c9f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/beb9a29c0c9f</guid>
+            <pubDate>Sun, 31 May 2026 13:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/jungle-salimpur-home-minister-visit-310526-01-1780213409.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Meteor fireball triggered loud boom across New England: NASA]]></title>
+            <description><![CDATA[[Science] Meteor fireball triggered loud boom across New England: NASA]]></description>
+            <link>https://bdnews24.com/science/78bb827d2d51</link>
+            <guid isPermaLink="true">https://bdnews24.com/science/78bb827d2d51</guid>
+            <pubDate>Sun, 31 May 2026 13:08:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/meteor-fireball-310526-01-1780211303.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dust storm engulfs India’s Bikaner]]></title>
+            <description><![CDATA[[Neighbours] Dust storm engulfs India’s Bikaner]]></description>
+            <link>https://bdnews24.com/neighbours/32d6a58a9dfa</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/32d6a58a9dfa</guid>
+            <pubDate>Sun, 31 May 2026 12:52:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/rajasthan-sandstorm-310526-1780210287.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[6 newborn deaths: Hospital administration to release report]]></title>
+            <description><![CDATA[[Health] 6 newborn deaths: Hospital administration to release report]]></description>
+            <link>https://bdnews24.com/health/d1d471a5f728</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/d1d471a5f728</guid>
+            <pubDate>Sun, 31 May 2026 12:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/ad-din-hospital-moghbazar-270526-202-1779908627.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Trader killed after teens clash over ‘gambling, drugs’]]></title>
             <description><![CDATA[[Bangladesh] Trader killed after teens clash over ‘gambling, drugs’]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/2f811dfef88e</guid>
             <pubDate>Sun, 31 May 2026 09:46:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/world-cup-brazil-neymar-300526-01-1780199112.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UK foreign minister due to visit China, India]]></title>
-            <description><![CDATA[[World] UK foreign minister due to visit China, India]]></description>
-            <link>https://bdnews24.com/world/bf4cdfec45ca</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/bf4cdfec45ca</guid>
-            <pubDate>Sun, 31 May 2026 09:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/uk-foreign-minister-india-china-300526-01-1780198134.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japan refutes 'new militarism', accuses China of arming]]></title>
-            <description><![CDATA[[Asia Pacific] Japan refutes 'new militarism', accuses China of arming]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/76e70683706c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/76e70683706c</guid>
-            <pubDate>Sun, 31 May 2026 09:26:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/japan-china-militarism-300526-01-1780197903.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump to headline 250th anniversary fair opening]]></title>
-            <description><![CDATA[[World] Trump to headline 250th anniversary fair opening]]></description>
-            <link>https://bdnews24.com/world/24cd7841173f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/24cd7841173f</guid>
-            <pubDate>Sun, 31 May 2026 09:16:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/donald-trump-310526-01-1780197359.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US backtracks on Green Card rule]]></title>
-            <description><![CDATA[[World] US backtracks on Green Card rule]]></description>
-            <link>https://bdnews24.com/world/3fb36bdea46a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/3fb36bdea46a</guid>
-            <pubDate>Sun, 31 May 2026 02:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/us-citizenship-uscis-230526-1779550747.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sangakkara backs Sooryavanshi for India call-up]]></title>
-            <description><![CDATA[[Sport] Sangakkara backs Sooryavanshi for India call-up]]></description>
-            <link>https://bdnews24.com/sport/82483a678159</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/82483a678159</guid>
-            <pubDate>Sun, 31 May 2026 02:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/kumar-sangakkara-310526-01-1780173007.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[On the field but off the books: Female farmers’ battle for recognition]]></title>
-            <description><![CDATA[[Bangladesh] On the field but off the books: Female farmers’ battle for recognition]]></description>
-            <link>https://bdnews24.com/bangladesh/68b4c9859f8c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/68b4c9859f8c</guid>
-            <pubDate>Sun, 31 May 2026 02:26:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/bhola-female-farmar-290526-01-1780171275.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Johansson replaces injured Holm]]></title>
-            <description><![CDATA[[Sport] Johansson replaces injured Holm]]></description>
-            <link>https://bdnews24.com/sport/c5c563be2823</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/c5c563be2823</guid>
-            <pubDate>Sun, 31 May 2026 01:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/emil-holm-310526-01-1780170886.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
