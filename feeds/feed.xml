@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 31 May 2026 18:58:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 May 2026 20:05:09 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 31 May 2026 18:58:54 GMT</pubDate>
+        <pubDate>Sun, 31 May 2026 20:05:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Wrong signals could unsettle banks: MTB chief]]></title>
+            <description><![CDATA[[Business] Wrong signals could unsettle banks: MTB chief]]></description>
+            <link>https://bdnews24.com/business/c79f47482e45</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/c79f47482e45</guid>
+            <pubDate>Mon, 01 Jun 2026 01:51:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/sayed-mahbubur-rahman-mtb-md-310526-01-1780252923.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Haor floods choke state rice procurement]]></title>
+            <description><![CDATA[[Bangladesh] Haor floods choke state rice procurement]]></description>
+            <link>https://bdnews24.com/bangladesh/c16986d1dbef</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c16986d1dbef</guid>
+            <pubDate>Mon, 01 Jun 2026 01:28:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/sunamgonj-haor-paddy-colletion-280526-01-1780255498.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Father blames Ad-din staff after newborn twins die]]></title>
+            <description><![CDATA[[Health] Father blames Ad-din staff after newborn twins die]]></description>
+            <link>https://bdnews24.com/health/faca39ecd6fb</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/faca39ecd6fb</guid>
+            <pubDate>Mon, 01 Jun 2026 00:58:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/ad-din-hospital-moghbazar-270526-202-1779908627.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[55 killed in Myanmar village blast: report]]></title>
             <description><![CDATA[[Neighbours] 55 killed in Myanmar village blast: report]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/health/eb811e81a7a5</guid>
             <pubDate>Sun, 31 May 2026 21:10:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/congo-uganda-ebola-death-31052026-01-1780240100.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Suarez, Nandez out of Uruguay squad]]></title>
-            <description><![CDATA[[Sport] Suarez, Nandez out of Uruguay squad]]></description>
-            <link>https://bdnews24.com/sport/0764dab51658</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/0764dab51658</guid>
-            <pubDate>Sun, 31 May 2026 21:07:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/luis-suarez-310526-01-1780239968.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Netrokona crash toll rises to 4]]></title>
-            <description><![CDATA[[Bangladesh] Netrokona crash toll rises to 4]]></description>
-            <link>https://bdnews24.com/bangladesh/c92fd2143d62</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c92fd2143d62</guid>
-            <pubDate>Sun, 31 May 2026 21:07:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/netrakona-accident-four-dead-310526-01-1780235415.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Zoo official suspended over albino buffalo enclosure tag]]></title>
-            <description><![CDATA[[Bangladesh] Zoo official suspended over albino buffalo enclosure tag]]></description>
-            <link>https://bdnews24.com/bangladesh/753179ed3c71</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/753179ed3c71</guid>
-            <pubDate>Sun, 31 May 2026 20:35:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/buffalo-donald-trump-280526-005-1779980806.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
