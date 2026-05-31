@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 31 May 2026 17:51:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 May 2026 18:58:54 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 31 May 2026 17:51:39 GMT</pubDate>
+        <pubDate>Sun, 31 May 2026 18:58:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[55 killed in Myanmar village blast: report]]></title>
+            <description><![CDATA[[Neighbours] 55 killed in Myanmar village blast: report]]></description>
+            <link>https://bdnews24.com/neighbours/8576e73ab0a0</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/8576e73ab0a0</guid>
+            <pubDate>Mon, 01 Jun 2026 00:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/myanmar-blast-symbolic-010626-01-1780252126.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bengaluru retain IPL title]]></title>
+            <description><![CDATA[[Cricket] Bengaluru retain IPL title]]></description>
+            <link>https://bdnews24.com/cricket/29f1d315467e</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/29f1d315467e</guid>
+            <pubDate>Mon, 01 Jun 2026 00:22:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/bengaluru-ipl-010626-01-1780251641.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hanif Enterprise chairman dies]]></title>
+            <description><![CDATA[[Business] Hanif Enterprise chairman dies]]></description>
+            <link>https://bdnews24.com/business/a4279ed41a60</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/a4279ed41a60</guid>
+            <pubDate>Mon, 01 Jun 2026 00:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/kafil-uddin-hanif-bus-310526-1780247568.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Swiss hit Jordan for four in rain]]></title>
+            <description><![CDATA[[Sport] Swiss hit Jordan for four in rain]]></description>
+            <link>https://bdnews24.com/sport/906eb4d09065</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/906eb4d09065</guid>
+            <pubDate>Mon, 01 Jun 2026 00:02:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/switzerland-jordan-310526-01-1780250420.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brazil probes two suspected Ebola cases]]></title>
+            <description><![CDATA[[Health] Brazil probes two suspected Ebola cases]]></description>
+            <link>https://bdnews24.com/health/3c693ef80a24</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/3c693ef80a24</guid>
+            <pubDate>Sun, 31 May 2026 23:55:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/brazil-probe-ebola-31052026-01-1780250055.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India end Bangladesh’s unbeaten SAFF run]]></title>
+            <description><![CDATA[[Sport] India end Bangladesh’s unbeaten SAFF run]]></description>
+            <link>https://bdnews24.com/sport/4d186df1dc98</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/4d186df1dc98</guid>
+            <pubDate>Sun, 31 May 2026 23:52:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/bangladesh-310526-01-1780245019.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Bentaleb back for Algeria]]></title>
             <description><![CDATA[[Sport] Bentaleb back for Algeria]]></description>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/753179ed3c71</guid>
             <pubDate>Sun, 31 May 2026 20:35:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/buffalo-donald-trump-280526-005-1779980806.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu orders deeper Israeli incursion into Lebanon]]></title>
-            <description><![CDATA[[World] Netanyahu orders deeper Israeli incursion into Lebanon]]></description>
-            <link>https://bdnews24.com/world/f1f7146135b0</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/f1f7146135b0</guid>
-            <pubDate>Sun, 31 May 2026 20:25:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/lebanon-fort-attack-310526-1780237396.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cancer jab delivers striking tumour breakthrough: report]]></title>
-            <description><![CDATA[[Health] Cancer jab delivers striking tumour breakthrough: report]]></description>
-            <link>https://bdnews24.com/health/e8abb37ba394</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/e8abb37ba394</guid>
-            <pubDate>Sun, 31 May 2026 19:42:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/cancer-31052026-1780234810.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ogawa's late header seals Japan win over Iceland]]></title>
-            <description><![CDATA[[Sport] Ogawa's late header seals Japan win over Iceland]]></description>
-            <link>https://bdnews24.com/sport/e4d500f6ca43</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/e4d500f6ca43</guid>
-            <pubDate>Sun, 31 May 2026 19:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/koki-ogawa-310526-01-1780234541.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[S Africa's WC departure delayed in visa 'debacle']]></title>
-            <description><![CDATA[[Sport] S Africa's WC departure delayed in visa 'debacle']]></description>
-            <link>https://bdnews24.com/sport/6eb1caad018d</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/6eb1caad018d</guid>
-            <pubDate>Sun, 31 May 2026 19:27:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/south-africa-310526-01-1780233917.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Son brace powers South Korea 5-0 win]]></title>
-            <description><![CDATA[[Sport] Son brace powers South Korea 5-0 win]]></description>
-            <link>https://bdnews24.com/sport/212997f34eb3</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/212997f34eb3</guid>
-            <pubDate>Sun, 31 May 2026 19:24:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/son-heung-min-310526-01-1780233800.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[TMC leader Kalyan Banerjee attacked: Anandabazar]]></title>
-            <description><![CDATA[[Neighbours] TMC leader Kalyan Banerjee attacked: Anandabazar]]></description>
-            <link>https://bdnews24.com/neighbours/b2ac2d60d7aa</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/b2ac2d60d7aa</guid>
-            <pubDate>Sun, 31 May 2026 19:19:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/kalyan-banerjee-attacked-310526-1780230977.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
