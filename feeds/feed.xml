@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 01 Jun 2026 19:48:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jun 2026 22:27:38 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 01 Jun 2026 19:48:58 GMT</pubDate>
+        <pubDate>Mon, 01 Jun 2026 22:27:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[PM shoots down Ctg mayor’s US trip plan]]></title>
+            <description><![CDATA[[Bangladesh] PM shoots down Ctg mayor’s US trip plan]]></description>
+            <link>https://bdnews24.com/bangladesh/0fd09f147974</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0fd09f147974</guid>
+            <pubDate>Tue, 02 Jun 2026 02:22:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/pm-tarique-rahman-at-police-week-program-11052026-2-1778499528-1778578780.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Islami Bank board finally meets online]]></title>
+            <description><![CDATA[[Business] Islami Bank board finally meets online]]></description>
+            <link>https://bdnews24.com/business/f2bc5e4e1d70</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/f2bc5e4e1d70</guid>
+            <pubDate>Tue, 02 Jun 2026 02:14:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/islami-bank-online-board-meeting-01062026-1780337995.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[South Africa set off for Mexico]]></title>
             <description><![CDATA[[Sport] South Africa set off for Mexico]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/5bf8ca4fca92</guid>
             <pubDate>Mon, 01 Jun 2026 21:47:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/davide-ancelotti-010626-01-1780323560.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka HSC form-filling deadline pushed to mid-June]]></title>
-            <description><![CDATA[[Education] Dhaka HSC form-filling deadline pushed to mid-June]]></description>
-            <link>https://bdnews24.com/education/ee6776ca8aba</link>
-            <guid isPermaLink="true">https://bdnews24.com/education/ee6776ca8aba</guid>
-            <pubDate>Mon, 01 Jun 2026 21:45:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/dhaka-education-board-02-1780325077.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[FIFA, Zee agree India broadcast pact]]></title>
-            <description><![CDATA[[Sport] FIFA, Zee agree India broadcast pact]]></description>
-            <link>https://bdnews24.com/sport/f8601d04615c</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/f8601d04615c</guid>
-            <pubDate>Mon, 01 Jun 2026 21:44:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/zee-entertainment-260526-01-1779815532.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
