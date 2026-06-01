@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ]]></title>
-        <description><![CDATA[bangla.bdnews24.com আর্কাইভ থেকে সর্বশেষ সংবাদ]]></description>
+        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bangla.bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 31 May 2026 23:53:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jun 2026 02:13:05 GMT</lastBuildDate>
         <atom:link href="https://bangla.bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 31 May 2026 23:53:34 GMT</pubDate>
+        <pubDate>Mon, 01 Jun 2026 02:13:05 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[পানামার জালে ব্রাজিলের গোল উৎসব]]></title>
-            <description><![CDATA[[খেলা] পানামার জালে ব্রাজিলের গোল উৎসব]]></description>
-            <link>https://bangla.bdnews24.com/sport/9ec4bb1e8086</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/9ec4bb1e8086</guid>
-            <pubDate>Sun, 31 May 2026 23:53:34 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/brazil-260526-01-1780270318.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ফিনল‍্যান্ডের জালে জার্মানির ৪ গোল]]></title>
-            <description><![CDATA[[খেলা] ফিনল‍্যান্ডের জালে জার্মানির ৪ গোল]]></description>
-            <link>https://bangla.bdnews24.com/sport/fbfa2b40486e</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/fbfa2b40486e</guid>
-            <pubDate>Sun, 31 May 2026 23:53:34 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/germany-310526-01-1780260733.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[হাওরে ফসল ডুবির প্রভাব ধান সংগ্রহে]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] হাওরে ফসল ডুবির প্রভাব ধান সংগ্রহে]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/8bbe64fcb227</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/8bbe64fcb227</guid>
-            <pubDate>Sun, 31 May 2026 23:53:34 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/sunamgonj-haor-paddy-colletion-280526-01-1780255498.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ব্যাংক খাতে এখন যেন ‘ভুল সংকেত’ না যায়: সৈয়দ মাহবুবুর রহমান]]></title>
-            <description><![CDATA[[বাণিজ্য] ব্যাংক খাতে এখন যেন ‘ভুল সংকেত’ না যায়: সৈয়দ মাহবুবুর রহমান]]></description>
-            <link>https://bangla.bdnews24.com/business/77b6b1023e0f</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/business/77b6b1023e0f</guid>
-            <pubDate>Sun, 31 May 2026 23:53:34 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/sayed-mahbubur-rahman-mtb-md-310526-01-1780252923.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ভূগর্ভস্থ ক্ষেপণাস্ত্র ঘাঁটিগুলো আবার সচল, আরও হামলার জন্য প্রস্তুত ইরান]]></title>
-            <description><![CDATA[[বিশ্ব] ভূগর্ভস্থ ক্ষেপণাস্ত্র ঘাঁটিগুলো আবার সচল, আরও হামলার জন্য প্রস্তুত ইরান]]></description>
-            <link>https://bangla.bdnews24.com/world/c884a0e56453</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/world/c884a0e56453</guid>
-            <pubDate>Sun, 31 May 2026 23:53:34 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/iran-missile-310526-01-1780252282.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[গিলদের পাত্তা না দিয়ে আবার আইপিএল চ্যাম্পিয়ন কোহলিরা]]></title>
-            <description><![CDATA[[ক্রিকেট] গিলদের পাত্তা না দিয়ে আবার আইপিএল চ্যাম্পিয়ন কোহলিরা]]></description>
-            <link>https://bangla.bdnews24.com/cricket/30d55be5dabb</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/cricket/30d55be5dabb</guid>
-            <pubDate>Sun, 31 May 2026 23:53:34 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/bengaluru-310526-02-1780252537.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[চট্টগ্রামে বুদ্ধি প্রতিবন্ধী কিশোরীকে ‘ধর্ষণ’, যুবক গ্রেপ্তার]]></title>
-            <description><![CDATA[[চট্টগ্রাম] চট্টগ্রামে বুদ্ধি প্রতিবন্ধী কিশোরীকে ‘ধর্ষণ’, যুবক গ্রেপ্তার]]></description>
-            <link>https://bangla.bdnews24.com/ctg/fbeb26c244a3</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/ctg/fbeb26c244a3</guid>
-            <pubDate>Sun, 31 May 2026 23:53:34 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024August/SM/rape-illustration-270824-01-1724776019.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[আদ-দ্বীন হাসপাতালে ৬ শিশুর মৃত্যু: ‘চিকিৎসক, নার্স কেউই ছিলেন না’]]></title>
-            <description><![CDATA[[স্বাস্থ্য] আদ-দ্বীন হাসপাতালে ৬ শিশুর মৃত্যু: ‘চিকিৎসক, নার্স কেউই ছিলেন না’]]></description>
-            <link>https://bangla.bdnews24.com/health/aad9f1ade521</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/health/aad9f1ade521</guid>
-            <pubDate>Sun, 31 May 2026 23:53:34 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/ad-din-hospital-moghbazar-270526-202-1779908627.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[সাকিব ও তাসকিনের পর এলপিএলে লিটন]]></title>
-            <description><![CDATA[[ক্রিকেট] সাকিব ও তাসকিনের পর এলপিএলে লিটন]]></description>
-            <link>https://bangla.bdnews24.com/cricket/23a32c131617</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/cricket/23a32c131617</guid>
-            <pubDate>Sun, 31 May 2026 23:53:34 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026March/SM/liton-das-banladesh-060326-01-1772767171.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[সাড়ে ৫৬ লাখের বেশি চামড়া সংরক্ষণ করা হয়েছে: বাণিজ্যমন্ত্রী]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] সাড়ে ৫৬ লাখের বেশি চামড়া সংরক্ষণ করা হয়েছে: বাণিজ্যমন্ত্রী]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/4060b8cebee5</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/4060b8cebee5</guid>
-            <pubDate>Sun, 31 May 2026 23:53:34 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/sylhet-minister-muktadir-310526-01-1780247667.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[হানিফ এন্টারপ্রাইজের চেয়ারম্যান কফিল উদ্দীনের মৃত্যু]]></title>
-            <description><![CDATA[[বাংলাদেশ] হানিফ এন্টারপ্রাইজের চেয়ারম্যান কফিল উদ্দীনের মৃত্যু]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/883e2645f868</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/883e2645f868</guid>
-            <pubDate>Sun, 31 May 2026 23:53:34 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/kafil-uddin-hanif-bus-310526-1780247568.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[সিয়াম-বুবলীর ‘জংলি’ ওটিটিতে]]></title>
-            <description><![CDATA[[গ্লিটজ] সিয়াম-বুবলীর ‘জংলি’ ওটিটিতে]]></description>
-            <link>https://bangla.bdnews24.com/glitz/1fba845e46b1</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/glitz/1fba845e46b1</guid>
-            <pubDate>Sun, 31 May 2026 23:53:34 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/jongli-movie-310526-01-1780247278.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[মিয়ানমারে বিস্ফোরকের গুদামে বিস্ফোরণ, নিহত ৫৫]]></title>
-            <description><![CDATA[[বিশ্ব] মিয়ানমারে বিস্ফোরকের গুদামে বিস্ফোরণ, নিহত ৫৫]]></description>
-            <link>https://bangla.bdnews24.com/world/42459b6efd7c</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/world/42459b6efd7c</guid>
-            <pubDate>Sun, 31 May 2026 23:53:34 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/myanmar-blast-310526-01-1780247086.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[লক্ষ্মীপুরে গৃহবধূ ধর্ষণের অভিযোগে যুবদল কর্মীর বিরুদ্ধে মামলা]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] লক্ষ্মীপুরে গৃহবধূ ধর্ষণের অভিযোগে যুবদল কর্মীর বিরুদ্ধে মামলা]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/c1eb723c1ca0</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/c1eb723c1ca0</guid>
-            <pubDate>Sun, 31 May 2026 23:53:34 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-subsite/import/bangla/wp-content/uploads/rape-victim1.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[খাবার-পানি ছাড়াই সেনার যুদ্ধ, রাশিয়ার আতঙ্ক ইউক্রেইনের ‘সাইলেন্ট ডেথ’]]></title>
-            <description><![CDATA[[বিশ্ব] খাবার-পানি ছাড়াই সেনার যুদ্ধ, রাশিয়ার আতঙ্ক ইউক্রেইনের ‘সাইলেন্ট ডেথ’]]></description>
-            <link>https://bangla.bdnews24.com/world/63bc5d9a9a6e</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/world/63bc5d9a9a6e</guid>
-            <pubDate>Sun, 31 May 2026 23:53:34 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/war-of-robots-ukraine-310526-01-1780246070.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[অকটেন, পেট্রোল ও কেরোসিনের দাম লিটারে ৫ টাকা বাড়ল]]></title>
-            <description><![CDATA[[বাণিজ্য] অকটেন, পেট্রোল ও কেরোসিনের দাম লিটারে ৫ টাকা বাড়ল]]></description>
-            <link>https://bangla.bdnews24.com/business/6eb54f74a45c</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/business/6eb54f74a45c</guid>
-            <pubDate>Sun, 31 May 2026 23:53:34 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026March/SM/fuel-crisis-filling-stations-080326-054-1772974051.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[সুয়ারেসকে ছাড়াই বিশ্বকাপে যাচ্ছে উরুগুয়ে]]></title>
-            <description><![CDATA[[খেলা] সুয়ারেসকে ছাড়াই বিশ্বকাপে যাচ্ছে উরুগুয়ে]]></description>
-            <link>https://bangla.bdnews24.com/sport/bc6c524562f1</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/bc6c524562f1</guid>
-            <pubDate>Sun, 31 May 2026 23:53:34 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/luis-suarez-310526-01-1780245290.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ঈদের ছুটি শেষে সোমবার খুলছে অফিস-আদালত]]></title>
-            <description><![CDATA[[বাংলাদেশ] ঈদের ছুটি শেষে সোমবার খুলছে অফিস-আদালত]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/269ff131582d</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/269ff131582d</guid>
-            <pubDate>Sun, 31 May 2026 23:53:34 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/sonali-bank-strict-lockdown-050721-03-1780245197.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[নিগারের ৭৭ রানের পরও পারল না বাংলাদেশ]]></title>
-            <description><![CDATA[[ক্রিকেট] নিগারের ৭৭ রানের পরও পারল না বাংলাদেশ]]></description>
-            <link>https://bangla.bdnews24.com/cricket/d48cac850f58</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/cricket/d48cac850f58</guid>
-            <pubDate>Sun, 31 May 2026 23:53:34 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/nigar-de-leede-310526-01-1780244104.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[খাগড়াছড়িতে আগুনে পুড়ল বিদ্যালয়ের ১১ কক্ষ]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] খাগড়াছড়িতে আগুনে পুড়ল বিদ্যালয়ের ১১ কক্ষ]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/c5d76d90a54d</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/c5d76d90a54d</guid>
-            <pubDate>Sun, 31 May 2026 23:53:34 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/khagrachari-school-fire-310526-01-1780243503.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: timeout of 65000ms exceeded]]></description>
+            <link>https://bangla.bdnews24.com</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com</guid>
+            <pubDate>Mon, 01 Jun 2026 02:13:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
