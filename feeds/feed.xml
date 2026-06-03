@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 03 Jun 2026 19:39:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jun 2026 22:20:51 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 03 Jun 2026 19:39:39 GMT</pubDate>
+        <pubDate>Wed, 03 Jun 2026 22:20:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Anonymous SIMs fuel a digital crime wave]]></title>
+            <description><![CDATA[[Bangladesh] Anonymous SIMs fuel a digital crime wave]]></description>
+            <link>https://bdnews24.com/bangladesh/eb60dd140c24</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/eb60dd140c24</guid>
+            <pubDate>Thu, 04 Jun 2026 02:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026March/SM/online-gambling-0960326-01-1773041147.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stokes backs resting Archer for first NZ Test]]></title>
+            <description><![CDATA[[Cricket] Stokes backs resting Archer for first NZ Test]]></description>
+            <link>https://bdnews24.com/cricket/a4d65acabff1</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/a4d65acabff1</guid>
+            <pubDate>Thu, 04 Jun 2026 01:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/jofra-archer-040626-01-1780515559.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Napoli sign Hojlund from United]]></title>
             <description><![CDATA[[Sport] Napoli sign Hojlund from United]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/business/9db60b157fa0</guid>
             <pubDate>Wed, 03 Jun 2026 21:05:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/meta-logo-030626-01-1780498950.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Export earnings slip after brief rebound]]></title>
-            <description><![CDATA[[Economy] Export earnings slip after brief rebound]]></description>
-            <link>https://bdnews24.com/economy/b9af7f82e917</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/b9af7f82e917</guid>
-            <pubDate>Wed, 03 Jun 2026 21:00:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024July/SM/101-bandor-container-yard-chittagong-290616-6-1720319394.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Son made OSD over mother’s decomposed body]]></title>
-            <description><![CDATA[[Bangladesh] Son made OSD over mother’s decomposed body]]></description>
-            <link>https://bdnews24.com/bangladesh/3264b947f08c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3264b947f08c</guid>
-            <pubDate>Wed, 03 Jun 2026 20:24:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/anisur-rahman-030626-01-1780496912.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
