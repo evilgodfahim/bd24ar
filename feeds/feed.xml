@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Jun 2026 19:10:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 21:20:25 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 04 Jun 2026 19:10:37 GMT</pubDate>
+        <pubDate>Thu, 04 Jun 2026 21:20:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Liverpool appoint Iraola as manager]]></title>
+            <description><![CDATA[[Sport] Liverpool appoint Iraola as manager]]></description>
+            <link>https://bdnews24.com/sport/bfb8c93cb1fd</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/bfb8c93cb1fd</guid>
+            <pubDate>Fri, 05 Jun 2026 01:59:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/andoni-iraol-040626-01-1780603142.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Experts dispute Bangladesh measles death tally]]></title>
+            <description><![CDATA[[Bangladesh] Experts dispute Bangladesh measles death tally]]></description>
+            <link>https://bdnews24.com/bangladesh/aa8c107c88b4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/aa8c107c88b4</guid>
+            <pubDate>Fri, 05 Jun 2026 01:53:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/measles-patient-dncc-210426-010-1776799715.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladeshi killed in Delhi hotel fire identified]]></title>
+            <description><![CDATA[[Bangladesh] Bangladeshi killed in Delhi hotel fire identified]]></description>
+            <link>https://bdnews24.com/bangladesh/73d3b868d3c6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/73d3b868d3c6</guid>
+            <pubDate>Fri, 05 Jun 2026 01:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/hotel-fire-040626-01-1780572663.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Neymar skips Cleveland trip with Brazil]]></title>
+            <description><![CDATA[[Sport] Neymar skips Cleveland trip with Brazil]]></description>
+            <link>https://bdnews24.com/sport/5a90d332f9e4</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/5a90d332f9e4</guid>
+            <pubDate>Fri, 05 Jun 2026 01:26:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/neymar-brazil-050626-01-1780601108.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[How Trump's West Asia ceasefires are failing]]></title>
             <description><![CDATA[[World] How Trump's West Asia ceasefires are failing]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/51fec54c5ec0</guid>
             <pubDate>Thu, 04 Jun 2026 22:31:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/injury-boeing-04062026-01-1780590611.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX sets $135 price for blockbuster IPO]]></title>
-            <description><![CDATA[[Business] SpaceX sets $135 price for blockbuster IPO]]></description>
-            <link>https://bdnews24.com/business/3fd06abcf7b5</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/3fd06abcf7b5</guid>
-            <pubDate>Thu, 04 Jun 2026 22:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/spacex-ipo-04062026-01-1780588828.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Misunderstood truths about studying English]]></title>
-            <description><![CDATA[[Opinion] Misunderstood truths about studying English]]></description>
-            <link>https://bdnews24.com/opinion/9268f494d3eb</link>
-            <guid isPermaLink="true">https://bdnews24.com/opinion/9268f494d3eb</guid>
-            <pubDate>Thu, 04 Jun 2026 21:58:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/ulab-1780588656.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4 children drown in Shariatpur, Narayanganj]]></title>
-            <description><![CDATA[[Bangladesh] 4 children drown in Shariatpur, Narayanganj]]></description>
-            <link>https://bdnews24.com/bangladesh/c1a0b7d601f8</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c1a0b7d601f8</guid>
-            <pubDate>Thu, 04 Jun 2026 21:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/araihajar-pond-sinks-040626-01-1780582126.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hezbollah refusal clouds end to Iran war]]></title>
-            <description><![CDATA[[World] Hezbollah refusal clouds end to Iran war]]></description>
-            <link>https://bdnews24.com/world/bde199a6196f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/bde199a6196f</guid>
-            <pubDate>Thu, 04 Jun 2026 21:50:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/south-lebanon-040626-01-1780588185.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
