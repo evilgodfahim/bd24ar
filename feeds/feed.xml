@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Jun 2026 19:26:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 21:14:11 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 05 Jun 2026 19:26:47 GMT</pubDate>
+        <pubDate>Fri, 05 Jun 2026 21:14:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Essential to block Israeli attempts to sabotage ceasefire: Turkish FM]]></title>
+            <description><![CDATA[[World] Essential to block Israeli attempts to sabotage ceasefire: Turkish FM]]></description>
+            <link>https://bdnews24.com/world/28c3ed1dbd0f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/28c3ed1dbd0f</guid>
+            <pubDate>Sat, 06 Jun 2026 02:10:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/hakan-fidan-khalilur-rahman-050626-02-1780668327.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How will economy gain pace amid investment drought?]]></title>
+            <description><![CDATA[[Economy] How will economy gain pace amid investment drought?]]></description>
+            <link>https://bdnews24.com/economy/a28228cf6d51</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/a28228cf6d51</guid>
+            <pubDate>Sat, 06 Jun 2026 02:03:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025July/SM/kepz-investment-summit-070425-01-1744017512-1752403854.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh beat San Marino 2-1]]></title>
+            <description><![CDATA[[Sport] Bangladesh beat San Marino 2-1]]></description>
+            <link>https://bdnews24.com/sport/6642f7108ffc</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/6642f7108ffc</guid>
+            <pubDate>Sat, 06 Jun 2026 01:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/topu-goal-060626-01-1780685763.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Spurs sign Robertson after Liverpool exit]]></title>
             <description><![CDATA[[Sport] Spurs sign Robertson after Liverpool exit]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/031c1ad0de45</guid>
             <pubDate>Fri, 05 Jun 2026 23:10:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/us-iran-iaea-05062026-01-1780679406.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[After Eid, greens go soft but fish thins]]></title>
-            <description><![CDATA[[Bangladesh] After Eid, greens go soft but fish thins]]></description>
-            <link>https://bdnews24.com/bangladesh/f293dff75631</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f293dff75631</guid>
-            <pubDate>Fri, 05 Jun 2026 22:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/market-price-vegetable-050626-04-1780673391.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Passenger offloading helped avert major accident: state minister]]></title>
-            <description><![CDATA[[Bangladesh] Passenger offloading helped avert major accident: state minister]]></description>
-            <link>https://bdnews24.com/bangladesh/02c9bb6287a5</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/02c9bb6287a5</guid>
-            <pubDate>Fri, 05 Jun 2026 22:45:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/rajbari-feri-050626-01-1780668921.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lightning kills 3 in Tangail, Barishal]]></title>
-            <description><![CDATA[[Bangladesh] Lightning kills 3 in Tangail, Barishal]]></description>
-            <link>https://bdnews24.com/bangladesh/9b637902dbed</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9b637902dbed</guid>
-            <pubDate>Fri, 05 Jun 2026 22:35:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/tangail-lightning-050626-01-1780672266.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
