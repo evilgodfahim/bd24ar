@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Jun 2026 00:06:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jun 2026 05:17:51 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 11 Jun 2026 00:06:14 GMT</pubDate>
+        <pubDate>Thu, 11 Jun 2026 05:17:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA['I love the inflation': Trump]]></title>
+            <description><![CDATA[[Americas] 'I love the inflation': Trump]]></description>
+            <link>https://bdnews24.com/world/americas/68002511877a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/68002511877a</guid>
+            <pubDate>Thu, 11 Jun 2026 10:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/donald-trump-110626-01-1781152263.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shares retreat as techs extend losses]]></title>
+            <description><![CDATA[[Business] Shares retreat as techs extend losses]]></description>
+            <link>https://bdnews24.com/business/8dcf5fcfa45c</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/8dcf5fcfa45c</guid>
+            <pubDate>Thu, 11 Jun 2026 09:59:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/asia-stocks-tech-war-110626-01-1781150240.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fewer people displaced worldwide in 2025: UNHCR]]></title>
+            <description><![CDATA[[World] Fewer people displaced worldwide in 2025: UNHCR]]></description>
+            <link>https://bdnews24.com/world/cb4752c1385b</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/cb4752c1385b</guid>
+            <pubDate>Thu, 11 Jun 2026 09:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/refugees-worldwide-110626-01-1781150135.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[White House defends Cuba sanctions]]></title>
+            <description><![CDATA[[Americas] White House defends Cuba sanctions]]></description>
+            <link>https://bdnews24.com/world/americas/e858b6def7d1</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/e858b6def7d1</guid>
+            <pubDate>Thu, 11 Jun 2026 09:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/us-iran-strikes-110626-01-1781149128.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US, Iran exchange attacks]]></title>
+            <description><![CDATA[[West Asia] US, Iran exchange attacks]]></description>
+            <link>https://bdnews24.com/world/middle-east/42efd05d7062</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/42efd05d7062</guid>
+            <pubDate>Thu, 11 Jun 2026 09:35:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/us-iran-strikes-110626-01-1781148834.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The path to Bangladesh’s 55th budget]]></title>
+            <description><![CDATA[[Economy] The path to Bangladesh’s 55th budget]]></description>
+            <link>https://bdnews24.com/economy/28edc29d7de3</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/28edc29d7de3</guid>
+            <pubDate>Thu, 11 Jun 2026 09:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/first-budget-bangladesh-110626-01-1781144395.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Fresh wave of US airstrikes hits Iran]]></title>
             <description><![CDATA[[West Asia] Fresh wave of US airstrikes hits Iran]]></description>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/ebc469f92d45</guid>
             <pubDate>Wed, 10 Jun 2026 23:34:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025April/SM/sunamganj-haor-dhan-260425-02-1745723223.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[300 books seized from mobile library in Rajshahi]]></title>
-            <description><![CDATA[[Bangladesh] 300 books seized from mobile library in Rajshahi]]></description>
-            <link>https://bdnews24.com/bangladesh/ddc979281da3</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ddc979281da3</guid>
-            <pubDate>Wed, 10 Jun 2026 23:12:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/rajshahi-bsk-book-100626-01-1781103996.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rain signals monsoon’s arrival]]></title>
-            <description><![CDATA[[Image] Rain signals monsoon’s arrival]]></description>
-            <link>https://bdnews24.com/media-en/image/a7abb8d5c011</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/a7abb8d5c011</guid>
-            <pubDate>Wed, 10 Jun 2026 22:58:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/rain-du-100626-019-1781109017.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[June 10, 2026]]></title>
-            <description><![CDATA[[Image] June 10, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/249619c7dd39</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/249619c7dd39</guid>
-            <pubDate>Wed, 10 Jun 2026 22:46:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/nasir-tamima-cmm-court-100626-003-1781107633.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[TMC-Congress merger in the horizon?]]></title>
-            <description><![CDATA[[Neighbours] TMC-Congress merger in the horizon?]]></description>
-            <link>https://bdnews24.com/neighbours/d4500724fba6</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/d4500724fba6</guid>
-            <pubDate>Wed, 10 Jun 2026 22:46:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/momota-rahul-100626-01-1781109920.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Budget will aim to rebuild confidence in banks: Khosru]]></title>
-            <description><![CDATA[[Bangladesh] Budget will aim to rebuild confidence in banks: Khosru]]></description>
-            <link>https://bdnews24.com/bangladesh/539d64c6552a</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/539d64c6552a</guid>
-            <pubDate>Wed, 10 Jun 2026 22:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/amir-khasru-mahmud-100626-01-1781105223.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Observer appointed to Islami Bank]]></title>
-            <description><![CDATA[[Business] Observer appointed to Islami Bank]]></description>
-            <link>https://bdnews24.com/business/ec52bd85e4ec</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/ec52bd85e4ec</guid>
-            <pubDate>Wed, 10 Jun 2026 21:53:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/ashraful-alam-10062026-1781099148.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
