@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 12 Jun 2026 18:56:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jun 2026 20:58:22 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 12 Jun 2026 18:56:26 GMT</pubDate>
+        <pubDate>Fri, 12 Jun 2026 20:58:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Ghana's Partey misses game after visa refused: FIFA]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Ghana's Partey misses game after visa refused: FIFA]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/559df259503c</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/559df259503c</guid>
+            <pubDate>Sat, 13 Jun 2026 02:21:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/thomas-partey-130626-01-1781292584.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand's Williamson retires from internationals]]></title>
+            <description><![CDATA[[Cricket] New Zealand's Williamson retires from internationals]]></description>
+            <link>https://bdnews24.com/cricket/4cc4e25dfc93</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/4cc4e25dfc93</guid>
+            <pubDate>Sat, 13 Jun 2026 01:55:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/new-zealand-williamson-130626-01-1781294063.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Questions on new budget only bring old answers]]></title>
+            <description><![CDATA[[Budget 2026-27] Questions on new budget only bring old answers]]></description>
+            <link>https://bdnews24.com/budget2026-27/a4d4c62872a1</link>
+            <guid isPermaLink="true">https://bdnews24.com/budget2026-27/a4d4c62872a1</guid>
+            <pubDate>Sat, 13 Jun 2026 01:24:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/amir-khasru-mahmud-chowdhury-120626-016-1781292123.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Push-in’: BGB returns with more ‘assurances’]]></title>
+            <description><![CDATA[[Bangladesh] ‘Push-in’: BGB returns with more ‘assurances’]]></description>
+            <link>https://bdnews24.com/bangladesh/b0305b99912c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b0305b99912c</guid>
+            <pubDate>Sat, 13 Jun 2026 01:20:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/bd-india-co-ordination-conference-12062026-1781289448.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[$50mn more in US funds over Ebola outbreak]]></title>
+            <description><![CDATA[[World] $50mn more in US funds over Ebola outbreak]]></description>
+            <link>https://bdnews24.com/world/ecc84b64ac88</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ecc84b64ac88</guid>
+            <pubDate>Sat, 13 Jun 2026 01:06:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/congo-ebola-cases-100626-01-1781068010.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[UAE to unlock huge funds for Iran]]></title>
+            <description><![CDATA[[Sport] UAE to unlock huge funds for Iran]]></description>
+            <link>https://bdnews24.com/sport/ac45db234e10</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/ac45db234e10</guid>
+            <pubDate>Sat, 13 Jun 2026 00:59:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/tehran-women-120626-1781290782.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Toronto welcomes WC fans despite lower profile matches]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Toronto welcomes WC fans despite lower profile matches]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/e99775d2b84a</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/e99775d2b84a</guid>
+            <pubDate>Sat, 13 Jun 2026 00:57:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/toronto-welcomes-fans-13062026-01-1781290591.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Iran blame FIFA over US visa delay]]></title>
             <description><![CDATA[[2026 FIFA World Cup] Iran blame FIFA over US visa delay]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/5ead80a9db26</guid>
             <pubDate>Fri, 12 Jun 2026 23:23:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/iran-us-football-fans-12062026-01-1781284950.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Treat Ad-din Hospital patients: DGHS to 6 hospitals]]></title>
-            <description><![CDATA[[Health] Treat Ad-din Hospital patients: DGHS to 6 hospitals]]></description>
-            <link>https://bdnews24.com/health/92949f40568f</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/92949f40568f</guid>
-            <pubDate>Fri, 12 Jun 2026 22:58:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/ad-deen-hospital-120626-01-1781262136.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Downpour lashes Dhaka, causes waterlogging]]></title>
-            <description><![CDATA[[Image] Downpour lashes Dhaka, causes waterlogging]]></description>
-            <link>https://bdnews24.com/media-en/image/377de7d050b8</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/377de7d050b8</guid>
-            <pubDate>Fri, 12 Jun 2026 22:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/waterlogging-green-road-120626-005-1781277736.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Airlines resume some West Asia flights]]></title>
-            <description><![CDATA[[Aviation] Airlines resume some West Asia flights]]></description>
-            <link>https://bdnews24.com/aviation/b82dd953665e</link>
-            <guid isPermaLink="true">https://bdnews24.com/aviation/b82dd953665e</guid>
-            <pubDate>Fri, 12 Jun 2026 22:43:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/west-asia-flights-12062026-01-1781282561.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[DNCC plans 2 shifts for cleaners]]></title>
-            <description><![CDATA[[Bangladesh] DNCC plans 2 shifts for cleaners]]></description>
-            <link>https://bdnews24.com/bangladesh/495321eec476</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/495321eec476</guid>
-            <pubDate>Fri, 12 Jun 2026 22:40:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/qurbani-waste-cleaning-010723-15-1779388987.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Post-budget media briefing]]></title>
-            <description><![CDATA[[Image] Post-budget media briefing]]></description>
-            <link>https://bdnews24.com/media-en/image/872b71f37597</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/872b71f37597</guid>
-            <pubDate>Fri, 12 Jun 2026 22:36:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/post-budget-press-conference-120626-036-1781278729.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[June 12, 2026]]></title>
-            <description><![CDATA[[Image] June 12, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/adc9414efc68</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/adc9414efc68</guid>
-            <pubDate>Fri, 12 Jun 2026 22:04:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/fahmida-khatun-cpd-120626-006-1781275168.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4-hour delay on Biman flight to London]]></title>
-            <description><![CDATA[[Aviation] 4-hour delay on Biman flight to London]]></description>
-            <link>https://bdnews24.com/aviation/5a18087c57a5</link>
-            <guid isPermaLink="true">https://bdnews24.com/aviation/5a18087c57a5</guid>
-            <pubDate>Fri, 12 Jun 2026 22:00:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/biman-787-120626-01-1781279066.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
