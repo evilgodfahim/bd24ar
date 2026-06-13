@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 13 Jun 2026 22:01:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jun 2026 23:55:01 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 13 Jun 2026 22:01:15 GMT</pubDate>
+        <pubDate>Sat, 13 Jun 2026 23:55:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Qatar score late to clinch draw with Switzerland]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Qatar score late to clinch draw with Switzerland]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/61262013ae1a</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/61262013ae1a</guid>
+            <pubDate>Sun, 14 Jun 2026 04:03:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/qatar-swiss-140626-01-1781388114.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Measles: 5 die, 63 new cases]]></title>
             <description><![CDATA[[Health] Measles: 5 die, 63 new cases]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/208550e0d5a4</guid>
             <pubDate>Sat, 13 Jun 2026 21:59:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/actress-asma-jhilik-with-sakib-khan-13062026-1781362111.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Monsoon rains dominate Dhaka]]></title>
-            <description><![CDATA[[Image] Monsoon rains dominate Dhaka]]></description>
-            <link>https://bdnews24.com/media-en/image/8388e7cdc6c3</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/8388e7cdc6c3</guid>
-            <pubDate>Sat, 13 Jun 2026 21:50:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/rain-du-130626-12-1781359703.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
