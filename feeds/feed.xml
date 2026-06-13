@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 13 Jun 2026 11:06:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jun 2026 13:18:07 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 13 Jun 2026 11:06:48 GMT</pubDate>
+        <pubDate>Sat, 13 Jun 2026 13:18:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Ghana slates Canada over Partey visa denial]]></title>
+            <description><![CDATA[[Sport] Ghana slates Canada over Partey visa denial]]></description>
+            <link>https://bdnews24.com/sport/1e64fc53d31a</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/1e64fc53d31a</guid>
+            <pubDate>Sat, 13 Jun 2026 18:58:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/thomas-partey-130626-01-1781292584.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[England training kits stolen]]></title>
+            <description><![CDATA[[Sport] England training kits stolen]]></description>
+            <link>https://bdnews24.com/sport/07cfb8f8913f</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/07cfb8f8913f</guid>
+            <pubDate>Sat, 13 Jun 2026 18:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/england-training-130626-1781355347.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pakistan plans provincial contribution to defence budget]]></title>
+            <description><![CDATA[[World] Pakistan plans provincial contribution to defence budget]]></description>
+            <link>https://bdnews24.com/world/80e89ef4f24d</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/80e89ef4f24d</guid>
+            <pubDate>Sat, 13 Jun 2026 18:28:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/pakistan-commandos-130626-1781353658.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ali Khamenei funeral from Jul 4, burial on Jul 9]]></title>
+            <description><![CDATA[[World] Ali Khamenei funeral from Jul 4, burial on Jul 9]]></description>
+            <link>https://bdnews24.com/world/27df648dd64f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/27df648dd64f</guid>
+            <pubDate>Sat, 13 Jun 2026 18:22:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/ali-khamenei-130626-1781353335.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[14 Chhatra League men held in Kuril]]></title>
+            <description><![CDATA[[Bangladesh] 14 Chhatra League men held in Kuril]]></description>
+            <link>https://bdnews24.com/bangladesh/4aa664edbe38</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4aa664edbe38</guid>
+            <pubDate>Sat, 13 Jun 2026 18:18:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/import/media/2019/10/26/vatara-police-station.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM visits grave of slain July protester]]></title>
+            <description><![CDATA[[Bangladesh] PM visits grave of slain July protester]]></description>
+            <link>https://bdnews24.com/bangladesh/da685ad026cd</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/da685ad026cd</guid>
+            <pubDate>Sat, 13 Jun 2026 17:59:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/pm-tareque-rahman-130626-07-1781348751.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Documentary on Ukil Munshi screened at Shilpakala]]></title>
+            <description><![CDATA[[Entertainment] Documentary on Ukil Munshi screened at Shilpakala]]></description>
+            <link>https://bdnews24.com/entertainment/19e6edb716b4</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/19e6edb716b4</guid>
+            <pubDate>Sat, 13 Jun 2026 17:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/ukil-munshi-130626-1781350750.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ULAB explores new collaboration with ACU]]></title>
             <description><![CDATA[[Campus] ULAB explores new collaboration with ACU]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/cricket/b0eac9c27b03</guid>
             <pubDate>Sat, 13 Jun 2026 13:19:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/chattogram-nayeem-hasan-130626-02-1781328845.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why Bangladesh loses it over Brazil, Argentina]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Why Bangladesh loses it over Brazil, Argentina]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/9d91d795b28b</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/9d91d795b28b</guid>
-            <pubDate>Sat, 13 Jun 2026 12:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/fifa-fever-bd-130626-01-1781332511.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brazil turn to Vinicius for new era]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Brazil turn to Vinicius for new era]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/7fce9920e418</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/7fce9920e418</guid>
-            <pubDate>Sat, 13 Jun 2026 12:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/brazil-vinicius-new-era-130626-01-1781330977.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nayeem assault claim rocks Bangladesh cricket]]></title>
-            <description><![CDATA[[Cricket] Nayeem assault claim rocks Bangladesh cricket]]></description>
-            <link>https://bdnews24.com/cricket/e394799af8aa</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/e394799af8aa</guid>
-            <pubDate>Sat, 13 Jun 2026 11:56:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/nayeem-hasan-bangladesh-130626-01-1781327940.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PM re-excavates historic Cox's Bazar canal]]></title>
-            <description><![CDATA[[Politics] PM re-excavates historic Cox's Bazar canal]]></description>
-            <link>https://bdnews24.com/politics/da4fcc04a929</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/da4fcc04a929</guid>
-            <pubDate>Sat, 13 Jun 2026 11:29:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/tarique-rahman-130626-301-1781324686.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dollar steadies, set for weekly loss]]></title>
-            <description><![CDATA[[Economy] Dollar steadies, set for weekly loss]]></description>
-            <link>https://bdnews24.com/economy/731d632b0d76</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/731d632b0d76</guid>
-            <pubDate>Sat, 13 Jun 2026 11:04:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/dollar-notes-260526-01-1779772239.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US state AGs launch probe into OpenAI]]></title>
-            <description><![CDATA[[Technology] US state AGs launch probe into OpenAI]]></description>
-            <link>https://bdnews24.com/technology/11320b751448</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/11320b751448</guid>
-            <pubDate>Sat, 13 Jun 2026 11:02:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/openai-logo-130626-1781326846.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fear can keep Brazil on red alert: Ancelotti]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Fear can keep Brazil on red alert: Ancelotti]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/e7b1a525f4d0</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/e7b1a525f4d0</guid>
-            <pubDate>Sat, 13 Jun 2026 10:58:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2025October/SM/ancelotti-141025-01-1760452205.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
