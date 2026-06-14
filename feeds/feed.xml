@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Jun 2026 10:41:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jun 2026 12:55:05 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 14 Jun 2026 10:41:40 GMT</pubDate>
+        <pubDate>Sun, 14 Jun 2026 12:55:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Turkey have time to bounce back: coach]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Turkey have time to bounce back: coach]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/6ae096c91fea</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/6ae096c91fea</guid>
+            <pubDate>Sun, 14 Jun 2026 18:53:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/vincenzo-montella-140626-01-1781441573.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nayeem returning to pitch after ‘police assault’]]></title>
+            <description><![CDATA[[Cricket] Nayeem returning to pitch after ‘police assault’]]></description>
+            <link>https://bdnews24.com/cricket/756282b061fe</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/756282b061fe</guid>
+            <pubDate>Sun, 14 Jun 2026 18:29:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/chattogram-nayeem-hasan-130626-03-1781328879.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Popovic puts faith in youth to upset Turkey]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Popovic puts faith in youth to upset Turkey]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/bbd216d8073b</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/bbd216d8073b</guid>
+            <pubDate>Sun, 14 Jun 2026 18:28:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/tony-popovic-140626-01-1781440098.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India blocks extra Nepal power supply to Bangladesh]]></title>
+            <description><![CDATA[[Business] India blocks extra Nepal power supply to Bangladesh]]></description>
+            <link>https://bdnews24.com/business/8cfce2b8ad2c</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/8cfce2b8ad2c</guid>
+            <pubDate>Sun, 14 Jun 2026 17:53:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024November/SM/bheramara-substation-151124-01-1731684723.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tax break to end for zero-coupon bonds]]></title>
+            <description><![CDATA[[Economy] Tax break to end for zero-coupon bonds]]></description>
+            <link>https://bdnews24.com/economy/d52193e44ac2</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/d52193e44ac2</guid>
+            <pubDate>Sun, 14 Jun 2026 17:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025February/SM/national-board-of-revenue-260125-01-1738525960.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Legal gridlock freezes 87,000 teaching jobs: Milon]]></title>
+            <description><![CDATA[[Education] Legal gridlock freezes 87,000 teaching jobs: Milon]]></description>
+            <link>https://bdnews24.com/education/c6f4922cc9e3</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/c6f4922cc9e3</guid>
+            <pubDate>Sun, 14 Jun 2026 17:24:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/legal-hurdles-freezes-teaching-140626-01-1781436231.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Measles: 4 more children die, death toll crosses 650]]></title>
+            <description><![CDATA[[Health] Measles: 4 more children die, death toll crosses 650]]></description>
+            <link>https://bdnews24.com/health/e631e84e38b3</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/e631e84e38b3</guid>
+            <pubDate>Sun, 14 Jun 2026 17:14:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026March/SM/chattogram-medical-measles-corner-300326-02-1774973385.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Bangladesh Bank lends Tk 25bn to Islami Bank]]></title>
             <description><![CDATA[[Business] Bangladesh Bank lends Tk 25bn to Islami Bank]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/725df649ca38</guid>
             <pubDate>Sun, 14 Jun 2026 11:00:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/world-cup-morocco-brazil-underdog-140626-01-1781413201.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nerves were all over the place: Brazil manager]]></title>
-            <description><![CDATA[[Sport] Nerves were all over the place: Brazil manager]]></description>
-            <link>https://bdnews24.com/sport/59cc6a57bbb6</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/59cc6a57bbb6</guid>
-            <pubDate>Sun, 14 Jun 2026 10:59:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/world-cup-brazil-nerves-manager-140626-01-1781413042.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Knicks win NBA Championship after 53 years]]></title>
-            <description><![CDATA[[Sport] Knicks win NBA Championship after 53 years]]></description>
-            <link>https://bdnews24.com/sport/a171403a23f2</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/a171403a23f2</guid>
-            <pubDate>Sun, 14 Jun 2026 10:56:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/nba-championship-knicks-spurs-140626-01-1781412933.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Misses give Swiss headaches after Qatar draw]]></title>
-            <description><![CDATA[[Sport] Misses give Swiss headaches after Qatar draw]]></description>
-            <link>https://bdnews24.com/sport/a2bb5b2d85da</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/a2bb5b2d85da</guid>
-            <pubDate>Sun, 14 Jun 2026 10:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/world-cup-switzerland-miss-140626-01-1781412833.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mother, daughter hacked to death in Ctg]]></title>
-            <description><![CDATA[[Bangladesh] Mother, daughter hacked to death in Ctg]]></description>
-            <link>https://bdnews24.com/bangladesh/f99c2b15375c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f99c2b15375c</guid>
-            <pubDate>Sun, 14 Jun 2026 10:36:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/anwara-police-station-140626-01-1781411645.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘We have the right to dream’: Qatar after crucial draw]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] ‘We have the right to dream’: Qatar after crucial draw]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/2d1e49fb90c0</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/2d1e49fb90c0</guid>
-            <pubDate>Sun, 14 Jun 2026 10:28:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/world-cup-qatar-dream-140626-01-1781411147.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japan to send delegation to evaluate Greenland rare earth extraction]]></title>
-            <description><![CDATA[[Asia Pacific] Japan to send delegation to evaluate Greenland rare earth extraction]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/4a155e32510c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/4a155e32510c</guid>
-            <pubDate>Sun, 14 Jun 2026 10:24:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026January/SM/view-greenland-280126-01-1769607101.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump abandons main provisions of the 2015 Iran nuclear deal]]></title>
-            <description><![CDATA[[World] Trump abandons main provisions of the 2015 Iran nuclear deal]]></description>
-            <link>https://bdnews24.com/world/0ea7678007c1</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/0ea7678007c1</guid>
-            <pubDate>Sun, 14 Jun 2026 10:14:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/donald-trump-140626-01-1781410329.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
