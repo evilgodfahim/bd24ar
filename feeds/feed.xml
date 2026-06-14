@@ -4,13 +4,29 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Jun 2026 22:02:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jun 2026 23:58:15 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 14 Jun 2026 22:02:34 GMT</pubDate>
+        <pubDate>Sun, 14 Jun 2026 23:58:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[PM’s advisor 'returning' after Delhi airport incident]]></title>
-            <description><![CDATA[[Bangladesh] PM’s advisor 'returning' after Delhi airport incident]]></description>
+            <title><![CDATA[Japan battle back to draw with Netherlands]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Japan battle back to draw with Netherlands]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/902cc21ce2e1</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/902cc21ce2e1</guid>
+            <pubDate>Mon, 15 Jun 2026 04:18:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/japan-koki-150626-01-1781475334.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US, Iran reach deal after talks: Pakistan PM]]></title>
+            <description><![CDATA[[World] US, Iran reach deal after talks: Pakistan PM]]></description>
+            <link>https://bdnews24.com/world/c5795f653e9a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/c5795f653e9a</guid>
+            <pubDate>Mon, 15 Jun 2026 04:02:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/jd-pakistan-150626-01-1781474537.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM’s advisor 'returning' after ‘unpleasant incident’ at Delhi airport]]></title>
+            <description><![CDATA[[Bangladesh] PM’s advisor 'returning' after ‘unpleasant incident’ at Delhi airport]]></description>
             <link>https://bdnews24.com/bangladesh/9b8f99d348d0</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/9b8f99d348d0</guid>
             <pubDate>Mon, 15 Jun 2026 03:14:00 GMT</pubDate>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/a28518588927</guid>
             <pubDate>Sun, 14 Jun 2026 21:47:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/uk-activist-detained-14062026-01-1781451939.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[England squad shelters amid tornado alert]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] England squad shelters amid tornado alert]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/8194c498ff79</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/8194c498ff79</guid>
-            <pubDate>Sun, 14 Jun 2026 21:45:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/england-james-140626-01-1781451925.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Move to tax gold profits at 15%]]></title>
-            <description><![CDATA[[Business] Move to tax gold profits at 15%]]></description>
-            <link>https://bdnews24.com/business/04ab739a8b28</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/04ab739a8b28</guid>
-            <pubDate>Sun, 14 Jun 2026 21:42:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024November/SM/gold-jewellery-ap-070517-0001-1731181745.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
