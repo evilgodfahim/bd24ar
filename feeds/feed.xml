@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Jun 2026 23:58:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jun 2026 03:40:31 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 14 Jun 2026 23:58:15 GMT</pubDate>
+        <pubDate>Mon, 15 Jun 2026 03:40:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump veers toward exit in Iran war]]></title>
+            <description><![CDATA[[West Asia] Trump veers toward exit in Iran war]]></description>
+            <link>https://bdnews24.com/world/middle-east/464796d0bf98</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/464796d0bf98</guid>
+            <pubDate>Mon, 15 Jun 2026 09:38:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/donald-trump-150626-01-1781494651.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ivory Coast beat Ecuador]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Ivory Coast beat Ecuador]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/20d00342e853</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/20d00342e853</guid>
+            <pubDate>Mon, 15 Jun 2026 09:35:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/ivory-coast-wc-150626-1781494472.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[World leaders react to US-Iran peace deal]]></title>
+            <description><![CDATA[[World] World leaders react to US-Iran peace deal]]></description>
+            <link>https://bdnews24.com/world/731dd2ff4707</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/731dd2ff4707</guid>
+            <pubDate>Mon, 15 Jun 2026 09:29:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/world-leaders-us-iran-150626-01-1781494066.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand brush aside politics ahead Iran opener]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] New Zealand brush aside politics ahead Iran opener]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/0611c0e1de5c</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/0611c0e1de5c</guid>
+            <pubDate>Mon, 15 Jun 2026 09:19:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/nz-coach-150626-1781493499.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘12 killed’ in Missouri plane crash]]></title>
+            <description><![CDATA[[Americas] ‘12 killed’ in Missouri plane crash]]></description>
+            <link>https://bdnews24.com/world/americas/5f250813c4b9</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/5f250813c4b9</guid>
+            <pubDate>Mon, 15 Jun 2026 09:09:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/missouri-plane-crash-150626-1781492963.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump hosts White House cage fights]]></title>
+            <description><![CDATA[[Americas] Trump hosts White House cage fights]]></description>
+            <link>https://bdnews24.com/world/americas/528c6f5467df</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/528c6f5467df</guid>
+            <pubDate>Mon, 15 Jun 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/white-house-cage-fight-150626-1781492414.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US, Iran seal preliminary deal, signing Friday]]></title>
+            <description><![CDATA[[West Asia] US, Iran seal preliminary deal, signing Friday]]></description>
+            <link>https://bdnews24.com/world/middle-east/1fd86144f43f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/1fd86144f43f</guid>
+            <pubDate>Mon, 15 Jun 2026 08:42:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/tehran-iran-150626-1781491336.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Japan battle back to draw with Netherlands]]></title>
             <description><![CDATA[[2026 FIFA World Cup] Japan battle back to draw with Netherlands]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/economy/a4e1151102d6</guid>
             <pubDate>Mon, 15 Jun 2026 00:08:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025June/SM/us-dollar-1000-1749892925.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Madrid seal €60mn Cucurella deal: report]]></title>
-            <description><![CDATA[[Sport] Madrid seal €60mn Cucurella deal: report]]></description>
-            <link>https://bdnews24.com/sport/f3b8b7add39e</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/f3b8b7add39e</guid>
-            <pubDate>Sun, 14 Jun 2026 23:46:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/marc-cucurella-130626-01-1781374316.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chaos, confetti settle as NYC prepares Knicks celebration]]></title>
-            <description><![CDATA[[Sport] Chaos, confetti settle as NYC prepares Knicks celebration]]></description>
-            <link>https://bdnews24.com/sport/7517ce2c30f3</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/7517ce2c30f3</guid>
-            <pubDate>Sun, 14 Jun 2026 23:32:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/nyc-knicks-14062026-01-1781458260.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Protesters smash windows, set Tesla ablaze in anti-G7 march]]></title>
-            <description><![CDATA[[World] Protesters smash windows, set Tesla ablaze in anti-G7 march]]></description>
-            <link>https://bdnews24.com/world/e615ecb5ca25</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/e615ecb5ca25</guid>
-            <pubDate>Sun, 14 Jun 2026 23:27:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/anti-g7-march-14062026-01-1781457987.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No syndicate behind rod price rise: CSRM chief]]></title>
-            <description><![CDATA[[Business] No syndicate behind rod price rise: CSRM chief]]></description>
-            <link>https://bdnews24.com/business/46f9e0e57e76</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/46f9e0e57e76</guid>
-            <pubDate>Sun, 14 Jun 2026 23:15:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/md-shajahan-csrm-md-140626-01-1781453744.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Central bank dissolves Islami Bank board]]></title>
-            <description><![CDATA[[Business] Central bank dissolves Islami Bank board]]></description>
-            <link>https://bdnews24.com/business/61214f1341e9</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/61214f1341e9</guid>
-            <pubDate>Sun, 14 Jun 2026 22:34:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/islami-bank-protest-010626-002-1781454409.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israeli fire kills 6 in Gaza]]></title>
-            <description><![CDATA[[World] Israeli fire kills 6 in Gaza]]></description>
-            <link>https://bdnews24.com/world/74c56e0a79dd</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/74c56e0a79dd</guid>
-            <pubDate>Sun, 14 Jun 2026 22:00:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/israel-kills-6-gaza-14062026-01-1781452847.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UK anti-Islam activist Robinson detained]]></title>
-            <description><![CDATA[[World] UK anti-Islam activist Robinson detained]]></description>
-            <link>https://bdnews24.com/world/a28518588927</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/a28518588927</guid>
-            <pubDate>Sun, 14 Jun 2026 21:47:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/uk-activist-detained-14062026-01-1781451939.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
