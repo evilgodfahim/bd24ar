@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 Jun 2026 19:59:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jun 2026 22:10:35 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 16 Jun 2026 19:59:56 GMT</pubDate>
+        <pubDate>Tue, 16 Jun 2026 22:10:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[France win as Mbappe ignites WC opener]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] France win as Mbappe ignites WC opener]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/41b8862b4ae2</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/41b8862b4ae2</guid>
+            <pubDate>Wed, 17 Jun 2026 03:27:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/france-mbappe-170626-01-1781645239.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mbappe becomes France's all-time top scorer]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Mbappe becomes France's all-time top scorer]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/c325bf0bf524</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/c325bf0bf524</guid>
+            <pubDate>Wed, 17 Jun 2026 03:15:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/kylian-mbappe-170626-01-1781644470.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[KC barbecue meets Argentine asado as fans arrive]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] KC barbecue meets Argentine asado as fans arrive]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/9329c6c779e9</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/9329c6c779e9</guid>
+            <pubDate>Wed, 17 Jun 2026 02:17:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/argentina-supporters-170626-01-1781641003.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Spain need cool heads after Cape Verde draw]]></title>
             <description><![CDATA[[2026 FIFA World Cup] Spain need cool heads after Cape Verde draw]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/d9e1259bc298</guid>
             <pubDate>Tue, 16 Jun 2026 23:48:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/canada-players-160626-01-1781632016.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scientists find coral reef capable of surviving climate crisis]]></title>
-            <description><![CDATA[[Science] Scientists find coral reef capable of surviving climate crisis]]></description>
-            <link>https://bdnews24.com/science/8711c96423e7</link>
-            <guid isPermaLink="true">https://bdnews24.com/science/8711c96423e7</guid>
-            <pubDate>Tue, 16 Jun 2026 23:46:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/scientists-coral-reef-16062026-01-1781631898.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cape Verde revels in Bangladesh-made WC jerseys]]></title>
-            <description><![CDATA[[Sport] Cape Verde revels in Bangladesh-made WC jerseys]]></description>
-            <link>https://bdnews24.com/sport/5765d936a7fb</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/5765d936a7fb</guid>
-            <pubDate>Tue, 16 Jun 2026 23:43:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/cape-verde-16062026-1781631748.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Asia flying high, South America stalls at World Cup]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Asia flying high, South America stalls at World Cup]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/6e797ff5efb2</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/6e797ff5efb2</guid>
-            <pubDate>Tue, 16 Jun 2026 23:38:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/japan-wc-16062026-1781631400.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
