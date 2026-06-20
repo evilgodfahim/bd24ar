@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 20 Jun 2026 19:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jun 2026 21:00:44 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 20 Jun 2026 19:05:11 GMT</pubDate>
+        <pubDate>Sat, 20 Jun 2026 21:00:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA['Israeli attack' kills Al Jazeera journalist]]></title>
+            <description><![CDATA[[World] 'Israeli attack' kills Al Jazeera journalist]]></description>
+            <link>https://bdnews24.com/world/30ba3b436176</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/30ba3b436176</guid>
+            <pubDate>Sun, 21 Jun 2026 02:15:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/dead-journo-200626-1781986446.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Germany unchanged for Ivory Coast match]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Germany unchanged for Ivory Coast match]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/24cd6f6c0e33</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/24cd6f6c0e33</guid>
+            <pubDate>Sun, 21 Jun 2026 02:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/germany-squad-210626-01-1781986001.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dutch delight in 5-1 Sweden rout]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Dutch delight in 5-1 Sweden rout]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/a7a65523ee1e</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/a7a65523ee1e</guid>
+            <pubDate>Sun, 21 Jun 2026 01:13:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/dutch-sweden-210626-01-1781982795.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Argentina face Austria, eyeing knockout stage]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Argentina face Austria, eyeing knockout stage]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/3ace4ef35222</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/3ace4ef35222</guid>
+            <pubDate>Sun, 21 Jun 2026 01:08:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/argentina-match-200626-1781982501.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Root reaches 14,000-run milestone]]></title>
             <description><![CDATA[[Sport] Root reaches 14,000-run milestone]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/1ba983e76303</guid>
             <pubDate>Sat, 20 Jun 2026 21:14:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/vance-iran-talks-20062026-01-1781968369.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Paris police arrest 20 as Iran rally defies ban]]></title>
-            <description><![CDATA[[World] Paris police arrest 20 as Iran rally defies ban]]></description>
-            <link>https://bdnews24.com/world/4ce432667e52</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/4ce432667e52</guid>
-            <pubDate>Sat, 20 Jun 2026 21:10:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/paris-rally-arrest-20062026-01-1781968121.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BWDB engineer, wife face grilling over child house help’s death]]></title>
-            <description><![CDATA[[Bangladesh] BWDB engineer, wife face grilling over child house help’s death]]></description>
-            <link>https://bdnews24.com/bangladesh/43f130057bbc</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/43f130057bbc</guid>
-            <pubDate>Sat, 20 Jun 2026 21:03:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026March/SM/cmm-court-dhaka-1000-1774008444.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[9 in critical condition after fatal UK train crash]]></title>
-            <description><![CDATA[[World] 9 in critical condition after fatal UK train crash]]></description>
-            <link>https://bdnews24.com/world/c1c3aa3064f4</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/c1c3aa3064f4</guid>
-            <pubDate>Sat, 20 Jun 2026 20:57:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/uk-crash-critical-condition-20062026-01-1781967362.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Europe swelters under heatwave]]></title>
-            <description><![CDATA[[Environment] Europe swelters under heatwave]]></description>
-            <link>https://bdnews24.com/environment/bc32d7d05004</link>
-            <guid isPermaLink="true">https://bdnews24.com/environment/bc32d7d05004</guid>
-            <pubDate>Sat, 20 Jun 2026 20:52:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/europe-heatwave-20062026-01-1781967063.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
