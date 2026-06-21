@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Jun 2026 07:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jun 2026 10:57:25 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 21 Jun 2026 07:22:31 GMT</pubDate>
+        <pubDate>Sun, 21 Jun 2026 10:57:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[3 more children die with measles symptoms]]></title>
+            <description><![CDATA[[Health] 3 more children die with measles symptoms]]></description>
+            <link>https://bdnews24.com/health/0aa5420d48bd</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/0aa5420d48bd</guid>
+            <pubDate>Sun, 21 Jun 2026 16:53:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/mymensing-hum-090426-01-1775715280.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BCI chief Parvez slates home minister over law and order]]></title>
+            <description><![CDATA[[Bangladesh] BCI chief Parvez slates home minister over law and order]]></description>
+            <link>https://bdnews24.com/bangladesh/a0b1a40a2614</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a0b1a40a2614</guid>
+            <pubDate>Sun, 21 Jun 2026 16:08:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/anwarul-alam-prevez-210626-01-1782030503.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[5 Bangladeshis killed in Qatar road crash]]></title>
+            <description><![CDATA[[Diaspora] 5 Bangladeshis killed in Qatar road crash]]></description>
+            <link>https://bdnews24.com/diaspora/a6fc5a1ba315</link>
+            <guid isPermaLink="true">https://bdnews24.com/diaspora/a6fc5a1ba315</guid>
+            <pubDate>Sun, 21 Jun 2026 16:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/qatar-accident-210626-02-1782035880.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tarique en route to Malaysia for first state visit]]></title>
+            <description><![CDATA[[Bangladesh] Tarique en route to Malaysia for first state visit]]></description>
+            <link>https://bdnews24.com/bangladesh/451bdf09078f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/451bdf09078f</guid>
+            <pubDate>Sun, 21 Jun 2026 15:04:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/tarique-rahman-airport-210626-105-1782032640.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India counters as China builds ‘world’s biggest dam’]]></title>
+            <description><![CDATA[[Neighbours] India counters as China builds ‘world’s biggest dam’]]></description>
+            <link>https://bdnews24.com/neighbours/49620ccd47a9</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/49620ccd47a9</guid>
+            <pubDate>Sun, 21 Jun 2026 14:18:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/china-three-gorges-dam-210626-1782029914.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-MP Mosharraf Hossain dies]]></title>
+            <description><![CDATA[[People] Ex-MP Mosharraf Hossain dies]]></description>
+            <link>https://bdnews24.com/people/35f302764b7b</link>
+            <guid isPermaLink="true">https://bdnews24.com/people/35f302764b7b</guid>
+            <pubDate>Sun, 21 Jun 2026 13:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/lakshmipur-ex-mp-mosarrof-210626-01-1782024109.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Imam held over ‘child rape’ in Mymensingh]]></title>
             <description><![CDATA[[Bangladesh] Imam held over ‘child rape’ in Mymensingh]]></description>
@@ -81,8 +129,8 @@
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/uk-starmer-quitting-210626-01-1782014182.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Vance arrives in Switzerland for Iran peace talks]]></title>
-            <description><![CDATA[[World] Vance arrives in Switzerland for Iran peace talks]]></description>
+            <title><![CDATA[Top-level US-Iran peace talks to begin]]></title>
+            <description><![CDATA[[World] Top-level US-Iran peace talks to begin]]></description>
             <link>https://bdnews24.com/world/653d1178f1bc</link>
             <guid isPermaLink="true">https://bdnews24.com/world/653d1178f1bc</guid>
             <pubDate>Sun, 21 Jun 2026 09:53:00 GMT</pubDate>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/30ba3b436176</guid>
             <pubDate>Sun, 21 Jun 2026 02:15:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/dead-journo-200626-1781986446.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Germany unchanged for Ivory Coast match]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Germany unchanged for Ivory Coast match]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/24cd6f6c0e33</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/24cd6f6c0e33</guid>
-            <pubDate>Sun, 21 Jun 2026 02:07:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/germany-squad-210626-01-1781986001.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dutch delight in 5-1 Sweden rout]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Dutch delight in 5-1 Sweden rout]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/a7a65523ee1e</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/a7a65523ee1e</guid>
-            <pubDate>Sun, 21 Jun 2026 01:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/dutch-sweden-210626-01-1781982795.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Argentina face Austria, eyeing knockout stage]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Argentina face Austria, eyeing knockout stage]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/3ace4ef35222</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/3ace4ef35222</guid>
-            <pubDate>Sun, 21 Jun 2026 01:08:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/argentina-match-200626-1781982501.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Root reaches 14,000-run milestone]]></title>
-            <description><![CDATA[[Sport] Root reaches 14,000-run milestone]]></description>
-            <link>https://bdnews24.com/sport/c682d92a7890</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/c682d92a7890</guid>
-            <pubDate>Sun, 21 Jun 2026 01:03:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/joe-root-210626-01-1781982203.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[England stumble after NZ set 463 target]]></title>
-            <description><![CDATA[[Sport] England stumble after NZ set 463 target]]></description>
-            <link>https://bdnews24.com/sport/e5dde30c7efc</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/e5dde30c7efc</guid>
-            <pubDate>Sun, 21 Jun 2026 00:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/england-nz-210626-01-1781981648.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rohingya return still out of reach]]></title>
-            <description><![CDATA[[Bangladesh] Rohingya return still out of reach]]></description>
-            <link>https://bdnews24.com/bangladesh/77c633f6b61e</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/77c633f6b61e</guid>
-            <pubDate>Sun, 21 Jun 2026 00:43:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/coxbazar-rohinga-200626-01-1781978538.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
