@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Jun 2026 20:28:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jun 2026 22:29:12 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 22 Jun 2026 20:28:35 GMT</pubDate>
+        <pubDate>Mon, 22 Jun 2026 22:29:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Mushfiqur named ICC Player of the Month]]></title>
+            <description><![CDATA[[SPORTS] Mushfiqur named ICC Player of the Month]]></description>
+            <link>https://bdnews24.com/stripe/sports/7c995492105f</link>
+            <guid isPermaLink="true">https://bdnews24.com/stripe/sports/7c995492105f</guid>
+            <pubDate>Tue, 23 Jun 2026 02:38:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/mushfiqur-rahim-220626-01-1782147039.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Neymar edges towards Brazil return]]></title>
             <description><![CDATA[[2026 FIFA World Cup] Neymar edges towards Brazil return]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/entertainment/3bc4633bfb25</guid>
             <pubDate>Mon, 22 Jun 2026 23:00:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/clive-davis-dead-22062026-01-1782147493.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Morocco target top spot ahead of Brazil]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Morocco target top spot ahead of Brazil]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/08946ba9e608</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/08946ba9e608</guid>
-            <pubDate>Mon, 22 Jun 2026 22:53:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/morocco-players-220626-01-1782147110.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
