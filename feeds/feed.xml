@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Jun 2026 18:59:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jun 2026 20:59:43 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 23 Jun 2026 18:59:17 GMT</pubDate>
+        <pubDate>Tue, 23 Jun 2026 20:59:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Journalist stripped of WC pass after on-air rant]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Journalist stripped of WC pass after on-air rant]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/af933a1293f1</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/af933a1293f1</guid>
+            <pubDate>Wed, 24 Jun 2026 02:22:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/almiron-240626-01-1782240921.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump will present World Cup trophy: Infantino]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Trump will present World Cup trophy: Infantino]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/0289e122dc6c</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/0289e122dc6c</guid>
+            <pubDate>Wed, 24 Jun 2026 01:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/donald-trump-240626-01-1782243890.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[England tweak defence, Partey back for Ghana]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] England tweak defence, Partey back for Ghana]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/a0856c34d1e2</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/a0856c34d1e2</guid>
+            <pubDate>Wed, 24 Jun 2026 01:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/england-ghana-240626-01-1782243683.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is SWIFT still vulnerable to hacking after reserve heist?]]></title>
+            <description><![CDATA[[Economy] Is SWIFT still vulnerable to hacking after reserve heist?]]></description>
+            <link>https://bdnews24.com/economy/8f5868fd8545</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/8f5868fd8545</guid>
+            <pubDate>Wed, 24 Jun 2026 01:27:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/bb-height-180626-01-1781768890.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Record-breaker Ronaldo inspires 5-0 Portugal rout]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Record-breaker Ronaldo inspires 5-0 Portugal rout]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/94d3be26bf11</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/94d3be26bf11</guid>
+            <pubDate>Wed, 24 Jun 2026 01:18:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/portugal-uzbekistan-240626-01-1782242288.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh to toughen law on online gambling]]></title>
+            <description><![CDATA[[Bangladesh] Bangladesh to toughen law on online gambling]]></description>
+            <link>https://bdnews24.com/bangladesh/a9eca1929218</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a9eca1929218</guid>
+            <pubDate>Wed, 24 Jun 2026 01:09:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026March/SM/online-gambling-0960326-01-1773041147.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[DIIT lays foundation stone for permanent campus]]></title>
+            <description><![CDATA[[Campus] DIIT lays foundation stone for permanent campus]]></description>
+            <link>https://bdnews24.com/campus/805796b30cff</link>
+            <guid isPermaLink="true">https://bdnews24.com/campus/805796b30cff</guid>
+            <pubDate>Wed, 24 Jun 2026 01:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/daffodil-institute-230626-1782241581.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Mexico WC jerseys fit all sizes - and pets]]></title>
             <description><![CDATA[[2026 FIFA World Cup] Mexico WC jerseys fit all sizes - and pets]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/1d367ecd56d8</guid>
             <pubDate>Tue, 23 Jun 2026 22:20:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025March/SM/randhir-jaiswal-070325-001-1741357473.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[AL ban will be decided by court: Zahed]]></title>
-            <description><![CDATA[[Bangladesh] AL ban will be decided by court: Zahed]]></description>
-            <link>https://bdnews24.com/bangladesh/ea22fae3d362</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ea22fae3d362</guid>
-            <pubDate>Tue, 23 Jun 2026 22:09:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/zahed-ur-rahman-230626-01-1782201421.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PM’s Dalian schedule centres on investment push]]></title>
-            <description><![CDATA[[Bangladesh] PM’s Dalian schedule centres on investment push]]></description>
-            <link>https://bdnews24.com/bangladesh/d612b72e7699</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d612b72e7699</guid>
-            <pubDate>Tue, 23 Jun 2026 22:07:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/tarique-rahman-dalian-230626-01-1782226697.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lawyer remanded for ‘Zaima-featured’ ad]]></title>
-            <description><![CDATA[[Bangladesh] Lawyer remanded for ‘Zaima-featured’ ad]]></description>
-            <link>https://bdnews24.com/bangladesh/05252ee9201b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/05252ee9201b</guid>
-            <pubDate>Tue, 23 Jun 2026 22:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/shafique-nazrul-230626-01-1782223629.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Can anyone fix Britain?]]></title>
-            <description><![CDATA[[World] Can anyone fix Britain?]]></description>
-            <link>https://bdnews24.com/world/5a5b128d0db2</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/5a5b128d0db2</guid>
-            <pubDate>Tue, 23 Jun 2026 21:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/uk-pm-23062026-1782229988.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Climate action is an investment: PM]]></title>
-            <description><![CDATA[[Bangladesh] Climate action is an investment: PM]]></description>
-            <link>https://bdnews24.com/bangladesh/146110b4810d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/146110b4810d</guid>
-            <pubDate>Tue, 23 Jun 2026 21:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/tarique-rahman-230626-01-1782228366.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[$300bn climate goal 'insufficient': Tarique]]></title>
-            <description><![CDATA[[Bangladesh] $300bn climate goal 'insufficient': Tarique]]></description>
-            <link>https://bdnews24.com/bangladesh/65b68d6ec8c3</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/65b68d6ec8c3</guid>
-            <pubDate>Tue, 23 Jun 2026 21:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/climate-goal-bd-23062026-01-1782228948.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dutch eye group lead against Tunisia]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Dutch eye group lead against Tunisia]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/241119308eb2</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/241119308eb2</guid>
-            <pubDate>Tue, 23 Jun 2026 21:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/netherlands-230626-01-1782228586.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
