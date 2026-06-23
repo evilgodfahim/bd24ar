@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Jun 2026 20:59:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jun 2026 22:11:38 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 23 Jun 2026 20:59:43 GMT</pubDate>
+        <pubDate>Tue, 23 Jun 2026 22:11:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Oxygen leak 'kills' child at Dhaka hospital]]></title>
+            <description><![CDATA[[Bangladesh] Oxygen leak 'kills' child at Dhaka hospital]]></description>
+            <link>https://bdnews24.com/bangladesh/0f7f9d91edce</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0f7f9d91edce</guid>
+            <pubDate>Wed, 24 Jun 2026 03:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/child-death-shamoly-baby-care-230626-01-1782247495.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Journalist stripped of WC pass after on-air rant]]></title>
             <description><![CDATA[[2026 FIFA World Cup] Journalist stripped of WC pass after on-air rant]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/90319533c0ab</guid>
             <pubDate>Tue, 23 Jun 2026 22:47:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026March/SM/13th-parliament-1773296033.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India explains Zahed’s Delhi airport incident]]></title>
-            <description><![CDATA[[Bangladesh] India explains Zahed’s Delhi airport incident]]></description>
-            <link>https://bdnews24.com/bangladesh/1d367ecd56d8</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1d367ecd56d8</guid>
-            <pubDate>Tue, 23 Jun 2026 22:20:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025March/SM/randhir-jaiswal-070325-001-1741357473.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
