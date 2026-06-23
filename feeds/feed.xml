@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Jun 2026 22:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jun 2026 23:45:07 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 23 Jun 2026 22:11:38 GMT</pubDate>
+        <pubDate>Tue, 23 Jun 2026 23:45:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[England held to 0-0 draw by Ghana]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] England held to 0-0 draw by Ghana]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/bab506750bef</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/bab506750bef</guid>
+            <pubDate>Wed, 24 Jun 2026 04:18:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/england-kane-240626-01-1782253091.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Oxygen leak 'kills' child at Dhaka hospital]]></title>
             <description><![CDATA[[Bangladesh] Oxygen leak 'kills' child at Dhaka hospital]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/entertainment/311c00ddb9ec</guid>
             <pubDate>Tue, 23 Jun 2026 22:52:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/jolie-couture-23062026-01-1782233524.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[445 quake-safe shelters in Dhaka: minister]]></title>
-            <description><![CDATA[[Bangladesh] 445 quake-safe shelters in Dhaka: minister]]></description>
-            <link>https://bdnews24.com/bangladesh/90319533c0ab</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/90319533c0ab</guid>
-            <pubDate>Tue, 23 Jun 2026 22:47:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026March/SM/13th-parliament-1773296033.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
