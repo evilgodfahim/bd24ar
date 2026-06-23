@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Jun 2026 23:57:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jun 2026 02:40:00 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 22 Jun 2026 23:57:49 GMT</pubDate>
+        <pubDate>Tue, 23 Jun 2026 02:40:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[France beat Iraq as Mbappe strikes twice]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] France beat Iraq as Mbappe strikes twice]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/75817660a874</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/75817660a874</guid>
+            <pubDate>Tue, 23 Jun 2026 07:59:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/france-vs-iraq-230626-1782179884.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Storms delay France v Iraq World Cup clash]]></title>
             <description><![CDATA[[2026 FIFA World Cup] Storms delay France v Iraq World Cup clash]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/5fe24df079b0</guid>
             <pubDate>Mon, 22 Jun 2026 23:10:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/nadiem-amiri-220626-01-1782148089.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tata Electronics cyber breach ‘exposes’ Apple, Tesla trade secrets]]></title>
-            <description><![CDATA[[Technology] Tata Electronics cyber breach ‘exposes’ Apple, Tesla trade secrets]]></description>
-            <link>https://bdnews24.com/technology/2fe6696c689e</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/2fe6696c689e</guid>
-            <pubDate>Mon, 22 Jun 2026 23:03:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/apple-logo-080626-1780891738.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

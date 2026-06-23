@@ -4,32 +4,80 @@
         <description><![CDATA[bangla.bdnews24.com আর্কাইভ থেকে সর্বশেষ সংবাদ]]></description>
         <link>https://bangla.bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Jun 2026 23:57:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jun 2026 02:40:03 GMT</lastBuildDate>
         <atom:link href="https://bangla.bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 22 Jun 2026 23:57:50 GMT</pubDate>
+        <pubDate>Tue, 23 Jun 2026 02:40:03 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[‘রাফিনিয়া কাঁদছিল, আমিও কাঁদছিলাম’]]></title>
+            <description><![CDATA[[২০২৬ ফুটবল বিশ্বকাপ] ‘রাফিনিয়া কাঁদছিল, আমিও কাঁদছিলাম’]]></description>
+            <link>https://bangla.bdnews24.com/sport/world-cup-2026/8094422c0e7b</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/world-cup-2026/8094422c0e7b</guid>
+            <pubDate>Tue, 23 Jun 2026 02:40:03 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/raphinha-230626-01-1782180527.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[পাসপোর্টের জাতীয়তা ও গায়ের রং: বিশ্বকাপে বর্ণবাদের বহুমুখী চেহারা]]></title>
+            <description><![CDATA[[মতামত] পাসপোর্টের জাতীয়তা ও গায়ের রং: বিশ্বকাপে বর্ণবাদের বহুমুখী চেহারা]]></description>
+            <link>https://bangla.bdnews24.com/opinion/43deade3b477</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/opinion/43deade3b477</guid>
+            <pubDate>Tue, 23 Jun 2026 02:40:03 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/usa-austraia-200626-06-1781904271.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[হরমুজ পাড়ি দিল ‘বাংলার জয়যাত্রা’: ১১৫ দিনের রুদ্ধশ্বাস যাত্রার অবসান]]></title>
+            <description><![CDATA[[চট্টগ্রাম] হরমুজ পাড়ি দিল ‘বাংলার জয়যাত্রা’: ১১৫ দিনের রুদ্ধশ্বাস যাত্রার অবসান]]></description>
+            <link>https://bangla.bdnews24.com/ctg/ea66d378b9b4</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/ctg/ea66d378b9b4</guid>
+            <pubDate>Tue, 23 Jun 2026 02:40:03 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/banglar-joyjatra-190626-01-1781858801.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[মেক্সিকোকে ‘সর্বকালের সেরা’ ছন্দে দেখতে চান গুয়ার্দাদো]]></title>
+            <description><![CDATA[[২০২৬ ফুটবল বিশ্বকাপ] মেক্সিকোকে ‘সর্বকালের সেরা’ ছন্দে দেখতে চান গুয়ার্দাদো]]></description>
+            <link>https://bangla.bdnews24.com/sport/world-cup-2026/ee1fe123ec7a</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/world-cup-2026/ee1fe123ec7a</guid>
+            <pubDate>Tue, 23 Jun 2026 02:40:03 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/mexico-230626-01-1782180209.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ক্যামেরার চোখে ঘটনাবহুল ফ্রান্স-ইরাক ম্যাচ]]></title>
+            <description><![CDATA[[বিশ্বকাপের ছবি] ক্যামেরার চোখে ঘটনাবহুল ফ্রান্স-ইরাক ম্যাচ]]></description>
+            <link>https://bangla.bdnews24.com/sport/worldcup-gallery/865ef27a478b</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/worldcup-gallery/865ef27a478b</guid>
+            <pubDate>Tue, 23 Jun 2026 02:40:03 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/france-iraq-230626-01-1782176978.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘৪ ঘণ্টার ম্যাচে’ এমবাপের ২ গোল, নকআউটে ফ্রান্স]]></title>
+            <description><![CDATA[[২০২৬ ফুটবল বিশ্বকাপ] ‘৪ ঘণ্টার ম্যাচে’ এমবাপের ২ গোল, নকআউটে ফ্রান্স]]></description>
+            <link>https://bangla.bdnews24.com/sport/world-cup-2026/e71dac939012</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/world-cup-2026/e71dac939012</guid>
+            <pubDate>Tue, 23 Jun 2026 02:40:03 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/untitled-3-1782175739.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[টিভিতে মঙ্গলবারের খেলা]]></title>
             <description><![CDATA[[খেলা] টিভিতে মঙ্গলবারের খেলা]]></description>
             <link>https://bangla.bdnews24.com/sport/a4548249e558</link>
             <guid isPermaLink="true">https://bangla.bdnews24.com/sport/a4548249e558</guid>
-            <pubDate>Mon, 22 Jun 2026 23:57:50 GMT</pubDate>
+            <pubDate>Tue, 23 Jun 2026 02:40:03 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/portugal-230626-01-1782172386.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[বৈরি আবহাওয়ায় বন্ধ ফ্রান্স-ইরাক ম্যাচ]]></title>
-            <description><![CDATA[[২০২৬ ফুটবল বিশ্বকাপ] বৈরি আবহাওয়ায় বন্ধ ফ্রান্স-ইরাক ম্যাচ]]></description>
+            <title><![CDATA[২ ঘণ্টা বিরতির পর আবার শুরু ফ্রান্স-ইরাক ম্যাচ]]></title>
+            <description><![CDATA[[২০২৬ ফুটবল বিশ্বকাপ] ২ ঘণ্টা বিরতির পর আবার শুরু ফ্রান্স-ইরাক ম্যাচ]]></description>
             <link>https://bangla.bdnews24.com/sport/world-cup-2026/3fe6a5c5ef85</link>
             <guid isPermaLink="true">https://bangla.bdnews24.com/sport/world-cup-2026/3fe6a5c5ef85</guid>
-            <pubDate>Mon, 22 Jun 2026 23:57:50 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/france-v-iraq-230626-01-1782168791.jpg" length="0" type="image/jpeg"/>
+            <pubDate>Tue, 23 Jun 2026 02:40:03 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/france-iraq-230626-01-1782175098.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[আয়ারল্যান্ডের নতুন টি-টোয়েন্টি অধিনায়ক টাকার]]></title>
             <description><![CDATA[[ক্রিকেট] আয়ারল্যান্ডের নতুন টি-টোয়েন্টি অধিনায়ক টাকার]]></description>
             <link>https://bangla.bdnews24.com/cricket/e1a48e82d1fe</link>
             <guid isPermaLink="true">https://bangla.bdnews24.com/cricket/e1a48e82d1fe</guid>
-            <pubDate>Mon, 22 Jun 2026 23:57:50 GMT</pubDate>
+            <pubDate>Tue, 23 Jun 2026 02:40:03 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/lorcan-tucker-230626-01-1782163230.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -37,7 +85,7 @@
             <description><![CDATA[[২০২৬ ফুটবল বিশ্বকাপ] ‘ক্লান্ত মেসি’ সময়টা উপভোগ করছেন]]></description>
             <link>https://bangla.bdnews24.com/sport/world-cup-2026/9a86871be1ef</link>
             <guid isPermaLink="true">https://bangla.bdnews24.com/sport/world-cup-2026/9a86871be1ef</guid>
-            <pubDate>Mon, 22 Jun 2026 23:57:50 GMT</pubDate>
+            <pubDate>Tue, 23 Jun 2026 02:40:03 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/lionel-messi-230626-02-1782162177.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -45,7 +93,7 @@
             <description><![CDATA[[বিশ্বকাপের ছবি] ছবিতে মেসি জাদু, আর্জেন্টিনার উল্লাস ও অস্ট্রিয়ার হতাশা]]></description>
             <link>https://bangla.bdnews24.com/sport/worldcup-gallery/6282137d6152</link>
             <guid isPermaLink="true">https://bangla.bdnews24.com/sport/worldcup-gallery/6282137d6152</guid>
-            <pubDate>Mon, 22 Jun 2026 23:57:50 GMT</pubDate>
+            <pubDate>Tue, 23 Jun 2026 02:40:03 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/argentina-austria-230626-01-1782159545.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -53,7 +101,7 @@
             <description><![CDATA[[ছবি] আর্জেন্টিনার খেলা দেখতে জগন্নাথের মাঠে]]></description>
             <link>https://bangla.bdnews24.com/media_bn/image/d4e61ae6b46d</link>
             <guid isPermaLink="true">https://bangla.bdnews24.com/media_bn/image/d4e61ae6b46d</guid>
-            <pubDate>Mon, 22 Jun 2026 23:57:50 GMT</pubDate>
+            <pubDate>Tue, 23 Jun 2026 02:40:03 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/argentina-vs-austria-jagannath-university-220626-05-1782159950.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -61,7 +109,7 @@
             <description><![CDATA[[২০২৬ ফুটবল বিশ্বকাপ] মেসির রেকর্ড গোলে নকআউটে আর্জেন্টিনা]]></description>
             <link>https://bangla.bdnews24.com/sport/world-cup-2026/c17fa0cf6e82</link>
             <guid isPermaLink="true">https://bangla.bdnews24.com/sport/world-cup-2026/c17fa0cf6e82</guid>
-            <pubDate>Mon, 22 Jun 2026 23:57:50 GMT</pubDate>
+            <pubDate>Tue, 23 Jun 2026 02:40:03 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/argentina-230626-01-1782154693.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -69,7 +117,7 @@
             <description><![CDATA[[সমগ্র বাংলাদেশ] নারায়ণগঞ্জ জেলা ছাত্র ফেডারেশনের সভাপতি সাইদুরের খোঁজ মিলেছে]]></description>
             <link>https://bangla.bdnews24.com/samagrabangladesh/7922bad09c34</link>
             <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/7922bad09c34</guid>
-            <pubDate>Mon, 22 Jun 2026 23:57:50 GMT</pubDate>
+            <pubDate>Tue, 23 Jun 2026 02:40:03 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/narayangonj-fedaration-220626-01-1782140232.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -77,7 +125,7 @@
             <description><![CDATA[[বাংলাদেশ] তবে কি ‘১০ হাজার টাকার বলি’ হল রিক্তা মণি!]]></description>
             <link>https://bangla.bdnews24.com/bangladesh/be9e4644a896</link>
             <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/be9e4644a896</guid>
-            <pubDate>Mon, 22 Jun 2026 23:57:50 GMT</pubDate>
+            <pubDate>Tue, 23 Jun 2026 02:40:03 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/rikta-moni-murder-220626-1782152446.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -85,7 +133,7 @@
             <description><![CDATA[[অর্থনীতি] পল্লী উন্নয়ন শরীয়াহ সুকুকে সাড়ে ৮ গুণ বেশি আবেদন]]></description>
             <link>https://bangla.bdnews24.com/economy/2a4068e7313f</link>
             <guid isPermaLink="true">https://bangla.bdnews24.com/economy/2a4068e7313f</guid>
-            <pubDate>Mon, 22 Jun 2026 23:57:50 GMT</pubDate>
+            <pubDate>Tue, 23 Jun 2026 02:40:03 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024September/SM/bangladesh-bank-110924-01-1726061067.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -93,7 +141,7 @@
             <description><![CDATA[[বাণিজ্য] অনুমোদন ছাড়াই ভিসা ফি নিজ দেশে নিতে পারবে দূতাবাস]]></description>
             <link>https://bangla.bdnews24.com/business/64d4ea553746</link>
             <guid isPermaLink="true">https://bangla.bdnews24.com/business/64d4ea553746</guid>
-            <pubDate>Mon, 22 Jun 2026 23:57:50 GMT</pubDate>
+            <pubDate>Tue, 23 Jun 2026 02:40:03 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024June/SM/money-bank-note-180216-20-1717681709.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -101,7 +149,7 @@
             <description><![CDATA[[ক্যাম্পাস] ছাত্রলীগের বিরুদ্ধে চবিতে ছাত্রদল ও ছাত্রশিবিরের মিছিল]]></description>
             <link>https://bangla.bdnews24.com/campus/5cf1a120a327</link>
             <guid isPermaLink="true">https://bangla.bdnews24.com/campus/5cf1a120a327</guid>
-            <pubDate>Mon, 22 Jun 2026 23:57:50 GMT</pubDate>
+            <pubDate>Tue, 23 Jun 2026 02:40:03 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/cu-protest-220626-1782151800.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -109,7 +157,7 @@
             <description><![CDATA[[বিশ্ব] যুক্তরাজ্যে নতুন এমপির শপথ নিলেন লেবার পার্টির অ্যান্ডি বার্নাম]]></description>
             <link>https://bangla.bdnews24.com/world/74e3e7d89675</link>
             <guid isPermaLink="true">https://bangla.bdnews24.com/world/74e3e7d89675</guid>
-            <pubDate>Mon, 22 Jun 2026 23:57:50 GMT</pubDate>
+            <pubDate>Tue, 23 Jun 2026 02:40:03 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/andy-burnham-220626-01-1782151709.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -117,56 +165,8 @@
             <description><![CDATA[[সমগ্র বাংলাদেশ] গাজীপুরে মিছিল থেকে পুলিশকে হুমকি: যুবলীগের ৩২ জন গ্রেপ্তার]]></description>
             <link>https://bangla.bdnews24.com/samagrabangladesh/6c669d07518f</link>
             <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/6c669d07518f</guid>
-            <pubDate>Mon, 22 Jun 2026 23:57:50 GMT</pubDate>
+            <pubDate>Tue, 23 Jun 2026 02:40:03 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/gazipur-threats-210626-01-1782051655.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ক্লোসাকে ছাড়িয়ে বিশ্বকাপে সর্বোচ্চ গোলের রেকর্ড মেসির]]></title>
-            <description><![CDATA[[২০২৬ ফুটবল বিশ্বকাপ] ক্লোসাকে ছাড়িয়ে বিশ্বকাপে সর্বোচ্চ গোলের রেকর্ড মেসির]]></description>
-            <link>https://bangla.bdnews24.com/sport/world-cup-2026/3bcfeab2c901</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/world-cup-2026/3bcfeab2c901</guid>
-            <pubDate>Mon, 22 Jun 2026 23:57:50 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/lionel-messi-220626-02-1782150707.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[মাদকের বিস্তার ‘প্রতিবেশী রাষ্ট্রের আরোপিত যুদ্ধ’ কি না, এনসিপি এমপির প্রশ্ন]]></title>
-            <description><![CDATA[[বাংলাদেশ] মাদকের বিস্তার ‘প্রতিবেশী রাষ্ট্রের আরোপিত যুদ্ধ’ কি না, এনসিপি এমপির প্রশ্ন]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/3f1276c9267b</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/3f1276c9267b</guid>
-            <pubDate>Mon, 22 Jun 2026 23:57:50 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/tarique-rahman-pm-300426-004-1777565651.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[কাতারের বিস্ফোরণে নিহত ১৩, আহতদের মধ্যে বাংলাদেশিও]]></title>
-            <description><![CDATA[[বিশ্ব] কাতারের বিস্ফোরণে নিহত ১৩, আহতদের মধ্যে বাংলাদেশিও]]></description>
-            <link>https://bangla.bdnews24.com/world/d621302b1e4c</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/world/d621302b1e4c</guid>
-            <pubDate>Mon, 22 Jun 2026 23:57:50 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/qatarr-220626-01-1782149481.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[মিডল্যান্ড ব্যাংকের ১৩তম প্রতিষ্ঠাবার্ষিকী উদযাপন]]></title>
-            <description><![CDATA[[করপোরেট] মিডল্যান্ড ব্যাংকের ১৩তম প্রতিষ্ঠাবার্ষিকী উদযাপন]]></description>
-            <link>https://bangla.bdnews24.com/corporate/064e85064725</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/corporate/064e85064725</guid>
-            <pubDate>Mon, 22 Jun 2026 23:57:50 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/midland-bank-220626-1782149208.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[তিস্তায় আবার বেড়েছে পানি, খুলে দেওয়া হয়েছে জলকপাট]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] তিস্তায় আবার বেড়েছে পানি, খুলে দেওয়া হয়েছে জলকপাট]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/021747a2639f</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/021747a2639f</guid>
-            <pubDate>Mon, 22 Jun 2026 23:57:50 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/nilphamari-tista-barraze-220626-01-1782149163.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[মিডল্যান্ড ব্যাংকের ১৩তম প্রতিষ্ঠাবার্ষিকী উদযাপন]]></title>
-            <description><![CDATA[[করপোরেট] মিডল্যান্ড ব্যাংকের ১৩তম প্রতিষ্ঠাবার্ষিকী উদযাপন]]></description>
-            <link>https://bangla.bdnews24.com/corporate/7074dc806dde</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/corporate/7074dc806dde</guid>
-            <pubDate>Mon, 22 Jun 2026 23:57:50 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/midland-bank-220626-1782149104.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
