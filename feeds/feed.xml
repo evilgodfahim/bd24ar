@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Jun 2026 20:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jun 2026 22:04:50 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 24 Jun 2026 20:25:21 GMT</pubDate>
+        <pubDate>Wed, 24 Jun 2026 22:04:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bosnia end Qatar’s WC hopes to close on knockouts]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Bosnia end Qatar’s WC hopes to close on knockouts]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/796190f90d21</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/796190f90d21</guid>
+            <pubDate>Thu, 25 Jun 2026 03:29:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/bosnia-250626-01-1782335192.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Europe buckles under ‘Omega’ heatwave]]></title>
+            <description><![CDATA[[World] Europe buckles under ‘Omega’ heatwave]]></description>
+            <link>https://bdnews24.com/world/38559ddcc1ca</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/38559ddcc1ca</guid>
+            <pubDate>Thu, 25 Jun 2026 03:15:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/europe-buckles-omega-heatwave-240626-01-1782335620.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Switzerland top group after 2-1 Canada win]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Switzerland top group after 2-1 Canada win]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/d8992df96873</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/d8992df96873</guid>
+            <pubDate>Thu, 25 Jun 2026 03:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/switzerland-canada-250626-01-1782335448.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Paying for Myanmar’s war]]></title>
             <description><![CDATA[[Bangladesh] Paying for Myanmar’s war]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/8cf17f237199</guid>
             <pubDate>Wed, 24 Jun 2026 21:41:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/trump-netanyahu-phonecall-040626-01-1780544436.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[In Mexico, WC revives pain of missing loved ones]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] In Mexico, WC revives pain of missing loved ones]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/ffffb78f93fc</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/ffffb78f93fc</guid>
-            <pubDate>Wed, 24 Jun 2026 21:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/mexico-fans-240626-01-1782315584.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US-India trade deal inches ahead]]></title>
-            <description><![CDATA[[World] US-India trade deal inches ahead]]></description>
-            <link>https://bdnews24.com/world/ae4e2d0fde0a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ae4e2d0fde0a</guid>
-            <pubDate>Wed, 24 Jun 2026 21:32:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/jamieson-greer-260626-01-1782315017.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Senegal keeper Mendy out of WC clash with Iraq]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Senegal keeper Mendy out of WC clash with Iraq]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/78977d315373</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/78977d315373</guid>
-            <pubDate>Wed, 24 Jun 2026 21:29:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/edouard-mendy-240626-01-1782314975.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
