@@ -4,17 +4,161 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Jun 2026 13:59:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jun 2026 16:22:10 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 24 Jun 2026 13:59:59 GMT</pubDate>
+        <pubDate>Wed, 24 Jun 2026 16:22:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Dental technologists lose private practice right]]></title>
-            <description><![CDATA[[Health] Dental technologists lose private practice right]]></description>
-            <link>https://bdnews24.com/health/5eaae8357d4c</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/5eaae8357d4c</guid>
-            <pubDate>Wed, 24 Jun 2026 19:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/high-court-1000-1779103974.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[UK temperature hits record for June]]></title>
+            <description><![CDATA[[Environment] UK temperature hits record for June]]></description>
+            <link>https://bdnews24.com/environment/c1d95b260fb6</link>
+            <guid isPermaLink="true">https://bdnews24.com/environment/c1d95b260fb6</guid>
+            <pubDate>Wed, 24 Jun 2026 22:14:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/uk-temperature-record-june-240626-01-1782317653.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Texas flood camp goes ‘bankrupt’]]></title>
+            <description><![CDATA[[Americas] Texas flood camp goes ‘bankrupt’]]></description>
+            <link>https://bdnews24.com/world/americas/9f041ffaa0c3</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/9f041ffaa0c3</guid>
+            <pubDate>Wed, 24 Jun 2026 21:53:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/texas-flood-camp-bankrupt-240626-01-1782316413.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka ‘rejects’ Delhi's explanation on questioning Zahed]]></title>
+            <description><![CDATA[[Bangladesh] Dhaka ‘rejects’ Delhi's explanation on questioning Zahed]]></description>
+            <link>https://bdnews24.com/bangladesh/b730c9d023d3</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b730c9d023d3</guid>
+            <pubDate>Wed, 24 Jun 2026 21:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/zahed-ur-rahman-050526-01-1777969925.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump told Netanyahu 'all the Jews are sick of you’]]></title>
+            <description><![CDATA[[World] Trump told Netanyahu 'all the Jews are sick of you’]]></description>
+            <link>https://bdnews24.com/world/8cf17f237199</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/8cf17f237199</guid>
+            <pubDate>Wed, 24 Jun 2026 21:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/trump-netanyahu-phonecall-040626-01-1780544436.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[In Mexico, WC revives pain of missing loved ones]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] In Mexico, WC revives pain of missing loved ones]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/ffffb78f93fc</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/ffffb78f93fc</guid>
+            <pubDate>Wed, 24 Jun 2026 21:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/mexico-fans-240626-01-1782315584.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US-India trade deal inches ahead]]></title>
+            <description><![CDATA[[World] US-India trade deal inches ahead]]></description>
+            <link>https://bdnews24.com/world/ae4e2d0fde0a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ae4e2d0fde0a</guid>
+            <pubDate>Wed, 24 Jun 2026 21:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/jamieson-greer-260626-01-1782315017.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Senegal keeper Mendy out of WC clash with Iraq]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Senegal keeper Mendy out of WC clash with Iraq]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/78977d315373</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/78977d315373</guid>
+            <pubDate>Wed, 24 Jun 2026 21:29:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/edouard-mendy-240626-01-1782314975.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mobile operators owe govt Tk 131bn]]></title>
+            <description><![CDATA[[Business] Mobile operators owe govt Tk 131bn]]></description>
+            <link>https://bdnews24.com/business/9a1e788acda9</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/9a1e788acda9</guid>
+            <pubDate>Wed, 24 Jun 2026 21:25:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/mobile-phone-operator-240626-02-1782312611.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US reopens embassy in Kuwait]]></title>
+            <description><![CDATA[[World] US reopens embassy in Kuwait]]></description>
+            <link>https://bdnews24.com/world/e1779596434c</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e1779596434c</guid>
+            <pubDate>Wed, 24 Jun 2026 21:19:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/us-emb-kuwait-24062026-1782314344.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kansas City’s lawn-mowing goat named after Messi]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Kansas City’s lawn-mowing goat named after Messi]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/9748adddcfca</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/9748adddcfca</guid>
+            <pubDate>Wed, 24 Jun 2026 21:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/messi-the-goat-240626-01-1782313903.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel digs in as Rubio defends Iran deal]]></title>
+            <description><![CDATA[[World] Israel digs in as Rubio defends Iran deal]]></description>
+            <link>https://bdnews24.com/world/37a2199372a6</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/37a2199372a6</guid>
+            <pubDate>Wed, 24 Jun 2026 21:06:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/idf-lebanon-21062026-01-1782055189.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[WC hydration breaks 'sporting, not commercial': Infantino]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] WC hydration breaks 'sporting, not commercial': Infantino]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/af86fac5a45b</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/af86fac5a45b</guid>
+            <pubDate>Wed, 24 Jun 2026 21:04:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/gianni-infantino-240626-01-1782313477.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[4 'pushed-in' through Dinajpur border]]></title>
+            <description><![CDATA[[Bangladesh] 4 'pushed-in' through Dinajpur border]]></description>
+            <link>https://bdnews24.com/bangladesh/d6aaffda4058</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d6aaffda4058</guid>
+            <pubDate>Wed, 24 Jun 2026 21:03:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/dinajpur-border-push-in-240626-01-1782307603.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US ‘kills’ IS leader in Syria: CENTCOM]]></title>
+            <description><![CDATA[[World] US ‘kills’ IS leader in Syria: CENTCOM]]></description>
+            <link>https://bdnews24.com/world/6966fc9cf7ca</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/6966fc9cf7ca</guid>
+            <pubDate>Wed, 24 Jun 2026 21:01:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/is-claims-syria-attack-12052026-01-1778593341.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Secondary half-yearly, pre-test exams deferred]]></title>
+            <description><![CDATA[[Education] Secondary half-yearly, pre-test exams deferred]]></description>
+            <link>https://bdnews24.com/education/56cc3fea5ccf</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/56cc3fea5ccf</guid>
+            <pubDate>Wed, 24 Jun 2026 20:55:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025June/SM/103-jsc-exam-ctg-011115-3-1750319008.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Govt mulls cyber law against disinformation]]></title>
+            <description><![CDATA[[Bangladesh] Govt mulls cyber law against disinformation]]></description>
+            <link>https://bdnews24.com/bangladesh/f3c600e28bbb</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f3c600e28bbb</guid>
+            <pubDate>Wed, 24 Jun 2026 20:49:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/parliament-session-180626-01-1781796945.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ships crossing Hormuz under UN scheme: IMO]]></title>
+            <description><![CDATA[[World] Ships crossing Hormuz under UN scheme: IMO]]></description>
+            <link>https://bdnews24.com/world/03232ca193e2</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/03232ca193e2</guid>
+            <pubDate>Wed, 24 Jun 2026 20:43:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/hormuz-160626-1781590064.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[UGC moves to draft higher education framework]]></title>
+            <description><![CDATA[[Education] UGC moves to draft higher education framework]]></description>
+            <link>https://bdnews24.com/education/b0e0cd1a6186</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/b0e0cd1a6186</guid>
+            <pubDate>Wed, 24 Jun 2026 20:13:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/ugc-meeting-24062026-1782306521.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beijing rolls out red carpet for Tarique]]></title>
+            <description><![CDATA[[Bangladesh] Beijing rolls out red carpet for Tarique]]></description>
+            <link>https://bdnews24.com/bangladesh/d6495ed43aac</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d6495ed43aac</guid>
+            <pubDate>Wed, 24 Jun 2026 20:04:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/tarique-rahman-beijing-240626-0402-1782300507.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Govt launches online pension tracking service]]></title>
@@ -23,150 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/b5dfb03212e9</guid>
             <pubDate>Wed, 24 Jun 2026 19:23:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/abdul-bari-240626-01-1782299990.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mahrang Baloch Sentenced to Life]]></title>
-            <description><![CDATA[[World] Mahrang Baloch Sentenced to Life]]></description>
-            <link>https://bdnews24.com/world/b57eedb22321</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/b57eedb22321</guid>
-            <pubDate>Wed, 24 Jun 2026 19:00:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/balooch-240626-1782305926.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tarique arrives in Beijing]]></title>
-            <description><![CDATA[[Bangladesh] Tarique arrives in Beijing]]></description>
-            <link>https://bdnews24.com/bangladesh/1bb28c4a8b3b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1bb28c4a8b3b</guid>
-            <pubDate>Wed, 24 Jun 2026 18:32:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/tarique-rahman-beijing-240626-0401-1782300486.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hyundai union votes to strike]]></title>
-            <description><![CDATA[[Business] Hyundai union votes to strike]]></description>
-            <link>https://bdnews24.com/business/7508a61594cb</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/7508a61594cb</guid>
-            <pubDate>Wed, 24 Jun 2026 17:50:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2025January/SM/hyundai-030125-01-1736396384.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dengue: 2 die, 157 hospitalised]]></title>
-            <description><![CDATA[[Health] Dengue: 2 die, 157 hospitalised]]></description>
-            <link>https://bdnews24.com/health/533798842e68</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/533798842e68</guid>
-            <pubDate>Wed, 24 Jun 2026 17:15:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/dengue-dhaka-medical-college-hospital-021122-03-1782299654.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 children with measles symptoms die in a day]]></title>
-            <description><![CDATA[[Health] 3 children with measles symptoms die in a day]]></description>
-            <link>https://bdnews24.com/health/01969e4eddee</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/01969e4eddee</guid>
-            <pubDate>Wed, 24 Jun 2026 17:14:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/mymensing-hum-090426-01-1775715280.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[VAT net expands to grocery shops, salons]]></title>
-            <description><![CDATA[[Business] VAT net expands to grocery shops, salons]]></description>
-            <link>https://bdnews24.com/business/993985903330</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/993985903330</guid>
-            <pubDate>Wed, 24 Jun 2026 16:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/sugar-kawran-bazar-041122-01-1781170246.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Case against Mufti Fayzal Karim in Cumilla]]></title>
-            <description><![CDATA[[Bangladesh] Case against Mufti Fayzal Karim in Cumilla]]></description>
-            <link>https://bdnews24.com/bangladesh/ad9c5618435c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ad9c5618435c</guid>
-            <pubDate>Wed, 24 Jun 2026 16:52:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/faizul-kabir-010426-01-1777631711.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[NASA's Mars rover hits marathon milestone]]></title>
-            <description><![CDATA[[Science] NASA's Mars rover hits marathon milestone]]></description>
-            <link>https://bdnews24.com/science/25200f280ff0</link>
-            <guid isPermaLink="true">https://bdnews24.com/science/25200f280ff0</guid>
-            <pubDate>Wed, 24 Jun 2026 16:18:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/perseverance-nasa-220626-01-1782290358.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alvi remanded for 2 days in wife’s suicide case]]></title>
-            <description><![CDATA[[Entertainment] Alvi remanded for 2 days in wife’s suicide case]]></description>
-            <link>https://bdnews24.com/entertainment/3c20e4c47636</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/3c20e4c47636</guid>
-            <pubDate>Wed, 24 Jun 2026 16:12:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/zaher-alvi-ikra-death-240626-01-1782275205.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rubio kicks off West Asia trip]]></title>
-            <description><![CDATA[[West Asia] Rubio kicks off West Asia trip]]></description>
-            <link>https://bdnews24.com/world/middle-east/25e6333cd435</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/25e6333cd435</guid>
-            <pubDate>Wed, 24 Jun 2026 16:10:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/marco-rubio-240626-01-1782293900.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Institution heads will be held liable for exam cheating: Milon]]></title>
-            <description><![CDATA[[Education] Institution heads will be held liable for exam cheating: Milon]]></description>
-            <link>https://bdnews24.com/education/01fde7e4903b</link>
-            <guid isPermaLink="true">https://bdnews24.com/education/01fde7e4903b</guid>
-            <pubDate>Wed, 24 Jun 2026 15:58:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/ehsanul-haque-milon-240626-01-1782294102.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mob beats ‘thief’ to death in Tongi]]></title>
-            <description><![CDATA[[Bangladesh] Mob beats ‘thief’ to death in Tongi]]></description>
-            <link>https://bdnews24.com/bangladesh/2c795a83d2ca</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2c795a83d2ca</guid>
-            <pubDate>Wed, 24 Jun 2026 15:37:00 GMT</pubDate>
-            <enclosure url="https://media.assettype.com/bdnews24-english/import/media/2019/02/13/dead-body-01.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt buys 2 LNG shipments for Tk 13.55bn]]></title>
-            <description><![CDATA[[Business] Govt buys 2 LNG shipments for Tk 13.55bn]]></description>
-            <link>https://bdnews24.com/business/e18c571a4b7e</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/e18c571a4b7e</guid>
-            <pubDate>Wed, 24 Jun 2026 15:29:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024December/SM/lng-terminal-311224-01-1735632436.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tarique, Kazakhstan PM eye closer ties]]></title>
-            <description><![CDATA[[Bangladesh] Tarique, Kazakhstan PM eye closer ties]]></description>
-            <link>https://bdnews24.com/bangladesh/2bda7e7d10b4</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2bda7e7d10b4</guid>
-            <pubDate>Wed, 24 Jun 2026 14:52:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/tarique-rahman-olzhas-bektenov-240626-301-1782289434.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alibaba sues US over Chinese military blacklist]]></title>
-            <description><![CDATA[[Business] Alibaba sues US over Chinese military blacklist]]></description>
-            <link>https://bdnews24.com/business/99b28d2a4c3e</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/99b28d2a4c3e</guid>
-            <pubDate>Wed, 24 Jun 2026 14:50:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/alibaba-240626-01-1782290941.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Worker unrest shuts Gazipur’s Apex Spinning]]></title>
-            <description><![CDATA[[Business] Worker unrest shuts Gazipur’s Apex Spinning]]></description>
-            <link>https://bdnews24.com/business/9b9a4d2ee052</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/9b9a4d2ee052</guid>
-            <pubDate>Wed, 24 Jun 2026 14:44:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/apex-holding-240626-01-1782287733.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man stabbed to death in Ctg]]></title>
-            <description><![CDATA[[Bangladesh] Man stabbed to death in Ctg]]></description>
-            <link>https://bdnews24.com/bangladesh/d1a73983a079</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d1a73983a079</guid>
-            <pubDate>Wed, 24 Jun 2026 14:38:00 GMT</pubDate>
-            <enclosure url="https://media.assettype.com/bdnews24-english/import/media/2019/02/13/dead-body-01.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jubo League leader dies in custody a day after arrest]]></title>
-            <description><![CDATA[[Bangladesh] Jubo League leader dies in custody a day after arrest]]></description>
-            <link>https://bdnews24.com/bangladesh/b2d4ce936f7c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b2d4ce936f7c</guid>
-            <pubDate>Wed, 24 Jun 2026 14:03:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/nurul-alam-240626-01-1782286118.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
