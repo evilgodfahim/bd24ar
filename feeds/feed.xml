@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Jun 2026 18:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jun 2026 20:25:21 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 24 Jun 2026 18:25:41 GMT</pubDate>
+        <pubDate>Wed, 24 Jun 2026 20:25:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Paying for Myanmar’s war]]></title>
+            <description><![CDATA[[Bangladesh] Paying for Myanmar’s war]]></description>
+            <link>https://bdnews24.com/bangladesh/fb8033ad3261</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/fb8033ad3261</guid>
+            <pubDate>Thu, 25 Jun 2026 02:06:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/coxsbazar-mayanmar-border-clash-2206226-07-1782326565.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Algeria-Austria clash revives 'Disgrace of Gijon' memories]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Algeria-Austria clash revives 'Disgrace of Gijon' memories]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/22de400c9e56</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/22de400c9e56</guid>
+            <pubDate>Thu, 25 Jun 2026 01:49:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/algeria-mahrez-250626-01-1782330421.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jamaat expels 4 for journalist assault]]></title>
+            <description><![CDATA[[Bangladesh] Jamaat expels 4 for journalist assault]]></description>
+            <link>https://bdnews24.com/bangladesh/f53e951a24b3</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f53e951a24b3</guid>
+            <pubDate>Thu, 25 Jun 2026 01:24:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/jamaat-beaten-journalist-230626-01-1782198539.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dzeko poised for 150th Bosnia cap against Qatar]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Dzeko poised for 150th Bosnia cap against Qatar]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/2fede2b5096b</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/2fede2b5096b</guid>
+            <pubDate>Thu, 25 Jun 2026 00:57:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/edin-dzeko-250626-01-1782327347.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Signal error’ derails train on Ctg-Mymensingh route]]></title>
+            <description><![CDATA[[Bangladesh] ‘Signal error’ derails train on Ctg-Mymensingh route]]></description>
+            <link>https://bdnews24.com/bangladesh/7905332412d0</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7905332412d0</guid>
+            <pubDate>Thu, 25 Jun 2026 00:51:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/train-mymensingh-derail-240626-1782325501.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ghana stalemate stalls England hype]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Ghana stalemate stalls England hype]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/528ae0d66d69</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/528ae0d66d69</guid>
+            <pubDate>Thu, 25 Jun 2026 00:36:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/harry-kane-250626-01-1782326086.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Clues point to Jul 3 for Taylor Swift wedding: NYT]]></title>
+            <description><![CDATA[[Entertainment] Clues point to Jul 3 for Taylor Swift wedding: NYT]]></description>
+            <link>https://bdnews24.com/entertainment/cc1d09bce33f</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/cc1d09bce33f</guid>
+            <pubDate>Thu, 25 Jun 2026 00:27:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/taylor-travis-25062026-1782325554.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Israel, Lebanon discuss territory transfer scheme]]></title>
             <description><![CDATA[[World] Israel, Lebanon discuss territory transfer scheme]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/78977d315373</guid>
             <pubDate>Wed, 24 Jun 2026 21:29:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/edouard-mendy-240626-01-1782314975.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mobile operators owe govt Tk 131bn]]></title>
-            <description><![CDATA[[Business] Mobile operators owe govt Tk 131bn]]></description>
-            <link>https://bdnews24.com/business/9a1e788acda9</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/9a1e788acda9</guid>
-            <pubDate>Wed, 24 Jun 2026 21:25:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/mobile-phone-operator-240626-02-1782312611.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US reopens embassy in Kuwait]]></title>
-            <description><![CDATA[[World] US reopens embassy in Kuwait]]></description>
-            <link>https://bdnews24.com/world/e1779596434c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/e1779596434c</guid>
-            <pubDate>Wed, 24 Jun 2026 21:19:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/us-emb-kuwait-24062026-1782314344.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kansas City’s lawn-mowing goat named after Messi]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Kansas City’s lawn-mowing goat named after Messi]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/9748adddcfca</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/9748adddcfca</guid>
-            <pubDate>Wed, 24 Jun 2026 21:12:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/messi-the-goat-240626-01-1782313903.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel digs in as Rubio defends Iran deal]]></title>
-            <description><![CDATA[[World] Israel digs in as Rubio defends Iran deal]]></description>
-            <link>https://bdnews24.com/world/37a2199372a6</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/37a2199372a6</guid>
-            <pubDate>Wed, 24 Jun 2026 21:06:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/idf-lebanon-21062026-01-1782055189.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[WC hydration breaks 'sporting, not commercial': Infantino]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] WC hydration breaks 'sporting, not commercial': Infantino]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/af86fac5a45b</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/af86fac5a45b</guid>
-            <pubDate>Wed, 24 Jun 2026 21:04:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/gianni-infantino-240626-01-1782313477.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4 'pushed-in' through Dinajpur border]]></title>
-            <description><![CDATA[[Bangladesh] 4 'pushed-in' through Dinajpur border]]></description>
-            <link>https://bdnews24.com/bangladesh/d6aaffda4058</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d6aaffda4058</guid>
-            <pubDate>Wed, 24 Jun 2026 21:03:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/dinajpur-border-push-in-240626-01-1782307603.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US ‘kills’ IS leader in Syria: CENTCOM]]></title>
-            <description><![CDATA[[World] US ‘kills’ IS leader in Syria: CENTCOM]]></description>
-            <link>https://bdnews24.com/world/6966fc9cf7ca</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/6966fc9cf7ca</guid>
-            <pubDate>Wed, 24 Jun 2026 21:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/is-claims-syria-attack-12052026-01-1778593341.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
