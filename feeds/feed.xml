@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Jun 2026 20:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 21:59:05 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 26 Jun 2026 20:24:36 GMT</pubDate>
+        <pubDate>Fri, 26 Jun 2026 21:59:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Senegal keep knockout hopes alive]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Senegal keep knockout hopes alive]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/0498c82ad422</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/0498c82ad422</guid>
+            <pubDate>Sat, 27 Jun 2026 03:28:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/senegal-stay-alive-270626-01-1782509247.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dembele hat-trick seals France's top spot]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Dembele hat-trick seals France's top spot]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/a7eed23f1dda</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/a7eed23f1dda</guid>
+            <pubDate>Sat, 27 Jun 2026 03:22:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/dembele-hat-trick-francetopspot-270626-01-1782508910.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Dembele hits fastest World Cup hat-trick in 72 years]]></title>
             <description><![CDATA[[2026 FIFA World Cup] Dembele hits fastest World Cup hat-trick in 72 years]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/39aa5206383c</guid>
             <pubDate>Fri, 26 Jun 2026 23:21:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/ghana-asare-26062026-01-1782494444.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Uruguay brace for Spain showdown]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Uruguay brace for Spain showdown]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/9cc083eeacc5</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/9cc083eeacc5</guid>
-            <pubDate>Fri, 26 Jun 2026 23:18:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/uruguay-spain-showdown-260626-01-1782494222.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[S Korea to train 500,000 drones to counter N Korea]]></title>
-            <description><![CDATA[[Asia Pacific] S Korea to train 500,000 drones to counter N Korea]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/26cf09bf37d4</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/26cf09bf37d4</guid>
-            <pubDate>Fri, 26 Jun 2026 23:03:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/drone-250626-01-1782489583.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
