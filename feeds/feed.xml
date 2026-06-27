@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Jun 2026 10:51:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jun 2026 12:03:49 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 27 Jun 2026 10:51:12 GMT</pubDate>
+        <pubDate>Sat, 27 Jun 2026 12:03:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[ADP implementation ‘disappointing’: Zonayed Saki]]></title>
+            <description><![CDATA[[Economy] ADP implementation ‘disappointing’: Zonayed Saki]]></description>
+            <link>https://bdnews24.com/economy/bb56925663ee</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/bb56925663ee</guid>
+            <pubDate>Sat, 27 Jun 2026 17:53:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/jonaed-saki-160626-01-1781619345.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jamuna erosion washes away homes in Sirajganj]]></title>
+            <description><![CDATA[[Bangladesh] Jamuna erosion washes away homes in Sirajganj]]></description>
+            <link>https://bdnews24.com/bangladesh/8651f93b4a51</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8651f93b4a51</guid>
+            <pubDate>Sat, 27 Jun 2026 17:26:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/sirajganj-river-break-270626-01-1782554599.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pilot dies in rare aircraft crash in Beijing]]></title>
+            <description><![CDATA[[Asia Pacific] Pilot dies in rare aircraft crash in Beijing]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/1be529b94093</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/1be529b94093</guid>
+            <pubDate>Sat, 27 Jun 2026 17:24:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/beijing-plane-crash-270626-01-1782559440.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump's Iran deal sparks Republican midterm fears]]></title>
+            <description><![CDATA[[World] Trump's Iran deal sparks Republican midterm fears]]></description>
+            <link>https://bdnews24.com/world/6bf632980c0f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/6bf632980c0f</guid>
+            <pubDate>Sat, 27 Jun 2026 17:21:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/chattogram-arrested-270626-01-1782559235.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heatwave grips 3 districts]]></title>
+            <description><![CDATA[[Bangladesh] Heatwave grips 3 districts]]></description>
+            <link>https://bdnews24.com/bangladesh/1af598f6c028</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1af598f6c028</guid>
+            <pubDate>Sat, 27 Jun 2026 16:51:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/hot-weather-090523-001-1782554887.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[7 districts face short-term flood threat]]></title>
             <description><![CDATA[[Bangladesh] 7 districts face short-term flood threat]]></description>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/280af43c5cdc</guid>
             <pubDate>Sat, 27 Jun 2026 10:45:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/portugal-wc-270626-1782535516.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Louis Vuitton Paris show sparks scrutiny in heatwave]]></title>
-            <description><![CDATA[[Fashion] Louis Vuitton Paris show sparks scrutiny in heatwave]]></description>
-            <link>https://bdnews24.com/Fashion/66c73518ef74</link>
-            <guid isPermaLink="true">https://bdnews24.com/Fashion/66c73518ef74</guid>
-            <pubDate>Sat, 27 Jun 2026 10:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/louis-vuitton-paris-show-270626-1782534597.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US takes down 400 illegal WC streaming sites]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] US takes down 400 illegal WC streaming sites]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/42df585e61a7</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/42df585e61a7</guid>
-            <pubDate>Sat, 27 Jun 2026 10:23:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/fifa-wc-270626-1782534061.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Germany, Poland gear up for intense heatwave]]></title>
-            <description><![CDATA[[World] Germany, Poland gear up for intense heatwave]]></description>
-            <link>https://bdnews24.com/world/52556164cd83</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/52556164cd83</guid>
-            <pubDate>Sat, 27 Jun 2026 10:16:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/germany-heat-270626-1782533662.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Race for survivors in Venezuela as toll tops 900]]></title>
-            <description><![CDATA[[Americas] Race for survivors in Venezuela as toll tops 900]]></description>
-            <link>https://bdnews24.com/world/americas/082a26b25c17</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/082a26b25c17</guid>
-            <pubDate>Sat, 27 Jun 2026 10:05:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/venezuela-rescue-270626-1782533047.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand storms disrupt power for thousands]]></title>
-            <description><![CDATA[[Environment] New Zealand storms disrupt power for thousands]]></description>
-            <link>https://bdnews24.com/environment/04a835665943</link>
-            <guid isPermaLink="true">https://bdnews24.com/environment/04a835665943</guid>
-            <pubDate>Sat, 27 Jun 2026 09:45:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026February/SM/new-zealand-16226-1771214062.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
