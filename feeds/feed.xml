@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Jun 2026 18:03:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jun 2026 20:02:02 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 27 Jun 2026 18:03:03 GMT</pubDate>
+        <pubDate>Sat, 27 Jun 2026 20:02:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[France still have more to give in attack]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] France still have more to give in attack]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/e028911dec18</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/e028911dec18</guid>
+            <pubDate>Sun, 28 Jun 2026 01:46:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/kylian-mbappe-280626-01-1782589474.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Germany stars must step up against Paraguay]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Germany stars must step up against Paraguay]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/0308be3ab9a2</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/0308be3ab9a2</guid>
+            <pubDate>Sun, 28 Jun 2026 01:35:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/florian-wirtz-280626-01-1782588801.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kolkata’s ‘Mini Bangladesh’ waits for visitors to return]]></title>
+            <description><![CDATA[[Neighbours] Kolkata’s ‘Mini Bangladesh’ waits for visitors to return]]></description>
+            <link>https://bdnews24.com/neighbours/fa97391ca5d4</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/fa97391ca5d4</guid>
+            <pubDate>Sun, 28 Jun 2026 01:24:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/kolkata-new-market-270626-1782584791.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Italy triple murder suspect ‘detached’ from family for years]]></title>
+            <description><![CDATA[[Diaspora] Italy triple murder suspect ‘detached’ from family for years]]></description>
+            <link>https://bdnews24.com/diaspora/7f5065a5a083</link>
+            <guid isPermaLink="true">https://bdnews24.com/diaspora/7f5065a5a083</guid>
+            <pubDate>Sun, 28 Jun 2026 01:21:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/noakhali-three-murder-shahadat-270626-01-1782581443.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Venezuela quake death toll tops 1,400]]></title>
+            <description><![CDATA[[Americas] Venezuela quake death toll tops 1,400]]></description>
+            <link>https://bdnews24.com/world/americas/73162a02c454</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/73162a02c454</guid>
+            <pubDate>Sun, 28 Jun 2026 00:17:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/venezuela-quake-270626-01-1782584210.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brazil face Japan rematch in Ancelotti test]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Brazil face Japan rematch in Ancelotti test]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/9861c48e9d4e</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/9861c48e9d4e</guid>
+            <pubDate>Sun, 28 Jun 2026 00:14:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/brazil-neymar-270626-01-1782583991.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Cape Verde proved they belong at top level: Vozinha]]></title>
             <description><![CDATA[[2026 FIFA World Cup] Cape Verde proved they belong at top level: Vozinha]]></description>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/d2f5c9cf2289</guid>
             <pubDate>Sat, 27 Jun 2026 21:45:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/khalilur-rahman-230626-01-1782567878.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Quake rattles Afghanistan and Pakistan]]></title>
-            <description><![CDATA[[Neighbours] Quake rattles Afghanistan and Pakistan]]></description>
-            <link>https://bdnews24.com/neighbours/3f67a3829fea</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/3f67a3829fea</guid>
-            <pubDate>Sat, 27 Jun 2026 21:42:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/pakistan-afghanistan-quake-270626-01-1782574881.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA['Great American State Fair' kicks off US anniversary celebrations]]></title>
-            <description><![CDATA[[Americas] 'Great American State Fair' kicks off US anniversary celebrations]]></description>
-            <link>https://bdnews24.com/world/americas/93b30520897c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/93b30520897c</guid>
-            <pubDate>Sat, 27 Jun 2026 21:10:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/great-american-fair-27062026-01-1782572961.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Texas school board adds Bible to required school reading]]></title>
-            <description><![CDATA[[Americas] Texas school board adds Bible to required school reading]]></description>
-            <link>https://bdnews24.com/world/americas/1b9c5ef98770</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/1b9c5ef98770</guid>
-            <pubDate>Sat, 27 Jun 2026 21:08:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/texas-school-bible-27062026-01-1782572817.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beijing probes aircraft crash which killed 1, injured 13]]></title>
-            <description><![CDATA[[South Asia] Beijing probes aircraft crash which killed 1, injured 13]]></description>
-            <link>https://bdnews24.com/world/south-asia/25f7309d0817</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/south-asia/25f7309d0817</guid>
-            <pubDate>Sat, 27 Jun 2026 20:50:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/beijing-probe-aircraft-crash-27062026-01-1782571747.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Venezuela races to find quake survivors with 1,600 foreign rescuers]]></title>
-            <description><![CDATA[[Americas] Venezuela races to find quake survivors with 1,600 foreign rescuers]]></description>
-            <link>https://bdnews24.com/world/americas/6b98b5ba6caa</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/6b98b5ba6caa</guid>
-            <pubDate>Sat, 27 Jun 2026 20:44:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/venezuela-quake-rescue-270626-01-1782571470.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Suspect in Italy triple murder identified]]></title>
-            <description><![CDATA[[Diaspora] Suspect in Italy triple murder identified]]></description>
-            <link>https://bdnews24.com/diaspora/2d3af53434db</link>
-            <guid isPermaLink="true">https://bdnews24.com/diaspora/2d3af53434db</guid>
-            <pubDate>Sat, 27 Jun 2026 20:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/kamal-uddin-babul-270626-1782569327.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
