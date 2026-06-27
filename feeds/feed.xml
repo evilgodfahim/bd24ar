@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Jun 2026 08:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jun 2026 10:51:12 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 27 Jun 2026 08:22:24 GMT</pubDate>
+        <pubDate>Sat, 27 Jun 2026 10:51:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[7 districts face short-term flood threat]]></title>
+            <description><![CDATA[[Bangladesh] 7 districts face short-term flood threat]]></description>
+            <link>https://bdnews24.com/bangladesh/78d10cb78d59</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/78d10cb78d59</guid>
+            <pubDate>Sat, 27 Jun 2026 16:36:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/netrokona-rain-300426-02-1777525535.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 Bangladeshis killed in Rome]]></title>
+            <description><![CDATA[[Diaspora] 3 Bangladeshis killed in Rome]]></description>
+            <link>https://bdnews24.com/diaspora/dfebcb5cb873</link>
+            <guid isPermaLink="true">https://bdnews24.com/diaspora/dfebcb5cb873</guid>
+            <pubDate>Sat, 27 Jun 2026 15:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/italy-270626-01-1782535373.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 of a family stabbed in Mohakhali]]></title>
+            <description><![CDATA[[Bangladesh] 3 of a family stabbed in Mohakhali]]></description>
+            <link>https://bdnews24.com/bangladesh/441fc3ce0345</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/441fc3ce0345</guid>
+            <pubDate>Sat, 27 Jun 2026 15:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026February/SM/dhaka-medical-college-hospital-150226-1771183667.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA['Bangladesh First' drove foreign tour: PM]]></title>
+            <description><![CDATA[[Bangladesh] 'Bangladesh First' drove foreign tour: PM]]></description>
+            <link>https://bdnews24.com/bangladesh/7987a1860e62</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7987a1860e62</guid>
+            <pubDate>Sat, 27 Jun 2026 14:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/tarique-rahman-270626-201-1782546879.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[WB clears $1.1bn for Bangladesh]]></title>
+            <description><![CDATA[[Economy] WB clears $1.1bn for Bangladesh]]></description>
+            <link>https://bdnews24.com/economy/ff727620111c</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/ff727620111c</guid>
+            <pubDate>Sat, 27 Jun 2026 14:44:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/pump-bangladesh-270626-1782549840.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Parliament thanks PM for ‘highly successful’ tour]]></title>
             <description><![CDATA[[Bangladesh] Parliament thanks PM for ‘highly successful’ tour]]></description>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/environment/04a835665943</guid>
             <pubDate>Sat, 27 Jun 2026 09:45:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026February/SM/new-zealand-16226-1771214062.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US strikes Iran over Hormuz ship attack]]></title>
-            <description><![CDATA[[World] US strikes Iran over Hormuz ship attack]]></description>
-            <link>https://bdnews24.com/world/5271e1d2e209</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/5271e1d2e209</guid>
-            <pubDate>Sat, 27 Jun 2026 09:34:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/hormuz-270626-1782530999.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Croatia seek revival against Ghana]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Croatia seek revival against Ghana]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/37e6d1f3982b</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/37e6d1f3982b</guid>
-            <pubDate>Sat, 27 Jun 2026 09:29:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/croatia-seek-revival-270626-01-1782530856.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US expands ban on Chinese tech goods]]></title>
-            <description><![CDATA[[Technology] US expands ban on Chinese tech goods]]></description>
-            <link>https://bdnews24.com/technology/ad80ddf7733a</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/ad80ddf7733a</guid>
-            <pubDate>Sat, 27 Jun 2026 09:16:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/federal-communications-commission-270626-1782530050.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[England lose James for Panama clash]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] England lose James for Panama clash]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/cfd65fc79d15</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/cfd65fc79d15</guid>
-            <pubDate>Sat, 27 Jun 2026 09:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/england-james-panama-clash-270626-01-1782529281.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX set to join Nasdaq 100]]></title>
-            <description><![CDATA[[Business] SpaceX set to join Nasdaq 100]]></description>
-            <link>https://bdnews24.com/business/fe31fe8c2b80</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/fe31fe8c2b80</guid>
-            <pubDate>Sat, 27 Jun 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/spacex-190626-1781847275.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
