@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Jun 2026 20:02:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jun 2026 21:50:34 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 27 Jun 2026 20:02:02 GMT</pubDate>
+        <pubDate>Sat, 27 Jun 2026 21:50:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Verdict looms in Rampura cornice shooting case]]></title>
+            <description><![CDATA[[Bangladesh] Verdict looms in Rampura cornice shooting case]]></description>
+            <link>https://bdnews24.com/bangladesh/74593e973924</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/74593e973924</guid>
+            <pubDate>Sun, 28 Jun 2026 02:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025December/SM/international-crimes-tribunal-111125-002-1765101831.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joy claims ‘cover-up’ over Turag incident]]></title>
+            <description><![CDATA[[Politics] Joy claims ‘cover-up’ over Turag incident]]></description>
+            <link>https://bdnews24.com/politics/fdb2ebb27bb7</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/fdb2ebb27bb7</guid>
+            <pubDate>Sun, 28 Jun 2026 02:25:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/sajeeb-ahmed-wazed-joy-28062026-0030-1782588479.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ravindra puts Kiwis in command against England]]></title>
+            <description><![CDATA[[Cricket] Ravindra puts Kiwis in command against England]]></description>
+            <link>https://bdnews24.com/cricket/038ab094f9b7</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/038ab094f9b7</guid>
+            <pubDate>Sun, 28 Jun 2026 02:03:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/test-england-new-zealand-rachin-ravindra-280626-01-1782590569.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[France still have more to give in attack]]></title>
             <description><![CDATA[[2026 FIFA World Cup] France still have more to give in attack]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/lifestyle/b27497f99e1c</guid>
             <pubDate>Sat, 27 Jun 2026 22:08:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/lvmh-accor-yacht-27062026-01-1782576363.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[News of 7 bodies in Turag ‘baseless’: police]]></title>
-            <description><![CDATA[[Bangladesh] News of 7 bodies in Turag ‘baseless’: police]]></description>
-            <link>https://bdnews24.com/bangladesh/0cb76ecaab6d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0cb76ecaab6d</guid>
-            <pubDate>Sat, 27 Jun 2026 21:57:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024August/SM/police-headquarter-050824-01-1722868947.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hezbollah bins Israel-Lebanon security deal]]></title>
-            <description><![CDATA[[West Asia] Hezbollah bins Israel-Lebanon security deal]]></description>
-            <link>https://bdnews24.com/world/middle-east/24564a0bb3f1</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/24564a0bb3f1</guid>
-            <pubDate>Sat, 27 Jun 2026 21:48:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/israeli-attack-270626-1782575248.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No PM carries a 'begging bowl': FM on Tarique’s trip]]></title>
-            <description><![CDATA[[Bangladesh] No PM carries a 'begging bowl': FM on Tarique’s trip]]></description>
-            <link>https://bdnews24.com/bangladesh/d2f5c9cf2289</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d2f5c9cf2289</guid>
-            <pubDate>Sat, 27 Jun 2026 21:45:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/khalilur-rahman-230626-01-1782567878.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
