@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Jun 2026 20:48:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jun 2026 21:51:22 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 28 Jun 2026 20:48:24 GMT</pubDate>
+        <pubDate>Sun, 28 Jun 2026 21:51:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Canada score late winner to advance to last 16]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Canada score late winner to advance to last 16]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/7adb7baaa55e</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/7adb7baaa55e</guid>
+            <pubDate>Mon, 29 Jun 2026 03:08:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/eustaquio-290626-01-1782680208.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[NBR mandates online tax return filing again]]></title>
             <description><![CDATA[[Economy] NBR mandates online tax return filing again]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/12edb9a8073c</guid>
             <pubDate>Sun, 28 Jun 2026 21:41:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/ralf-rangnick-280626-01-1782661191.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[S Korea president lets rip after early WC exit]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] S Korea president lets rip after early WC exit]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/3316a70a7e3d</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/3316a70a7e3d</guid>
-            <pubDate>Sun, 28 Jun 2026 21:40:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/lee-jae-myung-280626-0-1782661139.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
