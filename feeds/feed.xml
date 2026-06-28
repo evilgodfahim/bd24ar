@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Jun 2026 16:54:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jun 2026 17:57:08 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 28 Jun 2026 16:54:50 GMT</pubDate>
+        <pubDate>Sun, 28 Jun 2026 17:57:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Serbians continue protests despite Vucic exit]]></title>
+            <description><![CDATA[[World] Serbians continue protests despite Vucic exit]]></description>
+            <link>https://bdnews24.com/world/2a51b8528bf8</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/2a51b8528bf8</guid>
+            <pubDate>Sun, 28 Jun 2026 23:42:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/serbian-protest-28062026-01-1782668515.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brazil’s Rayan targets Japan clash]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Brazil’s Rayan targets Japan clash]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/dac4f4714271</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/dac4f4714271</guid>
+            <pubDate>Sun, 28 Jun 2026 23:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/rayan-brazil-280626-01-1782668317.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Highs and lows of Stokes' international career]]></title>
+            <description><![CDATA[[Sport] Highs and lows of Stokes' international career]]></description>
+            <link>https://bdnews24.com/sport/92406cd688e3</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/92406cd688e3</guid>
+            <pubDate>Sun, 28 Jun 2026 23:26:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/ben-stokes-280626-01-1782667606.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[2 plants down, Dhaka will face load shedding: minister]]></title>
+            <description><![CDATA[[Bangladesh] 2 plants down, Dhaka will face load shedding: minister]]></description>
+            <link>https://bdnews24.com/bangladesh/793d48df3ece</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/793d48df3ece</guid>
+            <pubDate>Sun, 28 Jun 2026 23:22:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/loadshedding-home-power-cut-280626-01-1782663055.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iraq detains officials in anti-corruption crackdown]]></title>
+            <description><![CDATA[[West Asia] Iraq detains officials in anti-corruption crackdown]]></description>
+            <link>https://bdnews24.com/world/middle-east/25f744c02351</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/25f744c02351</guid>
+            <pubDate>Sun, 28 Jun 2026 23:19:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/iraqi-govt-arrests-officials-280626-01-1782667108.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Zimbabwe take control against Bangladesh]]></title>
+            <description><![CDATA[[Sport] Zimbabwe take control against Bangladesh]]></description>
+            <link>https://bdnews24.com/sport/de106d8fc9ef</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/de106d8fc9ef</guid>
+            <pubDate>Sun, 28 Jun 2026 23:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/bangladesh-batting-280626-01-1782664320.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[33 rescued, thousands missing after Venezuela quakes]]></title>
             <description><![CDATA[[World] 33 rescued, thousands missing after Venezuela quakes]]></description>
@@ -113,60 +161,12 @@
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/iran-squad-280626-01-1782657453.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Ravindra, Mitchell build up New Zealand lead]]></title>
-            <description><![CDATA[[Sport] Ravindra, Mitchell build up New Zealand lead]]></description>
+            <title><![CDATA[Stokes sparks fightback in final Test]]></title>
+            <description><![CDATA[[Sport] Stokes sparks fightback in final Test]]></description>
             <link>https://bdnews24.com/sport/fe139883fcc8</link>
             <guid isPermaLink="true">https://bdnews24.com/sport/fe139883fcc8</guid>
             <pubDate>Sun, 28 Jun 2026 20:33:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/england-nz-280626-01-1782657202.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hasina vows to return to Bangladesh this year: NDTV]]></title>
-            <description><![CDATA[[Bangladesh] Hasina vows to return to Bangladesh this year: NDTV]]></description>
-            <link>https://bdnews24.com/bangladesh/a12669daa70f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a12669daa70f</guid>
-            <pubDate>Sun, 28 Jun 2026 20:15:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024August/SM/sheikh-hasina-ex-prime-minister-140824-1723664046.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Uruguay federation ‘cancels’ charter flight after WC exit]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Uruguay federation ‘cancels’ charter flight after WC exit]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/86db0c0dff95</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/86db0c0dff95</guid>
-            <pubDate>Sun, 28 Jun 2026 20:07:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/ruguay-players-280626-01-1782655611.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Children receive Vitamin A supplements]]></title>
-            <description><![CDATA[[Image] Children receive Vitamin A supplements]]></description>
-            <link>https://bdnews24.com/media-en/image/02e7058ddfcd</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/02e7058ddfcd</guid>
-            <pubDate>Sun, 28 Jun 2026 19:45:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/vitamin-a-capsules-280626-05-1782649164.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ticket prices skyrocket for Portugal game vs Croatia]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Ticket prices skyrocket for Portugal game vs Croatia]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/43b02d6382f9</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/43b02d6382f9</guid>
-            <pubDate>Sun, 28 Jun 2026 19:43:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/cristiano-ronaldo-280626-01-1782654103.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Too many teams in World Cup now: Ghana coach]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Too many teams in World Cup now: Ghana coach]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/51f717263064</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/51f717263064</guid>
-            <pubDate>Sun, 28 Jun 2026 19:35:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/carlos-queiroz-280626-01-1782653634.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Teesta surges past danger mark]]></title>
-            <description><![CDATA[[Bangladesh] Teesta surges past danger mark]]></description>
-            <link>https://bdnews24.com/bangladesh/5e08ae2aeacb</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5e08ae2aeacb</guid>
-            <pubDate>Sun, 28 Jun 2026 19:27:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/nilphamari-photo-200626-01-1781956764.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
