@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Jun 2026 09:49:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jun 2026 11:29:41 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 28 Jun 2026 09:49:55 GMT</pubDate>
+        <pubDate>Sun, 28 Jun 2026 11:29:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[1,521 recommended in 47th BCS]]></title>
+            <description><![CDATA[[Bangladesh] 1,521 recommended in 47th BCS]]></description>
+            <link>https://bdnews24.com/bangladesh/5aacbcbc1b07</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5aacbcbc1b07</guid>
+            <pubDate>Sun, 28 Jun 2026 17:27:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025December/SM/psc-1765724814.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Defence to appeal Rampura cornice shooting verdict]]></title>
+            <description><![CDATA[[Bangladesh] Defence to appeal Rampura cornice shooting verdict]]></description>
+            <link>https://bdnews24.com/bangladesh/1bf3bc2ce71e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1bf3bc2ce71e</guid>
+            <pubDate>Sun, 28 Jun 2026 17:26:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/aminul-islam-280626-1782644402.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Measles: 4 die, 116 new cases]]></title>
+            <description><![CDATA[[Health] Measles: 4 die, 116 new cases]]></description>
+            <link>https://bdnews24.com/health/6c2f35c36307</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/6c2f35c36307</guid>
+            <pubDate>Sun, 28 Jun 2026 17:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026March/SM/chattogram-medical-measles-corner-300326-02-1774973385.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thai teen dead found in suitcase, Australian man arrested]]></title>
+            <description><![CDATA[[South-East Asia] Thai teen dead found in suitcase, Australian man arrested]]></description>
+            <link>https://bdnews24.com/world/south-east-asia/2b53ecd18ef3</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/south-east-asia/2b53ecd18ef3</guid>
+            <pubDate>Sun, 28 Jun 2026 16:57:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/thailand-teen-girl-murder-280626-01-1782644185.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Teesta study will be expedited: minister]]></title>
+            <description><![CDATA[[Bangladesh] Teesta study will be expedited: minister]]></description>
+            <link>https://bdnews24.com/bangladesh/085b28677c04</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/085b28677c04</guid>
+            <pubDate>Sun, 28 Jun 2026 16:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024July/SM/rangour-tista-010724-1719831196.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Harassment’ at DU: ‘You can’t watch the match with a girl’]]></title>
+            <description><![CDATA[[Bangladesh] ‘Harassment’ at DU: ‘You can’t watch the match with a girl’]]></description>
+            <link>https://bdnews24.com/bangladesh/c305ea0578ae</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c305ea0578ae</guid>
+            <pubDate>Sun, 28 Jun 2026 16:22:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/sufia-kamal-hall-protest-280626-01-1782636711.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heatwave kills 1,000 in France]]></title>
+            <description><![CDATA[[Europe] Heatwave kills 1,000 in France]]></description>
+            <link>https://bdnews24.com/world/europe/3dbbb0c6d419</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/3dbbb0c6d419</guid>
+            <pubDate>Sun, 28 Jun 2026 15:53:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/heatwave-kills-in-france-280626-01-1782640362.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Renaissance unveils FIFA fan zone]]></title>
             <description><![CDATA[[Business] Renaissance unveils FIFA fan zone]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/621901a0d3b1</guid>
             <pubDate>Sun, 28 Jun 2026 12:31:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/world-cup-argentina-scaloni-messi-280626-01-1782628190.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Verdict looms in Rampura cornice shooting case]]></title>
-            <description><![CDATA[[Bangladesh] Verdict looms in Rampura cornice shooting case]]></description>
-            <link>https://bdnews24.com/bangladesh/e4fd8c1a6b42</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e4fd8c1a6b42</guid>
-            <pubDate>Sun, 28 Jun 2026 12:07:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/rampura-police-fire-270626-01-1782615527.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Strong earthquake hits Afghanistan]]></title>
-            <description><![CDATA[[World] Strong earthquake hits Afghanistan]]></description>
-            <link>https://bdnews24.com/world/4593bbe7507f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/4593bbe7507f</guid>
-            <pubDate>Sun, 28 Jun 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/pak-quake-280626-1782626365.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Google limits Meta’s use of its Gemini AI models: FT]]></title>
-            <description><![CDATA[[Technology] Google limits Meta’s use of its Gemini AI models: FT]]></description>
-            <link>https://bdnews24.com/technology/147b0866ea0e</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/147b0866ea0e</guid>
-            <pubDate>Sun, 28 Jun 2026 11:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/googlelogo-280626-1782625813.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[IUB, Norwegian Embassy sign deal to support Ibsen-Fosse Festival]]></title>
-            <description><![CDATA[[Campus] IUB, Norwegian Embassy sign deal to support Ibsen-Fosse Festival]]></description>
-            <link>https://bdnews24.com/campus/b6fd47c68e4e</link>
-            <guid isPermaLink="true">https://bdnews24.com/campus/b6fd47c68e4e</guid>
-            <pubDate>Sun, 28 Jun 2026 11:16:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/social-iub-norway-embassy-ibsen-fest-01-1782623765.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Army chief sets off on Europe tour]]></title>
-            <description><![CDATA[[Bangladesh] Army chief sets off on Europe tour]]></description>
-            <link>https://bdnews24.com/bangladesh/8ce41ed66d81</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8ce41ed66d81</guid>
-            <pubDate>Sun, 28 Jun 2026 11:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024October/SM/wakar-uz-zaman-151024-1728964353.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Argentina mania descends on DU campus]]></title>
-            <description><![CDATA[[Image] Argentina mania descends on DU campus]]></description>
-            <link>https://bdnews24.com/media-en/image/fd6f17588c66</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/fd6f17588c66</guid>
-            <pubDate>Sun, 28 Jun 2026 11:09:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/argentina-vs-jordan-280626-15-1782621951.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[June 28, 2026]]></title>
-            <description><![CDATA[[Image] June 28, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/c6953723a6e1</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/c6953723a6e1</guid>
-            <pubDate>Sun, 28 Jun 2026 11:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/road-digging-kakrail-280626-02-1782620822.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
