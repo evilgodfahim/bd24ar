@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 29 Jun 2026 20:45:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jun 2026 22:01:40 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 29 Jun 2026 20:45:29 GMT</pubDate>
+        <pubDate>Mon, 29 Jun 2026 22:01:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Brazil celebrate as Japan suffer heartbreak]]></title>
+            <description><![CDATA[[Sport] Brazil celebrate as Japan suffer heartbreak]]></description>
+            <link>https://bdnews24.com/sport/e8d417500c46</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/e8d417500c46</guid>
+            <pubDate>Tue, 30 Jun 2026 03:26:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/brazil-vs-japan-300626-1-1782762921.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brazil survive like Madrid in Ancelotti thriller]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Brazil survive like Madrid in Ancelotti thriller]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/c27aeac2c346</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/c27aeac2c346</guid>
+            <pubDate>Tue, 30 Jun 2026 02:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/carlo-ancelotti-300626-01-1782765988.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brazil survive Japan scare]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Brazil survive Japan scare]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/9b4d7176be72</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/9b4d7176be72</guid>
+            <pubDate>Tue, 30 Jun 2026 02:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/brazil-win-300626-01-1782765822.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Fans frustrated by late StubHub ticket cancellations]]></title>
             <description><![CDATA[[2026 FIFA World Cup] Fans frustrated by late StubHub ticket cancellations]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/16bbf9d37641</guid>
             <pubDate>Mon, 29 Jun 2026 22:55:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/belgium-players-290626-01-1782752138.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US, Israeli strikes shattered Iran’s most cherished monuments]]></title>
-            <description><![CDATA[[Lifestyle] US, Israeli strikes shattered Iran’s most cherished monuments]]></description>
-            <link>https://bdnews24.com/lifestyle/22d19a30edfd</link>
-            <guid isPermaLink="true">https://bdnews24.com/lifestyle/22d19a30edfd</guid>
-            <pubDate>Mon, 29 Jun 2026 22:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/iran-monuments-29062026-01-1782751801.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Czech coach resigns after poor campaign]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Czech coach resigns after poor campaign]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/5be31013bde5</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/5be31013bde5</guid>
-            <pubDate>Mon, 29 Jun 2026 22:52:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/miroslav-koubek-290626-01-1782751948.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2 ‘infiltrators’ pushed back from Sherpur]]></title>
-            <description><![CDATA[[Bangladesh] 2 ‘infiltrators’ pushed back from Sherpur]]></description>
-            <link>https://bdnews24.com/bangladesh/bb01a2762f1e</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/bb01a2762f1e</guid>
-            <pubDate>Mon, 29 Jun 2026 22:44:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/sheerpur-push-in-bgb-290626-01-1782745616.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
