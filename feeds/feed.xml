@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Jun 2026 22:06:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 23:55:29 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 30 Jun 2026 22:06:03 GMT</pubDate>
+        <pubDate>Tue, 30 Jun 2026 23:55:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Sparkling Mbappe uncorks France masterclass against Sweden]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Sparkling Mbappe uncorks France masterclass against Sweden]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/a830067fb576</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/a830067fb576</guid>
+            <pubDate>Wed, 01 Jul 2026 05:13:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/france-mbappe-010726-01-1782861121.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[BB chief sees City Group debt crisis easing in 3 months]]></title>
             <description><![CDATA[[Business] BB chief sees City Group debt crisis easing in 3 months]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/93b038f206bd</guid>
             <pubDate>Tue, 30 Jun 2026 21:40:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/dollar-rate-higher-yen-sinks-lower-300626-01-1782833821.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Meta loses bid to dismiss child addiction claims]]></title>
-            <description><![CDATA[[Technology] Meta loses bid to dismiss child addiction claims]]></description>
-            <link>https://bdnews24.com/technology/2343682c09ef</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/2343682c09ef</guid>
-            <pubDate>Tue, 30 Jun 2026 21:38:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/meta-child-addiction-30062026-01-1782833834.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
