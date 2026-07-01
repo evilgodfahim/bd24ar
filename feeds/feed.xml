@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Jul 2026 18:52:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jul 2026 20:43:47 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Jul 2026 18:52:59 GMT</pubDate>
+        <pubDate>Wed, 01 Jul 2026 20:43:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Did July Uprising really change Bangladesh?]]></title>
+            <description><![CDATA[[Bangladesh] Did July Uprising really change Bangladesh?]]></description>
+            <link>https://bdnews24.com/bangladesh/8f178624aaf6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8f178624aaf6</guid>
+            <pubDate>Thu, 02 Jul 2026 02:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024August/SM/graffiti-dhaka-university-wall-120824-02-1723468544.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BNP leader killed over ‘World Cup row’ in Dhaka]]></title>
+            <description><![CDATA[[Bangladesh] BNP leader killed over ‘World Cup row’ in Dhaka]]></description>
+            <link>https://bdnews24.com/bangladesh/e894cec1fac1</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e894cec1fac1</guid>
+            <pubDate>Thu, 02 Jul 2026 02:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/abul-bashar-badsha-death-010726-1782934888.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Uttara University seals 22 global deals]]></title>
+            <description><![CDATA[[Education] Uttara University seals 22 global deals]]></description>
+            <link>https://bdnews24.com/education/c5924fe2693b</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/c5924fe2693b</guid>
+            <pubDate>Thu, 02 Jul 2026 01:50:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/uttara-university-010726-01-1782935345.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ULAB marks 105th anniversary of Communist Party of China]]></title>
+            <description><![CDATA[[Education] ULAB marks 105th anniversary of Communist Party of China]]></description>
+            <link>https://bdnews24.com/education/5361f6210cbd</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/5361f6210cbd</guid>
+            <pubDate>Thu, 02 Jul 2026 01:23:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/ulab-event-020726-01-1782933748.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Shelling erupts near Myanmar border]]></title>
             <description><![CDATA[[Bangladesh] Shelling erupts near Myanmar border]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/c106e802021c</guid>
             <pubDate>Wed, 01 Jul 2026 20:43:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/marco-palestra-010726-01-1782916940.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Serena fights knee issue for Wimbledon doubles]]></title>
-            <description><![CDATA[[Sport] Serena fights knee issue for Wimbledon doubles]]></description>
-            <link>https://bdnews24.com/sport/8bb6ab28404a</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/8bb6ab28404a</guid>
-            <pubDate>Wed, 01 Jul 2026 20:24:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/serena-williams-010726-01-1782915783.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tesla EU registrations rise in June]]></title>
-            <description><![CDATA[[Technology] Tesla EU registrations rise in June]]></description>
-            <link>https://bdnews24.com/technology/9544ab41d5e1</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/9544ab41d5e1</guid>
-            <pubDate>Wed, 01 Jul 2026 20:19:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/elon-musk-010726-01-1782915484.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Looted shotgun found in Bosila bathroom ceiling]]></title>
-            <description><![CDATA[[Bangladesh] Looted shotgun found in Bosila bathroom ceiling]]></description>
-            <link>https://bdnews24.com/bangladesh/143452f5d622</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/143452f5d622</guid>
-            <pubDate>Wed, 01 Jul 2026 20:15:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/shotgun-police-010726-1782915311.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[One dies of dengue, 163 hospitalised]]></title>
-            <description><![CDATA[[Bangladesh] One dies of dengue, 163 hospitalised]]></description>
-            <link>https://bdnews24.com/bangladesh/86075f36cee6</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/86075f36cee6</guid>
-            <pubDate>Wed, 01 Jul 2026 20:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dengue-dhaka-medical-1000-1782912646.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
