@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Jul 2026 22:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jul 2026 23:59:22 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Jul 2026 22:10:45 GMT</pubDate>
+        <pubDate>Wed, 01 Jul 2026 23:59:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Stunning Belgium comeback sinks Senegal]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Stunning Belgium comeback sinks Senegal]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/bae9227cbe08</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/bae9227cbe08</guid>
+            <pubDate>Thu, 02 Jul 2026 05:02:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/belgium-senegal-020726-01-1782946882.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Did July Uprising really change Bangladesh?]]></title>
             <description><![CDATA[[Bangladesh] Did July Uprising really change Bangladesh?]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/ac72e1f7c083</guid>
             <pubDate>Wed, 01 Jul 2026 20:56:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/donald-trump-010726-01-1782917693.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Palestra joins Chelsea from Atalanta]]></title>
-            <description><![CDATA[[Sport] Palestra joins Chelsea from Atalanta]]></description>
-            <link>https://bdnews24.com/sport/c106e802021c</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/c106e802021c</guid>
-            <pubDate>Wed, 01 Jul 2026 20:43:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/marco-palestra-010726-01-1782916940.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
