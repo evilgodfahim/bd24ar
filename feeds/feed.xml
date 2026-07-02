@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Jul 2026 09:56:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jul 2026 12:01:00 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Jul 2026 09:56:07 GMT</pubDate>
+        <pubDate>Thu, 02 Jul 2026 12:01:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Austria's top court upholds Benko's fraud conviction]]></title>
+            <description><![CDATA[[People] Austria's top court upholds Benko's fraud conviction]]></description>
+            <link>https://bdnews24.com/people/45c31a288e35</link>
+            <guid isPermaLink="true">https://bdnews24.com/people/45c31a288e35</guid>
+            <pubDate>Thu, 02 Jul 2026 17:26:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/rene-benko-020726-01-1782991549.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel advances mosque loudspeaker bill]]></title>
+            <description><![CDATA[[World] Israel advances mosque loudspeaker bill]]></description>
+            <link>https://bdnews24.com/world/a579a483d876</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/a579a483d876</guid>
+            <pubDate>Thu, 02 Jul 2026 17:24:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/israel-parliament-020726-1782991477.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[China, Bangladesh eye new strategic platforms]]></title>
+            <description><![CDATA[[Bangladesh] China, Bangladesh eye new strategic platforms]]></description>
+            <link>https://bdnews24.com/bangladesh/58385751b5c0</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/58385751b5c0</guid>
+            <pubDate>Thu, 02 Jul 2026 17:23:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/china-envoy-yao-wen-020726-001-1782989436.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman to die for husband murder]]></title>
+            <description><![CDATA[[Bangladesh] Woman to die for husband murder]]></description>
+            <link>https://bdnews24.com/bangladesh/b34ab6c495d8</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b34ab6c495d8</guid>
+            <pubDate>Thu, 02 Jul 2026 16:53:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/fatema-begum-shilpi-020726-1782987471.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Delhi locks in winter anti-pollution curbs]]></title>
+            <description><![CDATA[[Environment] Delhi locks in winter anti-pollution curbs]]></description>
+            <link>https://bdnews24.com/environment/38f798e77aaf</link>
+            <guid isPermaLink="true">https://bdnews24.com/environment/38f798e77aaf</guid>
+            <pubDate>Thu, 02 Jul 2026 16:36:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/delhi-polution-020726-01-1782988437.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ACC search committee seeks CVs]]></title>
+            <description><![CDATA[[Bangladesh] ACC search committee seeks CVs]]></description>
+            <link>https://bdnews24.com/bangladesh/9f3b3577121e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9f3b3577121e</guid>
+            <pubDate>Thu, 02 Jul 2026 16:29:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025August/SM/dudok-1000-1755452780.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[LPG price slashed for July]]></title>
+            <description><![CDATA[[Business] LPG price slashed for July]]></description>
+            <link>https://bdnews24.com/business/03638fa28ea2</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/03638fa28ea2</guid>
+            <pubDate>Thu, 02 Jul 2026 16:15:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/lpg-gas-cylinder-190426-002-1776596793.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Nazrul’s work must reach every home: PM]]></title>
             <description><![CDATA[[Bangladesh] Nazrul’s work must reach every home: PM]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/0cfa0f601b9b</guid>
             <pubDate>Thu, 02 Jul 2026 13:21:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/khameni-funeral-020726-1782976663.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[HSC examinee dies after 6-storey fall]]></title>
-            <description><![CDATA[[Bangladesh] HSC examinee dies after 6-storey fall]]></description>
-            <link>https://bdnews24.com/bangladesh/9892a45dbf4e</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9892a45dbf4e</guid>
-            <pubDate>Thu, 02 Jul 2026 13:00:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/dead-body-220626-01-1782132797.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Is NYC about to host Swift's big day?]]></title>
-            <description><![CDATA[[Music] Is NYC about to host Swift's big day?]]></description>
-            <link>https://bdnews24.com/music/0ebae301c62d</link>
-            <guid isPermaLink="true">https://bdnews24.com/music/0ebae301c62d</guid>
-            <pubDate>Thu, 02 Jul 2026 12:27:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/taylor-swift-travis-kelce-070226-1782973474.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Russian frustration rises as fuel crisis bites]]></title>
-            <description><![CDATA[[Europe] Russian frustration rises as fuel crisis bites]]></description>
-            <link>https://bdnews24.com/world/europe/88e5d0513691</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/88e5d0513691</guid>
-            <pubDate>Thu, 02 Jul 2026 12:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/russian-petrol-station-020726-01-1782972763.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI proposes 5% stake for US govt: FT]]></title>
-            <description><![CDATA[[Technology] OpenAI proposes 5% stake for US govt: FT]]></description>
-            <link>https://bdnews24.com/technology/ff620ec80fb2</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/ff620ec80fb2</guid>
-            <pubDate>Thu, 02 Jul 2026 11:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/openai-logo-130626-1781326846.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US service member missing as helicopter lands in Arabian Sea]]></title>
-            <description><![CDATA[[Americas] US service member missing as helicopter lands in Arabian Sea]]></description>
-            <link>https://bdnews24.com/world/americas/5075ddee13b4</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/5075ddee13b4</guid>
-            <pubDate>Thu, 02 Jul 2026 11:50:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/helicopter-crash-020726-01-1782965448.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ex-CIA chief Brennan moves to protect DOJ files]]></title>
-            <description><![CDATA[[People] Ex-CIA chief Brennan moves to protect DOJ files]]></description>
-            <link>https://bdnews24.com/people/7e17b82359dd</link>
-            <guid isPermaLink="true">https://bdnews24.com/people/7e17b82359dd</guid>
-            <pubDate>Thu, 02 Jul 2026 11:46:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/ex-cia-chief-020726-1782971083.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japan shifts to ambush intervention tactics against yen short sellers]]></title>
-            <description><![CDATA[[Economy] Japan shifts to ambush intervention tactics against yen short sellers]]></description>
-            <link>https://bdnews24.com/economy/02898c714d43</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/02898c714d43</guid>
-            <pubDate>Thu, 02 Jul 2026 11:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/japan-yen-notes-020726-01-1782970728.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
