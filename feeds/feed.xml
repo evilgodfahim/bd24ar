@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News]]></title>
-        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
+        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Jul 2026 20:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jul 2026 21:54:36 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Jul 2026 20:10:33 GMT</pubDate>
+        <pubDate>Fri, 03 Jul 2026 21:54:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Police pushed player, team director at WC: Egypt]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Police pushed player, team director at WC: Egypt]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/fcb92a68f2ee</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/fcb92a68f2ee</guid>
-            <pubDate>Sat, 04 Jul 2026 02:10:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/police-push-player-04072026-01-1783109349.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canada hope Davies can help shock Morocco]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Canada hope Davies can help shock Morocco]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/89890b6cf7cf</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/89890b6cf7cf</guid>
-            <pubDate>Sat, 04 Jul 2026 02:05:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/canada-davies-04072026-01-1783109097.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heatwave hits US Jul 4 events]]></title>
-            <description><![CDATA[[World] Heatwave hits US Jul 4 events]]></description>
-            <link>https://bdnews24.com/world/e089bf8abd7f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/e089bf8abd7f</guid>
-            <pubDate>Sat, 04 Jul 2026 02:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/us-heat-01072026-1782927664.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mexico-England game to kick off earlier due to storm risk]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Mexico-England game to kick off earlier due to storm risk]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/0663e38acd24</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/0663e38acd24</guid>
-            <pubDate>Sat, 04 Jul 2026 01:56:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/mexico-eng-kickoff-04072026-01-1783108485.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UGC sets conditions for research funds]]></title>
-            <description><![CDATA[[Campus] UGC sets conditions for research funds]]></description>
-            <link>https://bdnews24.com/campus/e3acc966d3ef</link>
-            <guid isPermaLink="true">https://bdnews24.com/campus/e3acc966d3ef</guid>
-            <pubDate>Sat, 04 Jul 2026 01:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ugc-logo-03072026-1783100390.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[WC penalty spot becomes football's newest classroom]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] WC penalty spot becomes football's newest classroom]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/9369d44a4e5d</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/9369d44a4e5d</guid>
-            <pubDate>Sat, 04 Jul 2026 01:35:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/wc-penalty-04072026-01-1783107246.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rescuers scour rubble, Kyiv mourns deadliest Russian strike]]></title>
-            <description><![CDATA[[World] Rescuers scour rubble, Kyiv mourns deadliest Russian strike]]></description>
-            <link>https://bdnews24.com/world/edac7fa5ffe5</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/edac7fa5ffe5</guid>
-            <pubDate>Sat, 04 Jul 2026 01:05:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/kyiv-rubble-rescue-04072026-01-1783105449.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ticket prices for Mexico v England game soar]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Ticket prices for Mexico v England game soar]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/57a92769853e</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/57a92769853e</guid>
-            <pubDate>Sat, 04 Jul 2026 00:38:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/ticket-price-soar-04072026-01-1783103845.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[What does the law say about India's ‘push-in’ policy?]]></title>
-            <description><![CDATA[[Bangladesh] What does the law say about India's ‘push-in’ policy?]]></description>
-            <link>https://bdnews24.com/bangladesh/bbb5a79d6b04</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/bbb5a79d6b04</guid>
-            <pubDate>Sat, 04 Jul 2026 00:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/panchagarh-border-bgb-bsf-070626-01-1780840173.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canada’s Kone feels love in supporting role]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Canada’s Kone feels love in supporting role]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/05fb08de5c1c</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/05fb08de5c1c</guid>
-            <pubDate>Sat, 04 Jul 2026 00:15:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/canada-kone-04072026-01-1783102334.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mexico president urges responsible WC celebrations]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Mexico president urges responsible WC celebrations]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/4de1347a3df3</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/4de1347a3df3</guid>
-            <pubDate>Sat, 04 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/mexico-president-wc-celebrations-03072026-01-1783101573.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Upazilas to get 10-bed dialysis units: Sakhawat]]></title>
-            <description><![CDATA[[Health] Upazilas to get 10-bed dialysis units: Sakhawat]]></description>
-            <link>https://bdnews24.com/health/5623fb83c553</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/5623fb83c553</guid>
-            <pubDate>Fri, 03 Jul 2026 23:58:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/narsingdi-health-minister-030726-01-1783099101.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Banning parties weakens democracy: Grace Meng]]></title>
-            <description><![CDATA[[Bangladesh] Banning parties weakens democracy: Grace Meng]]></description>
-            <link>https://bdnews24.com/bangladesh/8bed9da47437</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8bed9da47437</guid>
-            <pubDate>Fri, 03 Jul 2026 23:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/grace-meng-030716-1783094409.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Postecoglou appointed new Al-Nassr coach]]></title>
-            <description><![CDATA[[Sport] Postecoglou appointed new Al-Nassr coach]]></description>
-            <link>https://bdnews24.com/sport/fb05c6bcca25</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/fb05c6bcca25</guid>
-            <pubDate>Fri, 03 Jul 2026 23:48:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ange-postecoglou-030726-01-1783100796.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why June’s blackouts spiralled]]></title>
-            <description><![CDATA[[Bangladesh] Why June’s blackouts spiralled]]></description>
-            <link>https://bdnews24.com/bangladesh/5c901cdda5fe</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5c901cdda5fe</guid>
-            <pubDate>Fri, 03 Jul 2026 23:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/loadshedding-home-power-cut-280626-01-1782663055.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Salah starts for Egypt]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Salah starts for Egypt]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/76e9daa3387e</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/76e9daa3387e</guid>
-            <pubDate>Fri, 03 Jul 2026 23:21:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/salah-egypt-03072026-01-1783099177.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Teknaf on edge as Rakhine erupts again]]></title>
-            <description><![CDATA[[Bangladesh] Teknaf on edge as Rakhine erupts again]]></description>
-            <link>https://bdnews24.com/bangladesh/a8ca1ce1f0d7</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a8ca1ce1f0d7</guid>
-            <pubDate>Fri, 03 Jul 2026 23:02:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024July/SM/coxsbazar-mayanmar-clash-140724-01-1720973343.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Novoair flight returns after gear fault]]></title>
-            <description><![CDATA[[Business] Novoair flight returns after gear fault]]></description>
-            <link>https://bdnews24.com/business/167abb6ff265</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/167abb6ff265</guid>
-            <pubDate>Fri, 03 Jul 2026 22:32:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/novoair-1000-1783095088.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why the vaccination numbers don’t add up]]></title>
-            <description><![CDATA[[Health] Why the vaccination numbers don’t add up]]></description>
-            <link>https://bdnews24.com/health/143e03e1af86</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/143e03e1af86</guid>
-            <pubDate>Fri, 03 Jul 2026 22:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/chattogram-parents-with-children-in-cmch-230426-05-1777000420.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[NATO leaders aim to smooth over tensions with Trump]]></title>
-            <description><![CDATA[[World] NATO leaders aim to smooth over tensions with Trump]]></description>
-            <link>https://bdnews24.com/world/62cf3d5bf589</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/62cf3d5bf589</guid>
-            <pubDate>Fri, 03 Jul 2026 22:22:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/nato-tensions-trump-03072026-01-1783095654.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
+            <link>https://bdnews24.com</link>
+            <guid isPermaLink="true">https://bdnews24.com</guid>
+            <pubDate>Fri, 03 Jul 2026 21:54:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
