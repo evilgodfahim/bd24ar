@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ]]></title>
+        <description><![CDATA[bangla.bdnews24.com আর্কাইভ থেকে সর্বশেষ সংবাদ]]></description>
         <link>https://bangla.bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Jul 2026 15:47:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jul 2026 17:09:08 GMT</lastBuildDate>
         <atom:link href="https://bangla.bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Jul 2026 15:47:19 GMT</pubDate>
+        <pubDate>Fri, 03 Jul 2026 17:09:08 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: timeout of 65000ms exceeded]]></description>
-            <link>https://bangla.bdnews24.com</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com</guid>
-            <pubDate>Fri, 03 Jul 2026 15:47:19 GMT</pubDate>
+            <title><![CDATA[জুনে এত লোডশেডিং হল কেন?]]></title>
+            <description><![CDATA[[বাংলাদেশ] জুনে এত লোডশেডিং হল কেন?]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/f7486601deb7</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/f7486601deb7</guid>
+            <pubDate>Fri, 03 Jul 2026 17:09:08 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/loadshedding-home-power-cut-280626-01-1782663055.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[টেস্ট সেঞ্চুরির পর বাংলাদেশের বিপক্ষে ওয়ানডে দলে কাইয়া]]></title>
+            <description><![CDATA[[ক্রিকেট] টেস্ট সেঞ্চুরির পর বাংলাদেশের বিপক্ষে ওয়ানডে দলে কাইয়া]]></description>
+            <link>https://bangla.bdnews24.com/cricket/88864df64f9d</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/cricket/88864df64f9d</guid>
+            <pubDate>Fri, 03 Jul 2026 17:09:08 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/innocent-kaia-030726-01-1783098376.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বরগুনায় অনুশীলনে আর্জেন্টিনা-সমর্থকের মৃত্যু, খেলা স্থগিত]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] বরগুনায় অনুশীলনে আর্জেন্টিনা-সমর্থকের মৃত্যু, খেলা স্থগিত]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/3dda12ee5965</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/3dda12ee5965</guid>
+            <pubDate>Fri, 03 Jul 2026 17:09:08 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/barguna-football-match-030726-01-1783097734.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[কাতলা মাছে খাচ্ছে  তামাক  আম গাছেতে ঠ‍্যাং তুলে কিংবা উল্টোপুরাণের জগৎ]]></title>
+            <description><![CDATA[[আর্টস] কাতলা মাছে খাচ্ছে  তামাক  আম গাছেতে ঠ‍্যাং তুলে কিংবা উল্টোপুরাণের জগৎ]]></description>
+            <link>https://bangla.bdnews24.com/arts/13ee847765a0</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/arts/13ee847765a0</guid>
+            <pubDate>Fri, 03 Jul 2026 17:09:08 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bosch-1783097615.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[হামের টিকা নেওয়া আর ভিটামিন ‘এ’ ক্যাপসুল খাওয়া শিশুর ব্যবধান কেন ৩৯ লাখ?]]></title>
+            <description><![CDATA[[স্বাস্থ্য] হামের টিকা নেওয়া আর ভিটামিন ‘এ’ ক্যাপসুল খাওয়া শিশুর ব্যবধান কেন ৩৯ লাখ?]]></description>
+            <link>https://bangla.bdnews24.com/health/b447a727c62b</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/health/b447a727c62b</guid>
+            <pubDate>Fri, 03 Jul 2026 17:09:08 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/chattogram-parents-with-children-in-cmch-230426-05-1777000420.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[খামেনির জানাজায় অংশ নিতে ইরানে বিশ্বনেতারা]]></title>
+            <description><![CDATA[[টিউব] খামেনির জানাজায় অংশ নিতে ইরানে বিশ্বনেতারা]]></description>
+            <link>https://bangla.bdnews24.com/tube/b0462bb1f75d</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/b0462bb1f75d</guid>
+            <pubDate>Fri, 03 Jul 2026 17:09:08 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/khameneis-funeral-pkg-thum-1783095351.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ধানমন্ডিতে চাপাতি ঠেকিয়ে ছিনতাইয়ের ঘটনায় গ্রেপ্তার ৩]]></title>
+            <description><![CDATA[[বাংলাদেশ] ধানমন্ডিতে চাপাতি ঠেকিয়ে ছিনতাইয়ের ঘটনায় গ্রেপ্তার ৩]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/cad62748c077</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/cad62748c077</guid>
+            <pubDate>Fri, 03 Jul 2026 17:09:08 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025July/SM/dhanmondi-model-thana-1752592726.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[চেরাগী মাতালো ‘দেশের গান, দশের গান’]]></title>
+            <description><![CDATA[[চট্টগ্রাম] চেরাগী মাতালো ‘দেশের গান, দশের গান’]]></description>
+            <link>https://bangla.bdnews24.com/ctg/78ed6dbf0058</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/ctg/78ed6dbf0058</guid>
+            <pubDate>Fri, 03 Jul 2026 17:09:08 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/chattogram-music-show-on-the-road-030726-01-1783094970.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ল্যান্ডিং গিয়ারে ত্রুটি, ওড়ার পর ফিরে এল নভোএয়ারের ফ্লাইট]]></title>
+            <description><![CDATA[[বাণিজ্য] ল্যান্ডিং গিয়ারে ত্রুটি, ওড়ার পর ফিরে এল নভোএয়ারের ফ্লাইট]]></description>
+            <link>https://bangla.bdnews24.com/business/9db448e3ec9a</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/business/9db448e3ec9a</guid>
+            <pubDate>Fri, 03 Jul 2026 17:09:08 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/novoair-1000-1783095088.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[প্রযুক্তির সঙ্গে তাল মিলিয়ে আইনি সংস্কারের তাগিদ তথ্যমন্ত্রীর]]></title>
+            <description><![CDATA[[বাংলাদেশ] প্রযুক্তির সঙ্গে তাল মিলিয়ে আইনি সংস্কারের তাগিদ তথ্যমন্ত্রীর]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/2c0cd8534132</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/2c0cd8534132</guid>
+            <pubDate>Fri, 03 Jul 2026 17:09:08 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/information-minster-zahir-uddin-swapan-030726-1783094944.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[মেসির কাছে সবসময়ই ‘আরও একটি গল্প থাকে’]]></title>
+            <description><![CDATA[[২০২৬ ফুটবল বিশ্বকাপ] মেসির কাছে সবসময়ই ‘আরও একটি গল্প থাকে’]]></description>
+            <link>https://bangla.bdnews24.com/sport/world-cup-2026/4b8cdf1f30a2</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/world-cup-2026/4b8cdf1f30a2</guid>
+            <pubDate>Fri, 03 Jul 2026 17:09:08 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/lionel-messi-030726-01-1783094566.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[রাজনৈতিক দল নিষিদ্ধ করা উদ্বেগের: বাংলাদেশ প্রসঙ্গে কংগ্রেস সদস্য গ্রেস মেং]]></title>
+            <description><![CDATA[[প্রবাস] রাজনৈতিক দল নিষিদ্ধ করা উদ্বেগের: বাংলাদেশ প্রসঙ্গে কংগ্রেস সদস্য গ্রেস মেং]]></description>
+            <link>https://bangla.bdnews24.com/probash/5fa61e2c8e95</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/probash/5fa61e2c8e95</guid>
+            <pubDate>Fri, 03 Jul 2026 17:09:08 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/grace-meng-030716-1783094409.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘আমিই ইসরায়েলের ইতিহাসে সেরা প্রেসিডেন্ট’: দাবি ট্রাম্পের]]></title>
+            <description><![CDATA[[বিশ্ব] ‘আমিই ইসরায়েলের ইতিহাসে সেরা প্রেসিডেন্ট’: দাবি ট্রাম্পের]]></description>
+            <link>https://bangla.bdnews24.com/world/dec68157183b</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/world/dec68157183b</guid>
+            <pubDate>Fri, 03 Jul 2026 17:09:08 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/trump-030726-01-1783094446.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[শহরে ফুটবলের হাওয়া]]></title>
+            <description><![CDATA[[ছবি] শহরে ফুটবলের হাওয়া]]></description>
+            <link>https://bangla.bdnews24.com/media_bn/image/4460dacb618a</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/media_bn/image/4460dacb618a</guid>
+            <pubDate>Fri, 03 Jul 2026 17:09:08 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/fifa-world-cup-030726-050-1783093855.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[নারায়ণগঞ্জে জাতীয় পতাকায় কালেমা যুক্ত করে বিক্রি, গ্রেপ্তার ২ তরুণ]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] নারায়ণগঞ্জে জাতীয় পতাকায় কালেমা যুক্ত করে বিক্রি, গ্রেপ্তার ২ তরুণ]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/6efd189338b0</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/6efd189338b0</guid>
+            <pubDate>Fri, 03 Jul 2026 17:09:08 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/narayanganj-siddhirganj-030726-01-1783094241.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘নেইমার এখন ৯০ মিনিট খেলতে প্রস্তুত’]]></title>
+            <description><![CDATA[[২০২৬ ফুটবল বিশ্বকাপ] ‘নেইমার এখন ৯০ মিনিট খেলতে প্রস্তুত’]]></description>
+            <link>https://bangla.bdnews24.com/sport/world-cup-2026/2d31504debdf</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/world-cup-2026/2d31504debdf</guid>
+            <pubDate>Fri, 03 Jul 2026 17:09:08 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/neymar-030726-01-1783093833.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[চট্টগ্রামে জিয়ার প্রথম সমাধিতে সমাজকল্যাণমন্ত্রীর শ্রদ্ধা]]></title>
+            <description><![CDATA[[চট্টগ্রাম] চট্টগ্রামে জিয়ার প্রথম সমাধিতে সমাজকল্যাণমন্ত্রীর শ্রদ্ধা]]></description>
+            <link>https://bangla.bdnews24.com/ctg/29a977dafbad</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/ctg/29a977dafbad</guid>
+            <pubDate>Fri, 03 Jul 2026 17:09:08 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/chattogram-azm-zahid-hossain-030726-01-1783093204.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[মিয়ানমারে যুদ্ধ: রোহিঙ্গা ও রাখাইনদের কাছে ওপার থেকে যে খবর আসছে]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] মিয়ানমারে যুদ্ধ: রোহিঙ্গা ও রাখাইনদের কাছে ওপার থেকে যে খবর আসছে]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/008b6da422d0</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/008b6da422d0</guid>
+            <pubDate>Fri, 03 Jul 2026 17:09:08 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024July/SM/coxsbazar-mayanmar-clash-140724-01-1720973343.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[সুইফট-কেলসির বিয়ে: তারকারা কে কী পরছেন, থিম ‘খামখেয়ালি’]]></title>
+            <description><![CDATA[[গ্লিটজ] সুইফট-কেলসির বিয়ে: তারকারা কে কী পরছেন, থিম ‘খামখেয়ালি’]]></description>
+            <link>https://bangla.bdnews24.com/glitz/38c06e2b1964</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/glitz/38c06e2b1964</guid>
+            <pubDate>Fri, 03 Jul 2026 17:09:08 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/taylor-travis-25062026-1782325554.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[গাজীপুরে জুমার নামাজ শেষে আওয়ামী লীগ নেতা গ্রেপ্তার]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] গাজীপুরে জুমার নামাজ শেষে আওয়ামী লীগ নেতা গ্রেপ্তার]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/644342d8d560</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/644342d8d560</guid>
+            <pubDate>Fri, 03 Jul 2026 17:09:08 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/gazipur-arrest-030726-01-1783092587.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

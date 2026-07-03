@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – Latest News]]></title>
+        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Jul 2026 15:47:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jul 2026 17:09:08 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Jul 2026 15:47:19 GMT</pubDate>
+        <pubDate>Fri, 03 Jul 2026 17:09:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: timeout of 65000ms exceeded]]></description>
-            <link>https://bdnews24.com</link>
-            <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Fri, 03 Jul 2026 15:47:19 GMT</pubDate>
+            <title><![CDATA[Teknaf on edge as Rakhine erupts again]]></title>
+            <description><![CDATA[[Bangladesh] Teknaf on edge as Rakhine erupts again]]></description>
+            <link>https://bdnews24.com/bangladesh/a8ca1ce1f0d7</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a8ca1ce1f0d7</guid>
+            <pubDate>Fri, 03 Jul 2026 23:02:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024July/SM/coxsbazar-mayanmar-clash-140724-01-1720973343.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Novoair flight returns after gear fault]]></title>
+            <description><![CDATA[[Business] Novoair flight returns after gear fault]]></description>
+            <link>https://bdnews24.com/business/167abb6ff265</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/167abb6ff265</guid>
+            <pubDate>Fri, 03 Jul 2026 22:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/novoair-1000-1783095088.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why the vaccination numbers don’t add up]]></title>
+            <description><![CDATA[[Health] Why the vaccination numbers don’t add up]]></description>
+            <link>https://bdnews24.com/health/143e03e1af86</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/143e03e1af86</guid>
+            <pubDate>Fri, 03 Jul 2026 22:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/chattogram-parents-with-children-in-cmch-230426-05-1777000420.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[NATO leaders aim to smooth over tensions with Trump]]></title>
+            <description><![CDATA[[World] NATO leaders aim to smooth over tensions with Trump]]></description>
+            <link>https://bdnews24.com/world/62cf3d5bf589</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/62cf3d5bf589</guid>
+            <pubDate>Fri, 03 Jul 2026 22:22:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/nato-tensions-trump-03072026-01-1783095654.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Where Burma grapes change hands]]></title>
+            <description><![CDATA[[Image] Where Burma grapes change hands]]></description>
+            <link>https://bdnews24.com/media-en/image/b6c502e9dd83</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/b6c502e9dd83</guid>
+            <pubDate>Fri, 03 Jul 2026 22:20:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/latkan-fruit-030726-028-1783084793.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israeli settlers occupy Palestinian homes in West Bank]]></title>
+            <description><![CDATA[[World] Israeli settlers occupy Palestinian homes in West Bank]]></description>
+            <link>https://bdnews24.com/world/a4a59c269f4d</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/a4a59c269f4d</guid>
+            <pubDate>Fri, 03 Jul 2026 22:05:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/israeli-settlers-westbank-03072026-01-1783094671.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Swift, Travis Kelce's wedding to light up NY]]></title>
+            <description><![CDATA[[Entertainment] Taylor Swift, Travis Kelce's wedding to light up NY]]></description>
+            <link>https://bdnews24.com/entertainment/a5de5ebefc9a</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/a5de5ebefc9a</guid>
+            <pubDate>Fri, 03 Jul 2026 21:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/taylor-travis-25062026-1782325554.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[German draft budget foresees over €203bn in borrowing]]></title>
+            <description><![CDATA[[Europe] German draft budget foresees over €203bn in borrowing]]></description>
+            <link>https://bdnews24.com/world/europe/47657cff4049</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/47657cff4049</guid>
+            <pubDate>Fri, 03 Jul 2026 21:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/germany-budget-03072026-01-1783093230.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Delhi ‘watching’ Teesta, J-10 fighter plans: report]]></title>
+            <description><![CDATA[[Bangladesh] Delhi ‘watching’ Teesta, J-10 fighter plans: report]]></description>
+            <link>https://bdnews24.com/bangladesh/7ea20fa2bc2c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7ea20fa2bc2c</guid>
+            <pubDate>Fri, 03 Jul 2026 21:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/randhir-jaiswal-030726-1783090563.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rare US Declaration of Independence copy found in UK]]></title>
+            <description><![CDATA[[Americas] Rare US Declaration of Independence copy found in UK]]></description>
+            <link>https://bdnews24.com/world/americas/aaa7047f4bc4</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/aaa7047f4bc4</guid>
+            <pubDate>Fri, 03 Jul 2026 21:13:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/us-declaration-030726-01-1783091499.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tax cuts yet to ease market prices]]></title>
+            <description><![CDATA[[Business] Tax cuts yet to ease market prices]]></description>
+            <link>https://bdnews24.com/business/6a1ff48cff7c</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/6a1ff48cff7c</guid>
+            <pubDate>Fri, 03 Jul 2026 21:08:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/commodity-market-030726-01-1783085928.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[July 3, 2026]]></title>
+            <description><![CDATA[[Image] July 3, 2026]]></description>
+            <link>https://bdnews24.com/media-en/image/6271d8411fff</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/6271d8411fff</guid>
+            <pubDate>Fri, 03 Jul 2026 21:06:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sweeper-cleaning-drain-moulvibazar-030726-002-1783083607.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Measles lingers, dengue rises in Ctg]]></title>
+            <description><![CDATA[[Health] Measles lingers, dengue rises in Ctg]]></description>
+            <link>https://bdnews24.com/health/8f99b25d7e19</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/8f99b25d7e19</guid>
+            <pubDate>Fri, 03 Jul 2026 20:46:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/chattogram-aedes-mosquito-larvae-250626-01-1782410010.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran exploring oil sales to Japan]]></title>
+            <description><![CDATA[[Business] Iran exploring oil sales to Japan]]></description>
+            <link>https://bdnews24.com/business/c2bbca4beb9d</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/c2bbca4beb9d</guid>
+            <pubDate>Fri, 03 Jul 2026 20:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/iran-japan-030726-01-1783089078.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US oil firms brace for price clash with Trump]]></title>
+            <description><![CDATA[[World] US oil firms brace for price clash with Trump]]></description>
+            <link>https://bdnews24.com/world/a42b7e130977</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/a42b7e130977</guid>
+            <pubDate>Fri, 03 Jul 2026 20:21:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/us-prices-030726-01-1783088467.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Barber shaves WC dreams into Brazilian fans' hair]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Barber shaves WC dreams into Brazilian fans' hair]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/50c65b86151d</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/50c65b86151d</guid>
+            <pubDate>Fri, 03 Jul 2026 20:18:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/brazil-barber-03072026-01-1783088319.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India clears 4 Chinese-linked firms for power projects]]></title>
+            <description><![CDATA[[Neighbours] India clears 4 Chinese-linked firms for power projects]]></description>
+            <link>https://bdnews24.com/neighbours/dc1a3021c96f</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/dc1a3021c96f</guid>
+            <pubDate>Fri, 03 Jul 2026 19:46:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/india-chinese-1783086357.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russian site posts ad for drone operators]]></title>
+            <description><![CDATA[[World] Russian site posts ad for drone operators]]></description>
+            <link>https://bdnews24.com/world/426636895884</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/426636895884</guid>
+            <pubDate>Fri, 03 Jul 2026 19:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/russia-drone-030726-01-1783085981.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India faces ethanol-mixed fuel backlash]]></title>
+            <description><![CDATA[[Neighbours] India faces ethanol-mixed fuel backlash]]></description>
+            <link>https://bdnews24.com/neighbours/fbfca47d5980</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/fbfca47d5980</guid>
+            <pubDate>Fri, 03 Jul 2026 19:35:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/kolkata-pump-03072026-1783085717.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh finally condemns Khamenei killing]]></title>
+            <description><![CDATA[[Bangladesh] Bangladesh finally condemns Khamenei killing]]></description>
+            <link>https://bdnews24.com/bangladesh/03acf46e925d</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/03acf46e925d</guid>
+            <pubDate>Fri, 03 Jul 2026 19:10:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/hafiz-uddin-bagher-ghalibaf-030726-01-1783083045.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
