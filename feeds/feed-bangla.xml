@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ]]></title>
-        <description><![CDATA[bangla.bdnews24.com আর্কাইভ থেকে সর্বশেষ সংবাদ]]></description>
+        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bangla.bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Jul 2026 13:28:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jul 2026 15:47:19 GMT</lastBuildDate>
         <atom:link href="https://bangla.bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Jul 2026 13:28:06 GMT</pubDate>
+        <pubDate>Fri, 03 Jul 2026 15:47:19 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[টঙ্গীতে মোটরসাইকেল বহর নিয়ে চাঁদা দাবি: বিএনপি নেতা বহিষ্কার]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] টঙ্গীতে মোটরসাইকেল বহর নিয়ে চাঁদা দাবি: বিএনপি নেতা বহিষ্কার]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/7de2bd58fc7c</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/7de2bd58fc7c</guid>
-            <pubDate>Fri, 03 Jul 2026 13:28:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/tongi-bnp-kamal-030726-01-1783084977.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[লটকনের পাইকারি বাজার]]></title>
-            <description><![CDATA[[ছবি] লটকনের পাইকারি বাজার]]></description>
-            <link>https://bangla.bdnews24.com/media_bn/image/4d0d4eb4d1ba</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/media_bn/image/4d0d4eb4d1ba</guid>
-            <pubDate>Fri, 03 Jul 2026 13:28:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/latkan-fruit-030726-028-1783084793.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[মৌলভীবাজারে ১০ জনকে ‘পুশ ইনের’ চেষ্টা, সতর্ক বিজিবি]]></title>
-            <description><![CDATA[[টিউব] মৌলভীবাজারে ১০ জনকে ‘পুশ ইনের’ চেষ্টা, সতর্ক বিজিবি]]></description>
-            <link>https://bangla.bdnews24.com/tube/3cda60480d7d</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/3cda60480d7d</guid>
-            <pubDate>Fri, 03 Jul 2026 13:28:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/moulovibazar-pushint-thumb-03072026-1783084765.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[আলজেরিয়ার স্বপ্নভঙ্গের দিনে বিদায় বললেন মাহরেজ]]></title>
-            <description><![CDATA[[২০২৬ ফুটবল বিশ্বকাপ] আলজেরিয়ার স্বপ্নভঙ্গের দিনে বিদায় বললেন মাহরেজ]]></description>
-            <link>https://bangla.bdnews24.com/sport/world-cup-2026/76bdd76d2250</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/world-cup-2026/76bdd76d2250</guid>
-            <pubDate>Fri, 03 Jul 2026 13:28:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/mahrez-030726-01-1783084494.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[বিশ্বকাপে ইউরোপের হাহাকার, নয়াশক্তির হুঙ্কার]]></title>
-            <description><![CDATA[[মতামত] বিশ্বকাপে ইউরোপের হাহাকার, নয়াশক্তির হুঙ্কার]]></description>
-            <link>https://bangla.bdnews24.com/opinion/427b8c088e13</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/opinion/427b8c088e13</guid>
-            <pubDate>Fri, 03 Jul 2026 13:28:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/germany-paraguay-300626-20-1782777742.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[চাঁদাবাজি ও মারধর: সাভার ছাত্রদলের বহিষ্কৃত নেতা সামির কারাগারে]]></title>
-            <description><![CDATA[[বাংলাদেশ] চাঁদাবাজি ও মারধর: সাভার ছাত্রদলের বহিষ্কৃত নেতা সামির কারাগারে]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/4433d6b62918</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/4433d6b62918</guid>
-            <pubDate>Fri, 03 Jul 2026 13:28:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/mahbub-samir-260626-01-1782495847.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ইরানের শীর্ষ আলোচকদের মারতে চেয়েছিল ইসরায়েল, তেহরানকে সতর্ক করে যুক্তরাষ্ট্র]]></title>
-            <description><![CDATA[[বিশ্ব] ইরানের শীর্ষ আলোচকদের মারতে চেয়েছিল ইসরায়েল, তেহরানকে সতর্ক করে যুক্তরাষ্ট্র]]></description>
-            <link>https://bangla.bdnews24.com/world/30d88e9d7e02</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/world/30d88e9d7e02</guid>
-            <pubDate>Fri, 03 Jul 2026 13:28:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/araghchi-and-ghalibaf-030726-01-1783084291.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[শিল্পী সমিতির ভোট: ‘আর্জেন্টিনার ম্যাচের আগেই’ ফল ঘোষণার আশা নির্বাচন কমিশনারের]]></title>
-            <description><![CDATA[[গ্লিটজ] শিল্পী সমিতির ভোট: ‘আর্জেন্টিনার ম্যাচের আগেই’ ফল ঘোষণার আশা নির্বাচন কমিশনারের]]></description>
-            <link>https://bangla.bdnews24.com/glitz/072d7d48ee89</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/glitz/072d7d48ee89</guid>
-            <pubDate>Fri, 03 Jul 2026 13:28:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/elex-fdc-030726-01-1783084228.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ময়মনসিংহে শ্রমিক নেতাকে পিটিয়ে হত্যা: প্রধান আসামি যুবদল নেতা বহিষ্কার]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] ময়মনসিংহে শ্রমিক নেতাকে পিটিয়ে হত্যা: প্রধান আসামি যুবদল নেতা বহিষ্কার]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/d9aaf51ea417</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/d9aaf51ea417</guid>
-            <pubDate>Fri, 03 Jul 2026 13:28:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/mymensingh-murder-030726-01-1783084163.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[নড়াইলে শিশুদের ফুটবল খেলা নিয়ে বিরোধ, একজনকে কুপিয়ে হত্যা]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] নড়াইলে শিশুদের ফুটবল খেলা নিয়ে বিরোধ, একজনকে কুপিয়ে হত্যা]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/7dea7c517af0</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/7dea7c517af0</guid>
-            <pubDate>Fri, 03 Jul 2026 13:28:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/narail-mauder-030726-1783083923.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[জটার স্মরণে অ্যানফিল্ডে ‘ফরএভার ২০’]]></title>
-            <description><![CDATA[[২০২৬ ফুটবল বিশ্বকাপ] জটার স্মরণে অ্যানফিল্ডে ‘ফরএভার ২০’]]></description>
-            <link>https://bangla.bdnews24.com/sport/world-cup-2026/192b6829f40c</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/world-cup-2026/192b6829f40c</guid>
-            <pubDate>Fri, 03 Jul 2026 13:28:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/jota-memorial-030726-01-1783083731.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[চলচ্চিত্রকে বাঁচাতে যোগ্য ও নিঃস্বার্থ নেতৃত্ব চান সোহেল রানা]]></title>
-            <description><![CDATA[[গ্লিটজ] চলচ্চিত্রকে বাঁচাতে যোগ্য ও নিঃস্বার্থ নেতৃত্ব চান সোহেল রানা]]></description>
-            <link>https://bangla.bdnews24.com/glitz/7e7b2a96e2ee</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/glitz/7e7b2a96e2ee</guid>
-            <pubDate>Fri, 03 Jul 2026 13:28:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sohel-rana-030626-01-1783083775.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[আদাবরে বিএনপি নেতা হত্যায় সন্দেহভাজন দুই আসামি কারাগারে]]></title>
-            <description><![CDATA[[বাংলাদেশ] আদাবরে বিএনপি নেতা হত্যায় সন্দেহভাজন দুই আসামি কারাগারে]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/80dbc062cb99</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/80dbc062cb99</guid>
-            <pubDate>Fri, 03 Jul 2026 13:28:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/abul-bashar-badsha-death-010726-1782934888.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[৩ জুলাই ২০২৬]]></title>
-            <description><![CDATA[[ছবি] ৩ জুলাই ২০২৬]]></description>
-            <link>https://bangla.bdnews24.com/media_bn/image/d023c8444eb3</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/media_bn/image/d023c8444eb3</guid>
-            <pubDate>Fri, 03 Jul 2026 13:28:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sweeper-cleaning-drain-moulvibazar-030726-002-1783083607.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[অবশেষে খামেনিকে হত্যার নিন্দা জানাল বাংলাদেশ]]></title>
-            <description><![CDATA[[বাংলাদেশ] অবশেষে খামেনিকে হত্যার নিন্দা জানাল বাংলাদেশ]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/8e466ba13c37</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/8e466ba13c37</guid>
-            <pubDate>Fri, 03 Jul 2026 13:28:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/hafiz-uddin-bagher-ghalibaf-030726-01-1783083045.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[হকি থেকে ফুটবলের ‘ওয়ান ক্লাব ম্যান’, এখন স্পেনের বিশ্বকাপ নায়ক]]></title>
-            <description><![CDATA[[২০২৬ ফুটবল বিশ্বকাপ] হকি থেকে ফুটবলের ‘ওয়ান ক্লাব ম্যান’, এখন স্পেনের বিশ্বকাপ নায়ক]]></description>
-            <link>https://bangla.bdnews24.com/sport/world-cup-2026/93d597ab2fa9</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/world-cup-2026/93d597ab2fa9</guid>
-            <pubDate>Fri, 03 Jul 2026 13:28:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/mikel-oyarzabal-goal-030726-01-1783082086.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[বড় পর্দায় বিশ্বকাপ দেখার স্থানগুলোতে নজরদারি চালাবে ডিএমপি]]></title>
-            <description><![CDATA[[বাংলাদেশ] বড় পর্দায় বিশ্বকাপ দেখার স্থানগুলোতে নজরদারি চালাবে ডিএমপি]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/8a6ddc747196</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/8a6ddc747196</guid>
-            <pubDate>Fri, 03 Jul 2026 13:28:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/brazil-vs-japan-290626-12-1782768103.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[খুলনায় ভ্যান চুরির বিরোধে একজনকে কুপিয়ে হত্যা]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] খুলনায় ভ্যান চুরির বিরোধে একজনকে কুপিয়ে হত্যা]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/9eba35a23200</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/9eba35a23200</guid>
-            <pubDate>Fri, 03 Jul 2026 13:28:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/khilna-murder-030726-1783081272.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[বিশ্বকাপ ব্যর্থতায় জার্মানিকে বিদায় বললেন নাগেলসমান]]></title>
-            <description><![CDATA[[২০২৬ ফুটবল বিশ্বকাপ] বিশ্বকাপ ব্যর্থতায় জার্মানিকে বিদায় বললেন নাগেলসমান]]></description>
-            <link>https://bangla.bdnews24.com/sport/world-cup-2026/0e4b11547c20</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/world-cup-2026/0e4b11547c20</guid>
-            <pubDate>Fri, 03 Jul 2026 13:28:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/julian-nagelsmann-030726-01-1783080981.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[সাঈদীর সাক্ষী সুখরঞ্জন বালীকে ‘অপহরণ’: সাবেক এএসপি ফজলুর রহমান কারাগারে]]></title>
-            <description><![CDATA[[বাংলাদেশ] সাঈদীর সাক্ষী সুখরঞ্জন বালীকে ‘অপহরণ’: সাবেক এএসপি ফজলুর রহমান কারাগারে]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/cd3f49d0e044</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/cd3f49d0e044</guid>
-            <pubDate>Fri, 03 Jul 2026 13:28:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026March/SM/cmm-court-dhaka-1000-1774008444.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: timeout of 65000ms exceeded]]></description>
+            <link>https://bangla.bdnews24.com</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com</guid>
+            <pubDate>Fri, 03 Jul 2026 15:47:19 GMT</pubDate>
         </item>
     </channel>
 </rss>

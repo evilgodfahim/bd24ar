@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News]]></title>
-        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
+        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Jul 2026 13:28:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jul 2026 15:47:19 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Jul 2026 13:28:05 GMT</pubDate>
+        <pubDate>Fri, 03 Jul 2026 15:47:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Bangladesh finally condemns Khamenei killing]]></title>
-            <description><![CDATA[[Bangladesh] Bangladesh finally condemns Khamenei killing]]></description>
-            <link>https://bdnews24.com/bangladesh/03acf46e925d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/03acf46e925d</guid>
-            <pubDate>Fri, 03 Jul 2026 19:10:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/hafiz-uddin-bagher-ghalibaf-030726-01-1783083045.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[DMP to monitor WC screening venues]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] DMP to monitor WC screening venues]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/bc85d265c732</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/bc85d265c732</guid>
-            <pubDate>Fri, 03 Jul 2026 18:58:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/brazil-vs-japan-290626-12-1782768103.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[World food prices ease in June: FAO]]></title>
-            <description><![CDATA[[World] World food prices ease in June: FAO]]></description>
-            <link>https://bdnews24.com/world/5020f709caa9</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/5020f709caa9</guid>
-            <pubDate>Fri, 03 Jul 2026 18:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/food-030726-1783083292.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US museums battle over America's past]]></title>
-            <description><![CDATA[[World] US museums battle over America's past]]></description>
-            <link>https://bdnews24.com/world/b7291395f126</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/b7291395f126</guid>
-            <pubDate>Fri, 03 Jul 2026 18:34:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/us-museums-030726-01-1783081964.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Martinez backs referee after Croatia thriller]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Martinez backs referee after Croatia thriller]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/6b50bd14dbb9</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/6b50bd14dbb9</guid>
-            <pubDate>Fri, 03 Jul 2026 18:16:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/martinez-backs-referee-croatia-030726-01-1783080994.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US feared Israeli plot against Iran negotiators: NYT]]></title>
-            <description><![CDATA[[West Asia] US feared Israeli plot against Iran negotiators: NYT]]></description>
-            <link>https://bdnews24.com/world/middle-east/c3fdb16216b1</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/c3fdb16216b1</guid>
-            <pubDate>Fri, 03 Jul 2026 18:12:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/iran-leaders-030726-1783080724.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Azmi among 150 ex-military officers promoted]]></title>
-            <description><![CDATA[[Bangladesh] Azmi among 150 ex-military officers promoted]]></description>
-            <link>https://bdnews24.com/bangladesh/3912594d2b3a</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3912594d2b3a</guid>
-            <pubDate>Fri, 03 Jul 2026 17:59:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/abdullahil-aman-ajmi-270426-01-1777282164.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Portugal honour Jota with emotional WC win]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Portugal honour Jota with emotional WC win]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/bac1e626a2cf</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/bac1e626a2cf</guid>
-            <pubDate>Fri, 03 Jul 2026 17:57:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/protugal-honour-jota-win-030726-01-1783079719.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Climate change fuels WC heat: scientists]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Climate change fuels WC heat: scientists]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/2b959d1c49ed</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/2b959d1c49ed</guid>
-            <pubDate>Fri, 03 Jul 2026 17:56:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/sweltering-wc-030726-01-1783079710.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Germany turn to Klopp after World Cup flop]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Germany turn to Klopp after World Cup flop]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/4dc1f80e1173</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/4dc1f80e1173</guid>
-            <pubDate>Fri, 03 Jul 2026 17:50:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/julian-nagelsmann-030726-01-1783079243.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Manzambi inspires Swiss breakthrough at WC]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Manzambi inspires Swiss breakthrough at WC]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/22bb74a06d2d</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/22bb74a06d2d</guid>
-            <pubDate>Fri, 03 Jul 2026 17:46:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/manzambi-inspires-swiss-break-030726-01-1783079086.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Swiss steel sinks Algeria to reach last 16]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Swiss steel sinks Algeria to reach last 16]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/e51cac4f82e7</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/e51cac4f82e7</guid>
-            <pubDate>Fri, 03 Jul 2026 17:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/swiss-steel-algeria-sink-030726-01-1783078780.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[From Cornish pasties to Mexico's football soul]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] From Cornish pasties to Mexico's football soul]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/1359ebd4d095</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/1359ebd4d095</guid>
-            <pubDate>Fri, 03 Jul 2026 17:38:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/from-cornish-pasties-030726-01-1783078629.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kolkata lane turns into ‘FIFA Gully’ on football fever]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Kolkata lane turns into ‘FIFA Gully’ on football fever]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/e0683e29b678</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/e0683e29b678</guid>
-            <pubDate>Fri, 03 Jul 2026 17:23:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/fifa-gully-030726-1783077688.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[DNC seizes ‘record’ shisha haul, arrests 3]]></title>
-            <description><![CDATA[[Bangladesh] DNC seizes ‘record’ shisha haul, arrests 3]]></description>
-            <link>https://bdnews24.com/bangladesh/f26584eedac6</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f26584eedac6</guid>
-            <pubDate>Fri, 03 Jul 2026 17:20:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/shisha-dnc-030726-01-1783075465.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India arrests daycare abuse suspect]]></title>
-            <description><![CDATA[[Neighbours] India arrests daycare abuse suspect]]></description>
-            <link>https://bdnews24.com/neighbours/dd9683ccf8f1</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/dd9683ccf8f1</guid>
-            <pubDate>Fri, 03 Jul 2026 17:18:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/capgemini-india-030726-01-1783077415.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles: 5 die in a day]]></title>
-            <description><![CDATA[[Health] Measles: 5 die in a day]]></description>
-            <link>https://bdnews24.com/health/adc937569109</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/adc937569109</guid>
-            <pubDate>Fri, 03 Jul 2026 17:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/measles-patient-dncc-210426-003-1776799530.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Swiss glacier melt picks up in Europe heatwave]]></title>
-            <description><![CDATA[[Europe] Swiss glacier melt picks up in Europe heatwave]]></description>
-            <link>https://bdnews24.com/world/europe/63c65e320e8f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/63c65e320e8f</guid>
-            <pubDate>Fri, 03 Jul 2026 16:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/swiss-glacier-030726-01-1783075815.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How drug gangs recruit Thai air crew as couriers]]></title>
-            <description><![CDATA[[South Asia] How drug gangs recruit Thai air crew as couriers]]></description>
-            <link>https://bdnews24.com/world/south-asia/c3c438e96dc7</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/south-asia/c3c438e96dc7</guid>
-            <pubDate>Fri, 03 Jul 2026 16:36:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/thailand-trafficking-030726-01-1783074912.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Peace’: Brazil, Argentina envoys urge fans]]></title>
-            <description><![CDATA[[Bangladesh] ‘Peace’: Brazil, Argentina envoys urge fans]]></description>
-            <link>https://bdnews24.com/bangladesh/e0307d02efe2</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e0307d02efe2</guid>
-            <pubDate>Fri, 03 Jul 2026 16:31:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/brazil-argentina-envoy-030726-01-1783073605.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: timeout of 65000ms exceeded]]></description>
+            <link>https://bdnews24.com</link>
+            <guid isPermaLink="true">https://bdnews24.com</guid>
+            <pubDate>Fri, 03 Jul 2026 15:47:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
