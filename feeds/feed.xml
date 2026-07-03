@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – Latest News]]></title>
+        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Jul 2026 08:43:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jul 2026 11:23:02 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Jul 2026 08:43:56 GMT</pubDate>
+        <pubDate>Fri, 03 Jul 2026 11:23:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
-            <link>https://bdnews24.com</link>
-            <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Fri, 03 Jul 2026 08:43:56 GMT</pubDate>
+            <title><![CDATA[DNC seizes ‘record’ shisha haul, arrests 3]]></title>
+            <description><![CDATA[[Bangladesh] DNC seizes ‘record’ shisha haul, arrests 3]]></description>
+            <link>https://bdnews24.com/bangladesh/f26584eedac6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f26584eedac6</guid>
+            <pubDate>Fri, 03 Jul 2026 17:20:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/shisha-dnc-030726-01-1783075465.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India arrests daycare abuse suspect]]></title>
+            <description><![CDATA[[Neighbours] India arrests daycare abuse suspect]]></description>
+            <link>https://bdnews24.com/neighbours/dd9683ccf8f1</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/dd9683ccf8f1</guid>
+            <pubDate>Fri, 03 Jul 2026 17:18:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/capgemini-india-030726-01-1783077415.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Measles: 5 die in a day]]></title>
+            <description><![CDATA[[Health] Measles: 5 die in a day]]></description>
+            <link>https://bdnews24.com/health/adc937569109</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/adc937569109</guid>
+            <pubDate>Fri, 03 Jul 2026 17:13:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/measles-patient-dncc-210426-003-1776799530.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Swiss glacier melt picks up in Europe heatwave]]></title>
+            <description><![CDATA[[Europe] Swiss glacier melt picks up in Europe heatwave]]></description>
+            <link>https://bdnews24.com/world/europe/63c65e320e8f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/63c65e320e8f</guid>
+            <pubDate>Fri, 03 Jul 2026 16:51:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/swiss-glacier-030726-01-1783075815.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How drug gangs recruit Thai air crew as couriers]]></title>
+            <description><![CDATA[[South Asia] How drug gangs recruit Thai air crew as couriers]]></description>
+            <link>https://bdnews24.com/world/south-asia/c3c438e96dc7</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/south-asia/c3c438e96dc7</guid>
+            <pubDate>Fri, 03 Jul 2026 16:36:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/thailand-trafficking-030726-01-1783074912.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Peace’: Brazil, Argentina envoys urge fans]]></title>
+            <description><![CDATA[[Bangladesh] ‘Peace’: Brazil, Argentina envoys urge fans]]></description>
+            <link>https://bdnews24.com/bangladesh/e0307d02efe2</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e0307d02efe2</guid>
+            <pubDate>Fri, 03 Jul 2026 16:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/brazil-argentina-envoy-030726-01-1783073605.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel leases Jerusalem land to US for $1: report]]></title>
+            <description><![CDATA[[West Asia] Israel leases Jerusalem land to US for $1: report]]></description>
+            <link>https://bdnews24.com/world/middle-east/8849ff19f373</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/8849ff19f373</guid>
+            <pubDate>Fri, 03 Jul 2026 16:05:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/west-bank-030726-1783072970.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ali Khamenei laid in state in Tehran]]></title>
+            <description><![CDATA[[West Asia] Ali Khamenei laid in state in Tehran]]></description>
+            <link>https://bdnews24.com/world/middle-east/04a0dc52beb2</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/04a0dc52beb2</guid>
+            <pubDate>Fri, 03 Jul 2026 15:35:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/khamenei-funeral-030726-1783071259.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Europe heatwave leaves 3,700 excess deaths]]></title>
+            <description><![CDATA[[Europe] Europe heatwave leaves 3,700 excess deaths]]></description>
+            <link>https://bdnews24.com/world/europe/3b1dedc0d2fe</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/3b1dedc0d2fe</guid>
+            <pubDate>Fri, 03 Jul 2026 15:24:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/heatwave-france-030726-01-1783070544.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kyiv mourns 30 killed in Russian attack]]></title>
+            <description><![CDATA[[Europe] Kyiv mourns 30 killed in Russian attack]]></description>
+            <link>https://bdnews24.com/world/europe/291da6a54910</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/291da6a54910</guid>
+            <pubDate>Fri, 03 Jul 2026 15:20:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/kyiv-attacked-030726-01-1783070339.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Moldova PM steps down]]></title>
+            <description><![CDATA[[World] Moldova PM steps down]]></description>
+            <link>https://bdnews24.com/world/60da7a56ea87</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/60da7a56ea87</guid>
+            <pubDate>Fri, 03 Jul 2026 15:19:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/moldova-pm-030726-1783070316.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Army chief returns home]]></title>
+            <description><![CDATA[[Bangladesh] Army chief returns home]]></description>
+            <link>https://bdnews24.com/bangladesh/62721adb4cb1</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/62721adb4cb1</guid>
+            <pubDate>Fri, 03 Jul 2026 15:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024October/SM/wakar-uz-zaman-151024-1728964353.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pakistan bus crash kills 40]]></title>
+            <description><![CDATA[[World] Pakistan bus crash kills 40]]></description>
+            <link>https://bdnews24.com/world/35f4ccf686c2</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/35f4ccf686c2</guid>
+            <pubDate>Fri, 03 Jul 2026 15:06:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/pakistan-030726-01-1783069705.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo's famed bookshop lands in Dhaka]]></title>
+            <description><![CDATA[[Bangladesh] Tokyo's famed bookshop lands in Dhaka]]></description>
+            <link>https://bdnews24.com/bangladesh/15494d689caf</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/15494d689caf</guid>
+            <pubDate>Fri, 03 Jul 2026 13:36:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/books-kinokunia1-020726-1783061242.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ASP arrested over Sayeedi witness ‘disappearance’]]></title>
+            <description><![CDATA[[Bangladesh] ASP arrested over Sayeedi witness ‘disappearance’]]></description>
+            <link>https://bdnews24.com/bangladesh/7cbc46c281ea</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7cbc46c281ea</guid>
+            <pubDate>Fri, 03 Jul 2026 13:06:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025August/SM/ict-sukhranjan-bali-210825-1755785349.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman found dead in Savar flat]]></title>
+            <description><![CDATA[[Bangladesh] Woman found dead in Savar flat]]></description>
+            <link>https://bdnews24.com/bangladesh/a79c139e5592</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a79c139e5592</guid>
+            <pubDate>Fri, 03 Jul 2026 12:50:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/import/media/2019/02/13/dead-body-01.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chandpur power outage: More in rural areas than urban ones]]></title>
+            <description><![CDATA[[Bangladesh] Chandpur power outage: More in rural areas than urban ones]]></description>
+            <link>https://bdnews24.com/bangladesh/db8e448b7227</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/db8e448b7227</guid>
+            <pubDate>Fri, 03 Jul 2026 12:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/chandpur-pollibidhut-030726-01-1783055278.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Monaco blast suspect faces arrest warrant]]></title>
+            <description><![CDATA[[World] Monaco blast suspect faces arrest warrant]]></description>
+            <link>https://bdnews24.com/world/e8516319189b</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e8516319189b</guid>
+            <pubDate>Fri, 03 Jul 2026 12:19:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/monaco-030726-1783059539.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Film Artiste Association polls open]]></title>
+            <description><![CDATA[[Entertainment] Film Artiste Association polls open]]></description>
+            <link>https://bdnews24.com/entertainment/c57a0e51644f</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/c57a0e51644f</guid>
+            <pubDate>Fri, 03 Jul 2026 12:03:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/movie-fdc-election-030626-01-1783054808.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Embolo, Ndoye strike as Swiss reach last 16]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Embolo, Ndoye strike as Swiss reach last 16]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/c2ac4dbf23b2</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/c2ac4dbf23b2</guid>
+            <pubDate>Fri, 03 Jul 2026 11:14:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/switzerland-030726-01-1783055082.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

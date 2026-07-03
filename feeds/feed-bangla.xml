@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ]]></title>
+        <description><![CDATA[bangla.bdnews24.com আর্কাইভ থেকে সর্বশেষ সংবাদ]]></description>
         <link>https://bangla.bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Jul 2026 08:43:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jul 2026 11:23:01 GMT</lastBuildDate>
         <atom:link href="https://bangla.bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Jul 2026 08:43:58 GMT</pubDate>
+        <pubDate>Fri, 03 Jul 2026 11:23:01 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
-            <link>https://bangla.bdnews24.com</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com</guid>
-            <pubDate>Fri, 03 Jul 2026 08:43:58 GMT</pubDate>
+            <title><![CDATA[শ্রমিকদের উত্তেজনা: জলঢাকা বাসস্ট্যান্ড এলাকায় ১৪৪ ধারা]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] শ্রমিকদের উত্তেজনা: জলঢাকা বাসস্ট্যান্ড এলাকায় ১৪৪ ধারা]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/a820b4bbd835</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/a820b4bbd835</guid>
+            <pubDate>Fri, 03 Jul 2026 11:23:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/nilphamari-144-030726-01-1783077137.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[সীমান্তে একটা বালুর উপরও পা রাখতে দেব না: জামায়াত আমির]]></title>
+            <description><![CDATA[[টিউব] সীমান্তে একটা বালুর উপরও পা রাখতে দেব না: জামায়াত আমির]]></description>
+            <link>https://bangla.bdnews24.com/tube/bfa36e507243</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/bfa36e507243</guid>
+            <pubDate>Fri, 03 Jul 2026 11:23:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/jamaat-ameer-sot-thumb-03072026-1783077101.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[সাদাপাথরে পানিতে নেমে নিখোঁজ হওয়া চিকিৎসকের মরদেহ উদ্ধার]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] সাদাপাথরে পানিতে নেমে নিখোঁজ হওয়া চিকিৎসকের মরদেহ উদ্ধার]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/9bd55656ffef</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/9bd55656ffef</guid>
+            <pubDate>Fri, 03 Jul 2026 11:23:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sylhet-deadbody-030726-01-1783076875.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘আত্মতৃপ্তি সর্বনাশের কারণ হতে পারে’, ইয়ামালদের উদ্দেশে স্পেন কোচ]]></title>
+            <description><![CDATA[[২০২৬ ফুটবল বিশ্বকাপ] ‘আত্মতৃপ্তি সর্বনাশের কারণ হতে পারে’, ইয়ামালদের উদ্দেশে স্পেন কোচ]]></description>
+            <link>https://bangla.bdnews24.com/sport/world-cup-2026/96dd5d8d48d8</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/world-cup-2026/96dd5d8d48d8</guid>
+            <pubDate>Fri, 03 Jul 2026 11:23:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/spain-030726-01-1783076414.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ফিলিস্তিনিদের বাজেয়াপ্ত জমি এক ডলারে যুক্তরাষ্ট্রকে দিল ইসরায়েল, হবে দূতাবাস]]></title>
+            <description><![CDATA[[বিশ্ব] ফিলিস্তিনিদের বাজেয়াপ্ত জমি এক ডলারে যুক্তরাষ্ট্রকে দিল ইসরায়েল, হবে দূতাবাস]]></description>
+            <link>https://bangla.bdnews24.com/world/86903e1f5af6</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/world/86903e1f5af6</guid>
+            <pubDate>Fri, 03 Jul 2026 11:23:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/west-bank-030726-1783072970.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[পিরোজপুরে বিদেশি পিস্তল ও ৪৩টি গুলিসহ আটক ৩]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] পিরোজপুরে বিদেশি পিস্তল ও ৪৩টি গুলিসহ আটক ৩]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/fc3d595e8a62</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/fc3d595e8a62</guid>
+            <pubDate>Fri, 03 Jul 2026 11:23:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/pirojpur-arrest-030726-01-1783076031.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘মেসির জন্য আলাদা পরিকল্পনা নেই’]]></title>
+            <description><![CDATA[[২০২৬ ফুটবল বিশ্বকাপ] ‘মেসির জন্য আলাদা পরিকল্পনা নেই’]]></description>
+            <link>https://bangla.bdnews24.com/sport/world-cup-2026/a356aaf6b410</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/world-cup-2026/a356aaf6b410</guid>
+            <pubDate>Fri, 03 Jul 2026 11:23:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/lionel-messi-030726-02-1783075532.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[৬৫ কেজি শিশা জব্দ: ‘ইরান থেকে শিখে এসে’ অনলাইনে দুই ভাইয়ের কারবার]]></title>
+            <description><![CDATA[[বাংলাদেশ] ৬৫ কেজি শিশা জব্দ: ‘ইরান থেকে শিখে এসে’ অনলাইনে দুই ভাইয়ের কারবার]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/2f4b4ff1f0eb</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/2f4b4ff1f0eb</guid>
+            <pubDate>Fri, 03 Jul 2026 11:23:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/shisha-dnc-030726-01-1783075465.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[হীরার প্রলেপে কমবে ডিভাইসের তাপ, বিজ্ঞানীদের নতুন উদ্ভাবন]]></title>
+            <description><![CDATA[[টেক] হীরার প্রলেপে কমবে ডিভাইসের তাপ, বিজ্ঞানীদের নতুন উদ্ভাবন]]></description>
+            <link>https://bangla.bdnews24.com/tech/0c16f33a4399</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tech/0c16f33a4399</guid>
+            <pubDate>Fri, 03 Jul 2026 11:23:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/diamond-riceuniversity-030726-01-1783075164.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[যাচ্ছিল বন্ধুর বাড়ি, পথে ট্রাকের ধাক্কায় ২ জনের প্রাণহানি]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] যাচ্ছিল বন্ধুর বাড়ি, পথে ট্রাকের ধাক্কায় ২ জনের প্রাণহানি]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/24665af1f539</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/24665af1f539</guid>
+            <pubDate>Fri, 03 Jul 2026 11:23:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025November/SM/road-accident-1000-1762332457.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[মেসি কতক্ষণ খেলবেন, বললেন না স্কালোনি]]></title>
+            <description><![CDATA[[২০২৬ ফুটবল বিশ্বকাপ] মেসি কতক্ষণ খেলবেন, বললেন না স্কালোনি]]></description>
+            <link>https://bangla.bdnews24.com/sport/world-cup-2026/d3ac4423a242</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/world-cup-2026/d3ac4423a242</guid>
+            <pubDate>Fri, 03 Jul 2026 11:23:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/lionel-messi-030726-01-1783074711.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘মারামারি নয়, খেলাটা উপভোগ করুন’: শান্তির বার্তা ব্রাজিল ও আর্জেন্টিনার দূতের]]></title>
+            <description><![CDATA[[বাংলাদেশ] ‘মারামারি নয়, খেলাটা উপভোগ করুন’: শান্তির বার্তা ব্রাজিল ও আর্জেন্টিনার দূতের]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/2d521573efe8</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/2d521573efe8</guid>
+            <pubDate>Fri, 03 Jul 2026 11:23:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/brazil-argentina-envoy-030726-01-1783073605.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘সমর্থকরাই আমাদের দ্বাদশ খেলোয়াড়’]]></title>
+            <description><![CDATA[[২০২৬ ফুটবল বিশ্বকাপ] ‘সমর্থকরাই আমাদের দ্বাদশ খেলোয়াড়’]]></description>
+            <link>https://bangla.bdnews24.com/sport/world-cup-2026/750f34dfa102</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/world-cup-2026/750f34dfa102</guid>
+            <pubDate>Fri, 03 Jul 2026 11:23:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/argentina-030726-01-1783073467.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[গাইবান্ধায় ট্রাকের চাকায় পিষ্ট হয়ে নিহত মোটরসাইকেল আরোহী]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] গাইবান্ধায় ট্রাকের চাকায় পিষ্ট হয়ে নিহত মোটরসাইকেল আরোহী]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/473ff50b3a72</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/473ff50b3a72</guid>
+            <pubDate>Fri, 03 Jul 2026 11:23:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025January/SM/dead-body-1000-1736086089.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বেচে দেওয়া জার্সি ফেরত পেতে হিলের সামনে কঠিন শর্ত]]></title>
+            <description><![CDATA[[২০২৬ ফুটবল বিশ্বকাপ] বেচে দেওয়া জার্সি ফেরত পেতে হিলের সামনে কঠিন শর্ত]]></description>
+            <link>https://bangla.bdnews24.com/sport/world-cup-2026/ac5ef6c88e02</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/world-cup-2026/ac5ef6c88e02</guid>
+            <pubDate>Fri, 03 Jul 2026 11:23:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/orlando-gill-030726-01-1783073004.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘ফ্রান্সের বিপক্ষে বিধ্বস্ত হবে প‍্যারাগুয়ে’]]></title>
+            <description><![CDATA[[২০২৬ ফুটবল বিশ্বকাপ] ‘ফ্রান্সের বিপক্ষে বিধ্বস্ত হবে প‍্যারাগুয়ে’]]></description>
+            <link>https://bangla.bdnews24.com/sport/world-cup-2026/4c7539f4c3d5</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/world-cup-2026/4c7539f4c3d5</guid>
+            <pubDate>Fri, 03 Jul 2026 11:23:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/france-030726-01-1783072378.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[খুলনায় বেড়িবাঁধে অবৈধ পাইপ, সংস্কারের মধ্যেই ধস]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] খুলনায় বেড়িবাঁধে অবৈধ পাইপ, সংস্কারের মধ্যেই ধস]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/8cbbc275ad96</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/8cbbc275ad96</guid>
+            <pubDate>Fri, 03 Jul 2026 11:23:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/khulna-beribad-030706-01-1783072249.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[মেয়েদের কী আসলেই শীত বেশি লাগে? কারণ কী?]]></title>
+            <description><![CDATA[[টেক] মেয়েদের কী আসলেই শীত বেশি লাগে? কারণ কী?]]></description>
+            <link>https://bangla.bdnews24.com/tech/6eca97f9facb</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tech/6eca97f9facb</guid>
+            <pubDate>Fri, 03 Jul 2026 11:23:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/womencold-ai-030726-01-1783070440.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[শুধু আর্জেন্টিনা-ব্রাজিল নিয়ে মাতামাতি নয়, তরুণদের উদ্ভাবনে আসতে হবে: মির্জা ফখরুল]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] শুধু আর্জেন্টিনা-ব্রাজিল নিয়ে মাতামাতি নয়, তরুণদের উদ্ভাবনে আসতে হবে: মির্জা ফখরুল]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/d456fa62292d</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/d456fa62292d</guid>
+            <pubDate>Fri, 03 Jul 2026 11:23:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/thakurgaon-mirza-fakhrul-030726-1783070178.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[শিল্পী সমিতির নির্বাচন: নামাজের বিরতিতে ভেতরে লোক রেখে তালা দেওয়ার অভিযোগ]]></title>
+            <description><![CDATA[[গ্লিটজ] শিল্পী সমিতির নির্বাচন: নামাজের বিরতিতে ভেতরে লোক রেখে তালা দেওয়ার অভিযোগ]]></description>
+            <link>https://bangla.bdnews24.com/glitz/16da05db78be</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/glitz/16da05db78be</guid>
+            <pubDate>Fri, 03 Jul 2026 11:23:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/rumana-islam-mukti-030626-01-1783070034.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
