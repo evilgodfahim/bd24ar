@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ]]></title>
+        <description><![CDATA[bangla.bdnews24.com আর্কাইভ থেকে সর্বশেষ সংবাদ]]></description>
         <link>https://bangla.bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Jul 2026 16:49:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jul 2026 17:52:55 GMT</lastBuildDate>
         <atom:link href="https://bangla.bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Jul 2026 16:49:44 GMT</pubDate>
+        <pubDate>Sat, 04 Jul 2026 17:52:55 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
-            <link>https://bangla.bdnews24.com</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com</guid>
-            <pubDate>Sat, 04 Jul 2026 16:49:44 GMT</pubDate>
+            <title><![CDATA[জার্মানির কট্টর ডানপন্থি দলের বিরুদ্ধে বড় ধরনের বিক্ষোভ]]></title>
+            <description><![CDATA[[বিশ্ব] জার্মানির কট্টর ডানপন্থি দলের বিরুদ্ধে বড় ধরনের বিক্ষোভ]]></description>
+            <link>https://bangla.bdnews24.com/world/24c75f2f6f01</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/world/24c75f2f6f01</guid>
+            <pubDate>Sat, 04 Jul 2026 17:52:55 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/germany-afd-protest-04072026-01-1783178650.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[দক্ষিণ সুরমা সরকারি কলেজের বার্ষিক প্রকাশনা ‘দখিনা'র মোড়ক উন্মোচন]]></title>
+            <description><![CDATA[[ভিডিও(হ্যালো)] দক্ষিণ সুরমা সরকারি কলেজের বার্ষিক প্রকাশনা ‘দখিনা'র মোড়ক উন্মোচন]]></description>
+            <link>https://bangla.bdnews24.com/hello/hello-video/34eb91e2464c</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/hello/hello-video/34eb91e2464c</guid>
+            <pubDate>Sat, 04 Jul 2026 17:52:55 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ws-magazine-dokhina-thum-1783184696.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বাউল-ফকিরদের চুল কেটে দেওয়ার অভিযোগ তদন্তের নির্দেশ]]></title>
+            <description><![CDATA[[বাংলাদেশ] বাউল-ফকিরদের চুল কেটে দেওয়ার অভিযোগ তদন্তের নির্দেশ]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/935d403cd140</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/935d403cd140</guid>
+            <pubDate>Sat, 04 Jul 2026 17:52:55 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025September/SM/barbar-ask-reaction-250925-01-1758810382.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[নেত্রকোণা সীমান্তে অবিস্ফোরিত মর্টার শেল উদ্ধার]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] নেত্রকোণা সীমান্তে অবিস্ফোরিত মর্টার শেল উদ্ধার]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/e9384e75e47f</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/e9384e75e47f</guid>
+            <pubDate>Sat, 04 Jul 2026 17:52:55 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/netrokona-mortar-shell-040726-01-1783186513.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ভূরুঙ্গামারীতে ভাঙা সেতুতে ঝুঁকিপূর্ণ চলাচল]]></title>
+            <description><![CDATA[[ভিডিও(হ্যালো)] ভূরুঙ্গামারীতে ভাঙা সেতুতে ঝুঁকিপূর্ণ চলাচল]]></description>
+            <link>https://bangla.bdnews24.com/hello/hello-video/f06750f39574</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/hello/hello-video/f06750f39574</guid>
+            <pubDate>Sat, 04 Jul 2026 17:52:55 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ws-kurigram-risky-bridge-thum-1783184227.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বাংলাদেশ-যুক্তরাষ্ট্র একে অপরের ইতিহাস নির্মাণে সহায়তা করেছে: ডেপুটি স্পিকার]]></title>
+            <description><![CDATA[[বাংলাদেশ] বাংলাদেশ-যুক্তরাষ্ট্র একে অপরের ইতিহাস নির্মাণে সহায়তা করেছে: ডেপুটি স্পিকার]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/60badc278052</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/60badc278052</guid>
+            <pubDate>Sat, 04 Jul 2026 17:52:55 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/kaiser-kamal-deputy-speaker-040726-1783186034.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ভারতের বিপক্ষে আবার উত্তাল বেথেলের ব্যাট, সিরিজে এগিয়ে ইংল্যান্ড]]></title>
+            <description><![CDATA[[ক্রিকেট] ভারতের বিপক্ষে আবার উত্তাল বেথেলের ব্যাট, সিরিজে এগিয়ে ইংল্যান্ড]]></description>
+            <link>https://bangla.bdnews24.com/cricket/cd9f5ba2dcc3</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/cricket/cd9f5ba2dcc3</guid>
+            <pubDate>Sat, 04 Jul 2026 17:52:55 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/jacob-bethell-040726-01-1783185897.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বগুড়ার সার্কাসের সেই অসুস্থ হাতিটি প্রধানমন্ত্রীর নির্দেশে জাতীয় চিড়িয়াখানায়]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] বগুড়ার সার্কাসের সেই অসুস্থ হাতিটি প্রধানমন্ত্রীর নির্দেশে জাতীয় চিড়িয়াখানায়]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/abe4573eb333</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/abe4573eb333</guid>
+            <pubDate>Sat, 04 Jul 2026 17:52:55 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bogra-eliphant-040726-01-1783185384.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[নেত্রকোণা মেডিকেল কলেজের স্থায়ী ক্যাম্পাসের দাবিতে মানববন্ধন]]></title>
+            <description><![CDATA[[ভিডিও(হ্যালো)] নেত্রকোণা মেডিকেল কলেজের স্থায়ী ক্যাম্পাসের দাবিতে মানববন্ধন]]></description>
+            <link>https://bangla.bdnews24.com/hello/hello-video/28e84fbe08ed</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/hello/hello-video/28e84fbe08ed</guid>
+            <pubDate>Sat, 04 Jul 2026 17:52:55 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ws-college-campus-demands-thum-1783183947.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[নারায়ণগঞ্জে হত্যা মামলায় এনসিপির সাবেক নেতা গ্রেপ্তার]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] নারায়ণগঞ্জে হত্যা মামলায় এনসিপির সাবেক নেতা গ্রেপ্তার]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/2e969c49c3d0</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/2e969c49c3d0</guid>
+            <pubDate>Sat, 04 Jul 2026 17:52:55 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/narayangonj-ncp-arrest-040726-01-1783184460.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[যুক্তরাষ্ট্রের স্বাধীনতা দিবস: ট্রাম্পকে শুভেচ্ছা জানিয়ে প্রধানমন্ত্রীর চিঠি]]></title>
+            <description><![CDATA[[বাংলাদেশ] যুক্তরাষ্ট্রের স্বাধীনতা দিবস: ট্রাম্পকে শুভেচ্ছা জানিয়ে প্রধানমন্ত্রীর চিঠি]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/bffeed8331ed</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/bffeed8331ed</guid>
+            <pubDate>Sat, 04 Jul 2026 17:52:55 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026February/SM/trump-tarique-190226-01-1771503307.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[সবুজে ঘেরা রাজশাহী বিশ্ববিদ্যালয়]]></title>
+            <description><![CDATA[[ভিডিও(হ্যালো)] সবুজে ঘেরা রাজশাহী বিশ্ববিদ্যালয়]]></description>
+            <link>https://bangla.bdnews24.com/hello/hello-video/4c7027657b9d</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/hello/hello-video/4c7027657b9d</guid>
+            <pubDate>Sat, 04 Jul 2026 17:52:55 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ws-ru-green-campus-thum-1783183477.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[সেরেনার চোটে উইম্বলডনের দ্বৈতে খেলা হচ্ছে না উইলিয়ামস বোনদের]]></title>
+            <description><![CDATA[[খেলা] সেরেনার চোটে উইম্বলডনের দ্বৈতে খেলা হচ্ছে না উইলিয়ামস বোনদের]]></description>
+            <link>https://bangla.bdnews24.com/sport/24f469aafc2f</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/24f469aafc2f</guid>
+            <pubDate>Sat, 04 Jul 2026 17:52:55 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/serena-williams-040726-01-1783182758.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[খামেনিকে শেষ বিদায় জানাতে তেহরানে জনতার ঢল]]></title>
+            <description><![CDATA[[টিউব] খামেনিকে শেষ বিদায় জানাতে তেহরানে জনতার ঢল]]></description>
+            <link>https://bangla.bdnews24.com/tube/38ebc0a955fa</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/38ebc0a955fa</guid>
+            <pubDate>Sat, 04 Jul 2026 17:52:55 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/khamenei-video-text-thum-1783182444.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বিএসবিআরএ সভাপতি হলেন মোহাম্মদ মহসিন]]></title>
+            <description><![CDATA[[বাণিজ্য] বিএসবিআরএ সভাপতি হলেন মোহাম্মদ মহসিন]]></description>
+            <link>https://bangla.bdnews24.com/business/5da7145f5cc9</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/business/5da7145f5cc9</guid>
+            <pubDate>Sat, 04 Jul 2026 17:52:55 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/chattogram-bsbra-president-mohammed-mohsin-040726-1-1783182078.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[চায়ের কাপ থেকে নৌযান: ফুটবল বিশ্বকাপের আমেজ সবখানে]]></title>
+            <description><![CDATA[[বাংলাদেশ] চায়ের কাপ থেকে নৌযান: ফুটবল বিশ্বকাপের আমেজ সবখানে]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/3e0cddcc3bbf</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/3e0cddcc3bbf</guid>
+            <pubDate>Sat, 04 Jul 2026 17:52:55 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/flag-fifa-world-cup-030726-015-1783181482.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[তারেক রহমানই তিস্তা মহাপরিকল্পনা বাস্তবায়ন করবেন: মির্জা ফখরুল]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] তারেক রহমানই তিস্তা মহাপরিকল্পনা বাস্তবায়ন করবেন: মির্জা ফখরুল]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/59f9bee7c37d</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/59f9bee7c37d</guid>
+            <pubDate>Sat, 04 Jul 2026 17:52:55 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/lalmonirhat-fakhrul-islam-040726-01-1783181299.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[জুলাই অভ্যুত্থান: এক মাসের কর্মসূচি ইসলামী আন্দোলনের]]></title>
+            <description><![CDATA[[রাজনীতি] জুলাই অভ্যুত্থান: এক মাসের কর্মসূচি ইসলামী আন্দোলনের]]></description>
+            <link>https://bangla.bdnews24.com/politics/56a267626368</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/politics/56a267626368</guid>
+            <pubDate>Sat, 04 Jul 2026 17:52:55 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/islami-andolon-040626-01-1783181228.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[এই সরকারের সময়েই ঢাকা-চট্টগ্রাম মহাসড়ক ১০ লেন: গণপূর্তমন্ত্রী]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] এই সরকারের সময়েই ঢাকা-চট্টগ্রাম মহাসড়ক ১০ লেন: গণপূর্তমন্ত্রী]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/1b2b20ca333c</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/1b2b20ca333c</guid>
+            <pubDate>Sat, 04 Jul 2026 17:52:55 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/comilla-minister-suman-040726-01-1783181101.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বাংলাদেশ ও যুক্তরাষ্ট্রের সম্পর্ক আরো জোরদারের প্রতিশ্রুতি অ্যামচ্যামের]]></title>
+            <description><![CDATA[[বাণিজ্য] বাংলাদেশ ও যুক্তরাষ্ট্রের সম্পর্ক আরো জোরদারের প্রতিশ্রুতি অ্যামচ্যামের]]></description>
+            <link>https://bangla.bdnews24.com/business/52fdda6cda01</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/business/52fdda6cda01</guid>
+            <pubDate>Sat, 04 Jul 2026 17:52:55 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/amcham-and-usa-ambassy-program-04072026-1783181087.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

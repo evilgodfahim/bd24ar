@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – Latest News]]></title>
+        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Jul 2026 16:49:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jul 2026 17:52:55 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Jul 2026 16:49:44 GMT</pubDate>
+        <pubDate>Sat, 04 Jul 2026 17:52:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
-            <link>https://bdnews24.com</link>
-            <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Sat, 04 Jul 2026 16:49:44 GMT</pubDate>
+            <title><![CDATA[Gaza mothers believe IDF abused their son]]></title>
+            <description><![CDATA[[World] Gaza mothers believe IDF abused their son]]></description>
+            <link>https://bdnews24.com/world/4ce7f4b4f788</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/4ce7f4b4f788</guid>
+            <pubDate>Sat, 04 Jul 2026 23:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/gaza-mothers-idf-04072026-01-1783186737.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Argentina edge Cape Verde, but doubts remain]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Argentina edge Cape Verde, but doubts remain]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/6b1dc3abf17e</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/6b1dc3abf17e</guid>
+            <pubDate>Sat, 04 Jul 2026 23:34:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/lionel-messi-040726-01-1783186368.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[St Petersburg oil terminal hit in Ukraine attack]]></title>
+            <description><![CDATA[[World] St Petersburg oil terminal hit in Ukraine attack]]></description>
+            <link>https://bdnews24.com/world/d6c141df9ed1</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/d6c141df9ed1</guid>
+            <pubDate>Sat, 04 Jul 2026 23:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/st-petersburg-strike-04072026-01-1783186261.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Davies benched for Canada-Morocco clash]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Davies benched for Canada-Morocco clash]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/4eab2c8a5fa5</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/4eab2c8a5fa5</guid>
+            <pubDate>Sat, 04 Jul 2026 23:14:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/canada-players-040726-01-1783185245.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel must not scupper US-Iran deal: Erdogan]]></title>
+            <description><![CDATA[[World] Israel must not scupper US-Iran deal: Erdogan]]></description>
+            <link>https://bdnews24.com/world/40598fb7bf9b</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/40598fb7bf9b</guid>
+            <pubDate>Sat, 04 Jul 2026 23:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/israel-erdogan-04072026-01-1783184342.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[AmCham vows to boost environment for US investors]]></title>
+            <description><![CDATA[[Business] AmCham vows to boost environment for US investors]]></description>
+            <link>https://bdnews24.com/business/aef53ce866fa</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/aef53ce866fa</guid>
+            <pubDate>Sat, 04 Jul 2026 22:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/amcham-and-usa-ambassy-program-04072026-1783181087.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump rails at communism in US 250th celebration]]></title>
+            <description><![CDATA[[World] Trump rails at communism in US 250th celebration]]></description>
+            <link>https://bdnews24.com/world/167c67eef6ae</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/167c67eef6ae</guid>
+            <pubDate>Sat, 04 Jul 2026 22:17:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/trump-communism-04072026-01-1783181780.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh war hero gets rid of 1971 battle bullet]]></title>
+            <description><![CDATA[[Bangladesh] Bangladesh war hero gets rid of 1971 battle bullet]]></description>
+            <link>https://bdnews24.com/bangladesh/607c8a7e3bca</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/607c8a7e3bca</guid>
+            <pubDate>Sat, 04 Jul 2026 22:14:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/netrakona-oparation-040726-01-1783178258.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Khamenei funeral projects hardline grip on post-war Iran]]></title>
+            <description><![CDATA[[World] Khamenei funeral projects hardline grip on post-war Iran]]></description>
+            <link>https://bdnews24.com/world/7c03cd0f6479</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/7c03cd0f6479</guid>
+            <pubDate>Sat, 04 Jul 2026 22:10:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/khamenei-funeral-04072026-01-1783181354.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sky-blue, white dominate Dhaka University]]></title>
+            <description><![CDATA[[Image] Sky-blue, white dominate Dhaka University]]></description>
+            <link>https://bdnews24.com/media-en/image/1db8133fb3ba</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/1db8133fb3ba</guid>
+            <pubDate>Sat, 04 Jul 2026 21:59:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/argentina-cape-verde-040726-003-1783173291.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[July 4, 2026]]></title>
+            <description><![CDATA[[Image] July 4, 2026]]></description>
+            <link>https://bdnews24.com/media-en/image/563e2196ff0f</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/563e2196ff0f</guid>
+            <pubDate>Sat, 04 Jul 2026 21:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/hot-weather-bird-bath-chattogram-040626-13-1783171600.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[HC issues rule over forced shaving of Bauls]]></title>
+            <description><![CDATA[[Bangladesh] HC issues rule over forced shaving of Bauls]]></description>
+            <link>https://bdnews24.com/bangladesh/13201d3f7182</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/13201d3f7182</guid>
+            <pubDate>Sat, 04 Jul 2026 21:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024July/SM/high-court-mm-1722173343.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Journalist, teacher Shahed Kamal dies]]></title>
+            <description><![CDATA[[Bangladesh] Journalist, teacher Shahed Kamal dies]]></description>
+            <link>https://bdnews24.com/bangladesh/ac8d36cfaf23</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ac8d36cfaf23</guid>
+            <pubDate>Sat, 04 Jul 2026 21:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/shahed-kamal-death-040726-03-1783174429.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thousands protest in Germany as AfD eyes power]]></title>
+            <description><![CDATA[[World] Thousands protest in Germany as AfD eyes power]]></description>
+            <link>https://bdnews24.com/world/7bf6bac40bb0</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/7bf6bac40bb0</guid>
+            <pubDate>Sat, 04 Jul 2026 21:25:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/germany-afd-protest-04072026-01-1783178650.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flags, fandom and football fever]]></title>
+            <description><![CDATA[[Image] Flags, fandom and football fever]]></description>
+            <link>https://bdnews24.com/media-en/image/4fb87fbfc699</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/4fb87fbfc699</guid>
+            <pubDate>Sat, 04 Jul 2026 21:08:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/fifa-world-cup-030726-050-1783093855.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sooryavashi makes senior debut]]></title>
+            <description><![CDATA[[Cricket] Sooryavashi makes senior debut]]></description>
+            <link>https://bdnews24.com/cricket/d6ce3d470025</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/d6ce3d470025</guid>
+            <pubDate>Sat, 04 Jul 2026 20:44:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/cricket-sooryavanshi-040726-01-1783176189.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Restart factories quickly: PM]]></title>
+            <description><![CDATA[[Business] Restart factories quickly: PM]]></description>
+            <link>https://bdnews24.com/business/48023d27f4cb</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/48023d27f4cb</guid>
+            <pubDate>Sat, 04 Jul 2026 20:42:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/tarique-rahman-pm-040627-1783173944.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Meghan, children to skip Harry's London trip]]></title>
+            <description><![CDATA[[World] Meghan, children to skip Harry's London trip]]></description>
+            <link>https://bdnews24.com/world/ed4fc62007cd</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ed4fc62007cd</guid>
+            <pubDate>Sat, 04 Jul 2026 20:34:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/prince-harry-040726-01-1783175542.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Meet youngest Indian male cricketers]]></title>
+            <description><![CDATA[[Cricket] Meet youngest Indian male cricketers]]></description>
+            <link>https://bdnews24.com/cricket/d68a7d9bc342</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/d68a7d9bc342</guid>
+            <pubDate>Sat, 04 Jul 2026 20:02:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/vaibhav-sooryavanshi-04072026-1783173696.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Padma may swell for 5 days]]></title>
+            <description><![CDATA[[Bangladesh] Padma may swell for 5 days]]></description>
+            <link>https://bdnews24.com/bangladesh/a80c4deec391</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a80c4deec391</guid>
+            <pubDate>Sat, 04 Jul 2026 19:38:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/rajbari-pangsha-padma-160526-04-1778958889.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
