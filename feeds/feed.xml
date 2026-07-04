@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Jul 2026 22:43:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jul 2026 23:50:35 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Jul 2026 22:43:54 GMT</pubDate>
+        <pubDate>Sat, 04 Jul 2026 23:50:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Mbappe spot-kick sends France past Paraguay]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Mbappe spot-kick sends France past Paraguay]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/5e0e82452cac</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/5e0e82452cac</guid>
+            <pubDate>Sun, 05 Jul 2026 05:28:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/kylian-mbappe-050726-01-1783207630.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Taylor Swift wed in intimate arena: guests]]></title>
             <description><![CDATA[[Entertainment] Taylor Swift wed in intimate arena: guests]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/7c03cd0f6479</guid>
             <pubDate>Sat, 04 Jul 2026 22:10:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/khamenei-funeral-04072026-01-1783181354.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sky-blue, white dominate Dhaka University]]></title>
-            <description><![CDATA[[Image] Sky-blue, white dominate Dhaka University]]></description>
-            <link>https://bdnews24.com/media-en/image/1db8133fb3ba</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/1db8133fb3ba</guid>
-            <pubDate>Sat, 04 Jul 2026 21:59:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/argentina-cape-verde-040726-003-1783173291.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
