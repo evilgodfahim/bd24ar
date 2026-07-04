@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Jul 2026 10:46:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jul 2026 11:59:46 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Jul 2026 10:46:15 GMT</pubDate>
+        <pubDate>Sat, 04 Jul 2026 11:59:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump to fete US 250th with Mall rally]]></title>
+            <description><![CDATA[[Americas] Trump to fete US 250th with Mall rally]]></description>
+            <link>https://bdnews24.com/world/americas/3c029343f852</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/3c029343f852</guid>
+            <pubDate>Sat, 04 Jul 2026 17:34:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/trump-rally-040726-01-1783164840.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Madonna releases 'Confessions II']]></title>
+            <description><![CDATA[[Entertainment] Madonna releases 'Confessions II']]></description>
+            <link>https://bdnews24.com/entertainment/97f22f7d3eae</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/97f22f7d3eae</guid>
+            <pubDate>Sat, 04 Jul 2026 17:28:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/madonna-album-040726-01-1783164345.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anti-AfD protesters rally across Germany]]></title>
+            <description><![CDATA[[Europe] Anti-AfD protesters rally across Germany]]></description>
+            <link>https://bdnews24.com/world/europe/17f9355a05e9</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/17f9355a05e9</guid>
+            <pubDate>Sat, 04 Jul 2026 17:23:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/germany-afd-040726-01-1783164107.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM urges nation to unite for progress]]></title>
+            <description><![CDATA[[Bangladesh] PM urges nation to unite for progress]]></description>
+            <link>https://bdnews24.com/bangladesh/90f0df5cd95c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/90f0df5cd95c</guid>
+            <pubDate>Sat, 04 Jul 2026 17:21:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/tarique-rahman-040726-04-1783160858.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tiny coffin beside Khamenei's]]></title>
+            <description><![CDATA[[West Asia] Tiny coffin beside Khamenei's]]></description>
+            <link>https://bdnews24.com/world/middle-east/47c73ef21f51</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/47c73ef21f51</guid>
+            <pubDate>Sat, 04 Jul 2026 16:50:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/zahra-mohammadi-golpayegani-coffin-040726-1783152406.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Ochoa lookalikes chase free pizza]]></title>
             <description><![CDATA[[2026 FIFA World Cup] Ochoa lookalikes chase free pizza]]></description>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/d40422c94841</guid>
             <pubDate>Sat, 04 Jul 2026 12:29:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/balogun-us-020726-1782983540.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heatwave hits Fourth of July across US]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Heatwave hits Fourth of July across US]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/438908fcdab8</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/438908fcdab8</guid>
-            <pubDate>Sat, 04 Jul 2026 12:26:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/us-heatwave-040726-1783146291.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Russia claims capture of Kostiantynivka]]></title>
-            <description><![CDATA[[Europe] Russia claims capture of Kostiantynivka]]></description>
-            <link>https://bdnews24.com/world/europe/d91363676609</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/d91363676609</guid>
-            <pubDate>Sat, 04 Jul 2026 12:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/putin-040726-1783145403.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Houthis warn Saudi over Iran flight]]></title>
-            <description><![CDATA[[West Asia] Houthis warn Saudi over Iran flight]]></description>
-            <link>https://bdnews24.com/world/middle-east/1a470ea73912</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/1a470ea73912</guid>
-            <pubDate>Sat, 04 Jul 2026 11:46:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/houthis-040726-1783143921.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scaloni hails Argentina's grit]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Scaloni hails Argentina's grit]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/113ebec94b11</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/113ebec94b11</guid>
-            <pubDate>Sat, 04 Jul 2026 11:45:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/arg-coach-040726-1783143813.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US-Iran war trails 1979 oil shock]]></title>
-            <description><![CDATA[[World] US-Iran war trails 1979 oil shock]]></description>
-            <link>https://bdnews24.com/world/669b005d590a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/669b005d590a</guid>
-            <pubDate>Sat, 04 Jul 2026 11:32:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/iran-oil-040726-1783142996.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
