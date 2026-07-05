@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Jul 2026 20:05:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jul 2026 21:47:27 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Jul 2026 20:05:10 GMT</pubDate>
+        <pubDate>Sun, 05 Jul 2026 21:47:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump's call overturns US striker's red-card suspension]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Trump's call overturns US striker's red-card suspension]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/14913be47d0c</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/14913be47d0c</guid>
+            <pubDate>Mon, 06 Jul 2026 03:17:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/trump-infantino-050726-01-1783286237.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Can Bangladesh afford dignified old age?]]></title>
+            <description><![CDATA[[Bangladesh] Can Bangladesh afford dignified old age?]]></description>
+            <link>https://bdnews24.com/bangladesh/a034a9ba13b5</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a034a9ba13b5</guid>
+            <pubDate>Mon, 06 Jul 2026 02:24:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/old-age-allowance-190626-01-1783277768.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Osaka stuns top seed Sabalenka at Wimbledon]]></title>
             <description><![CDATA[[Sport] Osaka stuns top seed Sabalenka at Wimbledon]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/cricket/22a5ef957b56</guid>
             <pubDate>Sun, 05 Jul 2026 21:35:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/papon-1000-1783262923.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Deschamps stays calm as France prevail]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Deschamps stays calm as France prevail]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/cc6c515072e5</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/cc6c515072e5</guid>
-            <pubDate>Sun, 05 Jul 2026 21:22:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/didier-deschamps-050726-01-1783264856.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taiwan revives 'anti-communist' military classes]]></title>
-            <description><![CDATA[[Asia Pacific] Taiwan revives 'anti-communist' military classes]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/71d4a404d1b7</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/71d4a404d1b7</guid>
-            <pubDate>Sun, 05 Jul 2026 21:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/taiwan-anti-communist-class-05072026-01-1783264242.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
