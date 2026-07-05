@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Jul 2026 05:51:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jul 2026 08:36:02 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Jul 2026 05:51:39 GMT</pubDate>
+        <pubDate>Sun, 05 Jul 2026 08:36:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No photo of PM on banner in govt events: Cabinet Division]]></title>
+            <description><![CDATA[[Bangladesh] No photo of PM on banner in govt events: Cabinet Division]]></description>
+            <link>https://bdnews24.com/bangladesh/c41c13aa1bed</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c41c13aa1bed</guid>
+            <pubDate>Sun, 05 Jul 2026 13:59:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/tarique-rahman-banner-050726-01-1783236539.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Renaissance Dhaka introduces ASEAN Weekend Theme Nights]]></title>
+            <description><![CDATA[[Lifestyle] Renaissance Dhaka introduces ASEAN Weekend Theme Nights]]></description>
+            <link>https://bdnews24.com/lifestyle/d72ad502421e</link>
+            <guid isPermaLink="true">https://bdnews24.com/lifestyle/d72ad502421e</guid>
+            <pubDate>Sun, 05 Jul 2026 13:27:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/asean-weekend-theme-nights-1783236365.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Well-marked low intensifies into depression]]></title>
+            <description><![CDATA[[Bangladesh] Well-marked low intensifies into depression]]></description>
+            <link>https://bdnews24.com/bangladesh/48c11319673f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/48c11319673f</guid>
+            <pubDate>Sun, 05 Jul 2026 13:19:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/imd-satellite-image-050726-01-1783235055.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Measles: Plea to file case against Yunus, Nurjahan]]></title>
+            <description><![CDATA[[Bangladesh] Measles: Plea to file case against Yunus, Nurjahan]]></description>
+            <link>https://bdnews24.com/bangladesh/f8a7bd3220ac</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f8a7bd3220ac</guid>
+            <pubDate>Sun, 05 Jul 2026 13:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/muhammad-yunus-080626-01-1780898733.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Millions gather in Tehran for Khamenei's funeral]]></title>
+            <description><![CDATA[[West Asia] Millions gather in Tehran for Khamenei's funeral]]></description>
+            <link>https://bdnews24.com/world/middle-east/407e7916844c</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/407e7916844c</guid>
+            <pubDate>Sun, 05 Jul 2026 13:08:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/iran-khamenei-funeral-050726-01-1783235218.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canadian-Bangladeshi in top 5 in Favorite Chef competition]]></title>
+            <description><![CDATA[[Lifestyle] Canadian-Bangladeshi in top 5 in Favorite Chef competition]]></description>
+            <link>https://bdnews24.com/lifestyle/ac098950f4f2</link>
+            <guid isPermaLink="true">https://bdnews24.com/lifestyle/ac098950f4f2</guid>
+            <pubDate>Sun, 05 Jul 2026 12:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/canadian-bangladeshi-chef-050726-01-1783233591.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Three-wheeler driver killed in Khulna]]></title>
             <description><![CDATA[[Bangladesh] Three-wheeler driver killed in Khulna]]></description>
@@ -17,16 +65,8 @@
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dighalia-thana-050726-1783223769.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Mexico look to make history vs England]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Mexico look to make history vs England]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/33ccdff4cbe3</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/33ccdff4cbe3</guid>
-            <pubDate>Sun, 05 Jul 2026 11:21:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/football-050726-1783228434.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brazil's YouTube Boom Challenges TV]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Brazil's YouTube Boom Challenges TV]]></description>
+            <title><![CDATA[Brazil's YouTube boom challenges TV]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Brazil's YouTube boom challenges TV]]></description>
             <link>https://bdnews24.com/sport/world-cup-2026/0a9d504aa65e</link>
             <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/0a9d504aa65e</guid>
             <pubDate>Sun, 05 Jul 2026 11:11:00 GMT</pubDate>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/cc7184835b5e</guid>
             <pubDate>Sun, 05 Jul 2026 09:08:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/england-mexico-tuchel-050726-01-1783220916.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ancelotti hopeful of Raphinha return against Norway]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Ancelotti hopeful of Raphinha return against Norway]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/a111c19b9c61</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/a111c19b9c61</guid>
-            <pubDate>Sun, 05 Jul 2026 09:02:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/brazil-ancelotti-raphinha-050726-01-1783220481.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump vows Jul 4 speech will happen 'no matter what']]></title>
-            <description><![CDATA[[Americas] Trump vows Jul 4 speech will happen 'no matter what']]></description>
-            <link>https://bdnews24.com/world/americas/19b79017b7df</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/19b79017b7df</guid>
-            <pubDate>Sun, 05 Jul 2026 08:45:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/trump-jul-4-050726-01-1783219492.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump offers to help Putin find deal with Ukraine]]></title>
-            <description><![CDATA[[Europe] Trump offers to help Putin find deal with Ukraine]]></description>
-            <link>https://bdnews24.com/world/europe/bdfdc9152375</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/bdfdc9152375</guid>
-            <pubDate>Sun, 05 Jul 2026 08:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/trump-putin-ukraine-050726-01-1783219242.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[GD filed against 6 over July movement ‘disinformation’]]></title>
-            <description><![CDATA[[Bangladesh] GD filed against 6 over July movement ‘disinformation’]]></description>
-            <link>https://bdnews24.com/bangladesh/a7631078ea54</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a7631078ea54</guid>
-            <pubDate>Sun, 05 Jul 2026 05:53:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/anis-soma-piya-1783203073.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mbappe spot-kick sends France past Paraguay]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Mbappe spot-kick sends France past Paraguay]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/5e0e82452cac</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/5e0e82452cac</guid>
-            <pubDate>Sun, 05 Jul 2026 05:28:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/kylian-mbappe-050726-01-1783207630.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
