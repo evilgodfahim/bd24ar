@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Jul 2026 15:58:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jul 2026 17:03:39 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Jul 2026 15:58:27 GMT</pubDate>
+        <pubDate>Sun, 05 Jul 2026 17:03:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[F1 drivers amuse crowd with Lego car chaos]]></title>
+            <description><![CDATA[[Sport] F1 drivers amuse crowd with Lego car chaos]]></description>
+            <link>https://bdnews24.com/sport/223bcf134d3d</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/223bcf134d3d</guid>
+            <pubDate>Sun, 05 Jul 2026 22:16:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/racing-lego-050726-01-1783268090.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Mexico ready for England test: Aguirre]]></title>
             <description><![CDATA[[2026 FIFA World Cup] Mexico ready for England test: Aguirre]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/technology/5cd74c7966aa</guid>
             <pubDate>Sun, 05 Jul 2026 19:43:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/eu-ai-rules-070526-01-1778128163.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nolan on bringing the epic 'Odyssey' to the big screen]]></title>
-            <description><![CDATA[[Entertainment] Nolan on bringing the epic 'Odyssey' to the big screen]]></description>
-            <link>https://bdnews24.com/entertainment/7236e2a0ebce</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/7236e2a0ebce</guid>
-            <pubDate>Sun, 05 Jul 2026 19:25:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/odyssey-nolan-050726-01-1783257811.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
