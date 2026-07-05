@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Jul 2026 17:03:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jul 2026 18:55:28 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Jul 2026 17:03:39 GMT</pubDate>
+        <pubDate>Sun, 05 Jul 2026 18:55:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[District hospitals key to easing Dhaka's burden: Nizamuddin]]></title>
+            <description><![CDATA[[Health] District hospitals key to easing Dhaka's burden: Nizamuddin]]></description>
+            <link>https://bdnews24.com/health/c837892a7ca1</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/c837892a7ca1</guid>
+            <pubDate>Mon, 06 Jul 2026 00:53:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/united-group-amd-nizamuddin-hasan-rashid-05072026-2-1783270033.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Balogun cleared for Belgium despite red card]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Balogun cleared for Belgium despite red card]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/d7ab1b0146d5</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/d7ab1b0146d5</guid>
+            <pubDate>Mon, 06 Jul 2026 00:46:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/folarin-balogun-050726-01-1783277133.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India-Bangladesh ties thaw amid China factor]]></title>
+            <description><![CDATA[[Business] India-Bangladesh ties thaw amid China factor]]></description>
+            <link>https://bdnews24.com/business/3e88ea89c5da</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/3e88ea89c5da</guid>
+            <pubDate>Mon, 06 Jul 2026 00:03:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bangladesh-india-trade-050726-1783272617.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Panthakunja ramp nears completion]]></title>
+            <description><![CDATA[[Bangladesh] Panthakunja ramp nears completion]]></description>
+            <link>https://bdnews24.com/bangladesh/38d67a29aec1</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/38d67a29aec1</guid>
+            <pubDate>Sun, 05 Jul 2026 23:58:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dhaka-elevated-expressway-010726-17-1783272194.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israeli strike kills 2 in Gaza]]></title>
+            <description><![CDATA[[World] Israeli strike kills 2 in Gaza]]></description>
+            <link>https://bdnews24.com/world/df5e16bf2bb9</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/df5e16bf2bb9</guid>
+            <pubDate>Sun, 05 Jul 2026 23:43:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/israel-strike-gaza-05072026-01-1783273374.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine rejects local ceasefire: Russia]]></title>
+            <description><![CDATA[[World] Ukraine rejects local ceasefire: Russia]]></description>
+            <link>https://bdnews24.com/world/46060f9387cf</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/46060f9387cf</guid>
+            <pubDate>Sun, 05 Jul 2026 23:20:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/ukraine-reject-ceasefire-05072026-01-1783272005.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[F1 drivers amuse crowd with Lego car chaos]]></title>
             <description><![CDATA[[Sport] F1 drivers amuse crowd with Lego car chaos]]></description>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/0f5f069d363b</guid>
             <pubDate>Sun, 05 Jul 2026 20:33:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026January/SM/second-marriage-030324-204-1768147015.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How World Cup anthems are chosen]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] How World Cup anthems are chosen]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/ac4b1be900ba</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/ac4b1be900ba</guid>
-            <pubDate>Sun, 05 Jul 2026 20:26:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/world-cup-songs-050726-01-1783261453.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Police shake-up reshuffles 6 DIGs]]></title>
-            <description><![CDATA[[Bangladesh] Police shake-up reshuffles 6 DIGs]]></description>
-            <link>https://bdnews24.com/bangladesh/a84adafebe83</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a84adafebe83</guid>
-            <pubDate>Sun, 05 Jul 2026 20:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024December/SM/police-hq-1733919809.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles: 7 more die in a day]]></title>
-            <description><![CDATA[[Health] Measles: 7 more die in a day]]></description>
-            <link>https://bdnews24.com/health/37d84bb4ea96</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/37d84bb4ea96</guid>
-            <pubDate>Sun, 05 Jul 2026 20:05:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/chattogram-parents-with-children-in-cmch-230426-05-1777000420.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prof Abul Quasem Fazlul Huq's funeral on Monday]]></title>
-            <description><![CDATA[[Bangladesh] Prof Abul Quasem Fazlul Huq's funeral on Monday]]></description>
-            <link>https://bdnews24.com/bangladesh/11e27fa0320b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/11e27fa0320b</guid>
-            <pubDate>Sun, 05 Jul 2026 20:04:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dr-abul-kasem-fazlul-haq-050726-1783257974.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Manchester-Sylhet flights return]]></title>
-            <description><![CDATA[[Aviation] Manchester-Sylhet flights return]]></description>
-            <link>https://bdnews24.com/aviation/1d089263c6c6</link>
-            <guid isPermaLink="true">https://bdnews24.com/aviation/1d089263c6c6</guid>
-            <pubDate>Sun, 05 Jul 2026 20:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sylhet-uk-flight-050726-01-1783257857.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[First fully autonomous AI cyberattack detected]]></title>
-            <description><![CDATA[[Technology] First fully autonomous AI cyberattack detected]]></description>
-            <link>https://bdnews24.com/technology/5cd74c7966aa</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/5cd74c7966aa</guid>
-            <pubDate>Sun, 05 Jul 2026 19:43:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/eu-ai-rules-070526-01-1778128163.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
