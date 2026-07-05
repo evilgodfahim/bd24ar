@@ -4,17 +4,97 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Jul 2026 12:07:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jul 2026 14:22:55 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Jul 2026 12:07:25 GMT</pubDate>
+        <pubDate>Sun, 05 Jul 2026 14:22:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Police shake-up reshuffles 6 DIGs]]></title>
+            <description><![CDATA[[Bangladesh] Police shake-up reshuffles 6 DIGs]]></description>
+            <link>https://bdnews24.com/bangladesh/a84adafebe83</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a84adafebe83</guid>
+            <pubDate>Sun, 05 Jul 2026 20:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024December/SM/police-hq-1733919809.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Measles: 7 more die in a day]]></title>
+            <description><![CDATA[[Health] Measles: 7 more die in a day]]></description>
+            <link>https://bdnews24.com/health/37d84bb4ea96</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/37d84bb4ea96</guid>
+            <pubDate>Sun, 05 Jul 2026 20:05:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/chattogram-parents-with-children-in-cmch-230426-05-1777000420.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prof Abul Quasem Fazlul Huq's funeral on Monday]]></title>
+            <description><![CDATA[[Bangladesh] Prof Abul Quasem Fazlul Huq's funeral on Monday]]></description>
+            <link>https://bdnews24.com/bangladesh/11e27fa0320b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/11e27fa0320b</guid>
+            <pubDate>Sun, 05 Jul 2026 20:04:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dr-abul-kasem-fazlul-haq-050726-1783257974.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Manchester-Sylhet flights return]]></title>
+            <description><![CDATA[[Aviation] Manchester-Sylhet flights return]]></description>
+            <link>https://bdnews24.com/aviation/1d089263c6c6</link>
+            <guid isPermaLink="true">https://bdnews24.com/aviation/1d089263c6c6</guid>
+            <pubDate>Sun, 05 Jul 2026 20:01:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sylhet-uk-flight-050726-01-1783257857.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[First fully autonomous AI cyberattack detected]]></title>
+            <description><![CDATA[[Technology] First fully autonomous AI cyberattack detected]]></description>
+            <link>https://bdnews24.com/technology/5cd74c7966aa</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/5cd74c7966aa</guid>
+            <pubDate>Sun, 05 Jul 2026 19:43:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/eu-ai-rules-070526-01-1778128163.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nolan on bringing the epic 'Odyssey' to the big screen]]></title>
+            <description><![CDATA[[Entertainment] Nolan on bringing the epic 'Odyssey' to the big screen]]></description>
+            <link>https://bdnews24.com/entertainment/7236e2a0ebce</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/7236e2a0ebce</guid>
+            <pubDate>Sun, 05 Jul 2026 19:25:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/odyssey-nolan-050726-01-1783257811.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Real land Dumfries from Inter]]></title>
+            <description><![CDATA[[Sport] Real land Dumfries from Inter]]></description>
+            <link>https://bdnews24.com/sport/03eda7de01fc</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/03eda7de01fc</guid>
+            <pubDate>Sun, 05 Jul 2026 18:55:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/madrid-dumfries-050726-01-1783256022.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Khamenei’s sons appear at his funeral, not his successor]]></title>
+            <description><![CDATA[[West Asia] Khamenei’s sons appear at his funeral, not his successor]]></description>
+            <link>https://bdnews24.com/world/middle-east/39869efbf3e6</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/39869efbf3e6</guid>
+            <pubDate>Sun, 05 Jul 2026 18:51:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/funeral-khamenei-050726-1783255776.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Court sets Jul 12 for Yunus measles petition]]></title>
+            <description><![CDATA[[Bangladesh] Court sets Jul 12 for Yunus measles petition]]></description>
+            <link>https://bdnews24.com/bangladesh/a85685c0cae1</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a85685c0cae1</guid>
+            <pubDate>Sun, 05 Jul 2026 18:38:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025June/SM/muhammad-yunus-090625-1749452997.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brazil face familiar European hurdle]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Brazil face familiar European hurdle]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/fd5372765fdf</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/fd5372765fdf</guid>
+            <pubDate>Sun, 05 Jul 2026 18:28:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/halland-vinicius-050726-1783252964.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[AL could be banned under its own laws: chief prosecutor]]></title>
             <description><![CDATA[[Bangladesh] AL could be banned under its own laws: chief prosecutor]]></description>
             <link>https://bdnews24.com/bangladesh/a7d4f646f39a</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/a7d4f646f39a</guid>
             <pubDate>Sun, 05 Jul 2026 18:06:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/awami-league-ban-statute-050726-01-1783253165.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2025May/SM/road-paint-awami-league-ban-090525-006-1747052755.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[271 more hospitalised with dengue]]></title>
@@ -26,9 +106,9 @@
         </item>
         <item>
             <title><![CDATA[Prof Abul Quasem Fazlul Huq dies at 86]]></title>
-            <description><![CDATA[[Bangladesh] Prof Abul Quasem Fazlul Huq dies at 86]]></description>
-            <link>https://bdnews24.com/bangladesh/babfd1a232b8</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/babfd1a232b8</guid>
+            <description><![CDATA[[People] Prof Abul Quasem Fazlul Huq dies at 86]]></description>
+            <link>https://bdnews24.com/people/babfd1a232b8</link>
+            <guid isPermaLink="true">https://bdnews24.com/people/babfd1a232b8</guid>
             <pubDate>Sun, 05 Jul 2026 17:07:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/abul-kashem-fazlul-haq-050726-01-1783248601.jpg" length="0" type="image/jpeg"/>
         </item>
@@ -87,86 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/9a8381f35de8</guid>
             <pubDate>Sun, 05 Jul 2026 14:39:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/kushtia-accident-210626-01-1782037668.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No photo of PM on banner in govt events: Cabinet Division]]></title>
-            <description><![CDATA[[Bangladesh] No photo of PM on banner in govt events: Cabinet Division]]></description>
-            <link>https://bdnews24.com/bangladesh/c41c13aa1bed</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c41c13aa1bed</guid>
-            <pubDate>Sun, 05 Jul 2026 13:59:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/tarique-rahman-banner-050726-01-1783236539.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Renaissance Dhaka introduces ASEAN Weekend Theme Nights]]></title>
-            <description><![CDATA[[Lifestyle] Renaissance Dhaka introduces ASEAN Weekend Theme Nights]]></description>
-            <link>https://bdnews24.com/lifestyle/d72ad502421e</link>
-            <guid isPermaLink="true">https://bdnews24.com/lifestyle/d72ad502421e</guid>
-            <pubDate>Sun, 05 Jul 2026 13:27:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/asean-weekend-theme-nights-1783236365.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Well-marked low intensifies into depression]]></title>
-            <description><![CDATA[[Bangladesh] Well-marked low intensifies into depression]]></description>
-            <link>https://bdnews24.com/bangladesh/48c11319673f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/48c11319673f</guid>
-            <pubDate>Sun, 05 Jul 2026 13:19:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/imd-satellite-image-050726-01-1783235055.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles: Plea to file case against Yunus, Nurjahan]]></title>
-            <description><![CDATA[[Bangladesh] Measles: Plea to file case against Yunus, Nurjahan]]></description>
-            <link>https://bdnews24.com/bangladesh/f8a7bd3220ac</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f8a7bd3220ac</guid>
-            <pubDate>Sun, 05 Jul 2026 13:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/muhammad-yunus-080626-01-1780898733.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Millions gather in Tehran for Khamenei's funeral]]></title>
-            <description><![CDATA[[West Asia] Millions gather in Tehran for Khamenei's funeral]]></description>
-            <link>https://bdnews24.com/world/middle-east/407e7916844c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/407e7916844c</guid>
-            <pubDate>Sun, 05 Jul 2026 13:08:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/iran-khamenei-funeral-050726-01-1783235218.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canadian-Bangladeshi in top 5 in Favorite Chef competition]]></title>
-            <description><![CDATA[[Lifestyle] Canadian-Bangladeshi in top 5 in Favorite Chef competition]]></description>
-            <link>https://bdnews24.com/lifestyle/ac098950f4f2</link>
-            <guid isPermaLink="true">https://bdnews24.com/lifestyle/ac098950f4f2</guid>
-            <pubDate>Sun, 05 Jul 2026 12:40:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/canadian-bangladeshi-chef-050726-01-1783233591.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Three-wheeler driver killed in Khulna]]></title>
-            <description><![CDATA[[Bangladesh] Three-wheeler driver killed in Khulna]]></description>
-            <link>https://bdnews24.com/bangladesh/e8e9753cd03c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e8e9753cd03c</guid>
-            <pubDate>Sun, 05 Jul 2026 11:28:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dighalia-thana-050726-1783223769.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brazil's YouTube boom challenges TV]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Brazil's YouTube boom challenges TV]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/0a9d504aa65e</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/0a9d504aa65e</guid>
-            <pubDate>Sun, 05 Jul 2026 11:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/fifa-match-cazetv-050726-1783228166.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Uber pauses Europe food delivery push: FT]]></title>
-            <description><![CDATA[[Business] Uber pauses Europe food delivery push: FT]]></description>
-            <link>https://bdnews24.com/business/3dee5294d6bb</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/3dee5294d6bb</guid>
-            <pubDate>Sun, 05 Jul 2026 11:08:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/uber-food-delivery-050726-1783227975.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[MiHCM promotes Anwar Parves to country manager]]></title>
-            <description><![CDATA[[Sponsored] MiHCM promotes Anwar Parves to country manager]]></description>
-            <link>https://bdnews24.com/sponsored/635f2bce285c</link>
-            <guid isPermaLink="true">https://bdnews24.com/sponsored/635f2bce285c</guid>
-            <pubDate>Sun, 05 Jul 2026 10:45:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/mihcm-bangladesh-pr-1783226636.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
