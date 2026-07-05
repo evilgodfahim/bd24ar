@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Jul 2026 18:55:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jul 2026 20:05:10 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Jul 2026 18:55:28 GMT</pubDate>
+        <pubDate>Sun, 05 Jul 2026 20:05:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Osaka stuns top seed Sabalenka at Wimbledon]]></title>
+            <description><![CDATA[[Sport] Osaka stuns top seed Sabalenka at Wimbledon]]></description>
+            <link>https://bdnews24.com/sport/5ad1817bb170</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/5ad1817bb170</guid>
+            <pubDate>Mon, 06 Jul 2026 02:03:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/naomi-osaka-060726-01-1783281732.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Petition accuses Yunus over ‘measles death’]]></title>
+            <description><![CDATA[[Bangladesh] Petition accuses Yunus over ‘measles death’]]></description>
+            <link>https://bdnews24.com/bangladesh/4df68fa7e81b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4df68fa7e81b</guid>
+            <pubDate>Mon, 06 Jul 2026 01:52:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026March/SM/chattogram-medical-measles-corner-300326-03-1774973400.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Martinelli starts as Brazil face Norway]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Martinelli starts as Brazil face Norway]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/3ed8796d62ac</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/3ed8796d62ac</guid>
+            <pubDate>Mon, 06 Jul 2026 01:25:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/martinelli-starts-norway-060726-01-1783279492.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rooftop solar powers 20% renewable ambition]]></title>
+            <description><![CDATA[[Business] Rooftop solar powers 20% renewable ambition]]></description>
+            <link>https://bdnews24.com/business/ccaa502b6ffa</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/ccaa502b6ffa</guid>
+            <pubDate>Mon, 06 Jul 2026 01:17:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/solar-power-sreda-050726-03-1783278952.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Four children drown in five hours]]></title>
+            <description><![CDATA[[Bangladesh] Four children drown in five hours]]></description>
+            <link>https://bdnews24.com/bangladesh/fe7440027d0c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/fe7440027d0c</guid>
+            <pubDate>Mon, 06 Jul 2026 01:07:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[July 5, 2026]]></title>
+            <description><![CDATA[[Image] July 5, 2026]]></description>
+            <link>https://bdnews24.com/media-en/image/121261f94840</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/121261f94840</guid>
+            <pubDate>Mon, 06 Jul 2026 01:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/tarique-rahman-050726-02-1783255462.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[District hospitals key to easing Dhaka's burden: Nizamuddin]]></title>
             <description><![CDATA[[Health] District hospitals key to easing Dhaka's burden: Nizamuddin]]></description>
@@ -33,8 +81,8 @@
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bangladesh-india-trade-050726-1783272617.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Panthakunja ramp nears completion]]></title>
-            <description><![CDATA[[Bangladesh] Panthakunja ramp nears completion]]></description>
+            <title><![CDATA[Panthakunja ramp 'nears completion']]></title>
+            <description><![CDATA[[Bangladesh] Panthakunja ramp 'nears completion']]></description>
             <link>https://bdnews24.com/bangladesh/38d67a29aec1</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/38d67a29aec1</guid>
             <pubDate>Sun, 05 Jul 2026 23:58:00 GMT</pubDate>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/71d4a404d1b7</guid>
             <pubDate>Sun, 05 Jul 2026 21:11:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/taiwan-anti-communist-class-05072026-01-1783264242.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA['Political' banners force ship from US parade]]></title>
-            <description><![CDATA[[World] 'Political' banners force ship from US parade]]></description>
-            <link>https://bdnews24.com/world/d35d68d9f331</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/d35d68d9f331</guid>
-            <pubDate>Sun, 05 Jul 2026 21:04:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/political-banner-ships-05072026-01-1783263842.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Can Norway shock Brazil to make history?]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Can Norway shock Brazil to make history?]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/5ca9010f43f1</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/5ca9010f43f1</guid>
-            <pubDate>Sun, 05 Jul 2026 21:03:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/norway-squad-050726-01-1783263684.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran, Qatar resume maritime trade: state media]]></title>
-            <description><![CDATA[[Business] Iran, Qatar resume maritime trade: state media]]></description>
-            <link>https://bdnews24.com/business/e4223eb75af2</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/e4223eb75af2</guid>
-            <pubDate>Sun, 05 Jul 2026 20:46:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/iran-qatar-trade-05072026-01-1783262774.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[England's James doubtful against Mexico]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] England's James doubtful against Mexico]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/3413f855473c</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/3413f855473c</guid>
-            <pubDate>Sun, 05 Jul 2026 20:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/reece-james-050726-01-1783262416.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mexico look to make history vs England]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Mexico look to make history vs England]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/d5689bd02bf7</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/d5689bd02bf7</guid>
-            <pubDate>Sun, 05 Jul 2026 20:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/hosts-mexico-050726-01-1783261925.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[HC petition seeks fairer dower payouts]]></title>
-            <description><![CDATA[[Bangladesh] HC petition seeks fairer dower payouts]]></description>
-            <link>https://bdnews24.com/bangladesh/0f5f069d363b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0f5f069d363b</guid>
-            <pubDate>Sun, 05 Jul 2026 20:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026January/SM/second-marriage-030324-204-1768147015.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
