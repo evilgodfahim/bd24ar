@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Jul 2026 21:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jul 2026 22:54:05 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Jul 2026 21:17:40 GMT</pubDate>
+        <pubDate>Mon, 06 Jul 2026 22:54:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Sleepless Solbakken reveals Ancelotti gift]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Sleepless Solbakken reveals Ancelotti gift]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/3ba9b4da4fa3</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/3ba9b4da4fa3</guid>
+            <pubDate>Tue, 07 Jul 2026 04:16:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/stale-solbakken-070726-01-1783376121.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[FIFA rejects Belgium challenge over Balogun eligibility]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] FIFA rejects Belgium challenge over Balogun eligibility]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/4a463a0bda81</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/4a463a0bda81</guid>
+            <pubDate>Tue, 07 Jul 2026 03:52:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/balogun-red-card-070726-01-1783374580.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Cafu backs Ancelotti, urges Brazil reset]]></title>
             <description><![CDATA[[2026 FIFA World Cup] Cafu backs Ancelotti, urges Brazil reset]]></description>
@@ -81,12 +97,12 @@
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/khamenei-funeral-defiance-06072026-01-1783361437.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Spain unchanged, Felix starts for Portugal]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Spain unchanged, Felix starts for Portugal]]></description>
+            <title><![CDATA[Spain knock Ronaldo’s Portugal out]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Spain knock Ronaldo’s Portugal out]]></description>
             <link>https://bdnews24.com/sport/world-cup-2026/d6d477b2d53d</link>
             <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/d6d477b2d53d</guid>
             <pubDate>Tue, 07 Jul 2026 00:07:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/spain-por-felix-06072026-01-1783361098.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/spain-070726-01-1783371780.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[3 hurt in Savar NCP rally 'blast']]></title>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/southasia/be3c0c6bc743</guid>
             <pubDate>Mon, 06 Jul 2026 22:10:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/sri-lanka-prison-clash-06072026-01-1783354224.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump confirms FIFA appeal for Balogun]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Trump confirms FIFA appeal for Balogun]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/65a0917145da</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/65a0917145da</guid>
-            <pubDate>Mon, 06 Jul 2026 22:10:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/trump-infantino-050726-01-1783354115.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PM forms food safety committee]]></title>
-            <description><![CDATA[[Bangladesh] PM forms food safety committee]]></description>
-            <link>https://bdnews24.com/bangladesh/14fc53ea76be</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/14fc53ea76be</guid>
-            <pubDate>Mon, 06 Jul 2026 21:58:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/tarique-rahman-060726-01-1783350708.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
