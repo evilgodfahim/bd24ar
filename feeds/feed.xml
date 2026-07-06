@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Jul 2026 19:27:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jul 2026 21:17:40 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Jul 2026 19:27:29 GMT</pubDate>
+        <pubDate>Mon, 06 Jul 2026 21:17:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Cafu backs Ancelotti, urges Brazil reset]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Cafu backs Ancelotti, urges Brazil reset]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/316226382048</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/316226382048</guid>
+            <pubDate>Tue, 07 Jul 2026 03:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/cafu-brazil-070726-01-1783372004.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ancelotti stays on to lead Brazil overhaul]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Ancelotti stays on to lead Brazil overhaul]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/44f98cb56b9e</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/44f98cb56b9e</guid>
+            <pubDate>Tue, 07 Jul 2026 02:57:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/carlo-ancelotti-050726-01-1783371356.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US seizes more than 600 drones near WC sites]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] US seizes more than 600 drones near WC sites]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/cfd39bf24947</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/cfd39bf24947</guid>
+            <pubDate>Tue, 07 Jul 2026 02:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/sofi-stadium-06072026-1783370757.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[350,000 Rohingya sleep under ‘death's shadow’]]></title>
             <description><![CDATA[[Bangladesh] 350,000 Rohingya sleep under ‘death's shadow’]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/14fc53ea76be</guid>
             <pubDate>Mon, 06 Jul 2026 21:58:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/tarique-rahman-060726-01-1783350708.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump asked FIFA chief to ‘review red card foul’]]></title>
-            <description><![CDATA[[Sport] Trump asked FIFA chief to ‘review red card foul’]]></description>
-            <link>https://bdnews24.com/sport/4c1c4dcbb69e</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/4c1c4dcbb69e</guid>
-            <pubDate>Mon, 06 Jul 2026 21:40:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/trump-fifa-review-06072026-01-1783352327.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Order to store books by PM in primary schools revoked]]></title>
-            <description><![CDATA[[Bangladesh] Order to store books by PM in primary schools revoked]]></description>
-            <link>https://bdnews24.com/bangladesh/6db2b73853ec</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6db2b73853ec</guid>
-            <pubDate>Mon, 06 Jul 2026 21:36:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/tarique-rahman-three-books-060726-01-1783349554.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[French govt survives no-confidence vote over heatwave]]></title>
-            <description><![CDATA[[World] French govt survives no-confidence vote over heatwave]]></description>
-            <link>https://bdnews24.com/world/f14f62f9cdbe</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/f14f62f9cdbe</guid>
-            <pubDate>Mon, 06 Jul 2026 21:32:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/french-govt-heatwave-06072026-01-1783351838.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
