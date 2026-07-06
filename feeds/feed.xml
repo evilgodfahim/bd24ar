@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News]]></title>
-        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
+        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Jul 2026 11:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jul 2026 14:51:34 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Jul 2026 11:19:24 GMT</pubDate>
+        <pubDate>Mon, 06 Jul 2026 14:51:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[UEFA hits out at FIFA Balogun decision]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] UEFA hits out at FIFA Balogun decision]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/3dd144405b2d</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/3dd144405b2d</guid>
-            <pubDate>Mon, 06 Jul 2026 17:00:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/uefa-060726-1783335554.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[7 to die over Jamalpur gang rape]]></title>
-            <description><![CDATA[[Bangladesh] 7 to die over Jamalpur gang rape]]></description>
-            <link>https://bdnews24.com/bangladesh/711d15b9ce51</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/711d15b9ce51</guid>
-            <pubDate>Mon, 06 Jul 2026 16:46:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/jamalpur-conviction-060726-01-1783333565.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[16-hour gas outage in Gazipur, Tangail on Tuesday]]></title>
-            <description><![CDATA[[Bangladesh] 16-hour gas outage in Gazipur, Tangail on Tuesday]]></description>
-            <link>https://bdnews24.com/bangladesh/01b797c24311</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/01b797c24311</guid>
-            <pubDate>Mon, 06 Jul 2026 16:15:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025June/SM/chattagram-gas-crisis-200625-01-1750407687.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tehran begins Khamenei funeral procession]]></title>
-            <description><![CDATA[[West Asia] Tehran begins Khamenei funeral procession]]></description>
-            <link>https://bdnews24.com/world/middle-east/f065695b009b</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/f065695b009b</guid>
-            <pubDate>Mon, 06 Jul 2026 16:03:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/khamenei-coffin-060726-01-1783329949.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Final 15th Amendment verdict may come soon]]></title>
-            <description><![CDATA[[Bangladesh] Final 15th Amendment verdict may come soon]]></description>
-            <link>https://bdnews24.com/bangladesh/dd164b81cf32</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/dd164b81cf32</guid>
-            <pubDate>Mon, 06 Jul 2026 15:57:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2025December/SM/high-court-supreme-court-1000-1765374508.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Daycare centres assist in building country’s future: Zubaida Rahman]]></title>
-            <description><![CDATA[[Bangladesh] Daycare centres assist in building country’s future: Zubaida Rahman]]></description>
-            <link>https://bdnews24.com/bangladesh/18ce99767084</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/18ce99767084</guid>
-            <pubDate>Mon, 06 Jul 2026 15:50:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/zubayda-rahman-060726-01-1783331402.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[New textbooks will reach students in December: Milon]]></title>
-            <description><![CDATA[[Education] New textbooks will reach students in December: Milon]]></description>
-            <link>https://bdnews24.com/education/617f861ce01f</link>
-            <guid isPermaLink="true">https://bdnews24.com/education/617f861ce01f</guid>
-            <pubDate>Mon, 06 Jul 2026 15:48:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ehsanul-hoque-milon-060726-01-1783331507.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 die in ‘gunfight’ between 2 groups in Khagrachhari]]></title>
-            <description><![CDATA[[Bangladesh] 3 die in ‘gunfight’ between 2 groups in Khagrachhari]]></description>
-            <link>https://bdnews24.com/bangladesh/698568d8a32d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/698568d8a32d</guid>
-            <pubDate>Mon, 06 Jul 2026 15:40:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/khagrachhari-pansori-060726-01-1783328743.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Minister defends scrapping gas meter projects]]></title>
-            <description><![CDATA[[Bangladesh] Minister defends scrapping gas meter projects]]></description>
-            <link>https://bdnews24.com/bangladesh/c3f188e58ecb</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c3f188e58ecb</guid>
-            <pubDate>Mon, 06 Jul 2026 15:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/iqbal-hassan-mahmood-060726-01-1783327612.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA['Banglar Roshona Bilash' returns to Holiday Inn]]></title>
-            <description><![CDATA[[Lifestyle] 'Banglar Roshona Bilash' returns to Holiday Inn]]></description>
-            <link>https://bdnews24.com/lifestyle/d4afd3674c5a</link>
-            <guid isPermaLink="true">https://bdnews24.com/lifestyle/d4afd3674c5a</guid>
-            <pubDate>Mon, 06 Jul 2026 15:25:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/rosona-bilash-060726-1783329731.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Embezzlement case against ex-MP Murshedy goes to trial]]></title>
-            <description><![CDATA[[Politics] Embezzlement case against ex-MP Murshedy goes to trial]]></description>
-            <link>https://bdnews24.com/politics/59b617031bff</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/59b617031bff</guid>
-            <pubDate>Mon, 06 Jul 2026 15:09:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/salam-murshefdi-200526-01-1779265525.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man to die for rape, murder of girl in Noakhali]]></title>
-            <description><![CDATA[[Bangladesh] Man to die for rape, murder of girl in Noakhali]]></description>
-            <link>https://bdnews24.com/bangladesh/744333f29716</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/744333f29716</guid>
-            <pubDate>Mon, 06 Jul 2026 14:56:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/noakhali-verdict-060726-01-1783326168.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tributes at Shaheed Minar for Prof Abul Quasem Fazlul Huq]]></title>
-            <description><![CDATA[[People] Tributes at Shaheed Minar for Prof Abul Quasem Fazlul Huq]]></description>
-            <link>https://bdnews24.com/people/a3240687a393</link>
-            <guid isPermaLink="true">https://bdnews24.com/people/a3240687a393</guid>
-            <pubDate>Mon, 06 Jul 2026 14:44:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/shaheed-minar-fazlul-haque-060726-01-1783325914.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heavy rain to lash 6 divisions]]></title>
-            <description><![CDATA[[Bangladesh] Heavy rain to lash 6 divisions]]></description>
-            <link>https://bdnews24.com/bangladesh/8995f754ebd2</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8995f754ebd2</guid>
-            <pubDate>Mon, 06 Jul 2026 14:36:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/rain-du-100626-026-1781109221.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Minister warns clinics over labour rooms]]></title>
-            <description><![CDATA[[Health] Minister warns clinics over labour rooms]]></description>
-            <link>https://bdnews24.com/health/0be3693aa944</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/0be3693aa944</guid>
-            <pubDate>Mon, 06 Jul 2026 14:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sardar-sakhawat-husain-060726-01-1783326454.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ikra’s death: Actor Alvi’s bail plea denied]]></title>
-            <description><![CDATA[[Entertainment] Ikra’s death: Actor Alvi’s bail plea denied]]></description>
-            <link>https://bdnews24.com/entertainment/bb0545ca1035</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/bb0545ca1035</guid>
-            <pubDate>Mon, 06 Jul 2026 14:05:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/zaher-alvee-300626-01-1782813927.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tributes for Abul Quasem Fazlul Huq]]></title>
-            <description><![CDATA[[Image] Tributes for Abul Quasem Fazlul Huq]]></description>
-            <link>https://bdnews24.com/media-en/image/3ba39e13a987</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/3ba39e13a987</guid>
-            <pubDate>Mon, 06 Jul 2026 14:05:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/abul-quasem-fazlul-huq-060726-06-1783324579.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[July 6, 2026]]></title>
-            <description><![CDATA[[Image] July 6, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/d245c9749cfc</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/d245c9749cfc</guid>
-            <pubDate>Mon, 06 Jul 2026 13:53:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/coxbazar-landslide-060726-05-1783315956.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man to die for raping 7-year-old in Khagrachhari]]></title>
-            <description><![CDATA[[Bangladesh] Man to die for raping 7-year-old in Khagrachhari]]></description>
-            <link>https://bdnews24.com/bangladesh/9bfbdd317c02</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9bfbdd317c02</guid>
-            <pubDate>Mon, 06 Jul 2026 13:53:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/khagrachari-verdict-060726-1783322836.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[200m area lost to Jamuna erosion in 12 days in Dhunot]]></title>
-            <description><![CDATA[[Bangladesh] 200m area lost to Jamuna erosion in 12 days in Dhunot]]></description>
-            <link>https://bdnews24.com/bangladesh/918eee3194e8</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/918eee3194e8</guid>
-            <pubDate>Mon, 06 Jul 2026 13:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bogura-jomuna-vangon-060726-1783319140.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: timeout of 65000ms exceeded]]></description>
+            <link>https://bdnews24.com</link>
+            <guid isPermaLink="true">https://bdnews24.com</guid>
+            <pubDate>Mon, 06 Jul 2026 14:51:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
