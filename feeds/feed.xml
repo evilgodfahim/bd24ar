@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Jul 2026 20:05:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jul 2026 21:41:48 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Jul 2026 20:05:06 GMT</pubDate>
+        <pubDate>Mon, 13 Jul 2026 21:41:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bangladesh's ‘Subodh’ crosses the border?]]></title>
+            <description><![CDATA[[Bangladesh] Bangladesh's ‘Subodh’ crosses the border?]]></description>
+            <link>https://bdnews24.com/bangladesh/b26994ce2e6c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b26994ce2e6c</guid>
+            <pubDate>Tue, 14 Jul 2026 02:18:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/subodh-india-140726-01-1783973628.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Alonso demands hunger, passion from new Chelsea squad]]></title>
             <description><![CDATA[[Sport] Alonso demands hunger, passion from new Chelsea squad]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/bebb730edbca</guid>
             <pubDate>Mon, 13 Jul 2026 21:31:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/pabna-train-130726-01130726-01-1783954905.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US restores blockade of Iranian shipping in Hormuz]]></title>
-            <description><![CDATA[[World] US restores blockade of Iranian shipping in Hormuz]]></description>
-            <link>https://bdnews24.com/world/3b933cd7d965</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/3b933cd7d965</guid>
-            <pubDate>Mon, 13 Jul 2026 21:26:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/hormuj-130701-1783956350.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
