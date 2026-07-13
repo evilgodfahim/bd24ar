@@ -4,10 +4,154 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Jul 2026 13:55:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jul 2026 16:17:56 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Jul 2026 13:55:21 GMT</pubDate>
+        <pubDate>Mon, 13 Jul 2026 16:17:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Wildfire rages near Paris amid Europe heatwave]]></title>
+            <description><![CDATA[[Environment] Wildfire rages near Paris amid Europe heatwave]]></description>
+            <link>https://bdnews24.com/environment/c6b9fb4ba7e9</link>
+            <guid isPermaLink="true">https://bdnews24.com/environment/c6b9fb4ba7e9</guid>
+            <pubDate>Mon, 13 Jul 2026 22:17:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/wildfire-paris-13072026-01-1783959411.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ctg ISP office ransacked after ‘extortion threat’]]></title>
+            <description><![CDATA[[Bangladesh] Ctg ISP office ransacked after ‘extortion threat’]]></description>
+            <link>https://bdnews24.com/bangladesh/07c1aacb0403</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/07c1aacb0403</guid>
+            <pubDate>Mon, 13 Jul 2026 22:02:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/chattagram-vandalization-130726-1783954448.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Parliament passes tougher anti-drug law]]></title>
+            <description><![CDATA[[Bangladesh] Parliament passes tougher anti-drug law]]></description>
+            <link>https://bdnews24.com/bangladesh/f57ca1a01b4e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f57ca1a01b4e</guid>
+            <pubDate>Mon, 13 Jul 2026 22:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/online-drug-smuggling-130726-1783956545.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dhanmondi Lake overflows in rain]]></title>
+            <description><![CDATA[[Image] Dhanmondi Lake overflows in rain]]></description>
+            <link>https://bdnews24.com/media-en/image/bfbb5cc6f226</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/bfbb5cc6f226</guid>
+            <pubDate>Mon, 13 Jul 2026 21:36:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dhanmondi-lake-waterlogging-130726-015-1783953760.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Northbound rail link cut after train derails]]></title>
+            <description><![CDATA[[Bangladesh] Northbound rail link cut after train derails]]></description>
+            <link>https://bdnews24.com/bangladesh/bebb730edbca</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/bebb730edbca</guid>
+            <pubDate>Mon, 13 Jul 2026 21:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/pabna-train-130726-01130726-01-1783954905.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US reinstates Iran blockade]]></title>
+            <description><![CDATA[[World] US reinstates Iran blockade]]></description>
+            <link>https://bdnews24.com/world/3b933cd7d965</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/3b933cd7d965</guid>
+            <pubDate>Mon, 13 Jul 2026 21:26:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/hormuj-130701-1783956350.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump launches effort to isolate ICC]]></title>
+            <description><![CDATA[[World] Trump launches effort to isolate ICC]]></description>
+            <link>https://bdnews24.com/world/8efd10c5d7a2</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/8efd10c5d7a2</guid>
+            <pubDate>Mon, 13 Jul 2026 21:23:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/icc-leave-mali-02072026-01-1783009381.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Teesta swells above red line]]></title>
+            <description><![CDATA[[Bangladesh] Teesta swells above red line]]></description>
+            <link>https://bdnews24.com/bangladesh/a29bac4ee374</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a29bac4ee374</guid>
+            <pubDate>Mon, 13 Jul 2026 21:21:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/nilphamari-teesta-water-130726-01-1783951701.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[One killed in ICE-involved shooting in Maine]]></title>
+            <description><![CDATA[[World] One killed in ICE-involved shooting in Maine]]></description>
+            <link>https://bdnews24.com/world/d8e1013393be</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/d8e1013393be</guid>
+            <pubDate>Mon, 13 Jul 2026 21:18:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/ice-130726-1783955848.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump invested in crypto projects: filings]]></title>
+            <description><![CDATA[[Business] Trump invested in crypto projects: filings]]></description>
+            <link>https://bdnews24.com/business/3b93bc6c84eb</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/3b93bc6c84eb</guid>
+            <pubDate>Mon, 13 Jul 2026 21:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/trump-crypto-13072026-1783955440.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bandarban floodwaters recede but misery lingers]]></title>
+            <description><![CDATA[[Bangladesh] Bandarban floodwaters recede but misery lingers]]></description>
+            <link>https://bdnews24.com/bangladesh/02bd3e652595</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/02bd3e652595</guid>
+            <pubDate>Mon, 13 Jul 2026 21:05:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bandarban-flood-suffering-130726-01-1783950941.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Extreme heat hits Parmesan heartland]]></title>
+            <description><![CDATA[[Lifestyle] Extreme heat hits Parmesan heartland]]></description>
+            <link>https://bdnews24.com/lifestyle/16e0e58a0ca4</link>
+            <guid isPermaLink="true">https://bdnews24.com/lifestyle/16e0e58a0ca4</guid>
+            <pubDate>Mon, 13 Jul 2026 20:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/heat-parmesan-italy-13072026-01-1783954011.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Houthis vow retaliation over Sanaa airport attack]]></title>
+            <description><![CDATA[[World] Houthis vow retaliation over Sanaa airport attack]]></description>
+            <link>https://bdnews24.com/world/e3fa82ba6cb7</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e3fa82ba6cb7</guid>
+            <pubDate>Mon, 13 Jul 2026 20:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/sanna-airport-13072026-1783953834.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US, Iran trade attacks as Hormuz dispute deepens]]></title>
+            <description><![CDATA[[World] US, Iran trade attacks as Hormuz dispute deepens]]></description>
+            <link>https://bdnews24.com/world/3e7e430ab2b2</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/3e7e430ab2b2</guid>
+            <pubDate>Mon, 13 Jul 2026 20:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/iran-us-attacks-13072026-01-1783953067.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[HC seeks dower payment framework]]></title>
+            <description><![CDATA[[Bangladesh] HC seeks dower payment framework]]></description>
+            <link>https://bdnews24.com/bangladesh/cea3409cb101</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cea3409cb101</guid>
+            <pubDate>Mon, 13 Jul 2026 20:13:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026January/SM/second-marriage-030324-204-1768147015.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ASEAN outreach risks legitimising Myanmar leaders]]></title>
+            <description><![CDATA[[World] ASEAN outreach risks legitimising Myanmar leaders]]></description>
+            <link>https://bdnews24.com/world/e31bcb5fdeb5</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e31bcb5fdeb5</guid>
+            <pubDate>Mon, 13 Jul 2026 20:01:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/asean-meeting-13072026-1783951182.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Survivors recount deadly Bangkok bar inferno]]></title>
+            <description><![CDATA[[World] Survivors recount deadly Bangkok bar inferno]]></description>
+            <link>https://bdnews24.com/world/9ccc88e8c250</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/9ccc88e8c250</guid>
+            <pubDate>Mon, 13 Jul 2026 20:01:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/bankok-fire-13072026-1783951191.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[No rethink on Laldia terminal deal: shipping minister]]></title>
+            <description><![CDATA[[Business] No rethink on Laldia terminal deal: shipping minister]]></description>
+            <link>https://bdnews24.com/business/e14c88a530f9</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/e14c88a530f9</guid>
+            <pubDate>Mon, 13 Jul 2026 19:57:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025May/SM/chittagong-port-bondor-250525-03-1748286875.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Leave cancelled for flood health response]]></title>
             <description><![CDATA[[Bangladesh] Leave cancelled for flood health response]]></description>
@@ -23,150 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/f28a8f1eb94e</guid>
             <pubDate>Mon, 13 Jul 2026 19:23:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/coxs-bazar-flood-100726-01-1783696681.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US should control Strait of Hormuz: Trump]]></title>
-            <description><![CDATA[[West Asia] US should control Strait of Hormuz: Trump]]></description>
-            <link>https://bdnews24.com/world/middle-east/7fe1bea4ce4a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/7fe1bea4ce4a</guid>
-            <pubDate>Mon, 13 Jul 2026 19:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/hormuz-090726-1783572530.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[33,000 held in special drive: police]]></title>
-            <description><![CDATA[[Bangladesh] 33,000 held in special drive: police]]></description>
-            <link>https://bdnews24.com/bangladesh/82162368b396</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/82162368b396</guid>
-            <pubDate>Mon, 13 Jul 2026 19:12:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/police-head-quarters-130726-01-1783946528.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dallas World Cup pitch nears final whistle]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Dallas World Cup pitch nears final whistle]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/629800ccc51e</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/629800ccc51e</guid>
-            <pubDate>Mon, 13 Jul 2026 18:56:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/dallas-world-cup-pitches-130726-01-1783947296.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sorloth faces online abuse after Norway exit]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Sorloth faces online abuse after Norway exit]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/39f755fab999</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/39f755fab999</guid>
-            <pubDate>Mon, 13 Jul 2026 18:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/sorloth-online-abuse-130726-01-1783947240.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UK outlaws 2 Iranian groups over antisemitic attacks]]></title>
-            <description><![CDATA[[World] UK outlaws 2 Iranian groups over antisemitic attacks]]></description>
-            <link>https://bdnews24.com/world/03c1822e0d5f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/03c1822e0d5f</guid>
-            <pubDate>Mon, 13 Jul 2026 18:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/islamic-revolutionary-guard-corps-130726-01-1783946405.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[21,000 antivenom doses ready for floods: minister]]></title>
-            <description><![CDATA[[Bangladesh] 21,000 antivenom doses ready for floods: minister]]></description>
-            <link>https://bdnews24.com/bangladesh/5d087d8e8495</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5d087d8e8495</guid>
-            <pubDate>Mon, 13 Jul 2026 18:38:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sarder-sakhawat-hossain-130726-1783945093.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brief calm for Dhaka, more rain on the way]]></title>
-            <description><![CDATA[[Bangladesh] Brief calm for Dhaka, more rain on the way]]></description>
-            <link>https://bdnews24.com/bangladesh/83a18bb1c752</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/83a18bb1c752</guid>
-            <pubDate>Mon, 13 Jul 2026 18:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/waterlog-dhaka-medical-college-hospital-120726-03-1783937107.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Narinda road collapse halts traffic]]></title>
-            <description><![CDATA[[Bangladesh] Narinda road collapse halts traffic]]></description>
-            <link>https://bdnews24.com/bangladesh/0a13154b4aec</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0a13154b4aec</guid>
-            <pubDate>Mon, 13 Jul 2026 18:25:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/narinda-road-collapse-130726-01-1783943263.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Flood death toll rises to 54]]></title>
-            <description><![CDATA[[Bangladesh] Flood death toll rises to 54]]></description>
-            <link>https://bdnews24.com/bangladesh/e0fa47af7d36</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e0fa47af7d36</guid>
-            <pubDate>Mon, 13 Jul 2026 18:23:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sunamganj-river-130726-01-1783936845.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PM tours Army’s jungle exercise]]></title>
-            <description><![CDATA[[Image] PM tours Army’s jungle exercise]]></description>
-            <link>https://bdnews24.com/media-en/image/2d13370fbbc0</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/2d13370fbbc0</guid>
-            <pubDate>Mon, 13 Jul 2026 18:21:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/tarique-rahman-130726-39-1783942255.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BNP trip to greet PM hits snag]]></title>
-            <description><![CDATA[[Bangladesh] BNP trip to greet PM hits snag]]></description>
-            <link>https://bdnews24.com/bangladesh/1eea36f7d5ea</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1eea36f7d5ea</guid>
-            <pubDate>Mon, 13 Jul 2026 18:18:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/barishal-launce-130726-01-1783939581.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shadik Kayem among 9 leaving Shibir]]></title>
-            <description><![CDATA[[Campus] Shadik Kayem among 9 leaving Shibir]]></description>
-            <link>https://bdnews24.com/campus/f9e786ed07a7</link>
-            <guid isPermaLink="true">https://bdnews24.com/campus/f9e786ed07a7</guid>
-            <pubDate>Mon, 13 Jul 2026 18:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sadik-kayem-130726-011-1783942550.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[5 days trapped by floods in Satkania]]></title>
-            <description><![CDATA[[Bangladesh] 5 days trapped by floods in Satkania]]></description>
-            <link>https://bdnews24.com/bangladesh/b676843d08a2</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b676843d08a2</guid>
-            <pubDate>Mon, 13 Jul 2026 18:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/satkania-trimuhani-flood-130726-01-1783942390.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PM watches Army anti-drone drill]]></title>
-            <description><![CDATA[[Bangladesh] PM watches Army anti-drone drill]]></description>
-            <link>https://bdnews24.com/bangladesh/64003b43bc7c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/64003b43bc7c</guid>
-            <pubDate>Mon, 13 Jul 2026 17:42:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/tarique-rahman-army-wargame-130726-01-1783939546.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2 die of dengue, 327 hospitalised]]></title>
-            <description><![CDATA[[Health] 2 die of dengue, 327 hospitalised]]></description>
-            <link>https://bdnews24.com/health/11c1d81cd553</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/11c1d81cd553</guid>
-            <pubDate>Mon, 13 Jul 2026 17:08:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024October/SM/dengue-mugda-hospital-231024-014-1729682297.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ad-din Hospital seeks licence back, inspection due]]></title>
-            <description><![CDATA[[Health] Ad-din Hospital seeks licence back, inspection due]]></description>
-            <link>https://bdnews24.com/health/5510667f27e9</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/5510667f27e9</guid>
-            <pubDate>Mon, 13 Jul 2026 17:03:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sakhawat-hossain-130726-01-1783938579.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Minister asks Saudi envoy to cut Hajj costs]]></title>
-            <description><![CDATA[[Bangladesh] Minister asks Saudi envoy to cut Hajj costs]]></description>
-            <link>https://bdnews24.com/bangladesh/7e7a0dbd299a</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7e7a0dbd299a</guid>
-            <pubDate>Mon, 13 Jul 2026 17:00:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/civil-aviation-minister-soudi-ambassador-130726-1783940420.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[EU launches $1bn aid initiative for Gaza]]></title>
-            <description><![CDATA[[Europe] EU launches $1bn aid initiative for Gaza]]></description>
-            <link>https://bdnews24.com/world/europe/4c8a7be6b96e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/4c8a7be6b96e</guid>
-            <pubDate>Mon, 13 Jul 2026 16:57:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/eu-flags-130716-01-1783940216.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
