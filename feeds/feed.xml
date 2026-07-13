@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – Latest News]]></title>
+        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Jul 2026 01:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jul 2026 05:21:23 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Jul 2026 01:23:24 GMT</pubDate>
+        <pubDate>Mon, 13 Jul 2026 05:21:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
-            <link>https://bdnews24.com</link>
-            <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Mon, 13 Jul 2026 01:23:24 GMT</pubDate>
+            <title><![CDATA[No female teachers at school for 600 girls]]></title>
+            <description><![CDATA[[Education] No female teachers at school for 600 girls]]></description>
+            <link>https://bdnews24.com/education/25d779cce81d</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/25d779cce81d</guid>
+            <pubDate>Mon, 13 Jul 2026 11:17:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/moulavibazar-girls-school-130726-01-1783915918.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[13 wedding guests die in Indonesia crash]]></title>
+            <description><![CDATA[[South-East Asia] 13 wedding guests die in Indonesia crash]]></description>
+            <link>https://bdnews24.com/world/south-east-asia/367612220010</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/south-east-asia/367612220010</guid>
+            <pubDate>Mon, 13 Jul 2026 11:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/accident-280526-1783919559.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Allies to muster more air defence aid for Ukraine]]></title>
+            <description><![CDATA[[Europe] Allies to muster more air defence aid for Ukraine]]></description>
+            <link>https://bdnews24.com/world/europe/3e3771ffd8ca</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/3e3771ffd8ca</guid>
+            <pubDate>Mon, 13 Jul 2026 10:46:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/ursula-zelensky-130726-01-1783917915.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[EU ministers to debate curbing trade with Israeli settlements]]></title>
+            <description><![CDATA[[Europe] EU ministers to debate curbing trade with Israeli settlements]]></description>
+            <link>https://bdnews24.com/world/europe/07424811fa60</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/07424811fa60</guid>
+            <pubDate>Mon, 13 Jul 2026 09:51:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/eu-israeli-settlements-130726-01-1783914655.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sinner fends off Zverev to retain Wimbledon crown]]></title>
+            <description><![CDATA[[Sport] Sinner fends off Zverev to retain Wimbledon crown]]></description>
+            <link>https://bdnews24.com/sport/476c98700ca3</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/476c98700ca3</guid>
+            <pubDate>Mon, 13 Jul 2026 09:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/wimbledon-sinner-zverev-130726-01-1783914355.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Messi to finally face England in semi-final]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Messi to finally face England in semi-final]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/0cac5f435104</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/0cac5f435104</guid>
+            <pubDate>Mon, 13 Jul 2026 09:42:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/messi-130726-1783914119.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[McConnell says he is unable to return to US Senate yet]]></title>
+            <description><![CDATA[[Americas] McConnell says he is unable to return to US Senate yet]]></description>
+            <link>https://bdnews24.com/world/americas/e09a2a4fc3c1</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/e09a2a4fc3c1</guid>
+            <pubDate>Mon, 13 Jul 2026 09:38:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/senator-mitch-mcconnell-130726-01-1783913875.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Germany funds 50,000 strike drones for Ukraine]]></title>
+            <description><![CDATA[[Europe] Germany funds 50,000 strike drones for Ukraine]]></description>
+            <link>https://bdnews24.com/world/europe/cd1802d684f3</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/cd1802d684f3</guid>
+            <pubDate>Mon, 13 Jul 2026 09:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/fpv-drone-13726-1783913503.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[France put past behind them as Spain beckon]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] France put past behind them as Spain beckon]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/46b465fe8b24</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/46b465fe8b24</guid>
+            <pubDate>Mon, 13 Jul 2026 09:28:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/world-cup-france-spain-preview-130726-01-1783913277.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[List of some significant fatal fires in Thailand]]></title>
+            <description><![CDATA[[South-East Asia] List of some significant fatal fires in Thailand]]></description>
+            <link>https://bdnews24.com/world/south-east-asia/4d88f98c31b1</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/south-east-asia/4d88f98c31b1</guid>
+            <pubDate>Mon, 13 Jul 2026 09:24:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/thai-pub-fire-130726-01-1783913026.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK to spend £250mn to protect Jewish communities]]></title>
+            <description><![CDATA[[Europe] UK to spend £250mn to protect Jewish communities]]></description>
+            <link>https://bdnews24.com/world/europe/8f7658bdeac8</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/8f7658bdeac8</guid>
+            <pubDate>Mon, 13 Jul 2026 09:20:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026April/SM/london-jewish-men-attack-300426-01-1777519172.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spain wildfire death toll rises to 13]]></title>
+            <description><![CDATA[[Europe] Spain wildfire death toll rises to 13]]></description>
+            <link>https://bdnews24.com/world/europe/8e4e1650aba7</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/8e4e1650aba7</guid>
+            <pubDate>Mon, 13 Jul 2026 09:15:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/spain-130726-1783912518.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Europe recorded 10,000 excess deaths during heatwave]]></title>
+            <description><![CDATA[[Europe] Europe recorded 10,000 excess deaths during heatwave]]></description>
+            <link>https://bdnews24.com/world/europe/24a084df52e5</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/24a084df52e5</guid>
+            <pubDate>Mon, 13 Jul 2026 09:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/europe-heatwave-excess-deaths-130726-01-1783912256.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India holds out for better terms in US trade talks]]></title>
+            <description><![CDATA[[Economy] India holds out for better terms in US trade talks]]></description>
+            <link>https://bdnews24.com/economy/5c31410649bc</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/5c31410649bc</guid>
+            <pubDate>Mon, 13 Jul 2026 09:08:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/modi-trump-130726-01-1783912013.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[9 die in Mexico traffic accident]]></title>
+            <description><![CDATA[[Americas] 9 die in Mexico traffic accident]]></description>
+            <link>https://bdnews24.com/world/americas/cd8566053768</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/cd8566053768</guid>
+            <pubDate>Mon, 13 Jul 2026 09:03:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/mexico-accident-130726-1783911786.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM launches tree plantation drive in Gournadi]]></title>
+            <description><![CDATA[[Politics] PM launches tree plantation drive in Gournadi]]></description>
+            <link>https://bdnews24.com/politics/51177dc5144a</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/51177dc5144a</guid>
+            <pubDate>Mon, 13 Jul 2026 08:59:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/tarique-rahman-130726-03-1783915726.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[27 die in fire at Bangkok bar]]></title>
+            <description><![CDATA[[South Asia] 27 die in fire at Bangkok bar]]></description>
+            <link>https://bdnews24.com/world/south-asia/447def42ab93</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/south-asia/447def42ab93</guid>
+            <pubDate>Mon, 13 Jul 2026 08:28:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/bangkok-pub-fire-130726-02-1783909659.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Swiss anger tinged with pride after quarter-final exit]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Swiss anger tinged with pride after quarter-final exit]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/caac5b69bc8b</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/caac5b69bc8b</guid>
+            <pubDate>Mon, 13 Jul 2026 01:49:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/switzerland-exit-130726-01-1783885706.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘No easy fix’ for Dhaka waterlogging]]></title>
+            <description><![CDATA[[Bangladesh] ‘No easy fix’ for Dhaka waterlogging]]></description>
+            <link>https://bdnews24.com/bangladesh/94c606930724</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/94c606930724</guid>
+            <pubDate>Mon, 13 Jul 2026 01:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/waterlogging-armbag-120726-007-1783869940.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ghalenoei stays on as Iran coach for Asian Cup]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Ghalenoei stays on as Iran coach for Asian Cup]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/376ba78cd4a3</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/376ba78cd4a3</guid>
+            <pubDate>Mon, 13 Jul 2026 01:29:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/amir-ghalenoei-130726-01-1783884515.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
