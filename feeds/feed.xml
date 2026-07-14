@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jul 2026 21:43:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 22:43:41 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Jul 2026 21:43:50 GMT</pubDate>
+        <pubDate>Tue, 14 Jul 2026 22:43:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[France fail Spanish test in spectacular fashion]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] France fail Spanish test in spectacular fashion]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/82caa11206b0</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/82caa11206b0</guid>
+            <pubDate>Wed, 15 Jul 2026 04:29:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/france-collapse-150726-01-1784068071.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[US launches fresh strikes on Iran]]></title>
             <description><![CDATA[[West Asia] US launches fresh strikes on Iran]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/2a6e7f57a251</guid>
             <pubDate>Tue, 14 Jul 2026 22:40:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/leandro-trossard-140726-01-1784047161.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[WFP warns of deeper Sudan hunger crisis due to war]]></title>
-            <description><![CDATA[[World] WFP warns of deeper Sudan hunger crisis due to war]]></description>
-            <link>https://bdnews24.com/world/f0e7fc8db6c1</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/f0e7fc8db6c1</guid>
-            <pubDate>Tue, 14 Jul 2026 22:29:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/sudan-crisis-140726-01-1784046484.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
