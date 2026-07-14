@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News]]></title>
-        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
+        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jul 2026 16:06:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 17:55:21 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Jul 2026 16:06:29 GMT</pubDate>
+        <pubDate>Tue, 14 Jul 2026 17:55:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Bogura University a step closer to reality]]></title>
-            <description><![CDATA[[Education] Bogura University a step closer to reality]]></description>
-            <link>https://bdnews24.com/education/78854d50f383</link>
-            <guid isPermaLink="true">https://bdnews24.com/education/78854d50f383</guid>
-            <pubDate>Tue, 14 Jul 2026 22:04:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/tarique-rahman-pm-300426-004-1777565651.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India launches UNSC seat bid]]></title>
-            <description><![CDATA[[Neighbours] India launches UNSC seat bid]]></description>
-            <link>https://bdnews24.com/neighbours/460651942709</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/460651942709</guid>
-            <pubDate>Tue, 14 Jul 2026 21:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/india-unsc-140726-01-1784039926.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[EU aviation body reinstates West Asia flights warning]]></title>
-            <description><![CDATA[[West Asia] EU aviation body reinstates West Asia flights warning]]></description>
-            <link>https://bdnews24.com/world/middle-east/651c0af49156</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/651c0af49156</guid>
-            <pubDate>Tue, 14 Jul 2026 21:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/eu-flight-warning-14072026-01-1784043688.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[HSC protesters regroup outside parliament]]></title>
-            <description><![CDATA[[Bangladesh] HSC protesters regroup outside parliament]]></description>
-            <link>https://bdnews24.com/bangladesh/37e6050490ae</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/37e6050490ae</guid>
-            <pubDate>Tue, 14 Jul 2026 21:36:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/hsc-students-strike-140726-01-1784041611.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Milon regrets 'farm chickens' remark]]></title>
-            <description><![CDATA[[Bangladesh] Milon regrets 'farm chickens' remark]]></description>
-            <link>https://bdnews24.com/bangladesh/680016adac71</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/680016adac71</guid>
-            <pubDate>Tue, 14 Jul 2026 21:19:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ehsanul-hoque-milon-140726-011-1784040785.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Students protest demanding education minister's resignation]]></title>
-            <description><![CDATA[[Image] Students protest demanding education minister's resignation]]></description>
-            <link>https://bdnews24.com/media-en/image/2b50eea3d3fe</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/2b50eea3d3fe</guid>
-            <pubDate>Tue, 14 Jul 2026 20:50:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/students-block-education-minister-resignation-140726-11-1784029294.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[HSC retest announced for three subjects]]></title>
-            <description><![CDATA[[Education] HSC retest announced for three subjects]]></description>
-            <link>https://bdnews24.com/education/28f9f2bf57de</link>
-            <guid isPermaLink="true">https://bdnews24.com/education/28f9f2bf57de</guid>
-            <pubDate>Tue, 14 Jul 2026 20:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ehsanul-hoque-milon-140726-1784037828.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Maligned Spence becomes England's WC super-sub]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Maligned Spence becomes England's WC super-sub]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/ddfed0efc036</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/ddfed0efc036</guid>
-            <pubDate>Tue, 14 Jul 2026 20:40:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/djed-spence-140726-01-1784039999.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine's state weapons producer chief resigns]]></title>
-            <description><![CDATA[[World] Ukraine's state weapons producer chief resigns]]></description>
-            <link>https://bdnews24.com/world/991f4dce51e3</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/991f4dce51e3</guid>
-            <pubDate>Tue, 14 Jul 2026 20:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/ukraine-weapons-14072026-01-1784039834.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Russia accuses Ukraine of terrorism in Sea of Azov]]></title>
-            <description><![CDATA[[World] Russia accuses Ukraine of terrorism in Sea of Azov]]></description>
-            <link>https://bdnews24.com/world/1debe551799b</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/1debe551799b</guid>
-            <pubDate>Tue, 14 Jul 2026 20:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/russia-ukraine-azov-14072026-01-1784039541.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Germany: Google AI search tools bound by media law]]></title>
-            <description><![CDATA[[Technology] Germany: Google AI search tools bound by media law]]></description>
-            <link>https://bdnews24.com/technology/745f22fb2c95</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/745f22fb2c95</guid>
-            <pubDate>Tue, 14 Jul 2026 20:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/germany-google-140726-01-1784039389.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UNDP Bangladesh gets new resident envoy]]></title>
-            <description><![CDATA[[Bangladesh] UNDP Bangladesh gets new resident envoy]]></description>
-            <link>https://bdnews24.com/bangladesh/36a8bd9049a4</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/36a8bd9049a4</guid>
-            <pubDate>Tue, 14 Jul 2026 20:19:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/stephen-rodriques-140726-01-1784036206.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Crowds pack Oslo to celebrate Norway's WC turnaround]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Crowds pack Oslo to celebrate Norway's WC turnaround]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/e7176e05d4f4</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/e7176e05d4f4</guid>
-            <pubDate>Tue, 14 Jul 2026 20:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/norway-squad-140726-01-1784038380.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Broiler Chicken Party emerges on Facebook]]></title>
-            <description><![CDATA[[Bangladesh] Broiler Chicken Party emerges on Facebook]]></description>
-            <link>https://bdnews24.com/bangladesh/17f584f6467c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/17f584f6467c</guid>
-            <pubDate>Tue, 14 Jul 2026 20:10:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/broiler-chicken-party-14072026-1784034744.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warren Buffett ends Gates Foundation donations]]></title>
-            <description><![CDATA[[World] Warren Buffett ends Gates Foundation donations]]></description>
-            <link>https://bdnews24.com/world/bf7a5227b27d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/bf7a5227b27d</guid>
-            <pubDate>Tue, 14 Jul 2026 20:10:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/buffet-gates-140726-01-1784038130.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA['VARgentina' into semis amid complaints]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] 'VARgentina' into semis amid complaints]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/5eb46d3407a2</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/5eb46d3407a2</guid>
-            <pubDate>Tue, 14 Jul 2026 20:00:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/lionel-messi-140726-06-1784037533.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brussels construction site fire sees multiple fatalities]]></title>
-            <description><![CDATA[[World] Brussels construction site fire sees multiple fatalities]]></description>
-            <link>https://bdnews24.com/world/fba57a919f97</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/fba57a919f97</guid>
-            <pubDate>Tue, 14 Jul 2026 19:32:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/brussels-fire-14072026-1784035887.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Police disperse HSC protesters outside parliament]]></title>
-            <description><![CDATA[[Bangladesh] Police disperse HSC protesters outside parliament]]></description>
-            <link>https://bdnews24.com/bangladesh/2d5489a2a88c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2d5489a2a88c</guid>
-            <pubDate>Tue, 14 Jul 2026 19:31:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/hsc-students-at-sangsad-area-140726-01-1784034935.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Minister vows re-exams at affected HSC centres]]></title>
-            <description><![CDATA[[Bangladesh] Minister vows re-exams at affected HSC centres]]></description>
-            <link>https://bdnews24.com/bangladesh/a0bd9c458fc9</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a0bd9c458fc9</guid>
-            <pubDate>Tue, 14 Jul 2026 19:25:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ehsanul-hoque-milon-140726-1784033878.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brighton sign Croatia defender Vuskovic]]></title>
-            <description><![CDATA[[Sport] Brighton sign Croatia defender Vuskovic]]></description>
-            <link>https://bdnews24.com/sport/bcedb9e3c897</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/bcedb9e3c897</guid>
-            <pubDate>Tue, 14 Jul 2026 19:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/luka-vuskovic-140726-01-1784034614.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
+            <link>https://bdnews24.com</link>
+            <guid isPermaLink="true">https://bdnews24.com</guid>
+            <pubDate>Tue, 14 Jul 2026 17:55:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
