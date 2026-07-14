@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jul 2026 20:05:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 21:43:50 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Jul 2026 20:05:42 GMT</pubDate>
+        <pubDate>Tue, 14 Jul 2026 21:43:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US launches fresh strikes on Iran]]></title>
+            <description><![CDATA[[West Asia] US launches fresh strikes on Iran]]></description>
+            <link>https://bdnews24.com/world/middle-east/9ee9ee734ae6</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/9ee9ee734ae6</guid>
+            <pubDate>Wed, 15 Jul 2026 02:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/us-projectile-iran-130726-1783926440.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Meta used AI to sack workers with medical conditions]]></title>
+            <description><![CDATA[[Technology] Meta used AI to sack workers with medical conditions]]></description>
+            <link>https://bdnews24.com/technology/9267f7b69bf1</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/9267f7b69bf1</guid>
+            <pubDate>Wed, 15 Jul 2026 02:46:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/meta-logo-030626-01-1780498950.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Lebanon, Israel revive talks in Rome]]></title>
             <description><![CDATA[[World] Lebanon, Israel revive talks in Rome]]></description>
@@ -81,12 +97,12 @@
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/hsc-students-strike-update-140726-01-1784047493.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Barcola, Tchouameni back for Spain semi]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Barcola, Tchouameni back for Spain semi]]></description>
+            <title><![CDATA[Spain march into second World Cup final]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Spain march into second World Cup final]]></description>
             <link>https://bdnews24.com/sport/world-cup-2026/7e2e9dcbd822</link>
             <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/7e2e9dcbd822</guid>
             <pubDate>Wed, 15 Jul 2026 00:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/barcola-tchouameni-back-spain-140726-01-1784054897.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/spain-150726-01-1784062779.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Floods wash away Tk 3.69bn in fisheries]]></title>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/f0e7fc8db6c1</guid>
             <pubDate>Tue, 14 Jul 2026 22:29:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/sudan-crisis-140726-01-1784046484.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US-Iran hostilities ‘huge setback’ for civilians: UNHRC]]></title>
-            <description><![CDATA[[World] US-Iran hostilities ‘huge setback’ for civilians: UNHRC]]></description>
-            <link>https://bdnews24.com/world/87bd67b098c2</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/87bd67b098c2</guid>
-            <pubDate>Tue, 14 Jul 2026 22:20:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/iran-war-unhrc-14072026-01-1784045922.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ICE agent fatally shoots driver in Maine]]></title>
-            <description><![CDATA[[World] ICE agent fatally shoots driver in Maine]]></description>
-            <link>https://bdnews24.com/world/c69f96a4c461</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/c69f96a4c461</guid>
-            <pubDate>Tue, 14 Jul 2026 22:15:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/ice-shooting-14072026-01-1784045644.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
