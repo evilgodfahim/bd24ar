@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ]]></title>
+        <description><![CDATA[bangla.bdnews24.com আর্কাইভ থেকে সর্বশেষ সংবাদ]]></description>
         <link>https://bangla.bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jul 2026 17:55:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 18:57:23 GMT</lastBuildDate>
         <atom:link href="https://bangla.bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Jul 2026 17:55:22 GMT</pubDate>
+        <pubDate>Tue, 14 Jul 2026 18:57:23 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
-            <link>https://bangla.bdnews24.com</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com</guid>
-            <pubDate>Tue, 14 Jul 2026 17:55:22 GMT</pubDate>
+            <title><![CDATA[আইকিউআইও পদ্ধতিতে ১২ কোটি টাকা তুলবে রয়্যাল ফুটওয়্যার]]></title>
+            <description><![CDATA[[পুঁজিবাজার] আইকিউআইও পদ্ধতিতে ১২ কোটি টাকা তুলবে রয়্যাল ফুটওয়্যার]]></description>
+            <link>https://bangla.bdnews24.com/stocks/bd2d5176f0e8</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/stocks/bd2d5176f0e8</guid>
+            <pubDate>Tue, 14 Jul 2026 18:57:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/royal-footwear-140726-1784055324.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[শাবিপ্রবিতে ‘বায়োইনফরমেটিক্স' বিষয়ক সেমিনার]]></title>
+            <description><![CDATA[[ভিডিও(হ্যালো)] শাবিপ্রবিতে ‘বায়োইনফরমেটিক্স' বিষয়ক সেমিনার]]></description>
+            <link>https://bangla.bdnews24.com/hello/hello-video/056d5322bc34</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/hello/hello-video/056d5322bc34</guid>
+            <pubDate>Tue, 14 Jul 2026 18:57:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ws-bioinformatics-seminar-thum-1784055178.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[দুই দশক পর কলকাতায় ফিরছেন তসলিমা নাসরিন]]></title>
+            <description><![CDATA[[বাংলাদেশ] দুই দশক পর কলকাতায় ফিরছেন তসলিমা নাসরিন]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/dcd7d408b790</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/dcd7d408b790</guid>
+            <pubDate>Tue, 14 Jul 2026 18:57:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/taslima-nasrin-140726-1784055100.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[সালমান কি বান্দ্রা ছেড়ে দিচ্ছেন]]></title>
+            <description><![CDATA[[গ্লিটজ] সালমান কি বান্দ্রা ছেড়ে দিচ্ছেন]]></description>
+            <link>https://bangla.bdnews24.com/glitz/630e382cc921</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/glitz/630e382cc921</guid>
+            <pubDate>Tue, 14 Jul 2026 18:57:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/salman-khan-140726-01-1784054805.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বন্যা: মৎস্য খাতেই ক্ষতি ৩৬৯ কোটি টাকা]]></title>
+            <description><![CDATA[[বাংলাদেশ] বন্যা: মৎস্য খাতেই ক্ষতি ৩৬৯ কোটি টাকা]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/73a5d5a92a3c</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/73a5d5a92a3c</guid>
+            <pubDate>Tue, 14 Jul 2026 18:57:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ctg-flood-situation-100726-01-1783694391.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বন্যা পরিস্থিতি মোকাবিলায় নেত্রকোণায় প্রস্তুত ৩৪ মেডিকেল টিম]]></title>
+            <description><![CDATA[[ভিডিও(হ্যালো)] বন্যা পরিস্থিতি মোকাবিলায় নেত্রকোণায় প্রস্তুত ৩৪ মেডিকেল টিম]]></description>
+            <link>https://bangla.bdnews24.com/hello/hello-video/e69e523d7d5f</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/hello/hello-video/e69e523d7d5f</guid>
+            <pubDate>Tue, 14 Jul 2026 18:57:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ws-flood-prep-netrokona-thum-1784054470.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[গিলের দারুণ ইনিংস ও আকসারের অলরাউন্ড নৈপুণ্যে ভারতের জয়]]></title>
+            <description><![CDATA[[ক্রিকেট] গিলের দারুণ ইনিংস ও আকসারের অলরাউন্ড নৈপুণ্যে ভারতের জয়]]></description>
+            <link>https://bangla.bdnews24.com/cricket/45f886835d00</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/cricket/45f886835d00</guid>
+            <pubDate>Tue, 14 Jul 2026 18:57:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/india-150726-01-1784053608.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[পুঁজিবাজারে ‘ইন্ট্রা-ডে’ লেনদেনে স্টক এক্সচেঞ্জের প্রস্তুতিতে সায় বিএসইসির]]></title>
+            <description><![CDATA[[পুঁজিবাজার] পুঁজিবাজারে ‘ইন্ট্রা-ডে’ লেনদেনে স্টক এক্সচেঞ্জের প্রস্তুতিতে সায় বিএসইসির]]></description>
+            <link>https://bangla.bdnews24.com/stocks/2d196ab0e0e8</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/stocks/2d196ab0e0e8</guid>
+            <pubDate>Tue, 14 Jul 2026 18:57:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024August/SM/bsec-building-1723484910.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[দল হিসেবে আওয়ামী লীগের বিচার ত্বরান্বিত করার দাবি সংসদে]]></title>
+            <description><![CDATA[[রাজনীতি] দল হিসেবে আওয়ামী লীগের বিচার ত্বরান্বিত করার দাবি সংসদে]]></description>
+            <link>https://bangla.bdnews24.com/politics/9201ae828a20</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/politics/9201ae828a20</guid>
+            <pubDate>Tue, 14 Jul 2026 18:57:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024August/SM/awami-league-office-bb-avenue-050824-19-1724009988.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[একাদশে ২ পরিবর্তন এনে স্পেনের সামনে ফ্রান্স]]></title>
+            <description><![CDATA[[খেলা] একাদশে ২ পরিবর্তন এনে স্পেনের সামনে ফ্রান্স]]></description>
+            <link>https://bangla.bdnews24.com/sport/8fcda3c57fe2</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/8fcda3c57fe2</guid>
+            <pubDate>Tue, 14 Jul 2026 18:57:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/france-150726-01-1784052376.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[আন্দোলনেও অনড় সরকার, বুধবারের এইচএসসি পরীক্ষা চলবে]]></title>
+            <description><![CDATA[[বাংলাদেশ] আন্দোলনেও অনড় সরকার, বুধবারের এইচএসসি পরীক্ষা চলবে]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/ba7b6d307457</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/ba7b6d307457</guid>
+            <pubDate>Tue, 14 Jul 2026 18:57:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/hsc-students-at-sangsad-area-140726-03-1784052250.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[যুদ্ধাপরাধে দণ্ডিত আযাদ সুযোগ পেয়েছেন, শেখ হাসিনা পাবেন?]]></title>
+            <description><![CDATA[[রাজনীতি] যুদ্ধাপরাধে দণ্ডিত আযাদ সুযোগ পেয়েছেন, শেখ হাসিনা পাবেন?]]></description>
+            <link>https://bangla.bdnews24.com/politics/ce46ccf4e7a4</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/politics/ce46ccf4e7a4</guid>
+            <pubDate>Tue, 14 Jul 2026 18:57:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sheikh-hasina-tribunal-graphics-140726-01-1784050552.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[শেখ হাসিনার প্রত্যর্পণের বিষয় আইনিভাবে সামাল দেওয়া হবে: ভারত]]></title>
+            <description><![CDATA[[বাংলাদেশ] শেখ হাসিনার প্রত্যর্পণের বিষয় আইনিভাবে সামাল দেওয়া হবে: ভারত]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/8f889398c8fc</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/8f889398c8fc</guid>
+            <pubDate>Tue, 14 Jul 2026 18:57:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025March/SM/randhir-jaiswal-070325-001-1741357473.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[পরীক্ষার্থীদের সঙ্গে ‘হাংকি-পাংকি’ করবেন না, লন্ডন পাঠিয়ে দেবে: নাসীরুদ্দীন]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] পরীক্ষার্থীদের সঙ্গে ‘হাংকি-পাংকি’ করবেন না, লন্ডন পাঠিয়ে দেবে: নাসীরুদ্দীন]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/1afff8b01755</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/1afff8b01755</guid>
+            <pubDate>Tue, 14 Jul 2026 18:57:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bogra-ncp-nasir-140726-01-1784050011.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[হরমুজ প্রণালিতে ২০% টোল আদায়ের প্রস্তাব থেকে সরে এলেন ট্রাম্প]]></title>
+            <description><![CDATA[[বিশ্ব] হরমুজ প্রণালিতে ২০% টোল আদায়ের প্রস্তাব থেকে সরে এলেন ট্রাম্প]]></description>
+            <link>https://bangla.bdnews24.com/world/166766b82cb6</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/world/166766b82cb6</guid>
+            <pubDate>Tue, 14 Jul 2026 18:57:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/trump-140426-01-1784048599.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[মন্ত্রীর ‘১০০ প্যাকেট’ ত্রাণ বিতরণ শেষে অপেক্ষমাণ মরিয়মের প্রশ্ন, ‘আমারটা কই’]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] মন্ত্রীর ‘১০০ প্যাকেট’ ত্রাণ বিতরণ শেষে অপেক্ষমাণ মরিয়মের প্রশ্ন, ‘আমারটা কই’]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/b301bc0a5f4a</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/b301bc0a5f4a</guid>
+            <pubDate>Tue, 14 Jul 2026 18:57:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/coxsbazar-flood-food-help-140726-01-1784048309.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[শতভাগ মার্জিনে সোনালী ব্যাংকে এলসি খুলতে পারবে শাইনপুকুর সিরামিকস]]></title>
+            <description><![CDATA[[বাণিজ্য] শতভাগ মার্জিনে সোনালী ব্যাংকে এলসি খুলতে পারবে শাইনপুকুর সিরামিকস]]></description>
+            <link>https://bangla.bdnews24.com/business/d9a9d8d6a116</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/business/d9a9d8d6a116</guid>
+            <pubDate>Tue, 14 Jul 2026 18:57:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024September/SM/bangladesh-bank-110924-01-1726061067.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ব্রাহ্মণবাড়িয়ায় ওস্তাদ আলাউদ্দিন খাঁ সংগীতাঙ্গনের জমি ‘দখলের চেষ্টা’য় তারই স্বজনেরা!]]></title>
+            <description><![CDATA[[টিউব] ব্রাহ্মণবাড়িয়ায় ওস্তাদ আলাউদ্দিন খাঁ সংগীতাঙ্গনের জমি ‘দখলের চেষ্টা’য় তারই স্বজনেরা!]]></description>
+            <link>https://bangla.bdnews24.com/tube/9dee6f0c8f1f</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/9dee6f0c8f1f</guid>
+            <pubDate>Tue, 14 Jul 2026 18:57:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/brahmanbaria-the-alauddin-sangeetanganat-thumb-14072026-1784047739.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[নেতৃত্বের ভারে নুইয়ে না পড়ে দলকে জেতাতে চান হৃদয়]]></title>
+            <description><![CDATA[[ক্রিকেট] নেতৃত্বের ভারে নুইয়ে না পড়ে দলকে জেতাতে চান হৃদয়]]></description>
+            <link>https://bangla.bdnews24.com/cricket/3e7825e6f76f</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/cricket/3e7825e6f76f</guid>
+            <pubDate>Tue, 14 Jul 2026 18:57:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/towheed-hridoy-bangladesh-140726-1784047668.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[গ্রামীণ কল্যাণের ৬৬৬ কোটি টাকার করের মামলা বিচারাধীন, মওকুফের খবর ‘ভিত্তিহীন’: আইনজীবী]]></title>
+            <description><![CDATA[[বাণিজ্য] গ্রামীণ কল্যাণের ৬৬৬ কোটি টাকার করের মামলা বিচারাধীন, মওকুফের খবর ‘ভিত্তিহীন’: আইনজীবী]]></description>
+            <link>https://bangla.bdnews24.com/business/c178c7f372f4</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/business/c178c7f372f4</guid>
+            <pubDate>Tue, 14 Jul 2026 18:57:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/abdullah-al-mamun-grameen-koliyan-140726-01-1784047576.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
