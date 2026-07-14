@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jul 2026 09:42:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 11:15:00 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Jul 2026 09:42:34 GMT</pubDate>
+        <pubDate>Tue, 14 Jul 2026 11:15:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[HSC protesters return to Science Lab]]></title>
+            <description><![CDATA[[Bangladesh] HSC protesters return to Science Lab]]></description>
+            <link>https://bdnews24.com/bangladesh/13ad4be82b6a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/13ad4be82b6a</guid>
+            <pubDate>Tue, 14 Jul 2026 17:10:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sciencelab-blockade-140726-301-1784024669.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[HSC protesters scuffle with police at DU]]></title>
+            <description><![CDATA[[Campus] HSC protesters scuffle with police at DU]]></description>
+            <link>https://bdnews24.com/campus/e52022f267e0</link>
+            <guid isPermaLink="true">https://bdnews24.com/campus/e52022f267e0</guid>
+            <pubDate>Tue, 14 Jul 2026 16:21:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/du-police-student-clash-140726-201-1784021960.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Road crashes kill 463 in June]]></title>
+            <description><![CDATA[[Bangladesh] Road crashes kill 463 in June]]></description>
+            <link>https://bdnews24.com/bangladesh/4f5c552c24af</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4f5c552c24af</guid>
+            <pubDate>Tue, 14 Jul 2026 16:19:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/nilphamari-road-accident-120726-01-1783859107.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hasina can bring 'best lawyer in world': advisor]]></title>
+            <description><![CDATA[[Bangladesh] Hasina can bring 'best lawyer in world': advisor]]></description>
+            <link>https://bdnews24.com/bangladesh/6a5c8eb22504</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6a5c8eb22504</guid>
+            <pubDate>Tue, 14 Jul 2026 15:50:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/jahed-ur-rahman-140726-01-1784021645.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ctg protests demand unified HSC exam schedule]]></title>
+            <description><![CDATA[[Education] Ctg protests demand unified HSC exam schedule]]></description>
+            <link>https://bdnews24.com/education/2612e1055d1e</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/2612e1055d1e</guid>
+            <pubDate>Tue, 14 Jul 2026 15:46:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ctg-students-protest-1-140726-1784020194.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Bangladeshi teen goes missing in Portugal]]></title>
             <description><![CDATA[[Diaspora] Bangladeshi teen goes missing in Portugal]]></description>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/bfc1939d9489</guid>
             <pubDate>Tue, 14 Jul 2026 11:38:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/arg-navy-blue-140726-1784007480.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Asia shares choppy as S Korea chip push steadies sentiment]]></title>
-            <description><![CDATA[[Business] Asia shares choppy as S Korea chip push steadies sentiment]]></description>
-            <link>https://bdnews24.com/business/3f3704f81d3e</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/3f3704f81d3e</guid>
-            <pubDate>Tue, 14 Jul 2026 11:07:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/asia-shares-kospi-140726-01-1784005630.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[China detains US nuclear test expert]]></title>
-            <description><![CDATA[[THE LONG READ] China detains US nuclear test expert]]></description>
-            <link>https://bdnews24.com/the-long-read/7ac4dc117d0f</link>
-            <guid isPermaLink="true">https://bdnews24.com/the-long-read/7ac4dc117d0f</guid>
-            <pubDate>Tue, 14 Jul 2026 10:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/us-nuclear-test-expert-140726-1784004922.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil climbs to one-month high]]></title>
-            <description><![CDATA[[Business] Oil climbs to one-month high]]></description>
-            <link>https://bdnews24.com/business/5770ac4ab004</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/5770ac4ab004</guid>
-            <pubDate>Tue, 14 Jul 2026 10:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2025October/SM/oil-pumpjack-russia-131025-01-1760331762.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BUET student Sunny’s death: No ending of probe]]></title>
-            <description><![CDATA[[Bangladesh] BUET student Sunny’s death: No ending of probe]]></description>
-            <link>https://bdnews24.com/bangladesh/1ae3dd08676e</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1ae3dd08676e</guid>
-            <pubDate>Tue, 14 Jul 2026 10:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/tarikuzzaman-sunny-140726-01-1784000904.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Typhoon Bavi displaces 260,000]]></title>
-            <description><![CDATA[[Neighbours] Typhoon Bavi displaces 260,000]]></description>
-            <link>https://bdnews24.com/neighbours/3c49fc9b776d</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/3c49fc9b776d</guid>
-            <pubDate>Tue, 14 Jul 2026 10:25:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/china-typhoon-140726-1784003084.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
