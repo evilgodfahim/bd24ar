@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News]]></title>
-        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
+        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jul 2026 22:43:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 23:40:31 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Jul 2026 22:43:41 GMT</pubDate>
+        <pubDate>Tue, 14 Jul 2026 23:40:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[France fail Spanish test in spectacular fashion]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] France fail Spanish test in spectacular fashion]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/82caa11206b0</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/82caa11206b0</guid>
-            <pubDate>Wed, 15 Jul 2026 04:29:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/france-collapse-150726-01-1784068071.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US launches fresh strikes on Iran]]></title>
-            <description><![CDATA[[West Asia] US launches fresh strikes on Iran]]></description>
-            <link>https://bdnews24.com/world/middle-east/9ee9ee734ae6</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/9ee9ee734ae6</guid>
-            <pubDate>Wed, 15 Jul 2026 02:47:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/us-projectile-iran-130726-1783926440.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Meta used AI to sack workers with medical conditions]]></title>
-            <description><![CDATA[[Technology] Meta used AI to sack workers with medical conditions]]></description>
-            <link>https://bdnews24.com/technology/9267f7b69bf1</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/9267f7b69bf1</guid>
-            <pubDate>Wed, 15 Jul 2026 02:46:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/meta-logo-030626-01-1780498950.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lebanon, Israel revive talks in Rome]]></title>
-            <description><![CDATA[[World] Lebanon, Israel revive talks in Rome]]></description>
-            <link>https://bdnews24.com/world/49e71fd53a45</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/49e71fd53a45</guid>
-            <pubDate>Wed, 15 Jul 2026 01:36:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/lebanon-israel-14072026-1784057754.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Happy Messi ready for England test]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Happy Messi ready for England test]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/0eec795a7860</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/0eec795a7860</guid>
-            <pubDate>Wed, 15 Jul 2026 01:28:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/lionel-messi-150726-01-1784057259.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[McCullum apologises for England's Test results]]></title>
-            <description><![CDATA[[Sport] McCullum apologises for England's Test results]]></description>
-            <link>https://bdnews24.com/sport/c5fb5ee32834</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/c5fb5ee32834</guid>
-            <pubDate>Wed, 15 Jul 2026 01:27:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/brendon-mccullum-140726-01-1784057101.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump scraps Hormuz fee plan]]></title>
-            <description><![CDATA[[World] Trump scraps Hormuz fee plan]]></description>
-            <link>https://bdnews24.com/world/f92601e0905d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/f92601e0905d</guid>
-            <pubDate>Wed, 15 Jul 2026 01:25:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/hormuz-tensions-iran-100726-01-1783682535.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India outclass England in first ODI]]></title>
-            <description><![CDATA[[Cricket] India outclass England in first ODI]]></description>
-            <link>https://bdnews24.com/cricket/526f14b55deb</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/526f14b55deb</guid>
-            <pubDate>Wed, 15 Jul 2026 01:18:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/india-england-150726-01-1784056601.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[E Jean Carroll receives $5.63mn in Trump verdict]]></title>
-            <description><![CDATA[[World] E Jean Carroll receives $5.63mn in Trump verdict]]></description>
-            <link>https://bdnews24.com/world/9be9a9333624</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/9be9a9333624</guid>
-            <pubDate>Wed, 15 Jul 2026 01:14:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/jean-carrol-140726-01-1784056330.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wednesday's HSC exams to proceed]]></title>
-            <description><![CDATA[[Bangladesh] Wednesday's HSC exams to proceed]]></description>
-            <link>https://bdnews24.com/bangladesh/9198a7439f35</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9198a7439f35</guid>
-            <pubDate>Wed, 15 Jul 2026 01:08:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/hsc-students-at-sangsad-area-140726-03-1784052250.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Delhi's stance on Hasina ‘unchanged’]]></title>
-            <description><![CDATA[[Bangladesh] Delhi's stance on Hasina ‘unchanged’]]></description>
-            <link>https://bdnews24.com/bangladesh/8c834512e276</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8c834512e276</guid>
-            <pubDate>Wed, 15 Jul 2026 01:04:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025March/SM/randhir-jaiswal-070325-001-1741357473.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[HSC protesters end blockade, threaten march]]></title>
-            <description><![CDATA[[Bangladesh] HSC protesters end blockade, threaten march]]></description>
-            <link>https://bdnews24.com/bangladesh/9f52bf010525</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9f52bf010525</guid>
-            <pubDate>Wed, 15 Jul 2026 00:59:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/hsc-students-strike-update-140726-01-1784047493.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spain march into second World Cup final]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Spain march into second World Cup final]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/7e2e9dcbd822</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/7e2e9dcbd822</guid>
-            <pubDate>Wed, 15 Jul 2026 00:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/spain-150726-01-1784062779.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Floods wash away Tk 3.69bn in fisheries]]></title>
-            <description><![CDATA[[Bangladesh] Floods wash away Tk 3.69bn in fisheries]]></description>
-            <link>https://bdnews24.com/bangladesh/462d3f355b34</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/462d3f355b34</guid>
-            <pubDate>Wed, 15 Jul 2026 00:47:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ctg-flood-situation-100726-01-1783694391.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4 teachers served notices over HSC question error]]></title>
-            <description><![CDATA[[Bangladesh] 4 teachers served notices over HSC question error]]></description>
-            <link>https://bdnews24.com/bangladesh/9527d55a9f7e</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9527d55a9f7e</guid>
-            <pubDate>Wed, 15 Jul 2026 00:10:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sylhet-board-140726-01-1784046649.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Britain, EU sign Gibraltar treaty]]></title>
-            <description><![CDATA[[World] Britain, EU sign Gibraltar treaty]]></description>
-            <link>https://bdnews24.com/world/ebd01c1a4c78</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ebd01c1a4c78</guid>
-            <pubDate>Tue, 14 Jul 2026 23:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/gibraltar-eu-140726-01-1784048998.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US will be doing a lot of deals with Iraq: Trump]]></title>
-            <description><![CDATA[[World] US will be doing a lot of deals with Iraq: Trump]]></description>
-            <link>https://bdnews24.com/world/2381235aa40f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/2381235aa40f</guid>
-            <pubDate>Tue, 14 Jul 2026 23:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/us-iraq-deals-14072026-01-1784049010.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[9 killed in Kashmir clashes]]></title>
-            <description><![CDATA[[Asia Pacific] 9 killed in Kashmir clashes]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/e3809c0d5d65</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/e3809c0d5d65</guid>
-            <pubDate>Tue, 14 Jul 2026 23:03:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/kashmir-clash-14072026-01-1784048504.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Germany to approve €600mn package to cut red tape]]></title>
-            <description><![CDATA[[World] Germany to approve €600mn package to cut red tape]]></description>
-            <link>https://bdnews24.com/world/314d55a1a012</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/314d55a1a012</guid>
-            <pubDate>Tue, 14 Jul 2026 23:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/germany-redtape-14072026-01-1784048423.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trossard joins Besiktas from Arsenal]]></title>
-            <description><![CDATA[[Sport] Trossard joins Besiktas from Arsenal]]></description>
-            <link>https://bdnews24.com/sport/2a6e7f57a251</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/2a6e7f57a251</guid>
-            <pubDate>Tue, 14 Jul 2026 22:40:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/leandro-trossard-140726-01-1784047161.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
+            <link>https://bdnews24.com</link>
+            <guid isPermaLink="true">https://bdnews24.com</guid>
+            <pubDate>Tue, 14 Jul 2026 23:40:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
