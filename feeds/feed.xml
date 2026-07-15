@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jul 2026 21:53:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 22:45:14 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Jul 2026 21:53:43 GMT</pubDate>
+        <pubDate>Wed, 15 Jul 2026 22:45:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[England tried to hold on but fell short: Kane]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] England tried to hold on but fell short: Kane]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/76b008a1fab6</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/76b008a1fab6</guid>
+            <pubDate>Thu, 16 Jul 2026 04:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/harry-kane-160726-01-1784152769.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[US-Iran war bill may hit $100bn: NBC]]></title>
             <description><![CDATA[[World] US-Iran war bill may hit $100bn: NBC]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/media-en/image/f6fd1693e37b</guid>
             <pubDate>Wed, 15 Jul 2026 21:53:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/road-block-shahbagh-150726-02-1784123871.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Budget session ends]]></title>
-            <description><![CDATA[[Bangladesh] Budget session ends]]></description>
-            <link>https://bdnews24.com/bangladesh/449a327cccfb</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/449a327cccfb</guid>
-            <pubDate>Wed, 15 Jul 2026 21:22:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/live-budget-session-on-television-11062026-1781212077.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
