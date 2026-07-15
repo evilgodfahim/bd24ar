@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jul 2026 18:50:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 19:59:42 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Jul 2026 18:50:22 GMT</pubDate>
+        <pubDate>Wed, 15 Jul 2026 19:59:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US-Iran war bill may hit $100bn: NBC]]></title>
+            <description><![CDATA[[World] US-Iran war bill may hit $100bn: NBC]]></description>
+            <link>https://bdnews24.com/world/01d043ca76de</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/01d043ca76de</guid>
+            <pubDate>Thu, 16 Jul 2026 01:14:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/iran-war-bill-16072026-01-1784142851.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[England make 3 changes, Argentina 1]]></title>
             <description><![CDATA[[2026 FIFA World Cup] England make 3 changes, Argentina 1]]></description>
@@ -41,8 +49,8 @@
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/graffiti-dhaka-university-090824-015-1784135010.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Global calls to free Bangladeshi journos resurface]]></title>
-            <description><![CDATA[[Bangladesh] Global calls to free Bangladeshi journos resurface]]></description>
+            <title><![CDATA[Rights groups urge Bangladesh to free four journalists]]></title>
+            <description><![CDATA[[Bangladesh] Rights groups urge Bangladesh to free four journalists]]></description>
             <link>https://bdnews24.com/bangladesh/7bb5f3fdf895</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/7bb5f3fdf895</guid>
             <pubDate>Thu, 16 Jul 2026 00:08:00 GMT</pubDate>
@@ -97,8 +105,8 @@
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bandarban-heavy-rain-08072026-02-1783512962.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[US launches fresh strikes against Iran]]></title>
-            <description><![CDATA[[World] US launches fresh strikes against Iran]]></description>
+            <title><![CDATA[Tehran warns of 'existential war' with America]]></title>
+            <description><![CDATA[[World] Tehran warns of 'existential war' with America]]></description>
             <link>https://bdnews24.com/world/ebd7ffd05487</link>
             <guid isPermaLink="true">https://bdnews24.com/world/ebd7ffd05487</guid>
             <pubDate>Wed, 15 Jul 2026 22:55:00 GMT</pubDate>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/449a327cccfb</guid>
             <pubDate>Wed, 15 Jul 2026 21:22:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/live-budget-session-on-television-11062026-1781212077.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lebanon, Israel end 'pilot zones' talks]]></title>
-            <description><![CDATA[[World] Lebanon, Israel end 'pilot zones' talks]]></description>
-            <link>https://bdnews24.com/world/11b8d5cb8fc2</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/11b8d5cb8fc2</guid>
-            <pubDate>Wed, 15 Jul 2026 21:15:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/lebanon-israel-14072026-1784057754.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
