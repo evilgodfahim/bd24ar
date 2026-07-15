@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News]]></title>
-        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
+        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jul 2026 09:46:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 11:19:28 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Jul 2026 09:46:18 GMT</pubDate>
+        <pubDate>Wed, 15 Jul 2026 11:19:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Verdict on ACC’s case against SK Sur Jul 28]]></title>
-            <description><![CDATA[[Bangladesh] Verdict on ACC’s case against SK Sur Jul 28]]></description>
-            <link>https://bdnews24.com/bangladesh/218f715e3918</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/218f715e3918</guid>
-            <pubDate>Wed, 15 Jul 2026 15:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/s-k-sur-150726-01-1784102315.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[306 hectares of cropland submerged in Gopalganj]]></title>
-            <description><![CDATA[[Bangladesh] 306 hectares of cropland submerged in Gopalganj]]></description>
-            <link>https://bdnews24.com/bangladesh/8560bc07598d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8560bc07598d</guid>
-            <pubDate>Wed, 15 Jul 2026 15:02:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/gopalganj-vegetable-140726-01-1784101864.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA['Long march': HSC examinees block road in Uttara]]></title>
-            <description><![CDATA[[Education] 'Long march': HSC examinees block road in Uttara]]></description>
-            <link>https://bdnews24.com/education/970e7010dc8c</link>
-            <guid isPermaLink="true">https://bdnews24.com/education/970e7010dc8c</guid>
-            <pubDate>Wed, 15 Jul 2026 14:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/uttara-students-protest-150726-01-1784102867.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Teacher accused of caning madrasa boy, breaking arm]]></title>
-            <description><![CDATA[[Bangladesh] Teacher accused of caning madrasa boy, breaking arm]]></description>
-            <link>https://bdnews24.com/bangladesh/ecbe3a982ffb</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ecbe3a982ffb</guid>
-            <pubDate>Wed, 15 Jul 2026 14:35:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/manikganj-student-beat-150726-02-1784097988.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Plant a tree: PM tells children]]></title>
-            <description><![CDATA[[Bangladesh] Plant a tree: PM tells children]]></description>
-            <link>https://bdnews24.com/bangladesh/8215075d33fe</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8215075d33fe</guid>
-            <pubDate>Wed, 15 Jul 2026 14:18:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/tarique-rahman-150726-01-1784100454.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[We’ll fix Dhaka as citizens: Mirza Fakhrul]]></title>
-            <description><![CDATA[[Bangladesh] We’ll fix Dhaka as citizens: Mirza Fakhrul]]></description>
-            <link>https://bdnews24.com/bangladesh/e9836be3b33f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e9836be3b33f</guid>
-            <pubDate>Wed, 15 Jul 2026 14:06:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/mirza-fakhrul-dncc-150726-01-1784099666.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[10 burnt in Gulistan barbershop AC blast]]></title>
-            <description><![CDATA[[Bangladesh] 10 burnt in Gulistan barbershop AC blast]]></description>
-            <link>https://bdnews24.com/bangladesh/9a8426e7cc1b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9a8426e7cc1b</guid>
-            <pubDate>Wed, 15 Jul 2026 13:42:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025May/SM/burn-institute-021224-015-1745814990-1746251480.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian missing in Oman ship attack confirmed dead]]></title>
-            <description><![CDATA[[Neighbours] Indian missing in Oman ship attack confirmed dead]]></description>
-            <link>https://bdnews24.com/neighbours/41422f682443</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/41422f682443</guid>
-            <pubDate>Wed, 15 Jul 2026 13:18:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/oman-coast-150726-1784099839.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taslima Nasreen’s Kolkata return reignites old political row]]></title>
-            <description><![CDATA[[People] Taslima Nasreen’s Kolkata return reignites old political row]]></description>
-            <link>https://bdnews24.com/people/c6b225d1da63</link>
-            <guid isPermaLink="true">https://bdnews24.com/people/c6b225d1da63</guid>
-            <pubDate>Wed, 15 Jul 2026 13:10:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/taslima-nasreen-1784099343.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Low pressure: Ports told to fly signal No. 3]]></title>
-            <description><![CDATA[[Bangladesh] Low pressure: Ports told to fly signal No. 3]]></description>
-            <link>https://bdnews24.com/bangladesh/d855c4c9820a</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d855c4c9820a</guid>
-            <pubDate>Wed, 15 Jul 2026 13:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024May/SM/bhola-remal-250524-01-1716629883.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[World Cup final gets longer half-time: BBC]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] World Cup final gets longer half-time: BBC]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/d3b95928a5d9</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/d3b95928a5d9</guid>
-            <pubDate>Wed, 15 Jul 2026 12:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/wc-halftime-show-150726-1784098121.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fire tamed at Narayanganj EPZ garment factory]]></title>
-            <description><![CDATA[[Bangladesh] Fire tamed at Narayanganj EPZ garment factory]]></description>
-            <link>https://bdnews24.com/bangladesh/e56ab6e2af39</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e56ab6e2af39</guid>
-            <pubDate>Wed, 15 Jul 2026 12:06:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/narayanganj-fire-150726-01-1784092075.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Asian stocks gain on drop in US inflation rate]]></title>
-            <description><![CDATA[[Economy] Asian stocks gain on drop in US inflation rate]]></description>
-            <link>https://bdnews24.com/economy/9f98e2ce619c</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/9f98e2ce619c</guid>
-            <pubDate>Wed, 15 Jul 2026 12:03:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/nikkei-stock-prices-150726-01-1784095253.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran-linked ships rush through Hormuz]]></title>
-            <description><![CDATA[[West Asia] Iran-linked ships rush through Hormuz]]></description>
-            <link>https://bdnews24.com/world/middle-east/7bd00f617739</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/7bd00f617739</guid>
-            <pubDate>Wed, 15 Jul 2026 11:53:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/hormuz-vessels-150726-1784094662.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mbappe calls France 'sloppy' after semifinal loss]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Mbappe calls France 'sloppy' after semifinal loss]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/695f301b5d4b</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/695f301b5d4b</guid>
-            <pubDate>Wed, 15 Jul 2026 11:35:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/mbappe-150726-1784093578.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dollar struggles as softer inflation dims Fed hike bets]]></title>
-            <description><![CDATA[[Economy] Dollar struggles as softer inflation dims Fed hike bets]]></description>
-            <link>https://bdnews24.com/economy/83c83cd72fb7</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/83c83cd72fb7</guid>
-            <pubDate>Wed, 15 Jul 2026 11:17:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2025November/SM/us-dollar-banknotes-171125-01-1763352290.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Death toll hits 32 in Thai pub fire]]></title>
-            <description><![CDATA[[Asia Pacific] Death toll hits 32 in Thai pub fire]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/da816b307f60</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/da816b307f60</guid>
-            <pubDate>Wed, 15 Jul 2026 11:14:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/bangkok-pubfire-150726-1784092387.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Retake, full marks’ offered for HSC students]]></title>
-            <description><![CDATA[[Bangladesh] ‘Retake, full marks’ offered for HSC students]]></description>
-            <link>https://bdnews24.com/bangladesh/184cbcd7b55c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/184cbcd7b55c</guid>
-            <pubDate>Wed, 15 Jul 2026 10:45:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/cumilla-waterlogged-130726-03-1783922856.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil rises after US-Iran hostilities flare again]]></title>
-            <description><![CDATA[[Business] Oil rises after US-Iran hostilities flare again]]></description>
-            <link>https://bdnews24.com/business/337dfbeecf12</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/337dfbeecf12</guid>
-            <pubDate>Wed, 15 Jul 2026 10:22:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2025October/SM/oil-pumpjack-russia-131025-01-1760331762.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taiwan exports premium mangoes to Europe for the first time]]></title>
-            <description><![CDATA[[Business] Taiwan exports premium mangoes to Europe for the first time]]></description>
-            <link>https://bdnews24.com/business/cbef9f5f1057</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/cbef9f5f1057</guid>
-            <pubDate>Wed, 15 Jul 2026 10:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/taiwanese-mangoes-150726-01-1784088628.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
+            <link>https://bdnews24.com</link>
+            <guid isPermaLink="true">https://bdnews24.com</guid>
+            <pubDate>Wed, 15 Jul 2026 11:19:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

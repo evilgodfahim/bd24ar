@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ]]></title>
-        <description><![CDATA[bangla.bdnews24.com আর্কাইভ থেকে সর্বশেষ সংবাদ]]></description>
+        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bangla.bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jul 2026 09:46:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 11:19:28 GMT</lastBuildDate>
         <atom:link href="https://bangla.bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Jul 2026 09:46:18 GMT</pubDate>
+        <pubDate>Wed, 15 Jul 2026 11:19:28 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[নিরাপত্তা সংকটে থাকা পাকিস্তানের মডেল কেন অনুসরণ করবে বাংলাদেশ?]]></title>
-            <description><![CDATA[[মতামত] নিরাপত্তা সংকটে থাকা পাকিস্তানের মডেল কেন অনুসরণ করবে বাংলাদেশ?]]></description>
-            <link>https://bangla.bdnews24.com/opinion/2ffcbebc2e6a</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/opinion/2ffcbebc2e6a</guid>
-            <pubDate>Wed, 15 Jul 2026 09:46:18 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bangladesh-pakistan-home-ministers-1784108241.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[বলেশ্বর নদীতে ৯ যাত্রী নিয়ে বন বিভাগের ট্রলারডুবি, নিখোঁজ ১]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] বলেশ্বর নদীতে ৯ যাত্রী নিয়ে বন বিভাগের ট্রলারডুবি, নিখোঁজ ১]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/8778fa500add</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/8778fa500add</guid>
-            <pubDate>Wed, 15 Jul 2026 09:46:18 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/barguna-trawler-sinking-150726-01-1784108202.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[এক বছরে ৫ লাখ লাইসেন্সধারী গ্রাহক হারিয়েছে বিবিসি টেলিভিশন]]></title>
-            <description><![CDATA[[বিশ্ব] এক বছরে ৫ লাখ লাইসেন্সধারী গ্রাহক হারিয়েছে বিবিসি টেলিভিশন]]></description>
-            <link>https://bangla.bdnews24.com/world/10faf18e2b86</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/world/10faf18e2b86</guid>
-            <pubDate>Wed, 15 Jul 2026 09:46:18 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bbc-tv-150726-01-1784107487.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ফকল্যান্ড যুদ্ধের ছায়া? স্কালোনির চোখে, ‘কেবলই একটি ফুটবল ম্যাচ’]]></title>
-            <description><![CDATA[[২০২৬ ফুটবল বিশ্বকাপ] ফকল্যান্ড যুদ্ধের ছায়া? স্কালোনির চোখে, ‘কেবলই একটি ফুটবল ম্যাচ’]]></description>
-            <link>https://bangla.bdnews24.com/sport/world-cup-2026/59db4af9d0c2</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/world-cup-2026/59db4af9d0c2</guid>
-            <pubDate>Wed, 15 Jul 2026 09:46:18 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/lionel-scaloni-argentina-150726-1784107396.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[মেসিকে বিশ্বকাপ উপভোগ করতে দেখে খুশি দে পল]]></title>
-            <description><![CDATA[[২০২৬ ফুটবল বিশ্বকাপ] মেসিকে বিশ্বকাপ উপভোগ করতে দেখে খুশি দে পল]]></description>
-            <link>https://bangla.bdnews24.com/sport/world-cup-2026/a202cee4bc45</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/world-cup-2026/a202cee4bc45</guid>
-            <pubDate>Wed, 15 Jul 2026 09:46:18 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/messi-de-paul-150726-01-1784107312.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ময়মনসিংহে দলিল লেখককে হত্যায় ২ জনের মৃত্যুদণ্ড, ১০ জনের যাবজ্জীবন]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] ময়মনসিংহে দলিল লেখককে হত্যায় ২ জনের মৃত্যুদণ্ড, ১০ জনের যাবজ্জীবন]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/edcf48bccb8d</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/edcf48bccb8d</guid>
-            <pubDate>Wed, 15 Jul 2026 09:46:18 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/mymensing-court-150726-01-1784107156.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[স্পেনের অনেক পাওয়ার ম‍্যাচে এমবাপের ‘শূন‍্য’]]></title>
-            <description><![CDATA[[২০২৬ ফুটবল বিশ্বকাপ] স্পেনের অনেক পাওয়ার ম‍্যাচে এমবাপের ‘শূন‍্য’]]></description>
-            <link>https://bangla.bdnews24.com/sport/world-cup-2026/5ef6fbc68511</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/world-cup-2026/5ef6fbc68511</guid>
-            <pubDate>Wed, 15 Jul 2026 09:46:18 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/mbappe-150726-01-1784106945.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[হরমুজে সাবমেরিন কেবল নিয়ে ইন্টারনেট ঝুঁকি কতটা]]></title>
-            <description><![CDATA[[টেক] হরমুজে সাবমেরিন কেবল নিয়ে ইন্টারনেট ঝুঁকি কতটা]]></description>
-            <link>https://bangla.bdnews24.com/tech/f559f286f8e9</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/tech/f559f286f8e9</guid>
-            <pubDate>Wed, 15 Jul 2026 09:46:18 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/world-sub-cable-telegeography-150726-01-1784106691.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ত্রাণ বিতরণে দুর্নীতি-স্বজনপ্রীতি হলে তাৎক্ষণিক ব্যবস্থা: ত্রাণমন্ত্রী]]></title>
-            <description><![CDATA[[চট্টগ্রাম] ত্রাণ বিতরণে দুর্নীতি-স্বজনপ্রীতি হলে তাৎক্ষণিক ব্যবস্থা: ত্রাণমন্ত্রী]]></description>
-            <link>https://bangla.bdnews24.com/ctg/9e76d09fb250</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/ctg/9e76d09fb250</guid>
-            <pubDate>Wed, 15 Jul 2026 09:46:18 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/asadul-habib-dulu-150726-01-1784105944.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[খুলনায় সাংবাদিকদের আড্ডাস্থলে গুলি, লাগল চেয়ারে]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] খুলনায় সাংবাদিকদের আড্ডাস্থলে গুলি, লাগল চেয়ারে]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/6928844c94f9</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/6928844c94f9</guid>
-            <pubDate>Wed, 15 Jul 2026 09:46:18 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/khulna-fire-150726-01-1784105825.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[কভার্ড ভ্যানে ছিল হাজার বোতল ফেনসিডিল, চালক ও সহযোগীর যাবজ্জীবন]]></title>
-            <description><![CDATA[[চট্টগ্রাম] কভার্ড ভ্যানে ছিল হাজার বোতল ফেনসিডিল, চালক ও সহযোগীর যাবজ্জীবন]]></description>
-            <link>https://bangla.bdnews24.com/ctg/3fc3817ca7a1</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/ctg/3fc3817ca7a1</guid>
-            <pubDate>Wed, 15 Jul 2026 09:46:18 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/chottogram-child-rape-case-100626-01-1781079744.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘নিজস্ব অস্ত্র’ দিয়ে বেলিংহ্যাম ও কেইনকে নিষ্ক্রিয় করতে চান স্কালোনি]]></title>
-            <description><![CDATA[[২০২৬ ফুটবল বিশ্বকাপ] ‘নিজস্ব অস্ত্র’ দিয়ে বেলিংহ্যাম ও কেইনকে নিষ্ক্রিয় করতে চান স্কালোনি]]></description>
-            <link>https://bangla.bdnews24.com/sport/world-cup-2026/8861b5907c45</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/world-cup-2026/8861b5907c45</guid>
-            <pubDate>Wed, 15 Jul 2026 09:46:18 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/jude-bellingham-harry-kane-scaloni-150726-1784104862.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[মানবপাচার ও চোরাচালান রোধে নতুন আইন ‘মাইলফলক’: স্বরাষ্ট্রমন্ত্রী]]></title>
-            <description><![CDATA[[বাংলাদেশ] মানবপাচার ও চোরাচালান রোধে নতুন আইন ‘মাইলফলক’: স্বরাষ্ট্রমন্ত্রী]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/e36258da353a</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/e36258da353a</guid>
-            <pubDate>Wed, 15 Jul 2026 09:46:18 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/salahuddin-ahmed-150726-01-1784104715.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[সিরাজগঞ্জে খালে গোসলে নেমে মাদ্রাসা ছাত্রের মৃত্যু]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] সিরাজগঞ্জে খালে গোসলে নেমে মাদ্রাসা ছাত্রের মৃত্যু]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/e0bda02b0636</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/e0bda02b0636</guid>
-            <pubDate>Wed, 15 Jul 2026 09:46:18 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sirajganj-dead-150726-01-1784104240.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘এই দল আমাকে বিস্মিত করা থামায় না’]]></title>
-            <description><![CDATA[[২০২৬ ফুটবল বিশ্বকাপ] ‘এই দল আমাকে বিস্মিত করা থামায় না’]]></description>
-            <link>https://bangla.bdnews24.com/sport/world-cup-2026/aedb34ca4f7a</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/world-cup-2026/aedb34ca4f7a</guid>
-            <pubDate>Wed, 15 Jul 2026 09:46:18 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/spain-150726-02-1784103035.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘লংমার্চ’: উত্তরায় সড়ক আটকে পরীক্ষার্থীদের অবস্থান]]></title>
-            <description><![CDATA[[বাংলাদেশ] ‘লংমার্চ’: উত্তরায় সড়ক আটকে পরীক্ষার্থীদের অবস্থান]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/f505e7ee38d4</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/f505e7ee38d4</guid>
-            <pubDate>Wed, 15 Jul 2026 09:46:18 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/uttara-students-protest-150726-01-1784102867.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[দুই স্ক্রিনের নতুন ফোন আনছে হাইসেন্স, খোলা যাবে পেছনের ডিসপ্লে]]></title>
-            <description><![CDATA[[টেক] দুই স্ক্রিনের নতুন ফোন আনছে হাইসেন্স, খোলা যাবে পেছনের ডিসপ্লে]]></description>
-            <link>https://bangla.bdnews24.com/tech/c1a408a57e98</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/tech/c1a408a57e98</guid>
-            <pubDate>Wed, 15 Jul 2026 09:46:18 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/eink-androidphone-hisens-140726-01-1784102774.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[সম্পদের হিসাব না দেওয়ায় এস কে সুরের বিরুদ্ধে মামলার রায় ২৮ জুলাই]]></title>
-            <description><![CDATA[[বাংলাদেশ] সম্পদের হিসাব না দেওয়ায় এস কে সুরের বিরুদ্ধে মামলার রায় ২৮ জুলাই]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/611f891f5594</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/611f891f5594</guid>
-            <pubDate>Wed, 15 Jul 2026 09:46:18 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/s-k-sur-150726-01-1784102315.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[টুখেলের চোখে সমালোচকদের ধারণার চেয়ে ভালো দল আর্জেন্টিনা]]></title>
-            <description><![CDATA[[২০২৬ ফুটবল বিশ্বকাপ] টুখেলের চোখে সমালোচকদের ধারণার চেয়ে ভালো দল আর্জেন্টিনা]]></description>
-            <link>https://bangla.bdnews24.com/sport/world-cup-2026/f257406c814e</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/world-cup-2026/f257406c814e</guid>
-            <pubDate>Wed, 15 Jul 2026 09:46:18 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/tuchel-150726-01-1784102218.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[গোপালগঞ্জে তলিয়ে গেছে ৩০৬ হেক্টর জমি, বেশি ক্ষতি সবজির]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] গোপালগঞ্জে তলিয়ে গেছে ৩০৬ হেক্টর জমি, বেশি ক্ষতি সবজির]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/6f15e673faa0</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/6f15e673faa0</guid>
-            <pubDate>Wed, 15 Jul 2026 09:46:18 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/gopalganj-vegetable-140726-01-1784101864.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: timeout of 65000ms exceeded]]></description>
+            <link>https://bangla.bdnews24.com</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com</guid>
+            <pubDate>Wed, 15 Jul 2026 11:19:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
