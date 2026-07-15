@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ]]></title>
+        <description><![CDATA[bangla.bdnews24.com আর্কাইভ থেকে সর্বশেষ সংবাদ]]></description>
         <link>https://bangla.bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jul 2026 11:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 13:03:10 GMT</lastBuildDate>
         <atom:link href="https://bangla.bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Jul 2026 11:19:28 GMT</pubDate>
+        <pubDate>Wed, 15 Jul 2026 13:03:10 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: timeout of 65000ms exceeded]]></description>
-            <link>https://bangla.bdnews24.com</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com</guid>
-            <pubDate>Wed, 15 Jul 2026 11:19:28 GMT</pubDate>
+            <title><![CDATA[কুমিল্লায় ছেলে শিশুকে ধর্ষণের পর হত্যা, যুবকের মৃত্যুদণ্ড]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] কুমিল্লায় ছেলে শিশুকে ধর্ষণের পর হত্যা, যুবকের মৃত্যুদণ্ড]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/a2769cdeb9dd</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/a2769cdeb9dd</guid>
+            <pubDate>Wed, 15 Jul 2026 13:03:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/comilla-conviction-150726-01-1784120545.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[আইসিসির নবগঠিত ফ্র্যাঞ্চাইজি লিগস কমিটির প্রধান তামিম]]></title>
+            <description><![CDATA[[ক্রিকেট] আইসিসির নবগঠিত ফ্র্যাঞ্চাইজি লিগস কমিটির প্রধান তামিম]]></description>
+            <link>https://bangla.bdnews24.com/cricket/d8f0070817b0</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/cricket/d8f0070817b0</guid>
+            <pubDate>Wed, 15 Jul 2026 13:03:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/tamim-iqbal-bcb-150726-1784120535.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[এআই নিচ্ছে ছাঁটাই সিদ্ধান্ত, মেটার বিরুদ্ধে মামলা]]></title>
+            <description><![CDATA[[টেক] এআই নিচ্ছে ছাঁটাই সিদ্ধান্ত, মেটার বিরুদ্ধে মামলা]]></description>
+            <link>https://bangla.bdnews24.com/tech/e31060437014</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tech/e31060437014</guid>
+            <pubDate>Wed, 15 Jul 2026 13:03:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/layoffs-metaai-reuters-150726-01-1784120161.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[শিক্ষামন্ত্রীর পদত্যাগ দাবিতে সড়ক অবরোধ]]></title>
+            <description><![CDATA[[ছবি] শিক্ষামন্ত্রীর পদত্যাগ দাবিতে সড়ক অবরোধ]]></description>
+            <link>https://bangla.bdnews24.com/media_bn/image/5a82dda2218f</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/media_bn/image/5a82dda2218f</guid>
+            <pubDate>Wed, 15 Jul 2026 13:03:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/road-block-uttara-150726-10-1784119531.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[কুমিল্লায় ছেলে শিশুকে ধর্ষণের পর হত্যা, যুবকের মৃত্যুদণ্ড]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] কুমিল্লায় ছেলে শিশুকে ধর্ষণের পর হত্যা, যুবকের মৃত্যুদণ্ড]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/e72b81e05289</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/e72b81e05289</guid>
+            <pubDate>Wed, 15 Jul 2026 13:03:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/comilla-conviction-150726-01-1784119548.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বিডা, বেজা, পিপিপি কর্তৃপক্ষ বিলুপ্ত, হচ্ছে ‘ইনভেস্ট বাংলাদেশ কর্তৃপক্ষ’]]></title>
+            <description><![CDATA[[বাংলাদেশ] বিডা, বেজা, পিপিপি কর্তৃপক্ষ বিলুপ্ত, হচ্ছে ‘ইনভেস্ট বাংলাদেশ কর্তৃপক্ষ’]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/1690bcd2b422</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/1690bcd2b422</guid>
+            <pubDate>Wed, 15 Jul 2026 13:03:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026February/SM/parliament-session-020221-01-1771845181.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[কাতারের প্রয়াত আমিরের স্মরণে ঢাকার একটি সড়কের নামকরণের নির্দেশ প্রধানমন্ত্রীর]]></title>
+            <description><![CDATA[[বাংলাদেশ] কাতারের প্রয়াত আমিরের স্মরণে ঢাকার একটি সড়কের নামকরণের নির্দেশ প্রধানমন্ত্রীর]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/fd4415ef1357</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/fd4415ef1357</guid>
+            <pubDate>Wed, 15 Jul 2026 13:03:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sheikh-hamad-120726-01-1783851606.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[কুষ্টিয়ায় নিখোঁজ নৈশপ্রহরীর অর্ধগলিত লাশ মিলল কলাবাগানে]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] কুষ্টিয়ায় নিখোঁজ নৈশপ্রহরীর অর্ধগলিত লাশ মিলল কলাবাগানে]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/f18c31008c7e</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/f18c31008c7e</guid>
+            <pubDate>Wed, 15 Jul 2026 13:03:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/kustia-deadbody-150726-1784119362.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[পর্নোগ্রাফি আইনে কেবিন ক্রু শিমুর মামলা মিথ্যা, উল্টো মামলার নির্দেশ আদালতের]]></title>
+            <description><![CDATA[[বাংলাদেশ] পর্নোগ্রাফি আইনে কেবিন ক্রু শিমুর মামলা মিথ্যা, উল্টো মামলার নির্দেশ আদালতের]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/59bf0122355d</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/59bf0122355d</guid>
+            <pubDate>Wed, 15 Jul 2026 13:03:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/cmm-court-a-pramanik-150726-1784119379.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[সেমিফাইনালে ইংল্যান্ড ম্যাচের আগে আটলান্টা হয়ে উঠেছে ‘বুয়েনস আইরেস’]]></title>
+            <description><![CDATA[[টিউব] সেমিফাইনালে ইংল্যান্ড ম্যাচের আগে আটলান্টা হয়ে উঠেছে ‘বুয়েনস আইরেস’]]></description>
+            <link>https://bangla.bdnews24.com/tube/88ff6ff6719d</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/88ff6ff6719d</guid>
+            <pubDate>Wed, 15 Jul 2026 13:03:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/argentina-fan-video-text-thumb-1784119077.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[’আর্জেন্টিনা বিশ্ব চ্যাম্পিয়ন, চাপটাও তাদের ওপর’]]></title>
+            <description><![CDATA[[২০২৬ ফুটবল বিশ্বকাপ] ’আর্জেন্টিনা বিশ্ব চ্যাম্পিয়ন, চাপটাও তাদের ওপর’]]></description>
+            <link>https://bangla.bdnews24.com/sport/world-cup-2026/6021493690cd</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/world-cup-2026/6021493690cd</guid>
+            <pubDate>Wed, 15 Jul 2026 13:03:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/marc-guehi-150726-01-1784118904.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘প্রতারণার’ মামলা: ডিবির নাজমুলসহ ৪ জনের বিরুদ্ধে সমন]]></title>
+            <description><![CDATA[[বাংলাদেশ] ‘প্রতারণার’ মামলা: ডিবির নাজমুলসহ ৪ জনের বিরুদ্ধে সমন]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/73d5625226bc</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/73d5625226bc</guid>
+            <pubDate>Wed, 15 Jul 2026 13:03:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026March/SM/cmm-court-dhaka-1000-1774008444.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[আপাতদৃষ্টিতে ‘শান্ত’ ছেলেই কি সম্পর্কের জন্য ক্ষতিকর?]]></title>
+            <description><![CDATA[[সম্পর্ক] আপাতদৃষ্টিতে ‘শান্ত’ ছেলেই কি সম্পর্কের জন্য ক্ষতিকর?]]></description>
+            <link>https://bangla.bdnews24.com/lifestyle/relationship/bf8a5e619bec</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/lifestyle/relationship/bf8a5e619bec</guid>
+            <pubDate>Wed, 15 Jul 2026 13:03:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/boyfriend-girlfriend-150726-1784118475.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বেলিংহ্যাম ও কেইনকে নিয়ে সতর্ক করে দিলেন জানেত্তি]]></title>
+            <description><![CDATA[[২০২৬ ফুটবল বিশ্বকাপ] বেলিংহ্যাম ও কেইনকে নিয়ে সতর্ক করে দিলেন জানেত্তি]]></description>
+            <link>https://bangla.bdnews24.com/sport/world-cup-2026/8c6e787b0202</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/world-cup-2026/8c6e787b0202</guid>
+            <pubDate>Wed, 15 Jul 2026 13:03:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/england-150726-01-1784118500.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[জোয়ারে প্লাবিত নিঝুমদ্বীপ, হাসপাতালে নিতে না পারায় ঘরেই প্রসূতির মৃত্যু]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] জোয়ারে প্লাবিত নিঝুমদ্বীপ, হাসপাতালে নিতে না পারায় ঘরেই প্রসূতির মৃত্যু]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/9a98f51e80df</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/9a98f51e80df</guid>
+            <pubDate>Wed, 15 Jul 2026 13:03:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/noakhali-nijhumdwip-150726-01-1784118351.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[১৫ জুলাই ২০২৬]]></title>
+            <description><![CDATA[[ছবি] ১৫ জুলাই ২০২৬]]></description>
+            <link>https://bangla.bdnews24.com/media_bn/image/8197ebdde166</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/media_bn/image/8197ebdde166</guid>
+            <pubDate>Wed, 15 Jul 2026 13:03:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/tarique-rahman-150726-09-1784117947.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[সাজেক ভ্রমণের নিষেধাজ্ঞা উঠল]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] সাজেক ভ্রমণের নিষেধাজ্ঞা উঠল]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/d718d48dbc90</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/d718d48dbc90</guid>
+            <pubDate>Wed, 15 Jul 2026 13:03:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sazek-1000-1783485376.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ইরান যুদ্ধ নিয়ে আপত্তি, সেনেটে ট্রাম্পের প্রতিরক্ষা বিল ঠেকালেন ডেমোক্র্যাটরা]]></title>
+            <description><![CDATA[[বিশ্ব] ইরান যুদ্ধ নিয়ে আপত্তি, সেনেটে ট্রাম্পের প্রতিরক্ষা বিল ঠেকালেন ডেমোক্র্যাটরা]]></description>
+            <link>https://bangla.bdnews24.com/world/c488cf71dd56</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/world/c488cf71dd56</guid>
+            <pubDate>Wed, 15 Jul 2026 13:03:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/chuck-schumer-150626-01-1784117780.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[কর্তৃপক্ষের হঠাৎ অভিযানে কুয়েতে প্রবাসী বাংলাদেশিদের মধ্যে আতঙ্ক]]></title>
+            <description><![CDATA[[প্রবাস] কর্তৃপক্ষের হঠাৎ অভিযানে কুয়েতে প্রবাসী বাংলাদেশিদের মধ্যে আতঙ্ক]]></description>
+            <link>https://bangla.bdnews24.com/probash/dac9430aa0c4</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/probash/dac9430aa0c4</guid>
+            <pubDate>Wed, 15 Jul 2026 13:03:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/kuwait-city-pic-150726-1-1784117761.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ঢাকার পরিবেশ সুরক্ষায় ‘জনপ্রতিরোধ’ চান মির্জা ফখরুল]]></title>
+            <description><![CDATA[[টিউব] ঢাকার পরিবেশ সুরক্ষায় ‘জনপ্রতিরোধ’ চান মির্জা ফখরুল]]></description>
+            <link>https://bangla.bdnews24.com/tube/b0a13fa9e1e4</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/b0a13fa9e1e4</guid>
+            <pubDate>Wed, 15 Jul 2026 13:03:10 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dncc-seminar-video-text-thumb-1784117310.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

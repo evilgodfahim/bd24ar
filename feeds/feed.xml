@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – Latest News]]></title>
+        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jul 2026 11:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 13:03:11 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Jul 2026 11:19:28 GMT</pubDate>
+        <pubDate>Wed, 15 Jul 2026 13:03:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
-            <link>https://bdnews24.com</link>
-            <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Wed, 15 Jul 2026 11:19:28 GMT</pubDate>
+            <title><![CDATA[BGB deployed in Gopalganj]]></title>
+            <description><![CDATA[[Bangladesh] BGB deployed in Gopalganj]]></description>
+            <link>https://bdnews24.com/bangladesh/a2b88b1cd9d9</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a2b88b1cd9d9</guid>
+            <pubDate>Wed, 15 Jul 2026 18:54:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/gopalganj-bgb-deployed-150726-01-1784113229.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[AL's fate lies in courts: Salahuddin]]></title>
+            <description><![CDATA[[Bangladesh] AL's fate lies in courts: Salahuddin]]></description>
+            <link>https://bdnews24.com/bangladesh/aa0b098da096</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/aa0b098da096</guid>
+            <pubDate>Wed, 15 Jul 2026 18:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/home-minister-salahuddin-ahmad-at-du-15072026-1784117010.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[1971 hero lists were politicised: Tarique]]></title>
+            <description><![CDATA[[Bangladesh] 1971 hero lists were politicised: Tarique]]></description>
+            <link>https://bdnews24.com/bangladesh/6b7f011f50db</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6b7f011f50db</guid>
+            <pubDate>Wed, 15 Jul 2026 18:10:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/pm-tareque-rahman-150726-01-1784113351.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine reshuffle puts defence minister in focus]]></title>
+            <description><![CDATA[[World] Ukraine reshuffle puts defence minister in focus]]></description>
+            <link>https://bdnews24.com/world/424936bcd7c3</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/424936bcd7c3</guid>
+            <pubDate>Wed, 15 Jul 2026 18:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/mykhailo-fedorov-150726-01-1784117137.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Europe braces infrastructure for heat]]></title>
+            <description><![CDATA[[World] Europe braces infrastructure for heat]]></description>
+            <link>https://bdnews24.com/world/1ebcfd1c8419</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/1ebcfd1c8419</guid>
+            <pubDate>Wed, 15 Jul 2026 18:06:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/europe-heatwave-150726-01-1784117113.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ICC endorses Tamim-led BCB]]></title>
+            <description><![CDATA[[Cricket] ICC endorses Tamim-led BCB]]></description>
+            <link>https://bdnews24.com/cricket/3627bb2e38e3</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/3627bb2e38e3</guid>
+            <pubDate>Wed, 15 Jul 2026 17:50:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/tamim-iqbal-bcb-150726-1784115165.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oil chokepoints face widening war threat]]></title>
+            <description><![CDATA[[West Asia] Oil chokepoints face widening war threat]]></description>
+            <link>https://bdnews24.com/world/middle-east/7000b04c52d1</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/7000b04c52d1</guid>
+            <pubDate>Wed, 15 Jul 2026 17:36:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/iran-trump-150726-01-1784115358.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Floods ease in 4 districts]]></title>
+            <description><![CDATA[[Bangladesh] Floods ease in 4 districts]]></description>
+            <link>https://bdnews24.com/bangladesh/4d890d2824b3</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4d890d2824b3</guid>
+            <pubDate>Wed, 15 Jul 2026 17:28:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/lalmonirhat-tista-140726-01-1784020292.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[New anti-trafficking law a milestone: Salahuddin]]></title>
+            <description><![CDATA[[Bangladesh] New anti-trafficking law a milestone: Salahuddin]]></description>
+            <link>https://bdnews24.com/bangladesh/683b24d4adac</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/683b24d4adac</guid>
+            <pubDate>Wed, 15 Jul 2026 17:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/salahuddin-ahmed-150726-01-1784104715.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bodies dumped in river to conceal July killings: tribunal]]></title>
+            <description><![CDATA[[Bangladesh] Bodies dumped in river to conceal July killings: tribunal]]></description>
+            <link>https://bdnews24.com/bangladesh/e670de444a33</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e670de444a33</guid>
+            <pubDate>Wed, 15 Jul 2026 17:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/aminul-islam-150726-01-1784110808.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[5 more die with measles symptoms]]></title>
+            <description><![CDATA[[Health] 5 more die with measles symptoms]]></description>
+            <link>https://bdnews24.com/health/9e74cd9ee57e</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/9e74cd9ee57e</guid>
+            <pubDate>Wed, 15 Jul 2026 17:09:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/measles-patient-dncc-hospital-120526-037-1778585242.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tk 760bn assets of Hasina, 10 groups frozen: BFIU]]></title>
+            <description><![CDATA[[Bangladesh] Tk 760bn assets of Hasina, 10 groups frozen: BFIU]]></description>
+            <link>https://bdnews24.com/bangladesh/dc0406416151</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/dc0406416151</guid>
+            <pubDate>Wed, 15 Jul 2026 16:35:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bfiu-ikhtiar-uddin-mamun-150726-01-1784109687.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 killed in Russian strike on Odesa]]></title>
+            <description><![CDATA[[Europe] 3 killed in Russian strike on Odesa]]></description>
+            <link>https://bdnews24.com/world/europe/00675bd8c345</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/00675bd8c345</guid>
+            <pubDate>Wed, 15 Jul 2026 16:13:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/russia-odesa150726-01-1784110378.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trawler with 9 aboard sinks in Baleshwar River]]></title>
+            <description><![CDATA[[Bangladesh] Trawler with 9 aboard sinks in Baleshwar River]]></description>
+            <link>https://bdnews24.com/bangladesh/67e95c10c32a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/67e95c10c32a</guid>
+            <pubDate>Wed, 15 Jul 2026 16:10:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/barguna-trawler-sinking-150726-01-1784108202.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[2 to die over Mymensingh deed writer murder]]></title>
+            <description><![CDATA[[Bangladesh] 2 to die over Mymensingh deed writer murder]]></description>
+            <link>https://bdnews24.com/bangladesh/62da39a94ba1</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/62da39a94ba1</guid>
+            <pubDate>Wed, 15 Jul 2026 15:57:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/mymensing-court-150726-01-1784107156.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Verdict on ACC’s case against SK Sur Jul 28]]></title>
+            <description><![CDATA[[Bangladesh] Verdict on ACC’s case against SK Sur Jul 28]]></description>
+            <link>https://bdnews24.com/bangladesh/218f715e3918</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/218f715e3918</guid>
+            <pubDate>Wed, 15 Jul 2026 15:13:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/s-k-sur-150726-01-1784102315.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[306 hectares of cropland submerged in Gopalganj]]></title>
+            <description><![CDATA[[Bangladesh] 306 hectares of cropland submerged in Gopalganj]]></description>
+            <link>https://bdnews24.com/bangladesh/8560bc07598d</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8560bc07598d</guid>
+            <pubDate>Wed, 15 Jul 2026 15:02:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/gopalganj-vegetable-140726-01-1784101864.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police block students' 'long march']]></title>
+            <description><![CDATA[[Education] Police block students' 'long march']]></description>
+            <link>https://bdnews24.com/education/970e7010dc8c</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/970e7010dc8c</guid>
+            <pubDate>Wed, 15 Jul 2026 14:51:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/police-position-against-movement-for-delay-hsc-15072026-1784111791.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Teacher accused of caning madrasa boy, breaking arm]]></title>
+            <description><![CDATA[[Bangladesh] Teacher accused of caning madrasa boy, breaking arm]]></description>
+            <link>https://bdnews24.com/bangladesh/ecbe3a982ffb</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ecbe3a982ffb</guid>
+            <pubDate>Wed, 15 Jul 2026 14:35:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/manikganj-student-beat-150726-02-1784097988.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Plant a tree: PM tells children]]></title>
+            <description><![CDATA[[Bangladesh] Plant a tree: PM tells children]]></description>
+            <link>https://bdnews24.com/bangladesh/8215075d33fe</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8215075d33fe</guid>
+            <pubDate>Wed, 15 Jul 2026 14:18:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/tarique-rahman-150726-01-1784100454.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
