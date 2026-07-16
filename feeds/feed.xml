@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Jul 2026 09:52:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 11:24:10 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Jul 2026 09:52:30 GMT</pubDate>
+        <pubDate>Thu, 16 Jul 2026 11:24:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA['Strong' quake hits New Zealand]]></title>
+            <description><![CDATA[[World] 'Strong' quake hits New Zealand]]></description>
+            <link>https://bdnews24.com/world/e5c3857b91b0</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e5c3857b91b0</guid>
+            <pubDate>Thu, 16 Jul 2026 16:52:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/puri-earthquake-250225-01-1740456227-1784199087.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Father can’t evade minor’s maintenance: HC]]></title>
+            <description><![CDATA[[Bangladesh] Father can’t evade minor’s maintenance: HC]]></description>
+            <link>https://bdnews24.com/bangladesh/8dcdb1361b3e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8dcdb1361b3e</guid>
+            <pubDate>Thu, 16 Jul 2026 16:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/high-court-10000-1783334658.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hidden actors behind student protests: Salahuddin]]></title>
+            <description><![CDATA[[Bangladesh] Hidden actors behind student protests: Salahuddin]]></description>
+            <link>https://bdnews24.com/bangladesh/9275712d3c8d</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9275712d3c8d</guid>
+            <pubDate>Thu, 16 Jul 2026 16:21:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/salahuddin-ahmad-160726-01-1784194155.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-Army major held over Zia assassination]]></title>
+            <description><![CDATA[[Bangladesh] Ex-Army major held over Zia assassination]]></description>
+            <link>https://bdnews24.com/bangladesh/10a4390d5f0a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/10a4390d5f0a</guid>
+            <pubDate>Thu, 16 Jul 2026 16:09:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/mozaffor-hossain-160726-02-1784198871.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Some in Israeli govt sought to sway US on Iran deal: Vance]]></title>
+            <description><![CDATA[[Americas] Some in Israeli govt sought to sway US on Iran deal: Vance]]></description>
+            <link>https://bdnews24.com/world/americas/fc869ef532af</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/fc869ef532af</guid>
+            <pubDate>Thu, 16 Jul 2026 15:55:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/jd-vance-160726-01-1784195630.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Hormuz is a red line: Iran]]></title>
             <description><![CDATA[[West Asia] Hormuz is a red line: Iran]]></description>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/636eb25f3afb</guid>
             <pubDate>Thu, 16 Jul 2026 10:31:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/pabna-ataikula-thna-160726-01-1784173932.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pressure brings out best in Argentina: Scaloni]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Pressure brings out best in Argentina: Scaloni]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/59269f9c447d</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/59269f9c447d</guid>
-            <pubDate>Thu, 16 Jul 2026 10:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/scaloni-160726-1784176141.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US House defeats bid to cut off Israel aid]]></title>
-            <description><![CDATA[[Americas] US House defeats bid to cut off Israel aid]]></description>
-            <link>https://bdnews24.com/world/americas/c61cbd217585</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/c61cbd217585</guid>
-            <pubDate>Thu, 16 Jul 2026 10:27:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/us-capitol-160726-01-1784175996.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No curse on England: Tuchel]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] No curse on England: Tuchel]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/0e132ae32e20</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/0e132ae32e20</guid>
-            <pubDate>Thu, 16 Jul 2026 10:26:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/tuchel-160726-1784175921.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump reverses suspension of ICE traffic stops]]></title>
-            <description><![CDATA[[Americas] Trump reverses suspension of ICE traffic stops]]></description>
-            <link>https://bdnews24.com/world/americas/9e02ae6f394f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/9e02ae6f394f</guid>
-            <pubDate>Thu, 16 Jul 2026 09:52:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/memorial-sign-ice-160726-01-1784173882.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[France approves assisted-dying bill]]></title>
-            <description><![CDATA[[World] France approves assisted-dying bill]]></description>
-            <link>https://bdnews24.com/world/7577fb82f792</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/7577fb82f792</guid>
-            <pubDate>Thu, 16 Jul 2026 09:50:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/french-parliament-160726-1784173743.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
