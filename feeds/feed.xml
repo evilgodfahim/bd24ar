@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Jul 2026 07:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 09:52:30 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Jul 2026 07:12:34 GMT</pubDate>
+        <pubDate>Thu, 16 Jul 2026 09:52:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Hormuz is a red line: Iran]]></title>
+            <description><![CDATA[[West Asia] Hormuz is a red line: Iran]]></description>
+            <link>https://bdnews24.com/world/middle-east/36048e411e75</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/36048e411e75</guid>
+            <pubDate>Thu, 16 Jul 2026 15:38:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/hormuz-ships-160726-1784194626.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tourism suffers as Danube dries up]]></title>
+            <description><![CDATA[[Travel & Tourism] Tourism suffers as Danube dries up]]></description>
+            <link>https://bdnews24.com/travelandtourism/5d1e99ac63e6</link>
+            <guid isPermaLink="true">https://bdnews24.com/travelandtourism/5d1e99ac63e6</guid>
+            <pubDate>Thu, 16 Jul 2026 15:35:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/river-danube-160726-01-1784194438.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[4 children drown in Narsingdi]]></title>
+            <description><![CDATA[[Bangladesh] 4 children drown in Narsingdi]]></description>
+            <link>https://bdnews24.com/bangladesh/6ceb1c3af81e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6ceb1c3af81e</guid>
+            <pubDate>Thu, 16 Jul 2026 15:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/narsingdi-dead-160726-1784191611.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Data Breach hits India's largest nuclear plant]]></title>
+            <description><![CDATA[[Neighbours] Data Breach hits India's largest nuclear plant]]></description>
+            <link>https://bdnews24.com/neighbours/67a676d808fb</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/67a676d808fb</guid>
+            <pubDate>Thu, 16 Jul 2026 15:01:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/india-kundankulam-160726-01-1784192371.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shadik unfit to remain DUCSU VP: BNP’s Rashed]]></title>
+            <description><![CDATA[[Politics] Shadik unfit to remain DUCSU VP: BNP’s Rashed]]></description>
+            <link>https://bdnews24.com/politics/2825f64879ac</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/2825f64879ac</guid>
+            <pubDate>Thu, 16 Jul 2026 14:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sadik-kayem-160726-1784189444.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Noakhali BNP leader killed for ‘protesting drug use’]]></title>
+            <description><![CDATA[[Bangladesh] Noakhali BNP leader killed for ‘protesting drug use’]]></description>
+            <link>https://bdnews24.com/bangladesh/75c73fb63c2d</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/75c73fb63c2d</guid>
+            <pubDate>Thu, 16 Jul 2026 13:50:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/noakhali-murder-160726-01-1784182207.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Low-pressure may intensify more]]></title>
             <description><![CDATA[[Bangladesh] Low-pressure may intensify more]]></description>
@@ -25,8 +73,8 @@
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025July/SM/chankharpul-six-murder-140725-01-1752480523.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[10 people burn in Ctg salt factory]]></title>
-            <description><![CDATA[[Bangladesh] 10 people burn in Ctg salt factory]]></description>
+            <title><![CDATA[10 people burnt in Ctg salt factory]]></title>
+            <description><![CDATA[[Bangladesh] 10 people burnt in Ctg salt factory]]></description>
             <link>https://bdnews24.com/bangladesh/ed8fff09f253</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/ed8fff09f253</guid>
             <pubDate>Thu, 16 Jul 2026 12:38:00 GMT</pubDate>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/7577fb82f792</guid>
             <pubDate>Thu, 16 Jul 2026 09:50:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/french-parliament-160726-1784173743.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Suspended BNP leader hacked to death in Kishoreganj]]></title>
-            <description><![CDATA[[Bangladesh] Suspended BNP leader hacked to death in Kishoreganj]]></description>
-            <link>https://bdnews24.com/bangladesh/96d40cc67eb4</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/96d40cc67eb4</guid>
-            <pubDate>Thu, 16 Jul 2026 09:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/jahidul-alam-jahangir-160726-1784171119.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fewer vessels travel through Hormuz]]></title>
-            <description><![CDATA[[West Asia] Fewer vessels travel through Hormuz]]></description>
-            <link>https://bdnews24.com/world/middle-east/e9f6eff0485c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/e9f6eff0485c</guid>
-            <pubDate>Thu, 16 Jul 2026 09:31:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/oman-hormuz-160726-01-1784172614.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US military says it completed latest strikes on Iran]]></title>
-            <description><![CDATA[[Americas] US military says it completed latest strikes on Iran]]></description>
-            <link>https://bdnews24.com/world/americas/b16355b67403</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/b16355b67403</guid>
-            <pubDate>Thu, 16 Jul 2026 09:17:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/munition-launch-160726-01-1784171846.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ships ‘shun’ US-guided Hormuz transits]]></title>
-            <description><![CDATA[[West Asia] Ships ‘shun’ US-guided Hormuz transits]]></description>
-            <link>https://bdnews24.com/world/middle-east/ee5069e00c2f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/ee5069e00c2f</guid>
-            <pubDate>Thu, 16 Jul 2026 09:09:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/hormuz-160726-1784171280.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Messi town erupts as Argentina reach final]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Messi town erupts as Argentina reach final]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/085e2b1cd339</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/085e2b1cd339</guid>
-            <pubDate>Thu, 16 Jul 2026 08:47:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/messi-statue-160726-1784169932.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[England coach has ‘no regrets’]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] England coach has ‘no regrets’]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/c62353dc14f7</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/c62353dc14f7</guid>
-            <pubDate>Thu, 16 Jul 2026 08:42:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/england-coach-160726-1784169647.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
