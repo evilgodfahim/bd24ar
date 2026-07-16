@@ -4,10 +4,90 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Jul 2026 11:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 13:11:21 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Jul 2026 11:24:10 GMT</pubDate>
+        <pubDate>Thu, 16 Jul 2026 13:11:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US politicians feel heat over data centres]]></title>
+            <description><![CDATA[[Technology] US politicians feel heat over data centres]]></description>
+            <link>https://bdnews24.com/technology/5c1fadcb5a72</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/5c1fadcb5a72</guid>
+            <pubDate>Thu, 16 Jul 2026 19:03:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/us-data-170726-01-1784206976.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Algiers orphanage fire kills 11]]></title>
+            <description><![CDATA[[World] Algiers orphanage fire kills 11]]></description>
+            <link>https://bdnews24.com/world/e56d54926905</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e56d54926905</guid>
+            <pubDate>Thu, 16 Jul 2026 19:01:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/orphanage-fire-170726-01-1784206801.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India tightens ISRO exit rules]]></title>
+            <description><![CDATA[[Technology] India tightens ISRO exit rules]]></description>
+            <link>https://bdnews24.com/technology/e7dadd7e6411</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/e7dadd7e6411</guid>
+            <pubDate>Thu, 16 Jul 2026 19:01:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/isro-fb-16072026-1784206808.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BUFT pays tribute to July slain]]></title>
+            <description><![CDATA[[Campus] BUFT pays tribute to July slain]]></description>
+            <link>https://bdnews24.com/campus/83bae86ebd72</link>
+            <guid isPermaLink="true">https://bdnews24.com/campus/83bae86ebd72</guid>
+            <pubDate>Thu, 16 Jul 2026 18:38:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/july-program-1784205449.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dengue: 2 more die, 306 hospitalised]]></title>
+            <description><![CDATA[[Health] Dengue: 2 more die, 306 hospitalised]]></description>
+            <link>https://bdnews24.com/health/7a615104d1b4</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/7a615104d1b4</guid>
+            <pubDate>Thu, 16 Jul 2026 18:08:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dengue-patient-shaheed-suhrawardy-medical-college270723-25-1783598154.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Floods death toll hits 58, over 1.2mn affected]]></title>
+            <description><![CDATA[[Bangladesh] Floods death toll hits 58, over 1.2mn affected]]></description>
+            <link>https://bdnews24.com/bangladesh/e609d76eda89</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e609d76eda89</guid>
+            <pubDate>Thu, 16 Jul 2026 18:08:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/chattogram-satkania-flood-090726-01-1783610497.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Money laundering stalled fixes for ethnic groups: PM]]></title>
+            <description><![CDATA[[Bangladesh] Money laundering stalled fixes for ethnic groups: PM]]></description>
+            <link>https://bdnews24.com/bangladesh/b74c3a8f7b5f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b74c3a8f7b5f</guid>
+            <pubDate>Thu, 16 Jul 2026 17:58:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/pm-tareque-rahman-160726-01-1784198044.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[8 die with measles symptoms in a day]]></title>
+            <description><![CDATA[[Health] 8 die with measles symptoms in a day]]></description>
+            <link>https://bdnews24.com/health/7ca1ea2c94aa</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/7ca1ea2c94aa</guid>
+            <pubDate>Thu, 16 Jul 2026 17:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026March/SM/chattogram-medical-measles-corner-300326-02-1774973385.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Another witness testifies against ex-IGP Benazir]]></title>
+            <description><![CDATA[[Bangladesh] Another witness testifies against ex-IGP Benazir]]></description>
+            <link>https://bdnews24.com/bangladesh/602fe6967ccf</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/602fe6967ccf</guid>
+            <pubDate>Thu, 16 Jul 2026 17:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024June/SM/benazir-ahmed-230424-03-1717589957.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sylhet, Sunamganj floods set to ease]]></title>
+            <description><![CDATA[[Bangladesh] Sylhet, Sunamganj floods set to ease]]></description>
+            <link>https://bdnews24.com/bangladesh/fc449ff2a25e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/fc449ff2a25e</guid>
+            <pubDate>Thu, 16 Jul 2026 17:28:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/habiganj-flood-100726-1783679831.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA['Strong' quake hits New Zealand]]></title>
             <description><![CDATA[[World] 'Strong' quake hits New Zealand]]></description>
@@ -87,86 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/politics/2825f64879ac</guid>
             <pubDate>Thu, 16 Jul 2026 14:56:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sadik-kayem-160726-1784189444.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Noakhali BNP leader killed for ‘protesting drug use’]]></title>
-            <description><![CDATA[[Bangladesh] Noakhali BNP leader killed for ‘protesting drug use’]]></description>
-            <link>https://bdnews24.com/bangladesh/75c73fb63c2d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/75c73fb63c2d</guid>
-            <pubDate>Thu, 16 Jul 2026 13:50:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/noakhali-murder-160726-01-1784182207.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Low-pressure may intensify more]]></title>
-            <description><![CDATA[[Bangladesh] Low-pressure may intensify more]]></description>
-            <link>https://bdnews24.com/bangladesh/2a5b3da7e5d2</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2a5b3da7e5d2</guid>
-            <pubDate>Thu, 16 Jul 2026 13:00:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024October/SM/weather-office-141024-03-1728905812.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA['Dead' July Uprising victim alive in Saudi]]></title>
-            <description><![CDATA[[Bangladesh] 'Dead' July Uprising victim alive in Saudi]]></description>
-            <link>https://bdnews24.com/bangladesh/a31e3b92cef3</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a31e3b92cef3</guid>
-            <pubDate>Thu, 16 Jul 2026 12:58:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025July/SM/chankharpul-six-murder-140725-01-1752480523.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[10 people burnt in Ctg salt factory]]></title>
-            <description><![CDATA[[Bangladesh] 10 people burnt in Ctg salt factory]]></description>
-            <link>https://bdnews24.com/bangladesh/ed8fff09f253</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ed8fff09f253</guid>
-            <pubDate>Thu, 16 Jul 2026 12:38:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024May/SM/cmch-200223-01-1716890363.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Meet the World Cup's ‘Chief Watchers’]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Meet the World Cup's ‘Chief Watchers’]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/75ab265aa5a8</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/75ab265aa5a8</guid>
-            <pubDate>Thu, 16 Jul 2026 12:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/wc-watchers-160726-1784182211.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[500 feared dead off Myanmar coast: UN]]></title>
-            <description><![CDATA[[Neighbours] 500 feared dead off Myanmar coast: UN]]></description>
-            <link>https://bdnews24.com/neighbours/76c693b5496a</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/76c693b5496a</guid>
-            <pubDate>Thu, 16 Jul 2026 11:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026January/SM/bola-trolar-dubi-020125-01-1767367999.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2 journalists among three killed in Uttara accidents]]></title>
-            <description><![CDATA[[Bangladesh] 2 journalists among three killed in Uttara accidents]]></description>
-            <link>https://bdnews24.com/bangladesh/6c1ad2e97419</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6c1ad2e97419</guid>
-            <pubDate>Thu, 16 Jul 2026 11:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/raju-sakibul-160726-02-1784179479.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[China now favoured over US: study]]></title>
-            <description><![CDATA[[World] China now favoured over US: study]]></description>
-            <link>https://bdnews24.com/world/7534e7ae8f15</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/7534e7ae8f15</guid>
-            <pubDate>Thu, 16 Jul 2026 11:22:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/trump-xi-160726-1784179305.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wall St ends higher on cool inflation data]]></title>
-            <description><![CDATA[[Business] Wall St ends higher on cool inflation data]]></description>
-            <link>https://bdnews24.com/business/010b0f98520f</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/010b0f98520f</guid>
-            <pubDate>Thu, 16 Jul 2026 10:45:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/us-stocks-nyse-160726-01-1784177002.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 killed in Pabna bus, ambulance crash]]></title>
-            <description><![CDATA[[Bangladesh] 3 killed in Pabna bus, ambulance crash]]></description>
-            <link>https://bdnews24.com/bangladesh/636eb25f3afb</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/636eb25f3afb</guid>
-            <pubDate>Thu, 16 Jul 2026 10:31:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/pabna-ataikula-thna-160726-01-1784173932.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
