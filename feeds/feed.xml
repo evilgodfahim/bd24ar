@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Jul 2026 04:47:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 07:12:34 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Jul 2026 04:47:12 GMT</pubDate>
+        <pubDate>Thu, 16 Jul 2026 07:12:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Low-pressure may intensify more]]></title>
+            <description><![CDATA[[Bangladesh] Low-pressure may intensify more]]></description>
+            <link>https://bdnews24.com/bangladesh/2a5b3da7e5d2</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2a5b3da7e5d2</guid>
+            <pubDate>Thu, 16 Jul 2026 13:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024October/SM/weather-office-141024-03-1728905812.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA['Dead' July Uprising victim alive in Saudi]]></title>
+            <description><![CDATA[[Bangladesh] 'Dead' July Uprising victim alive in Saudi]]></description>
+            <link>https://bdnews24.com/bangladesh/a31e3b92cef3</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a31e3b92cef3</guid>
+            <pubDate>Thu, 16 Jul 2026 12:58:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025July/SM/chankharpul-six-murder-140725-01-1752480523.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[10 people burn in Ctg salt factory]]></title>
+            <description><![CDATA[[Bangladesh] 10 people burn in Ctg salt factory]]></description>
+            <link>https://bdnews24.com/bangladesh/ed8fff09f253</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ed8fff09f253</guid>
+            <pubDate>Thu, 16 Jul 2026 12:38:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024May/SM/cmch-200223-01-1716890363.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Meet the World Cup's ‘Chief Watchers’]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Meet the World Cup's ‘Chief Watchers’]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/75ab265aa5a8</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/75ab265aa5a8</guid>
+            <pubDate>Thu, 16 Jul 2026 12:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/wc-watchers-160726-1784182211.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[500 feared dead off Myanmar coast: UN]]></title>
+            <description><![CDATA[[Neighbours] 500 feared dead off Myanmar coast: UN]]></description>
+            <link>https://bdnews24.com/neighbours/76c693b5496a</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/76c693b5496a</guid>
+            <pubDate>Thu, 16 Jul 2026 11:49:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026January/SM/bola-trolar-dubi-020125-01-1767367999.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[2 journalists among three killed in Uttara accidents]]></title>
+            <description><![CDATA[[Bangladesh] 2 journalists among three killed in Uttara accidents]]></description>
+            <link>https://bdnews24.com/bangladesh/6c1ad2e97419</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6c1ad2e97419</guid>
+            <pubDate>Thu, 16 Jul 2026 11:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/raju-sakibul-160726-02-1784179479.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[China now favoured over US: study]]></title>
+            <description><![CDATA[[World] China now favoured over US: study]]></description>
+            <link>https://bdnews24.com/world/7534e7ae8f15</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/7534e7ae8f15</guid>
+            <pubDate>Thu, 16 Jul 2026 11:22:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/trump-xi-160726-1784179305.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Wall St ends higher on cool inflation data]]></title>
             <description><![CDATA[[Business] Wall St ends higher on cool inflation data]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/c62353dc14f7</guid>
             <pubDate>Thu, 16 Jul 2026 08:42:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/england-coach-160726-1784169647.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bus accident kills 6 in China]]></title>
-            <description><![CDATA[[Asia Pacific] Bus accident kills 6 in China]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/605f2599955d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/605f2599955d</guid>
-            <pubDate>Thu, 16 Jul 2026 08:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/accident-280526-1784169476.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump ‘gains new Iran escalation options’]]></title>
-            <description><![CDATA[[West Asia] Trump ‘gains new Iran escalation options’]]></description>
-            <link>https://bdnews24.com/world/middle-east/412552523d15</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/412552523d15</guid>
-            <pubDate>Thu, 16 Jul 2026 08:35:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/us-military-attack-160726-1784169193.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[England tried to hold on but fell short: Kane]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] England tried to hold on but fell short: Kane]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/76b008a1fab6</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/76b008a1fab6</guid>
-            <pubDate>Thu, 16 Jul 2026 04:00:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/harry-kane-160726-01-1784152769.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US-Iran war bill may hit $100bn: NBC]]></title>
-            <description><![CDATA[[World] US-Iran war bill may hit $100bn: NBC]]></description>
-            <link>https://bdnews24.com/world/01d043ca76de</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/01d043ca76de</guid>
-            <pubDate>Thu, 16 Jul 2026 01:14:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/iran-war-bill-16072026-01-1784142851.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Argentina break English hearts for Spain final]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Argentina break English hearts for Spain final]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/3cc4f1503b8e</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/3cc4f1503b8e</guid>
-            <pubDate>Thu, 16 Jul 2026 00:42:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/argentina-england-160726-02-1784149256.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka, Chattogram sink after drains fail]]></title>
-            <description><![CDATA[[Bangladesh] Dhaka, Chattogram sink after drains fail]]></description>
-            <link>https://bdnews24.com/bangladesh/855addd0f6f8</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/855addd0f6f8</guid>
-            <pubDate>Thu, 16 Jul 2026 00:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/waterlogging-armbag-120726-032-1783870037.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nigeria launches $500mn fund to drive food security]]></title>
-            <description><![CDATA[[Africa] Nigeria launches $500mn fund to drive food security]]></description>
-            <link>https://bdnews24.com/world/africa/5f5d445588b7</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/africa/5f5d445588b7</guid>
-            <pubDate>Thu, 16 Jul 2026 00:23:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/nigeria-farm-fund-15072026-01-1784139783.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
