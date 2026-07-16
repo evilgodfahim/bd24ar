@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Jul 2026 19:53:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 20:41:25 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Jul 2026 19:53:42 GMT</pubDate>
+        <pubDate>Thu, 16 Jul 2026 20:41:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why is the dollar rate rising?]]></title>
+            <description><![CDATA[[Economy] Why is the dollar rate rising?]]></description>
+            <link>https://bdnews24.com/economy/aee44ab2d67b</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/aee44ab2d67b</guid>
+            <pubDate>Fri, 17 Jul 2026 02:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/dollar-new-1776342848.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka, Chattogram sink after drains fail]]></title>
+            <description><![CDATA[[Bangladesh] Dhaka, Chattogram sink after drains fail]]></description>
+            <link>https://bdnews24.com/bangladesh/7e34b6dbb64f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7e34b6dbb64f</guid>
+            <pubDate>Fri, 17 Jul 2026 02:24:00 GMT</pubDate>
+            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Iran, US intensify attacks]]></title>
             <description><![CDATA[[World] Iran, US intensify attacks]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/f6b868f1cfae</guid>
             <pubDate>Thu, 16 Jul 2026 21:52:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/chattogram-relatives-of-burn-victims-160726-01-1784209325.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[1 dead, 100 injured in Indian chariot festival]]></title>
-            <description><![CDATA[[Neighbours] 1 dead, 100 injured in Indian chariot festival]]></description>
-            <link>https://bdnews24.com/neighbours/516bedf6526c</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/516bedf6526c</guid>
-            <pubDate>Thu, 16 Jul 2026 21:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/india-rath-170726-01-1784215943.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US tightens visa rules for students, journalists]]></title>
-            <description><![CDATA[[World] US tightens visa rules for students, journalists]]></description>
-            <link>https://bdnews24.com/world/4ab17fd2d615</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/4ab17fd2d615</guid>
-            <pubDate>Thu, 16 Jul 2026 21:27:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/us-visa-170726-01-1784215533.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
