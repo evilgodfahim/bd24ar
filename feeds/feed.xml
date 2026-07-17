@@ -4,10 +4,90 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 09:43:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 11:11:55 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jul 2026 09:43:14 GMT</pubDate>
+        <pubDate>Fri, 17 Jul 2026 11:11:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bay braces for squalls]]></title>
+            <description><![CDATA[[Bangladesh] Bay braces for squalls]]></description>
+            <link>https://bdnews24.com/bangladesh/cb793c22ff86</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cb793c22ff86</guid>
+            <pubDate>Fri, 17 Jul 2026 17:08:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/52-rain-summer-rain-nayan-kumar-05072026-04-1783238624.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flood alert for 5 northern districts]]></title>
+            <description><![CDATA[[Bangladesh] Flood alert for 5 northern districts]]></description>
+            <link>https://bdnews24.com/bangladesh/a3892a22051b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a3892a22051b</guid>
+            <pubDate>Fri, 17 Jul 2026 17:02:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024July/SM/sirajganj-jomuna-050724-01-1720168622.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stage collapses at Khosru relief event]]></title>
+            <description><![CDATA[[Bangladesh] Stage collapses at Khosru relief event]]></description>
+            <link>https://bdnews24.com/bangladesh/88a5bcd4b0ea</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/88a5bcd4b0ea</guid>
+            <pubDate>Fri, 17 Jul 2026 16:46:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/chattogram-stage-collapse-170726-01-1784281892.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Netflix falls 9% on weak earnings forecast]]></title>
+            <description><![CDATA[[Business] Netflix falls 9% on weak earnings forecast]]></description>
+            <link>https://bdnews24.com/business/5cbed02b07a2</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/5cbed02b07a2</guid>
+            <pubDate>Fri, 17 Jul 2026 16:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/netflix-logo-170726-1784285115.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Philippines slates China's 'racist' video]]></title>
+            <description><![CDATA[[Asia Pacific] Philippines slates China's 'racist' video]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/1df963889a18</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/1df963889a18</guid>
+            <pubDate>Fri, 17 Jul 2026 16:42:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/filipino-media-170726-01-1784284843.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pakistan's Nawaz hit with doping ban]]></title>
+            <description><![CDATA[[Cricket] Pakistan's Nawaz hit with doping ban]]></description>
+            <link>https://bdnews24.com/cricket/c0c93bf9e271</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/c0c93bf9e271</guid>
+            <pubDate>Fri, 17 Jul 2026 16:37:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/pakistan-nawaz-doping-ban-170726-01-1784284633.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Opposition exploiting July for power: Fakhrul]]></title>
+            <description><![CDATA[[Politics] Opposition exploiting July for power: Fakhrul]]></description>
+            <link>https://bdnews24.com/politics/2e74463c29e3</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/2e74463c29e3</guid>
+            <pubDate>Fri, 17 Jul 2026 16:29:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/mirza-fakhrul-islam-170726-01-1784279832.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Players challenge ICC's World Cup shake-up]]></title>
+            <description><![CDATA[[Cricket] Players challenge ICC's World Cup shake-up]]></description>
+            <link>https://bdnews24.com/cricket/55a111af126f</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/55a111af126f</guid>
+            <pubDate>Fri, 17 Jul 2026 16:16:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/world-cup-trophy-170726-01-1784283386.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indonesia rewrites copyright for AI]]></title>
+            <description><![CDATA[[Technology] Indonesia rewrites copyright for AI]]></description>
+            <link>https://bdnews24.com/technology/93674c9f14c4</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/93674c9f14c4</guid>
+            <pubDate>Fri, 17 Jul 2026 16:14:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/indonesia-ai-170726-01-1784283227.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India stand by Rohit despite exit talk]]></title>
+            <description><![CDATA[[Cricket] India stand by Rohit despite exit talk]]></description>
+            <link>https://bdnews24.com/cricket/744d0a09d8a5</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/744d0a09d8a5</guid>
+            <pubDate>Fri, 17 Jul 2026 16:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024May/SM/rohit-190524-01-1716137557.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[River erosion turns Jhalakathi village into island]]></title>
             <description><![CDATA[[Bangladesh] River erosion turns Jhalakathi village into island]]></description>
@@ -41,12 +121,12 @@
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bodiur-rahman-selim-rahman-170726-01-1784272461.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Cleaner remains missing in Old Dhaka drain]]></title>
-            <description><![CDATA[[Bangladesh] Cleaner remains missing in Old Dhaka drain]]></description>
+            <title><![CDATA[Missing drain cleaner found dead]]></title>
+            <description><![CDATA[[Bangladesh] Missing drain cleaner found dead]]></description>
             <link>https://bdnews24.com/bangladesh/ba71bc9372f9</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/ba71bc9372f9</guid>
             <pubDate>Fri, 17 Jul 2026 13:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/nolgola-dscc-170726-01-1784272405.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/nolgola-dscc-170726-02-1784272503.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Body found on Nijhum Dwip remains unrecovered]]></title>
@@ -87,86 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/7a3e4087490e</guid>
             <pubDate>Fri, 17 Jul 2026 12:08:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/mymensingh-train-170726-1784265104.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Illegal power poles in Garo hills removed]]></title>
-            <description><![CDATA[[Bangladesh] Illegal power poles in Garo hills removed]]></description>
-            <link>https://bdnews24.com/bangladesh/2c0341e1cb94</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2c0341e1cb94</guid>
-            <pubDate>Fri, 17 Jul 2026 11:43:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sherpur-forest-department-01-1784263273.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran retaliates on Day 6]]></title>
-            <description><![CDATA[[West Asia] Iran retaliates on Day 6]]></description>
-            <link>https://bdnews24.com/world/middle-east/faf3abb46df7</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/faf3abb46df7</guid>
-            <pubDate>Fri, 17 Jul 2026 11:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/us-strike-targets-170726-01-1784266595.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump to attend World Cup final]]></title>
-            <description><![CDATA[[Americas] Trump to attend World Cup final]]></description>
-            <link>https://bdnews24.com/world/americas/fdadca1d0f06</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/fdadca1d0f06</guid>
-            <pubDate>Fri, 17 Jul 2026 11:07:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/trump-wc-trophy-170726-1784264833.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Argentines back World Cup stars over banner]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Argentines back World Cup stars over banner]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/35fee1602ad9</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/35fee1602ad9</guid>
-            <pubDate>Fri, 17 Jul 2026 10:59:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/argentina-fans-170626-1784264300.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump's Iran gamble grows]]></title>
-            <description><![CDATA[[THE LONG READ] Trump's Iran gamble grows]]></description>
-            <link>https://bdnews24.com/the-long-read/cd29dd493535</link>
-            <guid isPermaLink="true">https://bdnews24.com/the-long-read/cd29dd493535</guid>
-            <pubDate>Fri, 17 Jul 2026 10:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/iran-trump-170726-1784263895.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ABC, NBC, CNN skip Trump's election-security speech]]></title>
-            <description><![CDATA[[Americas] ABC, NBC, CNN skip Trump's election-security speech]]></description>
-            <link>https://bdnews24.com/world/americas/1aa650de5cec</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/1aa650de5cec</guid>
-            <pubDate>Fri, 17 Jul 2026 10:48:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/trump-election-speech-170726-01-1784263651.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[World Cup semifinal hits ratings high]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] World Cup semifinal hits ratings high]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/d91d084f65ba</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/d91d084f65ba</guid>
-            <pubDate>Fri, 17 Jul 2026 10:36:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/kane-messi-170726-1784262956.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Qatar says Iranian missile attack thwarted]]></title>
-            <description><![CDATA[[West Asia] Qatar says Iranian missile attack thwarted]]></description>
-            <link>https://bdnews24.com/world/middle-east/8af810062ba4</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/8af810062ba4</guid>
-            <pubDate>Fri, 17 Jul 2026 10:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/iran-missiles-170726-01-1784262582.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vance links Epstein to Israeli 'deep state']]></title>
-            <description><![CDATA[[Americas] Vance links Epstein to Israeli 'deep state']]></description>
-            <link>https://bdnews24.com/world/americas/e68c80a02be3</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/e68c80a02be3</guid>
-            <pubDate>Fri, 17 Jul 2026 10:27:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/vance-170726-1784262409.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pele's iconic 1958 shirt sells for $4.9mn]]></title>
-            <description><![CDATA[[Sport] Pele's iconic 1958 shirt sells for $4.9mn]]></description>
-            <link>https://bdnews24.com/sport/c3cce56b1abc</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/c3cce56b1abc</guid>
-            <pubDate>Fri, 17 Jul 2026 10:04:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/pele-jersey-170726-1784261001.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
