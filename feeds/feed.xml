@@ -4,10 +4,82 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 11:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 12:56:40 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jul 2026 11:11:55 GMT</pubDate>
+        <pubDate>Fri, 17 Jul 2026 12:56:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Scientists spot atmosphere on Earth-like world]]></title>
+            <description><![CDATA[[Science] Scientists spot atmosphere on Earth-like world]]></description>
+            <link>https://bdnews24.com/science/fa4c38e85e0a</link>
+            <guid isPermaLink="true">https://bdnews24.com/science/fa4c38e85e0a</guid>
+            <pubDate>Fri, 17 Jul 2026 18:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/nasa-planet-170726-01-1784292422.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Uganda bus crash kills 20 pupils]]></title>
+            <description><![CDATA[[Africa] Uganda bus crash kills 20 pupils]]></description>
+            <link>https://bdnews24.com/world/africa/980663af5be7</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/africa/980663af5be7</guid>
+            <pubDate>Fri, 17 Jul 2026 18:34:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/uganda-crash-170726-1784291651.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India rolls out first hydrogen train]]></title>
+            <description><![CDATA[[Neighbours] India rolls out first hydrogen train]]></description>
+            <link>https://bdnews24.com/neighbours/31e7eba30bcd</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/31e7eba30bcd</guid>
+            <pubDate>Fri, 17 Jul 2026 18:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/india-train-17072026-1784291456.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[World Cup final brings Trump, Sanchez together]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] World Cup final brings Trump, Sanchez together]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/af2baa5d62aa</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/af2baa5d62aa</guid>
+            <pubDate>Fri, 17 Jul 2026 18:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/wc-final-trump-sanchez-170726-01-1784289624.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bowen commits to West Ham]]></title>
+            <description><![CDATA[[Sport] Bowen commits to West Ham]]></description>
+            <link>https://bdnews24.com/sport/0a5b7a3a4ab2</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/0a5b7a3a4ab2</guid>
+            <pubDate>Fri, 17 Jul 2026 17:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/bowen-commits-west-ham-170726-01-1784289329.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yamal's roots dream of World Cup glory]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Yamal's roots dream of World Cup glory]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/9b5434d54286</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/9b5434d54286</guid>
+            <pubDate>Fri, 17 Jul 2026 17:53:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/lamine-yamal-neighbourhood-170726-01-1784289203.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Europe faces wildfires, drought despite cooler weather]]></title>
+            <description><![CDATA[[Europe] Europe faces wildfires, drought despite cooler weather]]></description>
+            <link>https://bdnews24.com/world/europe/c4c6f432ed11</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/c4c6f432ed11</guid>
+            <pubDate>Fri, 17 Jul 2026 17:49:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/europe-weather-germany-170726-01-1784288940.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rain-swollen canal claims 2 children]]></title>
+            <description><![CDATA[[Bangladesh] Rain-swollen canal claims 2 children]]></description>
+            <link>https://bdnews24.com/bangladesh/23dfaaa60740</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/23dfaaa60740</guid>
+            <pubDate>Fri, 17 Jul 2026 17:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/drowning-in-water-031022-1781269422.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kaptai dam may open all spillways]]></title>
+            <description><![CDATA[[Bangladesh] Kaptai dam may open all spillways]]></description>
+            <link>https://bdnews24.com/bangladesh/828f12006c6d</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/828f12006c6d</guid>
+            <pubDate>Fri, 17 Jul 2026 17:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025June/SM/rangamati-karnafuli-power-station-060225-02-1748867144.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Bay braces for squalls]]></title>
             <description><![CDATA[[Bangladesh] Bay braces for squalls]]></description>
@@ -95,78 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/b5a8dd5b4ada</guid>
             <pubDate>Fri, 17 Jul 2026 15:34:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/jhalokathi-village-170726-01-1784273445.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Flood aid will continue until rehabilitation ends: Khosru]]></title>
-            <description><![CDATA[[Bangladesh] Flood aid will continue until rehabilitation ends: Khosru]]></description>
-            <link>https://bdnews24.com/bangladesh/67fabe05ce56</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/67fabe05ce56</guid>
-            <pubDate>Fri, 17 Jul 2026 15:07:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/chattogram-amir-khosru-170726-01-1784275187.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Deadly storms batter France]]></title>
-            <description><![CDATA[[Europe] Deadly storms batter France]]></description>
-            <link>https://bdnews24.com/world/europe/68071a353b36</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/68071a353b36</guid>
-            <pubDate>Fri, 17 Jul 2026 14:59:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/france-lighning-170726-1784278718.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Al-Arafah Islami Bank overhauls board]]></title>
-            <description><![CDATA[[Business] Al-Arafah Islami Bank overhauls board]]></description>
-            <link>https://bdnews24.com/business/a80821d4e216</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/a80821d4e216</guid>
-            <pubDate>Fri, 17 Jul 2026 14:07:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bodiur-rahman-selim-rahman-170726-01-1784272461.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Missing drain cleaner found dead]]></title>
-            <description><![CDATA[[Bangladesh] Missing drain cleaner found dead]]></description>
-            <link>https://bdnews24.com/bangladesh/ba71bc9372f9</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ba71bc9372f9</guid>
-            <pubDate>Fri, 17 Jul 2026 13:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/nolgola-dscc-170726-02-1784272503.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Body found on Nijhum Dwip remains unrecovered]]></title>
-            <description><![CDATA[[Bangladesh] Body found on Nijhum Dwip remains unrecovered]]></description>
-            <link>https://bdnews24.com/bangladesh/4045a1cfcde2</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4045a1cfcde2</guid>
-            <pubDate>Fri, 17 Jul 2026 13:19:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/noakhali-deadbody-170726-01-1784269663.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Landslide buries residents in southwest China]]></title>
-            <description><![CDATA[[Asia Pacific] Landslide buries residents in southwest China]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/6e144b2dc37b</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/6e144b2dc37b</guid>
-            <pubDate>Fri, 17 Jul 2026 12:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/china-landslide-170726-01-1784271280.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[EU, G77 back Bangladesh's 'smooth' LDC exit]]></title>
-            <description><![CDATA[[Bangladesh] EU, G77 back Bangladesh's 'smooth' LDC exit]]></description>
-            <link>https://bdnews24.com/bangladesh/ff699a9a1e3d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ff699a9a1e3d</guid>
-            <pubDate>Fri, 17 Jul 2026 12:34:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/stavros-lambrinidis-muktadir-170726-01-1784267689.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 killed as train rams school van in India]]></title>
-            <description><![CDATA[[Neighbours] 3 killed as train rams school van in India]]></description>
-            <link>https://bdnews24.com/neighbours/cdf5ffcb154d</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/cdf5ffcb154d</guid>
-            <pubDate>Fri, 17 Jul 2026 12:17:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/school-van-accident-india-17072026-01-1784266787.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bijoy Express derailment halts trains]]></title>
-            <description><![CDATA[[Bangladesh] Bijoy Express derailment halts trains]]></description>
-            <link>https://bdnews24.com/bangladesh/7a3e4087490e</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7a3e4087490e</guid>
-            <pubDate>Fri, 17 Jul 2026 12:08:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/mymensingh-train-170726-1784265104.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
