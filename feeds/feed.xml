@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News]]></title>
-        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
+        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 22:36:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 23:40:44 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jul 2026 22:36:05 GMT</pubDate>
+        <pubDate>Fri, 17 Jul 2026 23:40:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[WC final halftime to last over 15 minutes]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] WC final halftime to last over 15 minutes]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/a3416f11c6a3</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/a3416f11c6a3</guid>
-            <pubDate>Sat, 18 Jul 2026 01:20:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/wc-final-halftime-15mins-180726-01-1784315958.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wrong crime scenes cloud July Uprising probes]]></title>
-            <description><![CDATA[[Bangladesh] Wrong crime scenes cloud July Uprising probes]]></description>
-            <link>https://bdnews24.com/bangladesh/8bae970b2655</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8bae970b2655</guid>
-            <pubDate>Sat, 18 Jul 2026 00:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024December/SM/quota-protest-jatrabari-180724-30-1735482707.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US-Bangla plans $1.1bn fleet expansion]]></title>
-            <description><![CDATA[[Bangladesh] US-Bangla plans $1.1bn fleet expansion]]></description>
-            <link>https://bdnews24.com/bangladesh/1e9e5fd61406</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1e9e5fd61406</guid>
-            <pubDate>Sat, 18 Jul 2026 00:42:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/us-bangla-airlines-170726-01-1784312037.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Family rejects ‘turf war’ motive in Minhaz killing]]></title>
-            <description><![CDATA[[Bangladesh] Family rejects ‘turf war’ motive in Minhaz killing]]></description>
-            <link>https://bdnews24.com/bangladesh/14d996db8b30</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/14d996db8b30</guid>
-            <pubDate>Sat, 18 Jul 2026 00:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/minhaz-170726-1784310450.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[France unhappy about third-place playoff against England]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] France unhappy about third-place playoff against England]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/2e87ca44d5a0</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/2e87ca44d5a0</guid>
-            <pubDate>Fri, 17 Jul 2026 23:24:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/deschamps-coach-17072026-1784309010.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Monsoon comes alive in dance]]></title>
-            <description><![CDATA[[Image] Monsoon comes alive in dance]]></description>
-            <link>https://bdnews24.com/media-en/image/a7598ebab259</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/a7598ebab259</guid>
-            <pubDate>Fri, 17 Jul 2026 23:19:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dance-festival-ghanaghata2-170726-10-1784292567.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India weighs Hasina extradition request]]></title>
-            <description><![CDATA[[Bangladesh] India weighs Hasina extradition request]]></description>
-            <link>https://bdnews24.com/bangladesh/8f5767a13342</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8f5767a13342</guid>
-            <pubDate>Fri, 17 Jul 2026 23:10:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025March/SM/randhir-jaiswal-070325-001-1741357473.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[July 17, 2026]]></title>
-            <description><![CDATA[[Image] July 17, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/98a0d4693672</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/98a0d4693672</guid>
-            <pubDate>Fri, 17 Jul 2026 23:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/buriganga-river-boat-cloth-160726-06-1784292029.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Argentina face Spain in WC final amid personal twists]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Argentina face Spain in WC final amid personal twists]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/dc044e48bbbd</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/dc044e48bbbd</guid>
-            <pubDate>Fri, 17 Jul 2026 22:57:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/messi-yamal-170726-01-1784303743.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[War hero Hamidur Rahman statue dismantled again]]></title>
-            <description><![CDATA[[Bangladesh] War hero Hamidur Rahman statue dismantled again]]></description>
-            <link>https://bdnews24.com/bangladesh/77b206c92374</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/77b206c92374</guid>
-            <pubDate>Fri, 17 Jul 2026 22:50:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/jhenidah-monument-170726-01-1784300362.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Newborns get World Cup star names worldwide]]></title>
-            <description><![CDATA[[Sport] Newborns get World Cup star names worldwide]]></description>
-            <link>https://bdnews24.com/sport/e0597b3240ae</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/e0597b3240ae</guid>
-            <pubDate>Fri, 17 Jul 2026 22:42:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/baby-haaland-170726-01-1784306492.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israeli strikes kill Palestinians at Gaza funeral]]></title>
-            <description><![CDATA[[World] Israeli strikes kill Palestinians at Gaza funeral]]></description>
-            <link>https://bdnews24.com/world/e5b9af523b5d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/e5b9af523b5d</guid>
-            <pubDate>Fri, 17 Jul 2026 22:36:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/gaza-aftermath-170726-01-1784306157.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cricket bids farewell to Sir Gary Sobers]]></title>
-            <description><![CDATA[[Cricket] Cricket bids farewell to Sir Gary Sobers]]></description>
-            <link>https://bdnews24.com/cricket/17b05b12e760</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/17b05b12e760</guid>
-            <pubDate>Fri, 17 Jul 2026 22:04:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/windies-cricket-gary-sobers-170726-01-1784304183.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Strong quake jolts Mexico, Guatemala, El Salvador]]></title>
-            <description><![CDATA[[Americas] Strong quake jolts Mexico, Guatemala, El Salvador]]></description>
-            <link>https://bdnews24.com/world/americas/76972b41af87</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/76972b41af87</guid>
-            <pubDate>Fri, 17 Jul 2026 21:58:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/mexico-earthquake-170726-01-1784303804.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 killed, hundreds displaced in Chile storms]]></title>
-            <description><![CDATA[[World] 3 killed, hundreds displaced in Chile storms]]></description>
-            <link>https://bdnews24.com/world/ea5a4f08e048</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ea5a4f08e048</guid>
-            <pubDate>Fri, 17 Jul 2026 21:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/chile-storm-170726-01-1784303698.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cricket legend Sir Gary Sobers dies aged 89]]></title>
-            <description><![CDATA[[Cricket] Cricket legend Sir Gary Sobers dies aged 89]]></description>
-            <link>https://bdnews24.com/cricket/8fb5963eed36</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/8fb5963eed36</guid>
-            <pubDate>Fri, 17 Jul 2026 21:31:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/garfield-sobers-170726-01-1784301857.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Whirlwind hits Cox's Bazar beach]]></title>
-            <description><![CDATA[[Bangladesh] Whirlwind hits Cox's Bazar beach]]></description>
-            <link>https://bdnews24.com/bangladesh/88151f946df5</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/88151f946df5</guid>
-            <pubDate>Fri, 17 Jul 2026 21:29:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/coxs-bazar-tornado-hits-170726-01-1784297061.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Apple reclaims tech crown from NVIDIA]]></title>
-            <description><![CDATA[[Technology] Apple reclaims tech crown from NVIDIA]]></description>
-            <link>https://bdnews24.com/technology/15c9245c6a06</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/15c9245c6a06</guid>
-            <pubDate>Fri, 17 Jul 2026 21:06:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/apple-market-170726-01-1784300797.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[94 new dengue cases]]></title>
-            <description><![CDATA[[Health] 94 new dengue cases]]></description>
-            <link>https://bdnews24.com/health/4d48e7327898</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/4d48e7327898</guid>
-            <pubDate>Fri, 17 Jul 2026 20:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024October/SM/dengue-mugda-hospital-231024-014-1729682297.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Can Wangchuk's fast shake Indian politics?]]></title>
-            <description><![CDATA[[Neighbours] Can Wangchuk's fast shake Indian politics?]]></description>
-            <link>https://bdnews24.com/neighbours/a88e65bafa64</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/a88e65bafa64</guid>
-            <pubDate>Fri, 17 Jul 2026 20:25:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sonam-wangchuk-130726-01-1784289328.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
+            <link>https://bdnews24.com</link>
+            <guid isPermaLink="true">https://bdnews24.com</guid>
+            <pubDate>Fri, 17 Jul 2026 23:40:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
