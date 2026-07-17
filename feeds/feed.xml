@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 07:07:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 09:43:14 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jul 2026 07:07:31 GMT</pubDate>
+        <pubDate>Fri, 17 Jul 2026 09:43:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[River erosion turns Jhalakathi village into island]]></title>
+            <description><![CDATA[[Bangladesh] River erosion turns Jhalakathi village into island]]></description>
+            <link>https://bdnews24.com/bangladesh/b5a8dd5b4ada</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b5a8dd5b4ada</guid>
+            <pubDate>Fri, 17 Jul 2026 15:34:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/jhalokathi-village-170726-01-1784273445.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flood aid will continue until rehabilitation ends: Khosru]]></title>
+            <description><![CDATA[[Bangladesh] Flood aid will continue until rehabilitation ends: Khosru]]></description>
+            <link>https://bdnews24.com/bangladesh/67fabe05ce56</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/67fabe05ce56</guid>
+            <pubDate>Fri, 17 Jul 2026 15:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/chattogram-amir-khosru-170726-01-1784275187.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Deadly storms batter France]]></title>
+            <description><![CDATA[[Europe] Deadly storms batter France]]></description>
+            <link>https://bdnews24.com/world/europe/68071a353b36</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/68071a353b36</guid>
+            <pubDate>Fri, 17 Jul 2026 14:59:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/france-lighning-170726-1784278718.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Al-Arafah Islami Bank overhauls board]]></title>
+            <description><![CDATA[[Business] Al-Arafah Islami Bank overhauls board]]></description>
+            <link>https://bdnews24.com/business/a80821d4e216</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/a80821d4e216</guid>
+            <pubDate>Fri, 17 Jul 2026 14:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bodiur-rahman-selim-rahman-170726-01-1784272461.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cleaner remains missing in Old Dhaka drain]]></title>
+            <description><![CDATA[[Bangladesh] Cleaner remains missing in Old Dhaka drain]]></description>
+            <link>https://bdnews24.com/bangladesh/ba71bc9372f9</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ba71bc9372f9</guid>
+            <pubDate>Fri, 17 Jul 2026 13:51:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/nolgola-dscc-170726-01-1784272405.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Body found on Nijhum Dwip remains unrecovered]]></title>
+            <description><![CDATA[[Bangladesh] Body found on Nijhum Dwip remains unrecovered]]></description>
+            <link>https://bdnews24.com/bangladesh/4045a1cfcde2</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4045a1cfcde2</guid>
+            <pubDate>Fri, 17 Jul 2026 13:19:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/noakhali-deadbody-170726-01-1784269663.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Landslide buries residents in southwest China]]></title>
             <description><![CDATA[[Asia Pacific] Landslide buries residents in southwest China]]></description>
@@ -49,8 +97,8 @@
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sherpur-forest-department-01-1784263273.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Iran launches fresh attacks after 6th day of US strikes]]></title>
-            <description><![CDATA[[West Asia] Iran launches fresh attacks after 6th day of US strikes]]></description>
+            <title><![CDATA[Iran retaliates on Day 6]]></title>
+            <description><![CDATA[[West Asia] Iran retaliates on Day 6]]></description>
             <link>https://bdnews24.com/world/middle-east/faf3abb46df7</link>
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/faf3abb46df7</guid>
             <pubDate>Fri, 17 Jul 2026 11:37:00 GMT</pubDate>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/c3cce56b1abc</guid>
             <pubDate>Fri, 17 Jul 2026 10:04:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/pele-jersey-170726-1784261001.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Messi effect' a dream for MLS: Garber]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] ‘Messi effect' a dream for MLS: Garber]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/276ec261bdcb</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/276ec261bdcb</guid>
-            <pubDate>Fri, 17 Jul 2026 09:56:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/messi-170726-1784260494.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The serious health risks posed by wildfire smoke]]></title>
-            <description><![CDATA[[Environment] The serious health risks posed by wildfire smoke]]></description>
-            <link>https://bdnews24.com/environment/6f0b7daad66e</link>
-            <guid isPermaLink="true">https://bdnews24.com/environment/6f0b7daad66e</guid>
-            <pubDate>Fri, 17 Jul 2026 09:53:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/wildfire-smoke-170726-01-1784260362.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Air pollution kills 242 a day: study]]></title>
-            <description><![CDATA[[Bangladesh] Air pollution kills 242 a day: study]]></description>
-            <link>https://bdnews24.com/bangladesh/c0e229b155aa</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c0e229b155aa</guid>
-            <pubDate>Fri, 17 Jul 2026 09:48:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026March/SM/air-pollution-070326-1772885026.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Truth Social to sell trading firms access to Trump's posts]]></title>
-            <description><![CDATA[[Americas] Truth Social to sell trading firms access to Trump's posts]]></description>
-            <link>https://bdnews24.com/world/americas/4894bd9b6014</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/4894bd9b6014</guid>
-            <pubDate>Fri, 17 Jul 2026 09:20:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/truth-social-170726-01-1784258362.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Russia, Ukraine attacks kill 13]]></title>
-            <description><![CDATA[[Europe] Russia, Ukraine attacks kill 13]]></description>
-            <link>https://bdnews24.com/world/europe/a99f473ff017</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/a99f473ff017</guid>
-            <pubDate>Fri, 17 Jul 2026 09:17:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/ukraine-russia-attack-170726-1784258177.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US-Bangla turns 13, eyes 21 more aircraft]]></title>
-            <description><![CDATA[[Aviation] US-Bangla turns 13, eyes 21 more aircraft]]></description>
-            <link>https://bdnews24.com/aviation/ea2a1999d12b</link>
-            <guid isPermaLink="true">https://bdnews24.com/aviation/ea2a1999d12b</guid>
-            <pubDate>Fri, 17 Jul 2026 09:07:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/us-bangla-170726-1784257611.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
