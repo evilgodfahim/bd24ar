@@ -4,17 +4,81 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 14:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 16:05:49 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jul 2026 14:24:54 GMT</pubDate>
+        <pubDate>Fri, 17 Jul 2026 16:05:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Cricket bids farewell to Sir Gary Sobers]]></title>
+            <description><![CDATA[[Cricket] Cricket bids farewell to Sir Gary Sobers]]></description>
+            <link>https://bdnews24.com/cricket/17b05b12e760</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/17b05b12e760</guid>
+            <pubDate>Fri, 17 Jul 2026 22:04:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/windies-cricket-gary-sobers-170726-01-1784304183.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Magnitude 7.4 quake hits Mexico]]></title>
+            <description><![CDATA[[Americas] Magnitude 7.4 quake hits Mexico]]></description>
+            <link>https://bdnews24.com/world/americas/76972b41af87</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/76972b41af87</guid>
+            <pubDate>Fri, 17 Jul 2026 21:58:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/mexico-earthquake-170726-01-1784303804.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 killed, hundreds displaced in Chile storms]]></title>
+            <description><![CDATA[[World] 3 killed, hundreds displaced in Chile storms]]></description>
+            <link>https://bdnews24.com/world/ea5a4f08e048</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ea5a4f08e048</guid>
+            <pubDate>Fri, 17 Jul 2026 21:55:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/chile-storm-170726-01-1784303698.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cricket legend Sir Gary Sobers dies aged 89]]></title>
+            <description><![CDATA[[Cricket] Cricket legend Sir Gary Sobers dies aged 89]]></description>
+            <link>https://bdnews24.com/cricket/8fb5963eed36</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/8fb5963eed36</guid>
+            <pubDate>Fri, 17 Jul 2026 21:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/garfield-sobers-170726-01-1784301857.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Whirlwind hits Cox's Bazar beach]]></title>
+            <description><![CDATA[[Bangladesh] Whirlwind hits Cox's Bazar beach]]></description>
+            <link>https://bdnews24.com/bangladesh/88151f946df5</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/88151f946df5</guid>
+            <pubDate>Fri, 17 Jul 2026 21:29:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/coxs-bazar-tornado-hits-170726-01-1784297061.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Apple reclaims tech crown from NVIDIA]]></title>
+            <description><![CDATA[[Technology] Apple reclaims tech crown from NVIDIA]]></description>
+            <link>https://bdnews24.com/technology/15c9245c6a06</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/15c9245c6a06</guid>
+            <pubDate>Fri, 17 Jul 2026 21:06:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/apple-market-170726-01-1784300797.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[94 new dengue cases]]></title>
+            <description><![CDATA[[Health] 94 new dengue cases]]></description>
+            <link>https://bdnews24.com/health/4d48e7327898</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/4d48e7327898</guid>
+            <pubDate>Fri, 17 Jul 2026 20:33:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024October/SM/dengue-mugda-hospital-231024-014-1729682297.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Can Wangchuk's fast shake Indian politics?]]></title>
+            <description><![CDATA[[Neighbours] Can Wangchuk's fast shake Indian politics?]]></description>
+            <link>https://bdnews24.com/neighbours/a88e65bafa64</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/a88e65bafa64</guid>
+            <pubDate>Fri, 17 Jul 2026 20:25:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sonam-wangchuk-130726-01-1784289328.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Tigers keep T20 series alive in Bulawayo]]></title>
             <description><![CDATA[[Cricket] Tigers keep T20 series alive in Bulawayo]]></description>
             <link>https://bdnews24.com/cricket/d395290608ab</link>
             <guid isPermaLink="true">https://bdnews24.com/cricket/d395290608ab</guid>
             <pubDate>Fri, 17 Jul 2026 20:21:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bangladesh-170726-01-1784281066.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/saif-hasan-tanzid-hasan-bangladesh-170726-01-1784298971.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[World Cup winners to get championship rings]]></title>
@@ -103,70 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/europe/c4c6f432ed11</guid>
             <pubDate>Fri, 17 Jul 2026 17:49:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/europe-weather-germany-170726-01-1784288940.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rain-swollen canal claims 2 children]]></title>
-            <description><![CDATA[[Bangladesh] Rain-swollen canal claims 2 children]]></description>
-            <link>https://bdnews24.com/bangladesh/23dfaaa60740</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/23dfaaa60740</guid>
-            <pubDate>Fri, 17 Jul 2026 17:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/drowning-in-water-031022-1781269422.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kaptai dam may open all spillways]]></title>
-            <description><![CDATA[[Bangladesh] Kaptai dam may open all spillways]]></description>
-            <link>https://bdnews24.com/bangladesh/828f12006c6d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/828f12006c6d</guid>
-            <pubDate>Fri, 17 Jul 2026 17:40:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025June/SM/rangamati-karnafuli-power-station-060225-02-1748867144.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bay braces for squalls]]></title>
-            <description><![CDATA[[Bangladesh] Bay braces for squalls]]></description>
-            <link>https://bdnews24.com/bangladesh/cb793c22ff86</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cb793c22ff86</guid>
-            <pubDate>Fri, 17 Jul 2026 17:08:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/52-rain-summer-rain-nayan-kumar-05072026-04-1783238624.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Flood alert for 5 northern districts]]></title>
-            <description><![CDATA[[Bangladesh] Flood alert for 5 northern districts]]></description>
-            <link>https://bdnews24.com/bangladesh/a3892a22051b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a3892a22051b</guid>
-            <pubDate>Fri, 17 Jul 2026 17:02:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024July/SM/sirajganj-jomuna-050724-01-1720168622.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stage collapses at Khosru relief event]]></title>
-            <description><![CDATA[[Bangladesh] Stage collapses at Khosru relief event]]></description>
-            <link>https://bdnews24.com/bangladesh/88a5bcd4b0ea</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/88a5bcd4b0ea</guid>
-            <pubDate>Fri, 17 Jul 2026 16:46:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/chattogram-stage-collapse-170726-01-1784281892.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Netflix falls 9% on weak earnings forecast]]></title>
-            <description><![CDATA[[Business] Netflix falls 9% on weak earnings forecast]]></description>
-            <link>https://bdnews24.com/business/5cbed02b07a2</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/5cbed02b07a2</guid>
-            <pubDate>Fri, 17 Jul 2026 16:45:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/netflix-logo-170726-1784285115.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Philippines slates China's 'racist' video]]></title>
-            <description><![CDATA[[Asia Pacific] Philippines slates China's 'racist' video]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/1df963889a18</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/1df963889a18</guid>
-            <pubDate>Fri, 17 Jul 2026 16:42:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/filipino-media-170726-01-1784284843.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan's Nawaz hit with doping ban]]></title>
-            <description><![CDATA[[Cricket] Pakistan's Nawaz hit with doping ban]]></description>
-            <link>https://bdnews24.com/cricket/c0c93bf9e271</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/c0c93bf9e271</guid>
-            <pubDate>Fri, 17 Jul 2026 16:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/pakistan-nawaz-doping-ban-170726-01-1784284633.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
