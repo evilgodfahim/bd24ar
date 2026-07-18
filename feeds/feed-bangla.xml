@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ]]></title>
+        <description><![CDATA[bangla.bdnews24.com আর্কাইভ থেকে সর্বশেষ সংবাদ]]></description>
         <link>https://bangla.bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 23:40:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jul 2026 01:13:36 GMT</lastBuildDate>
         <atom:link href="https://bangla.bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jul 2026 23:40:45 GMT</pubDate>
+        <pubDate>Sat, 18 Jul 2026 01:13:36 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: timeout of 65000ms exceeded]]></description>
-            <link>https://bangla.bdnews24.com</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com</guid>
-            <pubDate>Fri, 17 Jul 2026 23:40:45 GMT</pubDate>
+            <title><![CDATA[‘আমার নায়ক, আমার অনুপ্রেরণা’, সোবার্সের মৃত্যুতে ক্রিকেট বিশ্বের শ্রদ্ধা]]></title>
+            <description><![CDATA[[ক্রিকেট] ‘আমার নায়ক, আমার অনুপ্রেরণা’, সোবার্সের মৃত্যুতে ক্রিকেট বিশ্বের শ্রদ্ধা]]></description>
+            <link>https://bangla.bdnews24.com/cricket/e796ba1d310c</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/cricket/e796ba1d310c</guid>
+            <pubDate>Sat, 18 Jul 2026 01:13:36 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/garry-sobers-180726-06-1784318876.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[কোথায় ছিলেন মেজর মোজাফফর? ধরা পড়লেন কীভাবে?]]></title>
+            <description><![CDATA[[বাংলাদেশ] কোথায় ছিলেন মেজর মোজাফফর? ধরা পড়লেন কীভাবে?]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/8d53c5232ba1</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/8d53c5232ba1</guid>
+            <pubDate>Sat, 18 Jul 2026 01:13:36 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/mozaffor-hossain-160726-02-1784198871.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বন্যা ও পাহাড় ধসে রাঙামাটিতে সড়কের ক্ষতি ‘১০ কোটি টাকা’]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] বন্যা ও পাহাড় ধসে রাঙামাটিতে সড়কের ক্ষতি ‘১০ কোটি টাকা’]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/f3bf37327a76</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/f3bf37327a76</guid>
+            <pubDate>Sat, 18 Jul 2026 01:13:36 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/rangamati-road-damage-due-to-flood-17062026-1784316988.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[জুলাই আন্দোলন: মামলায় ঘটনাস্থল ভুল, তদন্তে বিভ্রান্তি]]></title>
+            <description><![CDATA[[বাংলাদেশ] জুলাই আন্দোলন: মামলায় ঘটনাস্থল ভুল, তদন্তে বিভ্রান্তি]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/faa8c323eb04</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/faa8c323eb04</guid>
+            <pubDate>Sat, 18 Jul 2026 01:13:36 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024December/SM/quota-protest-jatrabari-180724-30-1735482707.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[সোবার্সের মতো কেউ ছিল না, কেউ আসবে না]]></title>
+            <description><![CDATA[[ক্রিকেট] সোবার্সের মতো কেউ ছিল না, কেউ আসবে না]]></description>
+            <link>https://bangla.bdnews24.com/cricket/f67adbdf9e25</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/cricket/f67adbdf9e25</guid>
+            <pubDate>Sat, 18 Jul 2026 01:13:36 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/garry-sobers-cricket-180726-01-1784313531.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[নিঝুম দ্বীপে জোয়ারের পানিতে ভেসে গেল শিশু]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] নিঝুম দ্বীপে জোয়ারের পানিতে ভেসে গেল শিশু]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/3742564bedb4</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/3742564bedb4</guid>
+            <pubDate>Sat, 18 Jul 2026 01:13:36 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/noakhali-child-dead-170726-01-1784313168.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ইউএস-বাংলার ডানায় রেকর্ড বিনিয়োগের হাওয়া, টেক্কা দিতে চায় বিদেশিদের]]></title>
+            <description><![CDATA[[বাণিজ্য] ইউএস-বাংলার ডানায় রেকর্ড বিনিয়োগের হাওয়া, টেক্কা দিতে চায় বিদেশিদের]]></description>
+            <link>https://bangla.bdnews24.com/business/73e3f4f26b24</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/business/73e3f4f26b24</guid>
+            <pubDate>Sat, 18 Jul 2026 01:13:36 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/us-bangla-airlines-170726-01-1784312037.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘আমার একটি পরিকল্পনা আছে’, যুক্তরাজ্যের প্রধানমন্ত্রীর দায়িত্ব নেওয়ার পথে বার্নাম]]></title>
+            <description><![CDATA[[বিশ্ব] ‘আমার একটি পরিকল্পনা আছে’, যুক্তরাজ্যের প্রধানমন্ত্রীর দায়িত্ব নেওয়ার পথে বার্নাম]]></description>
+            <link>https://bangla.bdnews24.com/world/1fc769cde618</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/world/1fc769cde618</guid>
+            <pubDate>Sat, 18 Jul 2026 01:13:36 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/andy-burnham-170626-01-1784311392.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[উইমেন’স জুনিয়র এএইচএফ কাপ হকির ফাইনালে বাংলাদেশ]]></title>
+            <description><![CDATA[[খেলা] উইমেন’স জুনিয়র এএইচএফ কাপ হকির ফাইনালে বাংলাদেশ]]></description>
+            <link>https://bangla.bdnews24.com/sport/aed8b30a8ecd</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/aed8b30a8ecd</guid>
+            <pubDate>Sat, 18 Jul 2026 01:13:36 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/womens-hockey-170726-01-1784311302.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[শিশু ধর্ষণের বিচার দাবিতে টঙ্গীতে মহাসড়ক অবরোধ-বিক্ষোভ]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] শিশু ধর্ষণের বিচার দাবিতে টঙ্গীতে মহাসড়ক অবরোধ-বিক্ষোভ]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/051177478d63</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/051177478d63</guid>
+            <pubDate>Sat, 18 Jul 2026 01:13:36 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/gazipur-road-block-170726-01-1784310808.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[হাঙ্গেরির গ্র্যান্ডমাস্টার দাবায় চ্যাম্পিয়ন মনন]]></title>
+            <description><![CDATA[[খেলা] হাঙ্গেরির গ্র্যান্ডমাস্টার দাবায় চ্যাম্পিয়ন মনন]]></description>
+            <link>https://bangla.bdnews24.com/sport/96210cd06553</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/96210cd06553</guid>
+            <pubDate>Sat, 18 Jul 2026 01:13:36 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/manon170726-01-1784310619.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘আধিপত্য বিস্তারের’ বলি মিনহাজ, মানতে নারাজ পরিবার]]></title>
+            <description><![CDATA[[বাংলাদেশ] ‘আধিপত্য বিস্তারের’ বলি মিনহাজ, মানতে নারাজ পরিবার]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/629e3030e465</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/629e3030e465</guid>
+            <pubDate>Sat, 18 Jul 2026 01:13:36 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/minhaz-170726-1784310450.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[শেষ ২ ওয়ানডের জন্য ওয়েস্ট ইন্ডিজ দলে ২ পরিবর্তন]]></title>
+            <description><![CDATA[[ক্রিকেট] শেষ ২ ওয়ানডের জন্য ওয়েস্ট ইন্ডিজ দলে ২ পরিবর্তন]]></description>
+            <link>https://bangla.bdnews24.com/cricket/a58112346523</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/cricket/a58112346523</guid>
+            <pubDate>Sat, 18 Jul 2026 01:13:36 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/brandon-king-170726-01-1784310027.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[কাশিমপুর কারাগার থেকে পালালেন নারী বন্দি]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] কাশিমপুর কারাগার থেকে পালালেন নারী বন্দি]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/5f25fd737d1f</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/5f25fd737d1f</guid>
+            <pubDate>Sat, 18 Jul 2026 01:13:36 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024August/SM/kasimpur-060824-1722940832.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বিভাজনের রাজনীতির কোনো স্থান হবে না: তথ্যমন্ত্রী]]></title>
+            <description><![CDATA[[ক্যাম্পাস] বিভাজনের রাজনীতির কোনো স্থান হবে না: তথ্যমন্ত্রী]]></description>
+            <link>https://bangla.bdnews24.com/campus/c78146fcaf2d</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/campus/c78146fcaf2d</guid>
+            <pubDate>Sat, 18 Jul 2026 01:13:36 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/jahir-uddin-swapan-170726-01-1784309436.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[পরিবারের সদস্যরা রথযাত্রার উৎসবে, বাসায় নারীকে হত্যা]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] পরিবারের সদস্যরা রথযাত্রার উৎসবে, বাসায় নারীকে হত্যা]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/4ec8d7d7a013</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/4ec8d7d7a013</guid>
+            <pubDate>Sat, 18 Jul 2026 01:13:36 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/jhalkathi-murder-170826-01-1784308097.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[কিশোরগঞ্জে হামলায় নিহত বিএনপি নেতার দাফন, আটক ৩]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] কিশোরগঞ্জে হামলায় নিহত বিএনপি নেতার দাফন, আটক ৩]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/baf1c9e4a17a</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/baf1c9e4a17a</guid>
+            <pubDate>Sat, 18 Jul 2026 01:13:36 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/kishoreganj-state-minister-170726-01-1784307156.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[শেখ হাসিনার প্রত্যর্পণ ‘সংবেদনশীল’, আইনের আলোকে খতিয়ে দেখছে দিল্লি: জয়সওয়াল]]></title>
+            <description><![CDATA[[বাংলাদেশ] শেখ হাসিনার প্রত্যর্পণ ‘সংবেদনশীল’, আইনের আলোকে খতিয়ে দেখছে দিল্লি: জয়সওয়াল]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/8bd70801838a</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/8bd70801838a</guid>
+            <pubDate>Sat, 18 Jul 2026 01:13:36 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/randhir-jaiswal-170726-1784306879.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বিশ্বকাপ ফাইনালের স্টেডিয়ামে নিয়ে সমালোচনা কেন?]]></title>
+            <description><![CDATA[[টিউব] বিশ্বকাপ ফাইনালের স্টেডিয়ামে নিয়ে সমালোচনা কেন?]]></description>
+            <link>https://bangla.bdnews24.com/tube/ab8955cdae65</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/ab8955cdae65</guid>
+            <pubDate>Sat, 18 Jul 2026 01:13:36 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/world-cup-final-stadium-pkg-thumb-1784306724.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[রোকাফোন্দা থেকে বিশ্বকাপের ফাইনাল মঞ্চে ইয়ামাল]]></title>
+            <description><![CDATA[[টিউব] রোকাফোন্দা থেকে বিশ্বকাপের ফাইনাল মঞ্চে ইয়ামাল]]></description>
+            <link>https://bangla.bdnews24.com/tube/0afd9f23feb0</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/0afd9f23feb0</guid>
+            <pubDate>Sat, 18 Jul 2026 01:13:36 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/yamal-rocafonda-thumb-1784306293.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
