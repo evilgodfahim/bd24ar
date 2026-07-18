@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Jul 2026 11:41:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jul 2026 12:43:16 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Jul 2026 11:41:41 GMT</pubDate>
+        <pubDate>Sat, 18 Jul 2026 12:43:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[3 Bangladesh-origin men charged in UK grooming probe]]></title>
+            <description><![CDATA[[Diaspora] 3 Bangladesh-origin men charged in UK grooming probe]]></description>
+            <link>https://bdnews24.com/diaspora/b814e15ac9f3</link>
+            <guid isPermaLink="true">https://bdnews24.com/diaspora/b814e15ac9f3</guid>
+            <pubDate>Sat, 18 Jul 2026 18:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/grooming-gang-180726-1784376379.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Triple weather threat looms over US]]></title>
+            <description><![CDATA[[Americas] Triple weather threat looms over US]]></description>
+            <link>https://bdnews24.com/world/americas/7b891bce9a2d</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/7b891bce9a2d</guid>
+            <pubDate>Sat, 18 Jul 2026 17:58:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/us-weather-180726-01-1784375792.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Irish film icon Brenda Fricker dies]]></title>
             <description><![CDATA[[Entertainment] Irish film icon Brenda Fricker dies]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/44aaec4567f1</guid>
             <pubDate>Sat, 18 Jul 2026 12:58:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/france-england-unwanted-finale-180726-01-1784357878.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israeli strikes kill 14 in Gaza: report]]></title>
-            <description><![CDATA[[West Asia] Israeli strikes kill 14 in Gaza: report]]></description>
-            <link>https://bdnews24.com/world/middle-east/7a4544569314</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/7a4544569314</guid>
-            <pubDate>Sat, 18 Jul 2026 12:26:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/israeli-strike-gaza-180726-01-1784353471.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[De la Fuente laughs off final pressure]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] De la Fuente laughs off final pressure]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/4abf6a49f678</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/4abf6a49f678</guid>
-            <pubDate>Sat, 18 Jul 2026 11:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/dela-fuente-final-pressure-180726-01-1784353830.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
