@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Jul 2026 18:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jul 2026 19:56:58 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Jul 2026 18:41:47 GMT</pubDate>
+        <pubDate>Sat, 18 Jul 2026 19:56:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iran kills 2 American troops in Jordan]]></title>
+            <description><![CDATA[[World] Iran kills 2 American troops in Jordan]]></description>
+            <link>https://bdnews24.com/world/14b4f6d86135</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/14b4f6d86135</guid>
+            <pubDate>Sun, 19 Jul 2026 01:43:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/centcom-180726-1784354302.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flyers vent online, airlines barely respond]]></title>
+            <description><![CDATA[[Aviation] Flyers vent online, airlines barely respond]]></description>
+            <link>https://bdnews24.com/aviation/45849b5febe2</link>
+            <guid isPermaLink="true">https://bdnews24.com/aviation/45849b5febe2</guid>
+            <pubDate>Sun, 19 Jul 2026 01:25:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/airline-mishap-160726-01-1784402574.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mbappe pays tribute to 'legend' Deschamps]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Mbappe pays tribute to 'legend' Deschamps]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/8cd23df582a3</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/8cd23df582a3</guid>
+            <pubDate>Sun, 19 Jul 2026 01:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/mbappe-coach-18072026-1784401812.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian Summer sees Messi return to the top]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Indian Summer sees Messi return to the top]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/298a1ee7f466</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/298a1ee7f466</guid>
+            <pubDate>Sun, 19 Jul 2026 00:53:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/messi-180726-02-1784378342.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Trump could get a lesson on Iran from an unlikely source]]></title>
             <description><![CDATA[[Opinion] Trump could get a lesson on Iran from an unlikely source]]></description>
@@ -25,8 +57,8 @@
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/morocco-stadium-180726-01-1784399063.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Storms disrupt World Cup final training plans]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Storms disrupt World Cup final training plans]]></description>
+            <title><![CDATA[Spain cancel practice, Argentina delayed]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Spain cancel practice, Argentina delayed]]></description>
             <link>https://bdnews24.com/sport/world-cup-2026/6e1f4488f044</link>
             <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/6e1f4488f044</guid>
             <pubDate>Sun, 19 Jul 2026 00:19:00 GMT</pubDate>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/neighbours/a172cfb4ab26</guid>
             <pubDate>Sat, 18 Jul 2026 21:03:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/firecracker-factory-180726-01-1784381174.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canada preps Ontario evacuation as smoke chokes US]]></title>
-            <description><![CDATA[[World] Canada preps Ontario evacuation as smoke chokes US]]></description>
-            <link>https://bdnews24.com/world/98b14075d72c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/98b14075d72c</guid>
-            <pubDate>Sat, 18 Jul 2026 20:22:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/canada-wildfire-180726-01-1784384457.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Del Bosque warns Spain of 'nuisance' Argentina]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Del Bosque warns Spain of 'nuisance' Argentina]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/87793e994dbd</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/87793e994dbd</guid>
-            <pubDate>Sat, 18 Jul 2026 20:15:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/del-bosque-argentina-18072026-01-1784384048.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Probashi Card’ on way]]></title>
-            <description><![CDATA[[Bangladesh] ‘Probashi Card’ on way]]></description>
-            <link>https://bdnews24.com/bangladesh/1db6d12f88d6</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1db6d12f88d6</guid>
-            <pubDate>Sat, 18 Jul 2026 20:12:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/probashi-card-meeting-180726-01-1784379872.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Meta used AI to layoff sick staff, suit says]]></title>
-            <description><![CDATA[[Technology] Meta used AI to layoff sick staff, suit says]]></description>
-            <link>https://bdnews24.com/technology/8db470a86d43</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/8db470a86d43</guid>
-            <pubDate>Sat, 18 Jul 2026 19:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/meta-layoffs-180726-01-1784381856.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
