@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Jul 2026 22:38:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jul 2026 23:44:36 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Jul 2026 22:38:41 GMT</pubDate>
+        <pubDate>Sun, 19 Jul 2026 23:44:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No Messi miracle as Spain reign supreme]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] No Messi miracle as Spain reign supreme]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/e985d7e0000c</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/e985d7e0000c</guid>
+            <pubDate>Mon, 20 Jul 2026 05:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/messi-spain-reign-supreme-200726-01-1784504269.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mbappe secures second World Cup Golden Boot]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Mbappe secures second World Cup Golden Boot]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/f33e807068e0</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/f33e807068e0</guid>
+            <pubDate>Mon, 20 Jul 2026 04:43:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/kylian-mbappe-200726-01-1784500979.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Duckett ton seals England series win over India]]></title>
             <description><![CDATA[[Sport] Duckett ton seals England series win over India]]></description>
@@ -70,7 +86,7 @@
             <link>https://bdnews24.com/sport/world-cup-2026/d55b51ed8d67</link>
             <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/d55b51ed8d67</guid>
             <pubDate>Mon, 20 Jul 2026 00:06:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/spain-champion-200726-03-1784502537.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[6 dead, 21 injured in Peru earthquakes]]></title>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/50e695ce4916</guid>
             <pubDate>Sun, 19 Jul 2026 21:56:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/burnham-uk-190726-01-1784476545.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bogura renames controversial unions]]></title>
-            <description><![CDATA[[Bangladesh] Bogura renames controversial unions]]></description>
-            <link>https://bdnews24.com/bangladesh/edfe04cc92e7</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/edfe04cc92e7</guid>
-            <pubDate>Sun, 19 Jul 2026 21:21:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bogra-union-name-change-190726-01-1784469679.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Look back with pride, Tuchel tells England squad]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Look back with pride, Tuchel tells England squad]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/0511c6643532</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/0511c6643532</guid>
-            <pubDate>Sun, 19 Jul 2026 21:03:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/thomas-tuchel-190726-01-1784473323.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
