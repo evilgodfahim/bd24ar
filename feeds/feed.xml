@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – Latest News]]></title>
+        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Jul 2026 20:46:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jul 2026 21:38:59 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Jul 2026 20:46:14 GMT</pubDate>
+        <pubDate>Sun, 19 Jul 2026 21:38:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
-            <link>https://bdnews24.com</link>
-            <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Sun, 19 Jul 2026 20:46:14 GMT</pubDate>
+            <title><![CDATA[Duckett ton seals England series win over India]]></title>
+            <description><![CDATA[[Sport] Duckett ton seals England series win over India]]></description>
+            <link>https://bdnews24.com/sport/3d1b5593833f</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/3d1b5593833f</guid>
+            <pubDate>Mon, 20 Jul 2026 02:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/england-india-200726-01-1784494023.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[World Cup fever overruns DU barricades]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] World Cup fever overruns DU barricades]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/4a68c0272e19</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/4a68c0272e19</guid>
+            <pubDate>Mon, 20 Jul 2026 00:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/du-final-match-190726-01-1784485627.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Passports to carry July Uprising, ‘except Israel’ marks]]></title>
+            <description><![CDATA[[Bangladesh] Passports to carry July Uprising, ‘except Israel’ marks]]></description>
+            <link>https://bdnews24.com/bangladesh/0f764b6a2bc4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0f764b6a2bc4</guid>
+            <pubDate>Mon, 20 Jul 2026 00:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bd-passport-israel-220521-1784482849.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iraqi PM to visit Tehran soon]]></title>
+            <description><![CDATA[[World] Iraqi PM to visit Tehran soon]]></description>
+            <link>https://bdnews24.com/world/cf0af5417188</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/cf0af5417188</guid>
+            <pubDate>Mon, 20 Jul 2026 00:21:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/iraq-pm-tehran-19072026-01-1784485261.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kuwait condemns ‘Iran attack on power, water desalination facility’]]></title>
+            <description><![CDATA[[World] Kuwait condemns ‘Iran attack on power, water desalination facility’]]></description>
+            <link>https://bdnews24.com/world/1437b97b94c5</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/1437b97b94c5</guid>
+            <pubDate>Mon, 20 Jul 2026 00:13:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/kuwait-condemn-19072026-01-1784484692.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jordan summons Iran diplomat over 'unjustified' attacks]]></title>
+            <description><![CDATA[[World] Jordan summons Iran diplomat over 'unjustified' attacks]]></description>
+            <link>https://bdnews24.com/world/766570dadc31</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/766570dadc31</guid>
+            <pubDate>Mon, 20 Jul 2026 00:10:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/jordan-iran-diplomat-19072026-01-1784484585.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India bans parliament march by 'Cockroach' activists]]></title>
+            <description><![CDATA[[Neighbours] India bans parliament march by 'Cockroach' activists]]></description>
+            <link>https://bdnews24.com/neighbours/1659d15b0b3d</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/1659d15b0b3d</guid>
+            <pubDate>Mon, 20 Jul 2026 00:09:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/india-ban-cockroach-march-19072026-01-1784484508.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fernandez sent off, final goes to ET]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Fernandez sent off, final goes to ET]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/d55b51ed8d67</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/d55b51ed8d67</guid>
+            <pubDate>Mon, 20 Jul 2026 00:06:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/yamal-200726-01-1784494927.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[6 dead, 21 injured in Peru earthquakes]]></title>
+            <description><![CDATA[[World] 6 dead, 21 injured in Peru earthquakes]]></description>
+            <link>https://bdnews24.com/world/7822ad3e0edb</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/7822ad3e0edb</guid>
+            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/peru-earthquakes-19072026-01-1784483968.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[World Cup set for final showdown]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] World Cup set for final showdown]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/5a3540083cb4</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/5a3540083cb4</guid>
+            <pubDate>Sun, 19 Jul 2026 23:58:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/new-jersey-stadium-190726-01-1784483738.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ICE officers will wear body cameras: border czar]]></title>
+            <description><![CDATA[[World] ICE officers will wear body cameras: border czar]]></description>
+            <link>https://bdnews24.com/world/0b52801b2845</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/0b52801b2845</guid>
+            <pubDate>Sun, 19 Jul 2026 23:53:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/ice-body-cameras-19072026-01-1784483527.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dozens missing as ferry sinks near Guyana]]></title>
+            <description><![CDATA[[World] Dozens missing as ferry sinks near Guyana]]></description>
+            <link>https://bdnews24.com/world/d32e22a454e3</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/d32e22a454e3</guid>
+            <pubDate>Sun, 19 Jul 2026 23:51:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/guyana-ferry-19072026-01-1784483389.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Policy can't be left to bureaucrats alone: Manwar]]></title>
+            <description><![CDATA[[Business] Policy can't be left to bureaucrats alone: Manwar]]></description>
+            <link>https://bdnews24.com/business/839a6bfaf7da</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/839a6bfaf7da</guid>
+            <pubDate>Sun, 19 Jul 2026 23:18:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/manawar-hossian-120726-01-1784481158.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Will Ad-din get its licence back?]]></title>
+            <description><![CDATA[[Bangladesh] Will Ad-din get its licence back?]]></description>
+            <link>https://bdnews24.com/bangladesh/9c52578d4525</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9c52578d4525</guid>
+            <pubDate>Sun, 19 Jul 2026 23:14:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/ad-deen-hospital-120626-01-1781262136.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why US-Bangla runs two airlines]]></title>
+            <description><![CDATA[[Business] Why US-Bangla runs two airlines]]></description>
+            <link>https://bdnews24.com/business/d5ed35256128</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/d5ed35256128</guid>
+            <pubDate>Sun, 19 Jul 2026 22:52:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/us-bangla-press-conference-19072026-1784476715.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heatwaves may wipe out 24 farming days: study]]></title>
+            <description><![CDATA[[Bangladesh] Heatwaves may wipe out 24 farming days: study]]></description>
+            <link>https://bdnews24.com/bangladesh/b7955e2e2da7</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b7955e2e2da7</guid>
+            <pubDate>Sun, 19 Jul 2026 22:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2024May/SM/hot-summer-worker-190524-06-1716118961.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA['The Odyssey' rakes in $264.1mn globally]]></title>
+            <description><![CDATA[[Entertainment] 'The Odyssey' rakes in $264.1mn globally]]></description>
+            <link>https://bdnews24.com/entertainment/501684083272</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/501684083272</guid>
+            <pubDate>Sun, 19 Jul 2026 22:15:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/odyssey-nolan-190726-01-1784477634.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Burnham scraps digital ID scheme]]></title>
+            <description><![CDATA[[World] Burnham scraps digital ID scheme]]></description>
+            <link>https://bdnews24.com/world/50e695ce4916</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/50e695ce4916</guid>
+            <pubDate>Sun, 19 Jul 2026 21:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/burnham-uk-190726-01-1784476545.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bogura renames controversial unions]]></title>
+            <description><![CDATA[[Bangladesh] Bogura renames controversial unions]]></description>
+            <link>https://bdnews24.com/bangladesh/edfe04cc92e7</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/edfe04cc92e7</guid>
+            <pubDate>Sun, 19 Jul 2026 21:21:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bogra-union-name-change-190726-01-1784469679.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Look back with pride, Tuchel tells England squad]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Look back with pride, Tuchel tells England squad]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/0511c6643532</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/0511c6643532</guid>
+            <pubDate>Sun, 19 Jul 2026 21:03:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/thomas-tuchel-190726-01-1784473323.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
