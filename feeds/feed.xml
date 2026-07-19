@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Jul 2026 23:39:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jul 2026 01:19:17 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Jul 2026 23:39:43 GMT</pubDate>
+        <pubDate>Sun, 19 Jul 2026 01:19:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Mbappe becomes World Cup's all-time top scorer]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Mbappe becomes World Cup's all-time top scorer]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/7f70d0912c47</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/7f70d0912c47</guid>
+            <pubDate>Sun, 19 Jul 2026 05:44:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/kylian-mbappe-190726-02-1784412902.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[England claim World Cup third in 10-goal France epic]]></title>
             <description><![CDATA[[2026 FIFA World Cup] England claim World Cup third in 10-goal France epic]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/a4f14a360b7c</guid>
             <pubDate>Sat, 18 Jul 2026 21:57:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/mahadi-amin-180726-01-1784384584.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Argentina: The World Cup's favourite villains]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Argentina: The World Cup's favourite villains]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/f2da24d2c165</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/f2da24d2c165</guid>
-            <pubDate>Sat, 18 Jul 2026 21:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/argentina-fans-180726-01-1784389839.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
