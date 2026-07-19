@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Jul 2026 15:43:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jul 2026 16:41:53 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Jul 2026 15:43:26 GMT</pubDate>
+        <pubDate>Sun, 19 Jul 2026 16:41:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Heatwaves may wipe out 24 farming days: study]]></title>
+            <description><![CDATA[[Bangladesh] Heatwaves may wipe out 24 farming days: study]]></description>
+            <link>https://bdnews24.com/bangladesh/b7955e2e2da7</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b7955e2e2da7</guid>
+            <pubDate>Sun, 19 Jul 2026 22:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2024May/SM/hot-summer-worker-190524-06-1716118961.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA['The Odyssey' rakes in $264.1mn globally]]></title>
+            <description><![CDATA[[Entertainment] 'The Odyssey' rakes in $264.1mn globally]]></description>
+            <link>https://bdnews24.com/entertainment/501684083272</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/501684083272</guid>
+            <pubDate>Sun, 19 Jul 2026 22:15:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/odyssey-nolan-190726-01-1784477634.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Burnham scraps digital ID scheme]]></title>
+            <description><![CDATA[[World] Burnham scraps digital ID scheme]]></description>
+            <link>https://bdnews24.com/world/50e695ce4916</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/50e695ce4916</guid>
+            <pubDate>Sun, 19 Jul 2026 21:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/burnham-uk-190726-01-1784476545.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Bogura renames controversial unions]]></title>
             <description><![CDATA[[Bangladesh] Bogura renames controversial unions]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/63502b274911</guid>
             <pubDate>Sun, 19 Jul 2026 17:48:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/fifa-world-cup-030726-050-1783093855.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dengue admissions cross 10,000]]></title>
-            <description><![CDATA[[Health] Dengue admissions cross 10,000]]></description>
-            <link>https://bdnews24.com/health/8021b427389c</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/8021b427389c</guid>
-            <pubDate>Sun, 19 Jul 2026 17:16:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dengue-patient-shaheed-suhrawardy-medical-college270723-25-1783598154.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bodies keep washing up on Teknaf coast]]></title>
-            <description><![CDATA[[Bangladesh] Bodies keep washing up on Teknaf coast]]></description>
-            <link>https://bdnews24.com/bangladesh/9b8c19495689</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9b8c19495689</guid>
-            <pubDate>Sun, 19 Jul 2026 17:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/coxsbazar-deadbody-found-190726-01-1784457031.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles: 4 more die]]></title>
-            <description><![CDATA[[Bangladesh] Measles: 4 more die]]></description>
-            <link>https://bdnews24.com/bangladesh/2d9da6d22e0e</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2d9da6d22e0e</guid>
-            <pubDate>Sun, 19 Jul 2026 16:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/measles-patient-mgh-180726-025-1784382320.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
