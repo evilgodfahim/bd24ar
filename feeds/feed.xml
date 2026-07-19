@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Jul 2026 07:23:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jul 2026 09:41:07 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Jul 2026 07:23:11 GMT</pubDate>
+        <pubDate>Sun, 19 Jul 2026 09:41:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How will Dhaka's weather be?]]></title>
+            <description><![CDATA[[Bangladesh] How will Dhaka's weather be?]]></description>
+            <link>https://bdnews24.com/bangladesh/16e8b07e871c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/16e8b07e871c</guid>
+            <pubDate>Sun, 19 Jul 2026 15:38:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/rain-dhaka-070726-23-1783429916.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Missing Pabna AL leader found dead]]></title>
+            <description><![CDATA[[Bangladesh] Missing Pabna AL leader found dead]]></description>
+            <link>https://bdnews24.com/bangladesh/250ae2ca4d85</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/250ae2ca4d85</guid>
+            <pubDate>Sun, 19 Jul 2026 15:13:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/pabna-al-leader-deadbody-190726-01-1784444147.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is this Messi's Argentina swansong?]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Is this Messi's Argentina swansong?]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/cbcd2bb07802</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/cbcd2bb07802</guid>
+            <pubDate>Sun, 19 Jul 2026 15:05:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/messi-190726-1784451860.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Facebook users face glitch again]]></title>
+            <description><![CDATA[[Technology] Facebook users face glitch again]]></description>
+            <link>https://bdnews24.com/technology/828d9dd9ca7d</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/828d9dd9ca7d</guid>
+            <pubDate>Sun, 19 Jul 2026 14:38:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025December/SM/facebook-reuters-181225-01-1766139495.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heavy rain to lash Bangladesh]]></title>
+            <description><![CDATA[[Bangladesh] Heavy rain to lash Bangladesh]]></description>
+            <link>https://bdnews24.com/bangladesh/b9df3578d542</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b9df3578d542</guid>
+            <pubDate>Sun, 19 Jul 2026 14:18:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/rain-du-030526-033-1777805709.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ACC starts ex-minister Javed’s flat inventory]]></title>
+            <description><![CDATA[[Bangladesh] ACC starts ex-minister Javed’s flat inventory]]></description>
+            <link>https://bdnews24.com/bangladesh/4e8cc114ddad</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4e8cc114ddad</guid>
+            <pubDate>Sun, 19 Jul 2026 13:54:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/saifuzzaman-jabed-190726-1784444365.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Prosecutors get draft report on Shapla Chattar 'massacre']]></title>
             <description><![CDATA[[Bangladesh] Prosecutors get draft report on Shapla Chattar 'massacre']]></description>
@@ -81,8 +129,8 @@
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/live-budget-session-on-television-11062026-1781212077.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Police hospitalise fasting Indian activist against his will]]></title>
-            <description><![CDATA[[Neighbours] Police hospitalise fasting Indian activist against his will]]></description>
+            <title><![CDATA[Wife seeks private care for Indian activist Wangchuk]]></title>
+            <description><![CDATA[[Neighbours] Wife seeks private care for Indian activist Wangchuk]]></description>
             <link>https://bdnews24.com/neighbours/f10f5aaf57c6</link>
             <guid isPermaLink="true">https://bdnews24.com/neighbours/f10f5aaf57c6</guid>
             <pubDate>Sun, 19 Jul 2026 10:06:00 GMT</pubDate>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/bb95ea46a093</guid>
             <pubDate>Sun, 19 Jul 2026 09:16:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/tate-brothers-190726-1784430950.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Burnham drops UK digital ID plan]]></title>
-            <description><![CDATA[[Europe] Burnham drops UK digital ID plan]]></description>
-            <link>https://bdnews24.com/world/europe/515e950781a7</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/515e950781a7</guid>
-            <pubDate>Sun, 19 Jul 2026 09:07:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/burnham-190726-1784430454.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chaos slows Venezuela quake relief]]></title>
-            <description><![CDATA[[Americas] Chaos slows Venezuela quake relief]]></description>
-            <link>https://bdnews24.com/world/americas/fb1318d638bd</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/fb1318d638bd</guid>
-            <pubDate>Sun, 19 Jul 2026 09:05:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/venezuela-quake-aftermath-190726-1784430287.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mbappe becomes World Cup's all-time top scorer]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] Mbappe becomes World Cup's all-time top scorer]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/7f70d0912c47</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/7f70d0912c47</guid>
-            <pubDate>Sun, 19 Jul 2026 05:44:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/kylian-mbappe-190726-02-1784412902.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[England claim World Cup third in 10-goal France epic]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] England claim World Cup third in 10-goal France epic]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/1c12e03514ed</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/1c12e03514ed</guid>
-            <pubDate>Sun, 19 Jul 2026 05:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/saka-190726-01-1784415533.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chelsea agree record £117mn deal for Rogers: report]]></title>
-            <description><![CDATA[[Sport] Chelsea agree record £117mn deal for Rogers: report]]></description>
-            <link>https://bdnews24.com/sport/83b872c9d5ea</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/83b872c9d5ea</guid>
-            <pubDate>Sun, 19 Jul 2026 02:50:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/morgan-rogers-180726-01-1784407731.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[World Cup final tickets soar near $10K]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] World Cup final tickets soar near $10K]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/78de178e1f8d</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/78de178e1f8d</guid>
-            <pubDate>Sun, 19 Jul 2026 02:42:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/wc-final-190726-01-1784407283.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
