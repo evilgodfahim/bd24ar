@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Jul 2026 09:41:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jul 2026 11:02:04 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Jul 2026 09:41:07 GMT</pubDate>
+        <pubDate>Sun, 19 Jul 2026 11:02:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Measles: 4 more die]]></title>
+            <description><![CDATA[[Bangladesh] Measles: 4 more die]]></description>
+            <link>https://bdnews24.com/bangladesh/2d9da6d22e0e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2d9da6d22e0e</guid>
+            <pubDate>Sun, 19 Jul 2026 16:55:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/measles-patient-mgh-180726-025-1784382320.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heavy rain: Flood risk in north, northeast]]></title>
+            <description><![CDATA[[Bangladesh] Heavy rain: Flood risk in north, northeast]]></description>
+            <link>https://bdnews24.com/bangladesh/a32e0388bfe8</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a32e0388bfe8</guid>
+            <pubDate>Sun, 19 Jul 2026 16:36:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/kurigram-flood-290626-01-1782710054.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Murder suspect ‘takes own life’ in DB custody]]></title>
+            <description><![CDATA[[Bangladesh] Murder suspect ‘takes own life’ in DB custody]]></description>
+            <link>https://bdnews24.com/bangladesh/e562ca432d75</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e562ca432d75</guid>
+            <pubDate>Sun, 19 Jul 2026 16:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bogura-db-police-190726-01-1784452950.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BNP income jumps in election year]]></title>
+            <description><![CDATA[[Politics] BNP income jumps in election year]]></description>
+            <link>https://bdnews24.com/politics/2ea2401a8279</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/2ea2401a8279</guid>
+            <pubDate>Sun, 19 Jul 2026 15:46:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ec-bnp-190726-01-1784451717.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[How will Dhaka's weather be?]]></title>
             <description><![CDATA[[Bangladesh] How will Dhaka's weather be?]]></description>
@@ -33,8 +65,8 @@
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/messi-190726-1784451860.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Facebook users face glitch again]]></title>
-            <description><![CDATA[[Technology] Facebook users face glitch again]]></description>
+            <title><![CDATA[Facebook back after 2-hour outage]]></title>
+            <description><![CDATA[[Technology] Facebook back after 2-hour outage]]></description>
             <link>https://bdnews24.com/technology/828d9dd9ca7d</link>
             <guid isPermaLink="true">https://bdnews24.com/technology/828d9dd9ca7d</guid>
             <pubDate>Sun, 19 Jul 2026 14:38:00 GMT</pubDate>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/neighbours/f10f5aaf57c6</guid>
             <pubDate>Sun, 19 Jul 2026 10:06:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/sonam-wangchuk-190726-01-1784433971.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sheinbaum to attend World Cup final at Trump's invitation]]></title>
-            <description><![CDATA[[Americas] Sheinbaum to attend World Cup final at Trump's invitation]]></description>
-            <link>https://bdnews24.com/world/americas/a32a279b5213</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/a32a279b5213</guid>
-            <pubDate>Sun, 19 Jul 2026 09:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/mexican-president-sheinbaum-190726-01-1784432455.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Russian missiles strike Kyiv killing one, wounding 13]]></title>
-            <description><![CDATA[[Europe] Russian missiles strike Kyiv killing one, wounding 13]]></description>
-            <link>https://bdnews24.com/world/europe/0e7bff226ffc</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/0e7bff226ffc</guid>
-            <pubDate>Sun, 19 Jul 2026 09:22:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/kyiv-fire-190726-1784431312.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cuban dissident artist arrives in US after prison]]></title>
-            <description><![CDATA[[Americas] Cuban dissident artist arrives in US after prison]]></description>
-            <link>https://bdnews24.com/world/americas/42f83040c76c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/42f83040c76c</guid>
-            <pubDate>Sun, 19 Jul 2026 09:19:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/cuba-dissident-artist-190726-01-1784431107.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US arrests Tate brothers]]></title>
-            <description><![CDATA[[World] US arrests Tate brothers]]></description>
-            <link>https://bdnews24.com/world/bb95ea46a093</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/bb95ea46a093</guid>
-            <pubDate>Sun, 19 Jul 2026 09:16:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/tate-brothers-190726-1784430950.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
