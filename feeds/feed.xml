@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Jul 2026 15:42:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 17:14:13 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Jul 2026 15:42:16 GMT</pubDate>
+        <pubDate>Mon, 20 Jul 2026 17:14:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Titas blames ‘gas shortages’ on supply deficit]]></title>
+            <description><![CDATA[[Bangladesh] Titas blames ‘gas shortages’ on supply deficit]]></description>
+            <link>https://bdnews24.com/bangladesh/9c7a85bee277</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9c7a85bee277</guid>
+            <pubDate>Mon, 20 Jul 2026 23:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/gas-crisis-070726-01-1783405765.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[49 Malaysia recruiter licences revoked]]></title>
+            <description><![CDATA[[Bangladesh] 49 Malaysia recruiter licences revoked]]></description>
+            <link>https://bdnews24.com/bangladesh/19db77d02dcb</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/19db77d02dcb</guid>
+            <pubDate>Mon, 20 Jul 2026 22:58:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/mustofa-nizam-benjir-ahmed-masud-nur-200726-01-1784566680.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Meta faces trial over Instagram’s ‘addictive design’]]></title>
+            <description><![CDATA[[Technology] Meta faces trial over Instagram’s ‘addictive design’]]></description>
+            <link>https://bdnews24.com/technology/9dc7e9efafd5</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/9dc7e9efafd5</guid>
+            <pubDate>Mon, 20 Jul 2026 22:49:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/meta-trial-20072026-01-1784566130.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joyjatra crew members heading home]]></title>
+            <description><![CDATA[[Bangladesh] Joyjatra crew members heading home]]></description>
+            <link>https://bdnews24.com/bangladesh/45f710611ad9</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/45f710611ad9</guid>
+            <pubDate>Mon, 20 Jul 2026 22:43:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026March/SM/banglar-joyjatra-020326-02-1772442483.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[New pay floor proposed for private doctors]]></title>
+            <description><![CDATA[[Bangladesh] New pay floor proposed for private doctors]]></description>
+            <link>https://bdnews24.com/bangladesh/0fc742b54033</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0fc742b54033</guid>
+            <pubDate>Mon, 20 Jul 2026 22:26:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/non-gov-hospital-doctors-wage-200726-01-1784561167.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spain top FIFA rankings, Morocco reach record high]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Spain top FIFA rankings, Morocco reach record high]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/d0975c78bb17</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/d0975c78bb17</guid>
+            <pubDate>Mon, 20 Jul 2026 21:57:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/de-la-fuente-200726-01-1784562990.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spain's largest wildfire burns for fifth day]]></title>
+            <description><![CDATA[[World] Spain's largest wildfire burns for fifth day]]></description>
+            <link>https://bdnews24.com/world/a77dfd333ca3</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/a77dfd333ca3</guid>
+            <pubDate>Mon, 20 Jul 2026 21:43:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/spain-wildfire-20072026-01-1784562200.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[How Houthi blockade tightens Iran's grip on global energy]]></title>
             <description><![CDATA[[World] How Houthi blockade tightens Iran's grip on global energy]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/d65fddabf13c</guid>
             <pubDate>Mon, 20 Jul 2026 18:42:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/jhenidah-monument-170726-01-1784300362.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bus-free Fulbaria Terminal]]></title>
-            <description><![CDATA[[Image] Bus-free Fulbaria Terminal]]></description>
-            <link>https://bdnews24.com/media-en/image/c34c31f5e5f6</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/c34c31f5e5f6</guid>
-            <pubDate>Mon, 20 Jul 2026 18:38:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/fulbaria-bus-terminal-190726-017-1784467581.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[July 20, 2026]]></title>
-            <description><![CDATA[[Image] July 20, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/ab03be51de9e</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/ab03be51de9e</guid>
-            <pubDate>Mon, 20 Jul 2026 18:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dhaka-rain-180726-07-1784547050.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt seeks Asaduzzaman’s extradition]]></title>
-            <description><![CDATA[[Bangladesh] Govt seeks Asaduzzaman’s extradition]]></description>
-            <link>https://bdnews24.com/bangladesh/ea4bd40824f1</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ea4bd40824f1</guid>
-            <pubDate>Mon, 20 Jul 2026 18:26:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024July/SM/asaduzzaman-khan-kamal-241023-01-1722432887.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Third terminal deal tipped by September]]></title>
-            <description><![CDATA[[Business] Third terminal deal tipped by September]]></description>
-            <link>https://bdnews24.com/business/49800f6bb520</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/49800f6bb520</guid>
-            <pubDate>Mon, 20 Jul 2026 18:16:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/mostafa-mahbub-siddique-20072026-1784547330.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hundreds rally for Kashmir statehood]]></title>
-            <description><![CDATA[[Neighbours] Hundreds rally for Kashmir statehood]]></description>
-            <link>https://bdnews24.com/neighbours/bafbbd73db43</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/bafbbd73db43</guid>
-            <pubDate>Mon, 20 Jul 2026 17:43:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2025April/SM/kashmir-tourism-230425-01-1745412172.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[North braces for worsening floods]]></title>
-            <description><![CDATA[[Bangladesh] North braces for worsening floods]]></description>
-            <link>https://bdnews24.com/bangladesh/64868dfdef06</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/64868dfdef06</guid>
-            <pubDate>Mon, 20 Jul 2026 17:22:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/habiganj-flood-100726-1783679831.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mozaffar will face military trial: home minister]]></title>
-            <description><![CDATA[[Bangladesh] Mozaffar will face military trial: home minister]]></description>
-            <link>https://bdnews24.com/bangladesh/45b14b922f15</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/45b14b922f15</guid>
-            <pubDate>Mon, 20 Jul 2026 17:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/mozaffor-hossain-160726-02-1784198871.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
