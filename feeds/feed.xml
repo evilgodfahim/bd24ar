@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Jul 2026 20:57:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 21:55:53 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Jul 2026 20:57:31 GMT</pubDate>
+        <pubDate>Mon, 20 Jul 2026 21:55:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Gill urges fitness push for India ahead of WC]]></title>
+            <description><![CDATA[[Sport] Gill urges fitness push for India ahead of WC]]></description>
+            <link>https://bdnews24.com/sport/24d8b82cbf6b</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/24d8b82cbf6b</guid>
+            <pubDate>Tue, 21 Jul 2026 03:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/shubman-gill-210726-01-1784584021.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[A year on, ‘no answers’ after Milestone crash]]></title>
             <description><![CDATA[[Bangladesh] A year on, ‘no answers’ after Milestone crash]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/0ab8de5658ac</guid>
             <pubDate>Mon, 20 Jul 2026 21:32:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/houthi-blockade-energy-20072026-01-1784561339.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ex-England captain Keegan dies]]></title>
-            <description><![CDATA[[Sport] Ex-England captain Keegan dies]]></description>
-            <link>https://bdnews24.com/sport/57642210d6e3</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/57642210d6e3</guid>
-            <pubDate>Mon, 20 Jul 2026 21:31:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/kevin-keegan-200726-01-1784561412.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
