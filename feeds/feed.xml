@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – Latest News]]></title>
+        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Jul 2026 01:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 05:25:46 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Jul 2026 01:23:21 GMT</pubDate>
+        <pubDate>Mon, 20 Jul 2026 05:25:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: timeout of 65000ms exceeded]]></description>
-            <link>https://bdnews24.com</link>
-            <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Mon, 20 Jul 2026 01:23:21 GMT</pubDate>
+            <title><![CDATA[China trains for typhoon season]]></title>
+            <description><![CDATA[[Society] China trains for typhoon season]]></description>
+            <link>https://bdnews24.com/society/2c0906cf52c2</link>
+            <guid isPermaLink="true">https://bdnews24.com/society/2c0906cf52c2</guid>
+            <pubDate>Mon, 20 Jul 2026 11:23:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/china-typhoon-training-200726-1784524931.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japan mayor makes maternity leave history]]></title>
+            <description><![CDATA[[Asia Pacific] Japan mayor makes maternity leave history]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/dbead3c6ebec</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/dbead3c6ebec</guid>
+            <pubDate>Mon, 20 Jul 2026 11:09:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/japan-mayor-200726-1784524086.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India’s cockroach movement defies police ban]]></title>
+            <description><![CDATA[[Neighbours] India’s cockroach movement defies police ban]]></description>
+            <link>https://bdnews24.com/neighbours/75dee21f8f62</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/75dee21f8f62</guid>
+            <pubDate>Mon, 20 Jul 2026 10:55:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/cockroach-party-200726-1784523285.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Air Force One from Qatar to be upgraded: Trump]]></title>
+            <description><![CDATA[[Americas] New Air Force One from Qatar to be upgraded: Trump]]></description>
+            <link>https://bdnews24.com/world/americas/e60da928ba49</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/e60da928ba49</guid>
+            <pubDate>Mon, 20 Jul 2026 10:53:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/trump-airforce-one-200726-01-1784523135.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Day 9 of US strikes on Iran]]></title>
+            <description><![CDATA[[West Asia] Day 9 of US strikes on Iran]]></description>
+            <link>https://bdnews24.com/world/middle-east/8076d2cac8b5</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/8076d2cac8b5</guid>
+            <pubDate>Mon, 20 Jul 2026 10:49:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/us-strikes-190726-01-1784519928.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gas crunch bites hard for Dhaka households]]></title>
+            <description><![CDATA[[Bangladesh] Gas crunch bites hard for Dhaka households]]></description>
+            <link>https://bdnews24.com/bangladesh/98c8d50f55b1</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/98c8d50f55b1</guid>
+            <pubDate>Mon, 20 Jul 2026 10:25:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025June/SM/chattagram-gas-crisis-200625-01-1750407687.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oil rally rolls on]]></title>
+            <description><![CDATA[[Business] Oil rally rolls on]]></description>
+            <link>https://bdnews24.com/business/a49b50c25932</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/a49b50c25932</guid>
+            <pubDate>Mon, 20 Jul 2026 10:10:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2024December/SM/20-rupee-currency-notes-041224-01-1733280221.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[American makeover leaves football facing a battle for its soul]]></title>
+            <description><![CDATA[[Sport] American makeover leaves football facing a battle for its soul]]></description>
+            <link>https://bdnews24.com/sport/d2c51c4fb161</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/d2c51c4fb161</guid>
+            <pubDate>Mon, 20 Jul 2026 09:05:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/fifa-world-cup-200726-01-1784516683.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian students turn to Europe]]></title>
+            <description><![CDATA[[Neighbours] Indian students turn to Europe]]></description>
+            <link>https://bdnews24.com/neighbours/18ca62e31445</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/18ca62e31445</guid>
+            <pubDate>Mon, 20 Jul 2026 08:54:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/india-students-200726-1784515974.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scaloni signs off with gratitude]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Scaloni signs off with gratitude]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/e3a3bc2eab2b</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/e3a3bc2eab2b</guid>
+            <pubDate>Mon, 20 Jul 2026 08:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/scaloni-200726-1784515174.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tempers flare at end of Spain-Argentina WC final]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Tempers flare at end of Spain-Argentina WC final]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/26d241896f44</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/26d241896f44</guid>
+            <pubDate>Mon, 20 Jul 2026 08:37:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/spain-argentina-200726-01-1784515020.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Boos ring out for Trump at final]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Boos ring out for Trump at final]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/845b84767c50</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/845b84767c50</guid>
+            <pubDate>Mon, 20 Jul 2026 08:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/trump-fifa-chief-200726-1784514587.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Argentina gave utmost: Scaloni]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Argentina gave utmost: Scaloni]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/5918ec3d0e8a</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/5918ec3d0e8a</guid>
+            <pubDate>Mon, 20 Jul 2026 06:16:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/gave-everything-scaloni-200726-01-1784506541.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spain's footballing gospel wins the world]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Spain's footballing gospel wins the world]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/7732d94030f7</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/7732d94030f7</guid>
+            <pubDate>Mon, 20 Jul 2026 06:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/spain-football-gospel-200726-01-1784506246.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[No Messi miracle as Spain reign supreme]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] No Messi miracle as Spain reign supreme]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/e985d7e0000c</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/e985d7e0000c</guid>
+            <pubDate>Mon, 20 Jul 2026 05:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/messi-spain-reign-supreme-200726-01-1784504269.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mbappe secures second World Cup Golden Boot]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Mbappe secures second World Cup Golden Boot]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/f33e807068e0</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/f33e807068e0</guid>
+            <pubDate>Mon, 20 Jul 2026 04:43:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/kylian-mbappe-200726-01-1784500979.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Duckett ton seals England series win over India]]></title>
+            <description><![CDATA[[Sport] Duckett ton seals England series win over India]]></description>
+            <link>https://bdnews24.com/sport/3d1b5593833f</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/3d1b5593833f</guid>
+            <pubDate>Mon, 20 Jul 2026 02:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/england-india-200726-01-1784494023.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[World Cup fever overruns DU barricades]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] World Cup fever overruns DU barricades]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/4a68c0272e19</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/4a68c0272e19</guid>
+            <pubDate>Mon, 20 Jul 2026 00:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/du-final-match-190726-01-1784485627.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Passports to carry July Uprising, ‘except Israel’ marks]]></title>
+            <description><![CDATA[[Bangladesh] Passports to carry July Uprising, ‘except Israel’ marks]]></description>
+            <link>https://bdnews24.com/bangladesh/0f764b6a2bc4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0f764b6a2bc4</guid>
+            <pubDate>Mon, 20 Jul 2026 00:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bd-passport-israel-220521-1784482849.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iraqi PM to visit Tehran soon]]></title>
+            <description><![CDATA[[World] Iraqi PM to visit Tehran soon]]></description>
+            <link>https://bdnews24.com/world/cf0af5417188</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/cf0af5417188</guid>
+            <pubDate>Mon, 20 Jul 2026 00:21:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/iraq-pm-tehran-19072026-01-1784485261.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
