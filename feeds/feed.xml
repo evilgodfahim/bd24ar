@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – Latest News]]></title>
+        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Jul 2026 22:44:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 23:44:19 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Jul 2026 22:44:58 GMT</pubDate>
+        <pubDate>Mon, 20 Jul 2026 23:44:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
-            <link>https://bdnews24.com</link>
-            <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Mon, 20 Jul 2026 22:44:58 GMT</pubDate>
+            <title><![CDATA[Crowds flood Madrid to celebrate World Cup triumph]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Crowds flood Madrid to celebrate World Cup triumph]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/8e3659ed8363</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/8e3659ed8363</guid>
+            <pubDate>Tue, 21 Jul 2026 04:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/madrid-celebration-200726-01-1784586545.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[FIFA opens WC final brawl probe]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] FIFA opens WC final brawl probe]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/52f8ab0bb38c</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/52f8ab0bb38c</guid>
+            <pubDate>Tue, 21 Jul 2026 04:27:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/wc-final-brawl-200726-01-1784586462.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gill urges fitness push for India ahead of WC]]></title>
+            <description><![CDATA[[Sport] Gill urges fitness push for India ahead of WC]]></description>
+            <link>https://bdnews24.com/sport/24d8b82cbf6b</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/24d8b82cbf6b</guid>
+            <pubDate>Tue, 21 Jul 2026 03:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/shubman-gill-210726-01-1784584021.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A year on, ‘no answers’ after Milestone crash]]></title>
+            <description><![CDATA[[Bangladesh] A year on, ‘no answers’ after Milestone crash]]></description>
+            <link>https://bdnews24.com/bangladesh/3d9de217ed03</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3d9de217ed03</guid>
+            <pubDate>Tue, 21 Jul 2026 02:06:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/milestone-tragedy-anniversary-20072026-01-1784577248.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Messi: ‘This wound will take time to heal’]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Messi: ‘This wound will take time to heal’]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/35880cb0f0f8</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/35880cb0f0f8</guid>
+            <pubDate>Tue, 21 Jul 2026 01:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/messi-wound-time-heal-210726-01-1784576321.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[UEFA chief snubs WC final amid FIFA row]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] UEFA chief snubs WC final amid FIFA row]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/84b9a226f072</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/84b9a226f072</guid>
+            <pubDate>Tue, 21 Jul 2026 01:37:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/ceferin-snubs-final-210726-01-1784576186.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Emirates launches new adjustable Economy headrest]]></title>
+            <description><![CDATA[[Business] Emirates launches new adjustable Economy headrest]]></description>
+            <link>https://bdnews24.com/business/914b0c83aefc</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/914b0c83aefc</guid>
+            <pubDate>Tue, 21 Jul 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/emirates-headrest-200726-01-1784574132.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Milestone tragedy: One year on, compensation remains in limbo]]></title>
+            <description><![CDATA[[Bangladesh] Milestone tragedy: One year on, compensation remains in limbo]]></description>
+            <link>https://bdnews24.com/bangladesh/0c1b760750d5</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0c1b760750d5</guid>
+            <pubDate>Tue, 21 Jul 2026 00:55:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025July/SM/milestone-second-day-220725-01-1753172008.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-UK defence minister Healey named new finance minister]]></title>
+            <description><![CDATA[[World] Ex-UK defence minister Healey named new finance minister]]></description>
+            <link>https://bdnews24.com/world/a2e3ea5f5b5f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/a2e3ea5f5b5f</guid>
+            <pubDate>Tue, 21 Jul 2026 00:37:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/healey-finance-20072026-01-1784572654.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu will not be arrested in US: Trump]]></title>
+            <description><![CDATA[[World] Netanyahu will not be arrested in US: Trump]]></description>
+            <link>https://bdnews24.com/world/2e1c4c0fa7d7</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/2e1c4c0fa7d7</guid>
+            <pubDate>Tue, 21 Jul 2026 00:13:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/netanyahu-arrest-20072026-01-1784571214.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[4 Indians killed in attack on ship leaving Odesa]]></title>
+            <description><![CDATA[[World] 4 Indians killed in attack on ship leaving Odesa]]></description>
+            <link>https://bdnews24.com/world/acd8be73e5e0</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/acd8be73e5e0</guid>
+            <pubDate>Tue, 21 Jul 2026 00:05:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/indian-ship-odesa-20072026-01-1784570699.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nicaragua will hold no elections: Ortega]]></title>
+            <description><![CDATA[[World] Nicaragua will hold no elections: Ortega]]></description>
+            <link>https://bdnews24.com/world/d2d3012123a7</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/d2d3012123a7</guid>
+            <pubDate>Mon, 20 Jul 2026 23:51:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/nicaragua-ortega-20072026-01-1784569906.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA['I used to go to school. Now I don't know what to do']]></title>
+            <description><![CDATA[[Bangladesh] 'I used to go to school. Now I don't know what to do']]></description>
+            <link>https://bdnews24.com/bangladesh/5d7fbfefc6f9</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5d7fbfefc6f9</guid>
+            <pubDate>Mon, 20 Jul 2026 23:49:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/milestone-abid-200726-01-1784565145.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Milestone crash site comes down, memorial undecided]]></title>
+            <description><![CDATA[[Bangladesh] Milestone crash site comes down, memorial undecided]]></description>
+            <link>https://bdnews24.com/bangladesh/78c41b30c067</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/78c41b30c067</guid>
+            <pubDate>Mon, 20 Jul 2026 23:42:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025July/SM/milstone-plane-crash-aftermath-220725-08-1753180300.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Titas blames ‘gas shortages’ on supply deficit]]></title>
+            <description><![CDATA[[Bangladesh] Titas blames ‘gas shortages’ on supply deficit]]></description>
+            <link>https://bdnews24.com/bangladesh/9c7a85bee277</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9c7a85bee277</guid>
+            <pubDate>Mon, 20 Jul 2026 23:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/gas-crisis-070726-01-1783405765.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[49 Malaysia recruiter licences revoked]]></title>
+            <description><![CDATA[[Bangladesh] 49 Malaysia recruiter licences revoked]]></description>
+            <link>https://bdnews24.com/bangladesh/19db77d02dcb</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/19db77d02dcb</guid>
+            <pubDate>Mon, 20 Jul 2026 22:58:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/mustofa-nizam-benjir-ahmed-masud-nur-200726-01-1784566680.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Meta faces trial over Instagram’s ‘addictive design’]]></title>
+            <description><![CDATA[[Technology] Meta faces trial over Instagram’s ‘addictive design’]]></description>
+            <link>https://bdnews24.com/technology/9dc7e9efafd5</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/9dc7e9efafd5</guid>
+            <pubDate>Mon, 20 Jul 2026 22:49:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/meta-trial-20072026-01-1784566130.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joyjatra crew members heading home]]></title>
+            <description><![CDATA[[Bangladesh] Joyjatra crew members heading home]]></description>
+            <link>https://bdnews24.com/bangladesh/45f710611ad9</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/45f710611ad9</guid>
+            <pubDate>Mon, 20 Jul 2026 22:43:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026March/SM/banglar-joyjatra-020326-02-1772442483.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[New pay floor proposed for private doctors]]></title>
+            <description><![CDATA[[Bangladesh] New pay floor proposed for private doctors]]></description>
+            <link>https://bdnews24.com/bangladesh/0fc742b54033</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0fc742b54033</guid>
+            <pubDate>Mon, 20 Jul 2026 22:26:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/non-gov-hospital-doctors-wage-200726-01-1784561167.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spain top FIFA rankings, Morocco reach record high]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Spain top FIFA rankings, Morocco reach record high]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/d0975c78bb17</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/d0975c78bb17</guid>
+            <pubDate>Mon, 20 Jul 2026 21:57:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/de-la-fuente-200726-01-1784562990.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
