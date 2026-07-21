@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News]]></title>
-        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
+        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Jul 2026 14:52:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 16:13:22 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Jul 2026 14:52:43 GMT</pubDate>
+        <pubDate>Tue, 21 Jul 2026 16:13:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Police shake-up moves Sylhet, Khulna chiefs]]></title>
-            <description><![CDATA[[Bangladesh] Police shake-up moves Sylhet, Khulna chiefs]]></description>
-            <link>https://bdnews24.com/bangladesh/2e0c1efb3190</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2e0c1efb3190</guid>
-            <pubDate>Tue, 21 Jul 2026 20:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sylhet-police-commissioner-building-210726-1784641872.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Protests continue in India despite Modi's assurances on exams]]></title>
-            <description><![CDATA[[Neighbours] Protests continue in India despite Modi's assurances on exams]]></description>
-            <link>https://bdnews24.com/neighbours/190370f6ad8a</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/190370f6ad8a</guid>
-            <pubDate>Tue, 21 Jul 2026 20:40:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/rahul-gandhi-detain-210726-1784644810.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rahul Gandhi detained, seen bleeding: NDTV]]></title>
-            <description><![CDATA[[Neighbours] Rahul Gandhi detained, seen bleeding: NDTV]]></description>
-            <link>https://bdnews24.com/neighbours/fc88d6ee54fd</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/fc88d6ee54fd</guid>
-            <pubDate>Tue, 21 Jul 2026 20:34:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/rahul-gandhi-detain-210726-1784644189.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[1 dies of dengue, 338 hospitalised]]></title>
-            <description><![CDATA[[Health] 1 dies of dengue, 338 hospitalised]]></description>
-            <link>https://bdnews24.com/health/059b9c8bdfdd</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/059b9c8bdfdd</guid>
-            <pubDate>Tue, 21 Jul 2026 20:20:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dengue-dhaka-medical-1000-1782912646.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 children drown in Bogura]]></title>
-            <description><![CDATA[[Bangladesh] 3 children drown in Bogura]]></description>
-            <link>https://bdnews24.com/bangladesh/4becebd17547</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4becebd17547</guid>
-            <pubDate>Tue, 21 Jul 2026 20:02:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bogura-3-dead-210726-1784633523.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How a 64-team World Cup changes football's economy]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] How a 64-team World Cup changes football's economy]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/084dfb6b0dd9</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/084dfb6b0dd9</guid>
-            <pubDate>Tue, 21 Jul 2026 19:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/wc-trophy-200726-01-1784640732.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rohingya crisis ‘off’ BIMSTEC agenda]]></title>
-            <description><![CDATA[[Bangladesh] Rohingya crisis ‘off’ BIMSTEC agenda]]></description>
-            <link>https://bdnews24.com/bangladesh/040ebba5f39d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/040ebba5f39d</guid>
-            <pubDate>Tue, 21 Jul 2026 19:29:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/indra-mani-pandey-21072026-1784640436.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Messi to miss next two Inter Miami games]]></title>
-            <description><![CDATA[[Sport] Messi to miss next two Inter Miami games]]></description>
-            <link>https://bdnews24.com/sport/635f36c28693</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/635f36c28693</guid>
-            <pubDate>Tue, 21 Jul 2026 19:10:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/lionel-messi-210726-01-1784639343.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Family of 6 killed in Gaza by Israeli strike]]></title>
-            <description><![CDATA[[World] Family of 6 killed in Gaza by Israeli strike]]></description>
-            <link>https://bdnews24.com/world/d35c6de5463f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/d35c6de5463f</guid>
-            <pubDate>Tue, 21 Jul 2026 19:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/gaza-israel-210726-01-1784638793.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran hits Bahrain, Kuwait after US strikes]]></title>
-            <description><![CDATA[[World] Iran hits Bahrain, Kuwait after US strikes]]></description>
-            <link>https://bdnews24.com/world/6cce107a5529</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/6cce107a5529</guid>
-            <pubDate>Tue, 21 Jul 2026 18:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/iran-us-210726-01-1784638423.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles: 4 more die as toll reaches 702]]></title>
-            <description><![CDATA[[Health] Measles: 4 more die as toll reaches 702]]></description>
-            <link>https://bdnews24.com/health/a2abc5814097</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/a2abc5814097</guid>
-            <pubDate>Tue, 21 Jul 2026 18:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/measles-patient-dncc-hospital-120526-028-1778590985.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Houthis warn shipping firms off Saudi ports]]></title>
-            <description><![CDATA[[World] Houthis warn shipping firms off Saudi ports]]></description>
-            <link>https://bdnews24.com/world/59a509221f1b</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/59a509221f1b</guid>
-            <pubDate>Tue, 21 Jul 2026 18:32:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/houthi-yemen-200726-01-1784637069.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Advisor admits ‘lapse’ over Milestone compensation]]></title>
-            <description><![CDATA[[Bangladesh] Advisor admits ‘lapse’ over Milestone compensation]]></description>
-            <link>https://bdnews24.com/bangladesh/3db018e853ce</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3db018e853ce</guid>
-            <pubDate>Tue, 21 Jul 2026 18:24:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025July/SM/milstone-plane-crash-aftermath-220725-08-1753180300.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Milestone crash: what the probe found]]></title>
-            <description><![CDATA[[Bangladesh] Milestone crash: what the probe found]]></description>
-            <link>https://bdnews24.com/bangladesh/a7e7adacff53</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a7e7adacff53</guid>
-            <pubDate>Tue, 21 Jul 2026 18:04:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ft-7bgi-bank-angel-210726-01-1784630439.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ICT summons Major Mozaffar]]></title>
-            <description><![CDATA[[Bangladesh] ICT summons Major Mozaffar]]></description>
-            <link>https://bdnews24.com/bangladesh/d1a10e66b21c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d1a10e66b21c</guid>
-            <pubDate>Tue, 21 Jul 2026 18:02:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/mozaffor-hossain-160726-02-1784198871.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Flood threat grows as rivers swell]]></title>
-            <description><![CDATA[[Bangladesh] Flood threat grows as rivers swell]]></description>
-            <link>https://bdnews24.com/bangladesh/3d7bb54f6ad9</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3d7bb54f6ad9</guid>
-            <pubDate>Tue, 21 Jul 2026 17:32:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024August/SM/feni-flood-sitution-240824-02-1724487896.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Minister promises perks for Expat Card holders]]></title>
-            <description><![CDATA[[Aviation] Minister promises perks for Expat Card holders]]></description>
-            <link>https://bdnews24.com/aviation/e28ee6202010</link>
-            <guid isPermaLink="true">https://bdnews24.com/aviation/e28ee6202010</guid>
-            <pubDate>Tue, 21 Jul 2026 17:06:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/meeting-on-probashi-card-21072026-1784631407.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[5 troubled banks to lose administrators]]></title>
-            <description><![CDATA[[Bangladesh] 5 troubled banks to lose administrators]]></description>
-            <link>https://bdnews24.com/bangladesh/5c70cc54d813</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5c70cc54d813</guid>
-            <pubDate>Tue, 21 Jul 2026 17:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026January/SM/united-islam-bank-010126-01-1767282906.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tawhid Afridi gets bail again]]></title>
-            <description><![CDATA[[Entertainment] Tawhid Afridi gets bail again]]></description>
-            <link>https://bdnews24.com/entertainment/34d90cdcaea4</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/34d90cdcaea4</guid>
-            <pubDate>Tue, 21 Jul 2026 16:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025August/SM/tawhid-afridi-rimand-250825-01-1756117354.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[CID busts trafficking ring using swapped passports]]></title>
-            <description><![CDATA[[Bangladesh] CID busts trafficking ring using swapped passports]]></description>
-            <link>https://bdnews24.com/bangladesh/40e6291fc158</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/40e6291fc158</guid>
-            <pubDate>Tue, 21 Jul 2026 16:16:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/cid-press-conference-210726-1784626278.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: timeout of 65000ms exceeded]]></description>
+            <link>https://bdnews24.com</link>
+            <guid isPermaLink="true">https://bdnews24.com</guid>
+            <pubDate>Tue, 21 Jul 2026 16:13:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
