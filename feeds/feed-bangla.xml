@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ]]></title>
+        <description><![CDATA[bangla.bdnews24.com আর্কাইভ থেকে সর্বশেষ সংবাদ]]></description>
         <link>https://bangla.bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Jul 2026 10:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 12:17:01 GMT</lastBuildDate>
         <atom:link href="https://bangla.bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Jul 2026 10:12:01 GMT</pubDate>
+        <pubDate>Tue, 21 Jul 2026 12:17:01 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: timeout of 65000ms exceeded]]></description>
-            <link>https://bangla.bdnews24.com</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com</guid>
-            <pubDate>Tue, 21 Jul 2026 10:12:01 GMT</pubDate>
+            <title><![CDATA[র‍্যাগিং: জাবিতে ৮ শিক্ষার্থী বহিষ্কার]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] র‍্যাগিং: জাবিতে ৮ শিক্ষার্থী বহিষ্কার]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/a9768ad43028</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/a9768ad43028</guid>
+            <pubDate>Tue, 21 Jul 2026 12:17:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024June/SM/jahangirnagar-university-shaheed-minar-290624-1719681468.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ঢাকায় কি যথেষ্ট গাছ আছে?]]></title>
+            <description><![CDATA[[ভিডিও(হ্যালো)] ঢাকায় কি যথেষ্ট গাছ আছে?]]></description>
+            <link>https://bangla.bdnews24.com/hello/hello-video/9cc100c893e9</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/hello/hello-video/9cc100c893e9</guid>
+            <pubDate>Tue, 21 Jul 2026 12:17:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ws-trees-in-dhaka-thum-1784633166.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[নিকোটিন যেভাবে কমিয়ে দেয় শারীরিক মিলনের ইচ্ছা]]></title>
+            <description><![CDATA[[দেহঘড়ি] নিকোটিন যেভাবে কমিয়ে দেয় শারীরিক মিলনের ইচ্ছা]]></description>
+            <link>https://bangla.bdnews24.com/lifestyle/Dehoghori/455c053178d9</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/lifestyle/Dehoghori/455c053178d9</guid>
+            <pubDate>Tue, 21 Jul 2026 12:17:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/smoking-sexual-dysfunction-210726-1784635707.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[জিয়া হত্যায় অভিযুক্ত অবসরপ্রাপ্ত মেজর মোজাফফরকে ২৩ জুলাই ট্রাইব্যুনালে হাজিরের নির্দেশ]]></title>
+            <description><![CDATA[[টিউব] জিয়া হত্যায় অভিযুক্ত অবসরপ্রাপ্ত মেজর মোজাফফরকে ২৩ জুলাই ট্রাইব্যুনালে হাজিরের নির্দেশ]]></description>
+            <link>https://bangla.bdnews24.com/tube/a1a137ff5944</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/a1a137ff5944</guid>
+            <pubDate>Tue, 21 Jul 2026 12:17:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/up-prosecutor-aminul-islam-sot-thumb-1784635734.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[নারীর সঙ্গে এমপি নজরুলের ভিডিওর খবরে ‘নজর রাখছে’ জামায়াত]]></title>
+            <description><![CDATA[[রাজনীতি] নারীর সঙ্গে এমপি নজরুলের ভিডিওর খবরে ‘নজর রাখছে’ জামায়াত]]></description>
+            <link>https://bangla.bdnews24.com/politics/8fe58e115f89</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/politics/8fe58e115f89</guid>
+            <pubDate>Tue, 21 Jul 2026 12:17:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/satkhira-mp-nazrul-210726-01-1784622633.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বরিশালে মাদ্রাসার কক্ষে ছাত্রীর ঝুলন্ত লাশ]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] বরিশালে মাদ্রাসার কক্ষে ছাত্রীর ঝুলন্ত লাশ]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/4e58c3f3440a</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/4e58c3f3440a</guid>
+            <pubDate>Tue, 21 Jul 2026 12:17:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/barishal-deadbody-210726-01-1784635111.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[চুক্তিতে দেশের স্বার্থ রক্ষায় দক্ষ জনবল গড়বে বিএফটিআই: বাণিজ্যমন্ত্রী]]></title>
+            <description><![CDATA[[বাণিজ্য] চুক্তিতে দেশের স্বার্থ রক্ষায় দক্ষ জনবল গড়বে বিএফটিআই: বাণিজ্যমন্ত্রী]]></description>
+            <link>https://bangla.bdnews24.com/business/fe0f099f7488</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/business/fe0f099f7488</guid>
+            <pubDate>Tue, 21 Jul 2026 12:17:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/trade-minister-abdul-muktadir-21072026-1784634835.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বিশ্বকাপ জুড়ে ভিত্তিহীন ষড়যন্ত্র তত্ত্ব ছড়ানো হয়েছে: দে পল]]></title>
+            <description><![CDATA[[২০২৬ ফুটবল বিশ্বকাপ] বিশ্বকাপ জুড়ে ভিত্তিহীন ষড়যন্ত্র তত্ত্ব ছড়ানো হয়েছে: দে পল]]></description>
+            <link>https://bangla.bdnews24.com/sport/world-cup-2026/563e20621bf0</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/world-cup-2026/563e20621bf0</guid>
+            <pubDate>Tue, 21 Jul 2026 12:17:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/rodrigo-de-paul-210726-01-1784634495.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[মাইলস্টোন ট্র্যাজেডি: ক্ষতিপূরণ প্রশ্নে সরকারের ‘খানিকটা’ ব্যর্থতা দেখছেন তথ্য উপদেষ্টা]]></title>
+            <description><![CDATA[[বাংলাদেশ] মাইলস্টোন ট্র্যাজেডি: ক্ষতিপূরণ প্রশ্নে সরকারের ‘খানিকটা’ ব্যর্থতা দেখছেন তথ্য উপদেষ্টা]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/15799052fb37</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/15799052fb37</guid>
+            <pubDate>Tue, 21 Jul 2026 12:17:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025July/SM/milstone-plane-crash-aftermath-220725-08-1753180300.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[নেত্রকোণায় নারী উদ্যোক্তাদের মিলনমেলা]]></title>
+            <description><![CDATA[[ভিডিও(হ্যালো)] নেত্রকোণায় নারী উদ্যোক্তাদের মিলনমেলা]]></description>
+            <link>https://bangla.bdnews24.com/hello/hello-video/2e386e84a41f</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/hello/hello-video/2e386e84a41f</guid>
+            <pubDate>Tue, 21 Jul 2026 12:17:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ws-netrokona-women-get-together-thum-1784632935.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[তিন নদীর পানি বিপৎসীমার উপরে, বন্যার শঙ্কা]]></title>
+            <description><![CDATA[[বাংলাদেশ] তিন নদীর পানি বিপৎসীমার উপরে, বন্যার শঙ্কা]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/54eee59d202f</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/54eee59d202f</guid>
+            <pubDate>Tue, 21 Jul 2026 12:17:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025June/SM/sylhet-river-flow-020625-01-1748850643.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[যুক্তরাষ্ট্রের সঙ্গে প্রস্তাবিত বাণিজ্য চুক্তির প্রতিবাদে দিল্লি অভিমুখে ভারতীয় কৃষকরা]]></title>
+            <description><![CDATA[[টিউব] যুক্তরাষ্ট্রের সঙ্গে প্রস্তাবিত বাণিজ্য চুক্তির প্রতিবাদে দিল্লি অভিমুখে ভারতীয় কৃষকরা]]></description>
+            <link>https://bangla.bdnews24.com/tube/55c45e906c8e</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/55c45e906c8e</guid>
+            <pubDate>Tue, 21 Jul 2026 12:17:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/up-india-farmer-protest-thumb-1784633688.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[চট্টগ্রামে পুকুরে ভাসছিল রিকশাচালকের লাশ]]></title>
+            <description><![CDATA[[চট্টগ্রাম] চট্টগ্রামে পুকুরে ভাসছিল রিকশাচালকের লাশ]]></description>
+            <link>https://bangla.bdnews24.com/ctg/a83cd1d60c8b</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/ctg/a83cd1d60c8b</guid>
+            <pubDate>Tue, 21 Jul 2026 12:17:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/chakbazar-ctg-1784038918.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বগুড়ায় পুকুরে ডুবে তিন শিশুর মৃত্যু]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] বগুড়ায় পুকুরে ডুবে তিন শিশুর মৃত্যু]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/786b7041079f</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/786b7041079f</guid>
+            <pubDate>Tue, 21 Jul 2026 12:17:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bogura-3-dead-210726-1784633523.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[সিরাজগঞ্জে সাপের কামড়ে নারী-পুরুষের মৃত্যু]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] সিরাজগঞ্জে সাপের কামড়ে নারী-পুরুষের মৃত্যু]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/1102703ac734</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/1102703ac734</guid>
+            <pubDate>Tue, 21 Jul 2026 12:17:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sirajgonj-kazipara-hospital-210726-01-1784633361.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ইরানের সঙ্গে যুদ্ধে দুই সপ্তাহে প্রায় ১০০ মার্কিন সেনা আহত: পেন্টাগন]]></title>
+            <description><![CDATA[[বিশ্ব] ইরানের সঙ্গে যুদ্ধে দুই সপ্তাহে প্রায় ১০০ মার্কিন সেনা আহত: পেন্টাগন]]></description>
+            <link>https://bangla.bdnews24.com/world/2f1505afbf22</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/world/2f1505afbf22</guid>
+            <pubDate>Tue, 21 Jul 2026 12:17:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/us-central-command-210726-01-1784633356.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[মেজর মোজাফফরকে ট্রাইব্যুনালে হাজিরের নির্দেশ]]></title>
+            <description><![CDATA[[বাংলাদেশ] মেজর মোজাফফরকে ট্রাইব্যুনালে হাজিরের নির্দেশ]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/5868a6b152f5</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/5868a6b152f5</guid>
+            <pubDate>Tue, 21 Jul 2026 12:17:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/mozaffor-hossain-160726-02-1784198871.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[সিসাদূষণ রোধে সিলেটে সচেতনতামূলক শোভাযাত্রা]]></title>
+            <description><![CDATA[[ভিডিও(হ্যালো)] সিসাদূষণ রোধে সিলেটে সচেতনতামূলক শোভাযাত্রা]]></description>
+            <link>https://bangla.bdnews24.com/hello/hello-video/8c7c54c048e6</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/hello/hello-video/8c7c54c048e6</guid>
+            <pubDate>Tue, 21 Jul 2026 12:17:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ws-lead-pollution-rally-sylhet-thum-1784632643.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[খোসা ফেলে দিলেও খাবার ধুয়ে খাওয়া জরুরি]]></title>
+            <description><![CDATA[[খাদ্য ও পুষ্টি] খোসা ফেলে দিলেও খাবার ধুয়ে খাওয়া জরুরি]]></description>
+            <link>https://bangla.bdnews24.com/lifestyle/foodandnutrition/44c737b75cd8</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/lifestyle/foodandnutrition/44c737b75cd8</guid>
+            <pubDate>Tue, 21 Jul 2026 12:17:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/washing-apples-210726-1784632302.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[খাবারের মান নিয়ে কথা বলায় মারধর: শাবি শিক্ষার্থীদের বিক্ষোভ তৃতীয় দিনে]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] খাবারের মান নিয়ে কথা বলায় মারধর: শাবি শিক্ষার্থীদের বিক্ষোভ তৃতীয় দিনে]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/21d711eb80a6</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/21d711eb80a6</guid>
+            <pubDate>Tue, 21 Jul 2026 12:17:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sust-student-210726-01-1784631971.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
