@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Jul 2026 20:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 21:51:16 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Jul 2026 20:10:28 GMT</pubDate>
+        <pubDate>Tue, 21 Jul 2026 21:51:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Boeing urges US action over EU Airbus loan]]></title>
+            <description><![CDATA[[Aviation] Boeing urges US action over EU Airbus loan]]></description>
+            <link>https://bdnews24.com/aviation/a75dc144eaaf</link>
+            <guid isPermaLink="true">https://bdnews24.com/aviation/a75dc144eaaf</guid>
+            <pubDate>Wed, 22 Jul 2026 02:35:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/boeing-logo-210726-01-1784666129.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Battle lines drawn for local polls]]></title>
+            <description><![CDATA[[Politics] Battle lines drawn for local polls]]></description>
+            <link>https://bdnews24.com/politics/ec72de7c54b9</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/ec72de7c54b9</guid>
+            <pubDate>Wed, 22 Jul 2026 02:15:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/tangail-up-election-261221-01-1779046843.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Apollo Hospitals Chennai hosts medical conference in Dhaka]]></title>
             <description><![CDATA[[Health] Apollo Hospitals Chennai hosts medical conference in Dhaka]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/media-en/image/77597f0ec421</guid>
             <pubDate>Tue, 21 Jul 2026 21:12:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/rahul-gandhi-210726-06-1784645670.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Police shake-up moves Sylhet, Khulna chiefs]]></title>
-            <description><![CDATA[[Bangladesh] Police shake-up moves Sylhet, Khulna chiefs]]></description>
-            <link>https://bdnews24.com/bangladesh/2e0c1efb3190</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2e0c1efb3190</guid>
-            <pubDate>Tue, 21 Jul 2026 20:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sylhet-police-commissioner-building-210726-1784641872.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Protests continue in India despite Modi's assurances on exams]]></title>
-            <description><![CDATA[[Neighbours] Protests continue in India despite Modi's assurances on exams]]></description>
-            <link>https://bdnews24.com/neighbours/190370f6ad8a</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/190370f6ad8a</guid>
-            <pubDate>Tue, 21 Jul 2026 20:40:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/rahul-gandhi-detain-210726-02-1784645849.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
