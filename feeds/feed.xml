@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News]]></title>
-        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
+        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Jul 2026 07:25:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 10:12:01 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Jul 2026 07:25:54 GMT</pubDate>
+        <pubDate>Tue, 21 Jul 2026 10:12:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Govt sets lowest Hajj package at Tk 505,648]]></title>
-            <description><![CDATA[[Bangladesh] Govt sets lowest Hajj package at Tk 505,648]]></description>
-            <link>https://bdnews24.com/bangladesh/c5321098c529</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c5321098c529</guid>
-            <pubDate>Tue, 21 Jul 2026 13:16:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024June/SM/hajj-pilgrims-170624-01-1718599177.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh to host SAFF Championship]]></title>
-            <description><![CDATA[[Sport] Bangladesh to host SAFF Championship]]></description>
-            <link>https://bdnews24.com/sport/e6457fea0f79</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/e6457fea0f79</guid>
-            <pubDate>Tue, 21 Jul 2026 13:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025November/SM/bangladesh-181125-01-1763487576.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[EC reviews laws for local polls]]></title>
-            <description><![CDATA[[Bangladesh] EC reviews laws for local polls]]></description>
-            <link>https://bdnews24.com/bangladesh/0a8befa64070</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0a8befa64070</guid>
-            <pubDate>Tue, 21 Jul 2026 13:00:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ec-meeting-210726-1784614949.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shoeb Chowdhury named Rowing Federation president]]></title>
-            <description><![CDATA[[Sport] Shoeb Chowdhury named Rowing Federation president]]></description>
-            <link>https://bdnews24.com/sport/fbfaf58b0789</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/fbfaf58b0789</guid>
-            <pubDate>Tue, 21 Jul 2026 12:48:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/rowing-fed-shoeb-210726-1784616483.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[10 killed in India tunnel tragedy]]></title>
-            <description><![CDATA[[Neighbours] 10 killed in India tunnel tragedy]]></description>
-            <link>https://bdnews24.com/neighbours/475177adeb74</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/475177adeb74</guid>
-            <pubDate>Tue, 21 Jul 2026 12:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sikkim-landslide-210726-01-1784612058.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2 children with ‘measles’ die in Sylhet]]></title>
-            <description><![CDATA[[Health] 2 children with ‘measles’ die in Sylhet]]></description>
-            <link>https://bdnews24.com/health/4cdb7093260e</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/4cdb7093260e</guid>
-            <pubDate>Tue, 21 Jul 2026 12:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/syhlet-hum-dead-210726-1784612085.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heavy rain likely across all divisions]]></title>
-            <description><![CDATA[[Bangladesh] Heavy rain likely across all divisions]]></description>
-            <link>https://bdnews24.com/bangladesh/273546fe6ff0</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/273546fe6ff0</guid>
-            <pubDate>Tue, 21 Jul 2026 11:48:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dhaka-rain-180726-02-1784547049.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[RU protest halts rail services]]></title>
-            <description><![CDATA[[Bangladesh] RU protest halts rail services]]></description>
-            <link>https://bdnews24.com/bangladesh/bd0b2b3743d4</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/bd0b2b3743d4</guid>
-            <pubDate>Tue, 21 Jul 2026 11:29:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ru-student-rail-210726-01-1784610380.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 die in Chapainawabganj electrocution]]></title>
-            <description><![CDATA[[Bangladesh] 3 die in Chapainawabganj electrocution]]></description>
-            <link>https://bdnews24.com/bangladesh/056f8eddaab6</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/056f8eddaab6</guid>
-            <pubDate>Tue, 21 Jul 2026 11:21:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/chapinobabganj-death-210726-01-1784609055.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt aims to halve road deaths by 2030]]></title>
-            <description><![CDATA[[Bangladesh] Govt aims to halve road deaths by 2030]]></description>
-            <link>https://bdnews24.com/bangladesh/6dd96cc39092</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6dd96cc39092</guid>
-            <pubDate>Tue, 21 Jul 2026 11:10:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sheikh-rabiul-alom-210726-1784608548.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US imposes new 50% tariffs on some Canadian products]]></title>
-            <description><![CDATA[[Business] US imposes new 50% tariffs on some Canadian products]]></description>
-            <link>https://bdnews24.com/business/7f8d5959a3d5</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/7f8d5959a3d5</guid>
-            <pubDate>Tue, 21 Jul 2026 11:09:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/canada-products-210726-01-1784610527.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australia recall pace trio for Bangladesh]]></title>
-            <description><![CDATA[[Cricket] Australia recall pace trio for Bangladesh]]></description>
-            <link>https://bdnews24.com/cricket/07573956c2e6</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/07573956c2e6</guid>
-            <pubDate>Tue, 21 Jul 2026 10:47:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/australia-bowling-attack-210726-1784606122.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sri Lanka turns to drones to fight dengue]]></title>
-            <description><![CDATA[[Health] Sri Lanka turns to drones to fight dengue]]></description>
-            <link>https://bdnews24.com/health/31ad2d747c4f</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/31ad2d747c4f</guid>
-            <pubDate>Tue, 21 Jul 2026 10:31:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/dengue-210726-1784608223.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bolsonaro’s son secures US green card]]></title>
-            <description><![CDATA[[Americas] Bolsonaro’s son secures US green card]]></description>
-            <link>https://bdnews24.com/world/americas/afb7c5a4b58d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/afb7c5a4b58d</guid>
-            <pubDate>Tue, 21 Jul 2026 10:28:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/eduardo-bolsonaro-210726-01-1784608113.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hormuz crossings keep sliding]]></title>
-            <description><![CDATA[[West Asia] Hormuz crossings keep sliding]]></description>
-            <link>https://bdnews24.com/world/middle-east/50b2c4fdb304</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/50b2c4fdb304</guid>
-            <pubDate>Tue, 21 Jul 2026 10:26:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/hormuz-210726-1784607926.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 Chinese injured in Moscow drone attack]]></title>
-            <description><![CDATA[[Europe] 3 Chinese injured in Moscow drone attack]]></description>
-            <link>https://bdnews24.com/world/europe/93b19820a178</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/93b19820a178</guid>
-            <pubDate>Tue, 21 Jul 2026 10:18:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/ukrainian-drone-attack-210726-01-1784607459.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US hits Iran for 10th straight night]]></title>
-            <description><![CDATA[[West Asia] US hits Iran for 10th straight night]]></description>
-            <link>https://bdnews24.com/world/middle-east/1c72b7f33c20</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/1c72b7f33c20</guid>
-            <pubDate>Tue, 21 Jul 2026 10:16:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/u-s-strikes-210726-01-1784607342.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[West Asia crisis hangs over ASEAN]]></title>
-            <description><![CDATA[[Asia Pacific] West Asia crisis hangs over ASEAN]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/18153ab3dd35</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/18153ab3dd35</guid>
-            <pubDate>Tue, 21 Jul 2026 10:14:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/asean-meet-210726-1784607210.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump vows revenge against Iran]]></title>
-            <description><![CDATA[[Americas] Trump vows revenge against Iran]]></description>
-            <link>https://bdnews24.com/world/americas/9c01742a43f4</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/9c01742a43f4</guid>
-            <pubDate>Tue, 21 Jul 2026 10:06:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/us-munition-210726-01-1784606745.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Can ADR work at the Supreme Court too?]]></title>
-            <description><![CDATA[[Bangladesh] Can ADR work at the Supreme Court too?]]></description>
-            <link>https://bdnews24.com/bangladesh/1f2e01a48e54</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1f2e01a48e54</guid>
-            <pubDate>Tue, 21 Jul 2026 10:00:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024July/SM/high-court-supreme-court-1720703894-1721132090.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
+            <link>https://bdnews24.com</link>
+            <guid isPermaLink="true">https://bdnews24.com</guid>
+            <pubDate>Tue, 21 Jul 2026 10:12:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
