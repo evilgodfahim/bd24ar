@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Jul 2026 18:06:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 20:10:28 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Jul 2026 18:06:01 GMT</pubDate>
+        <pubDate>Tue, 21 Jul 2026 20:10:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Apollo Hospitals Chennai hosts medical conference in Dhaka]]></title>
+            <description><![CDATA[[Health] Apollo Hospitals Chennai hosts medical conference in Dhaka]]></description>
+            <link>https://bdnews24.com/health/af1d4e243d3d</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/af1d4e243d3d</guid>
+            <pubDate>Wed, 22 Jul 2026 02:02:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/apollo-jmi-pr-2-1784664131.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Can Bangladesh drill its way to energy security?]]></title>
+            <description><![CDATA[[Bangladesh] Can Bangladesh drill its way to energy security?]]></description>
+            <link>https://bdnews24.com/bangladesh/af6b26e63758</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/af6b26e63758</guid>
+            <pubDate>Wed, 22 Jul 2026 01:29:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/brahambaria-gas-rig-190426-01-1776600222.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Messi tops World Cup record breakers]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] Messi tops World Cup record breakers]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/dc1dee3f66de</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/dc1dee3f66de</guid>
+            <pubDate>Wed, 22 Jul 2026 01:22:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/fifa-wc-record-210726-01-1784661630.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[FIFA's best XI leaves out Cubarsi]]></title>
+            <description><![CDATA[[2026 FIFA World Cup] FIFA's best XI leaves out Cubarsi]]></description>
+            <link>https://bdnews24.com/sport/world-cup-2026/b927ad7f74a9</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/b927ad7f74a9</guid>
+            <pubDate>Wed, 22 Jul 2026 01:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/pau-cubarsi-210726-01-1784646608.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Only 6 of 48 Cumilla measles patients vaccinated]]></title>
+            <description><![CDATA[[Health] Only 6 of 48 Cumilla measles patients vaccinated]]></description>
+            <link>https://bdnews24.com/health/b51a5327a483</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/b51a5327a483</guid>
+            <pubDate>Wed, 22 Jul 2026 00:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/cumilla-medical-ham-210726-01-1784657968.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[One year after the Milestone tragedy]]></title>
+            <description><![CDATA[[Image] One year after the Milestone tragedy]]></description>
+            <link>https://bdnews24.com/media-en/image/8cb20c82a5d6</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/8cb20c82a5d6</guid>
+            <pubDate>Wed, 22 Jul 2026 00:27:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/milestone-school-plane-crash-tragedy-210726-043-1784648603.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US judge blocks Trump move to revoke immigrants' work permits]]></title>
+            <description><![CDATA[[Americas] US judge blocks Trump move to revoke immigrants' work permits]]></description>
+            <link>https://bdnews24.com/world/americas/413def37ffa1</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/413def37ffa1</guid>
+            <pubDate>Wed, 22 Jul 2026 00:24:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/judge-trump-210726-01-1784658260.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Student protests give opposition opening on Modi]]></title>
             <description><![CDATA[[Neighbours] Student protests give opposition opening on Modi]]></description>
@@ -38,7 +94,7 @@
             <link>https://bdnews24.com/business/b1c69a725e6f</link>
             <guid isPermaLink="true">https://bdnews24.com/business/b1c69a725e6f</guid>
             <pubDate>Tue, 21 Jul 2026 23:08:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/us-jordan-deal-21072026-01-1784657529.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[UK defence minister criticises Russian military drills]]></title>
@@ -46,7 +102,7 @@
             <link>https://bdnews24.com/world/6c503c5ecd55</link>
             <guid isPermaLink="true">https://bdnews24.com/world/6c503c5ecd55</guid>
             <pubDate>Tue, 21 Jul 2026 23:04:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/uk-defence-minister-21072026-01-1784657682.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Golden Ball debate: Did FIFA get it wrong?]]></title>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/neighbours/190370f6ad8a</guid>
             <pubDate>Tue, 21 Jul 2026 20:40:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/rahul-gandhi-detain-210726-02-1784645849.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rahul Gandhi detained, seen bleeding: NDTV]]></title>
-            <description><![CDATA[[Neighbours] Rahul Gandhi detained, seen bleeding: NDTV]]></description>
-            <link>https://bdnews24.com/neighbours/fc88d6ee54fd</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/fc88d6ee54fd</guid>
-            <pubDate>Tue, 21 Jul 2026 20:34:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/rahul-gandhi-detain-210726-1784644189.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[1 dies of dengue, 338 hospitalised]]></title>
-            <description><![CDATA[[Health] 1 dies of dengue, 338 hospitalised]]></description>
-            <link>https://bdnews24.com/health/059b9c8bdfdd</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/059b9c8bdfdd</guid>
-            <pubDate>Tue, 21 Jul 2026 20:20:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dengue-dhaka-medical-1000-1782912646.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 children drown in Bogura]]></title>
-            <description><![CDATA[[Bangladesh] 3 children drown in Bogura]]></description>
-            <link>https://bdnews24.com/bangladesh/4becebd17547</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4becebd17547</guid>
-            <pubDate>Tue, 21 Jul 2026 20:02:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bogura-3-dead-210726-1784633523.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How a 64-team World Cup changes football's economy]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] How a 64-team World Cup changes football's economy]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/084dfb6b0dd9</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/084dfb6b0dd9</guid>
-            <pubDate>Tue, 21 Jul 2026 19:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/wc-trophy-200726-01-1784640732.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rohingya crisis ‘off’ BIMSTEC agenda]]></title>
-            <description><![CDATA[[Bangladesh] Rohingya crisis ‘off’ BIMSTEC agenda]]></description>
-            <link>https://bdnews24.com/bangladesh/040ebba5f39d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/040ebba5f39d</guid>
-            <pubDate>Tue, 21 Jul 2026 19:29:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/indra-mani-pandey-21072026-1784640436.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Messi to miss next two Inter Miami games]]></title>
-            <description><![CDATA[[Sport] Messi to miss next two Inter Miami games]]></description>
-            <link>https://bdnews24.com/sport/635f36c28693</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/635f36c28693</guid>
-            <pubDate>Tue, 21 Jul 2026 19:10:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/lionel-messi-210726-01-1784639343.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Family of 6 killed in Gaza by Israeli strike]]></title>
-            <description><![CDATA[[World] Family of 6 killed in Gaza by Israeli strike]]></description>
-            <link>https://bdnews24.com/world/d35c6de5463f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/d35c6de5463f</guid>
-            <pubDate>Tue, 21 Jul 2026 19:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/gaza-israel-210726-01-1784638793.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
