@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Jul 2026 20:51:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 21:53:29 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Jul 2026 20:51:55 GMT</pubDate>
+        <pubDate>Wed, 22 Jul 2026 21:53:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Godzilla vs Kong actress Hottle dies in car crash]]></title>
+            <description><![CDATA[[Entertainment] Godzilla vs Kong actress Hottle dies in car crash]]></description>
+            <link>https://bdnews24.com/entertainment/74983723fc2c</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/74983723fc2c</guid>
+            <pubDate>Thu, 23 Jul 2026 03:29:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/screenshot-2026-07-23-at-31535-am-1784755716.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Argentina FA denies US courts summoned Tapia]]></title>
             <description><![CDATA[[2026 FIFA World Cup] Argentina FA denies US courts summoned Tapia]]></description>
@@ -22,7 +30,7 @@
             <link>https://bdnews24.com/sport/world-cup-2026/da601ba6ee8d</link>
             <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/da601ba6ee8d</guid>
             <pubDate>Thu, 23 Jul 2026 02:05:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/vozinha-haaland-220726-01-1784750669.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/vozinha-haaland-220726-01-1784755987.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Who keeps pelting trains?]]></title>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/dbb4cd10a9ea</guid>
             <pubDate>Wed, 22 Jul 2026 20:50:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/mahasthangarh-220726-01-1784728834.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Foden commits to Man City]]></title>
-            <description><![CDATA[[Sport] Foden commits to Man City]]></description>
-            <link>https://bdnews24.com/sport/43af4299f488</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/43af4299f488</guid>
-            <pubDate>Wed, 22 Jul 2026 20:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/foden-mancity-contract-220726-01-1784731272.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
