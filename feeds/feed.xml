@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Jul 2026 17:59:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 19:11:53 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Jul 2026 17:59:13 GMT</pubDate>
+        <pubDate>Wed, 22 Jul 2026 19:11:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Inter Miami sign Casemiro]]></title>
+            <description><![CDATA[[Sport] Inter Miami sign Casemiro]]></description>
+            <link>https://bdnews24.com/sport/da042db2243e</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/da042db2243e</guid>
+            <pubDate>Thu, 23 Jul 2026 01:09:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/casemiro-miami-230726-01-1784747296.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump threatens Iranian infrastructure over Red Sea blockade]]></title>
+            <description><![CDATA[[World] Trump threatens Iranian infrastructure over Red Sea blockade]]></description>
+            <link>https://bdnews24.com/world/2461c2595757</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/2461c2595757</guid>
+            <pubDate>Thu, 23 Jul 2026 00:35:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/iran-trump-230726-01-1784745253.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Will Nazrul keep his MP seat?]]></title>
+            <description><![CDATA[[Bangladesh] Will Nazrul keep his MP seat?]]></description>
+            <link>https://bdnews24.com/bangladesh/60291d427e2c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/60291d427e2c</guid>
+            <pubDate>Thu, 23 Jul 2026 00:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/satkhira-mp-nazrul-210726-01-1784622633.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI test ends in cyber chaos]]></title>
+            <description><![CDATA[[Technology] OpenAI test ends in cyber chaos]]></description>
+            <link>https://bdnews24.com/technology/7a72a48acb70</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/7a72a48acb70</guid>
+            <pubDate>Thu, 23 Jul 2026 00:27:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/openai-breach-220726-01-1784744738.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Train stone attack leaves student facing blindness]]></title>
+            <description><![CDATA[[Bangladesh] Train stone attack leaves student facing blindness]]></description>
+            <link>https://bdnews24.com/bangladesh/a58c62f1ae95</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a58c62f1ae95</guid>
+            <pubDate>Thu, 23 Jul 2026 00:22:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/stone-throwing-02-1784742313.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US judge sets June 2027 trial date for Maduro]]></title>
+            <description><![CDATA[[World] US judge sets June 2027 trial date for Maduro]]></description>
+            <link>https://bdnews24.com/world/5c96c4c6cea9</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/5c96c4c6cea9</guid>
+            <pubDate>Thu, 23 Jul 2026 00:09:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/maduro-us-220726-01-1784743687.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Gas shortage hits Dhaka CNG filling stations]]></title>
             <description><![CDATA[[Bangladesh] Gas shortage hits Dhaka CNG filling stations]]></description>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/3d9ca72fc907</guid>
             <pubDate>Wed, 22 Jul 2026 20:17:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/tonda-eckert-misconduct-220726-01-1784729829.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ochoa ends 22-year career]]></title>
-            <description><![CDATA[[Sport] Ochoa ends 22-year career]]></description>
-            <link>https://bdnews24.com/sport/9302fd08b082</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/9302fd08b082</guid>
-            <pubDate>Wed, 22 Jul 2026 20:14:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/ochoa-ends-career-220726-01-1784729634.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rahmat Shah to lead Afghan Test, ODI teams]]></title>
-            <description><![CDATA[[Cricket] Rahmat Shah to lead Afghan Test, ODI teams]]></description>
-            <link>https://bdnews24.com/cricket/ab4cdbeec025</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/ab4cdbeec025</guid>
-            <pubDate>Wed, 22 Jul 2026 20:08:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/rahmat-shah-220726-1784729264.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Liverpool need more signings: Iraola]]></title>
-            <description><![CDATA[[Sport] Liverpool need more signings: Iraola]]></description>
-            <link>https://bdnews24.com/sport/a5df48734165</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/a5df48734165</guid>
-            <pubDate>Wed, 22 Jul 2026 20:02:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/iraola-liverpool-gaps-220726-01-1784728856.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt plans private power distribution]]></title>
-            <description><![CDATA[[Business] Govt plans private power distribution]]></description>
-            <link>https://bdnews24.com/business/ab731a972aa1</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/ab731a972aa1</guid>
-            <pubDate>Wed, 22 Jul 2026 19:36:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/iqbal-mahmud-tuku-power-minister-220726-1784725843.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gas shortage hits Dhaka CNG stations]]></title>
-            <description><![CDATA[[Image] Gas shortage hits Dhaka CNG stations]]></description>
-            <link>https://bdnews24.com/media-en/image/1e4d9148395c</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/1e4d9148395c</guid>
-            <pubDate>Wed, 22 Jul 2026 19:31:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/gas-crisis-cng-station-220726-13-1784721644.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[IFFHS names Messi World Cup's best]]></title>
-            <description><![CDATA[[2026 FIFA World Cup] IFFHS names Messi World Cup's best]]></description>
-            <link>https://bdnews24.com/sport/world-cup-2026/4c68f761ab05</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/world-cup-2026/4c68f761ab05</guid>
-            <pubDate>Wed, 22 Jul 2026 19:25:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/lionel-messi-220726-01-1784726589.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
