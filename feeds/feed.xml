@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Jul 2026 20:05:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 21:52:59 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Jul 2026 20:05:31 GMT</pubDate>
+        <pubDate>Thu, 23 Jul 2026 21:52:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[5 Palestinians killed in Israeli strike, West Bank clashes]]></title>
+            <description><![CDATA[[World] 5 Palestinians killed in Israeli strike, West Bank clashes]]></description>
+            <link>https://bdnews24.com/world/3b780b559f32</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/3b780b559f32</guid>
+            <pubDate>Fri, 24 Jul 2026 02:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/westbank-attack-240726-01-1784839605.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Delhi metro, internet curbs hit commuters during protests]]></title>
+            <description><![CDATA[[Neighbours] Delhi metro, internet curbs hit commuters during protests]]></description>
+            <link>https://bdnews24.com/neighbours/4e8fdce03068</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/4e8fdce03068</guid>
+            <pubDate>Fri, 24 Jul 2026 02:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/cjp-protest-230726-1784831533-1784839496.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Over 4,000 Israelis enter Al-Aqsa]]></title>
+            <description><![CDATA[[World] Over 4,000 Israelis enter Al-Aqsa]]></description>
+            <link>https://bdnews24.com/world/58e6a24ec7c7</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/58e6a24ec7c7</guid>
+            <pubDate>Fri, 24 Jul 2026 02:22:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/al-aqsa-mosque-230726-01-1784831894.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Modi pledges tougher action on exam paper leaks: report]]></title>
+            <description><![CDATA[[Neighbours] Modi pledges tougher action on exam paper leaks: report]]></description>
+            <link>https://bdnews24.com/neighbours/6abaedd2fb60</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/6abaedd2fb60</guid>
+            <pubDate>Fri, 24 Jul 2026 02:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/narendra-modi-240726-01-1784837443.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[If Shahabuddin steps down]]></title>
             <description><![CDATA[[Bangladesh] If Shahabuddin steps down]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/6f7c0b0ee34b</guid>
             <pubDate>Thu, 23 Jul 2026 21:16:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/venezuela-worldbank-230726-01-1784819679.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saudi nuclear deal hinges on Israel ties: Trump]]></title>
-            <description><![CDATA[[Americas] Saudi nuclear deal hinges on Israel ties: Trump]]></description>
-            <link>https://bdnews24.com/world/americas/414a508cf724</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/414a508cf724</guid>
-            <pubDate>Thu, 23 Jul 2026 21:00:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/us-saudi-arab-flags-220726-01-1784812317.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sooryavanshi fires India to T20 win]]></title>
-            <description><![CDATA[[Cricket] Sooryavanshi fires India to T20 win]]></description>
-            <link>https://bdnews24.com/cricket/a3e14fce3862</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/a3e14fce3862</guid>
-            <pubDate>Thu, 23 Jul 2026 20:59:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/sooryavanshi-fires-india-t20-230726-01-1784818711.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BNP leader Rafiqul Islam Mia on life support]]></title>
-            <description><![CDATA[[Bangladesh] BNP leader Rafiqul Islam Mia on life support]]></description>
-            <link>https://bdnews24.com/bangladesh/d9adee43fd25</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d9adee43fd25</guid>
-            <pubDate>Thu, 23 Jul 2026 20:52:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/prime-ministers-office-officials-with-rafiqul-islam-30062026-1782841710.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thousands flee France wildfire as Europe dries out]]></title>
-            <description><![CDATA[[Environment] Thousands flee France wildfire as Europe dries out]]></description>
-            <link>https://bdnews24.com/environment/4777b43c35bb</link>
-            <guid isPermaLink="true">https://bdnews24.com/environment/4777b43c35bb</guid>
-            <pubDate>Thu, 23 Jul 2026 20:40:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/france-wildfire-230726-01-1784817534.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
