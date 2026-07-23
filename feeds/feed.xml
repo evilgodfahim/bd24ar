@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Jul 2026 16:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 18:05:08 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Jul 2026 16:21:56 GMT</pubDate>
+        <pubDate>Thu, 23 Jul 2026 18:05:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Italy sounded out Ancelotti before Guardiola]]></title>
+            <description><![CDATA[[Sport] Italy sounded out Ancelotti before Guardiola]]></description>
+            <link>https://bdnews24.com/sport/c5382c997254</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/c5382c997254</guid>
+            <pubDate>Fri, 24 Jul 2026 00:03:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/carlo-ancelotti-230726-01-1784829724.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Abhijeet Dipke: the face of India's first Gen Z protest movement]]></title>
+            <description><![CDATA[[Neighbours] Abhijeet Dipke: the face of India's first Gen Z protest movement]]></description>
+            <link>https://bdnews24.com/neighbours/3c9d8e19f6e2</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/3c9d8e19f6e2</guid>
+            <pubDate>Thu, 23 Jul 2026 23:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/india-dipke-230726-01-1784829298.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BSEC chief seeks legal clarity on trustee role]]></title>
+            <description><![CDATA[[Economy] BSEC chief seeks legal clarity on trustee role]]></description>
+            <link>https://bdnews24.com/economy/7365c992b1ce</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/7365c992b1ce</guid>
+            <pubDate>Thu, 23 Jul 2026 23:49:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/masud-khan-brac-university-230726-01-1784803421.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[US, Saudi strike nuclear pact]]></title>
             <description><![CDATA[[World] US, Saudi strike nuclear pact]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/4b0858a0fa5a</guid>
             <pubDate>Thu, 23 Jul 2026 18:48:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/amir-khasru-mahmud-230736-01-1784809653.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gas shortage chokes CNG pumps]]></title>
-            <description><![CDATA[[Image] Gas shortage chokes CNG pumps]]></description>
-            <link>https://bdnews24.com/media-en/image/1faee247ec80</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/1faee247ec80</guid>
-            <pubDate>Thu, 23 Jul 2026 18:44:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/gas-crisis-cng-station-230726-21-1784806157.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shahajpath High School to hold 5-day cultural fest]]></title>
-            <description><![CDATA[[Campus] Shahajpath High School to hold 5-day cultural fest]]></description>
-            <link>https://bdnews24.com/campus/5bb6f96cfbe2</link>
-            <guid isPermaLink="true">https://bdnews24.com/campus/5bb6f96cfbe2</guid>
-            <pubDate>Thu, 23 Jul 2026 18:42:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/fest-shahajpath-230726-01-1784810444.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dollar hits 40-year high against yen]]></title>
-            <description><![CDATA[[Economy] Dollar hits 40-year high against yen]]></description>
-            <link>https://bdnews24.com/economy/1ef38efec69e</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/1ef38efec69e</guid>
-            <pubDate>Thu, 23 Jul 2026 18:40:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/dollar-yen-230726-01-1784810379.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
