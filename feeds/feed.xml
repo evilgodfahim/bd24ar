@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Jul 2026 07:25:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 10:03:48 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Jul 2026 07:25:37 GMT</pubDate>
+        <pubDate>Fri, 24 Jul 2026 10:03:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Spain declares emergency over wildfires]]></title>
+            <description><![CDATA[[Europe] Spain declares emergency over wildfires]]></description>
+            <link>https://bdnews24.com/world/europe/86f0f12adf28</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/86f0f12adf28</guid>
+            <pubDate>Fri, 24 Jul 2026 15:59:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/spain-wildfire-240726-01-1784887142.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Govt fills 12 key posts on contract]]></title>
+            <description><![CDATA[[Bangladesh] Govt fills 12 key posts on contract]]></description>
+            <link>https://bdnews24.com/bangladesh/45e1f3016451</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/45e1f3016451</guid>
+            <pubDate>Fri, 24 Jul 2026 15:15:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025October/SM/public-administration-ministry-200820-01-1759690152.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Navy chief pays tribute at Shikha Anirban]]></title>
+            <description><![CDATA[[Bangladesh] Navy chief pays tribute at Shikha Anirban]]></description>
+            <link>https://bdnews24.com/bangladesh/218de785e135</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/218de785e135</guid>
+            <pubDate>Fri, 24 Jul 2026 15:02:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/misbha-ul-azim-240726-01-1784881930.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Screened off ‘female zone’ in TSC cafeteria draws flak]]></title>
+            <description><![CDATA[[Campus] Screened off ‘female zone’ in TSC cafeteria draws flak]]></description>
+            <link>https://bdnews24.com/campus/0e9f083b7a1e</link>
+            <guid isPermaLink="true">https://bdnews24.com/campus/0e9f083b7a1e</guid>
+            <pubDate>Fri, 24 Jul 2026 14:49:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/tsc-cafeteria-240726-01-1784877083.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Govt asks for time until Saturday: India protest leaders]]></title>
+            <description><![CDATA[[Neighbours] Govt asks for time until Saturday: India protest leaders]]></description>
+            <link>https://bdnews24.com/neighbours/4af3322b18c1</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/4af3322b18c1</guid>
+            <pubDate>Fri, 24 Jul 2026 14:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/indian-protesters-cjp-24072026-1784875923.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BGB foils ‘push-in bid’ at Kushtia border]]></title>
+            <description><![CDATA[[Bangladesh] BGB foils ‘push-in bid’ at Kushtia border]]></description>
+            <link>https://bdnews24.com/bangladesh/99321d2fac89</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/99321d2fac89</guid>
+            <pubDate>Fri, 24 Jul 2026 13:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/kushtia-border-pushin-240726-01-1784872367.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Speaker back amid Shahabuddin resignation buzz]]></title>
             <description><![CDATA[[Bangladesh] Speaker back amid Shahabuddin resignation buzz]]></description>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/americas/f4dc7409cceb</guid>
             <pubDate>Fri, 24 Jul 2026 09:58:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/president-lula-240726-01-1784865450.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Probe finds 'proof' Ansars blocked police duty]]></title>
-            <description><![CDATA[[Bangladesh] Probe finds 'proof' Ansars blocked police duty]]></description>
-            <link>https://bdnews24.com/bangladesh/046534a292ad</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/046534a292ad</guid>
-            <pubDate>Fri, 24 Jul 2026 09:52:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ansar-vdp-secretariat-250824-05-1784862238.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[New US tariffs hit Bangladesh, 59 other countries]]></title>
-            <description><![CDATA[[Economy] New US tariffs hit Bangladesh, 59 other countries]]></description>
-            <link>https://bdnews24.com/economy/b4a9d8678de8</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/b4a9d8678de8</guid>
-            <pubDate>Fri, 24 Jul 2026 09:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/us-shipping-containers-240726-01-1784863729.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian activist ends fast]]></title>
-            <description><![CDATA[[Neighbours] Indian activist ends fast]]></description>
-            <link>https://bdnews24.com/neighbours/dbc328dfd0d3</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/dbc328dfd0d3</guid>
-            <pubDate>Fri, 24 Jul 2026 09:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/wangchuk-india-240726-1784862755.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Xi will visit US on Sept 24: Trump]]></title>
-            <description><![CDATA[[World] Xi will visit US on Sept 24: Trump]]></description>
-            <link>https://bdnews24.com/world/ffa85c48510f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ffa85c48510f</guid>
-            <pubDate>Fri, 24 Jul 2026 09:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/xi-trump-240726-1784862668.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US strikes Iran for 13th straight night]]></title>
-            <description><![CDATA[[West Asia] US strikes Iran for 13th straight night]]></description>
-            <link>https://bdnews24.com/world/middle-east/ec02959b914f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/ec02959b914f</guid>
-            <pubDate>Fri, 24 Jul 2026 08:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/us-attack-240726-1784861308.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[5 Palestinians killed in Israeli strike, West Bank clashes]]></title>
-            <description><![CDATA[[World] 5 Palestinians killed in Israeli strike, West Bank clashes]]></description>
-            <link>https://bdnews24.com/world/3b780b559f32</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/3b780b559f32</guid>
-            <pubDate>Fri, 24 Jul 2026 02:47:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/westbank-attack-240726-01-1784839605.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
