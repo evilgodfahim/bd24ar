@@ -4,10 +4,74 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Jul 2026 18:08:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 20:07:55 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Jul 2026 18:08:37 GMT</pubDate>
+        <pubDate>Fri, 24 Jul 2026 20:07:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US strikes Iran after Trump threats over Red Sea shipping]]></title>
+            <description><![CDATA[[World] US strikes Iran after Trump threats over Red Sea shipping]]></description>
+            <link>https://bdnews24.com/world/fbf1a14cf67d</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/fbf1a14cf67d</guid>
+            <pubDate>Sat, 25 Jul 2026 01:55:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/us-strikes-iran-25072026-01-1784922711.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shahabuddin: from surprise pick to lonely exit]]></title>
+            <description><![CDATA[[Bangladesh] Shahabuddin: from surprise pick to lonely exit]]></description>
+            <link>https://bdnews24.com/bangladesh/eeec0d624590</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/eeec0d624590</guid>
+            <pubDate>Sat, 25 Jul 2026 01:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sahabuddin-ahmed-050726-01-1783252278.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pirlo set for Italy job after Guardiola rejection: report]]></title>
+            <description><![CDATA[[Sport] Pirlo set for Italy job after Guardiola rejection: report]]></description>
+            <link>https://bdnews24.com/sport/88e194039345</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/88e194039345</guid>
+            <pubDate>Sat, 25 Jul 2026 00:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/pirlo-italy-25072026-01-1784918333.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Klopp warns media over family privacy]]></title>
+            <description><![CDATA[[Sport] Klopp warns media over family privacy]]></description>
+            <link>https://bdnews24.com/sport/0914989701ef</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/0914989701ef</guid>
+            <pubDate>Sat, 25 Jul 2026 00:37:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/klopp-privacy-25072026-01-1784918210.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wildfires spread in Western Canada]]></title>
+            <description><![CDATA[[Environment] Wildfires spread in Western Canada]]></description>
+            <link>https://bdnews24.com/environment/4fe1d4de464b</link>
+            <guid isPermaLink="true">https://bdnews24.com/environment/4fe1d4de464b</guid>
+            <pubDate>Sat, 25 Jul 2026 00:35:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/canada-wildfire-25072026-01-1784918077.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yemen teeters towards renewed war]]></title>
+            <description><![CDATA[[World] Yemen teeters towards renewed war]]></description>
+            <link>https://bdnews24.com/world/64e409c438aa</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/64e409c438aa</guid>
+            <pubDate>Sat, 25 Jul 2026 00:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/yemen-renewed-war-24072026-01-1784917772.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Physical oil prices jump as Iran, Ukraine wars hit supply]]></title>
+            <description><![CDATA[[World] Physical oil prices jump as Iran, Ukraine wars hit supply]]></description>
+            <link>https://bdnews24.com/world/3f35140c521b</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/3f35140c521b</guid>
+            <pubDate>Sat, 25 Jul 2026 00:25:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/oil-prices-24072026-01-1784917420.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who's headed to Bangabhaban next?]]></title>
+            <description><![CDATA[[Bangladesh] Who's headed to Bangabhaban next?]]></description>
+            <link>https://bdnews24.com/bangladesh/f97d4c991ba6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f97d4c991ba6</guid>
+            <pubDate>Sat, 25 Jul 2026 00:13:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bongobhaban-photo-from-google-earth-24072024-1784916506.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Thailand talks open 10,000 job prospects]]></title>
             <description><![CDATA[[Bangladesh] Thailand talks open 10,000 job prospects]]></description>
@@ -103,70 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/588f87b433b5</guid>
             <pubDate>Fri, 24 Jul 2026 21:32:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/france-madrid-wildfire-24072026-01-1784907099.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump, Zelensky to meet in Washington: White House]]></title>
-            <description><![CDATA[[World] Trump, Zelensky to meet in Washington: White House]]></description>
-            <link>https://bdnews24.com/world/4c307dea47e9</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/4c307dea47e9</guid>
-            <pubDate>Fri, 24 Jul 2026 21:24:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/trump-zelensky-240726-01-1784906608.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Explosive device found in Motijheel]]></title>
-            <description><![CDATA[[Bangladesh] Explosive device found in Motijheel]]></description>
-            <link>https://bdnews24.com/bangladesh/a5cfa32177c4</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a5cfa32177c4</guid>
-            <pubDate>Fri, 24 Jul 2026 21:19:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/exposive-240726-1784906312.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Congo Ebola cases near 3,000]]></title>
-            <description><![CDATA[[Health] Congo Ebola cases near 3,000]]></description>
-            <link>https://bdnews24.com/health/ef1f1a9b116f</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/ef1f1a9b116f</guid>
-            <pubDate>Fri, 24 Jul 2026 21:09:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/congo-ebola-240726-1784905716.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Maresca sticks with Guardiola blueprint]]></title>
-            <description><![CDATA[[Sport] Maresca sticks with Guardiola blueprint]]></description>
-            <link>https://bdnews24.com/sport/3db7dd6e6efb</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/3db7dd6e6efb</guid>
-            <pubDate>Fri, 24 Jul 2026 21:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/maresca-sticks-guardiola-blueprint-240726-01-1784905251.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chariots roll home as Rath Yatra ends]]></title>
-            <description><![CDATA[[Image] Chariots roll home as Rath Yatra ends]]></description>
-            <link>https://bdnews24.com/media-en/image/d5032e657c7a</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/d5032e657c7a</guid>
-            <pubDate>Fri, 24 Jul 2026 20:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ulto-rath-yatra-240726-056-1784899514.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Van Bommel new Belgium coach]]></title>
-            <description><![CDATA[[Sport] Van Bommel new Belgium coach]]></description>
-            <link>https://bdnews24.com/sport/60450a88a567</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/60450a88a567</guid>
-            <pubDate>Fri, 24 Jul 2026 20:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/van-bommel-24072026-01-1784904534.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India govt seeks time on minister resignation demand]]></title>
-            <description><![CDATA[[Neighbours] India govt seeks time on minister resignation demand]]></description>
-            <link>https://bdnews24.com/neighbours/3699be606215</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/3699be606215</guid>
-            <pubDate>Fri, 24 Jul 2026 20:48:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/india-resignation-24072026-01-1784904386.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[July 24, 2026]]></title>
-            <description><![CDATA[[Image] July 24, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/bd8a074d3ac2</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/bd8a074d3ac2</guid>
-            <pubDate>Fri, 24 Jul 2026 20:43:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/banga-bhaban-security-240726-003-1784898442.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
