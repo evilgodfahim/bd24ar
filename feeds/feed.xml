@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Jul 2026 10:03:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 12:10:00 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Jul 2026 10:03:48 GMT</pubDate>
+        <pubDate>Fri, 24 Jul 2026 12:10:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Hafiz Uddin now acting president]]></title>
+            <description><![CDATA[[Bangladesh] Hafiz Uddin now acting president]]></description>
+            <link>https://bdnews24.com/bangladesh/03b069af061a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/03b069af061a</guid>
+            <pubDate>Fri, 24 Jul 2026 17:54:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/shahabuddin-hafiz-240726-1784893925.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flood relief in sight for Sylhet]]></title>
+            <description><![CDATA[[Bangladesh] Flood relief in sight for Sylhet]]></description>
+            <link>https://bdnews24.com/bangladesh/4112d059349f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4112d059349f</guid>
+            <pubDate>Fri, 24 Jul 2026 17:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025June/SM/sylhet-river-flow-020625-01-1748850643.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fresh phone line at Shahabuddin’s home]]></title>
+            <description><![CDATA[[Bangladesh] Fresh phone line at Shahabuddin’s home]]></description>
+            <link>https://bdnews24.com/bangladesh/d7a961fc7ea7</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d7a961fc7ea7</guid>
+            <pubDate>Fri, 24 Jul 2026 17:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/md-sahabuddin-gulshan-240726-04-1784890014.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka sees ‘edge’ in new 10% US tariff]]></title>
+            <description><![CDATA[[Bangladesh] Dhaka sees ‘edge’ in new 10% US tariff]]></description>
+            <link>https://bdnews24.com/bangladesh/6e9f73fff5cc</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6e9f73fff5cc</guid>
+            <pubDate>Fri, 24 Jul 2026 17:08:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024July/SM/chittagong-port-050422-01-1719857833.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[President Shahabuddin resigns]]></title>
+            <description><![CDATA[[Bangladesh] President Shahabuddin resigns]]></description>
+            <link>https://bdnews24.com/bangladesh/363360e07f18</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/363360e07f18</guid>
+            <pubDate>Fri, 24 Jul 2026 16:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/mohammed-shahabuddin-220726-01-1784737105.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 divisions brace for heavy rain]]></title>
+            <description><![CDATA[[Bangladesh] 3 divisions brace for heavy rain]]></description>
+            <link>https://bdnews24.com/bangladesh/13e847f31d42</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/13e847f31d42</guid>
+            <pubDate>Fri, 24 Jul 2026 16:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/heavy-rain-240726-01-1784888968.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Speaker to hold briefing]]></title>
+            <description><![CDATA[[Bangladesh] Speaker to hold briefing]]></description>
+            <link>https://bdnews24.com/bangladesh/873e7e67c4a5</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/873e7e67c4a5</guid>
+            <pubDate>Fri, 24 Jul 2026 16:08:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/hafiz-uddin-ahmed-240726-01-1784886784.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Spain declares emergency over wildfires]]></title>
             <description><![CDATA[[Europe] Spain declares emergency over wildfires]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/africa/81f7f66f866d</guid>
             <pubDate>Fri, 24 Jul 2026 11:19:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/africa-240726-1784870367.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japan's Nikkei falls more than 2%]]></title>
-            <description><![CDATA[[Business] Japan's Nikkei falls more than 2%]]></description>
-            <link>https://bdnews24.com/business/feb72ffb91da</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/feb72ffb91da</guid>
-            <pubDate>Fri, 24 Jul 2026 11:04:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/japan-nikkei-240726-01-1784869391.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bezos pushes Prime Video redesign]]></title>
-            <description><![CDATA[[Business] Bezos pushes Prime Video redesign]]></description>
-            <link>https://bdnews24.com/business/c1900ad3f840</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/c1900ad3f840</guid>
-            <pubDate>Fri, 24 Jul 2026 10:44:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/jeff-bezos-240726-01-1784868251.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Court halts Paramount-Warner Bros deal]]></title>
-            <description><![CDATA[[Environment] Court halts Paramount-Warner Bros deal]]></description>
-            <link>https://bdnews24.com/environment/d75cb4788198</link>
-            <guid isPermaLink="true">https://bdnews24.com/environment/d75cb4788198</guid>
-            <pubDate>Fri, 24 Jul 2026 10:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/paramount-warnerbros-240726-1784867890.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Avatar Aang’ film unveiled at Comic-Con]]></title>
-            <description><![CDATA[[Entertainment] ‘Avatar Aang’ film unveiled at Comic-Con]]></description>
-            <link>https://bdnews24.com/entertainment/11de59cb3df3</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/11de59cb3df3</guid>
-            <pubDate>Fri, 24 Jul 2026 10:31:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/avatar-aang-240726-1784867458.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[White House monitors OpenAI's AI incident]]></title>
-            <description><![CDATA[[Americas] White House monitors OpenAI's AI incident]]></description>
-            <link>https://bdnews24.com/world/americas/745e12ee1bb0</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/745e12ee1bb0</guid>
-            <pubDate>Fri, 24 Jul 2026 10:24:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/white-house-240726-01-1784866976.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Two-thirds of Gaza face ‘acute hunger’ by year-end]]></title>
-            <description><![CDATA[[West Asia] Two-thirds of Gaza face ‘acute hunger’ by year-end]]></description>
-            <link>https://bdnews24.com/world/middle-east/c8b2be9c326d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/c8b2be9c326d</guid>
-            <pubDate>Fri, 24 Jul 2026 10:09:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/gaza-hunger-240726-1784866068.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brazil calls US ‘forced labour’ tariffs ‘arbitrary,’ ‘unjustified’]]></title>
-            <description><![CDATA[[Americas] Brazil calls US ‘forced labour’ tariffs ‘arbitrary,’ ‘unjustified’]]></description>
-            <link>https://bdnews24.com/world/americas/f4dc7409cceb</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/f4dc7409cceb</guid>
-            <pubDate>Fri, 24 Jul 2026 09:58:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/president-lula-240726-01-1784865450.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
