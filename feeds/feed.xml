@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Jul 2026 10:59:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 12:02:29 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Jul 2026 10:59:15 GMT</pubDate>
+        <pubDate>Sat, 25 Jul 2026 12:02:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Police feign ‘short circuit’ to mask Motijheel bomb]]></title>
+            <description><![CDATA[[Bangladesh] Police feign ‘short circuit’ to mask Motijheel bomb]]></description>
+            <link>https://bdnews24.com/bangladesh/3759724928b6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3759724928b6</guid>
+            <pubDate>Sat, 25 Jul 2026 17:20:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/exposive-240726-1784906312.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Teesta erosion worsens in Nilphamari]]></title>
             <description><![CDATA[[Bangladesh] Teesta erosion worsens in Nilphamari]]></description>
@@ -22,7 +30,7 @@
             <link>https://bdnews24.com/bangladesh/cb9ed0a51b63</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/cb9ed0a51b63</guid>
             <pubDate>Sat, 25 Jul 2026 16:48:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/anowara-thana-ctg-250726-1784975765.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/swapan-kalpana-250726-02-1784978348.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Indian education minister resigns]]></title>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/bd1a0498e27d</guid>
             <pubDate>Sat, 25 Jul 2026 10:58:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/vozinha-chile-colocolo-240726-01-1784955484.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu will visit US next week: Trump]]></title>
-            <description><![CDATA[[Americas] Netanyahu will visit US next week: Trump]]></description>
-            <link>https://bdnews24.com/world/americas/f0ab1ed3f80f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/f0ab1ed3f80f</guid>
-            <pubDate>Sat, 25 Jul 2026 10:03:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026March/SM/netaniahu-trump-1774368388.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
