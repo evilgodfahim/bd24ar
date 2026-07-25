@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Jul 2026 09:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 10:59:15 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Jul 2026 09:24:07 GMT</pubDate>
+        <pubDate>Sat, 25 Jul 2026 10:59:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Teesta erosion worsens in Nilphamari]]></title>
+            <description><![CDATA[[Bangladesh] Teesta erosion worsens in Nilphamari]]></description>
+            <link>https://bdnews24.com/bangladesh/1ce3cacddd35</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1ce3cacddd35</guid>
+            <pubDate>Sat, 25 Jul 2026 16:53:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/niilphamari-tista-vangon-photo-24072026-01-1784973006.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man held over ‘killing parents’ in Ctg]]></title>
+            <description><![CDATA[[Bangladesh] Man held over ‘killing parents’ in Ctg]]></description>
+            <link>https://bdnews24.com/bangladesh/cb9ed0a51b63</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cb9ed0a51b63</guid>
+            <pubDate>Sat, 25 Jul 2026 16:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/anowara-thana-ctg-250726-1784975765.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian education minister resigns]]></title>
+            <description><![CDATA[[Neighbours] Indian education minister resigns]]></description>
+            <link>https://bdnews24.com/neighbours/be304fb7ffb6</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/be304fb7ffb6</guid>
+            <pubDate>Sat, 25 Jul 2026 15:37:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dharmendra-pradhan-250726-02-1784971548.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Expats turn to PM as Bahrain visa freeze continues]]></title>
             <description><![CDATA[[Diaspora] Expats turn to PM as Bahrain visa freeze continues]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/americas/f0ab1ed3f80f</guid>
             <pubDate>Sat, 25 Jul 2026 10:03:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026March/SM/netaniahu-trump-1774368388.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump ties nuclear deal to Saudis]]></title>
-            <description><![CDATA[[World] Trump ties nuclear deal to Saudis]]></description>
-            <link>https://bdnews24.com/world/50f50be3a7bc</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/50f50be3a7bc</guid>
-            <pubDate>Sat, 25 Jul 2026 09:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/us-saudi-arab-flags-220726-01-1784812317.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jubo Dal activist shot dead in Mirpur]]></title>
-            <description><![CDATA[[Bangladesh] Jubo Dal activist shot dead in Mirpur]]></description>
-            <link>https://bdnews24.com/bangladesh/5e46168bdb94</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5e46168bdb94</guid>
-            <pubDate>Sat, 25 Jul 2026 09:36:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/yusuf-ali-250726-1784947236.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nvidia, Microsoft back OpenAI models]]></title>
-            <description><![CDATA[[Technology] Nvidia, Microsoft back OpenAI models]]></description>
-            <link>https://bdnews24.com/technology/94f64be51f54</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/94f64be51f54</guid>
-            <pubDate>Sat, 25 Jul 2026 09:29:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/openai-logo-130626-1781326846.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
