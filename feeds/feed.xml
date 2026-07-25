@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Jul 2026 01:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 04:52:36 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Jul 2026 01:21:55 GMT</pubDate>
+        <pubDate>Sat, 25 Jul 2026 04:52:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Netanyahu will visit US next week: Trump]]></title>
+            <description><![CDATA[[Americas] Netanyahu will visit US next week: Trump]]></description>
+            <link>https://bdnews24.com/world/americas/f0ab1ed3f80f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/f0ab1ed3f80f</guid>
+            <pubDate>Sat, 25 Jul 2026 10:03:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026March/SM/netaniahu-trump-1774368388.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump ties nuclear deal to Saudis]]></title>
+            <description><![CDATA[[World] Trump ties nuclear deal to Saudis]]></description>
+            <link>https://bdnews24.com/world/50f50be3a7bc</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/50f50be3a7bc</guid>
+            <pubDate>Sat, 25 Jul 2026 09:55:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/us-saudi-arab-flags-220726-01-1784812317.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jubo Dal activist shot dead in Mirpur]]></title>
+            <description><![CDATA[[Bangladesh] Jubo Dal activist shot dead in Mirpur]]></description>
+            <link>https://bdnews24.com/bangladesh/5e46168bdb94</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5e46168bdb94</guid>
+            <pubDate>Sat, 25 Jul 2026 09:36:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/yusuf-ali-250726-1784947236.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nvidia, Microsoft back OpenAI models]]></title>
+            <description><![CDATA[[Technology] Nvidia, Microsoft back OpenAI models]]></description>
+            <link>https://bdnews24.com/technology/94f64be51f54</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/94f64be51f54</guid>
+            <pubDate>Sat, 25 Jul 2026 09:29:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/openai-logo-130626-1781326846.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Paramount agrees to pause Warner Bros deal]]></title>
+            <description><![CDATA[[Business] Paramount agrees to pause Warner Bros deal]]></description>
+            <link>https://bdnews24.com/business/29ea9703a3f7</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/29ea9703a3f7</guid>
+            <pubDate>Sat, 25 Jul 2026 09:16:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/paramount-warnerbros-240726-1784867890.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[SpaceX launches 13th Starship test]]></title>
+            <description><![CDATA[[Business] SpaceX launches 13th Starship test]]></description>
+            <link>https://bdnews24.com/business/86679e2406a7</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/86679e2406a7</guid>
+            <pubDate>Sat, 25 Jul 2026 09:09:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/spacex-250726-1784948940.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump orders fix to museum's ‘inaccurate’ signage]]></title>
+            <description><![CDATA[[Americas] Trump orders fix to museum's ‘inaccurate’ signage]]></description>
+            <link>https://bdnews24.com/world/americas/cca5a3c7fd59</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/cca5a3c7fd59</guid>
+            <pubDate>Sat, 25 Jul 2026 08:55:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/smithsonia-institution-250726-1784948065.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[US strikes Iran after Trump threats over Red Sea shipping]]></title>
             <description><![CDATA[[World] US strikes Iran after Trump threats over Red Sea shipping]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/4906a902a63d</guid>
             <pubDate>Fri, 24 Jul 2026 23:02:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/icc-vote-khan-24072026-01-1784912405.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How Dipke became the face of Indian Gen Z movement]]></title>
-            <description><![CDATA[[Neighbours] How Dipke became the face of Indian Gen Z movement]]></description>
-            <link>https://bdnews24.com/neighbours/4d315aa8a3e8</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/4d315aa8a3e8</guid>
-            <pubDate>Fri, 24 Jul 2026 22:56:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/dipke-24072026-01-1784912111.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No resignation for minister, NDTV says]]></title>
-            <description><![CDATA[[Neighbours] No resignation for minister, NDTV says]]></description>
-            <link>https://bdnews24.com/neighbours/ddb53d2c0902</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/ddb53d2c0902</guid>
-            <pubDate>Fri, 24 Jul 2026 22:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/cockroach-protes-24072026-01-1784912005.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[EU sanctions Iranian judges]]></title>
-            <description><![CDATA[[World] EU sanctions Iranian judges]]></description>
-            <link>https://bdnews24.com/world/d15ea1e21f39</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/d15ea1e21f39</guid>
-            <pubDate>Fri, 24 Jul 2026 22:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/eu-sanction-24072026-01-1784909417.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump warns China, Russia against role in Iran war]]></title>
-            <description><![CDATA[[World] Trump warns China, Russia against role in Iran war]]></description>
-            <link>https://bdnews24.com/world/e22ca32a51ba</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/e22ca32a51ba</guid>
-            <pubDate>Fri, 24 Jul 2026 22:08:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/trump-warns-china-24072026-01-1784909319.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan, Iran explore new path to US talks]]></title>
-            <description><![CDATA[[West Asia] Pakistan, Iran explore new path to US talks]]></description>
-            <link>https://bdnews24.com/world/middle-east/9d786bf12bd0</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/9d786bf12bd0</guid>
-            <pubDate>Fri, 24 Jul 2026 21:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/pakistan-iran-240726-01-1784908380.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu to meet Trump Tuesday]]></title>
-            <description><![CDATA[[World] Netanyahu to meet Trump Tuesday]]></description>
-            <link>https://bdnews24.com/world/05f4b9779074</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/05f4b9779074</guid>
-            <pubDate>Fri, 24 Jul 2026 21:36:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026March/SM/trump-netanyahu-110326-01-1773252607.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thousands flee blazes in France, Madrid]]></title>
-            <description><![CDATA[[World] Thousands flee blazes in France, Madrid]]></description>
-            <link>https://bdnews24.com/world/588f87b433b5</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/588f87b433b5</guid>
-            <pubDate>Fri, 24 Jul 2026 21:32:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/france-madrid-wildfire-24072026-01-1784907099.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
