@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Jul 2026 16:41:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 17:46:17 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Jul 2026 16:41:57 GMT</pubDate>
+        <pubDate>Sat, 25 Jul 2026 17:46:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Meta launches free Facebook verified badge]]></title>
+            <description><![CDATA[[Technology] Meta launches free Facebook verified badge]]></description>
+            <link>https://bdnews24.com/technology/46123ee3c89a</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/46123ee3c89a</guid>
+            <pubDate>Sat, 25 Jul 2026 23:43:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025December/SM/facebook-reuters-181225-01-1766139495.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Foreign minister visits Maldives]]></title>
+            <description><![CDATA[[Bangladesh] Foreign minister visits Maldives]]></description>
+            <link>https://bdnews24.com/bangladesh/aac39e014c1a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/aac39e014c1a</guid>
+            <pubDate>Sat, 25 Jul 2026 22:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/khalilur-rahman-md-muizzu-250726-01-1784996156.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Tarique visits Daffodil Computers pavilion at BEAR Summit 2026]]></title>
             <description><![CDATA[[Campus] Tarique visits Daffodil Computers pavilion at BEAR Summit 2026]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/aafadd0dba9d</guid>
             <pubDate>Sat, 25 Jul 2026 18:23:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/mohammed-shahabuddin-220726-01-1784737105.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Police feign ‘short circuit’ to mask Motijheel bomb]]></title>
-            <description><![CDATA[[Bangladesh] Police feign ‘short circuit’ to mask Motijheel bomb]]></description>
-            <link>https://bdnews24.com/bangladesh/3759724928b6</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3759724928b6</guid>
-            <pubDate>Sat, 25 Jul 2026 17:20:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/exposive-240726-1784906312.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Teesta erosion worsens in Nilphamari]]></title>
-            <description><![CDATA[[Bangladesh] Teesta erosion worsens in Nilphamari]]></description>
-            <link>https://bdnews24.com/bangladesh/1ce3cacddd35</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1ce3cacddd35</guid>
-            <pubDate>Sat, 25 Jul 2026 16:53:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/niilphamari-tista-vangon-photo-24072026-01-1784973006.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
