@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Jul 2026 07:07:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 09:24:07 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Jul 2026 07:07:12 GMT</pubDate>
+        <pubDate>Sat, 25 Jul 2026 09:24:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Expats turn to PM as Bahrain visa freeze continues]]></title>
+            <description><![CDATA[[Diaspora] Expats turn to PM as Bahrain visa freeze continues]]></description>
+            <link>https://bdnews24.com/diaspora/3ca10a60819f</link>
+            <guid isPermaLink="true">https://bdnews24.com/diaspora/3ca10a60819f</guid>
+            <pubDate>Sat, 25 Jul 2026 15:19:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bahrain-250726-01-1784965690.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Semiconductor sector next growth engine: PM]]></title>
+            <description><![CDATA[[Bangladesh] Semiconductor sector next growth engine: PM]]></description>
+            <link>https://bdnews24.com/bangladesh/97d4e67c6214</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/97d4e67c6214</guid>
+            <pubDate>Sat, 25 Jul 2026 15:01:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/tarique-rahman-250726-01-1784967695.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[China braces for Typhoon Noul]]></title>
+            <description><![CDATA[[Asia Pacific] China braces for Typhoon Noul]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/95d135fb53a3</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/95d135fb53a3</guid>
+            <pubDate>Sat, 25 Jul 2026 14:16:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/china-typhoon-250726-1784967371.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[More youth talks pile pressure on Modi]]></title>
+            <description><![CDATA[[Neighbours] More youth talks pile pressure on Modi]]></description>
+            <link>https://bdnews24.com/neighbours/1a91ccb4cb69</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/1a91ccb4cb69</guid>
+            <pubDate>Sat, 25 Jul 2026 14:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/india-protest-250726-1784966821.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[2 Chhatra Union leaders quit]]></title>
+            <description><![CDATA[[Politics] 2 Chhatra Union leaders quit]]></description>
+            <link>https://bdnews24.com/politics/45b674b90b29</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/45b674b90b29</guid>
+            <pubDate>Sat, 25 Jul 2026 13:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/meghmallar-bosu-250726-01-1784963805.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA['Time will tell' who’ll be next president: law minister]]></title>
+            <description><![CDATA[[Bangladesh] 'Time will tell' who’ll be next president: law minister]]></description>
+            <link>https://bdnews24.com/bangladesh/16dac37187d7</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/16dac37187d7</guid>
+            <pubDate>Sat, 25 Jul 2026 13:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/asaduzzaman-250726-1784962213.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA['Blade Runner', 'Rings of Power' wow Comic-Con]]></title>
+            <description><![CDATA[[Entertainment] 'Blade Runner', 'Rings of Power' wow Comic-Con]]></description>
+            <link>https://bdnews24.com/entertainment/34b0841e4c2f</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/34b0841e4c2f</guid>
+            <pubDate>Sat, 25 Jul 2026 13:09:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/comic-con-250726-1784963365.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Low pressure triggers port alert]]></title>
             <description><![CDATA[[Bangladesh] Low pressure triggers port alert]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/technology/94f64be51f54</guid>
             <pubDate>Sat, 25 Jul 2026 09:29:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/openai-logo-130626-1781326846.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Paramount agrees to pause Warner Bros deal]]></title>
-            <description><![CDATA[[Business] Paramount agrees to pause Warner Bros deal]]></description>
-            <link>https://bdnews24.com/business/29ea9703a3f7</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/29ea9703a3f7</guid>
-            <pubDate>Sat, 25 Jul 2026 09:16:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/paramount-warnerbros-240726-1784867890.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX launches 13th Starship test]]></title>
-            <description><![CDATA[[Business] SpaceX launches 13th Starship test]]></description>
-            <link>https://bdnews24.com/business/86679e2406a7</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/86679e2406a7</guid>
-            <pubDate>Sat, 25 Jul 2026 09:09:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/spacex-250726-1784948940.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump orders fix to museum's ‘inaccurate’ signage]]></title>
-            <description><![CDATA[[Americas] Trump orders fix to museum's ‘inaccurate’ signage]]></description>
-            <link>https://bdnews24.com/world/americas/cca5a3c7fd59</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/cca5a3c7fd59</guid>
-            <pubDate>Sat, 25 Jul 2026 08:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/smithsonia-institution-250726-1784948065.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US strikes Iran after Trump threats over Red Sea shipping]]></title>
-            <description><![CDATA[[World] US strikes Iran after Trump threats over Red Sea shipping]]></description>
-            <link>https://bdnews24.com/world/fbf1a14cf67d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/fbf1a14cf67d</guid>
-            <pubDate>Sat, 25 Jul 2026 01:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/us-strikes-iran-25072026-01-1784922711.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shahabuddin: from surprise pick to lonely exit]]></title>
-            <description><![CDATA[[Bangladesh] Shahabuddin: from surprise pick to lonely exit]]></description>
-            <link>https://bdnews24.com/bangladesh/eeec0d624590</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/eeec0d624590</guid>
-            <pubDate>Sat, 25 Jul 2026 01:31:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sahabuddin-ahmed-050726-01-1783252278.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pirlo set for Italy job after Guardiola rejection: report]]></title>
-            <description><![CDATA[[Sport] Pirlo set for Italy job after Guardiola rejection: report]]></description>
-            <link>https://bdnews24.com/sport/88e194039345</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/88e194039345</guid>
-            <pubDate>Sat, 25 Jul 2026 00:40:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/pirlo-italy-25072026-01-1784918333.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Klopp warns media over family privacy]]></title>
-            <description><![CDATA[[Sport] Klopp warns media over family privacy]]></description>
-            <link>https://bdnews24.com/sport/0914989701ef</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/0914989701ef</guid>
-            <pubDate>Sat, 25 Jul 2026 00:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/klopp-privacy-25072026-01-1784918210.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
