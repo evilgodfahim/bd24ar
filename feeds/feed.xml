@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Jul 2026 11:52:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 12:51:26 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Jul 2026 11:52:33 GMT</pubDate>
+        <pubDate>Sun, 26 Jul 2026 12:51:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iraola starts Liverpool reign with win]]></title>
+            <description><![CDATA[[Sport] Iraola starts Liverpool reign with win]]></description>
+            <link>https://bdnews24.com/sport/e30c2aa95e93</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/e30c2aa95e93</guid>
+            <pubDate>Sun, 26 Jul 2026 18:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/iraola-liverpool-gaps-220726-01-1784728856.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[NZ boss Walter keeps faith in Nicholls at three]]></title>
+            <description><![CDATA[[Cricket] NZ boss Walter keeps faith in Nicholls at three]]></description>
+            <link>https://bdnews24.com/cricket/090027722686</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/090027722686</guid>
+            <pubDate>Sun, 26 Jul 2026 18:37:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/henry-nicholls-260726-01-1785069449.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yamin murder: ICT accepts charges against 19 suspects]]></title>
+            <description><![CDATA[[Bangladesh] Yamin murder: ICT accepts charges against 19 suspects]]></description>
+            <link>https://bdnews24.com/bangladesh/70bb5d5f5136</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/70bb5d5f5136</guid>
+            <pubDate>Sun, 26 Jul 2026 18:23:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025December/SM/international-crimes-tribunal-111125-002-1765101831.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[France races to keep fire from Bordeaux]]></title>
+            <description><![CDATA[[World] France races to keep fire from Bordeaux]]></description>
+            <link>https://bdnews24.com/world/951b236c3255</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/951b236c3255</guid>
+            <pubDate>Sun, 26 Jul 2026 17:53:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/fire-spain-260726-01-1785066778.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Govt eyes 15% export growth]]></title>
             <description><![CDATA[[Business] Govt eyes 15% export growth]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/c581720c2770</guid>
             <pubDate>Sun, 26 Jul 2026 14:00:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/narayanganj-bomb-260726-01-1785049147.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BNP’s Rafiqul undergoes ‘successful’ surgery]]></title>
-            <description><![CDATA[[Bangladesh] BNP’s Rafiqul undergoes ‘successful’ surgery]]></description>
-            <link>https://bdnews24.com/bangladesh/836c0ed09b06</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/836c0ed09b06</guid>
-            <pubDate>Sun, 26 Jul 2026 13:14:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/prime-ministers-office-officials-with-rafiqul-islam-30062026-1782841710.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hajj pre-registration opens Monday]]></title>
-            <description><![CDATA[[Bangladesh] Hajj pre-registration opens Monday]]></description>
-            <link>https://bdnews24.com/bangladesh/bf1967142c1b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/bf1967142c1b</guid>
-            <pubDate>Sun, 26 Jul 2026 13:05:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024June/SM/hajj-pilgrims-170624-01-1718599177.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man found dead at Netrokona home]]></title>
-            <description><![CDATA[[Bangladesh] Man found dead at Netrokona home]]></description>
-            <link>https://bdnews24.com/bangladesh/8ca78899a839</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8ca78899a839</guid>
-            <pubDate>Sun, 26 Jul 2026 13:04:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/netrokona-murder-260726-1785049425.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hasina among 11 named over Ekramul killing]]></title>
-            <description><![CDATA[[Bangladesh] Hasina among 11 named over Ekramul killing]]></description>
-            <link>https://bdnews24.com/bangladesh/667e74d1919a</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/667e74d1919a</guid>
-            <pubDate>Sun, 26 Jul 2026 12:20:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ekramul-haque-260726-201-1785050200.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
