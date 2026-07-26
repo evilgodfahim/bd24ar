@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Jul 2026 18:50:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 20:02:15 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Jul 2026 18:50:57 GMT</pubDate>
+        <pubDate>Sun, 26 Jul 2026 20:02:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Courtois welcomes Bommel as Belgium boss]]></title>
+            <description><![CDATA[[Sport] Courtois welcomes Bommel as Belgium boss]]></description>
+            <link>https://bdnews24.com/sport/faa3cba96d50</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/faa3cba96d50</guid>
+            <pubDate>Mon, 27 Jul 2026 01:57:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/thibaut-courtois-270726-01-1785095850.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US senator seeks 3-year freeze on H-1B visas]]></title>
+            <description><![CDATA[[World] US senator seeks 3-year freeze on H-1B visas]]></description>
+            <link>https://bdnews24.com/world/a9e0c3f1bbc8</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/a9e0c3f1bbc8</guid>
+            <pubDate>Mon, 27 Jul 2026 01:44:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/h-1b-visa-260726-01-1785091513.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Syria pursues Israel security deal]]></title>
+            <description><![CDATA[[West Asia] Syria pursues Israel security deal]]></description>
+            <link>https://bdnews24.com/world/middle-east/18cf640feca4</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/18cf640feca4</guid>
+            <pubDate>Mon, 27 Jul 2026 01:17:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ahmed-al-sharaa-250726-01-1785087437.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Drone danger takes flight at airport]]></title>
+            <description><![CDATA[[Aviation] Drone danger takes flight at airport]]></description>
+            <link>https://bdnews24.com/aviation/80d704466b4c</link>
+            <guid isPermaLink="true">https://bdnews24.com/aviation/80d704466b4c</guid>
+            <pubDate>Mon, 27 Jul 2026 01:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/airport-drone-aircraft-230726-00-1785092596.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[BB cites defaulted loans as key risk to financial sector]]></title>
             <description><![CDATA[[Economy] BB cites defaulted loans as key risk to financial sector]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/media-en/image/bb44296b8176</guid>
             <pubDate>Sun, 26 Jul 2026 21:02:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/mosque-eviction-suhrawardy-udyan-260726-013-1785075036.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bodi’s ‘design’ behind Ekramul killing: ICT]]></title>
-            <description><![CDATA[[Bangladesh] Bodi’s ‘design’ behind Ekramul killing: ICT]]></description>
-            <link>https://bdnews24.com/bangladesh/b36b4bd4c47f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b36b4bd4c47f</guid>
-            <pubDate>Sun, 26 Jul 2026 20:47:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/07-abdur-rahman-badi-021116-0001-1785074181.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[July 26, 2026]]></title>
-            <description><![CDATA[[Image] July 26, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/b37987d28172</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/b37987d28172</guid>
-            <pubDate>Sun, 26 Jul 2026 20:42:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/hafiz-uddin-ahmad-260726-02-1785064457.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ACI Godrej, Aftab Feed fined over uncertified feed]]></title>
-            <description><![CDATA[[Bangladesh] ACI Godrej, Aftab Feed fined over uncertified feed]]></description>
-            <link>https://bdnews24.com/bangladesh/27dea94a2838</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/27dea94a2838</guid>
-            <pubDate>Sun, 26 Jul 2026 20:35:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/aci-godrej-agrovet-aftab-feed-jiuzhou-industry-260726-1785076447.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UAP holds Freshers' Orientation for Spring 2026]]></title>
-            <description><![CDATA[[Campus] UAP holds Freshers' Orientation for Spring 2026]]></description>
-            <link>https://bdnews24.com/campus/ac7e8d5c70e2</link>
-            <guid isPermaLink="true">https://bdnews24.com/campus/ac7e8d5c70e2</guid>
-            <pubDate>Sun, 26 Jul 2026 19:59:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/uap-orientation-260726-01-1785074255.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
