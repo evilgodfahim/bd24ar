@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Jul 2026 10:26:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 11:52:33 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Jul 2026 10:26:05 GMT</pubDate>
+        <pubDate>Sun, 26 Jul 2026 11:52:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Govt eyes 15% export growth]]></title>
+            <description><![CDATA[[Business] Govt eyes 15% export growth]]></description>
+            <link>https://bdnews24.com/business/3860583e19d7</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/3860583e19d7</guid>
+            <pubDate>Sun, 26 Jul 2026 17:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024July/SM/chittagong-port-container-handling-020722-1721932318.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Africa facing $10-20bn hit from 'super' El Niño, AfDB warns]]></title>
+            <description><![CDATA[[World] Africa facing $10-20bn hit from 'super' El Niño, AfDB warns]]></description>
+            <link>https://bdnews24.com/world/28b0400c5c98</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/28b0400c5c98</guid>
+            <pubDate>Sun, 26 Jul 2026 17:27:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/el-nino-260726-01-1785065146.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[4 more die of ‘measles’]]></title>
+            <description><![CDATA[[Health] 4 more die of ‘measles’]]></description>
+            <link>https://bdnews24.com/health/1d62c5fab4c6</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/1d62c5fab4c6</guid>
+            <pubDate>Sun, 26 Jul 2026 17:20:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026March/SM/chattogram-medical-measles-corner-300326-02-1774973385.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[CEC to meet acting speaker on presidential vote soon]]></title>
+            <description><![CDATA[[Bangladesh] CEC to meet acting speaker on presidential vote soon]]></description>
+            <link>https://bdnews24.com/bangladesh/0048cc6970b8</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0048cc6970b8</guid>
+            <pubDate>Sun, 26 Jul 2026 17:01:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bangabhaban-201216-01jpg-1784991149.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[17 missing after Vietnam vessel sinks]]></title>
+            <description><![CDATA[[Asia Pacific] 17 missing after Vietnam vessel sinks]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/ca78ecd3a9dc</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/ca78ecd3a9dc</guid>
+            <pubDate>Sun, 26 Jul 2026 16:52:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/vietnam-270726-1785063145.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[No injustice to Shahabuddin: minister]]></title>
+            <description><![CDATA[[Bangladesh] No injustice to Shahabuddin: minister]]></description>
+            <link>https://bdnews24.com/bangladesh/f041855aea3a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f041855aea3a</guid>
+            <pubDate>Sun, 26 Jul 2026 16:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/chattogram-law-minister-md-asaduzzaman-260726-01-1785059668.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sangu claims missing tourist]]></title>
+            <description><![CDATA[[Bangladesh] Sangu claims missing tourist]]></description>
+            <link>https://bdnews24.com/bangladesh/3b9edeb5dd88</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3b9edeb5dd88</guid>
+            <pubDate>Sun, 26 Jul 2026 16:42:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bandarban-missing-tourist-recover-26072026-01-1785060548.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Israeli settlers torch West Bank mosques]]></title>
             <description><![CDATA[[West Asia] Israeli settlers torch West Bank mosques]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/667e74d1919a</guid>
             <pubDate>Sun, 26 Jul 2026 12:20:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ekramul-haque-260726-201-1785050200.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Katy Perry slates White House over Iran strike video]]></title>
-            <description><![CDATA[[Entertainment] Katy Perry slates White House over Iran strike video]]></description>
-            <link>https://bdnews24.com/entertainment/a2a57465f219</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/a2a57465f219</guid>
-            <pubDate>Sun, 26 Jul 2026 12:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/katy-perry-260726-1785045694.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Major vehicle-ramming incidents in Germany]]></title>
-            <description><![CDATA[[Europe] Major vehicle-ramming incidents in Germany]]></description>
-            <link>https://bdnews24.com/world/europe/68b762a68a1c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/68b762a68a1c</guid>
-            <pubDate>Sun, 26 Jul 2026 11:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/germany-car-ramming-260726-01-1785045015.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chandpur hospital decay worries patients]]></title>
-            <description><![CDATA[[Bangladesh] Chandpur hospital decay worries patients]]></description>
-            <link>https://bdnews24.com/bangladesh/b8829738d5ad</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b8829738d5ad</guid>
-            <pubDate>Sun, 26 Jul 2026 11:47:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/chandpur-hospital-260726-01-1785040908.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brazil denies visas to Trump officials]]></title>
-            <description><![CDATA[[Americas] Brazil denies visas to Trump officials]]></description>
-            <link>https://bdnews24.com/world/americas/6e878111a9d8</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/6e878111a9d8</guid>
-            <pubDate>Sun, 26 Jul 2026 11:19:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/us-brazil-flags-260726-1785043119.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rahul Gandhi hails students after minister quits]]></title>
-            <description><![CDATA[[Neighbours] Rahul Gandhi hails students after minister quits]]></description>
-            <link>https://bdnews24.com/neighbours/0b269b217ad3</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/0b269b217ad3</guid>
-            <pubDate>Sun, 26 Jul 2026 11:14:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/rahul-gandhi-260726-1785042861.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UK retail sales boosted by hot weather, World Cup]]></title>
-            <description><![CDATA[[Business] UK retail sales boosted by hot weather, World Cup]]></description>
-            <link>https://bdnews24.com/business/9ae51a788153</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/9ae51a788153</guid>
-            <pubDate>Sun, 26 Jul 2026 10:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/britain-retail-sale-260726-01-1785041276.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australia eyes tariff talks with Trump]]></title>
-            <description><![CDATA[[World] Australia eyes tariff talks with Trump]]></description>
-            <link>https://bdnews24.com/world/b719d9e9b372</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/b719d9e9b372</guid>
-            <pubDate>Sun, 26 Jul 2026 10:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/australia-pm-260726-1785040772.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
