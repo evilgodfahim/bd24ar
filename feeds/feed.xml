@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Jul 2026 16:42:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 17:50:55 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Jul 2026 16:42:28 GMT</pubDate>
+        <pubDate>Sun, 26 Jul 2026 17:50:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Shahabuddin named in Islami Bank ‘share scam’]]></title>
+            <description><![CDATA[[Bangladesh] Shahabuddin named in Islami Bank ‘share scam’]]></description>
+            <link>https://bdnews24.com/bangladesh/290e3d13f427</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/290e3d13f427</guid>
+            <pubDate>Sun, 26 Jul 2026 23:04:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sahabuddin-240726-302-1784897094.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh, Maldives discuss direct shipping]]></title>
+            <description><![CDATA[[Bangladesh] Bangladesh, Maldives discuss direct shipping]]></description>
+            <link>https://bdnews24.com/bangladesh/05277ac28cb1</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/05277ac28cb1</guid>
+            <pubDate>Sun, 26 Jul 2026 22:54:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/fm-maldives-260726-1785080354.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[UNESCO lists Normandy's D-Day beaches as heritage site]]></title>
+            <description><![CDATA[[World] UNESCO lists Normandy's D-Day beaches as heritage site]]></description>
+            <link>https://bdnews24.com/world/b68be85d5041</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/b68be85d5041</guid>
+            <pubDate>Sun, 26 Jul 2026 22:52:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/normandy-unesco-260726-01-1785084693.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Microplastics found in 76.5% of toothpastes in Bangladesh: study]]></title>
             <description><![CDATA[[Bangladesh] Microplastics found in 76.5% of toothpastes in Bangladesh: study]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/7d9d32efff5d</guid>
             <pubDate>Sun, 26 Jul 2026 19:24:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/mosque-eviction-suhrawardy-udyan-260726-027-1785070261.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BB rules out fresh Shahabuddin probe]]></title>
-            <description><![CDATA[[Bangladesh] BB rules out fresh Shahabuddin probe]]></description>
-            <link>https://bdnews24.com/bangladesh/cbb420353f82</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cbb420353f82</guid>
-            <pubDate>Sun, 26 Jul 2026 18:56:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024September/SM/bangladesh-bank-110924-01-1726061067.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iraola starts Liverpool reign with win]]></title>
-            <description><![CDATA[[Sport] Iraola starts Liverpool reign with win]]></description>
-            <link>https://bdnews24.com/sport/e30c2aa95e93</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/e30c2aa95e93</guid>
-            <pubDate>Sun, 26 Jul 2026 18:47:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/iraola-liverpool-gaps-220726-01-1784728856.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[NZ boss Walter keeps faith in Nicholls at three]]></title>
-            <description><![CDATA[[Cricket] NZ boss Walter keeps faith in Nicholls at three]]></description>
-            <link>https://bdnews24.com/cricket/090027722686</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/090027722686</guid>
-            <pubDate>Sun, 26 Jul 2026 18:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/henry-nicholls-260726-01-1785069449.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
