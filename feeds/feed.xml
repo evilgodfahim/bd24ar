@@ -4,17 +4,25 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Jul 2026 20:58:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 22:02:28 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Jul 2026 20:58:45 GMT</pubDate>
+        <pubDate>Mon, 27 Jul 2026 22:02:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Tesla wins bid over UK 5G patent licence]]></title>
+            <description><![CDATA[[Technology] Tesla wins bid over UK 5G patent licence]]></description>
+            <link>https://bdnews24.com/technology/cda19d3978b2</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/cda19d3978b2</guid>
+            <pubDate>Tue, 28 Jul 2026 03:14:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/tesla-logo-280726-01-1785186727.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Sarajevo Film Festival to honour Luna, Farhadi]]></title>
             <description><![CDATA[[Entertainment] Sarajevo Film Festival to honour Luna, Farhadi]]></description>
             <link>https://bdnews24.com/entertainment/5a1deff5c219</link>
             <guid isPermaLink="true">https://bdnews24.com/entertainment/5a1deff5c219</guid>
             <pubDate>Tue, 28 Jul 2026 02:53:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/diego-luna-280726-01-1785185599.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/diego-luna-280726-02-1785187668.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Rogers-Palmer duo key to Chelsea revival: Alonso]]></title>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/science/b33339484705</guid>
             <pubDate>Mon, 27 Jul 2026 21:21:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/language-27072026-01-1785165613.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Houthis target Saudi oil routes]]></title>
-            <description><![CDATA[[West Asia] Houthis target Saudi oil routes]]></description>
-            <link>https://bdnews24.com/world/middle-east/1cc586203c9f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/1cc586203c9f</guid>
-            <pubDate>Mon, 27 Jul 2026 21:02:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/houthis-target-saudi-oil-270726-01-1785164523.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
