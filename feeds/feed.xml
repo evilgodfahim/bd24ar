@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Jul 2026 19:06:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 20:58:45 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Jul 2026 19:06:54 GMT</pubDate>
+        <pubDate>Mon, 27 Jul 2026 20:58:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Sarajevo Film Festival to honour Luna, Farhadi]]></title>
+            <description><![CDATA[[Entertainment] Sarajevo Film Festival to honour Luna, Farhadi]]></description>
+            <link>https://bdnews24.com/entertainment/5a1deff5c219</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/5a1deff5c219</guid>
+            <pubDate>Tue, 28 Jul 2026 02:53:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/diego-luna-280726-01-1785185599.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rogers-Palmer duo key to Chelsea revival: Alonso]]></title>
+            <description><![CDATA[[Sport] Rogers-Palmer duo key to Chelsea revival: Alonso]]></description>
+            <link>https://bdnews24.com/sport/d35d743a76c2</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/d35d743a76c2</guid>
+            <pubDate>Tue, 28 Jul 2026 02:27:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/xabi-alonso-270726-01-1785183934.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Maldini, Leonardo quit from Italian football roles]]></title>
+            <description><![CDATA[[Sport] Maldini, Leonardo quit from Italian football roles]]></description>
+            <link>https://bdnews24.com/sport/5c4506ee0549</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/5c4506ee0549</guid>
+            <pubDate>Tue, 28 Jul 2026 01:17:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/maldini-270726-01-1785174470.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Europe’s wildfires could burn until November: report]]></title>
+            <description><![CDATA[[Europe] Europe’s wildfires could burn until November: report]]></description>
+            <link>https://bdnews24.com/world/europe/84770ec599f2</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/84770ec599f2</guid>
+            <pubDate>Tue, 28 Jul 2026 01:09:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/wildfire-270726-01-1785175237-1785179305.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Gas shortage hits power supply]]></title>
             <description><![CDATA[[Business] Gas shortage hits power supply]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/1cc586203c9f</guid>
             <pubDate>Mon, 27 Jul 2026 21:02:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/houthis-target-saudi-oil-270726-01-1785164523.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[West Bank violence pushes Palestinians to breaking point]]></title>
-            <description><![CDATA[[World] West Bank violence pushes Palestinians to breaking point]]></description>
-            <link>https://bdnews24.com/world/2b51848eebaa</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/2b51848eebaa</guid>
-            <pubDate>Mon, 27 Jul 2026 21:00:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/settler-violence-27072026-01-1785164381.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ICC faces uphill hunt for new prosecutor]]></title>
-            <description><![CDATA[[World] ICC faces uphill hunt for new prosecutor]]></description>
-            <link>https://bdnews24.com/world/8270449c7378</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/8270449c7378</guid>
-            <pubDate>Mon, 27 Jul 2026 20:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/icc-prosecutor-270726-01-1785163808.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Finnish architects’ humanist take wins UNESCO recognition]]></title>
-            <description><![CDATA[[Lifestyle] Finnish architects’ humanist take wins UNESCO recognition]]></description>
-            <link>https://bdnews24.com/lifestyle/ecce946ee648</link>
-            <guid isPermaLink="true">https://bdnews24.com/lifestyle/ecce946ee648</guid>
-            <pubDate>Mon, 27 Jul 2026 20:35:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/finland-unesco-270726-01-1785162805.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[LNG recovery may take another couple of weeks]]></title>
-            <description><![CDATA[[Bangladesh] LNG recovery may take another couple of weeks]]></description>
-            <link>https://bdnews24.com/bangladesh/f373e48419a7</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f373e48419a7</guid>
-            <pubDate>Mon, 27 Jul 2026 20:31:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/moheshkhali-excelerate-energy-lng-terminal-270726-01-1784795377.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
