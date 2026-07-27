@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Jul 2026 17:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 19:06:54 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Jul 2026 17:26:23 GMT</pubDate>
+        <pubDate>Mon, 27 Jul 2026 19:06:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Gas shortage hits power supply]]></title>
+            <description><![CDATA[[Business] Gas shortage hits power supply]]></description>
+            <link>https://bdnews24.com/business/b52cfb9e439a</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/b52cfb9e439a</guid>
+            <pubDate>Tue, 28 Jul 2026 00:57:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/meghnaghat-gas-fired-power-plant-270726-01-1785177860.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[World risks HIV resurgence as funding falls: UNAIDS]]></title>
+            <description><![CDATA[[Health] World risks HIV resurgence as funding falls: UNAIDS]]></description>
+            <link>https://bdnews24.com/health/9926955a1f6c</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/9926955a1f6c</guid>
+            <pubDate>Tue, 28 Jul 2026 00:36:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/hiv-27072026-01-1785177326.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Modi faces AI surveillance challenge]]></title>
+            <description><![CDATA[[Neighbours] Modi faces AI surveillance challenge]]></description>
+            <link>https://bdnews24.com/neighbours/1cdceacfdfac</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/1cdceacfdfac</guid>
+            <pubDate>Tue, 28 Jul 2026 00:34:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/modi-faces-ai-challenge-280726-01-1785177155.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Under-5 mortality falls: BBS]]></title>
+            <description><![CDATA[[Bangladesh] Under-5 mortality falls: BBS]]></description>
+            <link>https://bdnews24.com/bangladesh/541ddfd33ad4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/541ddfd33ad4</guid>
+            <pubDate>Tue, 28 Jul 2026 00:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/child-photo-from-uniceb-bangladesh-facebook-27072026-1785172897.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[France, Spain race to curb wildfires]]></title>
+            <description><![CDATA[[Environment] France, Spain race to curb wildfires]]></description>
+            <link>https://bdnews24.com/environment/f0d7be7e4d2a</link>
+            <guid isPermaLink="true">https://bdnews24.com/environment/f0d7be7e4d2a</guid>
+            <pubDate>Tue, 28 Jul 2026 00:26:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/france-spain-wildfire-27072026-01-1785176693.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pirlo out of Italy race over Russian betting links]]></title>
+            <description><![CDATA[[Sport] Pirlo out of Italy race over Russian betting links]]></description>
+            <link>https://bdnews24.com/sport/1b6de2c73d00</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/1b6de2c73d00</guid>
+            <pubDate>Tue, 28 Jul 2026 00:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/pirlo-italy-25072026-01-1784918333.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Meta platforms carried AI nudify ads from China: report]]></title>
+            <description><![CDATA[[Technology] Meta platforms carried AI nudify ads from China: report]]></description>
+            <link>https://bdnews24.com/technology/5d44533b0b21</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/5d44533b0b21</guid>
+            <pubDate>Mon, 27 Jul 2026 23:35:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/meta-ads-27072026-01-1785173624.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Hasina faces arrest over 'Shapla Chattar killings']]></title>
             <description><![CDATA[[Bangladesh] Hasina faces arrest over 'Shapla Chattar killings']]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/f373e48419a7</guid>
             <pubDate>Mon, 27 Jul 2026 20:31:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/moheshkhali-excelerate-energy-lng-terminal-270726-01-1784795377.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mahbub Ullah made national professor]]></title>
-            <description><![CDATA[[Bangladesh] Mahbub Ullah made national professor]]></description>
-            <link>https://bdnews24.com/bangladesh/2a6b3e469d58</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2a6b3e469d58</guid>
-            <pubDate>Mon, 27 Jul 2026 20:26:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/professor-mahbub-ullah-27072026-1785158945.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 students beaten at RU library]]></title>
-            <description><![CDATA[[Campus] 3 students beaten at RU library]]></description>
-            <link>https://bdnews24.com/campus/21c7c489e1bb</link>
-            <guid isPermaLink="true">https://bdnews24.com/campus/21c7c489e1bb</guid>
-            <pubDate>Mon, 27 Jul 2026 20:21:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ru-clash-270726-01-1785159129.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Poland's Gdynia gains UNESCO heritage status]]></title>
-            <description><![CDATA[[World] Poland's Gdynia gains UNESCO heritage status]]></description>
-            <link>https://bdnews24.com/world/7cc118deb8c6</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/7cc118deb8c6</guid>
-            <pubDate>Mon, 27 Jul 2026 20:08:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/gdynia-unesco-270726-01-1785161217.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US offers help for freedom fighters' database]]></title>
-            <description><![CDATA[[Bangladesh] US offers help for freedom fighters' database]]></description>
-            <link>https://bdnews24.com/bangladesh/b225b628fd13</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b225b628fd13</guid>
-            <pubDate>Mon, 27 Jul 2026 20:08:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ministry-of-liberation-war-affairs-meeting-270726-1785157388.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[China accuses US of 'AI hegemonism']]></title>
-            <description><![CDATA[[Technology] China accuses US of 'AI hegemonism']]></description>
-            <link>https://bdnews24.com/technology/fd58f6708db9</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/fd58f6708db9</guid>
-            <pubDate>Mon, 27 Jul 2026 19:57:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/china-us-ai-27072026-01-1785160511.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Police arrest man after Paris knife attack]]></title>
-            <description><![CDATA[[World] Police arrest man after Paris knife attack]]></description>
-            <link>https://bdnews24.com/world/cb7ad50d186f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/cb7ad50d186f</guid>
-            <pubDate>Mon, 27 Jul 2026 19:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/paris-attack-27072026-01-1785160241.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[China urges US 'forced labour' tariffs to be cancelled]]></title>
-            <description><![CDATA[[Business] China urges US 'forced labour' tariffs to be cancelled]]></description>
-            <link>https://bdnews24.com/business/0c8427c74148</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/0c8427c74148</guid>
-            <pubDate>Mon, 27 Jul 2026 19:44:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/china-us-tariffs-27072026-01-1785159773.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
