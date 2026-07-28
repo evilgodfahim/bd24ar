@@ -4,10 +4,74 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Jul 2026 17:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 19:01:52 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Jul 2026 17:15:43 GMT</pubDate>
+        <pubDate>Tue, 28 Jul 2026 19:01:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iran executes 2 more over January protests]]></title>
+            <description><![CDATA[[World] Iran executes 2 more over January protests]]></description>
+            <link>https://bdnews24.com/world/4f07ac601f58</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/4f07ac601f58</guid>
+            <pubDate>Wed, 29 Jul 2026 00:54:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/iran-execute-29072026-01-1785264725.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[14 killed in Nigeria's Benue: officials]]></title>
+            <description><![CDATA[[World] 14 killed in Nigeria's Benue: officials]]></description>
+            <link>https://bdnews24.com/world/bb2211f31001</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/bb2211f31001</guid>
+            <pubDate>Wed, 29 Jul 2026 00:50:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/benue-violence-29072026-01-1785264533.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[UN refugee chief hopeful about Washington partnership]]></title>
+            <description><![CDATA[[World] UN refugee chief hopeful about Washington partnership]]></description>
+            <link>https://bdnews24.com/world/c22d29ca1ef9</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/c22d29ca1ef9</guid>
+            <pubDate>Wed, 29 Jul 2026 00:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/unhcr-us-29072026-01-1785263823.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wildfires cloud over French wine industry]]></title>
+            <description><![CDATA[[Lifestyle] Wildfires cloud over French wine industry]]></description>
+            <link>https://bdnews24.com/lifestyle/ece1e3e5301e</link>
+            <guid isPermaLink="true">https://bdnews24.com/lifestyle/ece1e3e5301e</guid>
+            <pubDate>Wed, 29 Jul 2026 00:27:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/french-wine-29072026-01-1785263142.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Double eclipse set to light up August]]></title>
+            <description><![CDATA[[Science] Double eclipse set to light up August]]></description>
+            <link>https://bdnews24.com/science/a87531d5e588</link>
+            <guid isPermaLink="true">https://bdnews24.com/science/a87531d5e588</guid>
+            <pubDate>Wed, 29 Jul 2026 00:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/eclipse-1785262193.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[RUCSU VP 'threatens' action against journalists over assault reports]]></title>
+            <description><![CDATA[[Bangladesh] RUCSU VP 'threatens' action against journalists over assault reports]]></description>
+            <link>https://bdnews24.com/bangladesh/b97683526b8f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b97683526b8f</guid>
+            <pubDate>Tue, 28 Jul 2026 23:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/rucsu-press-280726-01-1785256376.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[S&P cuts Bangladesh outlook to negative]]></title>
+            <description><![CDATA[[Economy] S&P cuts Bangladesh outlook to negative]]></description>
+            <link>https://bdnews24.com/economy/0d37f14cf9c8</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/0d37f14cf9c8</guid>
+            <pubDate>Tue, 28 Jul 2026 23:25:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sp-ratings-280726-1785256786.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[France, Spain contain huge blazes]]></title>
+            <description><![CDATA[[World] France, Spain contain huge blazes]]></description>
+            <link>https://bdnews24.com/world/bdc49ced18fb</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/bdc49ced18fb</guid>
+            <pubDate>Tue, 28 Jul 2026 23:16:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/france-spain-blazes-28072026-01-1785258922.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Inside Reza Pahlavi's faltering bid to lead Iran]]></title>
             <description><![CDATA[[World] Inside Reza Pahlavi's faltering bid to lead Iran]]></description>
@@ -25,8 +89,8 @@
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/fire-cloud-28072026-01-1785258010.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Trump shows irritation with Netanyahu before WH talks]]></title>
-            <description><![CDATA[[World] Trump shows irritation with Netanyahu before WH talks]]></description>
+            <title><![CDATA[Trump's irritation with Netanyahu highlights strains]]></title>
+            <description><![CDATA[[World] Trump's irritation with Netanyahu highlights strains]]></description>
             <link>https://bdnews24.com/world/2edc5a1549fc</link>
             <guid isPermaLink="true">https://bdnews24.com/world/2edc5a1549fc</guid>
             <pubDate>Tue, 28 Jul 2026 22:51:00 GMT</pubDate>
@@ -103,70 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/f12fbf60b7f5</guid>
             <pubDate>Tue, 28 Jul 2026 21:37:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/habiganj-ncp-280726-01-1785251293.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Europe wildfires strain waterbomber capacity: Avincis]]></title>
-            <description><![CDATA[[Environment] Europe wildfires strain waterbomber capacity: Avincis]]></description>
-            <link>https://bdnews24.com/environment/380e4d847f16</link>
-            <guid isPermaLink="true">https://bdnews24.com/environment/380e4d847f16</guid>
-            <pubDate>Tue, 28 Jul 2026 21:28:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/wildfire-waterbomber-28072026-01-1785252435.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trust Bank approves 13% dividend at 27th AGM]]></title>
-            <description><![CDATA[[Business] Trust Bank approves 13% dividend at 27th AGM]]></description>
-            <link>https://bdnews24.com/business/a0217b7b376c</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/a0217b7b376c</guid>
-            <pubDate>Tue, 28 Jul 2026 21:19:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/agm-pr-pic-1785251868.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man wakes to son's death in South Africa]]></title>
-            <description><![CDATA[[Bangladesh] Man wakes to son's death in South Africa]]></description>
-            <link>https://bdnews24.com/bangladesh/72d92d1fd511</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/72d92d1fd511</guid>
-            <pubDate>Tue, 28 Jul 2026 20:56:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/narayangonj-south-africa-dead-280726-01-1785247332.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Russia offers ‘cheaper’ urea]]></title>
-            <description><![CDATA[[Business] Russia offers ‘cheaper’ urea]]></description>
-            <link>https://bdnews24.com/business/ed571db093ba</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/ed571db093ba</guid>
-            <pubDate>Tue, 28 Jul 2026 20:03:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/khandkar-abdul-muktadir-280726-01-1785244993.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Meta ignored teen harm research: Tennessee]]></title>
-            <description><![CDATA[[Technology] Meta ignored teen harm research: Tennessee]]></description>
-            <link>https://bdnews24.com/technology/857d9cb814d2</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/857d9cb814d2</guid>
-            <pubDate>Tue, 28 Jul 2026 20:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/meta-instagram-280726-01-1785247172.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India still chasing World Cup dream]]></title>
-            <description><![CDATA[[Sport] India still chasing World Cup dream]]></description>
-            <link>https://bdnews24.com/sport/648c134e2756</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/648c134e2756</guid>
-            <pubDate>Tue, 28 Jul 2026 19:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/india-wc280726-1785245591.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prof Selim Raihan joins TIB trustees]]></title>
-            <description><![CDATA[[People] Prof Selim Raihan joins TIB trustees]]></description>
-            <link>https://bdnews24.com/people/9169573cff14</link>
-            <guid isPermaLink="true">https://bdnews24.com/people/9169573cff14</guid>
-            <pubDate>Tue, 28 Jul 2026 19:28:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dr-selim-raihan-280726-1785244987.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[7,000 students killed on roads since 2019: study]]></title>
-            <description><![CDATA[[Bangladesh] 7,000 students killed on roads since 2019: study]]></description>
-            <link>https://bdnews24.com/bangladesh/86b9fb4b2503</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/86b9fb4b2503</guid>
-            <pubDate>Tue, 28 Jul 2026 19:26:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dhaka-mawa-expressway-accident-280726-10-1785243543.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
