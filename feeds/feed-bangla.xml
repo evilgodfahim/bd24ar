@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ]]></title>
+        <description><![CDATA[bangla.bdnews24.com আর্কাইভ থেকে সর্বশেষ সংবাদ]]></description>
         <link>https://bangla.bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 10:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 12:53:16 GMT</lastBuildDate>
         <atom:link href="https://bangla.bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 10:25:39 GMT</pubDate>
+        <pubDate>Wed, 29 Jul 2026 12:53:16 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
-            <link>https://bangla.bdnews24.com</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com</guid>
-            <pubDate>Wed, 29 Jul 2026 10:25:39 GMT</pubDate>
+            <title><![CDATA[আবার গ্রেপ্তার লতিফ সিদ্দিকী]]></title>
+            <description><![CDATA[[রাজনীতি] আবার গ্রেপ্তার লতিফ সিদ্দিকী]]></description>
+            <link>https://bangla.bdnews24.com/politics/056c71d9c161</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/politics/056c71d9c161</guid>
+            <pubDate>Wed, 29 Jul 2026 12:53:16 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/latif-siddique-290726-01-1785329561.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[হাজার কাঁটাতার পেরিয়ে ভালবাসা তোমার কাছে আসে]]></title>
+            <description><![CDATA[[মতামত] হাজার কাঁটাতার পেরিয়ে ভালবাসা তোমার কাছে আসে]]></description>
+            <link>https://bangla.bdnews24.com/opinion/96c1d77fc658</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/opinion/96c1d77fc658</guid>
+            <pubDate>Wed, 29 Jul 2026 12:53:16 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/kazol-tarun-1785329200.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[আদাবরে বাদশা হত্যা: ‘অস্ত্র জুগিয়েছিলেন’ বহিষ্কৃত বিএনপি নেতা লেদু, দাবি র‌্যাবের]]></title>
+            <description><![CDATA[[বাংলাদেশ] আদাবরে বাদশা হত্যা: ‘অস্ত্র জুগিয়েছিলেন’ বহিষ্কৃত বিএনপি নেতা লেদু, দাবি র‌্যাবের]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/14635c753a50</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/14635c753a50</guid>
+            <pubDate>Wed, 29 Jul 2026 12:53:16 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/abul-bashar-badsha-death-010726-1782934888.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[রংপুরে সড়কের পাশে আবর্জনার স্তূপ, পথচারীদের ভোগান্তি]]></title>
+            <description><![CDATA[[ভিডিও(হ্যালো)] রংপুরে সড়কের পাশে আবর্জনার স্তূপ, পথচারীদের ভোগান্তি]]></description>
+            <link>https://bangla.bdnews24.com/hello/hello-video/ff5399349849</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/hello/hello-video/ff5399349849</guid>
+            <pubDate>Wed, 29 Jul 2026 12:53:16 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ws-rangpur-garbage-pile-thum-1785329184.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[গেয়র্গ ট্রাকল: ঈশ্বর তাঁর শান্ত মুখ থেকে নিয়ে নিয়েছেন বিলাপ]]></title>
+            <description><![CDATA[[আর্টস] গেয়র্গ ট্রাকল: ঈশ্বর তাঁর শান্ত মুখ থেকে নিয়ে নিয়েছেন বিলাপ]]></description>
+            <link>https://bangla.bdnews24.com/arts/ae09d5927e6d</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/arts/ae09d5927e6d</guid>
+            <pubDate>Wed, 29 Jul 2026 12:53:16 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/trakl-pic-1785329422.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[পাকিস্তানের বিপক্ষে হেরে রানার্সআপ বাংলাদেশ]]></title>
+            <description><![CDATA[[খেলা] পাকিস্তানের বিপক্ষে হেরে রানার্সআপ বাংলাদেশ]]></description>
+            <link>https://bangla.bdnews24.com/sport/981c0cbfbc5b</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/981c0cbfbc5b</guid>
+            <pubDate>Wed, 29 Jul 2026 12:53:16 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/vollyball-290726-01-1785328918.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[এমন কোনো সমস্যা নেই, যেটা সমাধান করা যায় না: ভারতীয় দূত]]></title>
+            <description><![CDATA[[বাংলাদেশ] এমন কোনো সমস্যা নেই, যেটা সমাধান করা যায় না: ভারতীয় দূত]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/7030b06163ab</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/7030b06163ab</guid>
+            <pubDate>Wed, 29 Jul 2026 12:53:16 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dinesh-trivedi-290726-01-1785328763.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[পুরান ঢাকার সড়কে এখনও চলে ঘোড়ার গাড়ি]]></title>
+            <description><![CDATA[[ভিডিও(হ্যালো)] পুরান ঢাকার সড়কে এখনও চলে ঘোড়ার গাড়ি]]></description>
+            <link>https://bangla.bdnews24.com/hello/hello-video/7bf3feddbf86</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/hello/hello-video/7bf3feddbf86</guid>
+            <pubDate>Wed, 29 Jul 2026 12:53:16 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ws-old-dhaka-tom-tom-thum-1785328316.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘কওমি মাদ্রাসা পর্যবেক্ষণ সেল’ করেছে হাইআতুল উলয়া]]></title>
+            <description><![CDATA[[বাংলাদেশ] ‘কওমি মাদ্রাসা পর্যবেক্ষণ সেল’ করেছে হাইআতুল উলয়া]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/1c225fd65cd7</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/1c225fd65cd7</guid>
+            <pubDate>Wed, 29 Jul 2026 12:53:16 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/al-hyatul-uloya-29072026-1785328125.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[হবিগঞ্জে ঢোকার মুখে ফের পুলিশি বাধায় এনসিপি নেতারা]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] হবিগঞ্জে ঢোকার মুখে ফের পুলিশি বাধায় এনসিপি নেতারা]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/48f17e058659</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/48f17e058659</guid>
+            <pubDate>Wed, 29 Jul 2026 12:53:16 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/hobigonj-police-ncp-290726-01-1785327967.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[নতুন ব্রাজিল দল গঠনের কাজ শুরু আনচেলত্তির]]></title>
+            <description><![CDATA[[খেলা] নতুন ব্রাজিল দল গঠনের কাজ শুরু আনচেলত্তির]]></description>
+            <link>https://bangla.bdnews24.com/sport/84182c8daacf</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/84182c8daacf</guid>
+            <pubDate>Wed, 29 Jul 2026 12:53:16 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ancelotti-290726-01-1785327843.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘ভারতে যাওয়ার চেষ্টায়’ ছিলেন ডেভিড ইমন, বলছে পুলিশ]]></title>
+            <description><![CDATA[[চট্টগ্রাম] ‘ভারতে যাওয়ার চেষ্টায়’ ছিলেন ডেভিড ইমন, বলছে পুলিশ]]></description>
+            <link>https://bangla.bdnews24.com/ctg/76c56ae9f3c8</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/ctg/76c56ae9f3c8</guid>
+            <pubDate>Wed, 29 Jul 2026 12:53:16 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/devid-emon-arrest-290726-101-1785327289.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[নওগাঁয় বিলে মাছ ধরতে গিয়ে বিদ্যুৎস্পৃষ্টে দুই যুবক নিহত]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] নওগাঁয় বিলে মাছ ধরতে গিয়ে বিদ্যুৎস্পৃষ্টে দুই যুবক নিহত]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/7d8ad735a654</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/7d8ad735a654</guid>
+            <pubDate>Wed, 29 Jul 2026 12:53:16 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/naogoan-porsa-thana-290726-01-1785327017.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ভিপির বক্তব্যের প্রতিবাদে রাকসুর সংবাদ বয়কটের ঘোষণা রাবি সাংবাদিকদের]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] ভিপির বক্তব্যের প্রতিবাদে রাকসুর সংবাদ বয়কটের ঘোষণা রাবি সাংবাদিকদের]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/6e21c8c4844b</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/6e21c8c4844b</guid>
+            <pubDate>Wed, 29 Jul 2026 12:53:16 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ru-clash-raksu-280726-03-1785248232.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[চীনা হিউম্যানয়েড রোবট আমদানিতে ট্রাম্প প্রশাসনের নিষেধাজ্ঞা]]></title>
+            <description><![CDATA[[টেক] চীনা হিউম্যানয়েড রোবট আমদানিতে ট্রাম্প প্রশাসনের নিষেধাজ্ঞা]]></description>
+            <link>https://bangla.bdnews24.com/tech/4f86b0e9c2af</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tech/4f86b0e9c2af</guid>
+            <pubDate>Wed, 29 Jul 2026 12:53:16 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/chinese-humanoid-reuters-290726-01-1785326665.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘ব্রাজিল দলে আমার যাত্রা শেষ হয়েছে’]]></title>
+            <description><![CDATA[[খেলা] ‘ব্রাজিল দলে আমার যাত্রা শেষ হয়েছে’]]></description>
+            <link>https://bangla.bdnews24.com/sport/d5d219756add</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/d5d219756add</guid>
+            <pubDate>Wed, 29 Jul 2026 12:53:16 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/neymar-290726-01-1785326690.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[চিকিৎসাসেবায় ফিরেছে আদ-দ্বীন হাসপাতাল]]></title>
+            <description><![CDATA[[ছবি] চিকিৎসাসেবায় ফিরেছে আদ-দ্বীন হাসপাতাল]]></description>
+            <link>https://bangla.bdnews24.com/media_bn/image/bf3947edf9a0</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/media_bn/image/bf3947edf9a0</guid>
+            <pubDate>Wed, 29 Jul 2026 12:53:16 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ad-din-hospital-290726-16-1785326375.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[নিজের সমালোচক সত্তাকে নিয়ন্ত্রণের পন্থা]]></title>
+            <description><![CDATA[[জেনে রাখুন] নিজের সমালোচক সত্তাকে নিয়ন্ত্রণের পন্থা]]></description>
+            <link>https://bangla.bdnews24.com/lifestyle/Jenerakun/5d9c8fc3230e</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/lifestyle/Jenerakun/5d9c8fc3230e</guid>
+            <pubDate>Wed, 29 Jul 2026 12:53:16 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/happy-enjoy-290726-1785326261.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ডেঙ্গুতে আরো ৩ মৃত্যু, হাসপাতালে ভর্তি ৫৩৪ জন]]></title>
+            <description><![CDATA[[স্বাস্থ্য] ডেঙ্গুতে আরো ৩ মৃত্যু, হাসপাতালে ভর্তি ৫৩৪ জন]]></description>
+            <link>https://bangla.bdnews24.com/health/9793381281bf</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/health/9793381281bf</guid>
+            <pubDate>Wed, 29 Jul 2026 12:53:16 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dengue-patient-shaheed-suhrawardy-medical-college270723-25-1783598154.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ময়মনসিংহে বিদ্যুৎস্পৃষ্ট হয়ে ভবনের ছাদ থেকে পড়ে ২ শ্রমিকের মৃত্যু]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] ময়মনসিংহে বিদ্যুৎস্পৃষ্ট হয়ে ভবনের ছাদ থেকে পড়ে ২ শ্রমিকের মৃত্যু]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/13241f28887f</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/13241f28887f</guid>
+            <pubDate>Wed, 29 Jul 2026 12:53:16 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/mymensingh-death-290726-01-1785326268.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

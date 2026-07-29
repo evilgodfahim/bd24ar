@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – Latest News]]></title>
+        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 10:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 12:53:11 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 10:25:39 GMT</pubDate>
+        <pubDate>Wed, 29 Jul 2026 12:53:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
-            <link>https://bdnews24.com</link>
-            <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Wed, 29 Jul 2026 10:25:39 GMT</pubDate>
+            <title><![CDATA[‘Top criminal’ Emon held while ‘fleeing to India’]]></title>
+            <description><![CDATA[[Bangladesh] ‘Top criminal’ Emon held while ‘fleeing to India’]]></description>
+            <link>https://bdnews24.com/bangladesh/4aeca8d71525</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4aeca8d71525</guid>
+            <pubDate>Wed, 29 Jul 2026 18:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/devid-emon-arrest-290726-101-1785327289.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[HSC biology exam sparks fresh 'errors' row]]></title>
+            <description><![CDATA[[Education] HSC biology exam sparks fresh 'errors' row]]></description>
+            <link>https://bdnews24.com/education/73a63c9e16ac</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/73a63c9e16ac</guid>
+            <pubDate>Wed, 29 Jul 2026 18:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/hsc-biology-question-290726-02-1785325119.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mutual understanding key to Teesta deal: envoy]]></title>
+            <description><![CDATA[[Bangladesh] Mutual understanding key to Teesta deal: envoy]]></description>
+            <link>https://bdnews24.com/bangladesh/6c2eaaed110b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6c2eaaed110b</guid>
+            <pubDate>Wed, 29 Jul 2026 18:28:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/dinesh-trivedi-02-1785328081.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Daily Mail seeks $13mn as Prince Harry loses lawsuit]]></title>
+            <description><![CDATA[[Media] Daily Mail seeks $13mn as Prince Harry loses lawsuit]]></description>
+            <link>https://bdnews24.com/media-en/73d4a979307b</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/73d4a979307b</guid>
+            <pubDate>Wed, 29 Jul 2026 18:18:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/harry-lawsuit-290726-01-1785327474.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCP leaders continue trip to Habiganj]]></title>
+            <description><![CDATA[[Bangladesh] NCP leaders continue trip to Habiganj]]></description>
+            <link>https://bdnews24.com/bangladesh/a7cbe068a69b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a7cbe068a69b</guid>
+            <pubDate>Wed, 29 Jul 2026 17:46:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/moulovibaar-3-1785324843.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police block NCP leaders headed to Habiganj]]></title>
+            <description><![CDATA[[Bangladesh] Police block NCP leaders headed to Habiganj]]></description>
+            <link>https://bdnews24.com/bangladesh/200a0855b47a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/200a0855b47a</guid>
+            <pubDate>Wed, 29 Jul 2026 17:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/molovibazar-ncp-police-290726-01-1785321928.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sundarbans lose 62 tigers over two decades]]></title>
+            <description><![CDATA[[Wildlife] Sundarbans lose 62 tigers over two decades]]></description>
+            <link>https://bdnews24.com/wildlife/f7bd4c708cb7</link>
+            <guid isPermaLink="true">https://bdnews24.com/wildlife/f7bd4c708cb7</guid>
+            <pubDate>Wed, 29 Jul 2026 17:27:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bagerhat-tigher-270726-01-1785138418.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Have to sell abandoned medical equipment as scrap: minister]]></title>
+            <description><![CDATA[[Health] Have to sell abandoned medical equipment as scrap: minister]]></description>
+            <link>https://bdnews24.com/health/98080d291a7a</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/98080d291a7a</guid>
+            <pubDate>Wed, 29 Jul 2026 17:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sardar-sakhawat-hossen-290726-1785320406.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 more measles deaths, 79 new cases]]></title>
+            <description><![CDATA[[Health] 3 more measles deaths, 79 new cases]]></description>
+            <link>https://bdnews24.com/health/12fd6c7f7482</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/12fd6c7f7482</guid>
+            <pubDate>Wed, 29 Jul 2026 16:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026March/SM/measles-hospital-270326-02-1774640586.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Allow MPO-listed teachers to contest local polls: Jamaat]]></title>
+            <description><![CDATA[[Politics] Allow MPO-listed teachers to contest local polls: Jamaat]]></description>
+            <link>https://bdnews24.com/politics/7f1673ef48ca</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/7f1673ef48ca</guid>
+            <pubDate>Wed, 29 Jul 2026 16:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/jamaat-ec-meet-290726-01-1785317479.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Will ‘surrender’ if not arrested: Latif Siddique]]></title>
+            <description><![CDATA[[Bangladesh] Will ‘surrender’ if not arrested: Latif Siddique]]></description>
+            <link>https://bdnews24.com/bangladesh/d1dfb88e7d5b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d1dfb88e7d5b</guid>
+            <pubDate>Wed, 29 Jul 2026 15:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/latif-siddique-290726-01-1785311645.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ctg ‘criminal’ David Emon arrested in Jashore]]></title>
+            <description><![CDATA[[Bangladesh] Ctg ‘criminal’ David Emon arrested in Jashore]]></description>
+            <link>https://bdnews24.com/bangladesh/36001821fcfd</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/36001821fcfd</guid>
+            <pubDate>Wed, 29 Jul 2026 15:27:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/devid-emon-290726-01-1785315774.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Asian stock rout deepens as AI worries grip markets]]></title>
+            <description><![CDATA[[Business] Asian stock rout deepens as AI worries grip markets]]></description>
+            <link>https://bdnews24.com/business/7efabafc32a1</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/7efabafc32a1</guid>
+            <pubDate>Wed, 29 Jul 2026 14:54:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/asia-stocks-290726-01-1785315196.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japan earthquake toll hits 13]]></title>
+            <description><![CDATA[[Asia Pacific] Japan earthquake toll hits 13]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/535aa74213bd</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/535aa74213bd</guid>
+            <pubDate>Wed, 29 Jul 2026 14:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/japan-quake-toll-290726-01-1785312639.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fire crews keep France blazes under control, heatwave picks up]]></title>
+            <description><![CDATA[[Europe] Fire crews keep France blazes under control, heatwave picks up]]></description>
+            <link>https://bdnews24.com/world/europe/1293580b2b23</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/1293580b2b23</guid>
+            <pubDate>Wed, 29 Jul 2026 14:02:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/france-fire-290726-01-1785312083.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ICT not upholding international legal standards: HRW]]></title>
+            <description><![CDATA[[Bangladesh] ICT not upholding international legal standards: HRW]]></description>
+            <link>https://bdnews24.com/bangladesh/76bf3828f822</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/76bf3828f822</guid>
+            <pubDate>Wed, 29 Jul 2026 13:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025December/SM/international-crimes-tribunal-111125-002-1765101831.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jamaat meets EC]]></title>
+            <description><![CDATA[[Bangladesh] Jamaat meets EC]]></description>
+            <link>https://bdnews24.com/bangladesh/c9b5ecc8175b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c9b5ecc8175b</guid>
+            <pubDate>Wed, 29 Jul 2026 13:33:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ec-jamat-meeting-290726-01-1785307540.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[Beauty Rani expresses gratitude for support]]></title>
+            <description><![CDATA[[Bangladesh] Beauty Rani expresses gratitude for support]]></description>
+            <link>https://bdnews24.com/bangladesh/c84054a3d962</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c84054a3d962</guid>
+            <pubDate>Wed, 29 Jul 2026 13:09:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/syhlet-beauty-pau-290726-01-1785302277.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rain forecast in three divisions]]></title>
+            <description><![CDATA[[Bangladesh] Rain forecast in three divisions]]></description>
+            <link>https://bdnews24.com/bangladesh/cf9126d6d7cd</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cf9126d6d7cd</guid>
+            <pubDate>Wed, 29 Jul 2026 12:44:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/chattogram-arakan-road-moulavi-pukur-par-070726-01-1783412538.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Report on Ziaur Rahman’s assassination comes to light]]></title>
+            <description><![CDATA[[Bangladesh] Report on Ziaur Rahman’s assassination comes to light]]></description>
+            <link>https://bdnews24.com/bangladesh/66835b9eaa52</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/66835b9eaa52</guid>
+            <pubDate>Wed, 29 Jul 2026 12:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/zia-murder-180726-02-1784317213.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
