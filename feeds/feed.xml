@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 20:05:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 21:44:29 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 20:05:39 GMT</pubDate>
+        <pubDate>Wed, 29 Jul 2026 21:44:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[GPH Ispat fined Tk 50mn for hiding info in court filing]]></title>
+            <description><![CDATA[[Business] GPH Ispat fined Tk 50mn for hiding info in court filing]]></description>
+            <link>https://bdnews24.com/business/909d0c53688d</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/909d0c53688d</guid>
+            <pubDate>Thu, 30 Jul 2026 03:09:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/gph-ispat-290726-1785355187.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Deadly clashes mar Pakistan-administered Kashmir vote]]></title>
+            <description><![CDATA[[South-East Asia] Deadly clashes mar Pakistan-administered Kashmir vote]]></description>
+            <link>https://bdnews24.com/world/south-east-asia/510d10b99460</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/south-east-asia/510d10b99460</guid>
+            <pubDate>Thu, 30 Jul 2026 02:19:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/kashmir-vote-300726-01-1785356267.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Chased job overseas, returned as fugitives]]></title>
             <description><![CDATA[[Bangladesh] Chased job overseas, returned as fugitives]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/media-en/image/6008e8d9d788</guid>
             <pubDate>Wed, 29 Jul 2026 20:24:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/islamic-bank-290726-29-1785323886.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt to form earthquake taskforce]]></title>
-            <description><![CDATA[[Bangladesh] Govt to form earthquake taskforce]]></description>
-            <link>https://bdnews24.com/bangladesh/382046d0f1bc</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/382046d0f1bc</guid>
-            <pubDate>Wed, 29 Jul 2026 20:22:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/tareque-rahman-290726-01-1785333004.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Neymar doubles down on Brazil retirement]]></title>
-            <description><![CDATA[[Sport] Neymar doubles down on Brazil retirement]]></description>
-            <link>https://bdnews24.com/sport/5faf9bb802c9</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/5faf9bb802c9</guid>
-            <pubDate>Wed, 29 Jul 2026 19:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/brazil-neymar-290726-01-1785332155.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
