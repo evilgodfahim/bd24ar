@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 15:02:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 17:01:06 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 15:02:01 GMT</pubDate>
+        <pubDate>Wed, 29 Jul 2026 17:01:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[OpenAI rogue agent hits second firm's customer]]></title>
+            <description><![CDATA[[Technology] OpenAI rogue agent hits second firm's customer]]></description>
+            <link>https://bdnews24.com/technology/012f82d091cc</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/012f82d091cc</guid>
+            <pubDate>Wed, 29 Jul 2026 22:24:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/openai-breach-290726-01-1785342201.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BUFT pays tribute to late garment leader Rakib]]></title>
+            <description><![CDATA[[Campus] BUFT pays tribute to late garment leader Rakib]]></description>
+            <link>https://bdnews24.com/campus/852280d5294f</link>
+            <guid isPermaLink="true">https://bdnews24.com/campus/852280d5294f</guid>
+            <pubDate>Wed, 29 Jul 2026 21:44:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/01-1785339836.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ad-din Hospital back in service]]></title>
+            <description><![CDATA[[Image] Ad-din Hospital back in service]]></description>
+            <link>https://bdnews24.com/media-en/image/cc9ba5bea562</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/cc9ba5bea562</guid>
+            <pubDate>Wed, 29 Jul 2026 21:21:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ad-din-hospital-290726-16-1785326375.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BB opens door to PayPal, Payoneer]]></title>
+            <description><![CDATA[[Business] BB opens door to PayPal, Payoneer]]></description>
+            <link>https://bdnews24.com/business/b3fe8beb6c7f</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/b3fe8beb6c7f</guid>
+            <pubDate>Wed, 29 Jul 2026 21:14:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/untitled-3-1785335992.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inside Japan’s shopping mall disaster]]></title>
+            <description><![CDATA[[Asia Pacific] Inside Japan’s shopping mall disaster]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/fdf1334eb348</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/fdf1334eb348</guid>
+            <pubDate>Wed, 29 Jul 2026 21:05:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/japan-quake-290726-01-1785337452.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Litton to lead Tigers in ODIs]]></title>
             <description><![CDATA[[Cricket] Litton to lead Tigers in ODIs]]></description>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/200a0855b47a</guid>
             <pubDate>Wed, 29 Jul 2026 17:30:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/molovibazar-ncp-police-290726-01-1785321928.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sundarbans lose 62 tigers over two decades]]></title>
-            <description><![CDATA[[Wildlife] Sundarbans lose 62 tigers over two decades]]></description>
-            <link>https://bdnews24.com/wildlife/f7bd4c708cb7</link>
-            <guid isPermaLink="true">https://bdnews24.com/wildlife/f7bd4c708cb7</guid>
-            <pubDate>Wed, 29 Jul 2026 17:27:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bagerhat-tigher-270726-01-1785138418.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Have to sell abandoned medical equipment as scrap: minister]]></title>
-            <description><![CDATA[[Health] Have to sell abandoned medical equipment as scrap: minister]]></description>
-            <link>https://bdnews24.com/health/98080d291a7a</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/98080d291a7a</guid>
-            <pubDate>Wed, 29 Jul 2026 17:07:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sardar-sakhawat-hossen-290726-1785320406.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 more measles deaths, 79 new cases]]></title>
-            <description><![CDATA[[Health] 3 more measles deaths, 79 new cases]]></description>
-            <link>https://bdnews24.com/health/12fd6c7f7482</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/12fd6c7f7482</guid>
-            <pubDate>Wed, 29 Jul 2026 16:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026March/SM/measles-hospital-270326-02-1774640586.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Allow MPO-listed teachers to contest local polls: Jamaat]]></title>
-            <description><![CDATA[[Politics] Allow MPO-listed teachers to contest local polls: Jamaat]]></description>
-            <link>https://bdnews24.com/politics/7f1673ef48ca</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/7f1673ef48ca</guid>
-            <pubDate>Wed, 29 Jul 2026 16:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/jamaat-ec-meet-290726-01-1785317479.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Will ‘surrender’ if not arrested: Latif Siddique]]></title>
-            <description><![CDATA[[Bangladesh] Will ‘surrender’ if not arrested: Latif Siddique]]></description>
-            <link>https://bdnews24.com/bangladesh/d1dfb88e7d5b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d1dfb88e7d5b</guid>
-            <pubDate>Wed, 29 Jul 2026 15:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/latif-siddique-290726-01-1785311645.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
