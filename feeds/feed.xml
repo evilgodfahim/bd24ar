@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 17:01:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 18:48:33 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 17:01:06 GMT</pubDate>
+        <pubDate>Wed, 29 Jul 2026 18:48:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[UAE visa cancellations alarm workers]]></title>
+            <description><![CDATA[[Diaspora] UAE visa cancellations alarm workers]]></description>
+            <link>https://bdnews24.com/diaspora/ddd448050049</link>
+            <guid isPermaLink="true">https://bdnews24.com/diaspora/ddd448050049</guid>
+            <pubDate>Thu, 30 Jul 2026 00:42:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026January/SM/biman-dreamliner-787-030921-001-1767806977.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump seeks to overturn $83mn Carroll verdict]]></title>
+            <description><![CDATA[[Americas] Trump seeks to overturn $83mn Carroll verdict]]></description>
+            <link>https://bdnews24.com/world/americas/55a295514b82</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/55a295514b82</guid>
+            <pubDate>Thu, 30 Jul 2026 00:25:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/caroll-trump-290726-01-1785349441.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police block NCP leaders from entering Habiganj]]></title>
+            <description><![CDATA[Police block NCP leaders from entering Habiganj]]></description>
+            <link>https://bdnews24.com//0fecea5dcb05</link>
+            <guid isPermaLink="true">https://bdnews24.com//0fecea5dcb05</guid>
+            <pubDate>Wed, 29 Jul 2026 23:46:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/hobigonj-ncp-back-290726-01-1785341468.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[OpenAI rogue agent hits second firm's customer]]></title>
             <description><![CDATA[[Technology] OpenAI rogue agent hits second firm's customer]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/6c2eaaed110b</guid>
             <pubDate>Wed, 29 Jul 2026 18:28:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/dinesh-trivedi-02-1785328081.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Daily Mail seeks $13mn as Prince Harry loses lawsuit]]></title>
-            <description><![CDATA[[Media] Daily Mail seeks $13mn as Prince Harry loses lawsuit]]></description>
-            <link>https://bdnews24.com/media-en/73d4a979307b</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/73d4a979307b</guid>
-            <pubDate>Wed, 29 Jul 2026 18:18:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/harry-lawsuit-290726-01-1785327474.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCP leaders continue trip to Habiganj]]></title>
-            <description><![CDATA[[Bangladesh] NCP leaders continue trip to Habiganj]]></description>
-            <link>https://bdnews24.com/bangladesh/a7cbe068a69b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a7cbe068a69b</guid>
-            <pubDate>Wed, 29 Jul 2026 17:46:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/moulovibaar-3-1785324843.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Police block NCP leaders headed to Habiganj]]></title>
-            <description><![CDATA[[Bangladesh] Police block NCP leaders headed to Habiganj]]></description>
-            <link>https://bdnews24.com/bangladesh/200a0855b47a</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/200a0855b47a</guid>
-            <pubDate>Wed, 29 Jul 2026 17:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/molovibazar-ncp-police-290726-01-1785321928.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

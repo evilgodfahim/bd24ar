@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ]]></title>
-        <description><![CDATA[bangla.bdnews24.com আর্কাইভ থেকে সর্বশেষ সংবাদ]]></description>
+        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bangla.bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 17:01:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 18:49:20 GMT</lastBuildDate>
         <atom:link href="https://bangla.bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 17:01:06 GMT</pubDate>
+        <pubDate>Wed, 29 Jul 2026 18:49:20 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[বরিশাল সিভিল সার্জনকে অপসারণে ২৪ ঘণ্টার ‘আল্টিমেটাম’]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] বরিশাল সিভিল সার্জনকে অপসারণে ২৪ ঘণ্টার ‘আল্টিমেটাম’]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/9078fca9cb16</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/9078fca9cb16</guid>
-            <pubDate>Wed, 29 Jul 2026 17:01:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/barishal-press-290726-01-1785344045.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[অনুমোদন পেল তামিমের স্বপ্নের এক্সিলেন্স সেন্টার, কাজ শুরু ‘শিগগিরই’]]></title>
-            <description><![CDATA[[ক্রিকেট] অনুমোদন পেল তামিমের স্বপ্নের এক্সিলেন্স সেন্টার, কাজ শুরু ‘শিগগিরই’]]></description>
-            <link>https://bangla.bdnews24.com/cricket/1b79f6300c29</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/cricket/1b79f6300c29</guid>
-            <pubDate>Wed, 29 Jul 2026 17:01:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/tamim-bcb-290726-1785343843.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[রাশিয়া ও ইরানের ওপর কঠোর নিষেধাজ্ঞার বিল মার্কিন সেনেটে পাস]]></title>
-            <description><![CDATA[[বিশ্ব] রাশিয়া ও ইরানের ওপর কঠোর নিষেধাজ্ঞার বিল মার্কিন সেনেটে পাস]]></description>
-            <link>https://bangla.bdnews24.com/world/05a3815fcf55</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/world/05a3815fcf55</guid>
-            <pubDate>Wed, 29 Jul 2026 17:01:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/lindsey-graham-us-290726-01-1785342448.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[পুলিশি বাধায় হবিগঞ্জে ঢুকতে পারলেন না এনসিপি নেতারা, মামলা দিয়ে গেলেন মৌলভীবাজারে]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] পুলিশি বাধায় হবিগঞ্জে ঢুকতে পারলেন না এনসিপি নেতারা, মামলা দিয়ে গেলেন মৌলভীবাজারে]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/7e7e554535e6</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/7e7e554535e6</guid>
-            <pubDate>Wed, 29 Jul 2026 17:01:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/hobigonj-ncp-back-290726-01-1785341468.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘কিছু ব্যাপার আছে, যা আমার নিয়ন্ত্রণের বাইরে’, ভারতের সফর নিয়ে তামিম]]></title>
-            <description><![CDATA[[ক্রিকেট] ‘কিছু ব্যাপার আছে, যা আমার নিয়ন্ত্রণের বাইরে’, ভারতের সফর নিয়ে তামিম]]></description>
-            <link>https://bangla.bdnews24.com/cricket/b40f59596071</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/cricket/b40f59596071</guid>
-            <pubDate>Wed, 29 Jul 2026 17:01:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/tamim-iqbal-bangladesh-290726-1785341359.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘নগদ’ থেকে সাড়ে ১৮ কোটি টাকার রাজস্ব পেল ডাক বিভাগ]]></title>
-            <description><![CDATA[[টিউব] ‘নগদ’ থেকে সাড়ে ১৮ কোটি টাকার রাজস্ব পেল ডাক বিভাগ]]></description>
-            <link>https://bangla.bdnews24.com/tube/b1393457337e</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/b1393457337e</guid>
-            <pubDate>Wed, 29 Jul 2026 17:01:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/nagad-revenue-sharing-thumb-1785341202.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[পঞ্চগড়ে বন্ধুদের সঙ্গে করতোয়ায় গোসল নেমে কিশোরের মৃত্যু]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] পঞ্চগড়ে বন্ধুদের সঙ্গে করতোয়ায় গোসল নেমে কিশোরের মৃত্যু]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/9d7217219b8c</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/9d7217219b8c</guid>
-            <pubDate>Wed, 29 Jul 2026 17:01:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/panchagar-river-290726-01-1785340565.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[বিশ্বকাপ জয়ের পর চ্যাম্পিয়ন্স লিগে চোখ গার্সিয়ার]]></title>
-            <description><![CDATA[[খেলা] বিশ্বকাপ জয়ের পর চ্যাম্পিয়ন্স লিগে চোখ গার্সিয়ার]]></description>
-            <link>https://bangla.bdnews24.com/sport/573e44c9aa05</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/573e44c9aa05</guid>
-            <pubDate>Wed, 29 Jul 2026 17:01:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/joan-garcia-290726-01-1785340245.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[মার্কিন সেনাদের মোবাইল ভিডিও নিয়ে সতর্কবার্তা, ফোন জমা নিতে পারে যুক্তরাষ্ট্র]]></title>
-            <description><![CDATA[[বিশ্ব] মার্কিন সেনাদের মোবাইল ভিডিও নিয়ে সতর্কবার্তা, ফোন জমা নিতে পারে যুক্তরাষ্ট্র]]></description>
-            <link>https://bangla.bdnews24.com/world/68a3f8998d41</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/world/68a3f8998d41</guid>
-            <pubDate>Wed, 29 Jul 2026 17:01:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/brad-cooper-290726-01-1785340144.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ছক্কা মেরেই থেমে গেলেন পারভেজ]]></title>
-            <description><![CDATA[[ক্রিকেট] ছক্কা মেরেই থেমে গেলেন পারভেজ]]></description>
-            <link>https://bangla.bdnews24.com/cricket/23f2975ca07e</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/cricket/23f2975ca07e</guid>
-            <pubDate>Wed, 29 Jul 2026 17:01:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/parvez-hossain-290726-01-1785340096.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[হবিগঞ্জে হামলার প্রতিবাদে নড়াইলে এনসিপির মশাল মিছিল]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] হবিগঞ্জে হামলার প্রতিবাদে নড়াইলে এনসিপির মশাল মিছিল]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/0f9f5bd026b6</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/0f9f5bd026b6</guid>
-            <pubDate>Wed, 29 Jul 2026 17:01:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/narail-ncp-michil-290726-01-1785339888.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[১৫ লাখ টন পরিশোধিত জ্বালানি তেল কিনবে সরকার]]></title>
-            <description><![CDATA[[বাণিজ্য] ১৫ লাখ টন পরিশোধিত জ্বালানি তেল কিনবে সরকার]]></description>
-            <link>https://bangla.bdnews24.com/business/9d6369d2a09e</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/business/9d6369d2a09e</guid>
-            <pubDate>Wed, 29 Jul 2026 17:01:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025August/SM/bpc-fatullah-depot-180825-029-1755531877.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[মানিকগঞ্জে ৩ ক্লিনিক-ডায়াগনস্টিক সেন্টারকে জরিমানা, দুটি সিলগালা]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] মানিকগঞ্জে ৩ ক্লিনিক-ডায়াগনস্টিক সেন্টারকে জরিমানা, দুটি সিলগালা]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/9bf2add359b4</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/9bf2add359b4</guid>
-            <pubDate>Wed, 29 Jul 2026 17:01:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/manikganj-fine-290726-01-1785339211.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[মিরপুরে এক বছর আগে শিশু ধর্ষণের ঘটনায় একজনের যাবজ্জীবন]]></title>
-            <description><![CDATA[[বাংলাদেশ] মিরপুরে এক বছর আগে শিশু ধর্ষণের ঘটনায় একজনের যাবজ্জীবন]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/7d0aade813e6</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/7d0aade813e6</guid>
-            <pubDate>Wed, 29 Jul 2026 17:01:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/mirpur-child-rapist-osman-khan-290726-01-1785338930.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘শিক্ষার্থীদের দাবির মধ্যে’ পদত্যাগ করলেন জাবি প্রক্টর]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] ‘শিক্ষার্থীদের দাবির মধ্যে’ পদত্যাগ করলেন জাবি প্রক্টর]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/77cb9d2a9f69</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/77cb9d2a9f69</guid>
-            <pubDate>Wed, 29 Jul 2026 17:01:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ju-proctor-resign-290726-01-1785338859.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[বাঘের জন্য সুন্দরবন নিরাপদ করতে ১০ সদস্যের কমিশন]]></title>
-            <description><![CDATA[[বাংলাদেশ] বাঘের জন্য সুন্দরবন নিরাপদ করতে ১০ সদস্যের কমিশন]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/833bdd8dc44b</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/833bdd8dc44b</guid>
-            <pubDate>Wed, 29 Jul 2026 17:01:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/abdul-awal-mintu-290726-01-1785338566.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[স্কুলের মিড ডে মিলের রুটিতে ব্লেড: তদন্তে এল ভিন্ন তথ্য]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] স্কুলের মিড ডে মিলের রুটিতে ব্লেড: তদন্তে এল ভিন্ন তথ্য]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/cbe086e922da</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/cbe086e922da</guid>
-            <pubDate>Wed, 29 Jul 2026 17:01:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/barishal-mid-day-meal-230726-1784809029.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[সরকার বা কেন্দ্রীয় ব্যাংকের বিরুদ্ধে মামলা থাকলে প্রণোদনা মিলবে না]]></title>
-            <description><![CDATA[[বাণিজ্য] সরকার বা কেন্দ্রীয় ব্যাংকের বিরুদ্ধে মামলা থাকলে প্রণোদনা মিলবে না]]></description>
-            <link>https://bangla.bdnews24.com/business/16d0d36d1083</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/business/16d0d36d1083</guid>
-            <pubDate>Wed, 29 Jul 2026 17:01:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025May/SM/bangladesh-bank-100-1746380731.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[মারামারির রাজনৈতিক সংস্কৃতি থেকে বেরিয়ে আসতে হবে: পার্থ]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] মারামারির রাজনৈতিক সংস্কৃতি থেকে বেরিয়ে আসতে হবে: পার্থ]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/d6f2a5698111</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/d6f2a5698111</guid>
-            <pubDate>Wed, 29 Jul 2026 17:01:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bhola-partho-290726-01-1785336920.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[আইপিসির বিশ্লেষণ: দেশে দেড় কোটির বেশি মানুষ তীব্র খাদ্য নিরাপত্তাহীনতায়]]></title>
-            <description><![CDATA[[অর্থনীতি] আইপিসির বিশ্লেষণ: দেশে দেড় কোটির বেশি মানুষ তীব্র খাদ্য নিরাপত্তাহীনতায়]]></description>
-            <link>https://bangla.bdnews24.com/economy/d535655740a0</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/economy/d535655740a0</guid>
-            <pubDate>Wed, 29 Jul 2026 17:01:06 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025February/SM/tcb-banasri-240225-015-1740403640.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
+            <link>https://bangla.bdnews24.com</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com</guid>
+            <pubDate>Wed, 29 Jul 2026 18:49:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
