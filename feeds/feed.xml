@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News]]></title>
-        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
+        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 01:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 04:56:08 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 01:19:02 GMT</pubDate>
+        <pubDate>Wed, 29 Jul 2026 04:56:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[West Indies stun Pakistan in first Test]]></title>
-            <description><![CDATA[[Sport] West Indies stun Pakistan in first Test]]></description>
-            <link>https://bdnews24.com/sport/abdbb6f471d4</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/abdbb6f471d4</guid>
-            <pubDate>Wed, 29 Jul 2026 01:56:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/greave-1785280825.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tiger, tiger... trouble still burns]]></title>
-            <description><![CDATA[[Bangladesh] Tiger, tiger... trouble still burns]]></description>
-            <link>https://bdnews24.com/bangladesh/e5b35b8bd8b1</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e5b35b8bd8b1</guid>
-            <pubDate>Wed, 29 Jul 2026 01:36:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025July/SM/bengal-tiger-sundarbans-140322-02-1753761531.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Monsoon songs enter classroom protest]]></title>
-            <description><![CDATA[[Bangladesh] Monsoon songs enter classroom protest]]></description>
-            <link>https://bdnews24.com/bangladesh/e66321d63675</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e66321d63675</guid>
-            <pubDate>Wed, 29 Jul 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sraboner-megh-song-280726-01-1785239465.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[China in touch with Houthis to allow ships through Red Sea]]></title>
-            <description><![CDATA[[World] China in touch with Houthis to allow ships through Red Sea]]></description>
-            <link>https://bdnews24.com/world/caa6df24e3ff</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/caa6df24e3ff</guid>
-            <pubDate>Wed, 29 Jul 2026 01:25:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/china-houthi-29072026-01-1785266630.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[DU sets up panel against July Uprising opposition]]></title>
-            <description><![CDATA[[Campus] DU sets up panel against July Uprising opposition]]></description>
-            <link>https://bdnews24.com/campus/bfc561da7f37</link>
-            <guid isPermaLink="true">https://bdnews24.com/campus/bfc561da7f37</guid>
-            <pubDate>Wed, 29 Jul 2026 01:14:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024December/SM/quota-protest-shaheed-minar-030824-005-1735554017.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran executes 2 more over January protests]]></title>
-            <description><![CDATA[[World] Iran executes 2 more over January protests]]></description>
-            <link>https://bdnews24.com/world/4f07ac601f58</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/4f07ac601f58</guid>
-            <pubDate>Wed, 29 Jul 2026 00:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/iran-execute-29072026-01-1785264725.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[14 killed in Nigeria's Benue: officials]]></title>
-            <description><![CDATA[[World] 14 killed in Nigeria's Benue: officials]]></description>
-            <link>https://bdnews24.com/world/bb2211f31001</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/bb2211f31001</guid>
-            <pubDate>Wed, 29 Jul 2026 00:50:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/benue-violence-29072026-01-1785264533.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UN refugee chief hopeful about Washington partnership]]></title>
-            <description><![CDATA[[World] UN refugee chief hopeful about Washington partnership]]></description>
-            <link>https://bdnews24.com/world/c22d29ca1ef9</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/c22d29ca1ef9</guid>
-            <pubDate>Wed, 29 Jul 2026 00:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/unhcr-us-29072026-01-1785263823.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wildfires cloud over French wine industry]]></title>
-            <description><![CDATA[[Lifestyle] Wildfires cloud over French wine industry]]></description>
-            <link>https://bdnews24.com/lifestyle/ece1e3e5301e</link>
-            <guid isPermaLink="true">https://bdnews24.com/lifestyle/ece1e3e5301e</guid>
-            <pubDate>Wed, 29 Jul 2026 00:27:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/french-wine-29072026-01-1785263142.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Double eclipse set to light up August]]></title>
-            <description><![CDATA[[Science] Double eclipse set to light up August]]></description>
-            <link>https://bdnews24.com/science/a87531d5e588</link>
-            <guid isPermaLink="true">https://bdnews24.com/science/a87531d5e588</guid>
-            <pubDate>Wed, 29 Jul 2026 00:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/eclipse-1785262193.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[RUCSU VP 'threatens' action against journalists over assault reports]]></title>
-            <description><![CDATA[[Bangladesh] RUCSU VP 'threatens' action against journalists over assault reports]]></description>
-            <link>https://bdnews24.com/bangladesh/b97683526b8f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b97683526b8f</guid>
-            <pubDate>Tue, 28 Jul 2026 23:31:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/rucsu-press-280726-01-1785256376.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[S&P cuts Bangladesh outlook to negative]]></title>
-            <description><![CDATA[[Economy] S&P cuts Bangladesh outlook to negative]]></description>
-            <link>https://bdnews24.com/economy/0d37f14cf9c8</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/0d37f14cf9c8</guid>
-            <pubDate>Tue, 28 Jul 2026 23:25:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sp-ratings-280726-1785256786.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[France, Spain contain huge blazes]]></title>
-            <description><![CDATA[[World] France, Spain contain huge blazes]]></description>
-            <link>https://bdnews24.com/world/bdc49ced18fb</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/bdc49ced18fb</guid>
-            <pubDate>Tue, 28 Jul 2026 23:16:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/france-spain-blazes-28072026-01-1785258922.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Inside Reza Pahlavi's faltering bid to lead Iran]]></title>
-            <description><![CDATA[[World] Inside Reza Pahlavi's faltering bid to lead Iran]]></description>
-            <link>https://bdnews24.com/world/ab1e90d2a23e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ab1e90d2a23e</guid>
-            <pubDate>Tue, 28 Jul 2026 23:07:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/reza-pahlavi-280726-01-1785258339.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[France’s first 'fire-cloud' explained]]></title>
-            <description><![CDATA[[Environment] France’s first 'fire-cloud' explained]]></description>
-            <link>https://bdnews24.com/environment/efa0411f27f6</link>
-            <guid isPermaLink="true">https://bdnews24.com/environment/efa0411f27f6</guid>
-            <pubDate>Tue, 28 Jul 2026 23:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/fire-cloud-28072026-01-1785258010.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump's irritation with Netanyahu highlights strains]]></title>
-            <description><![CDATA[[World] Trump's irritation with Netanyahu highlights strains]]></description>
-            <link>https://bdnews24.com/world/2edc5a1549fc</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/2edc5a1549fc</guid>
-            <pubDate>Tue, 28 Jul 2026 22:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/trump-netanyahu-wh-28072026-01-1785257395.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Zidane lands France job on deal to 2030]]></title>
-            <description><![CDATA[[Sport] Zidane lands France job on deal to 2030]]></description>
-            <link>https://bdnews24.com/sport/150fd3839a96</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/150fd3839a96</guid>
-            <pubDate>Tue, 28 Jul 2026 22:44:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/zinedine-zidane-280726-01-1785256985.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian youth crisis beyond the protests]]></title>
-            <description><![CDATA[[South Asia] Indian youth crisis beyond the protests]]></description>
-            <link>https://bdnews24.com/world/south-asia/efd6c430a48c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/south-asia/efd6c430a48c</guid>
-            <pubDate>Tue, 28 Jul 2026 22:17:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/india-youth-crisis-28072026-01-1785255315.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[City's Rodri undergoes back surgery]]></title>
-            <description><![CDATA[[Sport] City's Rodri undergoes back surgery]]></description>
-            <link>https://bdnews24.com/sport/e08f38ef59a5</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/e08f38ef59a5</guid>
-            <pubDate>Tue, 28 Jul 2026 22:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/rodri-surgery-280726-01-1785255181.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Consumers feel the price squeeze]]></title>
-            <description><![CDATA[[Image] Consumers feel the price squeeze]]></description>
-            <link>https://bdnews24.com/media-en/image/781c6adf7d39</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/781c6adf7d39</guid>
-            <pubDate>Tue, 28 Jul 2026 22:12:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/kawran-market-vegetable-fish-280726-67-1785246810.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
+            <link>https://bdnews24.com</link>
+            <guid isPermaLink="true">https://bdnews24.com</guid>
+            <pubDate>Wed, 29 Jul 2026 04:56:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
