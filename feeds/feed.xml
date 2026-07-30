@@ -4,10 +4,98 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Jul 2026 04:43:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 07:25:10 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Jul 2026 04:43:29 GMT</pubDate>
+        <pubDate>Thu, 30 Jul 2026 07:25:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[3 firefighters killed in Greece wildfires]]></title>
+            <description><![CDATA[[Europe] 3 firefighters killed in Greece wildfires]]></description>
+            <link>https://bdnews24.com/world/europe/74f14e796424</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/74f14e796424</guid>
+            <pubDate>Thu, 30 Jul 2026 13:20:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/wildfire-europe-300726-1785395972.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russia attacks Ukraine, 13 killed]]></title>
+            <description><![CDATA[[Europe] Russia attacks Ukraine, 13 killed]]></description>
+            <link>https://bdnews24.com/world/europe/ac4c2c2fdb0f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/ac4c2c2fdb0f</guid>
+            <pubDate>Thu, 30 Jul 2026 12:59:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/ukraine-attack-300726-1785394588.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Policy seminar reviews primary curriculum reform]]></title>
+            <description><![CDATA[[Education] Policy seminar reviews primary curriculum reform]]></description>
+            <link>https://bdnews24.com/education/2b032277668c</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/2b032277668c</guid>
+            <pubDate>Thu, 30 Jul 2026 12:38:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/plan-intl-bd-seminar-300726-01-1785393397.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM hands appointment letters to people with disabilities]]></title>
+            <description><![CDATA[[Bangladesh] PM hands appointment letters to people with disabilities]]></description>
+            <link>https://bdnews24.com/bangladesh/d15ec5fb7263</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d15ec5fb7263</guid>
+            <pubDate>Thu, 30 Jul 2026 12:29:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/tarique-rahman-300726-01-1785391888.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Habiganj lifts Section 144]]></title>
+            <description><![CDATA[[Bangladesh] Habiganj lifts Section 144]]></description>
+            <link>https://bdnews24.com/bangladesh/a0df161c785f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a0df161c785f</guid>
+            <pubDate>Thu, 30 Jul 2026 12:27:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/habiganj-144-290726-01-1785305526.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hundreds swim into Spain's Ceuta from Morocco: report]]></title>
+            <description><![CDATA[[Europe] Hundreds swim into Spain's Ceuta from Morocco: report]]></description>
+            <link>https://bdnews24.com/world/europe/046b8121c97b</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/046b8121c97b</guid>
+            <pubDate>Thu, 30 Jul 2026 12:01:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/spain-migrants-300726-1785391161.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Myanmar ready to take Rohingya refugees: Anwar Ibrahim]]></title>
+            <description><![CDATA[[South-East Asia] Myanmar ready to take Rohingya refugees: Anwar Ibrahim]]></description>
+            <link>https://bdnews24.com/world/south-east-asia/f503133a1681</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/south-east-asia/f503133a1681</guid>
+            <pubDate>Thu, 30 Jul 2026 11:54:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/rohingya-refugees-300726-01-1785390683.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[6 injured as BNP factions clash]]></title>
+            <description><![CDATA[[Bangladesh] 6 injured as BNP factions clash]]></description>
+            <link>https://bdnews24.com/bangladesh/7d1376ed3178</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7d1376ed3178</guid>
+            <pubDate>Thu, 30 Jul 2026 11:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/jamalpur-melandoho-thana-300726-01-1785384397.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japan quake death toll rises to 30]]></title>
+            <description><![CDATA[[Asia Pacific] Japan quake death toll rises to 30]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/7ae4b8430455</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/7ae4b8430455</guid>
+            <pubDate>Thu, 30 Jul 2026 11:23:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/japan-300726-1785388855.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oscar-winning musician Glen Hansard dies]]></title>
+            <description><![CDATA[[People] Oscar-winning musician Glen Hansard dies]]></description>
+            <link>https://bdnews24.com/people/05d92c584a2b</link>
+            <guid isPermaLink="true">https://bdnews24.com/people/05d92c584a2b</guid>
+            <pubDate>Thu, 30 Jul 2026 11:03:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/glen-hansard-300726-1785387742.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft shares rise]]></title>
+            <description><![CDATA[[Business] Microsoft shares rise]]></description>
+            <link>https://bdnews24.com/business/124a797db94d</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/124a797db94d</guid>
+            <pubDate>Thu, 30 Jul 2026 10:59:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/microsoft-logo-300726-01-1785387446.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Trump unveils $22bn Dulles airport overhaul]]></title>
             <description><![CDATA[[Americas] Trump unveils $22bn Dulles airport overhaul]]></description>
@@ -79,94 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/be2bb42207e8</guid>
             <pubDate>Thu, 30 Jul 2026 10:01:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/trump-netanyahu-300726-1785383992.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Constitution amendment panel's first meeting Aug 4]]></title>
-            <description><![CDATA[[Politics] Constitution amendment panel's first meeting Aug 4]]></description>
-            <link>https://bdnews24.com/politics/877242d33e22</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/877242d33e22</guid>
-            <pubDate>Thu, 30 Jul 2026 09:53:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/parliament-walkout-130726-010-1783957438.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saudi seeks international coalition to protect Red Sea]]></title>
-            <description><![CDATA[[West Asia] Saudi seeks international coalition to protect Red Sea]]></description>
-            <link>https://bdnews24.com/world/middle-east/1ccc74baa63a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/1ccc74baa63a</guid>
-            <pubDate>Thu, 30 Jul 2026 09:29:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/bab-el-mandeb-300726-01-1785382105.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[China warns US over robot ban]]></title>
-            <description><![CDATA[[World] China warns US over robot ban]]></description>
-            <link>https://bdnews24.com/world/3daf253f5446</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/3daf253f5446</guid>
-            <pubDate>Thu, 30 Jul 2026 09:18:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/china-robot-300726-1785381446.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[World Cup over, Messi returns to Miami]]></title>
-            <description><![CDATA[[Sport] World Cup over, Messi returns to Miami]]></description>
-            <link>https://bdnews24.com/sport/7e0f62d08a28</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/7e0f62d08a28</guid>
-            <pubDate>Thu, 30 Jul 2026 09:07:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026March/SM/messi-28326-1774640955.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US strikes Iran]]></title>
-            <description><![CDATA[[West Asia] US strikes Iran]]></description>
-            <link>https://bdnews24.com/world/middle-east/597acaf94425</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/597acaf94425</guid>
-            <pubDate>Thu, 30 Jul 2026 08:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/tehran-billboard-300726-01-1785380102.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[GPH Ispat fined Tk 50mn for hiding info in court filing]]></title>
-            <description><![CDATA[[Business] GPH Ispat fined Tk 50mn for hiding info in court filing]]></description>
-            <link>https://bdnews24.com/business/909d0c53688d</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/909d0c53688d</guid>
-            <pubDate>Thu, 30 Jul 2026 03:09:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/gph-ispat-290726-1785355187.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Deadly clashes mar Pakistan-administered Kashmir vote]]></title>
-            <description><![CDATA[[South-East Asia] Deadly clashes mar Pakistan-administered Kashmir vote]]></description>
-            <link>https://bdnews24.com/world/south-east-asia/510d10b99460</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/south-east-asia/510d10b99460</guid>
-            <pubDate>Thu, 30 Jul 2026 02:19:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/kashmir-vote-300726-01-1785356267.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chased job overseas, returned as fugitives]]></title>
-            <description><![CDATA[[Bangladesh] Chased job overseas, returned as fugitives]]></description>
-            <link>https://bdnews24.com/bangladesh/c2ffe7511d6a</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c2ffe7511d6a</guid>
-            <pubDate>Thu, 30 Jul 2026 02:05:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/cambodia-scam-centre-290726-03-1785353461.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fauci invokes Fifth Amendment at Rand Paul hearing]]></title>
-            <description><![CDATA[[World] Fauci invokes Fifth Amendment at Rand Paul hearing]]></description>
-            <link>https://bdnews24.com/world/76d3a2c7a742</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/76d3a2c7a742</guid>
-            <pubDate>Thu, 30 Jul 2026 01:46:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/fauci-covid-290726-01-1785354291.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US expands Iran sanctions to insurers, tankers]]></title>
-            <description><![CDATA[[World] US expands Iran sanctions to insurers, tankers]]></description>
-            <link>https://bdnews24.com/world/f84f9d67887b</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/f84f9d67887b</guid>
-            <pubDate>Thu, 30 Jul 2026 01:17:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/strait-of-hormuz-300726-01-1785352587.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[China to send shoulder-launched missiles to Iran shortly]]></title>
-            <description><![CDATA[[World] China to send shoulder-launched missiles to Iran shortly]]></description>
-            <link>https://bdnews24.com/world/6c79ce35a63f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/6c79ce35a63f</guid>
-            <pubDate>Thu, 30 Jul 2026 01:08:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/china-iran-flags-290726-01-1785348410.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
