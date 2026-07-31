@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jul 2026 19:02:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 20:49:53 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 Jul 2026 19:02:36 GMT</pubDate>
+        <pubDate>Fri, 31 Jul 2026 20:49:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[11 S Alam Group factories close in Chattogram]]></title>
+            <description><![CDATA[[Bangladesh] 11 S Alam Group factories close in Chattogram]]></description>
+            <link>https://bdnews24.com/bangladesh/f621392e3dce</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f621392e3dce</guid>
+            <pubDate>Sat, 01 Aug 2026 01:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024August/SM/s-alam-tower-210824-01-1724214218.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Former colleagues seek legal reprieve for ex-major Zia]]></title>
+            <description><![CDATA[[Bangladesh] Former colleagues seek legal reprieve for ex-major Zia]]></description>
+            <link>https://bdnews24.com/bangladesh/d1e18c903a49</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d1e18c903a49</guid>
+            <pubDate>Sat, 01 Aug 2026 01:22:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/syed-ziaul-haque-300726-001-1785525422.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Nasiruddin Patwary’s car ‘attacked’ in Sylhet]]></title>
             <description><![CDATA[[Bangladesh] Nasiruddin Patwary’s car ‘attacked’ in Sylhet]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/93444bd5c5bd</guid>
             <pubDate>Fri, 31 Jul 2026 20:40:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025June/SM/lakhai-thana-habigonj-110625-1749667262.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ending killings is key to disarmament deal: Hamas]]></title>
-            <description><![CDATA[[World] Ending killings is key to disarmament deal: Hamas]]></description>
-            <link>https://bdnews24.com/world/5ba3064f4ef7</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/5ba3064f4ef7</guid>
-            <pubDate>Fri, 31 Jul 2026 20:34:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/hamas-disarmament-31072026-01-1785508355.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dengue ward full at Suhrawardy Hospital]]></title>
-            <description><![CDATA[[Image] Dengue ward full at Suhrawardy Hospital]]></description>
-            <link>https://bdnews24.com/media-en/image/8d8e088adb2b</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/8d8e088adb2b</guid>
-            <pubDate>Fri, 31 Jul 2026 20:20:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dengue-patient-310726-22-1785501011.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
