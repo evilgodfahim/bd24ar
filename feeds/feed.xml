@@ -4,17 +4,33 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 01 Aug 2026 07:57:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Aug 2026 09:51:00 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 01 Aug 2026 07:57:19 GMT</pubDate>
+        <pubDate>Sat, 01 Aug 2026 09:51:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Houthis deny Red Sea shipping fee plan]]></title>
+            <description><![CDATA[[West Asia] Houthis deny Red Sea shipping fee plan]]></description>
+            <link>https://bdnews24.com/world/middle-east/2ecdc0c321e7</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/2ecdc0c321e7</guid>
+            <pubDate>Sat, 01 Aug 2026 15:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/red-sea-010826-1785574364.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Malnutrition puts children at measles risk: minister]]></title>
+            <description><![CDATA[[Health] Malnutrition puts children at measles risk: minister]]></description>
+            <link>https://bdnews24.com/health/20bf74fdd629</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/20bf74fdd629</guid>
+            <pubDate>Sat, 01 Aug 2026 15:20:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/shakhawat-hossen-bakul-010826-01-1785573319.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Bomb scare in Mirpur, Farmgate]]></title>
             <description><![CDATA[[Bangladesh] Bomb scare in Mirpur, Farmgate]]></description>
             <link>https://bdnews24.com/bangladesh/bf49ebd88a39</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/bf49ebd88a39</guid>
             <pubDate>Sat, 01 Aug 2026 13:18:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mirpur-bomb-010826-1785568325.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/firmgate-bomb-010826-03-1785569877.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Punishing student protesters won't help: Modi]]></title>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/europe/8e3927f91b28</guid>
             <pubDate>Sat, 01 Aug 2026 09:08:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/spain-migrant-010826-1785553588.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[FIFA scraps World Cup sell-off plan]]></title>
-            <description><![CDATA[[Sport] FIFA scraps World Cup sell-off plan]]></description>
-            <link>https://bdnews24.com/sport/d6a111a8c444</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/d6a111a8c444</guid>
-            <pubDate>Sat, 01 Aug 2026 08:34:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/fifa-infantino-010826-1785555600.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[11 S Alam Group factories close in Chattogram]]></title>
-            <description><![CDATA[[Bangladesh] 11 S Alam Group factories close in Chattogram]]></description>
-            <link>https://bdnews24.com/bangladesh/f621392e3dce</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f621392e3dce</guid>
-            <pubDate>Sat, 01 Aug 2026 01:47:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024August/SM/s-alam-tower-210824-01-1724214218.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
