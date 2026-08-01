@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 01 Aug 2026 15:49:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Aug 2026 16:43:58 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 01 Aug 2026 15:49:42 GMT</pubDate>
+        <pubDate>Sat, 01 Aug 2026 16:43:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Israeli strikes kill two in Gaza]]></title>
+            <description><![CDATA[[World] Israeli strikes kill two in Gaza]]></description>
+            <link>https://bdnews24.com/world/4f01a7b1d447</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/4f01a7b1d447</guid>
+            <pubDate>Sat, 01 Aug 2026 22:25:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/israel-strikes-gaza-01082026-01-1785601439.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[July graffiti on DU walls being refreshed]]></title>
+            <description><![CDATA[[Image] July graffiti on DU walls being refreshed]]></description>
+            <link>https://bdnews24.com/media-en/image/a5824b21b7f4</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/a5824b21b7f4</guid>
+            <pubDate>Sat, 01 Aug 2026 22:25:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/july-graffiti-renovation-010826-007-1785594920.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[August 1, 2026]]></title>
+            <description><![CDATA[[Image] August 1, 2026]]></description>
+            <link>https://bdnews24.com/media-en/image/514fef104ea1</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/514fef104ea1</guid>
+            <pubDate>Sat, 01 Aug 2026 22:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bomb-metro-rail-station-mirpur-010826-011-1785595219.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[BNP Standing Committee meeting begins]]></title>
             <description><![CDATA[[Politics] BNP Standing Committee meeting begins]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/87a1eb507a29</guid>
             <pubDate>Sat, 01 Aug 2026 17:31:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/gold-airport-arrest-010826-01-1785578016.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tribunal judges inspect RAB ‘secret detention site’]]></title>
-            <description><![CDATA[[Bangladesh] Tribunal judges inspect RAB ‘secret detention site’]]></description>
-            <link>https://bdnews24.com/bangladesh/7254899c76ca</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7254899c76ca</guid>
-            <pubDate>Sat, 01 Aug 2026 17:26:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rab-tfi-visit-010826-01-1785579661.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ICT’s credentials face fresh test]]></title>
-            <description><![CDATA[[Opinion] ICT’s credentials face fresh test]]></description>
-            <link>https://bdnews24.com/opinion/efd1639e0d91</link>
-            <guid isPermaLink="true">https://bdnews24.com/opinion/efd1639e0d91</guid>
-            <pubDate>Sat, 01 Aug 2026 17:14:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025December/SM/international-crimes-tribunal-111125-002-1765101831.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tourist dies in Cox’s Bazar parasailing fall]]></title>
-            <description><![CDATA[[Bangladesh] Tourist dies in Cox’s Bazar parasailing fall]]></description>
-            <link>https://bdnews24.com/bangladesh/0be277195baa</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0be277195baa</guid>
-            <pubDate>Sat, 01 Aug 2026 17:09:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/cox-s-bazar-01-1785580366.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
