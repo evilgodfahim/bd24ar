@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 01 Aug 2026 16:43:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Aug 2026 17:48:49 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 01 Aug 2026 16:43:58 GMT</pubDate>
+        <pubDate>Sat, 01 Aug 2026 17:48:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Chelsea bring in Welbeck from Brighton]]></title>
+            <description><![CDATA[[Sport] Chelsea bring in Welbeck from Brighton]]></description>
+            <link>https://bdnews24.com/sport/df36a17d0d73</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/df36a17d0d73</guid>
+            <pubDate>Sat, 01 Aug 2026 23:42:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/chelsea-welbeck-01082026-01-1785606093.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tarique to decide on BNP presidential candidate]]></title>
+            <description><![CDATA[[Bangladesh] Tarique to decide on BNP presidential candidate]]></description>
+            <link>https://bdnews24.com/bangladesh/93c6b8859e97</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/93c6b8859e97</guid>
+            <pubDate>Sat, 01 Aug 2026 23:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/fakhrul-islam-alamgir-bnp-010826-1785603376.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mudryk boost fails to prevent Chelsea loss to Spurs]]></title>
+            <description><![CDATA[[Sport] Mudryk boost fails to prevent Chelsea loss to Spurs]]></description>
+            <link>https://bdnews24.com/sport/669215d0f94a</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/669215d0f94a</guid>
+            <pubDate>Sat, 01 Aug 2026 23:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/chelsea-spurs-01082026-01-1785605500.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bournemouth sign Silva from Benfica]]></title>
+            <description><![CDATA[[Sport] Bournemouth sign Silva from Benfica]]></description>
+            <link>https://bdnews24.com/sport/e22e7e8123d9</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/e22e7e8123d9</guid>
+            <pubDate>Sat, 01 Aug 2026 23:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/bournemouth-silva-01082026-01-1785605371.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gold family to sell West Ham stake to Staveley group]]></title>
+            <description><![CDATA[[Sport] Gold family to sell West Ham stake to Staveley group]]></description>
+            <link>https://bdnews24.com/sport/a8b5fa0744d9</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/a8b5fa0744d9</guid>
+            <pubDate>Sat, 01 Aug 2026 23:14:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/west-ham-01082026-01-1785604400.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brentford sign Sangare from Lens]]></title>
+            <description><![CDATA[[Sport] Brentford sign Sangare from Lens]]></description>
+            <link>https://bdnews24.com/sport/765ed46f2574</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/765ed46f2574</guid>
+            <pubDate>Sat, 01 Aug 2026 22:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/brentford-sangare-01082026-01-1785602827.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[EU calls meeting discuss Ceuta migrant crossings]]></title>
+            <description><![CDATA[[World] EU calls meeting discuss Ceuta migrant crossings]]></description>
+            <link>https://bdnews24.com/world/61189bdf6e57</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/61189bdf6e57</guid>
+            <pubDate>Sat, 01 Aug 2026 22:44:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/eu-ceuta-01082026-01-1785602616.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Israeli strikes kill two in Gaza]]></title>
             <description><![CDATA[[World] Israeli strikes kill two in Gaza]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/dce94693910d</guid>
             <pubDate>Sat, 01 Aug 2026 19:37:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/waico-china-010826-01-1785591164.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Inside RAB’s ‘secret detention site’]]></title>
-            <description><![CDATA[[Bangladesh] Inside RAB’s ‘secret detention site’]]></description>
-            <link>https://bdnews24.com/bangladesh/09bba894628f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/09bba894628f</guid>
-            <pubDate>Sat, 01 Aug 2026 19:27:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ict-chief-prosecutor-video-text-thumb-1785575035.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nirmal Purja among 10 killed in Pakistan avalanche]]></title>
-            <description><![CDATA[[South Asia] Nirmal Purja among 10 killed in Pakistan avalanche]]></description>
-            <link>https://bdnews24.com/world/south-asia/1e463d47a95c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/south-asia/1e463d47a95c</guid>
-            <pubDate>Sat, 01 Aug 2026 18:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/nirmal-purja-310726-1785588915.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US makes visa bond rule permanent for Bangladeshis]]></title>
-            <description><![CDATA[[Bangladesh] US makes visa bond rule permanent for Bangladeshis]]></description>
-            <link>https://bdnews24.com/bangladesh/288e67535c1f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/288e67535c1f</guid>
-            <pubDate>Sat, 01 Aug 2026 18:31:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026January/SM/us-state-department-logo-070126-01-1767758865.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UEFA says it has lost confidence in Infantino]]></title>
-            <description><![CDATA[[Sport] UEFA says it has lost confidence in Infantino]]></description>
-            <link>https://bdnews24.com/sport/1b718daf26aa</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/1b718daf26aa</guid>
-            <pubDate>Sat, 01 Aug 2026 18:27:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/gianni-infantino-010826-01-1785587083.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The extremism we risk normalising]]></title>
-            <description><![CDATA[[Opinion] The extremism we risk normalising]]></description>
-            <link>https://bdnews24.com/opinion/cbc79c00868f</link>
-            <guid isPermaLink="true">https://bdnews24.com/opinion/cbc79c00868f</guid>
-            <pubDate>Sat, 01 Aug 2026 18:02:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024July/SM/holey-artisan-terror-attack-010724-1719811607.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US business leaders to visit Dhaka next week: PMO]]></title>
-            <description><![CDATA[[Bangladesh] US business leaders to visit Dhaka next week: PMO]]></description>
-            <link>https://bdnews24.com/bangladesh/bde2b8c17465</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/bde2b8c17465</guid>
-            <pubDate>Sat, 01 Aug 2026 18:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mahdi-amin-010826-01-1785583834.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian held with gold capsules]]></title>
-            <description><![CDATA[[Bangladesh] Indian held with gold capsules]]></description>
-            <link>https://bdnews24.com/bangladesh/87a1eb507a29</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/87a1eb507a29</guid>
-            <pubDate>Sat, 01 Aug 2026 17:31:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/gold-airport-arrest-010826-01-1785578016.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
