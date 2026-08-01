@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – Latest News]]></title>
+        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 01 Aug 2026 11:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Aug 2026 12:48:46 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 01 Aug 2026 11:10:28 GMT</pubDate>
+        <pubDate>Sat, 01 Aug 2026 12:48:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
-            <link>https://bdnews24.com</link>
-            <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Sat, 01 Aug 2026 11:10:28 GMT</pubDate>
+            <title><![CDATA[US makes visa bond rule permanent for Bangladeshis]]></title>
+            <description><![CDATA[[Bangladesh] US makes visa bond rule permanent for Bangladeshis]]></description>
+            <link>https://bdnews24.com/bangladesh/288e67535c1f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/288e67535c1f</guid>
+            <pubDate>Sat, 01 Aug 2026 18:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026January/SM/us-state-department-logo-070126-01-1767758865.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[UEFA says it has lost confidence in Infantino]]></title>
+            <description><![CDATA[[Sport] UEFA says it has lost confidence in Infantino]]></description>
+            <link>https://bdnews24.com/sport/1b718daf26aa</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/1b718daf26aa</guid>
+            <pubDate>Sat, 01 Aug 2026 18:27:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/gianni-infantino-010826-01-1785587083.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The extremism we risk normalising]]></title>
+            <description><![CDATA[[Opinion] The extremism we risk normalising]]></description>
+            <link>https://bdnews24.com/opinion/cbc79c00868f</link>
+            <guid isPermaLink="true">https://bdnews24.com/opinion/cbc79c00868f</guid>
+            <pubDate>Sat, 01 Aug 2026 18:02:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024July/SM/holey-artisan-terror-attack-010724-1719811607.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US business leaders to visit Dhaka next week: PMO]]></title>
+            <description><![CDATA[[Bangladesh] US business leaders to visit Dhaka next week: PMO]]></description>
+            <link>https://bdnews24.com/bangladesh/bde2b8c17465</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/bde2b8c17465</guid>
+            <pubDate>Sat, 01 Aug 2026 18:01:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mahdi-amin-010826-01-1785583834.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian held with gold capsules]]></title>
+            <description><![CDATA[[Bangladesh] Indian held with gold capsules]]></description>
+            <link>https://bdnews24.com/bangladesh/87a1eb507a29</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/87a1eb507a29</guid>
+            <pubDate>Sat, 01 Aug 2026 17:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/gold-airport-arrest-010826-01-1785578016.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tribunal judges inspect RAB ‘secret detention site’]]></title>
+            <description><![CDATA[[Bangladesh] Tribunal judges inspect RAB ‘secret detention site’]]></description>
+            <link>https://bdnews24.com/bangladesh/7254899c76ca</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7254899c76ca</guid>
+            <pubDate>Sat, 01 Aug 2026 17:26:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rab-tfi-visit-010826-01-1785579661.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ICT’s credentials face fresh test]]></title>
+            <description><![CDATA[[Opinion] ICT’s credentials face fresh test]]></description>
+            <link>https://bdnews24.com/opinion/efd1639e0d91</link>
+            <guid isPermaLink="true">https://bdnews24.com/opinion/efd1639e0d91</guid>
+            <pubDate>Sat, 01 Aug 2026 17:14:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025December/SM/international-crimes-tribunal-111125-002-1765101831.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tourist dies in Cox’s Bazar parasailing fall]]></title>
+            <description><![CDATA[[Bangladesh] Tourist dies in Cox’s Bazar parasailing fall]]></description>
+            <link>https://bdnews24.com/bangladesh/0be277195baa</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0be277195baa</guid>
+            <pubDate>Sat, 01 Aug 2026 17:09:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/cox-s-bazar-01-1785580366.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wildfires grip Greece, France, Spain]]></title>
+            <description><![CDATA[[Europe] Wildfires grip Greece, France, Spain]]></description>
+            <link>https://bdnews24.com/world/europe/14251ca804a6</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/14251ca804a6</guid>
+            <pubDate>Sat, 01 Aug 2026 16:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/wildfire-010826-1785581043.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israeli settler defends ‘revenge’ attacks: BBC]]></title>
+            <description><![CDATA[[West Asia] Israeli settler defends ‘revenge’ attacks: BBC]]></description>
+            <link>https://bdnews24.com/world/middle-east/5dca14f1ed2f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/5dca14f1ed2f</guid>
+            <pubDate>Sat, 01 Aug 2026 16:35:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/west-bank-010826-1785580516.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reaction to FIFA's World Cup sell-off reversal]]></title>
+            <description><![CDATA[[Sport] Reaction to FIFA's World Cup sell-off reversal]]></description>
+            <link>https://bdnews24.com/sport/fb6038e93352</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/fb6038e93352</guid>
+            <pubDate>Sat, 01 Aug 2026 16:06:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/fifa-chief-010826-1785578778.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Salahuddin re-elected SAFF chief]]></title>
+            <description><![CDATA[[Sport] Salahuddin re-elected SAFF chief]]></description>
+            <link>https://bdnews24.com/sport/d3828494a666</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/d3828494a666</guid>
+            <pubDate>Sat, 01 Aug 2026 16:04:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/salauddin-1000-1785577505.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Houthis deny Red Sea shipping fee plan]]></title>
+            <description><![CDATA[[West Asia] Houthis deny Red Sea shipping fee plan]]></description>
+            <link>https://bdnews24.com/world/middle-east/2ecdc0c321e7</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/2ecdc0c321e7</guid>
+            <pubDate>Sat, 01 Aug 2026 15:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/red-sea-010826-1785574364.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Malnutrition puts children at measles risk: minister]]></title>
+            <description><![CDATA[[Health] Malnutrition puts children at measles risk: minister]]></description>
+            <link>https://bdnews24.com/health/20bf74fdd629</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/20bf74fdd629</guid>
+            <pubDate>Sat, 01 Aug 2026 15:20:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/shakhawat-hossen-bakul-010826-01-1785573319.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bomb scare in Mirpur, Farmgate]]></title>
+            <description><![CDATA[[Bangladesh] Bomb scare in Mirpur, Farmgate]]></description>
+            <link>https://bdnews24.com/bangladesh/bf49ebd88a39</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/bf49ebd88a39</guid>
+            <pubDate>Sat, 01 Aug 2026 13:18:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/firmgate-bomb-010826-03-1785569877.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Punishing student protesters won't help: Modi]]></title>
+            <description><![CDATA[[Neighbours] Punishing student protesters won't help: Modi]]></description>
+            <link>https://bdnews24.com/neighbours/bcee6638004f</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/bcee6638004f</guid>
+            <pubDate>Sat, 01 Aug 2026 13:02:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/modi-010826-1785567665.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka road crashes kill 1,384 in 6 years: study]]></title>
+            <description><![CDATA[[Bangladesh] Dhaka road crashes kill 1,384 in 6 years: study]]></description>
+            <link>https://bdnews24.com/bangladesh/701eaea5f5ef</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/701eaea5f5ef</guid>
+            <pubDate>Sat, 01 Aug 2026 12:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/gopalganj-accident-five-dead-280526-01-1779978503.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[When does EC want presidential poll?]]></title>
+            <description><![CDATA[[Bangladesh] When does EC want presidential poll?]]></description>
+            <link>https://bdnews24.com/bangladesh/19a21dc7c55d</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/19a21dc7c55d</guid>
+            <pubDate>Sat, 01 Aug 2026 12:37:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025January/SM/nirbachon-100125-01-1736481515.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[9 killed as Russia pounds Kyiv]]></title>
+            <description><![CDATA[[Europe] 9 killed as Russia pounds Kyiv]]></description>
+            <link>https://bdnews24.com/world/europe/6a1437e92e99</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/6a1437e92e99</guid>
+            <pubDate>Sat, 01 Aug 2026 12:25:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/kyiv-strike-010826-1785565460.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heat takes toll on garment workers]]></title>
+            <description><![CDATA[[Bangladesh] Heat takes toll on garment workers]]></description>
+            <link>https://bdnews24.com/bangladesh/d2a3e364cd01</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d2a3e364cd01</guid>
+            <pubDate>Sat, 01 Aug 2026 11:51:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/rmg-staff-240426-02-1785563410.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
