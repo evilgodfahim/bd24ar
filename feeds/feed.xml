@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News]]></title>
-        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
+        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 01 Aug 2026 17:48:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Aug 2026 18:49:06 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 01 Aug 2026 17:48:49 GMT</pubDate>
+        <pubDate>Sat, 01 Aug 2026 18:49:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Chelsea bring in Welbeck from Brighton]]></title>
-            <description><![CDATA[[Sport] Chelsea bring in Welbeck from Brighton]]></description>
-            <link>https://bdnews24.com/sport/df36a17d0d73</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/df36a17d0d73</guid>
-            <pubDate>Sat, 01 Aug 2026 23:42:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/chelsea-welbeck-01082026-01-1785606093.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tarique to decide on BNP presidential candidate]]></title>
-            <description><![CDATA[[Bangladesh] Tarique to decide on BNP presidential candidate]]></description>
-            <link>https://bdnews24.com/bangladesh/93c6b8859e97</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/93c6b8859e97</guid>
-            <pubDate>Sat, 01 Aug 2026 23:40:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/fakhrul-islam-alamgir-bnp-010826-1785603376.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mudryk boost fails to prevent Chelsea loss to Spurs]]></title>
-            <description><![CDATA[[Sport] Mudryk boost fails to prevent Chelsea loss to Spurs]]></description>
-            <link>https://bdnews24.com/sport/669215d0f94a</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/669215d0f94a</guid>
-            <pubDate>Sat, 01 Aug 2026 23:32:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/chelsea-spurs-01082026-01-1785605500.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bournemouth sign Silva from Benfica]]></title>
-            <description><![CDATA[[Sport] Bournemouth sign Silva from Benfica]]></description>
-            <link>https://bdnews24.com/sport/e22e7e8123d9</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/e22e7e8123d9</guid>
-            <pubDate>Sat, 01 Aug 2026 23:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/bournemouth-silva-01082026-01-1785605371.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold family to sell West Ham stake to Staveley group]]></title>
-            <description><![CDATA[[Sport] Gold family to sell West Ham stake to Staveley group]]></description>
-            <link>https://bdnews24.com/sport/a8b5fa0744d9</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/a8b5fa0744d9</guid>
-            <pubDate>Sat, 01 Aug 2026 23:14:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/west-ham-01082026-01-1785604400.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brentford sign Sangare from Lens]]></title>
-            <description><![CDATA[[Sport] Brentford sign Sangare from Lens]]></description>
-            <link>https://bdnews24.com/sport/765ed46f2574</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/765ed46f2574</guid>
-            <pubDate>Sat, 01 Aug 2026 22:47:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/brentford-sangare-01082026-01-1785602827.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[EU calls meeting discuss Ceuta migrant crossings]]></title>
-            <description><![CDATA[[World] EU calls meeting discuss Ceuta migrant crossings]]></description>
-            <link>https://bdnews24.com/world/61189bdf6e57</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/61189bdf6e57</guid>
-            <pubDate>Sat, 01 Aug 2026 22:44:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/eu-ceuta-01082026-01-1785602616.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israeli strikes kill two in Gaza]]></title>
-            <description><![CDATA[[World] Israeli strikes kill two in Gaza]]></description>
-            <link>https://bdnews24.com/world/4f01a7b1d447</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/4f01a7b1d447</guid>
-            <pubDate>Sat, 01 Aug 2026 22:25:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/israel-strikes-gaza-01082026-01-1785601439.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[July graffiti on DU walls being refreshed]]></title>
-            <description><![CDATA[[Image] July graffiti on DU walls being refreshed]]></description>
-            <link>https://bdnews24.com/media-en/image/a5824b21b7f4</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/a5824b21b7f4</guid>
-            <pubDate>Sat, 01 Aug 2026 22:25:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/july-graffiti-renovation-010826-007-1785594920.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[August 1, 2026]]></title>
-            <description><![CDATA[[Image] August 1, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/514fef104ea1</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/514fef104ea1</guid>
-            <pubDate>Sat, 01 Aug 2026 22:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bomb-metro-rail-station-mirpur-010826-011-1785595219.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BNP Standing Committee meeting begins]]></title>
-            <description><![CDATA[[Politics] BNP Standing Committee meeting begins]]></description>
-            <link>https://bdnews24.com/politics/112e10903987</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/112e10903987</guid>
-            <pubDate>Sat, 01 Aug 2026 21:38:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025December/SM/tarique-rahaman-office-281225-02-1766908995.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Hunger, hostility’ drove migrants back from Ceuta]]></title>
-            <description><![CDATA[[World] ‘Hunger, hostility’ drove migrants back from Ceuta]]></description>
-            <link>https://bdnews24.com/world/aed42fbcd115</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/aed42fbcd115</guid>
-            <pubDate>Sat, 01 Aug 2026 21:36:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/migrants-return-01082026-01-1785598509.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCP’s Tanvir suspended again over post on PM]]></title>
-            <description><![CDATA[[Bangladesh] NCP’s Tanvir suspended again over post on PM]]></description>
-            <link>https://bdnews24.com/bangladesh/228c073388f6</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/228c073388f6</guid>
-            <pubDate>Sat, 01 Aug 2026 21:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/gazi-salahuddin-tanvir-010826-01-1785595887.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[14,000 teachers to join govt primary schools in October]]></title>
-            <description><![CDATA[[Education] 14,000 teachers to join govt primary schools in October]]></description>
-            <link>https://bdnews24.com/education/8b447049e0bd</link>
-            <guid isPermaLink="true">https://bdnews24.com/education/8b447049e0bd</guid>
-            <pubDate>Sat, 01 Aug 2026 20:58:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025April/SM/primaryschoolteacherlay-up-061015-0003-1744139134.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Crimeans face blackout hardships]]></title>
-            <description><![CDATA[[World] Crimeans face blackout hardships]]></description>
-            <link>https://bdnews24.com/world/2f77cd21d917</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/2f77cd21d917</guid>
-            <pubDate>Sat, 01 Aug 2026 20:45:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/crimea-blackout-01082026-01-1785595444.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PM holds talks with top businessmen]]></title>
-            <description><![CDATA[[Business] PM holds talks with top businessmen]]></description>
-            <link>https://bdnews24.com/business/21405b6171b9</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/21405b6171b9</guid>
-            <pubDate>Sat, 01 Aug 2026 20:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/pm-tarique-rahman-with-business-leader-01082026-1785595301.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Turkey, Iraq sign oil pipeline deal]]></title>
-            <description><![CDATA[[Business] Turkey, Iraq sign oil pipeline deal]]></description>
-            <link>https://bdnews24.com/business/bb1e6ea7ab21</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/bb1e6ea7ab21</guid>
-            <pubDate>Sat, 01 Aug 2026 20:14:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/iraq-turkey-deal-01082026-01-1785593608.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thousands in Amsterdam gather for lively WorldPride]]></title>
-            <description><![CDATA[[Lifestyle] Thousands in Amsterdam gather for lively WorldPride]]></description>
-            <link>https://bdnews24.com/lifestyle/394dee3d8ecc</link>
-            <guid isPermaLink="true">https://bdnews24.com/lifestyle/394dee3d8ecc</guid>
-            <pubDate>Sat, 01 Aug 2026 20:06:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/amsterdam-pride-01082026-01-1785593154.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spain installs floating barrier in Ceuta]]></title>
-            <description><![CDATA[[World] Spain installs floating barrier in Ceuta]]></description>
-            <link>https://bdnews24.com/world/512291dc2dfe</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/512291dc2dfe</guid>
-            <pubDate>Sat, 01 Aug 2026 19:56:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ceuta-border-010826-01-1785592380.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh to join China-led WAICO as observer]]></title>
-            <description><![CDATA[[Bangladesh] Bangladesh to join China-led WAICO as observer]]></description>
-            <link>https://bdnews24.com/bangladesh/dce94693910d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/dce94693910d</guid>
-            <pubDate>Sat, 01 Aug 2026 19:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/waico-china-010826-01-1785591164.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: timeout of 65000ms exceeded]]></description>
+            <link>https://bdnews24.com</link>
+            <guid isPermaLink="true">https://bdnews24.com</guid>
+            <pubDate>Sat, 01 Aug 2026 18:49:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
