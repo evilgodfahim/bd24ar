@@ -4,10 +4,82 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Aug 2026 01:24:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2026 05:13:37 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Aug 2026 01:24:15 GMT</pubDate>
+        <pubDate>Sun, 02 Aug 2026 05:13:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Landslide death toll rises in China]]></title>
+            <description><![CDATA[[Asia Pacific] Landslide death toll rises in China]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/d6ef47e82d9a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/d6ef47e82d9a</guid>
+            <pubDate>Sun, 02 Aug 2026 10:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/china-landslide-020826-01-1785646537.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Capital One says it closed Trump Organization's accounts]]></title>
+            <description><![CDATA[[Business] Capital One says it closed Trump Organization's accounts]]></description>
+            <link>https://bdnews24.com/business/3bb865ee96a3</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/3bb865ee96a3</guid>
+            <pubDate>Sun, 02 Aug 2026 10:38:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/trump-iran-deal-020826-01-1785640257.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US bars imports from 43 more China companies]]></title>
+            <description><![CDATA[[Business] US bars imports from 43 more China companies]]></description>
+            <link>https://bdnews24.com/business/3a8e6b7bd9b8</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/3a8e6b7bd9b8</guid>
+            <pubDate>Sun, 02 Aug 2026 10:17:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-china-flags-171025-01-1785644164.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spain installs floating barrier after migrant rush]]></title>
+            <description><![CDATA[[Europe] Spain installs floating barrier after migrant rush]]></description>
+            <link>https://bdnews24.com/world/europe/c5928850fdbd</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/c5928850fdbd</guid>
+            <pubDate>Sun, 02 Aug 2026 10:17:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/spain-ceuta-migrant-barrier-020826-01-1785644164.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wildfires spread across Greece]]></title>
+            <description><![CDATA[[Europe] Wildfires spread across Greece]]></description>
+            <link>https://bdnews24.com/world/europe/85b7e3e3cac8</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/85b7e3e3cac8</guid>
+            <pubDate>Sun, 02 Aug 2026 09:49:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/greece-europe-wildfires-020826-01-1785643007.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran threatens other nations’ energy  fields strikes]]></title>
+            <description><![CDATA[[West Asia] Iran threatens other nations’ energy  fields strikes]]></description>
+            <link>https://bdnews24.com/world/middle-east/6f72ef3c43ea</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/6f72ef3c43ea</guid>
+            <pubDate>Sun, 02 Aug 2026 09:42:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/iran-missiles-020826-01-1785642126.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[13 die in Peru tourist plane crash]]></title>
+            <description><![CDATA[[Americas] 13 die in Peru tourist plane crash]]></description>
+            <link>https://bdnews24.com/world/americas/8cdf71fe9670</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/8cdf71fe9670</guid>
+            <pubDate>Sun, 02 Aug 2026 09:20:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/peru-plane-crash-020826-01-1785640773.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Will hold off on Iran attack in hope of deal: Trump]]></title>
+            <description><![CDATA[[Americas] Will hold off on Iran attack in hope of deal: Trump]]></description>
+            <link>https://bdnews24.com/world/americas/d581a8cabcf6</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/d581a8cabcf6</guid>
+            <pubDate>Sun, 02 Aug 2026 09:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/trump-iran-deal-020826-01-1785640257.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bomb carried by woman kills 3 in Moscow]]></title>
+            <description><![CDATA[[Europe] Bomb carried by woman kills 3 in Moscow]]></description>
+            <link>https://bdnews24.com/world/europe/7e955d59d19e</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/7e955d59d19e</guid>
+            <pubDate>Sun, 02 Aug 2026 08:36:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/moscow-blast-020826-01-1785638177.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Customers reel from soaring power bills that don't add up]]></title>
             <description><![CDATA[[Bangladesh] Customers reel from soaring power bills that don't add up]]></description>
@@ -95,78 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/4f01a7b1d447</guid>
             <pubDate>Sat, 01 Aug 2026 22:25:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/israel-strikes-gaza-01082026-01-1785601439.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[July graffiti on DU walls being refreshed]]></title>
-            <description><![CDATA[[Image] July graffiti on DU walls being refreshed]]></description>
-            <link>https://bdnews24.com/media-en/image/a5824b21b7f4</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/a5824b21b7f4</guid>
-            <pubDate>Sat, 01 Aug 2026 22:25:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/july-graffiti-renovation-010826-007-1785594920.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[August 1, 2026]]></title>
-            <description><![CDATA[[Image] August 1, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/514fef104ea1</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/514fef104ea1</guid>
-            <pubDate>Sat, 01 Aug 2026 22:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bomb-metro-rail-station-mirpur-010826-011-1785595219.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BNP Standing Committee meeting begins]]></title>
-            <description><![CDATA[[Politics] BNP Standing Committee meeting begins]]></description>
-            <link>https://bdnews24.com/politics/112e10903987</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/112e10903987</guid>
-            <pubDate>Sat, 01 Aug 2026 21:38:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025December/SM/tarique-rahaman-office-281225-02-1766908995.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Hunger, hostility’ drove migrants back from Ceuta]]></title>
-            <description><![CDATA[[World] ‘Hunger, hostility’ drove migrants back from Ceuta]]></description>
-            <link>https://bdnews24.com/world/aed42fbcd115</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/aed42fbcd115</guid>
-            <pubDate>Sat, 01 Aug 2026 21:36:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/migrants-return-01082026-01-1785598509.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCP’s Tanvir suspended again over post on PM]]></title>
-            <description><![CDATA[[Bangladesh] NCP’s Tanvir suspended again over post on PM]]></description>
-            <link>https://bdnews24.com/bangladesh/228c073388f6</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/228c073388f6</guid>
-            <pubDate>Sat, 01 Aug 2026 21:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/gazi-salahuddin-tanvir-010826-01-1785595887.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[14,000 teachers to join govt primary schools in October]]></title>
-            <description><![CDATA[[Education] 14,000 teachers to join govt primary schools in October]]></description>
-            <link>https://bdnews24.com/education/8b447049e0bd</link>
-            <guid isPermaLink="true">https://bdnews24.com/education/8b447049e0bd</guid>
-            <pubDate>Sat, 01 Aug 2026 20:58:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025April/SM/primaryschoolteacherlay-up-061015-0003-1744139134.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Crimeans face blackout hardships]]></title>
-            <description><![CDATA[[World] Crimeans face blackout hardships]]></description>
-            <link>https://bdnews24.com/world/2f77cd21d917</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/2f77cd21d917</guid>
-            <pubDate>Sat, 01 Aug 2026 20:45:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/crimea-blackout-01082026-01-1785595444.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PM holds talks with top businessmen]]></title>
-            <description><![CDATA[[Business] PM holds talks with top businessmen]]></description>
-            <link>https://bdnews24.com/business/21405b6171b9</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/21405b6171b9</guid>
-            <pubDate>Sat, 01 Aug 2026 20:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/pm-tarique-rahman-with-business-leader-01082026-1785595301.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Turkey, Iraq sign oil pipeline deal]]></title>
-            <description><![CDATA[[Business] Turkey, Iraq sign oil pipeline deal]]></description>
-            <link>https://bdnews24.com/business/bb1e6ea7ab21</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/bb1e6ea7ab21</guid>
-            <pubDate>Sat, 01 Aug 2026 20:14:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/iraq-turkey-deal-01082026-01-1785593608.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
