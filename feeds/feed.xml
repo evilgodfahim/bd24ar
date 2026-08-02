@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Aug 2026 05:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2026 07:58:56 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Aug 2026 05:13:37 GMT</pubDate>
+        <pubDate>Sun, 02 Aug 2026 07:58:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[David Emon remanded for 10 days]]></title>
+            <description><![CDATA[[Bangladesh] David Emon remanded for 10 days]]></description>
+            <link>https://bdnews24.com/bangladesh/3c7a651c252c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3c7a651c252c</guid>
+            <pubDate>Sun, 02 Aug 2026 13:50:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/chattagra-arrested-emon-300726-1785409866.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Recommended primary teacher candidates block Shahbagh]]></title>
+            <description><![CDATA[[Bangladesh] Recommended primary teacher candidates block Shahbagh]]></description>
+            <link>https://bdnews24.com/bangladesh/b9a1490300ea</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b9a1490300ea</guid>
+            <pubDate>Sun, 02 Aug 2026 13:44:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/primary-teacher-protest-020826-1785654431.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[14,000 primary teachers to join on Oct 1]]></title>
+            <description><![CDATA[[Education] 14,000 primary teachers to join on Oct 1]]></description>
+            <link>https://bdnews24.com/education/83ca1f7bac5b</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/83ca1f7bac5b</guid>
+            <pubDate>Sun, 02 Aug 2026 13:15:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024August/SM/mymensingh-primary-school-140824-3-1723620312.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[HSC answer sheets seized from tea stall, teacher detained]]></title>
+            <description><![CDATA[[Bangladesh] HSC answer sheets seized from tea stall, teacher detained]]></description>
+            <link>https://bdnews24.com/bangladesh/6117f1720477</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6117f1720477</guid>
+            <pubDate>Sun, 02 Aug 2026 12:43:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/sylhet-hsc-answershit-seize-020826-01-1785646395.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man stabs wife, mother-in-law to death in Kalabagan]]></title>
+            <description><![CDATA[[Bangladesh] Man stabs wife, mother-in-law to death in Kalabagan]]></description>
+            <link>https://bdnews24.com/bangladesh/14287710d1ea</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/14287710d1ea</guid>
+            <pubDate>Sun, 02 Aug 2026 11:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/kalabagan-thana-020826-01-1785649272.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 dead in Idaho shooting]]></title>
+            <description><![CDATA[[Americas] 3 dead in Idaho shooting]]></description>
+            <link>https://bdnews24.com/world/americas/7515ee97508d</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/7515ee97508d</guid>
+            <pubDate>Sun, 02 Aug 2026 11:38:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/idaho-shooting-020826-01-1785649023.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israeli strikes kill four in Gaza]]></title>
+            <description><![CDATA[[West Asia] Israeli strikes kill four in Gaza]]></description>
+            <link>https://bdnews24.com/world/middle-east/56b012d860ba</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/56b012d860ba</guid>
+            <pubDate>Sun, 02 Aug 2026 11:14:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/palestinians-gaza-020826-01-1785647613.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Landslide death toll rises in China]]></title>
             <description><![CDATA[[Asia Pacific] Landslide death toll rises in China]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/df36a17d0d73</guid>
             <pubDate>Sat, 01 Aug 2026 23:42:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/chelsea-welbeck-01082026-01-1785606093.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tarique to decide on BNP presidential candidate]]></title>
-            <description><![CDATA[[Bangladesh] Tarique to decide on BNP presidential candidate]]></description>
-            <link>https://bdnews24.com/bangladesh/93c6b8859e97</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/93c6b8859e97</guid>
-            <pubDate>Sat, 01 Aug 2026 23:40:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/fakhrul-islam-alamgir-bnp-010826-1785603376.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mudryk boost fails to prevent Chelsea loss to Spurs]]></title>
-            <description><![CDATA[[Sport] Mudryk boost fails to prevent Chelsea loss to Spurs]]></description>
-            <link>https://bdnews24.com/sport/669215d0f94a</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/669215d0f94a</guid>
-            <pubDate>Sat, 01 Aug 2026 23:32:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/chelsea-spurs-01082026-01-1785605500.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bournemouth sign Silva from Benfica]]></title>
-            <description><![CDATA[[Sport] Bournemouth sign Silva from Benfica]]></description>
-            <link>https://bdnews24.com/sport/e22e7e8123d9</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/e22e7e8123d9</guid>
-            <pubDate>Sat, 01 Aug 2026 23:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/bournemouth-silva-01082026-01-1785605371.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold family to sell West Ham stake to Staveley group]]></title>
-            <description><![CDATA[[Sport] Gold family to sell West Ham stake to Staveley group]]></description>
-            <link>https://bdnews24.com/sport/a8b5fa0744d9</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/a8b5fa0744d9</guid>
-            <pubDate>Sat, 01 Aug 2026 23:14:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/west-ham-01082026-01-1785604400.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brentford sign Sangare from Lens]]></title>
-            <description><![CDATA[[Sport] Brentford sign Sangare from Lens]]></description>
-            <link>https://bdnews24.com/sport/765ed46f2574</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/765ed46f2574</guid>
-            <pubDate>Sat, 01 Aug 2026 22:47:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/brentford-sangare-01082026-01-1785602827.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[EU calls meeting discuss Ceuta migrant crossings]]></title>
-            <description><![CDATA[[World] EU calls meeting discuss Ceuta migrant crossings]]></description>
-            <link>https://bdnews24.com/world/61189bdf6e57</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/61189bdf6e57</guid>
-            <pubDate>Sat, 01 Aug 2026 22:44:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/eu-ceuta-01082026-01-1785602616.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israeli strikes kill two in Gaza]]></title>
-            <description><![CDATA[[World] Israeli strikes kill two in Gaza]]></description>
-            <link>https://bdnews24.com/world/4f01a7b1d447</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/4f01a7b1d447</guid>
-            <pubDate>Sat, 01 Aug 2026 22:25:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/israel-strikes-gaza-01082026-01-1785601439.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
