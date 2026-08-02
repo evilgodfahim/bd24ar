@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Aug 2026 09:53:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2026 11:09:15 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Aug 2026 09:53:05 GMT</pubDate>
+        <pubDate>Sun, 02 Aug 2026 11:09:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Sanitation workers, locals clash in Uttarkhan]]></title>
+            <description><![CDATA[[Bangladesh] Sanitation workers, locals clash in Uttarkhan]]></description>
+            <link>https://bdnews24.com/bangladesh/64d42d0cbb1f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/64d42d0cbb1f</guid>
+            <pubDate>Sun, 02 Aug 2026 17:01:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/uttorkhan-clash-020826-01-1785664123.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[9 killed in Gaza as Israeli minister rules out ceasefire deal]]></title>
+            <description><![CDATA[[World] 9 killed in Gaza as Israeli minister rules out ceasefire deal]]></description>
+            <link>https://bdnews24.com/world/aaf036625154</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/aaf036625154</guid>
+            <pubDate>Sun, 02 Aug 2026 16:58:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/gaza-israel-020826-01-1785668212.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Govt plans privately run water bus service]]></title>
+            <description><![CDATA[[Bangladesh] Govt plans privately run water bus service]]></description>
+            <link>https://bdnews24.com/bangladesh/636171fcedfd</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/636171fcedfd</guid>
+            <pubDate>Sun, 02 Aug 2026 16:52:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/dhaka-waterway-pm-020726-01-1785665496.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[12kg LPG cylinder price jumps Tk 70]]></title>
+            <description><![CDATA[[Business] 12kg LPG cylinder price jumps Tk 70]]></description>
+            <link>https://bdnews24.com/business/58d27536195e</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/58d27536195e</guid>
+            <pubDate>Sun, 02 Aug 2026 16:50:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/lpg-gas-cylinder-190426-002-1776596793.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Police ‘unaware’ of Benazir’s bail in Dubai]]></title>
             <description><![CDATA[[Bangladesh] Police ‘unaware’ of Benazir’s bail in Dubai]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/europe/c5928850fdbd</guid>
             <pubDate>Sun, 02 Aug 2026 10:17:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/spain-ceuta-migrant-barrier-020826-01-1785644164.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wildfires spread across Greece]]></title>
-            <description><![CDATA[[Europe] Wildfires spread across Greece]]></description>
-            <link>https://bdnews24.com/world/europe/85b7e3e3cac8</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/85b7e3e3cac8</guid>
-            <pubDate>Sun, 02 Aug 2026 09:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/greece-europe-wildfires-020826-01-1785643007.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran threatens other nations’ energy  fields strikes]]></title>
-            <description><![CDATA[[West Asia] Iran threatens other nations’ energy  fields strikes]]></description>
-            <link>https://bdnews24.com/world/middle-east/6f72ef3c43ea</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/6f72ef3c43ea</guid>
-            <pubDate>Sun, 02 Aug 2026 09:42:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/iran-missiles-020826-01-1785642126.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[13 die in Peru tourist plane crash]]></title>
-            <description><![CDATA[[Americas] 13 die in Peru tourist plane crash]]></description>
-            <link>https://bdnews24.com/world/americas/8cdf71fe9670</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/8cdf71fe9670</guid>
-            <pubDate>Sun, 02 Aug 2026 09:20:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/peru-plane-crash-020826-01-1785640773.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Will hold off on Iran attack in hope of deal: Trump]]></title>
-            <description><![CDATA[[Americas] Will hold off on Iran attack in hope of deal: Trump]]></description>
-            <link>https://bdnews24.com/world/americas/d581a8cabcf6</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/d581a8cabcf6</guid>
-            <pubDate>Sun, 02 Aug 2026 09:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/trump-iran-deal-020826-01-1785640257.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
