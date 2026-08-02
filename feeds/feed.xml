@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Aug 2026 11:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2026 12:50:59 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Aug 2026 11:09:15 GMT</pubDate>
+        <pubDate>Sun, 02 Aug 2026 12:50:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Dengue: 2 die, 423 hospitalised]]></title>
+            <description><![CDATA[[Health] Dengue: 2 die, 423 hospitalised]]></description>
+            <link>https://bdnews24.com/health/efee87d03c60</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/efee87d03c60</guid>
+            <pubDate>Sun, 02 Aug 2026 18:44:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dengue-dhaka-medical-college-hospital-021122-03-1785166553.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Greece burns, Hungary nuclear plant shuts over drought]]></title>
+            <description><![CDATA[[Environment] Greece burns, Hungary nuclear plant shuts over drought]]></description>
+            <link>https://bdnews24.com/environment/c9d0fa17d9fc</link>
+            <guid isPermaLink="true">https://bdnews24.com/environment/c9d0fa17d9fc</guid>
+            <pubDate>Sun, 02 Aug 2026 18:43:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/greece-hungary-020826-01-1785674514.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anthropic AI hacks three firms during safety tests]]></title>
+            <description><![CDATA[[Technology] Anthropic AI hacks three firms during safety tests]]></description>
+            <link>https://bdnews24.com/technology/7cfb8e46448e</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/7cfb8e46448e</guid>
+            <pubDate>Sun, 02 Aug 2026 18:15:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/claude-hacking-020826-01-1785672826.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fazlul Hoque named FBCCI administrator]]></title>
+            <description><![CDATA[[Bangladesh] Fazlul Hoque named FBCCI administrator]]></description>
+            <link>https://bdnews24.com/bangladesh/7a393441cd76</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7a393441cd76</guid>
+            <pubDate>Sun, 02 Aug 2026 17:52:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/fazlul-hoque-020826-01-1785665158.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Measles: 4 more die, 115 new cases]]></title>
+            <description><![CDATA[[Health] Measles: 4 more die, 115 new cases]]></description>
+            <link>https://bdnews24.com/health/ccf0fad3492e</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/ccf0fad3492e</guid>
+            <pubDate>Sun, 02 Aug 2026 17:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026March/SM/chattogram-medical-measles-corner-300326-03-1774973400.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[5 killed, 41 missing in Indonesian ferry fire]]></title>
+            <description><![CDATA[[World] 5 killed, 41 missing in Indonesian ferry fire]]></description>
+            <link>https://bdnews24.com/world/8af7c48b7f8e</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/8af7c48b7f8e</guid>
+            <pubDate>Sun, 02 Aug 2026 17:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/indonesia-fire-020826-01-1785669047.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Sanitation workers, locals clash in Uttarkhan]]></title>
             <description><![CDATA[[Bangladesh] Sanitation workers, locals clash in Uttarkhan]]></description>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/14287710d1ea</guid>
             <pubDate>Sun, 02 Aug 2026 11:41:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/kalabagan-thana-020826-01-1785649272.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 dead in Idaho shooting]]></title>
-            <description><![CDATA[[Americas] 3 dead in Idaho shooting]]></description>
-            <link>https://bdnews24.com/world/americas/7515ee97508d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/7515ee97508d</guid>
-            <pubDate>Sun, 02 Aug 2026 11:38:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/idaho-shooting-020826-01-1785649023.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israeli strikes kill four in Gaza]]></title>
-            <description><![CDATA[[West Asia] Israeli strikes kill four in Gaza]]></description>
-            <link>https://bdnews24.com/world/middle-east/56b012d860ba</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/56b012d860ba</guid>
-            <pubDate>Sun, 02 Aug 2026 11:14:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/palestinians-gaza-020826-01-1785647613.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Landslide death toll rises in China]]></title>
-            <description><![CDATA[[Asia Pacific] Landslide death toll rises in China]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/d6ef47e82d9a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/d6ef47e82d9a</guid>
-            <pubDate>Sun, 02 Aug 2026 10:56:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/china-landslide-020826-01-1785646537.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Capital One says it closed Trump Organization's accounts]]></title>
-            <description><![CDATA[[Business] Capital One says it closed Trump Organization's accounts]]></description>
-            <link>https://bdnews24.com/business/3bb865ee96a3</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/3bb865ee96a3</guid>
-            <pubDate>Sun, 02 Aug 2026 10:38:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/trump-iran-deal-020826-01-1785640257.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US bars imports from 43 more China companies]]></title>
-            <description><![CDATA[[Business] US bars imports from 43 more China companies]]></description>
-            <link>https://bdnews24.com/business/3a8e6b7bd9b8</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/3a8e6b7bd9b8</guid>
-            <pubDate>Sun, 02 Aug 2026 10:17:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-china-flags-171025-01-1785644164.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spain installs floating barrier after migrant rush]]></title>
-            <description><![CDATA[[Europe] Spain installs floating barrier after migrant rush]]></description>
-            <link>https://bdnews24.com/world/europe/c5928850fdbd</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/c5928850fdbd</guid>
-            <pubDate>Sun, 02 Aug 2026 10:17:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/spain-ceuta-migrant-barrier-020826-01-1785644164.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
