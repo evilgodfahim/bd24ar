@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Aug 2026 18:49:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2026 20:03:13 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Aug 2026 18:49:01 GMT</pubDate>
+        <pubDate>Sun, 02 Aug 2026 20:03:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Chinmoy gets bail but remains in custody]]></title>
+            <description><![CDATA[[Bangladesh] Chinmoy gets bail but remains in custody]]></description>
+            <link>https://bdnews24.com/bangladesh/1fa7d8ceef99</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1fa7d8ceef99</guid>
+            <pubDate>Mon, 03 Aug 2026 01:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024November/SM/chinmoy-arrest-fight-chattogram-261124-17-1732624500.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why measles deaths keep piling up]]></title>
+            <description><![CDATA[[Health] Why measles deaths keep piling up]]></description>
+            <link>https://bdnews24.com/health/68ce5d6e5d2e</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/68ce5d6e5d2e</guid>
+            <pubDate>Mon, 03 Aug 2026 01:18:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bandarban-measles-death-270726-03-1785170153.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Foreign debt repayment hits record]]></title>
+            <description><![CDATA[[Economy] Foreign debt repayment hits record]]></description>
+            <link>https://bdnews24.com/economy/5d78446a4e73</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/5d78446a4e73</guid>
+            <pubDate>Mon, 03 Aug 2026 01:03:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/dollar-333-1777820417.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Women free to convert, choose spouses: Allahabad HC]]></title>
+            <description><![CDATA[[Neighbours] Women free to convert, choose spouses: Allahabad HC]]></description>
+            <link>https://bdnews24.com/neighbours/979798ce2c2e</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/979798ce2c2e</guid>
+            <pubDate>Mon, 03 Aug 2026 00:59:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/allahabad-high-court-010826-01-1785696993.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Ctg gas crisis deepens as Dhaka gets more supply]]></title>
             <description><![CDATA[[Bangladesh] Ctg gas crisis deepens as Dhaka gets more supply]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/6289f332ee91</guid>
             <pubDate>Sun, 02 Aug 2026 21:12:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/brahambaria-two-injured-020826-01-1785680325.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chhetri urges Tata to save Jamshedpur]]></title>
-            <description><![CDATA[[Sport] Chhetri urges Tata to save Jamshedpur]]></description>
-            <link>https://bdnews24.com/sport/5ed1d47011a0</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/5ed1d47011a0</guid>
-            <pubDate>Sun, 02 Aug 2026 21:05:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/kxu26qnip5lc5bhj5coq5uizuu-1785683074.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[72 dead after migrant surge into Ceuta]]></title>
-            <description><![CDATA[[World] 72 dead after migrant surge into Ceuta]]></description>
-            <link>https://bdnews24.com/world/40beffb57104</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/40beffb57104</guid>
-            <pubDate>Sun, 02 Aug 2026 21:00:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/cueta-death-020826-01-1785682761.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Musk dismisses Tesla’s China sale report]]></title>
-            <description><![CDATA[[Business] Musk dismisses Tesla’s China sale report]]></description>
-            <link>https://bdnews24.com/business/63742fd33702</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/63742fd33702</guid>
-            <pubDate>Sun, 02 Aug 2026 20:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/musk-china-020826-01-1785681436.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bomber kills 3, injures 21 near Moscow restaurant]]></title>
-            <description><![CDATA[[World] Bomber kills 3, injures 21 near Moscow restaurant]]></description>
-            <link>https://bdnews24.com/world/9ea872c79fc1</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/9ea872c79fc1</guid>
-            <pubDate>Sun, 02 Aug 2026 20:25:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/moscow-bombing-02082026-01-1785680672.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
