@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Aug 2026 15:50:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2026 16:42:38 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Aug 2026 15:50:19 GMT</pubDate>
+        <pubDate>Sun, 02 Aug 2026 16:42:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Hasina set for first public appearance in India: report]]></title>
+            <description><![CDATA[[Bangladesh] Hasina set for first public appearance in India: report]]></description>
+            <link>https://bdnews24.com/bangladesh/88a3719fe97b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/88a3719fe97b</guid>
+            <pubDate>Sun, 02 Aug 2026 22:36:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2025November/SM/sheikh-hasina-161125-202-1763368762.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Washington state wildfires force mass evacuations]]></title>
+            <description><![CDATA[[Americas] Washington state wildfires force mass evacuations]]></description>
+            <link>https://bdnews24.com/world/americas/91cfa944e625</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/91cfa944e625</guid>
+            <pubDate>Sun, 02 Aug 2026 22:04:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/washington-wildfire-020826-01-1785686589.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Fleming key to Root’s captaincy return]]></title>
             <description><![CDATA[[Sport] Fleming key to Root’s captaincy return]]></description>
@@ -17,8 +33,8 @@
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/joe-root-300726-01-1785411966.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA['Spider-Man: Brand New Day' makes $355mn in US, Canada debut]]></title>
-            <description><![CDATA[[Entertainment] 'Spider-Man: Brand New Day' makes $355mn in US, Canada debut]]></description>
+            <title><![CDATA['Spider-Man: Brand New Day' debuts with $927mn globally]]></title>
+            <description><![CDATA[[Entertainment] 'Spider-Man: Brand New Day' debuts with $927mn globally]]></description>
             <link>https://bdnews24.com/entertainment/cd3b64b14048</link>
             <guid isPermaLink="true">https://bdnews24.com/entertainment/cd3b64b14048</guid>
             <pubDate>Sun, 02 Aug 2026 21:32:00 GMT</pubDate>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/9f0a0de85ab9</guid>
             <pubDate>Sun, 02 Aug 2026 19:23:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/wasa-chairman-sabbir-mostafa-khan-02082026-1785673603.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[DU admission applications open Nov 11]]></title>
-            <description><![CDATA[[Campus] DU admission applications open Nov 11]]></description>
-            <link>https://bdnews24.com/campus/8e098397481a</link>
-            <guid isPermaLink="true">https://bdnews24.com/campus/8e098397481a</guid>
-            <pubDate>Sun, 02 Aug 2026 19:15:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024June/SM/dhaka-university-050624-01-1717588202.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt moves to challenge Benazir’s Dubai bail]]></title>
-            <description><![CDATA[[Bangladesh] Govt moves to challenge Benazir’s Dubai bail]]></description>
-            <link>https://bdnews24.com/bangladesh/1f0bd0b07e36</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1f0bd0b07e36</guid>
-            <pubDate>Sun, 02 Aug 2026 19:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rajshahi-home-minister-020826-01-1785672858.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
