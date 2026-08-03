@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Aug 2026 17:38:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 19:14:11 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Aug 2026 17:38:34 GMT</pubDate>
+        <pubDate>Mon, 03 Aug 2026 19:14:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Apple challenges UK encryption demand: FT]]></title>
+            <description><![CDATA[[Technology] Apple challenges UK encryption demand: FT]]></description>
+            <link>https://bdnews24.com/technology/842d85cbf0c2</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/842d85cbf0c2</guid>
+            <pubDate>Tue, 04 Aug 2026 01:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/apple-logo-040826-01-1785784212.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran talks are going on 'right now': Trump]]></title>
+            <description><![CDATA[[World] Iran talks are going on 'right now': Trump]]></description>
+            <link>https://bdnews24.com/world/dfa326ec2169</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/dfa326ec2169</guid>
+            <pubDate>Tue, 04 Aug 2026 00:53:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/donald-trump-040826-01-1785783159.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Govt considers retaining lottery for school admissions]]></title>
+            <description><![CDATA[[Bangladesh] Govt considers retaining lottery for school admissions]]></description>
+            <link>https://bdnews24.com/bangladesh/b56185b772ba</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b56185b772ba</guid>
+            <pubDate>Mon, 03 Aug 2026 23:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/moualvibazar-flowers-high-school-051223-1785775336.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Draft law offers capital punishment, compensation for disappearances]]></title>
             <description><![CDATA[[Bangladesh] Draft law offers capital punishment, compensation for disappearances]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/d102b7383bbc</guid>
             <pubDate>Mon, 03 Aug 2026 20:04:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/gas-crisis-cng-filling-station-240726-025-1784907650.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt asks India to clarify stance on Hasina event]]></title>
-            <description><![CDATA[[Bangladesh] Govt asks India to clarify stance on Hasina event]]></description>
-            <link>https://bdnews24.com/bangladesh/37f781e46a7f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/37f781e46a7f</guid>
-            <pubDate>Mon, 03 Aug 2026 19:50:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026March/SM/shama-obaed-islam-240326-01-1774363338.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Romania reroutes Danube, Hungary gets reprieve]]></title>
-            <description><![CDATA[[World] Romania reroutes Danube, Hungary gets reprieve]]></description>
-            <link>https://bdnews24.com/world/07e3e0ed7168</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/07e3e0ed7168</guid>
-            <pubDate>Mon, 03 Aug 2026 19:42:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/hungary-romania-030826-01-1785764500.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Webb spots signs of ancient Neptune moon disaster]]></title>
-            <description><![CDATA[[Science] Webb spots signs of ancient Neptune moon disaster]]></description>
-            <link>https://bdnews24.com/science/bf2c14b05c06</link>
-            <guid isPermaLink="true">https://bdnews24.com/science/bf2c14b05c06</guid>
-            <pubDate>Mon, 03 Aug 2026 19:28:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/webb-neptune-03082026-01-1785763646.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
