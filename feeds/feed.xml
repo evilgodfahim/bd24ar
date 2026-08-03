@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Aug 2026 19:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 20:51:45 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Aug 2026 19:14:11 GMT</pubDate>
+        <pubDate>Mon, 03 Aug 2026 20:51:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Gas squeeze sends power costs soaring]]></title>
+            <description><![CDATA[[Bangladesh] Gas squeeze sends power costs soaring]]></description>
+            <link>https://bdnews24.com/bangladesh/2055ac4335f1</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2055ac4335f1</guid>
+            <pubDate>Tue, 04 Aug 2026 01:44:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/electricity-crisis-loadsheding-230426-01-1776974056.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gas crunch worsens in Ctg]]></title>
+            <description><![CDATA[[Bangladesh] Gas crunch worsens in Ctg]]></description>
+            <link>https://bdnews24.com/bangladesh/4e5829111160</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4e5829111160</guid>
+            <pubDate>Tue, 04 Aug 2026 01:28:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/chattogram-waiting-for-gas-030826-02-1785781516.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Apple challenges UK encryption demand: FT]]></title>
             <description><![CDATA[[Technology] Apple challenges UK encryption demand: FT]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/ccc98439105e</guid>
             <pubDate>Mon, 03 Aug 2026 20:07:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/japan-kumamoto-030826-01-1785765973.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[From river to marmalade: Wax gourds hit Dhaka]]></title>
-            <description><![CDATA[[Image] From river to marmalade: Wax gourds hit Dhaka]]></description>
-            <link>https://bdnews24.com/media-en/image/f3a9482d6520</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/f3a9482d6520</guid>
-            <pubDate>Mon, 03 Aug 2026 20:05:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/pumpkin-shyambazar-030826-007-1785760273.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Moheshkhali LNG terminal 'partially operational' soon: Petrobangla]]></title>
-            <description><![CDATA[[Bangladesh] Moheshkhali LNG terminal 'partially operational' soon: Petrobangla]]></description>
-            <link>https://bdnews24.com/bangladesh/d102b7383bbc</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d102b7383bbc</guid>
-            <pubDate>Mon, 03 Aug 2026 20:04:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/gas-crisis-cng-filling-station-240726-025-1784907650.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
