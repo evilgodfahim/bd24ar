@@ -4,10 +4,138 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Aug 2026 01:30:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 04:51:21 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 04 Aug 2026 01:30:22 GMT</pubDate>
+        <pubDate>Tue, 04 Aug 2026 04:51:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Spectrum pricing standoff: who blinks first?]]></title>
+            <description><![CDATA[[Business] Spectrum pricing standoff: who blinks first?]]></description>
+            <link>https://bdnews24.com/business/8c905b19616e</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/8c905b19616e</guid>
+            <pubDate>Tue, 04 Aug 2026 10:50:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mobile-spectrum-030826-01-1785812781.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Asia stocks move higher]]></title>
+            <description><![CDATA[[Economy] Asia stocks move higher]]></description>
+            <link>https://bdnews24.com/economy/703be7ff5805</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/703be7ff5805</guid>
+            <pubDate>Tue, 04 Aug 2026 10:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/japan-nikkei-180226-01-1785818386.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[China seeks to mitigate floods, landslides]]></title>
+            <description><![CDATA[[Asia Pacific] China seeks to mitigate floods, landslides]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/fbe454c9319e</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/fbe454c9319e</guid>
+            <pubDate>Tue, 04 Aug 2026 10:03:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/china-flood-landslide-mitigation-040826-01-1785816203.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[FAA certifies Boeing 737 MAX 7]]></title>
+            <description><![CDATA[[Aviation] FAA certifies Boeing 737 MAX 7]]></description>
+            <link>https://bdnews24.com/aviation/9e1cc0a5bc7b</link>
+            <guid isPermaLink="true">https://bdnews24.com/aviation/9e1cc0a5bc7b</guid>
+            <pubDate>Tue, 04 Aug 2026 10:01:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/boeing-logo-040826-01-1785816059.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japan casts military buildup as path to prosperity]]></title>
+            <description><![CDATA[[Asia Pacific] Japan casts military buildup as path to prosperity]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/9f067f878bc1</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/9f067f878bc1</guid>
+            <pubDate>Tue, 04 Aug 2026 09:57:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/japan-defence-buildup-economy-040826-01-1785815852.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Top US court allows $655bn judgment against Palestinians]]></title>
+            <description><![CDATA[[World] Top US court allows $655bn judgment against Palestinians]]></description>
+            <link>https://bdnews24.com/world/dced78eb44ca</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/dced78eb44ca</guid>
+            <pubDate>Tue, 04 Aug 2026 09:54:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-supreme-court-palestine-040826-01-1785815633.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cuba's power grid collapses again]]></title>
+            <description><![CDATA[[Americas] Cuba's power grid collapses again]]></description>
+            <link>https://bdnews24.com/world/americas/9b8f35e2c83f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/9b8f35e2c83f</guid>
+            <pubDate>Tue, 04 Aug 2026 09:50:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/cuba-grid-collapse-040826-01-1785815424.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heatwave kills 16 in S Korea]]></title>
+            <description><![CDATA[[Asia Pacific] Heatwave kills 16 in S Korea]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/1f4f9a429b5e</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/1f4f9a429b5e</guid>
+            <pubDate>Tue, 04 Aug 2026 09:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/south-korea-heatwave-040826-01-1785815195.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[TikTok settling three teen social media lawsuits]]></title>
+            <description><![CDATA[[Technology] TikTok settling three teen social media lawsuits]]></description>
+            <link>https://bdnews24.com/technology/d1d0369bb34d</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/d1d0369bb34d</guid>
+            <pubDate>Tue, 04 Aug 2026 09:43:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/tiktok-teen-lawsuit-040826-01-1785814970.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US calls AI giants for safety talks]]></title>
+            <description><![CDATA[[Technology] US calls AI giants for safety talks]]></description>
+            <link>https://bdnews24.com/technology/bbc4bfd8bd29</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/bbc4bfd8bd29</guid>
+            <pubDate>Tue, 04 Aug 2026 09:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ai-logo-040826-1785814760.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gulf shipping little changed by uncertain peace talks]]></title>
+            <description><![CDATA[[West Asia] Gulf shipping little changed by uncertain peace talks]]></description>
+            <link>https://bdnews24.com/world/middle-east/2072dd06c617</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/2072dd06c617</guid>
+            <pubDate>Tue, 04 Aug 2026 09:34:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/gulf-shipping-peace-talks-040826-01-1785814449.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Colo-Colo sign World Cup star Vozinha]]></title>
+            <description><![CDATA[[Sport] Colo-Colo sign World Cup star Vozinha]]></description>
+            <link>https://bdnews24.com/sport/50eb2962b6d3</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/50eb2962b6d3</guid>
+            <pubDate>Tue, 04 Aug 2026 09:23:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/vozinha-040826-1785813772.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump tells Exxon, Chevron to cut gasoline prices]]></title>
+            <description><![CDATA[[Americas] Trump tells Exxon, Chevron to cut gasoline prices]]></description>
+            <link>https://bdnews24.com/world/americas/432529e85959</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/432529e85959</guid>
+            <pubDate>Tue, 04 Aug 2026 09:20:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/chevron-refinery-040826-01-1785813513.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Quake toll passes 6,000 in Venezuela]]></title>
+            <description><![CDATA[[Americas] Quake toll passes 6,000 in Venezuela]]></description>
+            <link>https://bdnews24.com/world/americas/1c186fa6766d</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/1c186fa6766d</guid>
+            <pubDate>Tue, 04 Aug 2026 09:14:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/venezuela-040826-1785813256.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US to close 5 overseas missions]]></title>
+            <description><![CDATA[[Americas] US to close 5 overseas missions]]></description>
+            <link>https://bdnews24.com/world/americas/1dbd10f6dff9</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/1dbd10f6dff9</guid>
+            <pubDate>Tue, 04 Aug 2026 09:04:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-state-dep-040826-1785812617.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[25 states seek to block Trump's new tariffs]]></title>
+            <description><![CDATA[[Americas] 25 states seek to block Trump's new tariffs]]></description>
+            <link>https://bdnews24.com/world/americas/4dfcee95febc</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/4dfcee95febc</guid>
+            <pubDate>Tue, 04 Aug 2026 08:51:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-import-040826-1785811841.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Gas squeeze sends power costs soaring]]></title>
             <description><![CDATA[[Bangladesh] Gas squeeze sends power costs soaring]]></description>
@@ -39,134 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/dfa326ec2169</guid>
             <pubDate>Tue, 04 Aug 2026 00:53:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/donald-trump-040826-01-1785783159.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt considers retaining lottery for school admissions]]></title>
-            <description><![CDATA[[Bangladesh] Govt considers retaining lottery for school admissions]]></description>
-            <link>https://bdnews24.com/bangladesh/b56185b772ba</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b56185b772ba</guid>
-            <pubDate>Mon, 03 Aug 2026 23:40:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/moualvibazar-flowers-high-school-051223-1785775336.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Draft law offers capital punishment, compensation for disappearances]]></title>
-            <description><![CDATA[[Bangladesh] Draft law offers capital punishment, compensation for disappearances]]></description>
-            <link>https://bdnews24.com/bangladesh/668d1ae3a66c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/668d1ae3a66c</guid>
-            <pubDate>Mon, 03 Aug 2026 22:38:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/aynaghar-muhammad-yunus-visite-120225-023-1784638015.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Reddy gets 8-year ban for match-fixing]]></title>
-            <description><![CDATA[[Sport] Reddy gets 8-year ban for match-fixing]]></description>
-            <link>https://bdnews24.com/sport/619634d6613d</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/619634d6613d</guid>
-            <pubDate>Mon, 03 Aug 2026 22:27:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/akhilesh-030826-01-1785754107.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US finalises voluntary AI safety tests]]></title>
-            <description><![CDATA[[Technology] US finalises voluntary AI safety tests]]></description>
-            <link>https://bdnews24.com/technology/66d45abc9c1f</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/66d45abc9c1f</guid>
-            <pubDate>Mon, 03 Aug 2026 22:17:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-ai-030826-01-1785773809.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chelsea sign England midfielder Henderson]]></title>
-            <description><![CDATA[[Sport] Chelsea sign England midfielder Henderson]]></description>
-            <link>https://bdnews24.com/sport/b2a17ffac6bc</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/b2a17ffac6bc</guid>
-            <pubDate>Mon, 03 Aug 2026 21:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/jordan-henderson-030826-01-1785772411.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[England, Wales record driest-ever July]]></title>
-            <description><![CDATA[[Environment] England, Wales record driest-ever July]]></description>
-            <link>https://bdnews24.com/environment/28cb9810085d</link>
-            <guid isPermaLink="true">https://bdnews24.com/environment/28cb9810085d</guid>
-            <pubDate>Mon, 03 Aug 2026 21:50:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/uk-dry-03082026-01-1785772204.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UK open to AI regulation]]></title>
-            <description><![CDATA[[Technology] UK open to AI regulation]]></description>
-            <link>https://bdnews24.com/technology/a6e8f609e79b</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/a6e8f609e79b</guid>
-            <pubDate>Mon, 03 Aug 2026 21:47:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/britain-ai-030829-01-1785771932.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hasina will be taken to gallows straight from airport: Nahid]]></title>
-            <description><![CDATA[[Bangladesh] Hasina will be taken to gallows straight from airport: Nahid]]></description>
-            <link>https://bdnews24.com/bangladesh/dd4240cafa8c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/dd4240cafa8c</guid>
-            <pubDate>Mon, 03 Aug 2026 21:43:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/nahid-islam-at-ncp-program-03062026-1785769984.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka ‘positive’ on US civil nuclear cooperation plan]]></title>
-            <description><![CDATA[[Bangladesh] Dhaka ‘positive’ on US civil nuclear cooperation plan]]></description>
-            <link>https://bdnews24.com/bangladesh/e16cad72e993</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e16cad72e993</guid>
-            <pubDate>Mon, 03 Aug 2026 21:25:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rooppur-nuclear-power-plant-1000-1785766756.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Infantino ‘sought’ Trump backing after failed sell-off plan]]></title>
-            <description><![CDATA[[Sport] Infantino ‘sought’ Trump backing after failed sell-off plan]]></description>
-            <link>https://bdnews24.com/sport/f6d167f7d9da</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/f6d167f7d9da</guid>
-            <pubDate>Mon, 03 Aug 2026 21:16:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/infantino-trump-030826-01-1785770149.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pochettino extends US contract through 2030]]></title>
-            <description><![CDATA[[Sport] Pochettino extends US contract through 2030]]></description>
-            <link>https://bdnews24.com/sport/f6d6adba12f2</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/f6d6adba12f2</guid>
-            <pubDate>Mon, 03 Aug 2026 21:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/pochettino-extend-contract-03082026-01-1785769263.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[EU can give Morocco more border support: president to Spain]]></title>
-            <description><![CDATA[[World] EU can give Morocco more border support: president to Spain]]></description>
-            <link>https://bdnews24.com/world/24430efd56b8</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/24430efd56b8</guid>
-            <pubDate>Mon, 03 Aug 2026 20:59:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/eu-support-morocco-03082026-01-1785768989.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump's Gaza rhetoric collides with reality]]></title>
-            <description><![CDATA[[World] Trump's Gaza rhetoric collides with reality]]></description>
-            <link>https://bdnews24.com/world/9f28cfbb8eac</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/9f28cfbb8eac</guid>
-            <pubDate>Mon, 03 Aug 2026 20:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/gaza-trump-030826-01-1785767997.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ship stuck after hitting buoy in Ctg]]></title>
-            <description><![CDATA[[Bangladesh] Ship stuck after hitting buoy in Ctg]]></description>
-            <link>https://bdnews24.com/bangladesh/4308e064a016</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4308e064a016</guid>
-            <pubDate>Mon, 03 Aug 2026 20:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/chattogram-ship-accident-030826-01-1785763039.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka asks Delhi to block Hasina’s political activity]]></title>
-            <description><![CDATA[[Bangladesh] Dhaka asks Delhi to block Hasina’s political activity]]></description>
-            <link>https://bdnews24.com/bangladesh/33dabfd9a30b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/33dabfd9a30b</guid>
-            <pubDate>Mon, 03 Aug 2026 20:15:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/dinesh-trivedi-humayun-kabir-030824-01-1785763584.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kumamoto quake linked to rare inland faulting]]></title>
-            <description><![CDATA[[World] Kumamoto quake linked to rare inland faulting]]></description>
-            <link>https://bdnews24.com/world/ccc98439105e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ccc98439105e</guid>
-            <pubDate>Mon, 03 Aug 2026 20:07:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/japan-kumamoto-030826-01-1785765973.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
