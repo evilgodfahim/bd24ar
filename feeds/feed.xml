@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News]]></title>
-        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
+        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Aug 2026 22:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 23:52:08 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 04 Aug 2026 22:09:48 GMT</pubDate>
+        <pubDate>Tue, 04 Aug 2026 23:52:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Chelsea undecided on Mudryk future: Alonso]]></title>
-            <description><![CDATA[[Sport] Chelsea undecided on Mudryk future: Alonso]]></description>
-            <link>https://bdnews24.com/sport/dbd461ccdaeb</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/dbd461ccdaeb</guid>
-            <pubDate>Wed, 05 Aug 2026 01:59:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/mykhailo-mudryk-050826-01-1785873566.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[HC questions men-only punishment for marriage-promise sex]]></title>
-            <description><![CDATA[[Bangladesh] HC questions men-only punishment for marriage-promise sex]]></description>
-            <link>https://bdnews24.com/bangladesh/66f9cc4e9836</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/66f9cc4e9836</guid>
-            <pubDate>Wed, 05 Aug 2026 01:56:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/highcourt-080726-01-1783528631.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US line up four friendlies]]></title>
-            <description><![CDATA[[Sport] US line up four friendlies]]></description>
-            <link>https://bdnews24.com/sport/94c901bd999d</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/94c901bd999d</guid>
-            <pubDate>Wed, 05 Aug 2026 01:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/mauricio-pochettino-040826-01-1785873229.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Renard named Ivory Coast coach]]></title>
-            <description><![CDATA[[Sport] Renard named Ivory Coast coach]]></description>
-            <link>https://bdnews24.com/sport/9ad25583931b</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/9ad25583931b</guid>
-            <pubDate>Wed, 05 Aug 2026 01:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/herve-renard-040826-01-1785872936.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mothers still ask: who killed our children?]]></title>
-            <description><![CDATA[[Bangladesh] Mothers still ask: who killed our children?]]></description>
-            <link>https://bdnews24.com/bangladesh/18d6d0d00465</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/18d6d0d00465</guid>
-            <pubDate>Wed, 05 Aug 2026 01:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/golam-nafiz-040826-04-1785871645.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[July reform pact faces political test]]></title>
-            <description><![CDATA[[Politics] July reform pact faces political test]]></description>
-            <link>https://bdnews24.com/politics/adac618fa566</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/adac618fa566</guid>
-            <pubDate>Wed, 05 Aug 2026 01:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025October/SM/july-charter-signing-ceremony-171025-02-1760704603.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gas crunch slashes garment output]]></title>
-            <description><![CDATA[[Business] Gas crunch slashes garment output]]></description>
-            <link>https://bdnews24.com/business/11d8ff60a38c</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/11d8ff60a38c</guid>
-            <pubDate>Wed, 05 Aug 2026 00:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bgmea-btma-040726-01-1785864047.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[FIFA owes US host cities millions: report]]></title>
-            <description><![CDATA[[Sport] FIFA owes US host cities millions: report]]></description>
-            <link>https://bdnews24.com/sport/1863a37cdc3a</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/1863a37cdc3a</guid>
-            <pubDate>Wed, 05 Aug 2026 00:22:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/wc-final-040826-01-1785867758.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Two years on, what did July change?]]></title>
-            <description><![CDATA[[Bangladesh] Two years on, what did July change?]]></description>
-            <link>https://bdnews24.com/bangladesh/799a887de2f6</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/799a887de2f6</guid>
-            <pubDate>Tue, 04 Aug 2026 23:36:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024August/SM/ganabhaban-people-050824-07-1722869908.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Qatar reports progress in US-Iran talks]]></title>
-            <description><![CDATA[[World] Qatar reports progress in US-Iran talks]]></description>
-            <link>https://bdnews24.com/world/123d79a8b707</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/123d79a8b707</guid>
-            <pubDate>Tue, 04 Aug 2026 23:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/qatar-iran-talks-04082026-01-1785863577.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tonu ‘murder’: Former army officer freed on bail]]></title>
-            <description><![CDATA[[Bangladesh] Tonu ‘murder’: Former army officer freed on bail]]></description>
-            <link>https://bdnews24.com/bangladesh/dc2d6c38d9d6</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/dc2d6c38d9d6</guid>
-            <pubDate>Tue, 04 Aug 2026 22:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/cumilla-tanu-murder-040826-01-1785855784.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Experts stress stronger skills-job link]]></title>
-            <description><![CDATA[[Bangladesh] Experts stress stronger skills-job link]]></description>
-            <link>https://bdnews24.com/bangladesh/b615a88a84fc</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b615a88a84fc</guid>
-            <pubDate>Tue, 04 Aug 2026 22:35:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/pksf-pr-04082026-01-1785861281.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan ‘restricts’ Al Jazeera access over Kashmir reports]]></title>
-            <description><![CDATA[[Media] Pakistan ‘restricts’ Al Jazeera access over Kashmir reports]]></description>
-            <link>https://bdnews24.com/media-en/6dcac0a64d3b</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/6dcac0a64d3b</guid>
-            <pubDate>Tue, 04 Aug 2026 22:20:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/al-jazeera-040726-01-1785859449.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chinese mountain flower joins carnivorous plant club]]></title>
-            <description><![CDATA[[Science] Chinese mountain flower joins carnivorous plant club]]></description>
-            <link>https://bdnews24.com/science/2401dfdf6b64</link>
-            <guid isPermaLink="true">https://bdnews24.com/science/2401dfdf6b64</guid>
-            <pubDate>Tue, 04 Aug 2026 21:52:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/china-flower-04082026-01-1785858696.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Handcrafted gold jewellery in Tanti Bazar]]></title>
-            <description><![CDATA[[Image] Handcrafted gold jewellery in Tanti Bazar]]></description>
-            <link>https://bdnews24.com/media-en/image/3ca9da69e28f</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/3ca9da69e28f</guid>
-            <pubDate>Tue, 04 Aug 2026 21:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tantibazar-jewelry-maker-040826-20-1785847576.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US used 'virtually all' of its long-range precision missiles]]></title>
-            <description><![CDATA[[World] US used 'virtually all' of its long-range precision missiles]]></description>
-            <link>https://bdnews24.com/world/0070bb867881</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/0070bb867881</guid>
-            <pubDate>Tue, 04 Aug 2026 21:38:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-missiles-04082026-01-1785857814.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dengue hospitalisations surge past 17,000]]></title>
-            <description><![CDATA[[Health] Dengue hospitalisations surge past 17,000]]></description>
-            <link>https://bdnews24.com/health/f1957f89173d</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/f1957f89173d</guid>
-            <pubDate>Tue, 04 Aug 2026 21:20:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dengue-patient-310726-19-1785500680.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Only Hasina’s hate speech barred: prosecutor]]></title>
-            <description><![CDATA[[Bangladesh] Only Hasina’s hate speech barred: prosecutor]]></description>
-            <link>https://bdnews24.com/bangladesh/679d0e02b32e</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/679d0e02b32e</guid>
-            <pubDate>Tue, 04 Aug 2026 21:14:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/chief-prosecutor-aminul-islam-040826-01-1785855593.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine accuses Russia of war crime]]></title>
-            <description><![CDATA[[World] Ukraine accuses Russia of war crime]]></description>
-            <link>https://bdnews24.com/world/1b17488443ca</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/1b17488443ca</guid>
-            <pubDate>Tue, 04 Aug 2026 20:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ukraine-russia-war-crime-04082026-01-1785855287.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[N Korea to honour Vietnam War dead after 60 years]]></title>
-            <description><![CDATA[[World] N Korea to honour Vietnam War dead after 60 years]]></description>
-            <link>https://bdnews24.com/world/f638ed2c5454</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/f638ed2c5454</guid>
-            <pubDate>Tue, 04 Aug 2026 20:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/nkorea-viet-war-04082026-01-1785855206.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
+            <link>https://bdnews24.com</link>
+            <guid isPermaLink="true">https://bdnews24.com</guid>
+            <pubDate>Tue, 04 Aug 2026 23:52:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
