@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Aug 2026 19:08:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 20:53:03 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Aug 2026 19:08:55 GMT</pubDate>
+        <pubDate>Wed, 05 Aug 2026 20:53:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Ex-MP, AL leader Akhtaruzzaman held]]></title>
+            <description><![CDATA[[Bangladesh] Ex-MP, AL leader Akhtaruzzaman held]]></description>
+            <link>https://bdnews24.com/bangladesh/398e3c5fe773</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/398e3c5fe773</guid>
+            <pubDate>Thu, 06 Aug 2026 01:34:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/akhteruzzaman-al-mp-gazipur-050826-1785957616.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh’s Saudi alliance dilemma]]></title>
+            <description><![CDATA[[Bangladesh] Bangladesh’s Saudi alliance dilemma]]></description>
+            <link>https://bdnews24.com/bangladesh/2994def2dd16</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2994def2dd16</guid>
+            <pubDate>Thu, 06 Aug 2026 01:29:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/red-sea-alliance-040826-02-1785957530.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Ex-Pakistani minister accused of rape wins seat again]]></title>
             <description><![CDATA[[World] Ex-Pakistani minister accused of rape wins seat again]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/b14bdfff1fe3</guid>
             <pubDate>Wed, 05 Aug 2026 19:44:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/mozaffar-hossain-230726-05-1784792210.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Excessive antimicrobial residues found in poultry meat: study]]></title>
-            <description><![CDATA[[Health] Excessive antimicrobial residues found in poultry meat: study]]></description>
-            <link>https://bdnews24.com/health/5d01b7eaca93</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/5d01b7eaca93</guid>
-            <pubDate>Wed, 05 Aug 2026 19:05:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/poultry-1000-1785932749.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Meta says sorry for blocking Modi’s post]]></title>
-            <description><![CDATA[[Technology] Meta says sorry for blocking Modi’s post]]></description>
-            <link>https://bdnews24.com/technology/050487aedfa1</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/050487aedfa1</guid>
-            <pubDate>Wed, 05 Aug 2026 18:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/meta-india-050826-01-1785934492.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
