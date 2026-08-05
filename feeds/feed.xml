@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Aug 2026 17:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 19:08:55 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Aug 2026 17:15:52 GMT</pubDate>
+        <pubDate>Wed, 05 Aug 2026 19:08:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Ex-Pakistani minister accused of rape wins seat again]]></title>
+            <description><![CDATA[[World] Ex-Pakistani minister accused of rape wins seat again]]></description>
+            <link>https://bdnews24.com/world/12c28f679e99</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/12c28f679e99</guid>
+            <pubDate>Thu, 06 Aug 2026 01:01:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rukhsar-ahmed-050826-01-1785953781.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Real Madrid ‘agree’ €140mn deal for Yan Diomande]]></title>
+            <description><![CDATA[[Sport] Real Madrid ‘agree’ €140mn deal for Yan Diomande]]></description>
+            <link>https://bdnews24.com/sport/895c6288585e</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/895c6288585e</guid>
+            <pubDate>Thu, 06 Aug 2026 00:21:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/yan-diomande-030826-01-1785761900.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Germany on alert after explosive drone found at airport]]></title>
+            <description><![CDATA[[World] Germany on alert after explosive drone found at airport]]></description>
+            <link>https://bdnews24.com/world/7f4f97383534</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/7f4f97383534</guid>
+            <pubDate>Thu, 06 Aug 2026 00:19:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/police-germany-050826-01-1785949402.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka fumes over Hasina’s Delhi event]]></title>
+            <description><![CDATA[[Bangladesh] Dhaka fumes over Hasina’s Delhi event]]></description>
+            <link>https://bdnews24.com/bangladesh/4dc63a643911</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4dc63a643911</guid>
+            <pubDate>Thu, 06 Aug 2026 00:13:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024August/SM/foreign-ministry-150824-01-1723744559.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shakib’s Magura home comes under attack]]></title>
+            <description><![CDATA[[Bangladesh] Shakib’s Magura home comes under attack]]></description>
+            <link>https://bdnews24.com/bangladesh/3db58972da2c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3db58972da2c</guid>
+            <pubDate>Wed, 05 Aug 2026 23:43:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/magura-sakib-al-hasan-050826-01-1785949812.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Suspected SpaceX rocket debris crashes into moon]]></title>
             <description><![CDATA[[Science] Suspected SpaceX rocket debris crashes into moon]]></description>
@@ -41,8 +81,8 @@
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/alia-madrasa-clash-050826-19-1785939384.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Scientists spot ‘Starry Night’ swirls on the sun]]></title>
-            <description><![CDATA[[Science] Scientists spot ‘Starry Night’ swirls on the sun]]></description>
+            <title><![CDATA[Scientists spot ‘Starry Night’ swirls on the Sun]]></title>
+            <description><![CDATA[[Science] Scientists spot ‘Starry Night’ swirls on the Sun]]></description>
             <link>https://bdnews24.com/science/01620d29b9b0</link>
             <guid isPermaLink="true">https://bdnews24.com/science/01620d29b9b0</guid>
             <pubDate>Wed, 05 Aug 2026 22:03:00 GMT</pubDate>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/technology/050487aedfa1</guid>
             <pubDate>Wed, 05 Aug 2026 18:55:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/meta-india-050826-01-1785934492.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kyiv struck as air defence missile stocks run low]]></title>
-            <description><![CDATA[[Europe] Kyiv struck as air defence missile stocks run low]]></description>
-            <link>https://bdnews24.com/world/europe/12fdc1529a39</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/12fdc1529a39</guid>
-            <pubDate>Wed, 05 Aug 2026 17:56:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/kyiv-struck-air-defence-050826-01-1785930973.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hafiz rues chaos at July Uprising event]]></title>
-            <description><![CDATA[[Bangladesh] Hafiz rues chaos at July Uprising event]]></description>
-            <link>https://bdnews24.com/bangladesh/0e25bfae5a8d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0e25bfae5a8d</guid>
-            <pubDate>Wed, 05 Aug 2026 17:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/president-hafiz-uddin-ahmad-050826-01-1785928122.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eggs hurled at NCP’s Tanvir in Bogura]]></title>
-            <description><![CDATA[[Bangladesh] Eggs hurled at NCP’s Tanvir in Bogura]]></description>
-            <link>https://bdnews24.com/bangladesh/86fa8e76383a</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/86fa8e76383a</guid>
-            <pubDate>Wed, 05 Aug 2026 17:15:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bogura-ncp-court-050826-01-1785927112.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ex-joint secretary Jaglul Pasha arrested]]></title>
-            <description><![CDATA[[Politics] Ex-joint secretary Jaglul Pasha arrested]]></description>
-            <link>https://bdnews24.com/politics/143ea7ca18bc</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/143ea7ca18bc</guid>
-            <pubDate>Wed, 05 Aug 2026 16:48:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/zaglul-pasha-050826-01-1785923177.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian chillies flow in via Benapole]]></title>
-            <description><![CDATA[[Business] Indian chillies flow in via Benapole]]></description>
-            <link>https://bdnews24.com/business/7184943a4061</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/7184943a4061</guid>
-            <pubDate>Wed, 05 Aug 2026 16:44:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/benapole-chili-050826-01-1785922767.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
