@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 18:35:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 19:41:54 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 18:35:39 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 19:41:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Fire breaks out at Netrokona shop]]></title>
+            <description><![CDATA[[Bangladesh] Fire breaks out at Netrokona shop]]></description>
+            <link>https://bdnews24.com/bangladesh/34701c437590</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/34701c437590</guid>
+            <pubDate>Sat, 08 Aug 2026 01:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/netrakona-fire-070826-01-1786123777.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heatwaves expose overcrowding in Europe prisons]]></title>
+            <description><![CDATA[[World] Heatwaves expose overcrowding in Europe prisons]]></description>
+            <link>https://bdnews24.com/world/abe36a5ff6d1</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/abe36a5ff6d1</guid>
+            <pubDate>Sat, 08 Aug 2026 01:36:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/heatwave-europe-08082026-01-1786131400.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hilsa in troubled waters]]></title>
+            <description><![CDATA[[Special] Hilsa in troubled waters]]></description>
+            <link>https://bdnews24.com/special/03da90de1eb9</link>
+            <guid isPermaLink="true">https://bdnews24.com/special/03da90de1eb9</guid>
+            <pubDate>Sat, 08 Aug 2026 01:29:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/chattogram-no-hilsa-in-the-fishermen-s-nets-210823-05-1786130704.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Norway FA chief urges Infantino to resign]]></title>
+            <description><![CDATA[[Sport] Norway FA chief urges Infantino to resign]]></description>
+            <link>https://bdnews24.com/sport/4b9361a4f5eb</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/4b9361a4f5eb</guid>
+            <pubDate>Sat, 08 Aug 2026 00:57:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/norway-infantino-08082026-01-1786129027.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[FA bans hard pitchside barriers]]></title>
+            <description><![CDATA[[Sport] FA bans hard pitchside barriers]]></description>
+            <link>https://bdnews24.com/sport/d982a408f21a</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/d982a408f21a</guid>
+            <pubDate>Sat, 08 Aug 2026 00:50:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/fa-ban-barrier-08082026-01-1786128584.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Lebanon, Israel shortlist countries for Hezbollah disarmament]]></title>
             <description><![CDATA[[World] Lebanon, Israel shortlist countries for Hezbollah disarmament]]></description>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/economy/fcb22c962f7a</guid>
             <pubDate>Fri, 07 Aug 2026 21:11:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-unemployment-07082026-01-1786115478.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA['Bus suddenly fell on us, all I saw was blood, bodies']]></title>
-            <description><![CDATA[[Bangladesh] 'Bus suddenly fell on us, all I saw was blood, bodies']]></description>
-            <link>https://bdnews24.com/bangladesh/7ed6ae7a512c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7ed6ae7a512c</guid>
-            <pubDate>Fri, 07 Aug 2026 20:21:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bogura-acc-pic-070826-01-1786074380.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spain threatens Italy over border controls]]></title>
-            <description><![CDATA[[Europe] Spain threatens Italy over border controls]]></description>
-            <link>https://bdnews24.com/world/europe/f8697ad9e150</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/f8697ad9e150</guid>
-            <pubDate>Fri, 07 Aug 2026 19:52:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/spain-migrant-070826-1786110742.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hasina's speech: Delhi reiterates previous stance]]></title>
-            <description><![CDATA[[Bangladesh] Hasina's speech: Delhi reiterates previous stance]]></description>
-            <link>https://bdnews24.com/bangladesh/094483d21a4f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/094483d21a4f</guid>
-            <pubDate>Fri, 07 Aug 2026 19:45:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/randhir-jaiswal-070526-1778166060.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thai PM vows new gun law after school shooting]]></title>
-            <description><![CDATA[[Asia Pacific] Thai PM vows new gun law after school shooting]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/0bb1355fc34e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/0bb1355fc34e</guid>
-            <pubDate>Fri, 07 Aug 2026 19:29:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/thai-scl-shooting-070826-1786109325.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt to buy another LNG shipment]]></title>
-            <description><![CDATA[[Business] Govt to buy another LNG shipment]]></description>
-            <link>https://bdnews24.com/business/d698142b33ad</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/d698142b33ad</guid>
-            <pubDate>Fri, 07 Aug 2026 19:15:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/cargo-170626-1781685390.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
