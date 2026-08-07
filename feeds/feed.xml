@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 09:47:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 10:39:37 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 09:47:04 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 10:39:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Astronomers witness giant star's death]]></title>
+            <description><![CDATA[[THE LONG READ] Astronomers witness giant star's death]]></description>
+            <link>https://bdnews24.com/the-long-read/039dce811632</link>
+            <guid isPermaLink="true">https://bdnews24.com/the-long-read/039dce811632</guid>
+            <pubDate>Fri, 07 Aug 2026 16:26:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/giant-star-080726-1786098276.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Content creator Ripon Mia arrested]]></title>
+            <description><![CDATA[[Bangladesh] Content creator Ripon Mia arrested]]></description>
+            <link>https://bdnews24.com/bangladesh/1877eb5daf13</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1877eb5daf13</guid>
+            <pubDate>Fri, 07 Aug 2026 16:10:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/netrakona-ripon-mia-040826-01-1785863343.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Be vocal about road safety: Ilias Kanchan]]></title>
+            <description><![CDATA[[Bangladesh] Be vocal about road safety: Ilias Kanchan]]></description>
+            <link>https://bdnews24.com/bangladesh/a79d4bd81fb7</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a79d4bd81fb7</guid>
+            <pubDate>Fri, 07 Aug 2026 15:57:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/illius-kanchon-070826-1786092917.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Media strength key to democracy: Fakhrul]]></title>
+            <description><![CDATA[[Politics] Media strength key to democracy: Fakhrul]]></description>
+            <link>https://bdnews24.com/politics/12889b91f669</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/12889b91f669</guid>
+            <pubDate>Fri, 07 Aug 2026 15:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/mirza-fakrul-islam-alamgir-31052026-1780239803.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[World food prices hit 3-year high: FAO]]></title>
             <description><![CDATA[[World] World food prices hit 3-year high: FAO]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/south-east-asia/96f0b16dcaf5</guid>
             <pubDate>Fri, 07 Aug 2026 11:33:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/thailand-school-shooting-070826-01-1786080771.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[9 killed in head-on bus crash in Sylhet]]></title>
-            <description><![CDATA[[Bangladesh] 9 killed in head-on bus crash in Sylhet]]></description>
-            <link>https://bdnews24.com/bangladesh/4382fda7df40</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4382fda7df40</guid>
-            <pubDate>Fri, 07 Aug 2026 11:10:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/sylhet-acc-070826-01-1786078318.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil rises over Hormuz reopening plans]]></title>
-            <description><![CDATA[[Business] Oil rises over Hormuz reopening plans]]></description>
-            <link>https://bdnews24.com/business/be2c0572679a</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/be2c0572679a</guid>
-            <pubDate>Fri, 07 Aug 2026 10:40:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/red-sea-010826-1785725830.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Meta ordered to pay $567mn in New Mexico]]></title>
-            <description><![CDATA[[Business] Meta ordered to pay $567mn in New Mexico]]></description>
-            <link>https://bdnews24.com/business/a03d15c33d23</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/a03d15c33d23</guid>
-            <pubDate>Fri, 07 Aug 2026 10:28:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/meta-logo-070826-01-1786076848.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Train derailment halts Dhaka-Mymensingh rail links]]></title>
-            <description><![CDATA[[Bangladesh] Train derailment halts Dhaka-Mymensingh rail links]]></description>
-            <link>https://bdnews24.com/bangladesh/763dd1b43dc3</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/763dd1b43dc3</guid>
-            <pubDate>Fri, 07 Aug 2026 10:20:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mymensing-rail-acc-070826-01-1786075860.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
