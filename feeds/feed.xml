@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 06:02:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 08:03:29 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 06:02:44 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 08:03:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Cox's Bazar drug traffickers' list first, then action: minister]]></title>
+            <description><![CDATA[[Bangladesh] Cox's Bazar drug traffickers' list first, then action: minister]]></description>
+            <link>https://bdnews24.com/bangladesh/343ff3f9bd4f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/343ff3f9bd4f</guid>
+            <pubDate>Fri, 07 Aug 2026 13:49:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/coxbazar-salauddin-070826-01-1786084683.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BGB foils ‘push-in attempt’ in Meherpur]]></title>
+            <description><![CDATA[[Bangladesh] BGB foils ‘push-in attempt’ in Meherpur]]></description>
+            <link>https://bdnews24.com/bangladesh/407041ae186c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/407041ae186c</guid>
+            <pubDate>Fri, 07 Aug 2026 13:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/meherpur-push-in-try-070826-01-1786079042.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bullet targeted to BNP leader hits aide]]></title>
+            <description><![CDATA[[Bangladesh] Bullet targeted to BNP leader hits aide]]></description>
+            <link>https://bdnews24.com/bangladesh/03de0bd57db3</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/03de0bd57db3</guid>
+            <pubDate>Fri, 07 Aug 2026 13:14:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/begumgonjo-model-thana-070826-01-1786081252.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Europe's would-be water bombers in race]]></title>
+            <description><![CDATA[[Europe] Europe's would-be water bombers in race]]></description>
+            <link>https://bdnews24.com/world/europe/dce3082fe421</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/dce3082fe421</guid>
+            <pubDate>Fri, 07 Aug 2026 12:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/europe-firefighting-070826-01-1786084793.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexico, Argentina back Infantino]]></title>
+            <description><![CDATA[[Sport] Mexico, Argentina back Infantino]]></description>
+            <link>https://bdnews24.com/sport/6c443de3cdca</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/6c443de3cdca</guid>
+            <pubDate>Fri, 07 Aug 2026 12:37:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/infantino-070826-1786084478.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Congo's Ebola cases top 4,000]]></title>
+            <description><![CDATA[[Health] Congo's Ebola cases top 4,000]]></description>
+            <link>https://bdnews24.com/health/8b8494aff47a</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/8b8494aff47a</guid>
+            <pubDate>Fri, 07 Aug 2026 12:28:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/congo-ebola-070826-1786084020.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why were there no tiny dinosaurs?]]></title>
+            <description><![CDATA[[Science] Why were there no tiny dinosaurs?]]></description>
+            <link>https://bdnews24.com/science/1014a0335f22</link>
+            <guid isPermaLink="true">https://bdnews24.com/science/1014a0335f22</guid>
+            <pubDate>Fri, 07 Aug 2026 12:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/dinosaurs-070826-1786083109.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Pacific ministers weigh China missile response]]></title>
             <description><![CDATA[[Asia Pacific] Pacific ministers weigh China missile response]]></description>
@@ -33,16 +89,16 @@
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/blackstone-070826-1786080755.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[2 die in Thailand school shooting]]></title>
-            <description><![CDATA[[South-East Asia] 2 die in Thailand school shooting]]></description>
+            <title><![CDATA[7 die in Thailand school shooting]]></title>
+            <description><![CDATA[[South-East Asia] 7 die in Thailand school shooting]]></description>
             <link>https://bdnews24.com/world/south-east-asia/96f0b16dcaf5</link>
             <guid isPermaLink="true">https://bdnews24.com/world/south-east-asia/96f0b16dcaf5</guid>
             <pubDate>Fri, 07 Aug 2026 11:33:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/thailand-school-shooting-070826-01-1786080771.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[8 killed in head-on bus crash in Sylhet]]></title>
-            <description><![CDATA[[Bangladesh] 8 killed in head-on bus crash in Sylhet]]></description>
+            <title><![CDATA[9 killed in head-on bus crash in Sylhet]]></title>
+            <description><![CDATA[[Bangladesh] 9 killed in head-on bus crash in Sylhet]]></description>
             <link>https://bdnews24.com/bangladesh/4382fda7df40</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/4382fda7df40</guid>
             <pubDate>Fri, 07 Aug 2026 11:10:00 GMT</pubDate>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/44633f07b623</guid>
             <pubDate>Fri, 07 Aug 2026 09:29:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bogura-accident-070826-1786072637.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump stuck in war with no exit]]></title>
-            <description><![CDATA[[Americas] Trump stuck in war with no exit]]></description>
-            <link>https://bdnews24.com/world/americas/601860c47ae9</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/601860c47ae9</guid>
-            <pubDate>Fri, 07 Aug 2026 09:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/iran-missiles-070826-01-1786072240.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japan on alert as Typhoon Dolphin nears]]></title>
-            <description><![CDATA[[Asia Pacific] Japan on alert as Typhoon Dolphin nears]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/02748f677823</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/02748f677823</guid>
-            <pubDate>Fri, 07 Aug 2026 09:08:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/japan-typhoon-070826-1786071988.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump challenges birthright citizenship again]]></title>
-            <description><![CDATA[[Americas] Trump challenges birthright citizenship again]]></description>
-            <link>https://bdnews24.com/world/americas/c649805af684</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/c649805af684</guid>
-            <pubDate>Fri, 07 Aug 2026 08:59:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/trump-070826-1786071507.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[FIFA releases delayed prize money after Jordan FA row]]></title>
-            <description><![CDATA[[Sport] FIFA releases delayed prize money after Jordan FA row]]></description>
-            <link>https://bdnews24.com/sport/cbf934800390</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/cbf934800390</guid>
-            <pubDate>Fri, 07 Aug 2026 01:50:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ffa-070826-1786045806.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jamaat wants MPO teachers in, EC wants them out]]></title>
-            <description><![CDATA[[Bangladesh] Jamaat wants MPO teachers in, EC wants them out]]></description>
-            <link>https://bdnews24.com/bangladesh/a55b516e4876</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a55b516e4876</guid>
-            <pubDate>Fri, 07 Aug 2026 01:22:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024May/SM/upazila-elections-080524-002-1716256275.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Real Madrid lock in Vinicius Jr until 2032]]></title>
-            <description><![CDATA[[Sport] Real Madrid lock in Vinicius Jr until 2032]]></description>
-            <link>https://bdnews24.com/sport/442019396614</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/442019396614</guid>
-            <pubDate>Fri, 07 Aug 2026 00:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026April/SM/laliga-real-madrid-alaves-220426-01-1776831197.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt to buy 8 LNG cargoes, 5,000 tonnes LPG]]></title>
-            <description><![CDATA[[Business] Govt to buy 8 LNG cargoes, 5,000 tonnes LPG]]></description>
-            <link>https://bdnews24.com/business/0f8401995480</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/0f8401995480</guid>
-            <pubDate>Fri, 07 Aug 2026 00:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/gas-crisis-cng-filling-station-240726-025-1784907650.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
