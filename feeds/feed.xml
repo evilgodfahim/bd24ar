@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 04:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 06:02:44 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 04:21:08 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 06:02:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Pacific ministers weigh China missile response]]></title>
+            <description><![CDATA[[Asia Pacific] Pacific ministers weigh China missile response]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/bae983b8cd66</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/bae983b8cd66</guid>
+            <pubDate>Fri, 07 Aug 2026 11:54:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/new-zealand-070826-1786081970.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dulahazra's safari dream remains caged]]></title>
+            <description><![CDATA[[Bangladesh] Dulahazra's safari dream remains caged]]></description>
+            <link>https://bdnews24.com/bangladesh/56ea9d868aab</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/56ea9d868aab</guid>
+            <pubDate>Fri, 07 Aug 2026 11:52:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/coxsbazar-dulahazra-safary-park-050826-01-1786071378.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hackers hit Blackstone, CME in US data breach]]></title>
+            <description><![CDATA[[Americas] Hackers hit Blackstone, CME in US data breach]]></description>
+            <link>https://bdnews24.com/world/americas/7e761abf3710</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/7e761abf3710</guid>
+            <pubDate>Fri, 07 Aug 2026 11:34:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/blackstone-070826-1786080755.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[2 die in Thailand school shooting]]></title>
+            <description><![CDATA[[South-East Asia] 2 die in Thailand school shooting]]></description>
+            <link>https://bdnews24.com/world/south-east-asia/96f0b16dcaf5</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/south-east-asia/96f0b16dcaf5</guid>
+            <pubDate>Fri, 07 Aug 2026 11:33:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/thailand-school-shooting-070826-01-1786080771.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[8 killed in head-on bus crash in Sylhet]]></title>
+            <description><![CDATA[[Bangladesh] 8 killed in head-on bus crash in Sylhet]]></description>
+            <link>https://bdnews24.com/bangladesh/4382fda7df40</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4382fda7df40</guid>
+            <pubDate>Fri, 07 Aug 2026 11:10:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/sylhet-acc-070826-01-1786078318.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oil rises over Hormuz reopening plans]]></title>
+            <description><![CDATA[[Business] Oil rises over Hormuz reopening plans]]></description>
+            <link>https://bdnews24.com/business/be2c0572679a</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/be2c0572679a</guid>
+            <pubDate>Fri, 07 Aug 2026 10:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/red-sea-010826-1785725830.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Meta ordered to pay $567mn in New Mexico]]></title>
+            <description><![CDATA[[Business] Meta ordered to pay $567mn in New Mexico]]></description>
+            <link>https://bdnews24.com/business/a03d15c33d23</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/a03d15c33d23</guid>
+            <pubDate>Fri, 07 Aug 2026 10:28:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/meta-logo-070826-01-1786076848.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Train derailment halts Dhaka-Mymensingh rail links]]></title>
             <description><![CDATA[[Bangladesh] Train derailment halts Dhaka-Mymensingh rail links]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/business/0f8401995480</guid>
             <pubDate>Fri, 07 Aug 2026 00:49:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/gas-crisis-cng-filling-station-240726-025-1784907650.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Zafar Iqbal named in draft July probe report]]></title>
-            <description><![CDATA[[Bangladesh] Zafar Iqbal named in draft July probe report]]></description>
-            <link>https://bdnews24.com/bangladesh/b95586425798</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b95586425798</guid>
-            <pubDate>Fri, 07 Aug 2026 00:46:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/zafar-iqbal-060826-1786039931.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Houthi attacks kill 30 Yemeni govt troops]]></title>
-            <description><![CDATA[[World] Houthi attacks kill 30 Yemeni govt troops]]></description>
-            <link>https://bdnews24.com/world/92a457f20c85</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/92a457f20c85</guid>
-            <pubDate>Fri, 07 Aug 2026 00:32:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/houthi-attack-07082026-01-1786041146.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[68 JnU teachers face probe over ‘anti-state plot’]]></title>
-            <description><![CDATA[[Bangladesh] 68 JnU teachers face probe over ‘anti-state plot’]]></description>
-            <link>https://bdnews24.com/bangladesh/4a5d0e637938</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4a5d0e637938</guid>
-            <pubDate>Fri, 07 Aug 2026 00:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025January/SM/jagannath-university-01-1738081787.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Low Danube water levels expose Roman-era bridge]]></title>
-            <description><![CDATA[[World] Low Danube water levels expose Roman-era bridge]]></description>
-            <link>https://bdnews24.com/world/1d418e32880a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/1d418e32880a</guid>
-            <pubDate>Fri, 07 Aug 2026 00:26:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/danube-lower-level-0708202601-1786040784.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Forlan takes Uruguay job]]></title>
-            <description><![CDATA[[Sport] Forlan takes Uruguay job]]></description>
-            <link>https://bdnews24.com/sport/4cbee2b21c42</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/4cbee2b21c42</guid>
-            <pubDate>Fri, 07 Aug 2026 00:22:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/diego-forlan-070826-01-1786040512.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Strong El Nino and rising food insecurity]]></title>
-            <description><![CDATA[[Environment] Strong El Nino and rising food insecurity]]></description>
-            <link>https://bdnews24.com/environment/44b022b58c1a</link>
-            <guid isPermaLink="true">https://bdnews24.com/environment/44b022b58c1a</guid>
-            <pubDate>Fri, 07 Aug 2026 00:17:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/el-nino-food-07082026-01-1786040223.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UEFA maintains World Cup boycott threat]]></title>
-            <description><![CDATA[[Sport] UEFA maintains World Cup boycott threat]]></description>
-            <link>https://bdnews24.com/sport/c31a5dd8ae66</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/c31a5dd8ae66</guid>
-            <pubDate>Fri, 07 Aug 2026 00:08:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/uefa-fifa-060826-01-1786039677.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
