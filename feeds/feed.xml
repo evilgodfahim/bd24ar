@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 08:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 09:47:04 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 08:03:29 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 09:47:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[World food prices hit 3-year high: FAO]]></title>
+            <description><![CDATA[[World] World food prices hit 3-year high: FAO]]></description>
+            <link>https://bdnews24.com/world/828efab3b31f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/828efab3b31f</guid>
+            <pubDate>Fri, 07 Aug 2026 15:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/global-food-070826-1786094976.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Energy drink’ label deadline stays in India]]></title>
+            <description><![CDATA[[Neighbours] ‘Energy drink’ label deadline stays in India]]></description>
+            <link>https://bdnews24.com/neighbours/39b7fe91f388</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/39b7fe91f388</guid>
+            <pubDate>Fri, 07 Aug 2026 15:15:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/red-bull-070826-1786094002.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA['Dead in Sylhet crash were Unique Paribahan passengers']]></title>
+            <description><![CDATA[[Bangladesh] 'Dead in Sylhet crash were Unique Paribahan passengers']]></description>
+            <link>https://bdnews24.com/bangladesh/8232805d583b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8232805d583b</guid>
+            <pubDate>Fri, 07 Aug 2026 15:02:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/syhlet-accident-follow-up-070826-01-1786090492.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM to visit Ctg Sunday]]></title>
+            <description><![CDATA[[Bangladesh] PM to visit Ctg Sunday]]></description>
+            <link>https://bdnews24.com/bangladesh/a3322d26be95</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a3322d26be95</guid>
+            <pubDate>Fri, 07 Aug 2026 14:57:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/chattogram-hathazari-govt-college-field-070826-01-1786090684.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nowfel's residence torched in Chattogram]]></title>
+            <description><![CDATA[[Bangladesh] Nowfel's residence torched in Chattogram]]></description>
+            <link>https://bdnews24.com/bangladesh/80767c97881b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/80767c97881b</guid>
+            <pubDate>Fri, 07 Aug 2026 14:37:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/chattogram-set-fire-mohiuddin-house-070826-01-1786089833.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Cox's Bazar drug traffickers' list first, then action: minister]]></title>
             <description><![CDATA[[Bangladesh] Cox's Bazar drug traffickers' list first, then action: minister]]></description>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/763dd1b43dc3</guid>
             <pubDate>Fri, 07 Aug 2026 10:20:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mymensing-rail-acc-070826-01-1786075860.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Houthi attack on S Arabia wounds 11 civilians]]></title>
-            <description><![CDATA[[West Asia] Houthi attack on S Arabia wounds 11 civilians]]></description>
-            <link>https://bdnews24.com/world/middle-east/30fb7c50d039</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/30fb7c50d039</guid>
-            <pubDate>Fri, 07 Aug 2026 10:04:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/abqaiq-sarabia-oil-070826-01-1786075422.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mexico arrests ex-governor in 43 students case]]></title>
-            <description><![CDATA[[Americas] Mexico arrests ex-governor in 43 students case]]></description>
-            <link>https://bdnews24.com/world/americas/8b4efa1c740f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/8b4efa1c740f</guid>
-            <pubDate>Fri, 07 Aug 2026 09:50:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/mexico-student-070826-1786074544.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Solomon Islands seeks to reset Western ties]]></title>
-            <description><![CDATA[[World] Solomon Islands seeks to reset Western ties]]></description>
-            <link>https://bdnews24.com/world/00472efad1fe</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/00472efad1fe</guid>
-            <pubDate>Fri, 07 Aug 2026 09:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/solomon-island-pm-070826-1786073915.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US scrutinises more schools over admissions practices]]></title>
-            <description><![CDATA[[Americas] US scrutinises more schools over admissions practices]]></description>
-            <link>https://bdnews24.com/world/americas/f45bbcbe67db</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/f45bbcbe67db</guid>
-            <pubDate>Fri, 07 Aug 2026 09:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/trump-free-speech-070826-01-1786073803.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[6 killed as bus ploughs into workers in Bogura]]></title>
-            <description><![CDATA[[Bangladesh] 6 killed as bus ploughs into workers in Bogura]]></description>
-            <link>https://bdnews24.com/bangladesh/44633f07b623</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/44633f07b623</guid>
-            <pubDate>Fri, 07 Aug 2026 09:29:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bogura-accident-070826-1786072637.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
