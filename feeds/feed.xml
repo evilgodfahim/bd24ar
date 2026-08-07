@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 17:37:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 18:35:39 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 17:37:58 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 18:35:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Lebanon, Israel shortlist countries for Hezbollah disarmament]]></title>
+            <description><![CDATA[[World] Lebanon, Israel shortlist countries for Hezbollah disarmament]]></description>
+            <link>https://bdnews24.com/world/a112577acad3</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/a112577acad3</guid>
+            <pubDate>Sat, 08 Aug 2026 00:16:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/hezbollah-disarmament-08082026-01-1786126559.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Palace sign Japan defender Tomiyasu]]></title>
+            <description><![CDATA[[Sport] Palace sign Japan defender Tomiyasu]]></description>
+            <link>https://bdnews24.com/sport/db4fea93d97b</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/db4fea93d97b</guid>
+            <pubDate>Sat, 08 Aug 2026 00:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/palace-tomiyasu-07082026-01-1786126005.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Glitch strands over 250 Biman passengers in Rome]]></title>
+            <description><![CDATA[[Aviation] Glitch strands over 250 Biman passengers in Rome]]></description>
+            <link>https://bdnews24.com/aviation/7dbbbb7c600b</link>
+            <guid isPermaLink="true">https://bdnews24.com/aviation/7dbbbb7c600b</guid>
+            <pubDate>Sat, 08 Aug 2026 00:04:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2025January/SM/biman-bangladesh-airlines-boeing-787-er-s2-ahm-021019-001-1737928256.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Pakistan opens market to Bangladeshi pineapples]]></title>
             <description><![CDATA[[Business] Pakistan opens market to Bangladeshi pineapples]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/business/d698142b33ad</guid>
             <pubDate>Fri, 07 Aug 2026 19:15:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/cargo-170626-1781685390.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka-Mymensingh trains resume after 7.5 hours]]></title>
-            <description><![CDATA[[Bangladesh] Dhaka-Mymensingh trains resume after 7.5 hours]]></description>
-            <link>https://bdnews24.com/bangladesh/661f333428c6</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/661f333428c6</guid>
-            <pubDate>Fri, 07 Aug 2026 18:56:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mymensing-rail-acc-070826-02-1786103375.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No dengue deaths in 4 days]]></title>
-            <description><![CDATA[[Bangladesh] No dengue deaths in 4 days]]></description>
-            <link>https://bdnews24.com/bangladesh/b55b91c67fbf</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b55b91c67fbf</guid>
-            <pubDate>Fri, 07 Aug 2026 18:45:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dengue-patient-310726-19-1785500680.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saudi, Turkey, Pakistan sign defence pact]]></title>
-            <description><![CDATA[[West Asia] Saudi, Turkey, Pakistan sign defence pact]]></description>
-            <link>https://bdnews24.com/world/middle-east/bb369cc6886e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/bb369cc6886e</guid>
-            <pubDate>Fri, 07 Aug 2026 18:43:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/saudi-turkey-pakistan-defence-070826-01-1786106582.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
