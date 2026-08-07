@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 11:35:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 12:34:34 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 11:35:46 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 12:34:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bangladeshis among migrants rescued off Greece coast]]></title>
+            <description><![CDATA[[Bangladesh] Bangladeshis among migrants rescued off Greece coast]]></description>
+            <link>https://bdnews24.com/bangladesh/b9c90bb911e1</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b9c90bb911e1</guid>
+            <pubDate>Fri, 07 Aug 2026 18:33:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/greece-coast-guard-07-826-1786105992.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 more patients with measles symptoms die]]></title>
+            <description><![CDATA[[Bangladesh] 3 more patients with measles symptoms die]]></description>
+            <link>https://bdnews24.com/bangladesh/6f1bae856035</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6f1bae856035</guid>
+            <pubDate>Fri, 07 Aug 2026 18:15:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/cumilla-hum-160426-05-1776325855.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jamaat slates India over Hasina speech]]></title>
+            <description><![CDATA[[Politics] Jamaat slates India over Hasina speech]]></description>
+            <link>https://bdnews24.com/politics/117bc4bf96d7</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/117bc4bf96d7</guid>
+            <pubDate>Fri, 07 Aug 2026 18:14:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026February/SM/khulna-golam-130226-01-1770928396.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Journos, owners, govt ‘working together’ to sustain media: info minister]]></title>
             <description><![CDATA[[Bangladesh] Journos, owners, govt ‘working together’ to sustain media: info minister]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/europe/dce3082fe421</guid>
             <pubDate>Fri, 07 Aug 2026 12:40:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/europe-firefighting-070826-01-1786084793.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mexico, Argentina back Infantino]]></title>
-            <description><![CDATA[[Sport] Mexico, Argentina back Infantino]]></description>
-            <link>https://bdnews24.com/sport/6c443de3cdca</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/6c443de3cdca</guid>
-            <pubDate>Fri, 07 Aug 2026 12:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/infantino-070826-1786084478.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Congo's Ebola cases top 4,000]]></title>
-            <description><![CDATA[[Health] Congo's Ebola cases top 4,000]]></description>
-            <link>https://bdnews24.com/health/8b8494aff47a</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/8b8494aff47a</guid>
-            <pubDate>Fri, 07 Aug 2026 12:28:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/congo-ebola-070826-1786084020.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why were there no tiny dinosaurs?]]></title>
-            <description><![CDATA[[Science] Why were there no tiny dinosaurs?]]></description>
-            <link>https://bdnews24.com/science/1014a0335f22</link>
-            <guid isPermaLink="true">https://bdnews24.com/science/1014a0335f22</guid>
-            <pubDate>Fri, 07 Aug 2026 12:12:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/dinosaurs-070826-1786083109.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
