@@ -4,10 +4,82 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 01:57:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 04:21:08 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 01:57:32 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 04:21:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Train derailment halts Dhaka-Mymensingh rail links]]></title>
+            <description><![CDATA[[Bangladesh] Train derailment halts Dhaka-Mymensingh rail links]]></description>
+            <link>https://bdnews24.com/bangladesh/763dd1b43dc3</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/763dd1b43dc3</guid>
+            <pubDate>Fri, 07 Aug 2026 10:20:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mymensing-rail-acc-070826-01-1786075860.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Houthi attack on S Arabia wounds 11 civilians]]></title>
+            <description><![CDATA[[West Asia] Houthi attack on S Arabia wounds 11 civilians]]></description>
+            <link>https://bdnews24.com/world/middle-east/30fb7c50d039</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/30fb7c50d039</guid>
+            <pubDate>Fri, 07 Aug 2026 10:04:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/abqaiq-sarabia-oil-070826-01-1786075422.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexico arrests ex-governor in 43 students case]]></title>
+            <description><![CDATA[[Americas] Mexico arrests ex-governor in 43 students case]]></description>
+            <link>https://bdnews24.com/world/americas/8b4efa1c740f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/8b4efa1c740f</guid>
+            <pubDate>Fri, 07 Aug 2026 09:50:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/mexico-student-070826-1786074544.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Solomon Islands seeks to reset Western ties]]></title>
+            <description><![CDATA[[World] Solomon Islands seeks to reset Western ties]]></description>
+            <link>https://bdnews24.com/world/00472efad1fe</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/00472efad1fe</guid>
+            <pubDate>Fri, 07 Aug 2026 09:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/solomon-island-pm-070826-1786073915.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US scrutinises more schools over admissions practices]]></title>
+            <description><![CDATA[[Americas] US scrutinises more schools over admissions practices]]></description>
+            <link>https://bdnews24.com/world/americas/f45bbcbe67db</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/f45bbcbe67db</guid>
+            <pubDate>Fri, 07 Aug 2026 09:37:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/trump-free-speech-070826-01-1786073803.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[6 killed as bus ploughs into workers in Bogura]]></title>
+            <description><![CDATA[[Bangladesh] 6 killed as bus ploughs into workers in Bogura]]></description>
+            <link>https://bdnews24.com/bangladesh/44633f07b623</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/44633f07b623</guid>
+            <pubDate>Fri, 07 Aug 2026 09:29:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bogura-accident-070826-1786072637.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump stuck in war with no exit]]></title>
+            <description><![CDATA[[Americas] Trump stuck in war with no exit]]></description>
+            <link>https://bdnews24.com/world/americas/601860c47ae9</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/601860c47ae9</guid>
+            <pubDate>Fri, 07 Aug 2026 09:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/iran-missiles-070826-01-1786072240.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japan on alert as Typhoon Dolphin nears]]></title>
+            <description><![CDATA[[Asia Pacific] Japan on alert as Typhoon Dolphin nears]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/02748f677823</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/02748f677823</guid>
+            <pubDate>Fri, 07 Aug 2026 09:08:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/japan-typhoon-070826-1786071988.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump challenges birthright citizenship again]]></title>
+            <description><![CDATA[[Americas] Trump challenges birthright citizenship again]]></description>
+            <link>https://bdnews24.com/world/americas/c649805af684</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/c649805af684</guid>
+            <pubDate>Fri, 07 Aug 2026 08:59:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/trump-070826-1786071507.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[FIFA releases delayed prize money after Jordan FA row]]></title>
             <description><![CDATA[[Sport] FIFA releases delayed prize money after Jordan FA row]]></description>
@@ -95,78 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/c31a5dd8ae66</guid>
             <pubDate>Fri, 07 Aug 2026 00:08:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/uefa-fifa-060826-01-1786039677.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ICT gets call records of 14 over ‘July killings’]]></title>
-            <description><![CDATA[[Bangladesh] ICT gets call records of 14 over ‘July killings’]]></description>
-            <link>https://bdnews24.com/bangladesh/b136086a6c2a</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b136086a6c2a</guid>
-            <pubDate>Fri, 07 Aug 2026 00:05:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025December/SM/international-crimes-tribunal-111125-002-1765101831.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Min Aung Hlaing visits Thailand seeking legitimacy]]></title>
-            <description><![CDATA[[Neighbours] Min Aung Hlaing visits Thailand seeking legitimacy]]></description>
-            <link>https://bdnews24.com/neighbours/7f71a7776097</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/7f71a7776097</guid>
-            <pubDate>Thu, 06 Aug 2026 23:57:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/myanmar-hlaing-thai-visit-060826-01-1786038998.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bethell out, Cox in for Pakistan Tests]]></title>
-            <description><![CDATA[[Sport] Bethell out, Cox in for Pakistan Tests]]></description>
-            <link>https://bdnews24.com/sport/f67e00150d4a</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/f67e00150d4a</guid>
-            <pubDate>Thu, 06 Aug 2026 23:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/jordan-cox-060826-01-1786038524.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hasina’s Delhi remarks raise fresh concern: Shama]]></title>
-            <description><![CDATA[[Bangladesh] Hasina’s Delhi remarks raise fresh concern: Shama]]></description>
-            <link>https://bdnews24.com/bangladesh/69a1c5b9d5a7</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/69a1c5b9d5a7</guid>
-            <pubDate>Thu, 06 Aug 2026 23:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/shama-obaed-060826-01-1786034205.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fire breaks out at Pakistan envoy's home]]></title>
-            <description><![CDATA[[Bangladesh] Fire breaks out at Pakistan envoy's home]]></description>
-            <link>https://bdnews24.com/bangladesh/77af7658ca83</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/77af7658ca83</guid>
-            <pubDate>Thu, 06 Aug 2026 22:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/pakistan-hc-dhaka-060826-01-1786033731.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump's AI links draw bipartisan scrutiny]]></title>
-            <description><![CDATA[[World] Trump's AI links draw bipartisan scrutiny]]></description>
-            <link>https://bdnews24.com/world/55fc6d122e33</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/55fc6d122e33</guid>
-            <pubDate>Thu, 06 Aug 2026 22:25:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/trump-ai-link-06082026-01-1786033475.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kazi Jesin named new BTV chief]]></title>
-            <description><![CDATA[[Media] Kazi Jesin named new BTV chief]]></description>
-            <link>https://bdnews24.com/media-en/9b1d1890e223</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/9b1d1890e223</guid>
-            <pubDate>Thu, 06 Aug 2026 22:10:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/kazi-jesin-btv-dg-060826-1786031031.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Google's $15bn India project faces environmental concerns]]></title>
-            <description><![CDATA[[Technology] Google's $15bn India project faces environmental concerns]]></description>
-            <link>https://bdnews24.com/technology/46e05f931cf1</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/46e05f931cf1</guid>
-            <pubDate>Thu, 06 Aug 2026 21:52:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/india-data-centre-06082026-01-1786031450.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rodri ‘keen on’ Barca move over Real]]></title>
-            <description><![CDATA[[Sport] Rodri ‘keen on’ Barca move over Real]]></description>
-            <link>https://bdnews24.com/sport/1042a5026143</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/1042a5026143</guid>
-            <pubDate>Thu, 06 Aug 2026 21:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/messi-rodri-210726-02-1784656279.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
