@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 12:34:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 14:03:04 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 12:34:34 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 14:03:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Spain threatens Italy over border controls]]></title>
+            <description><![CDATA[[Europe] Spain threatens Italy over border controls]]></description>
+            <link>https://bdnews24.com/world/europe/f8697ad9e150</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/f8697ad9e150</guid>
+            <pubDate>Fri, 07 Aug 2026 19:52:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/spain-migrant-070826-1786110742.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hasina's speech: Delhi reiterates previous stance]]></title>
+            <description><![CDATA[[Bangladesh] Hasina's speech: Delhi reiterates previous stance]]></description>
+            <link>https://bdnews24.com/bangladesh/094483d21a4f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/094483d21a4f</guid>
+            <pubDate>Fri, 07 Aug 2026 19:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/randhir-jaiswal-070526-1778166060.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thai PM vows new gun law after school shooting]]></title>
+            <description><![CDATA[[Asia Pacific] Thai PM vows new gun law after school shooting]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/0bb1355fc34e</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/0bb1355fc34e</guid>
+            <pubDate>Fri, 07 Aug 2026 19:29:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/thai-scl-shooting-070826-1786109325.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Govt to buy another LNG shipment]]></title>
+            <description><![CDATA[[Business] Govt to buy another LNG shipment]]></description>
+            <link>https://bdnews24.com/business/d698142b33ad</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/d698142b33ad</guid>
+            <pubDate>Fri, 07 Aug 2026 19:15:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/cargo-170626-1781685390.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka-Mymensingh trains resume after 7.5 hours]]></title>
+            <description><![CDATA[[Bangladesh] Dhaka-Mymensingh trains resume after 7.5 hours]]></description>
+            <link>https://bdnews24.com/bangladesh/661f333428c6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/661f333428c6</guid>
+            <pubDate>Fri, 07 Aug 2026 18:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mymensing-rail-acc-070826-02-1786103375.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[No dengue deaths in 4 days]]></title>
+            <description><![CDATA[[Bangladesh] No dengue deaths in 4 days]]></description>
+            <link>https://bdnews24.com/bangladesh/b55b91c67fbf</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b55b91c67fbf</guid>
+            <pubDate>Fri, 07 Aug 2026 18:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dengue-patient-310726-19-1785500680.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Saudi, Turkey, Pakistan sign defence pact]]></title>
+            <description><![CDATA[[West Asia] Saudi, Turkey, Pakistan sign defence pact]]></description>
+            <link>https://bdnews24.com/world/middle-east/bb369cc6886e</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/bb369cc6886e</guid>
+            <pubDate>Fri, 07 Aug 2026 18:43:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/saudi-turkey-pakistan-defence-070826-01-1786106582.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Bangladeshis among migrants rescued off Greece coast]]></title>
             <description><![CDATA[[Bangladesh] Bangladeshis among migrants rescued off Greece coast]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/neighbours/39b7fe91f388</guid>
             <pubDate>Fri, 07 Aug 2026 15:15:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/red-bull-070826-1786094002.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA['Dead in Sylhet crash were Unique Paribahan passengers']]></title>
-            <description><![CDATA[[Bangladesh] 'Dead in Sylhet crash were Unique Paribahan passengers']]></description>
-            <link>https://bdnews24.com/bangladesh/8232805d583b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8232805d583b</guid>
-            <pubDate>Fri, 07 Aug 2026 15:02:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/syhlet-accident-follow-up-070826-01-1786090492.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PM to visit Ctg Sunday]]></title>
-            <description><![CDATA[[Bangladesh] PM to visit Ctg Sunday]]></description>
-            <link>https://bdnews24.com/bangladesh/a3322d26be95</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a3322d26be95</guid>
-            <pubDate>Fri, 07 Aug 2026 14:57:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/chattogram-hathazari-govt-college-field-070826-01-1786090684.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nowfel's residence torched in Chattogram]]></title>
-            <description><![CDATA[[Bangladesh] Nowfel's residence torched in Chattogram]]></description>
-            <link>https://bdnews24.com/bangladesh/80767c97881b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/80767c97881b</guid>
-            <pubDate>Fri, 07 Aug 2026 14:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/chattogram-set-fire-mohiuddin-house-070826-01-1786089833.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cox's Bazar drug traffickers' list first, then action: minister]]></title>
-            <description><![CDATA[[Bangladesh] Cox's Bazar drug traffickers' list first, then action: minister]]></description>
-            <link>https://bdnews24.com/bangladesh/343ff3f9bd4f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/343ff3f9bd4f</guid>
-            <pubDate>Fri, 07 Aug 2026 13:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/coxbazar-salauddin-070826-01-1786084683.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BGB foils ‘push-in attempt’ in Meherpur]]></title>
-            <description><![CDATA[[Bangladesh] BGB foils ‘push-in attempt’ in Meherpur]]></description>
-            <link>https://bdnews24.com/bangladesh/407041ae186c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/407041ae186c</guid>
-            <pubDate>Fri, 07 Aug 2026 13:45:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/meherpur-push-in-try-070826-01-1786079042.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bullet targeted to BNP leader hits aide]]></title>
-            <description><![CDATA[[Bangladesh] Bullet targeted to BNP leader hits aide]]></description>
-            <link>https://bdnews24.com/bangladesh/03de0bd57db3</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/03de0bd57db3</guid>
-            <pubDate>Fri, 07 Aug 2026 13:14:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/begumgonjo-model-thana-070826-01-1786081252.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Europe's would-be water bombers in race]]></title>
-            <description><![CDATA[[Europe] Europe's would-be water bombers in race]]></description>
-            <link>https://bdnews24.com/world/europe/dce3082fe421</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/dce3082fe421</guid>
-            <pubDate>Fri, 07 Aug 2026 12:40:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/europe-firefighting-070826-01-1786084793.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
