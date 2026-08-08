@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Aug 2026 10:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 11:17:48 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Aug 2026 10:18:29 GMT</pubDate>
+        <pubDate>Sat, 08 Aug 2026 11:17:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[India can’t play ‘Hasina card’ and seek friendship: Salahuddin]]></title>
+            <description><![CDATA[[Campus] India can’t play ‘Hasina card’ and seek friendship: Salahuddin]]></description>
+            <link>https://bdnews24.com/campus/fbb2ed2be472</link>
+            <guid isPermaLink="true">https://bdnews24.com/campus/fbb2ed2be472</guid>
+            <pubDate>Sat, 08 Aug 2026 17:10:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/salahuddin-ahmed-080826-1786183381.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BNP tasked with saving nation: Fakhrul]]></title>
+            <description><![CDATA[[Bangladesh] BNP tasked with saving nation: Fakhrul]]></description>
+            <link>https://bdnews24.com/bangladesh/39c6881d8c5d</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/39c6881d8c5d</guid>
+            <pubDate>Sat, 08 Aug 2026 16:26:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mirza-fakhrul-islam-080826-1786181977.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Senate passes stopgap funding bill before elections]]></title>
             <description><![CDATA[[Americas] Senate passes stopgap funding bill before elections]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/11b51fcf760f</guid>
             <pubDate>Sat, 08 Aug 2026 10:36:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-lawmakers-russia-trade-080826-01-1786163721.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taipei hits back at China over strait controls]]></title>
-            <description><![CDATA[[Asia Pacific] Taipei hits back at China over strait controls]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/d2b329f4724e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/d2b329f4724e</guid>
-            <pubDate>Sat, 08 Aug 2026 10:23:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/taipei-hits-back-china-080826-01-1786162906.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taiwan drills for war as Lai takes command]]></title>
-            <description><![CDATA[[Asia Pacific] Taiwan drills for war as Lai takes command]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/b329bc1f2baa</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/b329bc1f2baa</guid>
-            <pubDate>Sat, 08 Aug 2026 10:20:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/taiwan-drills-war-china-080826-01-1786162762.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
