@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Aug 2026 05:33:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 06:29:21 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Aug 2026 05:33:30 GMT</pubDate>
+        <pubDate>Sat, 08 Aug 2026 06:29:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[5 bodies found near site of missing Nepal climbers]]></title>
+            <description><![CDATA[[South Asia] 5 bodies found near site of missing Nepal climbers]]></description>
+            <link>https://bdnews24.com/world/south-asia/fc6bb101f4d7</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/south-asia/fc6bb101f4d7</guid>
+            <pubDate>Sat, 08 Aug 2026 12:09:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/nepal-mountain-080826-1786169323.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Typhoon Dolphin hits Japan, heads towards China]]></title>
+            <description><![CDATA[[Asia Pacific] Typhoon Dolphin hits Japan, heads towards China]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/f62b5e54cd95</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/f62b5e54cd95</guid>
+            <pubDate>Sat, 08 Aug 2026 11:33:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/china-typhoon-080826-1786167131.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ChatGPT free, Go users to get ‘unlimited’ texts]]></title>
             <description><![CDATA[[Tech] ChatGPT free, Go users to get ‘unlimited’ texts]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/a112577acad3</guid>
             <pubDate>Sat, 08 Aug 2026 00:16:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/hezbollah-disarmament-08082026-01-1786126559.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Palace sign Japan defender Tomiyasu]]></title>
-            <description><![CDATA[[Sport] Palace sign Japan defender Tomiyasu]]></description>
-            <link>https://bdnews24.com/sport/db4fea93d97b</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/db4fea93d97b</guid>
-            <pubDate>Sat, 08 Aug 2026 00:07:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/palace-tomiyasu-07082026-01-1786126005.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Glitch strands over 250 Biman passengers in Rome]]></title>
-            <description><![CDATA[[Aviation] Glitch strands over 250 Biman passengers in Rome]]></description>
-            <link>https://bdnews24.com/aviation/7dbbbb7c600b</link>
-            <guid isPermaLink="true">https://bdnews24.com/aviation/7dbbbb7c600b</guid>
-            <pubDate>Sat, 08 Aug 2026 00:04:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2025January/SM/biman-bangladesh-airlines-boeing-787-er-s2-ahm-021019-001-1737928256.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
