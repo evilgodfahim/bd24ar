@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Aug 2026 07:38:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 08:25:02 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Aug 2026 07:38:36 GMT</pubDate>
+        <pubDate>Sat, 08 Aug 2026 08:25:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[PBI rearrests suspect Hafizur in Tonu murder]]></title>
+            <description><![CDATA[[Bangladesh] PBI rearrests suspect Hafizur in Tonu murder]]></description>
+            <link>https://bdnews24.com/bangladesh/012f471efba9</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/012f471efba9</guid>
+            <pubDate>Sat, 08 Aug 2026 14:13:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/cumilla-tanu-murder-040826-01-1785855784.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[We can’t monitor every house: RAJUK]]></title>
             <description><![CDATA[[Bangladesh] We can’t monitor every house: RAJUK]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/34701c437590</guid>
             <pubDate>Sat, 08 Aug 2026 01:40:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/netrakona-fire-070826-01-1786123777.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heatwaves expose overcrowding in Europe prisons]]></title>
-            <description><![CDATA[[World] Heatwaves expose overcrowding in Europe prisons]]></description>
-            <link>https://bdnews24.com/world/abe36a5ff6d1</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/abe36a5ff6d1</guid>
-            <pubDate>Sat, 08 Aug 2026 01:36:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/heatwave-europe-08082026-01-1786131400.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
