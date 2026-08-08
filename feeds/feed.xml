@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Aug 2026 18:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 19:20:00 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Aug 2026 18:18:44 GMT</pubDate>
+        <pubDate>Sat, 08 Aug 2026 19:20:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[A city saving matchsticks waits for LNG]]></title>
+            <description><![CDATA[[Bangladesh] A city saving matchsticks waits for LNG]]></description>
+            <link>https://bdnews24.com/bangladesh/09b7147a516b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/09b7147a516b</guid>
+            <pubDate>Sun, 09 Aug 2026 00:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/gas-crisis-cng-station-220726-10-1784721576.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inside Thailand's deadly school shooting]]></title>
+            <description><![CDATA[[Asia Pacific] Inside Thailand's deadly school shooting]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/0bdc00dd1544</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/0bdc00dd1544</guid>
+            <pubDate>Sun, 09 Aug 2026 00:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/thailand-shooting-09082026-01-1786213923.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Thailand school deaths reach 9]]></title>
             <description><![CDATA[[World] Thailand school deaths reach 9]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/c7f797e53345</guid>
             <pubDate>Sat, 08 Aug 2026 15:29:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/chief-prosecutor-aminul-islam-080826-1786179814.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rome layover turns ordeal for Biman passengers]]></title>
-            <description><![CDATA[[Bangladesh] Rome layover turns ordeal for Biman passengers]]></description>
-            <link>https://bdnews24.com/bangladesh/91749ef92f2a</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/91749ef92f2a</guid>
-            <pubDate>Sat, 08 Aug 2026 14:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/roam-bangladeshi-080826-01-1786178854.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Politics shouldn't hinder duty: PM to doctors]]></title>
-            <description><![CDATA[[Bangladesh] Politics shouldn't hinder duty: PM to doctors]]></description>
-            <link>https://bdnews24.com/bangladesh/6c0713272304</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6c0713272304</guid>
-            <pubDate>Sat, 08 Aug 2026 14:52:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarique-rahman-080826-1786177817.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
