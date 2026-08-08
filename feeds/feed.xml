@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Aug 2026 15:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 16:17:08 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Aug 2026 15:16:49 GMT</pubDate>
+        <pubDate>Sat, 08 Aug 2026 16:17:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Govt clarifies stance on private fuel import policy]]></title>
+            <description><![CDATA[[Bangladesh] Govt clarifies stance on private fuel import policy]]></description>
+            <link>https://bdnews24.com/bangladesh/7d983e2d89bd</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7d983e2d89bd</guid>
+            <pubDate>Sat, 08 Aug 2026 22:15:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025May/SM/meghna-jamuna-oil-depot-fatullah-250525-009-1748182833.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Moismane to return as South Africa coach]]></title>
+            <description><![CDATA[[Sport] Moismane to return as South Africa coach]]></description>
+            <link>https://bdnews24.com/sport/249c4f3939ee</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/249c4f3939ee</guid>
+            <pubDate>Sat, 08 Aug 2026 21:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/pitso-mosimane-080826-01-1786203939.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[China, Bangladesh ceramics industries eye stronger ties]]></title>
             <description><![CDATA[[Business] China, Bangladesh ceramics industries eye stronger ties]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/724baac0ba87</guid>
             <pubDate>Sat, 08 Aug 2026 12:52:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/naogang-bike-accident-130822-01-1786170709.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mithun Chakraborty hospitalised]]></title>
-            <description><![CDATA[[Entertainment] Mithun Chakraborty hospitalised]]></description>
-            <link>https://bdnews24.com/entertainment/fdb91c913d05</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/fdb91c913d05</guid>
-            <pubDate>Sat, 08 Aug 2026 12:29:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mithun-chakrabarti-080826-01-1786167973.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[5 bodies found near site of missing Nepal climbers]]></title>
-            <description><![CDATA[[South Asia] 5 bodies found near site of missing Nepal climbers]]></description>
-            <link>https://bdnews24.com/world/south-asia/fc6bb101f4d7</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/south-asia/fc6bb101f4d7</guid>
-            <pubDate>Sat, 08 Aug 2026 12:09:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/nepal-mountain-080826-1786169323.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
