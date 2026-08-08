@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Aug 2026 17:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 18:18:44 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Aug 2026 17:18:52 GMT</pubDate>
+        <pubDate>Sat, 08 Aug 2026 18:18:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Thailand school deaths reach 9]]></title>
+            <description><![CDATA[[World] Thailand school deaths reach 9]]></description>
+            <link>https://bdnews24.com/world/5718e8de041b</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/5718e8de041b</guid>
+            <pubDate>Sat, 08 Aug 2026 23:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/thailand-death-toll-08082026-01-1786211048.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Republicans confirm Blanche as attorney general]]></title>
+            <description><![CDATA[[World] Republicans confirm Blanche as attorney general]]></description>
+            <link>https://bdnews24.com/world/b3a179b9b6c5</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/b3a179b9b6c5</guid>
+            <pubDate>Sat, 08 Aug 2026 23:19:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/blanche-attorney-08082026-01-1786209491.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[India's fear led to artefact removal: Nahid]]></title>
             <description><![CDATA[[Bangladesh] India's fear led to artefact removal: Nahid]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/6c0713272304</guid>
             <pubDate>Sat, 08 Aug 2026 14:52:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarique-rahman-080826-1786177817.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PBI rearrests suspect Hafizur in Tonu murder]]></title>
-            <description><![CDATA[[Bangladesh] PBI rearrests suspect Hafizur in Tonu murder]]></description>
-            <link>https://bdnews24.com/bangladesh/012f471efba9</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/012f471efba9</guid>
-            <pubDate>Sat, 08 Aug 2026 14:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/cumilla-tanu-murder-040826-01-1785855784.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[We can’t monitor every house: RAJUK]]></title>
-            <description><![CDATA[[Bangladesh] We can’t monitor every house: RAJUK]]></description>
-            <link>https://bdnews24.com/bangladesh/43d20eca2edd</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/43d20eca2edd</guid>
-            <pubDate>Sat, 08 Aug 2026 13:35:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/riazul-islam-080826-01-1786173786.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
