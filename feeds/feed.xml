@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Aug 2026 16:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 17:18:52 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Aug 2026 16:17:08 GMT</pubDate>
+        <pubDate>Sat, 08 Aug 2026 17:18:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[India's fear led to artefact removal: Nahid]]></title>
+            <description><![CDATA[[Bangladesh] India's fear led to artefact removal: Nahid]]></description>
+            <link>https://bdnews24.com/bangladesh/0ddac07dc78d</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0ddac07dc78d</guid>
+            <pubDate>Sat, 08 Aug 2026 22:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/nahid-islam-ncp-080826-1786198918.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Couple die after being hit by train in Gazipur]]></title>
+            <description><![CDATA[[Bangladesh] Couple die after being hit by train in Gazipur]]></description>
+            <link>https://bdnews24.com/bangladesh/640d633327a4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/640d633327a4</guid>
+            <pubDate>Sat, 08 Aug 2026 22:27:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/gazipur-train-two-dead-080826-01-1786202230.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Govt clarifies stance on private fuel import policy]]></title>
             <description><![CDATA[[Bangladesh] Govt clarifies stance on private fuel import policy]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/43d20eca2edd</guid>
             <pubDate>Sat, 08 Aug 2026 13:35:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/riazul-islam-080826-01-1786173786.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arsenal land Newcastle's Guimaraes]]></title>
-            <description><![CDATA[[Sport] Arsenal land Newcastle's Guimaraes]]></description>
-            <link>https://bdnews24.com/sport/b18273489660</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/b18273489660</guid>
-            <pubDate>Sat, 08 Aug 2026 12:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/bruno-guimaraes-050826-1786172031.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bike crashes kill 15,700 in 6.5 years: RSF]]></title>
-            <description><![CDATA[[Bangladesh] Bike crashes kill 15,700 in 6.5 years: RSF]]></description>
-            <link>https://bdnews24.com/bangladesh/724baac0ba87</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/724baac0ba87</guid>
-            <pubDate>Sat, 08 Aug 2026 12:52:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/naogang-bike-accident-130822-01-1786170709.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
