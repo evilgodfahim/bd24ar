@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News]]></title>
-        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
+        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 02:54:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 04:08:31 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 02:54:50 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 04:08:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Iranian media ‘releases’ rare video of Supreme Leader Mojtaba]]></title>
-            <description><![CDATA[[World] Iranian media ‘releases’ rare video of Supreme Leader Mojtaba]]></description>
-            <link>https://bdnews24.com/world/e9fc60a99a12</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/e9fc60a99a12</guid>
-            <pubDate>Sun, 09 Aug 2026 02:28:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mojtaba-khamenei-iran-080826-1786219394.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Reckless ‘bauli’ puts lives at risk]]></title>
-            <description><![CDATA[[Bangladesh] Reckless ‘bauli’ puts lives at risk]]></description>
-            <link>https://bdnews24.com/bangladesh/f04cfdfed70c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f04cfdfed70c</guid>
-            <pubDate>Sun, 09 Aug 2026 01:59:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bus-accident-080826-00-1786216028.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UN demands accountability over PoJK protest crackdown]]></title>
-            <description><![CDATA[[World] UN demands accountability over PoJK protest crackdown]]></description>
-            <link>https://bdnews24.com/world/26c621a7653e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/26c621a7653e</guid>
-            <pubDate>Sun, 09 Aug 2026 01:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/farhan-haq-090826-01-1786216894.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[A city saving matchsticks waits for LNG]]></title>
-            <description><![CDATA[[Bangladesh] A city saving matchsticks waits for LNG]]></description>
-            <link>https://bdnews24.com/bangladesh/09b7147a516b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/09b7147a516b</guid>
-            <pubDate>Sun, 09 Aug 2026 00:47:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/gas-crisis-cng-station-220726-10-1784721576.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Inside Thailand's deadly school shooting]]></title>
-            <description><![CDATA[[Asia Pacific] Inside Thailand's deadly school shooting]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/0bdc00dd1544</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/0bdc00dd1544</guid>
-            <pubDate>Sun, 09 Aug 2026 00:32:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/thailand-shooting-09082026-01-1786213923.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thailand school deaths reach 9]]></title>
-            <description><![CDATA[[World] Thailand school deaths reach 9]]></description>
-            <link>https://bdnews24.com/world/5718e8de041b</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/5718e8de041b</guid>
-            <pubDate>Sat, 08 Aug 2026 23:45:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/thailand-death-toll-08082026-01-1786211048.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Republicans confirm Blanche as attorney general]]></title>
-            <description><![CDATA[[World] Republicans confirm Blanche as attorney general]]></description>
-            <link>https://bdnews24.com/world/b3a179b9b6c5</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/b3a179b9b6c5</guid>
-            <pubDate>Sat, 08 Aug 2026 23:19:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/blanche-attorney-08082026-01-1786209491.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India's fear led to artefact removal: Nahid]]></title>
-            <description><![CDATA[[Bangladesh] India's fear led to artefact removal: Nahid]]></description>
-            <link>https://bdnews24.com/bangladesh/0ddac07dc78d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0ddac07dc78d</guid>
-            <pubDate>Sat, 08 Aug 2026 22:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/nahid-islam-ncp-080826-1786198918.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Couple die after being hit by train in Gazipur]]></title>
-            <description><![CDATA[[Bangladesh] Couple die after being hit by train in Gazipur]]></description>
-            <link>https://bdnews24.com/bangladesh/640d633327a4</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/640d633327a4</guid>
-            <pubDate>Sat, 08 Aug 2026 22:27:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/gazipur-train-two-dead-080826-01-1786202230.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt clarifies stance on private fuel import policy]]></title>
-            <description><![CDATA[[Bangladesh] Govt clarifies stance on private fuel import policy]]></description>
-            <link>https://bdnews24.com/bangladesh/7d983e2d89bd</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7d983e2d89bd</guid>
-            <pubDate>Sat, 08 Aug 2026 22:15:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025May/SM/meghna-jamuna-oil-depot-fatullah-250525-009-1748182833.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Moismane to return as South Africa coach]]></title>
-            <description><![CDATA[[Sport] Moismane to return as South Africa coach]]></description>
-            <link>https://bdnews24.com/sport/249c4f3939ee</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/249c4f3939ee</guid>
-            <pubDate>Sat, 08 Aug 2026 21:45:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/pitso-mosimane-080826-01-1786203939.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[China, Bangladesh ceramics industries eye stronger ties]]></title>
-            <description><![CDATA[[Business] China, Bangladesh ceramics industries eye stronger ties]]></description>
-            <link>https://bdnews24.com/business/1329b7f39688</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/1329b7f39688</guid>
-            <pubDate>Sat, 08 Aug 2026 21:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/china-bcmea-1-1786201848.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hormuz deal is close: Iran]]></title>
-            <description><![CDATA[[World] Hormuz deal is close: Iran]]></description>
-            <link>https://bdnews24.com/world/06db68b86619</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/06db68b86619</guid>
-            <pubDate>Sat, 08 Aug 2026 19:59:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/strait-of-hormuz-070826-01-1786197488.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Putin could test NATO unity: US intel]]></title>
-            <description><![CDATA[[World] Putin could test NATO unity: US intel]]></description>
-            <link>https://bdnews24.com/world/fcc4ad46cf74</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/fcc4ad46cf74</guid>
-            <pubDate>Sat, 08 Aug 2026 19:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/putin-080826-1786197250.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles: 8-month-old dies ‘waiting for ICU bed’ in Sylhet]]></title>
-            <description><![CDATA[[Health] Measles: 8-month-old dies ‘waiting for ICU bed’ in Sylhet]]></description>
-            <link>https://bdnews24.com/health/aaa5dbfbaf4c</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/aaa5dbfbaf4c</guid>
-            <pubDate>Sat, 08 Aug 2026 19:25:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/sylhet-measels-dead-080826-01-1786191982.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Messi’s father Jorge dies at 68]]></title>
-            <description><![CDATA[[Sport] Messi’s father Jorge dies at 68]]></description>
-            <link>https://bdnews24.com/sport/8bd64ed86d88</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/8bd64ed86d88</guid>
-            <pubDate>Sat, 08 Aug 2026 19:06:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/messi-father-080826-01-1786199041.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[HSC written exams end barring Ctg]]></title>
-            <description><![CDATA[[Education] HSC written exams end barring Ctg]]></description>
-            <link>https://bdnews24.com/education/c847e887e849</link>
-            <guid isPermaLink="true">https://bdnews24.com/education/c847e887e849</guid>
-            <pubDate>Sat, 08 Aug 2026 18:43:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2024July/SM/hsc-examination-170823-27-1721301592.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[10 families of July slain, injured get jobs]]></title>
-            <description><![CDATA[[Bangladesh] 10 families of July slain, injured get jobs]]></description>
-            <link>https://bdnews24.com/bangladesh/510b5c4bc2dc</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/510b5c4bc2dc</guid>
-            <pubDate>Sat, 08 Aug 2026 17:48:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/pm-with-july-martyr-family-080826-01-1786185004.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India can’t play ‘Hasina card’ and seek friendship: Salahuddin]]></title>
-            <description><![CDATA[[Campus] India can’t play ‘Hasina card’ and seek friendship: Salahuddin]]></description>
-            <link>https://bdnews24.com/campus/fbb2ed2be472</link>
-            <guid isPermaLink="true">https://bdnews24.com/campus/fbb2ed2be472</guid>
-            <pubDate>Sat, 08 Aug 2026 17:10:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/salahuddin-ahmed-080826-1786183381.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BNP tasked with saving nation: Fakhrul]]></title>
-            <description><![CDATA[[Bangladesh] BNP tasked with saving nation: Fakhrul]]></description>
-            <link>https://bdnews24.com/bangladesh/39c6881d8c5d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/39c6881d8c5d</guid>
-            <pubDate>Sat, 08 Aug 2026 16:26:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mirza-fakhrul-islam-080826-1786181977.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: timeout of 65000ms exceeded]]></description>
+            <link>https://bdnews24.com</link>
+            <guid isPermaLink="true">https://bdnews24.com</guid>
+            <pubDate>Sun, 09 Aug 2026 04:08:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
