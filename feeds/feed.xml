@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – Latest News]]></title>
+        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 04:08:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 05:38:55 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 04:08:31 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 05:38:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: timeout of 65000ms exceeded]]></description>
-            <link>https://bdnews24.com</link>
-            <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Sun, 09 Aug 2026 04:08:31 GMT</pubDate>
+            <title><![CDATA[Army chief visits South Sudan, Abyei]]></title>
+            <description><![CDATA[[Bangladesh] Army chief visits South Sudan, Abyei]]></description>
+            <link>https://bdnews24.com/bangladesh/6dcc69db977f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6dcc69db977f</guid>
+            <pubDate>Sun, 09 Aug 2026 11:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024October/SM/wakar-uz-zaman-151024-1728964353.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[China July factory-gate inflation eases]]></title>
+            <description><![CDATA[[Economy] China July factory-gate inflation eases]]></description>
+            <link>https://bdnews24.com/economy/6e8b4bed0512</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/6e8b4bed0512</guid>
+            <pubDate>Sun, 09 Aug 2026 11:20:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/china-economy-inflation-090826-01-1786252781.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Biman flight leaves Rome after nearly 40 hours]]></title>
+            <description><![CDATA[[Bangladesh] Biman flight leaves Rome after nearly 40 hours]]></description>
+            <link>https://bdnews24.com/bangladesh/94050a2eb525</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/94050a2eb525</guid>
+            <pubDate>Sun, 09 Aug 2026 11:20:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2025January/SM/biman-bangladesh-airlines-boeing-787-er-s2-ahm-021019-001-1737928256.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Turkey, Pakistan, S Arabia defence pact technically same as NATO's]]></title>
+            <description><![CDATA[[World] Turkey, Pakistan, S Arabia defence pact technically same as NATO's]]></description>
+            <link>https://bdnews24.com/world/fcce5b43a1f2</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/fcce5b43a1f2</guid>
+            <pubDate>Sun, 09 Aug 2026 11:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/saudi-defence-pact-090826-01-1786252012.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[2 Bangladeshis arrested in Portugal for ‘kidnapping’]]></title>
+            <description><![CDATA[[Diaspora] 2 Bangladeshis arrested in Portugal for ‘kidnapping’]]></description>
+            <link>https://bdnews24.com/diaspora/a82010f7f93e</link>
+            <guid isPermaLink="true">https://bdnews24.com/diaspora/a82010f7f93e</guid>
+            <pubDate>Sun, 09 Aug 2026 10:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bangladeshi-arrest-090826-1786249190.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Algeria, Morocco qualify for Women’s WC]]></title>
+            <description><![CDATA[[Sport] Algeria, Morocco qualify for Women’s WC]]></description>
+            <link>https://bdnews24.com/sport/30ee922364f4</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/30ee922364f4</guid>
+            <pubDate>Sun, 09 Aug 2026 10:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/world-cup-algeria-morocco-090826-01-1786249768.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[FIFA warns of effort to undermine Infantino]]></title>
+            <description><![CDATA[[Sport] FIFA warns of effort to undermine Infantino]]></description>
+            <link>https://bdnews24.com/sport/8a8cf8adce19</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/8a8cf8adce19</guid>
+            <pubDate>Sun, 09 Aug 2026 10:25:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/fifa-undermine-infantino-090826-01-1786249455.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[German minister warns of ‘hybrid warfare’ after ‘drone attack’]]></title>
+            <description><![CDATA[[Europe] German minister warns of ‘hybrid warfare’ after ‘drone attack’]]></description>
+            <link>https://bdnews24.com/world/europe/ef88caff05e2</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/ef88caff05e2</guid>
+            <pubDate>Sun, 09 Aug 2026 10:16:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/germany-drone-warfare-090826-01-1786248933.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rajbari-Kushtia highway claims 35 lives in 18 months]]></title>
+            <description><![CDATA[[Bangladesh] Rajbari-Kushtia highway claims 35 lives in 18 months]]></description>
+            <link>https://bdnews24.com/bangladesh/c80e7b82a7ae</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c80e7b82a7ae</guid>
+            <pubDate>Sun, 09 Aug 2026 10:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/rajbari-acc-010726-01-1782899089.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ICE to finish body camera rollout in August]]></title>
+            <description><![CDATA[[Americas] ICE to finish body camera rollout in August]]></description>
+            <link>https://bdnews24.com/world/americas/140d8d336cf3</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/140d8d336cf3</guid>
+            <pubDate>Sun, 09 Aug 2026 10:03:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-ice-police-090826-01-1786248142.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indonesia closes access to Mount Bromo as wildfire expands]]></title>
+            <description><![CDATA[[South-East Asia] Indonesia closes access to Mount Bromo as wildfire expands]]></description>
+            <link>https://bdnews24.com/world/south-east-asia/e0714c049a93</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/south-east-asia/e0714c049a93</guid>
+            <pubDate>Sun, 09 Aug 2026 09:55:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/indonesia-wildfire-closure-090826-01-1786247626.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM off to Cox’s Bazar’s Moheshkhali]]></title>
+            <description><![CDATA[[Bangladesh] PM off to Cox’s Bazar’s Moheshkhali]]></description>
+            <link>https://bdnews24.com/bangladesh/fdcf05b6568b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/fdcf05b6568b</guid>
+            <pubDate>Sun, 09 Aug 2026 09:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarique-rahman-090826-1786246323.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-President Joe Biden's cancer has spread]]></title>
+            <description><![CDATA[[Americas] Ex-President Joe Biden's cancer has spread]]></description>
+            <link>https://bdnews24.com/world/americas/da2ba81c07b5</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/da2ba81c07b5</guid>
+            <pubDate>Sun, 09 Aug 2026 09:35:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/joe-bidenb-090826-01-1786246540.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fire extinguished at Aramco refinery: Saudi Arabia]]></title>
+            <description><![CDATA[[West Asia] Fire extinguished at Aramco refinery: Saudi Arabia]]></description>
+            <link>https://bdnews24.com/world/middle-east/c5ab7b254c84</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/c5ab7b254c84</guid>
+            <pubDate>Sun, 09 Aug 2026 09:33:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/fire-saudi-aramco-090826-01-1786246310.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[British Columbia declares state of emergency]]></title>
+            <description><![CDATA[[Americas] British Columbia declares state of emergency]]></description>
+            <link>https://bdnews24.com/world/americas/2ed5fabc45eb</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/2ed5fabc45eb</guid>
+            <pubDate>Sun, 09 Aug 2026 08:55:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/canada-wildfire-090826-01-1786244080.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iranian media ‘releases’ rare video of Supreme Leader Mojtaba]]></title>
+            <description><![CDATA[[World] Iranian media ‘releases’ rare video of Supreme Leader Mojtaba]]></description>
+            <link>https://bdnews24.com/world/e9fc60a99a12</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e9fc60a99a12</guid>
+            <pubDate>Sun, 09 Aug 2026 02:28:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mojtaba-khamenei-iran-080826-1786219394.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reckless ‘bauli’ puts lives at risk]]></title>
+            <description><![CDATA[[Bangladesh] Reckless ‘bauli’ puts lives at risk]]></description>
+            <link>https://bdnews24.com/bangladesh/f04cfdfed70c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f04cfdfed70c</guid>
+            <pubDate>Sun, 09 Aug 2026 01:59:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bus-accident-080826-00-1786216028.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[UN demands accountability over PoJK protest crackdown]]></title>
+            <description><![CDATA[[World] UN demands accountability over PoJK protest crackdown]]></description>
+            <link>https://bdnews24.com/world/26c621a7653e</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/26c621a7653e</guid>
+            <pubDate>Sun, 09 Aug 2026 01:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/farhan-haq-090826-01-1786216894.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A city saving matchsticks waits for LNG]]></title>
+            <description><![CDATA[[Bangladesh] A city saving matchsticks waits for LNG]]></description>
+            <link>https://bdnews24.com/bangladesh/09b7147a516b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/09b7147a516b</guid>
+            <pubDate>Sun, 09 Aug 2026 00:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/gas-crisis-cng-station-220726-10-1784721576.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inside Thailand's deadly school shooting]]></title>
+            <description><![CDATA[[Asia Pacific] Inside Thailand's deadly school shooting]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/0bdc00dd1544</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/0bdc00dd1544</guid>
+            <pubDate>Sun, 09 Aug 2026 00:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/thailand-shooting-09082026-01-1786213923.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
