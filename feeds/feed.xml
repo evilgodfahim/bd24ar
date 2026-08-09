@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 10:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 11:18:08 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 10:20:18 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 11:18:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Local govt polls: Update adds 300,000 to voter list]]></title>
+            <description><![CDATA[[Bangladesh] Local govt polls: Update adds 300,000 to voter list]]></description>
+            <link>https://bdnews24.com/bangladesh/0f8a064c6c26</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0f8a064c6c26</guid>
+            <pubDate>Sun, 09 Aug 2026 16:46:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/voters-1000-1778747343.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM at Babunagar Madrasa]]></title>
+            <description><![CDATA[[Bangladesh] PM at Babunagar Madrasa]]></description>
+            <link>https://bdnews24.com/bangladesh/0ea4a7e6037b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0ea4a7e6037b</guid>
+            <pubDate>Sun, 09 Aug 2026 16:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarique-rahman-090826-06jpg-1786271025.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Three more testify in S Alam, PK Halder graft case]]></title>
             <description><![CDATA[[Bangladesh] Three more testify in S Alam, PK Halder graft case]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/f5f397ce105e</guid>
             <pubDate>Sun, 09 Aug 2026 11:40:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarique-rahman-090826-02-1786251128.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Army chief visits South Sudan, Abyei]]></title>
-            <description><![CDATA[[Bangladesh] Army chief visits South Sudan, Abyei]]></description>
-            <link>https://bdnews24.com/bangladesh/6dcc69db977f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6dcc69db977f</guid>
-            <pubDate>Sun, 09 Aug 2026 11:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024October/SM/wakar-uz-zaman-151024-1728964353.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[China July factory-gate inflation eases]]></title>
-            <description><![CDATA[[Economy] China July factory-gate inflation eases]]></description>
-            <link>https://bdnews24.com/economy/6e8b4bed0512</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/6e8b4bed0512</guid>
-            <pubDate>Sun, 09 Aug 2026 11:20:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/china-economy-inflation-090826-01-1786252781.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
