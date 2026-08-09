@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 13:39:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 14:22:09 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 13:39:23 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 14:22:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Typhoon Dolphin strikes China's east coast]]></title>
+            <description><![CDATA[[World] Typhoon Dolphin strikes China's east coast]]></description>
+            <link>https://bdnews24.com/world/d769c270fe88</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/d769c270fe88</guid>
+            <pubDate>Sun, 09 Aug 2026 20:08:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/typhoon-dolphin-090826-01-1786284446.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indigenous communities mark their day in colour]]></title>
+            <description><![CDATA[[Image] Indigenous communities mark their day in colour]]></description>
+            <link>https://bdnews24.com/media-en/image/fe1ca52f8e4a</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/fe1ca52f8e4a</guid>
+            <pubDate>Sun, 09 Aug 2026 20:08:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/international-indigenous-peoples-day-090826-59-1786279309.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mamata alleges attack on convoy near Kolkata]]></title>
+            <description><![CDATA[[Neighbours] Mamata alleges attack on convoy near Kolkata]]></description>
+            <link>https://bdnews24.com/neighbours/899bb8dfd5ef</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/899bb8dfd5ef</guid>
+            <pubDate>Sun, 09 Aug 2026 19:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mamata-banerjee-car-attack-090826-1786281652.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[5 killed in Ukraine drone strike on Belgorod]]></title>
             <description><![CDATA[[World] 5 killed in Ukraine drone strike on Belgorod]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/c7b3d16a1566</guid>
             <pubDate>Sun, 09 Aug 2026 17:22:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/salman-shah-don-090826-01-1786268429.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Local govt polls: Update adds 300,000 to voter list]]></title>
-            <description><![CDATA[[Bangladesh] Local govt polls: Update adds 300,000 to voter list]]></description>
-            <link>https://bdnews24.com/bangladesh/0f8a064c6c26</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0f8a064c6c26</guid>
-            <pubDate>Sun, 09 Aug 2026 16:46:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/voters-1000-1778747343.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PM at Babunagar Madrasa]]></title>
-            <description><![CDATA[[Bangladesh] PM at Babunagar Madrasa]]></description>
-            <link>https://bdnews24.com/bangladesh/0ea4a7e6037b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0ea4a7e6037b</guid>
-            <pubDate>Sun, 09 Aug 2026 16:32:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarique-rahman-090826-06jpg-1786271025.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Three more testify in S Alam, PK Halder graft case]]></title>
-            <description><![CDATA[[Bangladesh] Three more testify in S Alam, PK Halder graft case]]></description>
-            <link>https://bdnews24.com/bangladesh/c26dfbcf441f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c26dfbcf441f</guid>
-            <pubDate>Sun, 09 Aug 2026 16:02:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026January/SM/pk-halder-1768806057-1769596986.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
