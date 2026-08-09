@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 14:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 15:18:48 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 14:22:09 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 15:18:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Air India pilot flagged for drug test after altitude drop]]></title>
+            <description><![CDATA[[Neighbours] Air India pilot flagged for drug test after altitude drop]]></description>
+            <link>https://bdnews24.com/neighbours/a1c967f9b9a1</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/a1c967f9b9a1</guid>
+            <pubDate>Sun, 09 Aug 2026 21:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/air-india-090826-01-1786288330.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kakhaber Benidze named BAT Bangladesh MD]]></title>
+            <description><![CDATA[[Business] Kakhaber Benidze named BAT Bangladesh MD]]></description>
+            <link>https://bdnews24.com/business/e647cf997e38</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/e647cf997e38</guid>
+            <pubDate>Sun, 09 Aug 2026 21:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/bat-pr-09082026-01-1786288057.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Adil Digital Academy takes on Bangladesh’s skill gap]]></title>
+            <description><![CDATA[[Campus] Adil Digital Academy takes on Bangladesh’s skill gap]]></description>
+            <link>https://bdnews24.com/campus/8a52166567af</link>
+            <guid isPermaLink="true">https://bdnews24.com/campus/8a52166567af</guid>
+            <pubDate>Sun, 09 Aug 2026 20:54:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/adil-academy-090826-01-1786287236.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[AmCham pushes digital growth, innovation in Bangladesh]]></title>
+            <description><![CDATA[[Business] AmCham pushes digital growth, innovation in Bangladesh]]></description>
+            <link>https://bdnews24.com/business/e7293fba19a4</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/e7293fba19a4</guid>
+            <pubDate>Sun, 09 Aug 2026 20:46:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/amcham-pr-09082026-01-1786286745.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM-to-PM talks can fix Dhaka-Delhi issues: Indian envoy]]></title>
+            <description><![CDATA[[Bangladesh] PM-to-PM talks can fix Dhaka-Delhi issues: Indian envoy]]></description>
+            <link>https://bdnews24.com/bangladesh/14b022497248</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/14b022497248</guid>
+            <pubDate>Sun, 09 Aug 2026 20:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/dinesh-trivedi-090826-02-1786283327.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Typhoon Dolphin strikes China's east coast]]></title>
             <description><![CDATA[[World] Typhoon Dolphin strikes China's east coast]]></description>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/58d87d1a4c09</guid>
             <pubDate>Sun, 09 Aug 2026 18:12:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/pm-in-bashkhali-090826-01-1786273553.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ULAB moves closer to joint PhD with Portsmouth]]></title>
-            <description><![CDATA[[Campus] ULAB moves closer to joint PhD with Portsmouth]]></description>
-            <link>https://bdnews24.com/campus/287b5444f6a7</link>
-            <guid isPermaLink="true">https://bdnews24.com/campus/287b5444f6a7</guid>
-            <pubDate>Sun, 09 Aug 2026 18:03:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ulab-phd-portsmouth-090826-01-1786277001.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Court shields Justice Khairul from arbitrary arrests]]></title>
-            <description><![CDATA[[Bangladesh] Court shields Justice Khairul from arbitrary arrests]]></description>
-            <link>https://bdnews24.com/bangladesh/89d6e3766945</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/89d6e3766945</guid>
-            <pubDate>Sun, 09 Aug 2026 17:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/khairul-haque-230526-1779531975.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jet fuel prices jump after four cuts]]></title>
-            <description><![CDATA[[Business] Jet fuel prices jump after four cuts]]></description>
-            <link>https://bdnews24.com/business/54defd2dfdea</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/54defd2dfdea</guid>
-            <pubDate>Sun, 09 Aug 2026 17:50:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026March/SM/jet-fuel-240326-01-1774346831.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel rejects Trump's plan for Gaza: Netanyahu]]></title>
-            <description><![CDATA[[West Asia] Israel rejects Trump's plan for Gaza: Netanyahu]]></description>
-            <link>https://bdnews24.com/world/middle-east/b446592af6ca</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/b446592af6ca</guid>
-            <pubDate>Sun, 09 Aug 2026 17:43:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/trump-netanyahu-090826-01-1786275771.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Actor Don held over Salman Shah ‘murder’]]></title>
-            <description><![CDATA[[Bangladesh] Actor Don held over Salman Shah ‘murder’]]></description>
-            <link>https://bdnews24.com/bangladesh/c7b3d16a1566</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c7b3d16a1566</guid>
-            <pubDate>Sun, 09 Aug 2026 17:22:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/salman-shah-don-090826-01-1786268429.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
