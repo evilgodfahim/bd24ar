@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 15:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 16:18:30 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 15:18:48 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 16:18:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[VC Sports Week 2026 wraps up at Uttara University]]></title>
+            <description><![CDATA[[Campus] VC Sports Week 2026 wraps up at Uttara University]]></description>
+            <link>https://bdnews24.com/campus/a477d541aca3</link>
+            <guid isPermaLink="true">https://bdnews24.com/campus/a477d541aca3</guid>
+            <pubDate>Sun, 09 Aug 2026 22:09:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/vc-uttara-090826-01-1786291702.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Federal aid arrives as British Columbia wildfires rage]]></title>
+            <description><![CDATA[[Environment] Federal aid arrives as British Columbia wildfires rage]]></description>
+            <link>https://bdnews24.com/environment/72b34c1d248d</link>
+            <guid isPermaLink="true">https://bdnews24.com/environment/72b34c1d248d</guid>
+            <pubDate>Sun, 09 Aug 2026 22:06:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/canada-wildfire-090826-01-1786291474.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘She Leads Tomorrow’ celebrates women leaders in Bangladesh]]></title>
+            <description><![CDATA[[Bangladesh] ‘She Leads Tomorrow’ celebrates women leaders in Bangladesh]]></description>
+            <link>https://bdnews24.com/bangladesh/ff466be9b3b4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ff466be9b3b4</guid>
+            <pubDate>Sun, 09 Aug 2026 21:49:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/zubaida-rahman-090826-01-1786290338.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[July PMI rises to 57.8]]></title>
+            <description><![CDATA[[Economy] July PMI rises to 57.8]]></description>
+            <link>https://bdnews24.com/economy/3dbdf1523dd6</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/3dbdf1523dd6</guid>
+            <pubDate>Sun, 09 Aug 2026 21:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026February/SM/eid-shoping-bashundhara-city-shopping-mall-mzo-24052019-0001-1770463977.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Khan in, Sudharsan out for Sri Lanka Tests]]></title>
+            <description><![CDATA[[Sport] Khan in, Sudharsan out for Sri Lanka Tests]]></description>
+            <link>https://bdnews24.com/sport/3f38cf34bbb7</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/3f38cf34bbb7</guid>
+            <pubDate>Sun, 09 Aug 2026 21:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025May/SM/sarfaraz-khan-250525-01-1748185252.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[42 defaulters face probe over ‘laundered funds’]]></title>
+            <description><![CDATA[[Business] 42 defaulters face probe over ‘laundered funds’]]></description>
+            <link>https://bdnews24.com/business/9b6eae5db9f4</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/9b6eae5db9f4</guid>
+            <pubDate>Sun, 09 Aug 2026 21:23:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024August/SM/bangladesh-bank-logo-aam-090824-0004-1723146175.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Air India pilot flagged for drug test after altitude drop]]></title>
             <description><![CDATA[[Neighbours] Air India pilot flagged for drug test after altitude drop]]></description>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/9df28078ee44</guid>
             <pubDate>Sun, 09 Aug 2026 18:57:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/iran-hormuz-090826-01-1786280222.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dengue: 2 more die, 672 hospitalised]]></title>
-            <description><![CDATA[[Health] Dengue: 2 more die, 672 hospitalised]]></description>
-            <link>https://bdnews24.com/health/b1822a40a107</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/b1822a40a107</guid>
-            <pubDate>Sun, 09 Aug 2026 18:44:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024September/SM/dengue-mugda-medical-college-hospital-180924-020-1726659090.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jaissle begins Newcastle rebuild with Valencia win]]></title>
-            <description><![CDATA[[Sport] Jaissle begins Newcastle rebuild with Valencia win]]></description>
-            <link>https://bdnews24.com/sport/1b8ac080c8dc</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/1b8ac080c8dc</guid>
-            <pubDate>Sun, 09 Aug 2026 18:44:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/matthias-jaissle-090826-01-1786279363.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Houthis attack Saudi refinery]]></title>
-            <description><![CDATA[[World] Houthis attack Saudi refinery]]></description>
-            <link>https://bdnews24.com/world/75fc9ba9315d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/75fc9ba9315d</guid>
-            <pubDate>Sun, 09 Aug 2026 18:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/yemen-houthi-090826-01-1786279274.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Carrick plays down Mount injury scare]]></title>
-            <description><![CDATA[[Sport] Carrick plays down Mount injury scare]]></description>
-            <link>https://bdnews24.com/sport/c46ba78262a4</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/c46ba78262a4</guid>
-            <pubDate>Sun, 09 Aug 2026 18:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/michael-carrick-280426-01-1777382197-1786278782.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sharks join the hunt for stronger forecasts]]></title>
-            <description><![CDATA[[Science] Sharks join the hunt for stronger forecasts]]></description>
-            <link>https://bdnews24.com/science/32d26ced2d51</link>
-            <guid isPermaLink="true">https://bdnews24.com/science/32d26ced2d51</guid>
-            <pubDate>Sun, 09 Aug 2026 18:25:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/sharks-join-hunt-forecasts-090826-01-1786278285.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PM promises 10-year energy roadmap]]></title>
-            <description><![CDATA[[Bangladesh] PM promises 10-year energy roadmap]]></description>
-            <link>https://bdnews24.com/bangladesh/58d87d1a4c09</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/58d87d1a4c09</guid>
-            <pubDate>Sun, 09 Aug 2026 18:12:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/pm-in-bashkhali-090826-01-1786273553.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
