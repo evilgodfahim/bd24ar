@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 07:42:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 08:26:51 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 07:42:53 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 08:26:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bodies of mother, son found in Jashore]]></title>
+            <description><![CDATA[[Bangladesh] Bodies of mother, son found in Jashore]]></description>
+            <link>https://bdnews24.com/bangladesh/9be69d2e460b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9be69d2e460b</guid>
+            <pubDate>Sun, 09 Aug 2026 14:22:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/jashore-mother-son-deadbody-090826-1786260413.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thai school shooter had watched violent content online]]></title>
+            <description><![CDATA[[South-East Asia] Thai school shooter had watched violent content online]]></description>
+            <link>https://bdnews24.com/world/south-east-asia/b0b4e8ba1384</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/south-east-asia/b0b4e8ba1384</guid>
+            <pubDate>Sun, 09 Aug 2026 14:16:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/thailand-school-shooting-090826-01-1786263348.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oli Ahmad named opposition presidential candidate]]></title>
+            <description><![CDATA[[Politics] Oli Ahmad named opposition presidential candidate]]></description>
+            <link>https://bdnews24.com/politics/dfbce663124e</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/dfbce663124e</guid>
+            <pubDate>Sun, 09 Aug 2026 13:52:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/jamaat-jote-oli-ahmad-090826-01-1786259453.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Prosecution submits call record of 7 AL leaders to ICT]]></title>
             <description><![CDATA[[Bangladesh] Prosecution submits call record of 7 AL leaders to ICT]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/europe/ef88caff05e2</guid>
             <pubDate>Sun, 09 Aug 2026 10:16:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/germany-drone-warfare-090826-01-1786248933.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rajbari-Kushtia highway claims 35 lives in 18 months]]></title>
-            <description><![CDATA[[Bangladesh] Rajbari-Kushtia highway claims 35 lives in 18 months]]></description>
-            <link>https://bdnews24.com/bangladesh/c80e7b82a7ae</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c80e7b82a7ae</guid>
-            <pubDate>Sun, 09 Aug 2026 10:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/rajbari-acc-010726-01-1782899089.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ICE to finish body camera rollout in August]]></title>
-            <description><![CDATA[[Americas] ICE to finish body camera rollout in August]]></description>
-            <link>https://bdnews24.com/world/americas/140d8d336cf3</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/140d8d336cf3</guid>
-            <pubDate>Sun, 09 Aug 2026 10:03:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-ice-police-090826-01-1786248142.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indonesia closes access to Mount Bromo as wildfire expands]]></title>
-            <description><![CDATA[[South-East Asia] Indonesia closes access to Mount Bromo as wildfire expands]]></description>
-            <link>https://bdnews24.com/world/south-east-asia/e0714c049a93</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/south-east-asia/e0714c049a93</guid>
-            <pubDate>Sun, 09 Aug 2026 09:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/indonesia-wildfire-closure-090826-01-1786247626.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
