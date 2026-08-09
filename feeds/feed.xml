@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 08:26:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 09:26:27 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 08:26:51 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 09:26:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Science toys planned for primary schools: Bobby Hajjaj]]></title>
+            <description><![CDATA[[Education] Science toys planned for primary schools: Bobby Hajjaj]]></description>
+            <link>https://bdnews24.com/education/df06cfa2d3b5</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/df06cfa2d3b5</guid>
+            <pubDate>Sun, 09 Aug 2026 15:22:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bobby-hajjaj-090826-01-1786263981.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flood victims receive new homes]]></title>
+            <description><![CDATA[[Bangladesh] Flood victims receive new homes]]></description>
+            <link>https://bdnews24.com/bangladesh/f2ce595ca9da</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f2ce595ca9da</guid>
+            <pubDate>Sun, 09 Aug 2026 15:03:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarique-rahman-090826-04jpeg-1786264886.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Bodies of mother, son found in Jashore]]></title>
             <description><![CDATA[[Bangladesh] Bodies of mother, son found in Jashore]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/30ee922364f4</guid>
             <pubDate>Sun, 09 Aug 2026 10:30:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/world-cup-algeria-morocco-090826-01-1786249768.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[FIFA warns of effort to undermine Infantino]]></title>
-            <description><![CDATA[[Sport] FIFA warns of effort to undermine Infantino]]></description>
-            <link>https://bdnews24.com/sport/8a8cf8adce19</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/8a8cf8adce19</guid>
-            <pubDate>Sun, 09 Aug 2026 10:25:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/fifa-undermine-infantino-090826-01-1786249455.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[German minister warns of ‘hybrid warfare’ after ‘drone attack’]]></title>
-            <description><![CDATA[[Europe] German minister warns of ‘hybrid warfare’ after ‘drone attack’]]></description>
-            <link>https://bdnews24.com/world/europe/ef88caff05e2</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/ef88caff05e2</guid>
-            <pubDate>Sun, 09 Aug 2026 10:16:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/germany-drone-warfare-090826-01-1786248933.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
