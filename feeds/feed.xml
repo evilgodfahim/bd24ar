@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – Latest News]]></title>
+        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 07:04:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 09:03:40 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 07:04:05 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 09:03:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
-            <link>https://bdnews24.com</link>
-            <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Mon, 10 Aug 2026 07:04:05 GMT</pubDate>
+            <title><![CDATA[Ukraine drone strikes kill 12: Russian mayor]]></title>
+            <description><![CDATA[[World] Ukraine drone strikes kill 12: Russian mayor]]></description>
+            <link>https://bdnews24.com/world/0c4c48228e73</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/0c4c48228e73</guid>
+            <pubDate>Mon, 10 Aug 2026 14:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ukraine-drone-100826-01-1786352177.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[SSC results: Schools erupt in joy]]></title>
+            <description><![CDATA[[Image] SSC results: Schools erupt in joy]]></description>
+            <link>https://bdnews24.com/media-en/image/7d1a63be61f0</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/7d1a63be61f0</guid>
+            <pubDate>Mon, 10 Aug 2026 14:46:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ssc-result-monipur-school-100826-11-1786350226.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chief of India’s RAW in Dhaka]]></title>
+            <description><![CDATA[[Bangladesh] Chief of India’s RAW in Dhaka]]></description>
+            <link>https://bdnews24.com/bangladesh/9790b5fcc290</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9790b5fcc290</guid>
+            <pubDate>Mon, 10 Aug 2026 14:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/parag-jain-100826-01-1786350015.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Typhoon Dolphin soaks east China, disrupts Shanghai]]></title>
+            <description><![CDATA[[World] Typhoon Dolphin soaks east China, disrupts Shanghai]]></description>
+            <link>https://bdnews24.com/world/990cc17ed339</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/990cc17ed339</guid>
+            <pubDate>Mon, 10 Aug 2026 14:35:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/dolphin-china-100826-01-1786350877.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[August 10, 2026]]></title>
+            <description><![CDATA[[Image] August 10, 2026]]></description>
+            <link>https://bdnews24.com/media-en/image/44009202586c</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/44009202586c</guid>
+            <pubDate>Mon, 10 Aug 2026 14:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/buriganga-walkway-100826-02-1786347476.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[SSC fail count jumps sharply]]></title>
+            <description><![CDATA[[Education] SSC fail count jumps sharply]]></description>
+            <link>https://bdnews24.com/education/e81d570bcef3</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/e81d570bcef3</guid>
+            <pubDate>Mon, 10 Aug 2026 14:24:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ssc-result-vikarunnesa-school-100826-08-1786349649.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[S Korea, US hold drills amid N Korea threats]]></title>
+            <description><![CDATA[[Neighbours] S Korea, US hold drills amid N Korea threats]]></description>
+            <link>https://bdnews24.com/neighbours/bb22489716f6</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/bb22489716f6</guid>
+            <pubDate>Mon, 10 Aug 2026 14:18:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/south-korea-100826-01-1786349847.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thousands march on India legislature over exam fraud]]></title>
+            <description><![CDATA[[Neighbours] Thousands march on India legislature over exam fraud]]></description>
+            <link>https://bdnews24.com/neighbours/65f6db560ec1</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/65f6db560ec1</guid>
+            <pubDate>Mon, 10 Aug 2026 14:06:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/india-march-100826-01-1786349089.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Something new is coming! Are you ready, friends?]]></title>
+            <description><![CDATA[[Sponsored] Something new is coming! Are you ready, friends?]]></description>
+            <link>https://bdnews24.com/sponsored/6ddc5ee23bf7</link>
+            <guid isPermaLink="true">https://bdnews24.com/sponsored/6ddc5ee23bf7</guid>
+            <pubDate>Mon, 10 Aug 2026 13:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/cirkle-100826-1786347935.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine's book industry reels from war]]></title>
+            <description><![CDATA[[World] Ukraine's book industry reels from war]]></description>
+            <link>https://bdnews24.com/world/98cb478343b4</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/98cb478343b4</guid>
+            <pubDate>Mon, 10 Aug 2026 13:37:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ukraine-publication-crisis-100826-1786347433.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump names Will Scharf as White House counsel]]></title>
+            <description><![CDATA[[Americas] Trump names Will Scharf as White House counsel]]></description>
+            <link>https://bdnews24.com/world/americas/a156b2d915b8</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/a156b2d915b8</guid>
+            <pubDate>Mon, 10 Aug 2026 13:23:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/will-scharf-100826-01-1786346576.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[War crimes: Azad’s appeal hearing Aug 17]]></title>
+            <description><![CDATA[[Bangladesh] War crimes: Azad’s appeal hearing Aug 17]]></description>
+            <link>https://bdnews24.com/bangladesh/07d79a08d344</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/07d79a08d344</guid>
+            <pubDate>Mon, 10 Aug 2026 13:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026January/SM/abul-kalam-azad-210126-007-1768998290.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trading halted for 3 'defunct' NBFIs]]></title>
+            <description><![CDATA[[Business] Trading halted for 3 'defunct' NBFIs]]></description>
+            <link>https://bdnews24.com/business/6c4c2c4f0a2b</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/6c4c2c4f0a2b</guid>
+            <pubDate>Mon, 10 Aug 2026 12:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024August/SM/stock-market-exchange-brokerage-house-040224-033-1723230059.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian high commissioner meets PM]]></title>
+            <description><![CDATA[[Bangladesh] Indian high commissioner meets PM]]></description>
+            <link>https://bdnews24.com/bangladesh/8cca383f853b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8cca383f853b</guid>
+            <pubDate>Mon, 10 Aug 2026 12:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarique-rahman-dinesh-trivedi-100826-01-1786344158.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Myanmar rejects ASEAN envoy role]]></title>
+            <description><![CDATA[[World] Myanmar rejects ASEAN envoy role]]></description>
+            <link>https://bdnews24.com/world/07a0ea2dd634</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/07a0ea2dd634</guid>
+            <pubDate>Mon, 10 Aug 2026 12:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/myanmar-politics-100826-1786343934.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Madrasa board lags in pass rate, Barishal in GPA-5]]></title>
+            <description><![CDATA[[Education] Madrasa board lags in pass rate, Barishal in GPA-5]]></description>
+            <link>https://bdnews24.com/education/9e2fac7adc64</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/9e2fac7adc64</guid>
+            <pubDate>Mon, 10 Aug 2026 12:38:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/borishal-hsc-100826-03-1786342563.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gunman arrested after Thai office shooting]]></title>
+            <description><![CDATA[[World] Gunman arrested after Thai office shooting]]></description>
+            <link>https://bdnews24.com/world/82688a64027f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/82688a64027f</guid>
+            <pubDate>Mon, 10 Aug 2026 12:22:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/thai-shooting-100826-1786342875.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lone survivor escapes Saudi fire that killed 16]]></title>
+            <description><![CDATA[[Diaspora] Lone survivor escapes Saudi fire that killed 16]]></description>
+            <link>https://bdnews24.com/diaspora/3e35400911fd</link>
+            <guid isPermaLink="true">https://bdnews24.com/diaspora/3e35400911fd</guid>
+            <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/riyadh-fire-killed-100826-201-1786338237.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Girls outshine boys in SSC results]]></title>
+            <description><![CDATA[[Education] Girls outshine boys in SSC results]]></description>
+            <link>https://bdnews24.com/education/46119d8d58ae</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/46119d8d58ae</guid>
+            <pubDate>Mon, 10 Aug 2026 11:29:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/motijheel-ideal-school-result-100826-01-1786339742.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[2 die as out of control lorry slams into vehicles in Moghbazar]]></title>
+            <description><![CDATA[[Bangladesh] 2 die as out of control lorry slams into vehicles in Moghbazar]]></description>
+            <link>https://bdnews24.com/bangladesh/b044614f7ce3</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b044614f7ce3</guid>
+            <pubDate>Mon, 10 Aug 2026 11:25:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/moghbazar-accident-090826-1786306429.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

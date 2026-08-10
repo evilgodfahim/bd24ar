@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ]]></title>
+        <description><![CDATA[bangla.bdnews24.com আর্কাইভ থেকে সর্বশেষ সংবাদ]]></description>
         <link>https://bangla.bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 07:04:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 09:03:41 GMT</lastBuildDate>
         <atom:link href="https://bangla.bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 07:04:05 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 09:03:41 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
-            <link>https://bangla.bdnews24.com</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com</guid>
-            <pubDate>Mon, 10 Aug 2026 07:04:05 GMT</pubDate>
+            <title><![CDATA[ভালো সম্পর্ক হলে উভয় দেশের জন্য ‘উইন-উইন’: দীনেশ ত্রিবেদী]]></title>
+            <description><![CDATA[[বাংলাদেশ] ভালো সম্পর্ক হলে উভয় দেশের জন্য ‘উইন-উইন’: দীনেশ ত্রিবেদী]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/901a06a3a450</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/901a06a3a450</guid>
+            <pubDate>Mon, 10 Aug 2026 09:03:41 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/dinesh-trivedi-100826-1786352346.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[রাষ্ট্রীয় সম্মানী ভাতা: আওতায় আসছে আড়াই লাখের বেশি ইমাম, পুরোহিত]]></title>
+            <description><![CDATA[[বাংলাদেশ] রাষ্ট্রীয় সম্মানী ভাতা: আওতায় আসছে আড়াই লাখের বেশি ইমাম, পুরোহিত]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/94731a31b7ad</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/94731a31b7ad</guid>
+            <pubDate>Mon, 10 Aug 2026 09:03:41 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mosjid-mondir-100926-01-1786352134.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ফেল করা পরীক্ষার্থী বেড়েছে ১৫%]]></title>
+            <description><![CDATA[[বাংলাদেশ] ফেল করা পরীক্ষার্থী বেড়েছে ১৫%]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/974b97240b3a</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/974b97240b3a</guid>
+            <pubDate>Mon, 10 Aug 2026 09:03:41 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ssc-result-vikarunnesa-school-100826-08-1786349649.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ময়মনসিংহ বোর্ডে টানা দ্বিতীয় বছর কমল এসএসসির পাসের হার]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] ময়মনসিংহ বোর্ডে টানা দ্বিতীয় বছর কমল এসএসসির পাসের হার]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/0737c7500b17</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/0737c7500b17</guid>
+            <pubDate>Mon, 10 Aug 2026 09:03:41 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mymensing-ssc-result-100826-01-1786351811.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[জামালপুরে গৃহবধূকে দলবেঁধে ধর্ষণের দায়ে ২ জনের মৃত্যুদণ্ড]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] জামালপুরে গৃহবধূকে দলবেঁধে ধর্ষণের দায়ে ২ জনের মৃত্যুদণ্ড]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/fee23f360b2e</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/fee23f360b2e</guid>
+            <pubDate>Mon, 10 Aug 2026 09:03:41 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/jamalpur-conviction-100826-01-1786351697.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ইউএসবি-সি পোর্ট কি কেবল চার্জ করার জন্যই? দেখে নিন]]></title>
+            <description><![CDATA[[টেক] ইউএসবি-সি পোর্ট কি কেবল চার্জ করার জন্যই? দেখে নিন]]></description>
+            <link>https://bangla.bdnews24.com/tech/6c412a8644c9</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tech/6c412a8644c9</guid>
+            <pubDate>Mon, 10 Aug 2026 09:03:41 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/usb-c-port-magnific-090826-01-1786351514.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[সন্ত্রাসবিরোধী আইনের মামলায় সাবেক এমপি আক্তারুজ্জামান রিমান্ডে]]></title>
+            <description><![CDATA[[বাংলাদেশ] সন্ত্রাসবিরোধী আইনের মামলায় সাবেক এমপি আক্তারুজ্জামান রিমান্ডে]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/76ed40c93dd0</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/76ed40c93dd0</guid>
+            <pubDate>Mon, 10 Aug 2026 09:03:41 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mp-akhtarujjaman-100926-01-1786351095.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[দিনাজপুরে থানার ভেতর পুলিশ সদস্যকে থাপ্পড়-হুমকি, কৃষক দল নেতা গ্রেপ্তার]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] দিনাজপুরে থানার ভেতর পুলিশ সদস্যকে থাপ্পড়-হুমকি, কৃষক দল নেতা গ্রেপ্তার]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/da0eb4dd17cc</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/da0eb4dd17cc</guid>
+            <pubDate>Mon, 10 Aug 2026 09:03:41 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dinajpur-kotwali-thana-070726-01-1783423571.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[পারস্যের রূপকথার কয়েকটি অতিপ্রাকৃত চরিত্র]]></title>
+            <description><![CDATA[[কিডজ] পারস্যের রূপকথার কয়েকটি অতিপ্রাকৃত চরিত্র]]></description>
+            <link>https://bangla.bdnews24.com/kidz/cb26a00d289c</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/kidz/cb26a00d289c</guid>
+            <pubDate>Mon, 10 Aug 2026 09:03:41 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/kidz-100826-01-1786349915.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[মাধ্যমিকের ফল: স্কুলে স্কুলে আনন্দ]]></title>
+            <description><![CDATA[[ছবি] মাধ্যমিকের ফল: স্কুলে স্কুলে আনন্দ]]></description>
+            <link>https://bangla.bdnews24.com/media_bn/image/95a32fd61a94</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/media_bn/image/95a32fd61a94</guid>
+            <pubDate>Mon, 10 Aug 2026 09:03:41 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ssc-result-monipur-school-100826-11-1786350226.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘র’ প্রধান ঢাকায়]]></title>
+            <description><![CDATA[[বাংলাদেশ] ‘র’ প্রধান ঢাকায়]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/e951ed6ca8e0</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/e951ed6ca8e0</guid>
+            <pubDate>Mon, 10 Aug 2026 09:03:41 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/parag-jain-100826-01-1786350015.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[নোয়াখালীতে বাড়িতে ঢুকে যুবদল নেতাকে গুলি]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] নোয়াখালীতে বাড়িতে ঢুকে যুবদল নেতাকে গুলি]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/a930d7044bbc</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/a930d7044bbc</guid>
+            <pubDate>Mon, 10 Aug 2026 09:03:41 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/noakhali-shoot-100826-01-1786349025.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[এসএসসির ফল উদযাপনে ‘ভাইকিং রো’]]></title>
+            <description><![CDATA[[টিউব] এসএসসির ফল উদযাপনে ‘ভাইকিং রো’]]></description>
+            <link>https://bangla.bdnews24.com/tube/e0994e107d81</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/e0994e107d81</guid>
+            <pubDate>Mon, 10 Aug 2026 09:03:41 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/cumilla-ssc-result-thumb-10082026-1786348996.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[যশোর বোর্ডে পাসের হার ৬৬.২৭ শতাংশ, এগিয়ে মেয়েরা]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] যশোর বোর্ডে পাসের হার ৬৬.২৭ শতাংশ, এগিয়ে মেয়েরা]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/95ccad03b24e</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/95ccad03b24e</guid>
+            <pubDate>Mon, 10 Aug 2026 09:03:41 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/jashore-ssc-result-100826-01-1786348343.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[১০ অগাস্ট ২০২৬]]></title>
+            <description><![CDATA[[ছবি] ১০ অগাস্ট ২০২৬]]></description>
+            <link>https://bangla.bdnews24.com/media_bn/image/223ce5581989</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/media_bn/image/223ce5581989</guid>
+            <pubDate>Mon, 10 Aug 2026 09:03:41 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/buriganga-walkway-100826-01-1786347472.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[তারেক রহমানের সঙ্গে ভারতীয় হাই কমিশনারের সাক্ষাৎ]]></title>
+            <description><![CDATA[[টিউব] তারেক রহমানের সঙ্গে ভারতীয় হাই কমিশনারের সাক্ষাৎ]]></description>
+            <link>https://bangla.bdnews24.com/tube/c29fb054803f</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/c29fb054803f</guid>
+            <pubDate>Mon, 10 Aug 2026 09:03:41 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarique-dinesh-trivedi-thumb-10082026-1786347168.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[আকাশ প্রতিরক্ষা ব্যবস্থায় স্বনির্ভরতার পথে আরও অগ্রগতি ভারতের]]></title>
+            <description><![CDATA[[বিশ্ব] আকাশ প্রতিরক্ষা ব্যবস্থায় স্বনির্ভরতার পথে আরও অগ্রগতি ভারতের]]></description>
+            <link>https://bangla.bdnews24.com/world/7dc1a7272fbb</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/world/7dc1a7272fbb</guid>
+            <pubDate>Mon, 10 Aug 2026 09:03:41 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/kusha-missile-100826-01-1786346877.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ডিগ্রির লড়াই নাকি মানবিক পেশাদারত্ব: কোন পথে আমাদের শিক্ষা?]]></title>
+            <description><![CDATA[[মতামত] ডিগ্রির লড়াই নাকি মানবিক পেশাদারত্ব: কোন পথে আমাদের শিক্ষা?]]></description>
+            <link>https://bangla.bdnews24.com/opinion/33367678ac16</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/opinion/33367678ac16</guid>
+            <pubDate>Mon, 10 Aug 2026 09:03:41 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025March/SM/30-iub-convocation-120217-0-1741421528.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[সিলেট বোর্ডে পাসের হার ৫৮ দশমিক ৩৩ শতাংশ, জিপিএ-৫ বেড়েছে]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] সিলেট বোর্ডে পাসের হার ৫৮ দশমিক ৩৩ শতাংশ, জিপিএ-৫ বেড়েছে]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/02df4d251b48</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/02df4d251b48</guid>
+            <pubDate>Mon, 10 Aug 2026 09:03:41 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/syhlet-hsc-100826-01-1786345924.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[এসএসসি: দিনাজপুরে সাত বছরের মধ্যে পাসের হার সর্বনিম্ন]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] এসএসসি: দিনাজপুরে সাত বছরের মধ্যে পাসের হার সর্বনিম্ন]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/c1b864ee760f</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/c1b864ee760f</guid>
+            <pubDate>Mon, 10 Aug 2026 09:03:41 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/dinajpur-ssc-100826-01-1786345552.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
