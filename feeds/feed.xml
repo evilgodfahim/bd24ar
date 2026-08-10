@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News]]></title>
-        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
+        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 05:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 07:04:05 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 05:13:49 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 07:04:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Man dies trying to save son from attack]]></title>
-            <description><![CDATA[[Bangladesh] Man dies trying to save son from attack]]></description>
-            <link>https://bdnews24.com/bangladesh/2cfe49349af7</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2cfe49349af7</guid>
-            <pubDate>Mon, 10 Aug 2026 11:06:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/jhalokathi-dead-100826-1786334905.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Malaysia PM Anwar under medical observation]]></title>
-            <description><![CDATA[[Asia Pacific] Malaysia PM Anwar under medical observation]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/f104ce31c694</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/f104ce31c694</guid>
-            <pubDate>Mon, 10 Aug 2026 11:03:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/malaysia-pm-anwar-100826-1786338169.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[SSC pass rate falls to 59.48% in Ctg]]></title>
-            <description><![CDATA[[Bangladesh] SSC pass rate falls to 59.48% in Ctg]]></description>
-            <link>https://bdnews24.com/bangladesh/e7613d9ff210</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e7613d9ff210</guid>
-            <pubDate>Mon, 10 Aug 2026 11:00:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/ssc-ctg-1000-1777298655.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kinahan charged with directing crime group]]></title>
-            <description><![CDATA[[World] Kinahan charged with directing crime group]]></description>
-            <link>https://bdnews24.com/world/5d96b32bead9</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/5d96b32bead9</guid>
-            <pubDate>Mon, 10 Aug 2026 10:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/kinahan-100826-1786337446.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[SSC pass rate 62.25%, lowest in 19 years]]></title>
-            <description><![CDATA[[Education] SSC pass rate 62.25%, lowest in 19 years]]></description>
-            <link>https://bdnews24.com/education/968e3c51174c</link>
-            <guid isPermaLink="true">https://bdnews24.com/education/968e3c51174c</guid>
-            <pubDate>Mon, 10 Aug 2026 10:42:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ssc-result-vnc-120524-61-1786335563.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Evidence links S African forces to detective’s murder: BBC]]></title>
-            <description><![CDATA[[Africa] Evidence links S African forces to detective’s murder: BBC]]></description>
-            <link>https://bdnews24.com/world/africa/ed8037e18d42</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/africa/ed8037e18d42</guid>
-            <pubDate>Mon, 10 Aug 2026 10:02:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/sa-frans-mathipa-100826-1786334260.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Malawi book first-ever place at Women's World Cup]]></title>
-            <description><![CDATA[[Sport] Malawi book first-ever place at Women's World Cup]]></description>
-            <link>https://bdnews24.com/sport/72020dd01de3</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/72020dd01de3</guid>
-            <pubDate>Mon, 10 Aug 2026 09:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/malawi-womens-world-cup-100826-1786333700.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Asia stocks gain, oil up amid Gulf confusion]]></title>
-            <description><![CDATA[[Business] Asia stocks gain, oil up amid Gulf confusion]]></description>
-            <link>https://bdnews24.com/business/76546480e32b</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/76546480e32b</guid>
-            <pubDate>Mon, 10 Aug 2026 09:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/asia-stocks-100826-01-1786333000.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[North Korean hacking group builds AI tools]]></title>
-            <description><![CDATA[[Asia Pacific] North Korean hacking group builds AI tools]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/fe72627c0d0a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/fe72627c0d0a</guid>
-            <pubDate>Mon, 10 Aug 2026 09:36:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/nkorea-cyberattacks-100826-01-1786332913.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel closes Palestinian Christian village]]></title>
-            <description><![CDATA[[World] Israel closes Palestinian Christian village]]></description>
-            <link>https://bdnews24.com/world/ba64a9294fe9</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ba64a9294fe9</guid>
-            <pubDate>Mon, 10 Aug 2026 09:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/taybeh-100826-1786332735.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dollar near two-month low]]></title>
-            <description><![CDATA[[Business] Dollar near two-month low]]></description>
-            <link>https://bdnews24.com/business/ada218d59b1a</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/ada218d59b1a</guid>
-            <pubDate>Mon, 10 Aug 2026 09:31:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/dollar-exchange-rate-100826-01-1786332586.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indonesia Mount Bromo fire extinguished]]></title>
-            <description><![CDATA[[South Asia] Indonesia Mount Bromo fire extinguished]]></description>
-            <link>https://bdnews24.com/world/south-asia/c0480c8c0360</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/south-asia/c0480c8c0360</guid>
-            <pubDate>Mon, 10 Aug 2026 09:22:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/indonesia-bromo-fire-extinguished-100826-01-1786331999.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Maresca praises Semenyo, Marmoush after Atletico win]]></title>
-            <description><![CDATA[[Sport] Maresca praises Semenyo, Marmoush after Atletico win]]></description>
-            <link>https://bdnews24.com/sport/c25fd4a390f4</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/c25fd4a390f4</guid>
-            <pubDate>Mon, 10 Aug 2026 09:12:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/city-100826-1786331436.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shein finds there's no place like China]]></title>
-            <description><![CDATA[[Business] Shein finds there's no place like China]]></description>
-            <link>https://bdnews24.com/business/0c72b6677873</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/0c72b6677873</guid>
-            <pubDate>Mon, 10 Aug 2026 09:09:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/mannequins-shein-logo-100826-01-1786331298.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UK moves to ban misleading discount claims]]></title>
-            <description><![CDATA[[Europe] UK moves to ban misleading discount claims]]></description>
-            <link>https://bdnews24.com/world/europe/d8702af39588</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/d8702af39588</guid>
-            <pubDate>Mon, 10 Aug 2026 09:04:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/burnham-uk-pm-100826-1786330984.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US Senate advances landmark crypto bill]]></title>
-            <description><![CDATA[[Americas] US Senate advances landmark crypto bill]]></description>
-            <link>https://bdnews24.com/world/americas/e168131e7fee</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/e168131e7fee</guid>
-            <pubDate>Mon, 10 Aug 2026 08:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/cryptocurrencies-100826-1786330260.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran ties Hormuz reopening to US concessions]]></title>
-            <description><![CDATA[[West Asia] Iran ties Hormuz reopening to US concessions]]></description>
-            <link>https://bdnews24.com/world/middle-east/dbe69dfb1017</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/dbe69dfb1017</guid>
-            <pubDate>Mon, 10 Aug 2026 08:47:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/vessels-in-hormuz-100826-01-1786329934.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Houthi attack on Mocha ‘kills 7’]]></title>
-            <description><![CDATA[[West Asia] Houthi attack on Mocha ‘kills 7’]]></description>
-            <link>https://bdnews24.com/world/middle-east/0526f3c1ffd0</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/0526f3c1ffd0</guid>
-            <pubDate>Mon, 10 Aug 2026 08:36:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/yemen-mocha-100826-1786329577.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pezeshkian met Mojtaba Khamenei in late July: Iran]]></title>
-            <description><![CDATA[[West Asia] Pezeshkian met Mojtaba Khamenei in late July: Iran]]></description>
-            <link>https://bdnews24.com/world/middle-east/e09ee6882ad8</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/e09ee6882ad8</guid>
-            <pubDate>Mon, 10 Aug 2026 08:31:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/mojtaba-khamenei-110726-1786329414.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trade gap hits $27.28bn, third-highest]]></title>
-            <description><![CDATA[[Business] Trade gap hits $27.28bn, third-highest]]></description>
-            <link>https://bdnews24.com/business/f5b5cfc5dc2e</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/f5b5cfc5dc2e</guid>
-            <pubDate>Mon, 10 Aug 2026 01:21:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/chittagong-port-bondor-250525-01-1786300525.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
+            <link>https://bdnews24.com</link>
+            <guid isPermaLink="true">https://bdnews24.com</guid>
+            <pubDate>Mon, 10 Aug 2026 07:04:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
