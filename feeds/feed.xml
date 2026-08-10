@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 20:28:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 21:29:23 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 20:28:27 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 21:29:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Liverpool sign Araujo on loan to bolster defence]]></title>
+            <description><![CDATA[[Sport] Liverpool sign Araujo on loan to bolster defence]]></description>
+            <link>https://bdnews24.com/sport/9f36b0b0a820</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/9f36b0b0a820</guid>
+            <pubDate>Tue, 11 Aug 2026 03:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ronald-araujo-110826-01-1786396005.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scots, Dutch slate ICC WC format changes]]></title>
+            <description><![CDATA[[Cricket] Scots, Dutch slate ICC WC format changes]]></description>
+            <link>https://bdnews24.com/cricket/be11f9e27659</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/be11f9e27659</guid>
+            <pubDate>Tue, 11 Aug 2026 03:05:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/icc-100826-1786395868.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[UEFA, Concacaf, AFC pressure Infantino to resign]]></title>
+            <description><![CDATA[[Sport] UEFA, Concacaf, AFC pressure Infantino to resign]]></description>
+            <link>https://bdnews24.com/sport/5460e17e84bf</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/5460e17e84bf</guid>
+            <pubDate>Tue, 11 Aug 2026 03:03:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/gianni-infantino-110826-01-1786395762.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Behind Bangladesh’s steep SSC results slide]]></title>
             <description><![CDATA[[Education] Behind Bangladesh’s steep SSC results slide]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/03a977c05c87</guid>
             <pubDate>Mon, 10 Aug 2026 20:23:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/dl-feeling-station-100826-1786369865.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dengue hospitalisations top 20,000]]></title>
-            <description><![CDATA[[Health] Dengue hospitalisations top 20,000]]></description>
-            <link>https://bdnews24.com/health/2fa585e18211</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/2fa585e18211</guid>
-            <pubDate>Mon, 10 Aug 2026 19:58:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dengue-patient-shaheed-suhrawardy-medical-college270723-25-1783598154.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Court asks how ex-major Sadikul burned car from jail]]></title>
-            <description><![CDATA[[Bangladesh] Court asks how ex-major Sadikul burned car from jail]]></description>
-            <link>https://bdnews24.com/bangladesh/40f935d34225</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/40f935d34225</guid>
-            <pubDate>Mon, 10 Aug 2026 19:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ex-major-sadikul-haque-100826-01-1786368265.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[GameStop weighing eBay bid withdrawal: Bloomberg]]></title>
-            <description><![CDATA[[Business] GameStop weighing eBay bid withdrawal: Bloomberg]]></description>
-            <link>https://bdnews24.com/business/8a2c60e06a80</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/8a2c60e06a80</guid>
-            <pubDate>Mon, 10 Aug 2026 19:24:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/gamestop-ebay-10082026-01-1786368213.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
