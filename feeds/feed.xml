@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 15:46:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 16:39:49 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 15:46:11 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 16:39:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[British man 'shot dead' in Kashmir; another held]]></title>
+            <description><![CDATA[[World] British man 'shot dead' in Kashmir; another held]]></description>
+            <link>https://bdnews24.com/world/3f60f776fdef</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/3f60f776fdef</guid>
+            <pubDate>Mon, 10 Aug 2026 22:29:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/protesters-gather-kashmir-100726-01-1786378403.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Local govt election code of conduct finalised]]></title>
+            <description><![CDATA[[Bangladesh] Local govt election code of conduct finalised]]></description>
+            <link>https://bdnews24.com/bangladesh/369f2be5e2fb</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/369f2be5e2fb</guid>
+            <pubDate>Mon, 10 Aug 2026 22:08:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mic-election-campaign-100826-002-1786375014.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[UEFA, AFC, CONCACAF hit out at Infantino]]></title>
             <description><![CDATA[[Sport] UEFA, AFC, CONCACAF hit out at Infantino]]></description>
@@ -33,8 +49,8 @@
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026January/SM/national-human-rights-commission-130126-01-1768286679.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Colombia earthquake causes injuries, damage]]></title>
-            <description><![CDATA[[World] Colombia earthquake causes injuries, damage]]></description>
+            <title><![CDATA[Colombia earthquake kills 22, collapses buildings]]></title>
+            <description><![CDATA[[World] Colombia earthquake kills 22, collapses buildings]]></description>
             <link>https://bdnews24.com/world/b710dfc860fb</link>
             <guid isPermaLink="true">https://bdnews24.com/world/b710dfc860fb</guid>
             <pubDate>Mon, 10 Aug 2026 21:07:00 GMT</pubDate>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/ed658a63a1f2</guid>
             <pubDate>Mon, 10 Aug 2026 17:58:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/trump-gaza-100826-01-1786363105.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Driver flees, leaves Tk 37mn gold haul]]></title>
-            <description><![CDATA[[Bangladesh] Driver flees, leaves Tk 37mn gold haul]]></description>
-            <link>https://bdnews24.com/bangladesh/8a926238e71b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8a926238e71b</guid>
-            <pubDate>Mon, 10 Aug 2026 17:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/driver-gold-airport-seizure-100826-01-1786360368.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan-administered Kashmir delays final vote]]></title>
-            <description><![CDATA[[World] Pakistan-administered Kashmir delays final vote]]></description>
-            <link>https://bdnews24.com/world/e1d5379bc024</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/e1d5379bc024</guid>
-            <pubDate>Mon, 10 Aug 2026 17:02:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/kashmir-vote-100826-1786359656.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
