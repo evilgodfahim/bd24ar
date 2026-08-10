@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 00:44:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 03:03:43 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 00:44:29 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 03:03:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US Senate advances landmark crypto bill]]></title>
+            <description><![CDATA[[Americas] US Senate advances landmark crypto bill]]></description>
+            <link>https://bdnews24.com/world/americas/e168131e7fee</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/e168131e7fee</guid>
+            <pubDate>Mon, 10 Aug 2026 08:51:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/cryptocurrencies-100826-1786330260.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran ties Hormuz reopening to US concessions]]></title>
+            <description><![CDATA[[West Asia] Iran ties Hormuz reopening to US concessions]]></description>
+            <link>https://bdnews24.com/world/middle-east/dbe69dfb1017</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/dbe69dfb1017</guid>
+            <pubDate>Mon, 10 Aug 2026 08:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/vessels-in-hormuz-100826-01-1786329934.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Houthi attack on Mocha ‘kills 7’]]></title>
+            <description><![CDATA[[West Asia] Houthi attack on Mocha ‘kills 7’]]></description>
+            <link>https://bdnews24.com/world/middle-east/0526f3c1ffd0</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/0526f3c1ffd0</guid>
+            <pubDate>Mon, 10 Aug 2026 08:36:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/yemen-mocha-100826-1786329577.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pezeshkian met Mojtaba Khamenei in late July: Iran]]></title>
+            <description><![CDATA[[West Asia] Pezeshkian met Mojtaba Khamenei in late July: Iran]]></description>
+            <link>https://bdnews24.com/world/middle-east/e09ee6882ad8</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/e09ee6882ad8</guid>
+            <pubDate>Mon, 10 Aug 2026 08:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/mojtaba-khamenei-110726-1786329414.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Trade gap hits $27.28bn, third-highest]]></title>
             <description><![CDATA[[Business] Trade gap hits $27.28bn, third-highest]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/business/9b6eae5db9f4</guid>
             <pubDate>Sun, 09 Aug 2026 21:23:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024August/SM/bangladesh-bank-logo-aam-090824-0004-1723146175.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Air India pilot flagged for drug test after altitude drop]]></title>
-            <description><![CDATA[[Neighbours] Air India pilot flagged for drug test after altitude drop]]></description>
-            <link>https://bdnews24.com/neighbours/a1c967f9b9a1</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/a1c967f9b9a1</guid>
-            <pubDate>Sun, 09 Aug 2026 21:12:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/air-india-090826-01-1786288330.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kakhaber Benidze named BAT Bangladesh MD]]></title>
-            <description><![CDATA[[Business] Kakhaber Benidze named BAT Bangladesh MD]]></description>
-            <link>https://bdnews24.com/business/e647cf997e38</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/e647cf997e38</guid>
-            <pubDate>Sun, 09 Aug 2026 21:07:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/bat-pr-09082026-01-1786288057.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Adil Digital Academy takes on Bangladesh’s skill gap]]></title>
-            <description><![CDATA[[Campus] Adil Digital Academy takes on Bangladesh’s skill gap]]></description>
-            <link>https://bdnews24.com/campus/8a52166567af</link>
-            <guid isPermaLink="true">https://bdnews24.com/campus/8a52166567af</guid>
-            <pubDate>Sun, 09 Aug 2026 20:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/adil-academy-090826-01-1786287236.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[AmCham pushes digital growth, innovation in Bangladesh]]></title>
-            <description><![CDATA[[Business] AmCham pushes digital growth, innovation in Bangladesh]]></description>
-            <link>https://bdnews24.com/business/e7293fba19a4</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/e7293fba19a4</guid>
-            <pubDate>Sun, 09 Aug 2026 20:46:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/amcham-pr-09082026-01-1786286745.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
