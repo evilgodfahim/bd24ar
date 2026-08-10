@@ -4,13 +4,29 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 16:39:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 17:41:12 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 16:39:49 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 17:41:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[British man 'shot dead' in Kashmir; another held]]></title>
-            <description><![CDATA[[World] British man 'shot dead' in Kashmir; another held]]></description>
+            <title><![CDATA[Almost three-quarters of England in drought: govt]]></title>
+            <description><![CDATA[[Environment] Almost three-quarters of England in drought: govt]]></description>
+            <link>https://bdnews24.com/environment/e42ede11354c</link>
+            <guid isPermaLink="true">https://bdnews24.com/environment/e42ede11354c</guid>
+            <pubDate>Mon, 10 Aug 2026 23:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/england-drought-10082026-01-1786383549.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rain brings down tree onto cars in Dhanmondi]]></title>
+            <description><![CDATA[[Bangladesh] Rain brings down tree onto cars in Dhanmondi]]></description>
+            <link>https://bdnews24.com/bangladesh/cc625912cd5c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cc625912cd5c</guid>
+            <pubDate>Mon, 10 Aug 2026 22:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/car-tree-fall-100826-01-1786379769.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[British man shot dead, another held in Kashmir: report]]></title>
+            <description><![CDATA[[World] British man shot dead, another held in Kashmir: report]]></description>
             <link>https://bdnews24.com/world/3f60f776fdef</link>
             <guid isPermaLink="true">https://bdnews24.com/world/3f60f776fdef</guid>
             <pubDate>Mon, 10 Aug 2026 22:29:00 GMT</pubDate>
@@ -49,8 +65,8 @@
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026January/SM/national-human-rights-commission-130126-01-1768286679.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Colombia earthquake kills 22, collapses buildings]]></title>
-            <description><![CDATA[[World] Colombia earthquake kills 22, collapses buildings]]></description>
+            <title><![CDATA[77 killed in western Colombia earthquake]]></title>
+            <description><![CDATA[[World] 77 killed in western Colombia earthquake]]></description>
             <link>https://bdnews24.com/world/b710dfc860fb</link>
             <guid isPermaLink="true">https://bdnews24.com/world/b710dfc860fb</guid>
             <pubDate>Mon, 10 Aug 2026 21:07:00 GMT</pubDate>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/581c904ba203</guid>
             <pubDate>Mon, 10 Aug 2026 18:03:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025July/SM/khairul-hauque-240725-001-1753371152.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[You can sing freely, but not give marks: Milon]]></title>
-            <description><![CDATA[[Education] You can sing freely, but not give marks: Milon]]></description>
-            <link>https://bdnews24.com/education/d6c5a6a530d7</link>
-            <guid isPermaLink="true">https://bdnews24.com/education/d6c5a6a530d7</guid>
-            <pubDate>Mon, 10 Aug 2026 18:02:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/eahsanul-haque-milon-100826-01-1786360184.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump's Gaza plan ties disarmament to Israeli withdrawal]]></title>
-            <description><![CDATA[[World] Trump's Gaza plan ties disarmament to Israeli withdrawal]]></description>
-            <link>https://bdnews24.com/world/ed658a63a1f2</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ed658a63a1f2</guid>
-            <pubDate>Mon, 10 Aug 2026 17:58:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/trump-gaza-100826-01-1786363105.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
