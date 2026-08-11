@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 18:42:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 19:52:05 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 18:42:18 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 19:52:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Forest sign Diomande to bolster defence]]></title>
+            <description><![CDATA[[Sport] Forest sign Diomande to bolster defence]]></description>
+            <link>https://bdnews24.com/sport/92edd0feedff</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/92edd0feedff</guid>
+            <pubDate>Wed, 12 Aug 2026 01:23:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ousmane-diomande-120826-01-1786476114.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mentality crucial to Spurs revival: De Zerbi]]></title>
+            <description><![CDATA[[Sport] Mentality crucial to Spurs revival: De Zerbi]]></description>
+            <link>https://bdnews24.com/sport/37c32b1b153b</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/37c32b1b153b</guid>
+            <pubDate>Wed, 12 Aug 2026 01:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/roberto-de-zerbi-120826-01-1786475501.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Indian HC orders release of sisters 'held over Islam conversion']]></title>
             <description><![CDATA[[Neighbours] Indian HC orders release of sisters 'held over Islam conversion']]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/education/57211b4f65c1</guid>
             <pubDate>Tue, 11 Aug 2026 20:52:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ehsanul-hoque-milon-110826-01-1786458227.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gunze United launches 424kWp rooftop solar plant]]></title>
-            <description><![CDATA[[Bangladesh] Gunze United launches 424kWp rooftop solar plant]]></description>
-            <link>https://bdnews24.com/bangladesh/b22dff08e6cb</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b22dff08e6cb</guid>
-            <pubDate>Tue, 11 Aug 2026 20:18:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/gunze-pr-11082026-01-1786457847.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Washing greens in dirty water]]></title>
-            <description><![CDATA[[Image] Washing greens in dirty water]]></description>
-            <link>https://bdnews24.com/media-en/image/288b8bc61419</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/288b8bc61419</guid>
-            <pubDate>Tue, 11 Aug 2026 20:04:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/vegetables-wash-110826-019-1786451834.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
