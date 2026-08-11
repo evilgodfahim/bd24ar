@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 05:44:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 06:42:04 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 05:44:44 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 06:42:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[3 die in Chandpur road crash]]></title>
+            <description><![CDATA[[Bangladesh] 3 die in Chandpur road crash]]></description>
+            <link>https://bdnews24.com/bangladesh/ab0e9cb65b4e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ab0e9cb65b4e</guid>
+            <pubDate>Tue, 11 Aug 2026 12:19:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/chandpur-accident-110826-01-1786428137.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prep meeting for presidential election]]></title>
+            <description><![CDATA[[Bangladesh] Prep meeting for presidential election]]></description>
+            <link>https://bdnews24.com/bangladesh/774c05a7c656</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/774c05a7c656</guid>
+            <pubDate>Tue, 11 Aug 2026 11:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026February/SM/oath-preparing-parliament-house-150226-017-1771155489.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indonesia battles fires as haze spreads]]></title>
+            <description><![CDATA[[World] Indonesia battles fires as haze spreads]]></description>
+            <link>https://bdnews24.com/world/eed1943b39b6</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/eed1943b39b6</guid>
+            <pubDate>Tue, 11 Aug 2026 11:46:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/indonesia-100826-1786427113.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Gulf shipping traffic falls to 6 vessels]]></title>
             <description><![CDATA[[West Asia] Gulf shipping traffic falls to 6 vessels]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/09e87cbbb36c</guid>
             <pubDate>Tue, 11 Aug 2026 09:25:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/australia-vietnam-110826-01-1786418662.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UK clears Eli Lilly’s Foundayo weight-loss pill]]></title>
-            <description><![CDATA[[Health] UK clears Eli Lilly’s Foundayo weight-loss pill]]></description>
-            <link>https://bdnews24.com/health/fd3b863f1db6</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/fd3b863f1db6</guid>
-            <pubDate>Tue, 11 Aug 2026 09:21:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/lily-pills-110826-1786418462.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[China’s Long March 7A rocket suffers launch failure]]></title>
-            <description><![CDATA[[Technology] China’s Long March 7A rocket suffers launch failure]]></description>
-            <link>https://bdnews24.com/technology/58d6c9d36784</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/58d6c9d36784</guid>
-            <pubDate>Tue, 11 Aug 2026 09:17:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/china-rocket-110826-1786418230.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US cancels more than 175,000 visas]]></title>
-            <description><![CDATA[[Americas] US cancels more than 175,000 visas]]></description>
-            <link>https://bdnews24.com/world/americas/215c651b04d5</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/215c651b04d5</guid>
-            <pubDate>Tue, 11 Aug 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-visa-110826-1786417199.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
