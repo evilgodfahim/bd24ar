@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – Latest News]]></title>
+        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 14:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 15:45:47 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 14:10:29 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 15:45:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: timeout of 65000ms exceeded]]></description>
-            <link>https://bdnews24.com</link>
-            <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Tue, 11 Aug 2026 14:10:29 GMT</pubDate>
+            <title><![CDATA[Inflation falls to 8-month low in July]]></title>
+            <description><![CDATA[[Economy] Inflation falls to 8-month low in July]]></description>
+            <link>https://bdnews24.com/economy/3238336d0c58</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/3238336d0c58</guid>
+            <pubDate>Tue, 11 Aug 2026 21:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/sugar-kawran-bazar-041122-01-1781170246.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russian House, AIUB explore education, cultural cooperation]]></title>
+            <description><![CDATA[[Campus] Russian House, AIUB explore education, cultural cooperation]]></description>
+            <link>https://bdnews24.com/campus/fb1d58e186de</link>
+            <guid isPermaLink="true">https://bdnews24.com/campus/fb1d58e186de</guid>
+            <pubDate>Tue, 11 Aug 2026 21:36:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/aiub-11082026-01-1786462518.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hungary elects Andras Baka as president]]></title>
+            <description><![CDATA[[World] Hungary elects Andras Baka as president]]></description>
+            <link>https://bdnews24.com/world/c73a11059d7c</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/c73a11059d7c</guid>
+            <pubDate>Tue, 11 Aug 2026 21:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/hungary-president-11082026-01-1786462201.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Delhi examining Hasina extradition demand: Jaiswal]]></title>
+            <description><![CDATA[[Bangladesh] Delhi examining Hasina extradition demand: Jaiswal]]></description>
+            <link>https://bdnews24.com/bangladesh/e4a7c800c4e1</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e4a7c800c4e1</guid>
+            <pubDate>Tue, 11 Aug 2026 21:28:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/randhir-jaiswal-170726-1784306879.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Somalia malnutrition aid hit by over 80% funding cuts: MSF]]></title>
+            <description><![CDATA[[World] Somalia malnutrition aid hit by over 80% funding cuts: MSF]]></description>
+            <link>https://bdnews24.com/world/6c739a0d60ff</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/6c739a0d60ff</guid>
+            <pubDate>Tue, 11 Aug 2026 21:14:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/somalia-malnutrition-11082026-01-1786461186.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Farm gains, stockpiles shield food system from El Nino]]></title>
+            <description><![CDATA[[Environment] Farm gains, stockpiles shield food system from El Nino]]></description>
+            <link>https://bdnews24.com/environment/a44f9aae1e6f</link>
+            <guid isPermaLink="true">https://bdnews24.com/environment/a44f9aae1e6f</guid>
+            <pubDate>Tue, 11 Aug 2026 21:13:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/russia-wheat-110826-01-1786461105.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why I called SSC results ‘good’: Milon]]></title>
+            <description><![CDATA[[Education] Why I called SSC results ‘good’: Milon]]></description>
+            <link>https://bdnews24.com/education/57211b4f65c1</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/57211b4f65c1</guid>
+            <pubDate>Tue, 11 Aug 2026 20:52:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ehsanul-hoque-milon-110826-01-1786458227.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gunze United launches 424kWp rooftop solar plant]]></title>
+            <description><![CDATA[[Bangladesh] Gunze United launches 424kWp rooftop solar plant]]></description>
+            <link>https://bdnews24.com/bangladesh/b22dff08e6cb</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b22dff08e6cb</guid>
+            <pubDate>Tue, 11 Aug 2026 20:18:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/gunze-pr-11082026-01-1786457847.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Washing greens in dirty water]]></title>
+            <description><![CDATA[[Image] Washing greens in dirty water]]></description>
+            <link>https://bdnews24.com/media-en/image/288b8bc61419</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/288b8bc61419</guid>
+            <pubDate>Tue, 11 Aug 2026 20:04:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/vegetables-wash-110826-019-1786451834.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[756 hospitalised with dengue in a day]]></title>
+            <description><![CDATA[[Health] 756 hospitalised with dengue in a day]]></description>
+            <link>https://bdnews24.com/health/4b3b1b614a2e</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/4b3b1b614a2e</guid>
+            <pubDate>Tue, 11 Aug 2026 19:50:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024October/SM/dengue-mugda-hospital-231024-016-1729682695.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Coconut water demand surges]]></title>
+            <description><![CDATA[[Image] Coconut water demand surges]]></description>
+            <link>https://bdnews24.com/media-en/image/275779e03259</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/275779e03259</guid>
+            <pubDate>Tue, 11 Aug 2026 19:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/coconut-sadarghat-110826-27-1786449581.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 killed in Red Sea ship attack]]></title>
+            <description><![CDATA[[West Asia] 3 killed in Red Sea ship attack]]></description>
+            <link>https://bdnews24.com/world/middle-east/070f82c694ec</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/070f82c694ec</guid>
+            <pubDate>Tue, 11 Aug 2026 19:36:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/red-sea-ship-attack-110826-01-1786455279.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How MPs will elect Bangladesh’s president]]></title>
+            <description><![CDATA[[Bangladesh] How MPs will elect Bangladesh’s president]]></description>
+            <link>https://bdnews24.com/bangladesh/84e3104dae89</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/84e3104dae89</guid>
+            <pubDate>Tue, 11 Aug 2026 19:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bongobhaban-photo-from-google-earth-24072024-1784916506.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BLRI vaccines set for commercial production: minister]]></title>
+            <description><![CDATA[[Business] BLRI vaccines set for commercial production: minister]]></description>
+            <link>https://bdnews24.com/business/7293cf1d9abf</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/7293cf1d9abf</guid>
+            <pubDate>Tue, 11 Aug 2026 19:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/aminur-rashid-110826-01-1786450364.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[August 11, 2026]]></title>
+            <description><![CDATA[[Image] August 11, 2026]]></description>
+            <link>https://bdnews24.com/media-en/image/208b6cec360b</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/208b6cec360b</guid>
+            <pubDate>Tue, 11 Aug 2026 18:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/people-suffering-110826-06-1786449221.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Border standoff ends with 3 handed back]]></title>
+            <description><![CDATA[[Bangladesh] Border standoff ends with 3 handed back]]></description>
+            <link>https://bdnews24.com/bangladesh/7840395a22d5</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7840395a22d5</guid>
+            <pubDate>Tue, 11 Aug 2026 18:36:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/meherpur-two-indian-110826-01-1786449841.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[First-ever vessel census starts Aug 20]]></title>
+            <description><![CDATA[[Bangladesh] First-ever vessel census starts Aug 20]]></description>
+            <link>https://bdnews24.com/bangladesh/f64011e65560</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f64011e65560</guid>
+            <pubDate>Tue, 11 Aug 2026 18:25:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rajib-ahsan-census-110826-01-1786449406.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[No room for patronage under this govt: Khosru]]></title>
+            <description><![CDATA[[Business] No room for patronage under this govt: Khosru]]></description>
+            <link>https://bdnews24.com/business/06587cfd6fa6</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/06587cfd6fa6</guid>
+            <pubDate>Tue, 11 Aug 2026 18:15:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/amir-khosru-mahmud-chowdhury-110826-01-1786449703.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[4 held after AL flash march in Mohakhali]]></title>
+            <description><![CDATA[[Bangladesh] 4 held after AL flash march in Mohakhali]]></description>
+            <link>https://bdnews24.com/bangladesh/549b8c9fc395</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/549b8c9fc395</guid>
+            <pubDate>Tue, 11 Aug 2026 17:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/4-held-al-flash-march-110826-01-1786448392.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BB dissolves 3 NBFI boards]]></title>
+            <description><![CDATA[[Business] BB dissolves 3 NBFI boards]]></description>
+            <link>https://bdnews24.com/business/0e41a542cdb3</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/0e41a542cdb3</guid>
+            <pubDate>Tue, 11 Aug 2026 17:24:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bangladesh-bank-020826-1785983591.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
