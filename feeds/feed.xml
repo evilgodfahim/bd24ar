@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – Latest News]]></title>
+        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 10:40:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 11:35:29 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 10:40:11 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 11:35:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
-            <link>https://bdnews24.com</link>
-            <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Tue, 11 Aug 2026 10:40:11 GMT</pubDate>
+            <title><![CDATA[BB dissolves 3 NBFI boards]]></title>
+            <description><![CDATA[[Business] BB dissolves 3 NBFI boards]]></description>
+            <link>https://bdnews24.com/business/0e41a542cdb3</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/0e41a542cdb3</guid>
+            <pubDate>Tue, 11 Aug 2026 17:24:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bangladesh-bank-020826-1785983591.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BGMEA, LPP seek to defuse payment row]]></title>
+            <description><![CDATA[[Business] BGMEA, LPP seek to defuse payment row]]></description>
+            <link>https://bdnews24.com/business/e5e6db180384</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/e5e6db180384</guid>
+            <pubDate>Tue, 11 Aug 2026 17:23:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bgmea-lpp-110826-1786445739.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[AmCham meets business leaders, diplomats in Dhaka]]></title>
+            <description><![CDATA[[Business] AmCham meets business leaders, diplomats in Dhaka]]></description>
+            <link>https://bdnews24.com/business/e72902805443</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/e72902805443</guid>
+            <pubDate>Tue, 11 Aug 2026 17:15:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/logo-new-1786446864.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Measles: 2 more die]]></title>
+            <description><![CDATA[[Health] Measles: 2 more die]]></description>
+            <link>https://bdnews24.com/health/e2f640145d2b</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/e2f640145d2b</guid>
+            <pubDate>Tue, 11 Aug 2026 17:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/measles-patient-280426-008-1777390083.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[WHO defends immunisation schedules]]></title>
+            <description><![CDATA[[World] WHO defends immunisation schedules]]></description>
+            <link>https://bdnews24.com/world/26c697835c51</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/26c697835c51</guid>
+            <pubDate>Tue, 11 Aug 2026 16:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/trump-vaccine-110826-01-1786445122.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Voting against party costs MP seat: chief whip]]></title>
+            <description><![CDATA[[Bangladesh] Voting against party costs MP seat: chief whip]]></description>
+            <link>https://bdnews24.com/bangladesh/042b366b6fd6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/042b366b6fd6</guid>
+            <pubDate>Tue, 11 Aug 2026 16:43:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/nurul-islam-moni-110826-010-1786443041.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Swift wedding dress sparks bridal fashion rush]]></title>
+            <description><![CDATA[[Lifestyle] Taylor Swift wedding dress sparks bridal fashion rush]]></description>
+            <link>https://bdnews24.com/lifestyle/b0106fb94ce3</link>
+            <guid isPermaLink="true">https://bdnews24.com/lifestyle/b0106fb94ce3</guid>
+            <pubDate>Tue, 11 Aug 2026 16:37:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/swift-wedding-dress-110826-1786444491.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Parliament session for presidential poll from Aug 27]]></title>
+            <description><![CDATA[[Bangladesh] Parliament session for presidential poll from Aug 27]]></description>
+            <link>https://bdnews24.com/bangladesh/767fa81473a5</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/767fa81473a5</guid>
+            <pubDate>Tue, 11 Aug 2026 16:14:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/tarique-rahman-pm-300426-004-1777565651.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shots fired at Ctg residence after extortion demand]]></title>
+            <description><![CDATA[[Bangladesh] Shots fired at Ctg residence after extortion demand]]></description>
+            <link>https://bdnews24.com/bangladesh/6ff1815af456</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6ff1815af456</guid>
+            <pubDate>Tue, 11 Aug 2026 15:57:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/panchlaish-thana-110826-1786437574.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ambulance, 8 bikes burn at Bagerhat hospital]]></title>
+            <description><![CDATA[[Bangladesh] Ambulance, 8 bikes burn at Bagerhat hospital]]></description>
+            <link>https://bdnews24.com/bangladesh/7e339f445fb5</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7e339f445fb5</guid>
+            <pubDate>Tue, 11 Aug 2026 15:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bagerhat-fire-110826-01-1786440237.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Syria sentences Assad to death over war crimes]]></title>
+            <description><![CDATA[[World] Syria sentences Assad to death over war crimes]]></description>
+            <link>https://bdnews24.com/world/cef2fe266ad3</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/cef2fe266ad3</guid>
+            <pubDate>Tue, 11 Aug 2026 15:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bashar-al-assad-110826-01-1786439951.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Excelerate FSRU needs another shutdown: Amit]]></title>
+            <description><![CDATA[[Bangladesh] Excelerate FSRU needs another shutdown: Amit]]></description>
+            <link>https://bdnews24.com/bangladesh/1a014b2360e1</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1a014b2360e1</guid>
+            <pubDate>Tue, 11 Aug 2026 15:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/excelerate-lng-090624-03-1785997834.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka records 35mm of rain as showers expected to continue]]></title>
+            <description><![CDATA[[Bangladesh] Dhaka records 35mm of rain as showers expected to continue]]></description>
+            <link>https://bdnews24.com/bangladesh/16c0ffd74458</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/16c0ffd74458</guid>
+            <pubDate>Tue, 11 Aug 2026 15:44:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024June/SM/rain-hatirjheel-260624-48-1719398367.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM meets AmCham delegation]]></title>
+            <description><![CDATA[[Business] PM meets AmCham delegation]]></description>
+            <link>https://bdnews24.com/business/9baeb47cf0fb</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/9baeb47cf0fb</guid>
+            <pubDate>Tue, 11 Aug 2026 15:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarique-rahman-amcham-110826-01-1786438255.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fuel oil trade will open to private firms: minister]]></title>
+            <description><![CDATA[[Bangladesh] Fuel oil trade will open to private firms: minister]]></description>
+            <link>https://bdnews24.com/bangladesh/cb1f11a808c6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cb1f11a808c6</guid>
+            <pubDate>Tue, 11 Aug 2026 15:14:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025August/SM/bpc-fatullah-depot-180825-029-1755531877.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shahabuddin case report Oct 27]]></title>
+            <description><![CDATA[[Bangladesh] Shahabuddin case report Oct 27]]></description>
+            <link>https://bdnews24.com/bangladesh/df971d566559</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/df971d566559</guid>
+            <pubDate>Tue, 11 Aug 2026 15:13:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/president-md-sahabuddin-230726-01-1784807451.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spain braces for eclipse amid wildfire risk]]></title>
+            <description><![CDATA[[World] Spain braces for eclipse amid wildfire risk]]></description>
+            <link>https://bdnews24.com/world/ac441db39c9d</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ac441db39c9d</guid>
+            <pubDate>Tue, 11 Aug 2026 15:02:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/spain-wildfire-110826-1786438884.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[California moves to ban AI therapists: report]]></title>
+            <description><![CDATA[[Health] California moves to ban AI therapists: report]]></description>
+            <link>https://bdnews24.com/health/26663f3aaf73</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/26663f3aaf73</guid>
+            <pubDate>Tue, 11 Aug 2026 14:21:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ai-therapists-ai-100826-01-1786426672.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka-Gopalganj train service starts]]></title>
+            <description><![CDATA[[Bangladesh] Dhaka-Gopalganj train service starts]]></description>
+            <link>https://bdnews24.com/bangladesh/6a9b03014546</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6a9b03014546</guid>
+            <pubDate>Tue, 11 Aug 2026 14:18:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/gopalgonjo-train-110826-01-1786433379.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Visa Asia-Pacific President Karpin meets PM]]></title>
+            <description><![CDATA[[Business] Visa Asia-Pacific President Karpin meets PM]]></description>
+            <link>https://bdnews24.com/business/d37d977487b8</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/d37d977487b8</guid>
+            <pubDate>Tue, 11 Aug 2026 14:09:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarique-rahman-110826-1786434787.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
