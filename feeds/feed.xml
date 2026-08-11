@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 08:00:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 08:56:05 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 08:00:25 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 08:56:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[California moves to ban AI therapists: report]]></title>
+            <description><![CDATA[[Health] California moves to ban AI therapists: report]]></description>
+            <link>https://bdnews24.com/health/26663f3aaf73</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/26663f3aaf73</guid>
+            <pubDate>Tue, 11 Aug 2026 14:21:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ai-therapists-ai-100826-01-1786426672.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka-Gopalganj train service starts]]></title>
+            <description><![CDATA[[Bangladesh] Dhaka-Gopalganj train service starts]]></description>
+            <link>https://bdnews24.com/bangladesh/6a9b03014546</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6a9b03014546</guid>
+            <pubDate>Tue, 11 Aug 2026 14:18:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/gopalgonjo-train-110826-01-1786433379.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Visa Asia-Pacific President Karpin meets PM]]></title>
+            <description><![CDATA[[Business] Visa Asia-Pacific President Karpin meets PM]]></description>
+            <link>https://bdnews24.com/business/d37d977487b8</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/d37d977487b8</guid>
+            <pubDate>Tue, 11 Aug 2026 14:09:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarique-rahman-110826-1786434787.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[No need for speculation over RAW chief's Dhaka visit: Zahed]]></title>
+            <description><![CDATA[[Bangladesh] No need for speculation over RAW chief's Dhaka visit: Zahed]]></description>
+            <link>https://bdnews24.com/bangladesh/d11cc7c24140</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d11cc7c24140</guid>
+            <pubDate>Tue, 11 Aug 2026 14:06:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/zahed-ur-rahman-110826-01-1786435232.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Sabyasachi brings Indian luxury back to New York]]></title>
             <description><![CDATA[[Fashion] Sabyasachi brings Indian luxury back to New York]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/americas/4d4dfa12c546</guid>
             <pubDate>Tue, 11 Aug 2026 10:34:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/senate-el-sayed-110826-1786422783.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Intel plans $15 billion share sale]]></title>
-            <description><![CDATA[[Business] Intel plans $15 billion share sale]]></description>
-            <link>https://bdnews24.com/business/028863181353</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/028863181353</guid>
-            <pubDate>Tue, 11 Aug 2026 10:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/intel-stocks-110826-01-1786422578.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump order reduces US vaccine schedule]]></title>
-            <description><![CDATA[[Health] Trump order reduces US vaccine schedule]]></description>
-            <link>https://bdnews24.com/health/a536965ca547</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/a536965ca547</guid>
-            <pubDate>Tue, 11 Aug 2026 10:15:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/trump-vaccine-schedule-110826-01-1786421704.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil prices rise]]></title>
-            <description><![CDATA[[Business] Oil prices rise]]></description>
-            <link>https://bdnews24.com/business/c651360e8adc</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/c651360e8adc</guid>
-            <pubDate>Tue, 11 Aug 2026 10:03:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/tokyo-stock-exchange-110826-01-1786420966.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canada flight cancelled after child refuses seat belt]]></title>
-            <description><![CDATA[[Aviation] Canada flight cancelled after child refuses seat belt]]></description>
-            <link>https://bdnews24.com/aviation/1ae8b33290a0</link>
-            <guid isPermaLink="true">https://bdnews24.com/aviation/1ae8b33290a0</guid>
-            <pubDate>Tue, 11 Aug 2026 10:00:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/porter-110826-1786420795.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
