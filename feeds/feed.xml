@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 06:42:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 08:00:25 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 06:42:04 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 08:00:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Sabyasachi brings Indian luxury back to New York]]></title>
+            <description><![CDATA[[Fashion] Sabyasachi brings Indian luxury back to New York]]></description>
+            <link>https://bdnews24.com/Fashion/e3b9c2af212d</link>
+            <guid isPermaLink="true">https://bdnews24.com/Fashion/e3b9c2af212d</guid>
+            <pubDate>Tue, 11 Aug 2026 13:37:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/byzantine-sabyasachi-110826-01-1786433755.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[China missile test divides Pacific]]></title>
+            <description><![CDATA[[World] China missile test divides Pacific]]></description>
+            <link>https://bdnews24.com/world/fe82d28381c9</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/fe82d28381c9</guid>
+            <pubDate>Tue, 11 Aug 2026 13:13:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/pacific-militarisation-100826-1786432411.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Afghan seal direct World Cup entry, WI miss cut]]></title>
+            <description><![CDATA[[Cricket] Afghan seal direct World Cup entry, WI miss cut]]></description>
+            <link>https://bdnews24.com/cricket/02bbfbeb08c5</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/02bbfbeb08c5</guid>
+            <pubDate>Tue, 11 Aug 2026 13:05:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/afghan-vs-ireland-110826-1786431878.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ekattor TV chairman, COO summoned]]></title>
+            <description><![CDATA[[Bangladesh] Ekattor TV chairman, COO summoned]]></description>
+            <link>https://bdnews24.com/bangladesh/c3762c2fc03b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c3762c2fc03b</guid>
+            <pubDate>Tue, 11 Aug 2026 13:02:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mostofa-shadque-110826-1786426567.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[5 held over shooting of BNP activist in Mirpur]]></title>
+            <description><![CDATA[[Bangladesh] 5 held over shooting of BNP activist in Mirpur]]></description>
+            <link>https://bdnews24.com/bangladesh/ec5be28eb522</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ec5be28eb522</guid>
+            <pubDate>Tue, 11 Aug 2026 12:59:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/import/media/2017/06/01/db-police-01.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Colombia quake death toll reaches 164]]></title>
+            <description><![CDATA[[World] Colombia quake death toll reaches 164]]></description>
+            <link>https://bdnews24.com/world/4a36216dad63</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/4a36216dad63</guid>
+            <pubDate>Tue, 11 Aug 2026 12:51:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/colombiaquake-100826-1786431066.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[3 die in Chandpur road crash]]></title>
             <description><![CDATA[[Bangladesh] 3 die in Chandpur road crash]]></description>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/aviation/1ae8b33290a0</guid>
             <pubDate>Tue, 11 Aug 2026 10:00:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/porter-110826-1786420795.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Russian attacks on Ukraine kill 5]]></title>
-            <description><![CDATA[[Europe] Russian attacks on Ukraine kill 5]]></description>
-            <link>https://bdnews24.com/world/europe/6a9ab8e7d824</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/6a9ab8e7d824</guid>
-            <pubDate>Tue, 11 Aug 2026 09:56:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/russia-strike-ukraine-110826-01-1786420559.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nvidia partners with Wall Street for $500bn AI buildout]]></title>
-            <description><![CDATA[[Business] Nvidia partners with Wall Street for $500bn AI buildout]]></description>
-            <link>https://bdnews24.com/business/c9f009115f1d</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/c9f009115f1d</guid>
-            <pubDate>Tue, 11 Aug 2026 09:53:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/nvidia-wall-street-ai-buildout-110826-01-1786420362.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UEFA, AFC, CONCACAF renew attacks on Infantino]]></title>
-            <description><![CDATA[[Sport] UEFA, AFC, CONCACAF renew attacks on Infantino]]></description>
-            <link>https://bdnews24.com/sport/47856054bfa4</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/47856054bfa4</guid>
-            <pubDate>Tue, 11 Aug 2026 09:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/infantino-110826-1786420004.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Meta must face lawsuits over social media addiction: US court]]></title>
-            <description><![CDATA[[social media] Meta must face lawsuits over social media addiction: US court]]></description>
-            <link>https://bdnews24.com/socialmedia/d06cb941eb73</link>
-            <guid isPermaLink="true">https://bdnews24.com/socialmedia/d06cb941eb73</guid>
-            <pubDate>Tue, 11 Aug 2026 09:42:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/meta-social-media-addiction-cases-110826-01-1786419721.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beijing braces for one-third of annual rainfall in 24 hours]]></title>
-            <description><![CDATA[[Asia Pacific] Beijing braces for one-third of annual rainfall in 24 hours]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/255cf61c45ea</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/255cf61c45ea</guid>
-            <pubDate>Tue, 11 Aug 2026 09:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/beijing-rain-110826-01-1786419443.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australia and Vietnam deepen strategic partnership]]></title>
-            <description><![CDATA[[Asia Pacific] Australia and Vietnam deepen strategic partnership]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/09e87cbbb36c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/09e87cbbb36c</guid>
-            <pubDate>Tue, 11 Aug 2026 09:25:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/australia-vietnam-110826-01-1786418662.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
