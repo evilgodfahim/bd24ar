@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 17:45:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 18:42:18 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 17:45:25 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 18:42:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Indian HC orders release of sisters 'held over Islam conversion']]></title>
+            <description><![CDATA[[Neighbours] Indian HC orders release of sisters 'held over Islam conversion']]></description>
+            <link>https://bdnews24.com/neighbours/d18225d09ada</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/d18225d09ada</guid>
+            <pubDate>Wed, 12 Aug 2026 00:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/allahabad-high-court-010826-01-1785696993.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[5 crude bombs found in Savar, area sealed off in search of more]]></title>
+            <description><![CDATA[[Bangladesh] 5 crude bombs found in Savar, area sealed off in search of more]]></description>
+            <link>https://bdnews24.com/bangladesh/7e91c93fa09f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7e91c93fa09f</guid>
+            <pubDate>Tue, 11 Aug 2026 23:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/savar-boma-recover-110826-01-1786468040.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Tk 10bn fund planned for young entrepreneurs]]></title>
             <description><![CDATA[[Business] Tk 10bn fund planned for young entrepreneurs]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/media-en/image/288b8bc61419</guid>
             <pubDate>Tue, 11 Aug 2026 20:04:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/vegetables-wash-110826-019-1786451834.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[756 hospitalised with dengue in a day]]></title>
-            <description><![CDATA[[Health] 756 hospitalised with dengue in a day]]></description>
-            <link>https://bdnews24.com/health/4b3b1b614a2e</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/4b3b1b614a2e</guid>
-            <pubDate>Tue, 11 Aug 2026 19:50:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024October/SM/dengue-mugda-hospital-231024-016-1729682695.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coconut water demand surges]]></title>
-            <description><![CDATA[[Image] Coconut water demand surges]]></description>
-            <link>https://bdnews24.com/media-en/image/275779e03259</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/275779e03259</guid>
-            <pubDate>Tue, 11 Aug 2026 19:45:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/coconut-sadarghat-110826-27-1786449581.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
