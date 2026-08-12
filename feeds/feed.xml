@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News]]></title>
-        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
+        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 12:38:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 14:11:05 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 12:38:07 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 14:11:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Major police shake-up moves Rangpur commissioner]]></title>
-            <description><![CDATA[[Bangladesh] Major police shake-up moves Rangpur commissioner]]></description>
-            <link>https://bdnews24.com/bangladesh/bb29fe1826ad</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/bb29fe1826ad</guid>
-            <pubDate>Wed, 12 Aug 2026 18:34:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024July/SM/home-ministry-280724-01-1722176533.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA['Coyote Vs. Acme' brings Looney Tunes back to the big screen]]></title>
-            <description><![CDATA[[Entertainment] 'Coyote Vs. Acme' brings Looney Tunes back to the big screen]]></description>
-            <link>https://bdnews24.com/entertainment/0879bf21986c</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/0879bf21986c</guid>
-            <pubDate>Wed, 12 Aug 2026 18:31:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/coyotevs-acme-120826-01-1786537788.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kushiara, Khowai rivers cross red line]]></title>
-            <description><![CDATA[[Bangladesh] Kushiara, Khowai rivers cross red line]]></description>
-            <link>https://bdnews24.com/bangladesh/1712bf05b777</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1712bf05b777</guid>
-            <pubDate>Wed, 12 Aug 2026 18:29:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/netrokona-river-flow-020723-01-1778582244.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles: 5 more die]]></title>
-            <description><![CDATA[[Health] Measles: 5 more die]]></description>
-            <link>https://bdnews24.com/health/618727409cac</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/618727409cac</guid>
-            <pubDate>Wed, 12 Aug 2026 18:04:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/measles-patient-dncc-hospital-120526-028-1778590985.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rural power bodies seek security amid ‘unrest’]]></title>
-            <description><![CDATA[[Bangladesh] Rural power bodies seek security amid ‘unrest’]]></description>
-            <link>https://bdnews24.com/bangladesh/ca42eb09d8cf</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ca42eb09d8cf</guid>
-            <pubDate>Wed, 12 Aug 2026 18:03:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/veramara-power-station-1780378373.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2 more CUET students drown in pond]]></title>
-            <description><![CDATA[[Campus] 2 more CUET students drown in pond]]></description>
-            <link>https://bdnews24.com/campus/9333c9377499</link>
-            <guid isPermaLink="true">https://bdnews24.com/campus/9333c9377499</guid>
-            <pubDate>Wed, 12 Aug 2026 17:58:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ctg-cuet-student-shanta-120826-1786533886.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Malaysia shuts 108 schools as haze worsens]]></title>
-            <description><![CDATA[[World] Malaysia shuts 108 schools as haze worsens]]></description>
-            <link>https://bdnews24.com/world/0ba44df2cd17</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/0ba44df2cd17</guid>
-            <pubDate>Wed, 12 Aug 2026 17:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/malaysia-haze-120816-01-1786534736.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nintendo to launch Switch consoles in Indonesia]]></title>
-            <description><![CDATA[[Technology] Nintendo to launch Switch consoles in Indonesia]]></description>
-            <link>https://bdnews24.com/technology/5002df920445</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/5002df920445</guid>
-            <pubDate>Wed, 12 Aug 2026 17:20:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/nintendo-switch-120826-01-1786533638.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Zhu Rongji, premier who reshaped China's economy, dies at 97]]></title>
-            <description><![CDATA[[World] Zhu Rongji, premier who reshaped China's economy, dies at 97]]></description>
-            <link>https://bdnews24.com/world/0c3713c8911e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/0c3713c8911e</guid>
-            <pubDate>Wed, 12 Aug 2026 17:17:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/china-zhu-120826-01-1786533320.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump administration set to spend $900mn on White House construction: WaPo]]></title>
-            <description><![CDATA[[Americas] Trump administration set to spend $900mn on White House construction: WaPo]]></description>
-            <link>https://bdnews24.com/world/americas/cc26ba5df329</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/cc26ba5df329</guid>
-            <pubDate>Wed, 12 Aug 2026 17:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/white-house-revamp-120826-01-1786533056.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[HC finally withdraws death sentence against dead suspect]]></title>
-            <description><![CDATA[[Bangladesh] HC finally withdraws death sentence against dead suspect]]></description>
-            <link>https://bdnews24.com/bangladesh/f25763c4e624</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f25763c4e624</guid>
-            <pubDate>Wed, 12 Aug 2026 16:58:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/high-court-1000-1779103974.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Power situation to improve from this evening: state minister]]></title>
-            <description><![CDATA[[Bangladesh] Power situation to improve from this evening: state minister]]></description>
-            <link>https://bdnews24.com/bangladesh/b6c43d7ccacb</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b6c43d7ccacb</guid>
-            <pubDate>Wed, 12 Aug 2026 16:56:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/amit-islam-120826-01-1786528040.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sephora enters Israel via retailer, rules out own stores]]></title>
-            <description><![CDATA[[World] Sephora enters Israel via retailer, rules out own stores]]></description>
-            <link>https://bdnews24.com/world/6bf9f25f1553</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/6bf9f25f1553</guid>
-            <pubDate>Wed, 12 Aug 2026 16:19:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/sephora-israel-120826-01-1786529968.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Putin warns of retaliation over EU vessel seizures]]></title>
-            <description><![CDATA[[World] Putin warns of retaliation over EU vessel seizures]]></description>
-            <link>https://bdnews24.com/world/0183b0fcf074</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/0183b0fcf074</guid>
-            <pubDate>Wed, 12 Aug 2026 16:02:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/putin-eu-120826-01-1786528904.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Supreme Court Legal Aid Office offers mediation in 7 types of cases]]></title>
-            <description><![CDATA[[Bangladesh] Supreme Court Legal Aid Office offers mediation in 7 types of cases]]></description>
-            <link>https://bdnews24.com/bangladesh/ca5ecf556aff</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ca5ecf556aff</guid>
-            <pubDate>Wed, 12 Aug 2026 15:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/supreme-court-legal-aid-office-120826-01-1786524983.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India says border peace key to China ties]]></title>
-            <description><![CDATA[[World] India says border peace key to China ties]]></description>
-            <link>https://bdnews24.com/world/8e5ac83b910c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/8e5ac83b910c</guid>
-            <pubDate>Wed, 12 Aug 2026 15:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/india-china-flags-120826-1786528361.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wisconsin Democrats pick moderate; Trump ally loses in Minnesota]]></title>
-            <description><![CDATA[[Americas] Wisconsin Democrats pick moderate; Trump ally loses in Minnesota]]></description>
-            <link>https://bdnews24.com/world/americas/52b0332cdc86</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/52b0332cdc86</guid>
-            <pubDate>Wed, 12 Aug 2026 15:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/david-us-120826-01-1786528306.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Balaka train stuck 3.5 hours in Sreepur]]></title>
-            <description><![CDATA[[Bangladesh] Balaka train stuck 3.5 hours in Sreepur]]></description>
-            <link>https://bdnews24.com/bangladesh/8382d2208472</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8382d2208472</guid>
-            <pubDate>Wed, 12 Aug 2026 15:27:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/gazipur-bolaka-train-120826-01-1786525344.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Atif Aslam breaks silence on India ban]]></title>
-            <description><![CDATA[[Entertainment] Atif Aslam breaks silence on India ban]]></description>
-            <link>https://bdnews24.com/entertainment/0385ea20ed5b</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/0385ea20ed5b</guid>
-            <pubDate>Wed, 12 Aug 2026 15:19:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/atif-aslam-120826-1786526302.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[David Emon remanded for 5 days]]></title>
-            <description><![CDATA[[Bangladesh] David Emon remanded for 5 days]]></description>
-            <link>https://bdnews24.com/bangladesh/ddff1247d5d5</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ddff1247d5d5</guid>
-            <pubDate>Wed, 12 Aug 2026 14:50:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/chattagra-arrested-emon-300726-1785409866.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
+            <link>https://bdnews24.com</link>
+            <guid isPermaLink="true">https://bdnews24.com</guid>
+            <pubDate>Wed, 12 Aug 2026 14:11:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
