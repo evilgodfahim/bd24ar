@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ]]></title>
+        <description><![CDATA[bangla.bdnews24.com আর্কাইভ থেকে সর্বশেষ সংবাদ]]></description>
         <link>https://bangla.bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 15:46:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 16:43:01 GMT</lastBuildDate>
         <atom:link href="https://bangla.bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 15:46:57 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 16:43:01 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: timeout of 65000ms exceeded]]></description>
-            <link>https://bangla.bdnews24.com</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com</guid>
-            <pubDate>Wed, 12 Aug 2026 15:46:57 GMT</pubDate>
+            <title><![CDATA[কঠিন হচ্ছে ইউটিউব থেকে আয়ের পথ]]></title>
+            <description><![CDATA[[টিউব] কঠিন হচ্ছে ইউটিউব থেকে আয়ের পথ]]></description>
+            <link>https://bangla.bdnews24.com/tube/147d7605da1a</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/147d7605da1a</guid>
+            <pubDate>Wed, 12 Aug 2026 16:43:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/youtube-raising-eligibility-thumb-12082026-1786552725.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[মার্চেন্টদের সঙ্গে বিকাশের মতবিনিময় সভা]]></title>
+            <description><![CDATA[[করপোরেট] মার্চেন্টদের সঙ্গে বিকাশের মতবিনিময় সভা]]></description>
+            <link>https://bangla.bdnews24.com/corporate/ae6b76c2bb69</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/corporate/ae6b76c2bb69</guid>
+            <pubDate>Wed, 12 Aug 2026 16:43:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bkash-120836-01-1786552292.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[দেশজুড়ে রোববার পর্যন্ত বৃষ্টি বাড়ার আভাস]]></title>
+            <description><![CDATA[[বাংলাদেশ] দেশজুড়ে রোববার পর্যন্ত বৃষ্টি বাড়ার আভাস]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/32353b78c7a6</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/32353b78c7a6</guid>
+            <pubDate>Wed, 12 Aug 2026 16:43:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rain-shampur-060826-005-1786027974.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ট্রাস্ট ব্যাংক এখন নারায়ণগঞ্জের ভুলতায়]]></title>
+            <description><![CDATA[[করপোরেট] ট্রাস্ট ব্যাংক এখন নারায়ণগঞ্জের ভুলতায়]]></description>
+            <link>https://bangla.bdnews24.com/corporate/7906277f0e4c</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/corporate/7906277f0e4c</guid>
+            <pubDate>Wed, 12 Aug 2026 16:43:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/trust-bank-120826-01-1786551561.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ইউনিলিভার বাংলাদেশের ‘হেড অব লিগ্যাল’ আবদুল্লাহ যোবায়ের]]></title>
+            <description><![CDATA[[করপোরেট] ইউনিলিভার বাংলাদেশের ‘হেড অব লিগ্যাল’ আবদুল্লাহ যোবায়ের]]></description>
+            <link>https://bangla.bdnews24.com/corporate/07446d594ff9</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/corporate/07446d594ff9</guid>
+            <pubDate>Wed, 12 Aug 2026 16:43:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/uniliver-abdullah-zobayer-120826-01-1786551373.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বালুমহালে অভিযানে গিয়ে সাবেক ছাত্রদল নেতাকে পেটালেন ইউএনও, ভিডিও ভাইরাল]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] বালুমহালে অভিযানে গিয়ে সাবেক ছাত্রদল নেতাকে পেটালেন ইউএনও, ভিডিও ভাইরাল]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/c7213be476aa</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/c7213be476aa</guid>
+            <pubDate>Wed, 12 Aug 2026 16:43:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mymensingh-uno-120826-01-1786551277.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[৪০ বছর পর ডিএনএ পরীক্ষায় দুই বোনের পুনর্মিলন]]></title>
+            <description><![CDATA[[টিউব] ৪০ বছর পর ডিএনএ পরীক্ষায় দুই বোনের পুনর্মিলন]]></description>
+            <link>https://bangla.bdnews24.com/tube/cf736537c8e9</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/cf736537c8e9</guid>
+            <pubDate>Wed, 12 Aug 2026 16:43:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/sisters-reunion-pkg-thumb-1786551059.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[আরব আমিরাতের নতুন কোচ দালিচ]]></title>
+            <description><![CDATA[[খেলা] আরব আমিরাতের নতুন কোচ দালিচ]]></description>
+            <link>https://bangla.bdnews24.com/sport/d520c8757a8f</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/d520c8757a8f</guid>
+            <pubDate>Wed, 12 Aug 2026 16:43:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/zlatko-dalic-080726-01-1783512978.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[সম্ভাবনার বড় ক্ষেত্র হতে পারে ‘হালাল অর্থনীতি’: বাণিজ্যমন্ত্রী]]></title>
+            <description><![CDATA[[অর্থনীতি] সম্ভাবনার বড় ক্ষেত্র হতে পারে ‘হালাল অর্থনীতি’: বাণিজ্যমন্ত্রী]]></description>
+            <link>https://bangla.bdnews24.com/economy/691f175d511b</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/economy/691f175d511b</guid>
+            <pubDate>Wed, 12 Aug 2026 16:43:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/commarce-minister-120826-1786550599.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[শামীম ওসমানের মত ‘খেলা হবে’ বললেন ব্যাঙ্গালুরুর প্রকাশ রাজ, কারণ কী]]></title>
+            <description><![CDATA[[গ্লিটজ] শামীম ওসমানের মত ‘খেলা হবে’ বললেন ব্যাঙ্গালুরুর প্রকাশ রাজ, কারণ কী]]></description>
+            <link>https://bangla.bdnews24.com/glitz/18ff2c1740d7</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/glitz/18ff2c1740d7</guid>
+            <pubDate>Wed, 12 Aug 2026 16:43:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/prokash-raj-120826-01-1786550519.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[মারধরে বাবার মৃত্যু: ওমানে যাবার সময় বিমানবন্দরে ধরা ছেলে]]></title>
+            <description><![CDATA[[চট্টগ্রাম] মারধরে বাবার মৃত্যু: ওমানে যাবার সময় বিমানবন্দরে ধরা ছেলে]]></description>
+            <link>https://bangla.bdnews24.com/ctg/04467dd9ccef</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/ctg/04467dd9ccef</guid>
+            <pubDate>Wed, 12 Aug 2026 16:43:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/shahjalal-international-airport-17032019-0011-1786550369.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বরিশালে বোমা বিস্ফোরণে আহত নারী মারা গেছেন]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] বরিশালে বোমা বিস্ফোরণে আহত নারী মারা গেছেন]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/8749a447cf97</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/8749a447cf97</guid>
+            <pubDate>Wed, 12 Aug 2026 16:43:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/barisal-bakergonj-thana-120826-01-1786550077.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[গ্যাস সংকট: নারায়ণগঞ্জে ৩০ সিএনজি স্টেশন বন্ধ, চালু তিনটিতে দীর্ঘ সারি]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] গ্যাস সংকট: নারায়ণগঞ্জে ৩০ সিএনজি স্টেশন বন্ধ, চালু তিনটিতে দীর্ঘ সারি]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/947800d8aae2</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/947800d8aae2</guid>
+            <pubDate>Wed, 12 Aug 2026 16:43:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/narayanganj-gas-crisis-120826-01-1786549873.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[রুশ বাণিজ্যিক জাহাজ জব্দ করলে ইইউকে পাল্টা জবাবের হুঁশিয়ারি পুতিনের]]></title>
+            <description><![CDATA[[বিশ্ব] রুশ বাণিজ্যিক জাহাজ জব্দ করলে ইইউকে পাল্টা জবাবের হুঁশিয়ারি পুতিনের]]></description>
+            <link>https://bangla.bdnews24.com/world/76d814c9f3c0</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/world/76d814c9f3c0</guid>
+            <pubDate>Wed, 12 Aug 2026 16:43:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/putin-victor-lina-120826-01-1786548889.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[নৌযান চলাচলের পথে জালের ফাঁদ, ‘আল্টিমেটামের’ পর অভিযানে বন্দর]]></title>
+            <description><![CDATA[[চট্টগ্রাম] নৌযান চলাচলের পথে জালের ফাঁদ, ‘আল্টিমেটামের’ পর অভিযানে বন্দর]]></description>
+            <link>https://bangla.bdnews24.com/ctg/9699e2130e95</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/ctg/9699e2130e95</guid>
+            <pubDate>Wed, 12 Aug 2026 16:43:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/chattogram-port-raid-120826-101-1786548682.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[৩১তম বিসিএস পুলিশ অ্যাসোসিয়েশনের সভাপতি জিয়া, সম্পাদক নাজিম]]></title>
+            <description><![CDATA[[বাংলাদেশ] ৩১তম বিসিএস পুলিশ অ্যাসোসিয়েশনের সভাপতি জিয়া, সম্পাদক নাজিম]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/73c19ba0695b</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/73c19ba0695b</guid>
+            <pubDate>Wed, 12 Aug 2026 16:43:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/zia-nazim-bcs-police-asso-120826-1786548439.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[র‌্যাবের ৮ কুকুর নিলামে, সর্বোচ্চ দাম উঠল ২৬ হাজার টাকা]]></title>
+            <description><![CDATA[[বাংলাদেশ] র‌্যাবের ৮ কুকুর নিলামে, সর্বোচ্চ দাম উঠল ২৬ হাজার টাকা]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/ad1718c9d0da</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/ad1718c9d0da</guid>
+            <pubDate>Wed, 12 Aug 2026 16:43:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rab-dog-squad-120826-28-1786537717.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[সরানো হচ্ছে বাংলাদেশ ব্যাংকের প্রধান অর্থনীতিবিদকে]]></title>
+            <description><![CDATA[[অর্থনীতি] সরানো হচ্ছে বাংলাদেশ ব্যাংকের প্রধান অর্থনীতিবিদকে]]></description>
+            <link>https://bangla.bdnews24.com/economy/4587807e6e38</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/economy/4587807e6e38</guid>
+            <pubDate>Wed, 12 Aug 2026 16:43:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025July/SM/akhter-hossain-chief-economist-bangladesh-bank-150725-1752591283.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[শপিংমল-মার্কেট রাত ৮টার মধ্যে বন্ধের নির্দেশ, বিলবোর্ড ৭টায়]]></title>
+            <description><![CDATA[[বাণিজ্য] শপিংমল-মার্কেট রাত ৮টার মধ্যে বন্ধের নির্দেশ, বিলবোর্ড ৭টায়]]></description>
+            <link>https://bangla.bdnews24.com/business/9bf6b14d2b88</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/business/9bf6b14d2b88</guid>
+            <pubDate>Wed, 12 Aug 2026 16:43:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/shoping-mall-050426-012-1775389194.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[শোকাহত মেসির পাশে রোনালদো]]></title>
+            <description><![CDATA[[খেলা] শোকাহত মেসির পাশে রোনালদো]]></description>
+            <link>https://bangla.bdnews24.com/sport/2d6b455c01a8</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/2d6b455c01a8</guid>
+            <pubDate>Wed, 12 Aug 2026 16:43:01 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ronaldo-messi-120826-01-1786547055.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
