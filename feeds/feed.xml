@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 08:57:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 09:53:58 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 08:57:16 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 09:53:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Wisconsin Democrats pick moderate; Trump ally loses in Minnesota]]></title>
+            <description><![CDATA[[Americas] Wisconsin Democrats pick moderate; Trump ally loses in Minnesota]]></description>
+            <link>https://bdnews24.com/world/americas/52b0332cdc86</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/52b0332cdc86</guid>
+            <pubDate>Wed, 12 Aug 2026 15:51:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/david-us-120826-01-1786528306.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Balaka train stuck 3.5 hours in Sreepur]]></title>
+            <description><![CDATA[[Bangladesh] Balaka train stuck 3.5 hours in Sreepur]]></description>
+            <link>https://bdnews24.com/bangladesh/8382d2208472</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8382d2208472</guid>
+            <pubDate>Wed, 12 Aug 2026 15:27:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/gazipur-bolaka-train-120826-01-1786525344.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Atif Aslam breaks silence on India ban]]></title>
+            <description><![CDATA[[Entertainment] Atif Aslam breaks silence on India ban]]></description>
+            <link>https://bdnews24.com/entertainment/0385ea20ed5b</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/0385ea20ed5b</guid>
+            <pubDate>Wed, 12 Aug 2026 15:19:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/atif-aslam-120826-1786526302.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[David Emon remanded for 5 days]]></title>
             <description><![CDATA[[Bangladesh] David Emon remanded for 5 days]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/2a81ea80116d</guid>
             <pubDate>Wed, 12 Aug 2026 12:01:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/barishal-bomb-120826-01-1786512392.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Questions over separate DU question paper for English-medium students]]></title>
-            <description><![CDATA[[Bangladesh] Questions over separate DU question paper for English-medium students]]></description>
-            <link>https://bdnews24.com/bangladesh/9ee0c108e2c3</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9ee0c108e2c3</guid>
-            <pubDate>Wed, 12 Aug 2026 11:43:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024October/SM/dhaka-university-admission-test-030622-39-24-1730303237.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thailand suspends gun purchase licences after school attack]]></title>
-            <description><![CDATA[[Asia Pacific] Thailand suspends gun purchase licences after school attack]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/f20d874580c8</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/f20d874580c8</guid>
-            <pubDate>Wed, 12 Aug 2026 11:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/thai-scl-shooting-070826-1786512705.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Palestinian students, staff sue Columbia University]]></title>
-            <description><![CDATA[[World] Palestinian students, staff sue Columbia University]]></description>
-            <link>https://bdnews24.com/world/1140da900991</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/1140da900991</guid>
-            <pubDate>Wed, 12 Aug 2026 11:25:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/colombia-universiry-protest-120826-1786512239.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
