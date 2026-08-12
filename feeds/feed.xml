@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 17:47:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 18:43:26 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 17:47:25 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 18:43:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Chelsea sign Chavarria on 5-year contract]]></title>
+            <description><![CDATA[[Sport] Chelsea sign Chavarria on 5-year contract]]></description>
+            <link>https://bdnews24.com/sport/f1a50c2792b1</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/f1a50c2792b1</guid>
+            <pubDate>Thu, 13 Aug 2026 00:06:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/pep-chavarria-120826-01-1786557947.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tielemans ready for Man Utd challenge]]></title>
+            <description><![CDATA[[Sport] Tielemans ready for Man Utd challenge]]></description>
+            <link>https://bdnews24.com/sport/11613624d6be</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/11613624d6be</guid>
+            <pubDate>Thu, 13 Aug 2026 00:04:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/youri-tielemans-120826-01-1786557813.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[FIFPRO chief calls for complete FIFA overhaul]]></title>
+            <description><![CDATA[[Sport] FIFPRO chief calls for complete FIFA overhaul]]></description>
+            <link>https://bdnews24.com/sport/cbb3d4dd9f8c</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/cbb3d4dd9f8c</guid>
+            <pubDate>Wed, 12 Aug 2026 23:49:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/fifa-office-050826-01-1785940714.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Ctg Port cracks down on fishing nets]]></title>
             <description><![CDATA[[Bangladesh] Ctg Port cracks down on fishing nets]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/e2cb1abe4979</guid>
             <pubDate>Wed, 12 Aug 2026 20:03:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/nazmul-hasan-mamun-120826-01-1786541119.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[44 dead in Zimbabwe boat accident]]></title>
-            <description><![CDATA[[Africa] 44 dead in Zimbabwe boat accident]]></description>
-            <link>https://bdnews24.com/world/africa/529374392a46</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/africa/529374392a46</guid>
-            <pubDate>Wed, 12 Aug 2026 19:44:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/zimbabwe-boat-120826-1786542230.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dengue: 2 die, 723 hospitalised]]></title>
-            <description><![CDATA[[Health] Dengue: 2 die, 723 hospitalised]]></description>
-            <link>https://bdnews24.com/health/1cde51fc7334</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/1cde51fc7334</guid>
-            <pubDate>Wed, 12 Aug 2026 19:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/cumilla-dengu-030826-01-1785754325.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israeli troops clash with settlers in West Bank]]></title>
-            <description><![CDATA[[World] Israeli troops clash with settlers in West Bank]]></description>
-            <link>https://bdnews24.com/world/b0c19469c18d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/b0c19469c18d</guid>
-            <pubDate>Wed, 12 Aug 2026 19:36:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/palestine-westbank-120826-01-1786541650.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
