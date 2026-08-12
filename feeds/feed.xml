@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News]]></title>
-        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
+        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 19:54:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 20:30:26 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 19:54:17 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 20:30:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Iran sees no progress on reviving interim US deal]]></title>
-            <description><![CDATA[[World] Iran sees no progress on reviving interim US deal]]></description>
-            <link>https://bdnews24.com/world/6fd5bf58abb0</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/6fd5bf58abb0</guid>
-            <pubDate>Thu, 13 Aug 2026 01:07:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/anti-us-billboard-130826-01-1786561580.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka-Delhi ties at a crossroads]]></title>
-            <description><![CDATA[[Bangladesh] Dhaka-Delhi ties at a crossroads]]></description>
-            <link>https://bdnews24.com/bangladesh/d9bb02e22ceb</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d9bb02e22ceb</guid>
-            <pubDate>Thu, 13 Aug 2026 01:04:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/tarique-modi-caricature-120826-01-1786558262.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chelsea sign Chavarria on 5-year contract]]></title>
-            <description><![CDATA[[Sport] Chelsea sign Chavarria on 5-year contract]]></description>
-            <link>https://bdnews24.com/sport/f1a50c2792b1</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/f1a50c2792b1</guid>
-            <pubDate>Thu, 13 Aug 2026 00:06:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/pep-chavarria-120826-01-1786557947.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tielemans ready for Man Utd challenge]]></title>
-            <description><![CDATA[[Sport] Tielemans ready for Man Utd challenge]]></description>
-            <link>https://bdnews24.com/sport/11613624d6be</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/11613624d6be</guid>
-            <pubDate>Thu, 13 Aug 2026 00:04:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/youri-tielemans-120826-01-1786557813.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[FIFPRO chief calls for complete FIFA overhaul]]></title>
-            <description><![CDATA[[Sport] FIFPRO chief calls for complete FIFA overhaul]]></description>
-            <link>https://bdnews24.com/sport/cbb3d4dd9f8c</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/cbb3d4dd9f8c</guid>
-            <pubDate>Wed, 12 Aug 2026 23:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/fifa-office-050826-01-1785940714.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ctg Port cracks down on fishing nets]]></title>
-            <description><![CDATA[[Bangladesh] Ctg Port cracks down on fishing nets]]></description>
-            <link>https://bdnews24.com/bangladesh/44c5bd4cddd2</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/44c5bd4cddd2</guid>
-            <pubDate>Wed, 12 Aug 2026 23:29:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/chattogram-port-raid-120826-101-1786548682.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Presidency race enters nomination stage]]></title>
-            <description><![CDATA[[Bangladesh] Presidency race enters nomination stage]]></description>
-            <link>https://bdnews24.com/bangladesh/7cec881ab275</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7cec881ab275</guid>
-            <pubDate>Wed, 12 Aug 2026 23:27:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/president-election-1786540055.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rain set to intensify through Sunday]]></title>
-            <description><![CDATA[[Bangladesh] Rain set to intensify through Sunday]]></description>
-            <link>https://bdnews24.com/bangladesh/da6754585f0b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/da6754585f0b</guid>
-            <pubDate>Wed, 12 Aug 2026 23:23:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rain-shampur-060826-005-1786027974.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Malawi FA chief backs Infantino]]></title>
-            <description><![CDATA[[Sport] Malawi FA chief backs Infantino]]></description>
-            <link>https://bdnews24.com/sport/652306502dec</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/652306502dec</guid>
-            <pubDate>Wed, 12 Aug 2026 23:09:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/gianni-infantino-110826-01-1786395762.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man City sign goalkeeper Rulli]]></title>
-            <description><![CDATA[[Sport] Man City sign goalkeeper Rulli]]></description>
-            <link>https://bdnews24.com/sport/91a1c263d505</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/91a1c263d505</guid>
-            <pubDate>Wed, 12 Aug 2026 22:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/man-city-1786552593.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dalic named UAE coach]]></title>
-            <description><![CDATA[[Sport] Dalic named UAE coach]]></description>
-            <link>https://bdnews24.com/sport/419519b75d64</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/419519b75d64</guid>
-            <pubDate>Wed, 12 Aug 2026 21:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/zlatko-dalic-080726-01-1783526702.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BB to remove chief economist early]]></title>
-            <description><![CDATA[[Economy] BB to remove chief economist early]]></description>
-            <link>https://bdnews24.com/economy/47f3d71b4891</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/47f3d71b4891</guid>
-            <pubDate>Wed, 12 Aug 2026 21:38:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025July/SM/akhter-hossain-chief-economist-bangladesh-bank-150725-1752591283.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Biggest map of the universe unveiled]]></title>
-            <description><![CDATA[[Science] Biggest map of the universe unveiled]]></description>
-            <link>https://bdnews24.com/science/3d64a5ea0d8a</link>
-            <guid isPermaLink="true">https://bdnews24.com/science/3d64a5ea0d8a</guid>
-            <pubDate>Wed, 12 Aug 2026 21:23:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/galaxy-map-120826-01-1786548041.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Messi questions football future after father’s death]]></title>
-            <description><![CDATA[[Sport] Messi questions football future after father’s death]]></description>
-            <link>https://bdnews24.com/sport/13a4ad33d75d</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/13a4ad33d75d</guid>
-            <pubDate>Wed, 12 Aug 2026 21:22:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/messi-120826-1786548160.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[RAB’s retired canine squad up for auction]]></title>
-            <description><![CDATA[[Image] RAB’s retired canine squad up for auction]]></description>
-            <link>https://bdnews24.com/media-en/image/800034a0fbb2</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/800034a0fbb2</guid>
-            <pubDate>Wed, 12 Aug 2026 21:16:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rab-dog-squad-120826-03-1786537567.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt to purchase 8 cargoes of LNG without tender]]></title>
-            <description><![CDATA[[Business] Govt to purchase 8 cargoes of LNG without tender]]></description>
-            <link>https://bdnews24.com/business/6ee635265adc</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/6ee635265adc</guid>
-            <pubDate>Wed, 12 Aug 2026 21:09:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/cargo-170626-1781685390.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shops, markets to shut by 8pm]]></title>
-            <description><![CDATA[[Business] Shops, markets to shut by 8pm]]></description>
-            <link>https://bdnews24.com/business/1fcaccbcc40c</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/1fcaccbcc40c</guid>
-            <pubDate>Wed, 12 Aug 2026 21:07:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/new-market-030426-003-1775231073.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[August 12, 2026]]></title>
-            <description><![CDATA[[Image] August 12, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/9ded1f360c8c</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/9ded1f360c8c</guid>
-            <pubDate>Wed, 12 Aug 2026 21:06:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/high-court-law-reporters-120826-04-1786537340.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BNP to name presidential candidate Thursday]]></title>
-            <description><![CDATA[[Politics] BNP to name presidential candidate Thursday]]></description>
-            <link>https://bdnews24.com/politics/abb2c2153161</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/abb2c2153161</guid>
-            <pubDate>Wed, 12 Aug 2026 21:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarique-rahman-120826-01-1786543619.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Meta faces 29 states in landmark youth social media trial]]></title>
-            <description><![CDATA[[Technology] Meta faces 29 states in landmark youth social media trial]]></description>
-            <link>https://bdnews24.com/technology/dc39e25c6630</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/dc39e25c6630</guid>
-            <pubDate>Wed, 12 Aug 2026 20:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/meta-lawsuit-120826-01-1786545634.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
+            <link>https://bdnews24.com</link>
+            <guid isPermaLink="true">https://bdnews24.com</guid>
+            <pubDate>Wed, 12 Aug 2026 20:30:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
