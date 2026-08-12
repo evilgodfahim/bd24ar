@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 18:43:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 19:54:17 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 18:43:26 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 19:54:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iran sees no progress on reviving interim US deal]]></title>
+            <description><![CDATA[[World] Iran sees no progress on reviving interim US deal]]></description>
+            <link>https://bdnews24.com/world/6fd5bf58abb0</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/6fd5bf58abb0</guid>
+            <pubDate>Thu, 13 Aug 2026 01:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/anti-us-billboard-130826-01-1786561580.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka-Delhi ties at a crossroads]]></title>
+            <description><![CDATA[[Bangladesh] Dhaka-Delhi ties at a crossroads]]></description>
+            <link>https://bdnews24.com/bangladesh/d9bb02e22ceb</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d9bb02e22ceb</guid>
+            <pubDate>Thu, 13 Aug 2026 01:04:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/tarique-modi-caricature-120826-01-1786558262.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Chelsea sign Chavarria on 5-year contract]]></title>
             <description><![CDATA[[Sport] Chelsea sign Chavarria on 5-year contract]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/technology/dc39e25c6630</guid>
             <pubDate>Wed, 12 Aug 2026 20:41:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/meta-lawsuit-120826-01-1786545634.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Maldives urged to hire more Bangladeshis]]></title>
-            <description><![CDATA[[Bangladesh] Maldives urged to hire more Bangladeshis]]></description>
-            <link>https://bdnews24.com/bangladesh/fe8bf722cada</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/fe8bf722cada</guid>
-            <pubDate>Wed, 12 Aug 2026 20:17:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/kobir-shiuneen-120827-1786544158.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Police hunt ‘Bomaru Mamun’ over blasts]]></title>
-            <description><![CDATA[[Bangladesh] Police hunt ‘Bomaru Mamun’ over blasts]]></description>
-            <link>https://bdnews24.com/bangladesh/e2cb1abe4979</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e2cb1abe4979</guid>
-            <pubDate>Wed, 12 Aug 2026 20:03:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/nazmul-hasan-mamun-120826-01-1786541119.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
