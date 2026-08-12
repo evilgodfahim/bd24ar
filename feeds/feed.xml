@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 21:32:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 22:27:26 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 21:32:05 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 22:27:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[PSG beat Villa 2-1 to retain Super Cup]]></title>
+            <description><![CDATA[[Sport] PSG beat Villa 2-1 to retain Super Cup]]></description>
+            <link>https://bdnews24.com/sport/76651017236a</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/76651017236a</guid>
+            <pubDate>Thu, 13 Aug 2026 03:44:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/psg-130826-01-1786570896.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Xavi appointed new Netherlands coach]]></title>
             <description><![CDATA[[Sport] Xavi appointed new Netherlands coach]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/business/1fcaccbcc40c</guid>
             <pubDate>Wed, 12 Aug 2026 21:07:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/new-market-030426-003-1775231073.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[August 12, 2026]]></title>
-            <description><![CDATA[[Image] August 12, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/9ded1f360c8c</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/9ded1f360c8c</guid>
-            <pubDate>Wed, 12 Aug 2026 21:06:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/high-court-law-reporters-120826-04-1786537340.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
