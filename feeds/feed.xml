@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Aug 2026 18:43:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 19:48:49 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Aug 2026 18:43:37 GMT</pubDate>
+        <pubDate>Thu, 13 Aug 2026 19:48:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Dollar dips in banks, stays pricey outside]]></title>
+            <description><![CDATA[[Economy] Dollar dips in banks, stays pricey outside]]></description>
+            <link>https://bdnews24.com/economy/65d5ba41c570</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/65d5ba41c570</guid>
+            <pubDate>Fri, 14 Aug 2026 01:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024December/SM/us-dollar-160322-01-1734577041.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-Pakistan minister declares allegiance to LeT founder]]></title>
+            <description><![CDATA[[World] Ex-Pakistan minister declares allegiance to LeT founder]]></description>
+            <link>https://bdnews24.com/world/08ec678600df</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/08ec678600df</guid>
+            <pubDate>Fri, 14 Aug 2026 01:42:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/pakistani-minister-1786650063.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Yamaha riders clean Cox’s Bazar beach]]></title>
             <description><![CDATA[[Environment] Yamaha riders clean Cox’s Bazar beach]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/health/6c3bebf3cef3</guid>
             <pubDate>Thu, 13 Aug 2026 20:12:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dengue-patient-suhrawardy-hospital-300822-1783507775.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Venezuelans brace for severe power, water cuts before El Niño]]></title>
-            <description><![CDATA[[World] Venezuelans brace for severe power, water cuts before El Niño]]></description>
-            <link>https://bdnews24.com/world/546d1ed6812e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/546d1ed6812e</guid>
-            <pubDate>Thu, 13 Aug 2026 20:05:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/venezuela-crisis-13082026-01-1786629832.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[5 more die with suspected measles]]></title>
-            <description><![CDATA[[Health] 5 more die with suspected measles]]></description>
-            <link>https://bdnews24.com/health/0fae798f9764</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/0fae798f9764</guid>
-            <pubDate>Thu, 13 Aug 2026 19:35:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/syhlet-hum-dead-060826-1786007692.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
