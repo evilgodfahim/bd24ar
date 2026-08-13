@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Aug 2026 12:38:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 14:12:23 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Aug 2026 12:38:41 GMT</pubDate>
+        <pubDate>Thu, 13 Aug 2026 14:12:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Venezuelans brace for severe power, water cuts before El Niño]]></title>
+            <description><![CDATA[[World] Venezuelans brace for severe power, water cuts before El Niño]]></description>
+            <link>https://bdnews24.com/world/546d1ed6812e</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/546d1ed6812e</guid>
+            <pubDate>Thu, 13 Aug 2026 20:05:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/venezuela-crisis-13082026-01-1786629832.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[5 more die with suspected measles]]></title>
+            <description><![CDATA[[Health] 5 more die with suspected measles]]></description>
+            <link>https://bdnews24.com/health/0fae798f9764</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/0fae798f9764</guid>
+            <pubDate>Thu, 13 Aug 2026 19:35:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/syhlet-hum-dead-060826-1786007692.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran, US make competing claims over Hormuz]]></title>
+            <description><![CDATA[[World] Iran, US make competing claims over Hormuz]]></description>
+            <link>https://bdnews24.com/world/f3454ff00111</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/f3454ff00111</guid>
+            <pubDate>Thu, 13 Aug 2026 19:23:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/hormuz-claims-13082026-01-1786627336.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shama urges India to ‘seize chance’ for reset]]></title>
+            <description><![CDATA[[Bangladesh] Shama urges India to ‘seize chance’ for reset]]></description>
+            <link>https://bdnews24.com/bangladesh/5850f7482ff0</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5850f7482ff0</guid>
+            <pubDate>Thu, 13 Aug 2026 19:14:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/shama-obaed-130826-1786625169.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lebanon ‘rejects’ shortlist of countries to verify Hezbollah disarmament]]></title>
+            <description><![CDATA[[World] Lebanon ‘rejects’ shortlist of countries to verify Hezbollah disarmament]]></description>
+            <link>https://bdnews24.com/world/9d29b534062f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/9d29b534062f</guid>
+            <pubDate>Thu, 13 Aug 2026 19:09:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/lebanon-shortlist-13082026-01-1786626520.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gaza cancer patients 'dying' as Israeli curbs tighten]]></title>
+            <description><![CDATA[[Health] Gaza cancer patients 'dying' as Israeli curbs tighten]]></description>
+            <link>https://bdnews24.com/health/a6ff49608fb7</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/a6ff49608fb7</guid>
+            <pubDate>Thu, 13 Aug 2026 18:58:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/gaza-cancer-13082026-01-1786625830.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft pulls back in China but keeps AI foothold]]></title>
+            <description><![CDATA[[Technology] Microsoft pulls back in China but keeps AI foothold]]></description>
+            <link>https://bdnews24.com/technology/62d523343100</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/62d523343100</guid>
+            <pubDate>Thu, 13 Aug 2026 18:46:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/microsoft-china-13082026-01-1786625161.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Speakers urge implementation of National Urban Policy 2025]]></title>
             <description><![CDATA[[Bangladesh] Speakers urge implementation of National Urban Policy 2025]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/1aee53f04667</guid>
             <pubDate>Thu, 13 Aug 2026 16:06:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/sylhet-three-murder-120826-02-1786546548.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine's farmers despair as Black Sea blockade traps their harvest]]></title>
-            <description><![CDATA[[Europe] Ukraine's farmers despair as Black Sea blockade traps their harvest]]></description>
-            <link>https://bdnews24.com/world/europe/ce6a07d3ada2</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/ce6a07d3ada2</guid>
-            <pubDate>Thu, 13 Aug 2026 15:45:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ukraine-farmers-130826-01-1786614244.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Turkey, Pakistan, Saudi Arabia to expand defence ties]]></title>
-            <description><![CDATA[[World] Turkey, Pakistan, Saudi Arabia to expand defence ties]]></description>
-            <link>https://bdnews24.com/world/a59b2c235a7f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/a59b2c235a7f</guid>
-            <pubDate>Thu, 13 Aug 2026 15:36:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/turkey-pak-saudi-leaders-130726-1786613717.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Well-marked low forms in north Bay]]></title>
-            <description><![CDATA[[Bangladesh] Well-marked low forms in north Bay]]></description>
-            <link>https://bdnews24.com/bangladesh/40e36bb332ac</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/40e36bb332ac</guid>
-            <pubDate>Thu, 13 Aug 2026 15:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/depression-at-bay-130826-01-1786613399.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 more LNG terminals planned by 2029: energy minister]]></title>
-            <description><![CDATA[[Bangladesh] 3 more LNG terminals planned by 2029: energy minister]]></description>
-            <link>https://bdnews24.com/bangladesh/01a896f03fca</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/01a896f03fca</guid>
-            <pubDate>Thu, 13 Aug 2026 15:19:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/moheshkhali-excelerate-energy-lng-terminal-270726-01-1784795377.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tk 43.8mn ‘embezzled’ from Agrani Bank vault in Chattogram]]></title>
-            <description><![CDATA[[Bangladesh] Tk 43.8mn ‘embezzled’ from Agrani Bank vault in Chattogram]]></description>
-            <link>https://bdnews24.com/bangladesh/59872b5d16ed</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/59872b5d16ed</guid>
-            <pubDate>Thu, 13 Aug 2026 15:18:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/agrani-bank-130826-1786609992.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[More Bangladesh-Saudi flights under new deal]]></title>
-            <description><![CDATA[[Aviation] More Bangladesh-Saudi flights under new deal]]></description>
-            <link>https://bdnews24.com/aviation/20313f5d71e8</link>
-            <guid isPermaLink="true">https://bdnews24.com/aviation/20313f5d71e8</guid>
-            <pubDate>Thu, 13 Aug 2026 15:14:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/caab-130826-01-1786612359.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BNP files Fakhrul’s nomination for presidency]]></title>
-            <description><![CDATA[[Politics] BNP files Fakhrul’s nomination for presidency]]></description>
-            <link>https://bdnews24.com/politics/ec3850bdff95</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/ec3850bdff95</guid>
-            <pubDate>Thu, 13 Aug 2026 14:56:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/fakhrul-nomination-submit-130826-02-1786610283.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
