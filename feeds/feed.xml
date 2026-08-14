@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News]]></title>
-        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
+        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 00:52:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 03:18:24 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 00:52:30 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 03:18:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Dollar dips in banks, stays pricey outside]]></title>
-            <description><![CDATA[[Economy] Dollar dips in banks, stays pricey outside]]></description>
-            <link>https://bdnews24.com/economy/65d5ba41c570</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/65d5ba41c570</guid>
-            <pubDate>Fri, 14 Aug 2026 01:45:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024December/SM/us-dollar-160322-01-1734577041.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ex-Pakistan minister declares allegiance to LeT founder]]></title>
-            <description><![CDATA[[World] Ex-Pakistan minister declares allegiance to LeT founder]]></description>
-            <link>https://bdnews24.com/world/08ec678600df</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/08ec678600df</guid>
-            <pubDate>Fri, 14 Aug 2026 01:42:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/pakistani-minister-1786650063.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yamaha riders clean Cox’s Bazar beach]]></title>
-            <description><![CDATA[[Environment] Yamaha riders clean Cox’s Bazar beach]]></description>
-            <link>https://bdnews24.com/environment/53853cb2b113</link>
-            <guid isPermaLink="true">https://bdnews24.com/environment/53853cb2b113</guid>
-            <pubDate>Fri, 14 Aug 2026 00:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/yrc-photo-1786645937.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[FBI hunts Bangladeshi doctor for ‘rape’]]></title>
-            <description><![CDATA[[Bangladesh] FBI hunts Bangladeshi doctor for ‘rape’]]></description>
-            <link>https://bdnews24.com/bangladesh/96a81f96abc9</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/96a81f96abc9</guid>
-            <pubDate>Fri, 14 Aug 2026 00:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bangladeshi-doctor-jahidul-islam-13082026-1786644041.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UN warns of AQIS network-building in Bangladesh]]></title>
-            <description><![CDATA[[Bangladesh] UN warns of AQIS network-building in Bangladesh]]></description>
-            <link>https://bdnews24.com/bangladesh/6f15eb1810f4</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6f15eb1810f4</guid>
-            <pubDate>Fri, 14 Aug 2026 00:26:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/united-nations-070726-01-1783437791.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Former Nepal PM Deuba returns home: report]]></title>
-            <description><![CDATA[[South Asia] Former Nepal PM Deuba returns home: report]]></description>
-            <link>https://bdnews24.com/world/south-asia/bb49f9b5bd14</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/south-asia/bb49f9b5bd14</guid>
-            <pubDate>Thu, 13 Aug 2026 23:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/sher-bahadur-deuba-130826-01-1786637123.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka’s rivers are choking on pollution]]></title>
-            <description><![CDATA[[Environment] Dhaka’s rivers are choking on pollution]]></description>
-            <link>https://bdnews24.com/environment/9705e9e533ed</link>
-            <guid isPermaLink="true">https://bdnews24.com/environment/9705e9e533ed</guid>
-            <pubDate>Thu, 13 Aug 2026 23:32:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/pollution-buriganga-factory-waste-280426-028-1786637865.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Bihan’ puts women’s leadership struggles on screen]]></title>
-            <description><![CDATA[[Entertainment] ‘Bihan’ puts women’s leadership struggles on screen]]></description>
-            <link>https://bdnews24.com/entertainment/19fcecb52c76</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/19fcecb52c76</guid>
-            <pubDate>Thu, 13 Aug 2026 22:29:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/bihan-puts-women-struggles-130826-01-1786638542.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s fight against sex-trafficking loses steam]]></title>
-            <description><![CDATA[[Americas] Trump’s fight against sex-trafficking loses steam]]></description>
-            <link>https://bdnews24.com/world/americas/2c301108129c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/2c301108129c</guid>
-            <pubDate>Thu, 13 Aug 2026 21:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/trump-fight-trafficking-stalls-130826-01-1786636229.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Battery rickshaws take over Dhaka roads]]></title>
-            <description><![CDATA[[Image] Battery rickshaws take over Dhaka roads]]></description>
-            <link>https://bdnews24.com/media-en/image/8989e52d33c2</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/8989e52d33c2</guid>
-            <pubDate>Thu, 13 Aug 2026 21:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/battery-auto-rickshaw-130826-25-1786624325.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[August 13, 2026]]></title>
-            <description><![CDATA[[Image] August 13, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/e7da09536b02</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/e7da09536b02</guid>
-            <pubDate>Thu, 13 Aug 2026 21:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/seven-colleges-130826-04-1786621731.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israeli strikes kill 2 in Gaza]]></title>
-            <description><![CDATA[[World] Israeli strikes kill 2 in Gaza]]></description>
-            <link>https://bdnews24.com/world/8a3dac550e5a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/8a3dac550e5a</guid>
-            <pubDate>Thu, 13 Aug 2026 21:43:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/israel-strikes-gaza-13082026-01-1786635699.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[College admission may open Sept 15]]></title>
-            <description><![CDATA[[Education] College admission may open Sept 15]]></description>
-            <link>https://bdnews24.com/education/9f4ee09c7b01</link>
-            <guid isPermaLink="true">https://bdnews24.com/education/9f4ee09c7b01</guid>
-            <pubDate>Thu, 13 Aug 2026 21:43:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ssc-result-vikarunnesa-school-100826-122-1786381903.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Is the Hasina deadlock finally shifting?]]></title>
-            <description><![CDATA[[Opinion] Is the Hasina deadlock finally shifting?]]></description>
-            <link>https://bdnews24.com/opinion/c7ee42443f77</link>
-            <guid isPermaLink="true">https://bdnews24.com/opinion/c7ee42443f77</guid>
-            <pubDate>Thu, 13 Aug 2026 21:22:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2025November/SM/sheikh-hasina-161125-202-1763368762.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japan condemns Putin’s visit to disputed island]]></title>
-            <description><![CDATA[[World] Japan condemns Putin’s visit to disputed island]]></description>
-            <link>https://bdnews24.com/world/fb55970d6d4f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/fb55970d6d4f</guid>
-            <pubDate>Thu, 13 Aug 2026 21:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/japan-putin-13082026-01-1786633958.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Istanbul to host 2027 Spanish Super Cup]]></title>
-            <description><![CDATA[[Sport] Istanbul to host 2027 Spanish Super Cup]]></description>
-            <link>https://bdnews24.com/sport/a30cc18a4698</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/a30cc18a4698</guid>
-            <pubDate>Thu, 13 Aug 2026 20:43:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/spanish-super-cup-1786632160.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Teen star Madjo stars on Villa debut vs PSG]]></title>
-            <description><![CDATA[[Sport] Teen star Madjo stars on Villa debut vs PSG]]></description>
-            <link>https://bdnews24.com/sport/3a3bf58d5882</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/3a3bf58d5882</guid>
-            <pubDate>Thu, 13 Aug 2026 20:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/brian-madjo-130826-01-1786631778.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[DU scans teachers for ‘anti-state’ activity]]></title>
-            <description><![CDATA[[Campus] DU scans teachers for ‘anti-state’ activity]]></description>
-            <link>https://bdnews24.com/campus/17d1a98c0424</link>
-            <guid isPermaLink="true">https://bdnews24.com/campus/17d1a98c0424</guid>
-            <pubDate>Thu, 13 Aug 2026 20:35:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/dhaka-university-curzon-hall-1779713287.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fakhrul presidency puts cabinet changes in focus]]></title>
-            <description><![CDATA[[Bangladesh] Fakhrul presidency puts cabinet changes in focus]]></description>
-            <link>https://bdnews24.com/bangladesh/9d27cc61383a</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9d27cc61383a</guid>
-            <pubDate>Thu, 13 Aug 2026 20:31:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026February/SM/bnp-minister-oath-170226-002-1771335320.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dengue: 2 die, 693 hospitalised]]></title>
-            <description><![CDATA[[Health] Dengue: 2 die, 693 hospitalised]]></description>
-            <link>https://bdnews24.com/health/6c3bebf3cef3</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/6c3bebf3cef3</guid>
-            <pubDate>Thu, 13 Aug 2026 20:12:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dengue-patient-suhrawardy-hospital-300822-1783507775.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
+            <link>https://bdnews24.com</link>
+            <guid isPermaLink="true">https://bdnews24.com</guid>
+            <pubDate>Fri, 14 Aug 2026 03:18:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
