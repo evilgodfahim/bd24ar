@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ]]></title>
+        <description><![CDATA[bangla.bdnews24.com আর্কাইভ থেকে সর্বশেষ সংবাদ]]></description>
         <link>https://bangla.bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 14:07:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 15:39:05 GMT</lastBuildDate>
         <atom:link href="https://bangla.bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 14:07:02 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 15:39:05 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
-            <link>https://bangla.bdnews24.com</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com</guid>
-            <pubDate>Fri, 14 Aug 2026 14:07:02 GMT</pubDate>
+            <title><![CDATA[১৫ অগাস্ট ‘অমোচনীয় কলঙ্ক হিসেবেই’ থেকে যাবে: বাংলাদেশ জাসদ]]></title>
+            <description><![CDATA[[রাজনীতি] ১৫ অগাস্ট ‘অমোচনীয় কলঙ্ক হিসেবেই’ থেকে যাবে: বাংলাদেশ জাসদ]]></description>
+            <link>https://bangla.bdnews24.com/politics/85601da03c49</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/politics/85601da03c49</guid>
+            <pubDate>Fri, 14 Aug 2026 15:39:05 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bangladesh-jashod-logo-14082026-1786721614.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘ভুয়া খবর’ ছড়ানোয় ক্ষুব্ধ ডি ইয়ং]]></title>
+            <description><![CDATA[[খেলা] ‘ভুয়া খবর’ ছড়ানোয় ক্ষুব্ধ ডি ইয়ং]]></description>
+            <link>https://bangla.bdnews24.com/sport/abdbedfa6188</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/abdbedfa6188</guid>
+            <pubDate>Fri, 14 Aug 2026 15:39:05 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/frenkie-de-jong-140826-01-1786721341.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘এই মৌসুমে আমরা শিরোপা জিতব’, আত্মবিশ্বাসী এমবাপে]]></title>
+            <description><![CDATA[[খেলা] ‘এই মৌসুমে আমরা শিরোপা জিতব’, আত্মবিশ্বাসী এমবাপে]]></description>
+            <link>https://bangla.bdnews24.com/sport/8753e656e8ec</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/8753e656e8ec</guid>
+            <pubDate>Fri, 14 Aug 2026 15:39:05 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mbappe-140826-01-1786721247.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[চলতি অর্থবছরেই স্থানীয় সরকার নির্বাচন হবে: মীর শাহ আলম]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] চলতি অর্থবছরেই স্থানীয় সরকার নির্বাচন হবে: মীর শাহ আলম]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/5331d23df7a1</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/5331d23df7a1</guid>
+            <pubDate>Fri, 14 Aug 2026 15:39:05 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/moulvibazar-minister-140826-01-1786720933.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[গ্যাস-বিদ্যুৎ দিতে না পারলে ক্ষমতায় থাকতে দেওয়া হবে না: নাহিদ]]></title>
+            <description><![CDATA[[রাজনীতি] গ্যাস-বিদ্যুৎ দিতে না পারলে ক্ষমতায় থাকতে দেওয়া হবে না: নাহিদ]]></description>
+            <link>https://bangla.bdnews24.com/politics/965e6d21def7</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/politics/965e6d21def7</guid>
+            <pubDate>Fri, 14 Aug 2026 15:39:05 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/nahid-islam-ncp-140826-1786720828.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘বিষাক্ত গ্যাসে’ ৮ মৃত্যুর বিষয়ে তদন্ত প্রতিবেদন দেখে ব্যবস্থা: অর্থমন্ত্রী]]></title>
+            <description><![CDATA[[চট্টগ্রাম] ‘বিষাক্ত গ্যাসে’ ৮ মৃত্যুর বিষয়ে তদন্ত প্রতিবেদন দেখে ব্যবস্থা: অর্থমন্ত্রী]]></description>
+            <link>https://bangla.bdnews24.com/ctg/be11a4491bfe</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/ctg/be11a4491bfe</guid>
+            <pubDate>Fri, 14 Aug 2026 15:39:05 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/chattogram-finance-minister-amir-khosru-140826-1786719742.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[৩ জেলার নদী সংলগ্ন নিম্নাঞ্চল প্লাবিত হওয়ার আভাস]]></title>
+            <description><![CDATA[[বাংলাদেশ] ৩ জেলার নদী সংলগ্ন নিম্নাঞ্চল প্লাবিত হওয়ার আভাস]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/c0ccc6a7d59a</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/c0ccc6a7d59a</guid>
+            <pubDate>Fri, 14 Aug 2026 15:39:05 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/nilphamari-teesta-water-130726-02-1783951717.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বরিশালে আওয়ামী লীগের মিছিল, গ্রেপ্তার ৭ নেতাকর্মী]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] বরিশালে আওয়ামী লীগের মিছিল, গ্রেপ্তার ৭ নেতাকর্মী]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/e3d90828691c</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/e3d90828691c</guid>
+            <pubDate>Fri, 14 Aug 2026 15:39:05 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/barishal-arrest-140826-01-1786719040.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ছাত্রদলের দুই শীর্ষ নেতার বিদায়ী পোস্ট, এল ‘মব’ মোকাবেলা ও সাংগঠনিক ব্যর্থতার কথাও]]></title>
+            <description><![CDATA[[রাজনীতি] ছাত্রদলের দুই শীর্ষ নেতার বিদায়ী পোস্ট, এল ‘মব’ মোকাবেলা ও সাংগঠনিক ব্যর্থতার কথাও]]></description>
+            <link>https://bangla.bdnews24.com/politics/8ac386051f2d</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/politics/8ac386051f2d</guid>
+            <pubDate>Fri, 14 Aug 2026 15:39:05 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025May/SM/rakib-nasir-300525-01-1748610643.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[পশ্চিম তীরে বসতিস্থাপনকারীদের সরাতে গিয়ে ফিলিস্তিনিদের বাড়ি ছাড়ার নির্দেশ ইসরায়েলের]]></title>
+            <description><![CDATA[[বিশ্ব] পশ্চিম তীরে বসতিস্থাপনকারীদের সরাতে গিয়ে ফিলিস্তিনিদের বাড়ি ছাড়ার নির্দেশ ইসরায়েলের]]></description>
+            <link>https://bangla.bdnews24.com/world/42d414326b1a</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/world/42d414326b1a</guid>
+            <pubDate>Fri, 14 Aug 2026 15:39:05 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/soldiers-140826-01-1786718315.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[উইমেন’স চ্যাম্পিয়ন্স লিগে প্রতিদ্বন্দ্বিতাপূর্ণ ফুটবল খেলার লক্ষ্য শিউলিদের]]></title>
+            <description><![CDATA[[খেলা] উইমেন’স চ্যাম্পিয়ন্স লিগে প্রতিদ্বন্দ্বিতাপূর্ণ ফুটবল খেলার লক্ষ্য শিউলিদের]]></description>
+            <link>https://bangla.bdnews24.com/sport/4ce7e58ead71</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/4ce7e58ead71</guid>
+            <pubDate>Fri, 14 Aug 2026 15:39:05 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/womens-football-140826-01-1786717774.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[অগ্রগতি হলে জানানো হবে: প্রধানমন্ত্রীর সফর নিয়ে ফের বলল দিল্লি]]></title>
+            <description><![CDATA[[বাংলাদেশ] অগ্রগতি হলে জানানো হবে: প্রধানমন্ত্রীর সফর নিয়ে ফের বলল দিল্লি]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/74a67cc96cb4</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/74a67cc96cb4</guid>
+            <pubDate>Fri, 14 Aug 2026 15:39:05 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025March/SM/randhir-jaiswal-070325-001-1741357473.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘মোহাম্মদপুরে গডফাদারদের ধরছি, খুব বেশি নিচে হাত দিচ্ছি না’]]></title>
+            <description><![CDATA[[বাংলাদেশ] ‘মোহাম্মদপুরে গডফাদারদের ধরছি, খুব বেশি নিচে হাত দিচ্ছি না’]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/d89f4f87a573</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/d89f4f87a573</guid>
+            <pubDate>Fri, 14 Aug 2026 15:39:05 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rab-officer-noimul-hasan-briefing-14082026-1786717017.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বঙ্গবন্ধুর মৃত্যুবার্ষিকী: গোপালগঞ্জে ৫ প্লাটুন বিজিবি মোতায়েন]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] বঙ্গবন্ধুর মৃত্যুবার্ষিকী: গোপালগঞ্জে ৫ প্লাটুন বিজিবি মোতায়েন]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/d970cdb2890d</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/d970cdb2890d</guid>
+            <pubDate>Fri, 14 Aug 2026 15:39:05 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/gopalganj-tungipara-140826-01-1786716852.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[রান্নাঘরে ‘পোড়া তেল ও পোকামাকড়’, মহারাষ্ট্রে ডমিনো’স ও পিৎজা হাটের আউটলেট বন্ধ]]></title>
+            <description><![CDATA[[বিশ্ব] রান্নাঘরে ‘পোড়া তেল ও পোকামাকড়’, মহারাষ্ট্রে ডমিনো’স ও পিৎজা হাটের আউটলেট বন্ধ]]></description>
+            <link>https://bangla.bdnews24.com/world/153f3dc25fda</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/world/153f3dc25fda</guid>
+            <pubDate>Fri, 14 Aug 2026 15:39:05 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/dominos-india-140826-1786713814.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[চট্টগ্রাম বন্দরের জলসীমায় ২ জাহাজের সংঘর্ষ: তেলবাহী জাহাজের ইঞ্জিন রুমে ফাটল]]></title>
+            <description><![CDATA[[চট্টগ্রাম] চট্টগ্রাম বন্দরের জলসীমায় ২ জাহাজের সংঘর্ষ: তেলবাহী জাহাজের ইঞ্জিন রুমে ফাটল]]></description>
+            <link>https://bangla.bdnews24.com/ctg/324cad48f36c</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/ctg/324cad48f36c</guid>
+            <pubDate>Fri, 14 Aug 2026 15:39:05 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/chattagram-port-clash-by-two-ships-14082026-1786710796.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ভাঙা-নড়বড়ে সাঁকোই তাদের ভরসা]]></title>
+            <description><![CDATA[[ছবি] ভাঙা-নড়বড়ে সাঁকোই তাদের ভরসা]]></description>
+            <link>https://bangla.bdnews24.com/media_bn/image/de9deda1d054</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/media_bn/image/de9deda1d054</guid>
+            <pubDate>Fri, 14 Aug 2026 15:39:05 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bamboo-bridge-kamrangirchar-140826-023-1786715389.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[নেত্রকোণায় কবরস্থান নিয়ে বিরোধে সংঘর্ষ, বহু আহত]]></title>
+            <description><![CDATA[[টিউব] নেত্রকোণায় কবরস্থান নিয়ে বিরোধে সংঘর্ষ, বহু আহত]]></description>
+            <link>https://bangla.bdnews24.com/tube/2a9f11a35611</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/2a9f11a35611</guid>
+            <pubDate>Fri, 14 Aug 2026 15:39:05 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/netrokona-clash-video-text-thumb-1786715124.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ময়মনসিংহে দোকান কর্মচারী খুন, গ্রেপ্তার যুবকের ভাষ্য ‘প্রতিশোধ’]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] ময়মনসিংহে দোকান কর্মচারী খুন, গ্রেপ্তার যুবকের ভাষ্য ‘প্রতিশোধ’]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/97e29de5d317</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/97e29de5d317</guid>
+            <pubDate>Fri, 14 Aug 2026 15:39:05 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mymensingh-arrest-140826-01-1786715113.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[১৫ অগাস্ট: ঢাকায় বাড়তি নিরাপত্তা ডিএমপির]]></title>
+            <description><![CDATA[[বাংলাদেশ] ১৫ অগাস্ট: ঢাকায় বাড়তি নিরাপত্তা ডিএমপির]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/4bb847383f56</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/4bb847383f56</guid>
+            <pubDate>Fri, 14 Aug 2026 15:39:05 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/dhanmondi-32-140826-03-1786713540.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

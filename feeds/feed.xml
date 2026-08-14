@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – Latest News]]></title>
+        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 14:07:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 15:39:04 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 14:07:02 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 15:39:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
-            <link>https://bdnews24.com</link>
-            <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Fri, 14 Aug 2026 14:07:02 GMT</pubDate>
+            <title><![CDATA[Italy recovers stolen Renoir, Cezanne, Matisse works]]></title>
+            <description><![CDATA[[Lifestyle] Italy recovers stolen Renoir, Cezanne, Matisse works]]></description>
+            <link>https://bdnews24.com/lifestyle/258d5bc80002</link>
+            <guid isPermaLink="true">https://bdnews24.com/lifestyle/258d5bc80002</guid>
+            <pubDate>Fri, 14 Aug 2026 21:17:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/italy-paintings-14082026-01-1786720530.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hungary to sink barges near nuclear plant for cooling]]></title>
+            <description><![CDATA[[World] Hungary to sink barges near nuclear plant for cooling]]></description>
+            <link>https://bdnews24.com/world/504bace73ae6</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/504bace73ae6</guid>
+            <pubDate>Fri, 14 Aug 2026 21:16:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/hungary-barges-14082026-01-1786720515.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shipbreaking yard deaths: Khosru says action after probe]]></title>
+            <description><![CDATA[[Bangladesh] Shipbreaking yard deaths: Khosru says action after probe]]></description>
+            <link>https://bdnews24.com/bangladesh/18b1512f810f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/18b1512f810f</guid>
+            <pubDate>Fri, 14 Aug 2026 21:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/summit-lng-090624-201-1786703963.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bella Ramsey stars in teen cancer drama 'Sunny Dancer']]></title>
+            <description><![CDATA[[Entertainment] Bella Ramsey stars in teen cancer drama 'Sunny Dancer']]></description>
+            <link>https://bdnews24.com/entertainment/9bf005309cb0</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/9bf005309cb0</guid>
+            <pubDate>Fri, 14 Aug 2026 20:54:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ramsey-movie-14082026-01-1786719123.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israeli settlers divert Palestinian water to fill pool]]></title>
+            <description><![CDATA[[World] Israeli settlers divert Palestinian water to fill pool]]></description>
+            <link>https://bdnews24.com/world/891967ace66c</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/891967ace66c</guid>
+            <pubDate>Fri, 14 Aug 2026 20:37:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/settlers-pool-14082026-01-1786718116.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Will inform you on progress: Delhi on Tarique visit]]></title>
+            <description><![CDATA[[Bangladesh] Will inform you on progress: Delhi on Tarique visit]]></description>
+            <link>https://bdnews24.com/bangladesh/876a4f663f72</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/876a4f663f72</guid>
+            <pubDate>Fri, 14 Aug 2026 20:27:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/randhir-jaiswal-120526-1778606947.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK wildfires hit record levels]]></title>
+            <description><![CDATA[[Environment] UK wildfires hit record levels]]></description>
+            <link>https://bdnews24.com/environment/0790468f4804</link>
+            <guid isPermaLink="true">https://bdnews24.com/environment/0790468f4804</guid>
+            <pubDate>Fri, 14 Aug 2026 19:59:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/uk-wildfire-14082026-01-1786715889.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US wants Israel to condemn settler siege on Palestine village]]></title>
+            <description><![CDATA[[West Asia] US wants Israel to condemn settler siege on Palestine village]]></description>
+            <link>https://bdnews24.com/world/middle-east/a9506fff87e4</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/a9506fff87e4</guid>
+            <pubDate>Fri, 14 Aug 2026 19:49:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/israel-palestine-settler-village-140826-01-1786715313.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India shuts some Domino’s, Pizza Hut outlets]]></title>
+            <description><![CDATA[[Neighbours] India shuts some Domino’s, Pizza Hut outlets]]></description>
+            <link>https://bdnews24.com/neighbours/b4c6a58f8045</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/b4c6a58f8045</guid>
+            <pubDate>Fri, 14 Aug 2026 19:24:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/dominos-india-140826-1786713814.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[DMP tightens security around Aug 15]]></title>
+            <description><![CDATA[[Bangladesh] DMP tightens security around Aug 15]]></description>
+            <link>https://bdnews24.com/bangladesh/acb3bc4dda62</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/acb3bc4dda62</guid>
+            <pubDate>Fri, 14 Aug 2026 19:20:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025November/SM/police-security-dhaka-121125-006-1762954486.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indonesia to allow ‘limited dual’ citizenship]]></title>
+            <description><![CDATA[[Asia Pacific] Indonesia to allow ‘limited dual’ citizenship]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/852a6dc4b588</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/852a6dc4b588</guid>
+            <pubDate>Fri, 14 Aug 2026 18:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/indonesia-president-140826-1786711892.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Land depression weakening, cautionary signal at seaports]]></title>
+            <description><![CDATA[[Bangladesh] Land depression weakening, cautionary signal at seaports]]></description>
+            <link>https://bdnews24.com/bangladesh/3d46f10ae835</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3d46f10ae835</guid>
+            <pubDate>Fri, 14 Aug 2026 18:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/barguna-trawler-sinking-080726-01-1783512236.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US warns Iran it will step up economic pressure]]></title>
+            <description><![CDATA[[West Asia] US warns Iran it will step up economic pressure]]></description>
+            <link>https://bdnews24.com/world/middle-east/a588e3482316</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/a588e3482316</guid>
+            <pubDate>Fri, 14 Aug 2026 18:29:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-iran-pressure-140826-01-1786710467.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Delhi court, airport get bomb threat]]></title>
+            <description><![CDATA[[Neighbours] Delhi court, airport get bomb threat]]></description>
+            <link>https://bdnews24.com/neighbours/515bce651d7e</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/515bce651d7e</guid>
+            <pubDate>Fri, 14 Aug 2026 18:19:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/delhi-airport-140826-01-1786707503.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[650,000 South Sudan refugees could lose food aid: UN]]></title>
+            <description><![CDATA[[Africa] 650,000 South Sudan refugees could lose food aid: UN]]></description>
+            <link>https://bdnews24.com/world/africa/9b7ecbc3e712</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/africa/9b7ecbc3e712</guid>
+            <pubDate>Fri, 14 Aug 2026 18:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/sudan-crisis-140726-01-1784046484.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bullets found in Ashiyan boss's bag in Delhi]]></title>
+            <description><![CDATA[[Bangladesh] Bullets found in Ashiyan boss's bag in Delhi]]></description>
+            <link>https://bdnews24.com/bangladesh/c7c55d68bfd0</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c7c55d68bfd0</guid>
+            <pubDate>Fri, 14 Aug 2026 18:01:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/shahjalal-airport-190726-02-1784475536.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Barapukuria Thermal Power Plant unit halts production]]></title>
+            <description><![CDATA[[Bangladesh] Barapukuria Thermal Power Plant unit halts production]]></description>
+            <link>https://bdnews24.com/bangladesh/3626d1d1b653</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3626d1d1b653</guid>
+            <pubDate>Fri, 14 Aug 2026 17:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024September/SM/barapukuria-powerplant-100924-1725950627.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Anything can happen’ over Rodri future: Maresca]]></title>
+            <description><![CDATA[[Sport] ‘Anything can happen’ over Rodri future: Maresca]]></description>
+            <link>https://bdnews24.com/sport/9d24f6d8265e</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/9d24f6d8265e</guid>
+            <pubDate>Fri, 14 Aug 2026 17:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/rodri-140826-1786707612.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US vows more Iran pressure as 2 ships hit in Hormuz]]></title>
+            <description><![CDATA[[West Asia] US vows more Iran pressure as 2 ships hit in Hormuz]]></description>
+            <link>https://bdnews24.com/world/middle-east/699b41026405</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/699b41026405</guid>
+            <pubDate>Fri, 14 Aug 2026 17:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/hormuz-140826-1786707052.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine civilian deaths up in July: UN]]></title>
+            <description><![CDATA[[Europe] Ukraine civilian deaths up in July: UN]]></description>
+            <link>https://bdnews24.com/world/europe/2f84b74d25a0</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/2f84b74d25a0</guid>
+            <pubDate>Fri, 14 Aug 2026 17:13:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ukraine-missile-attack-140826-1786705925.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
