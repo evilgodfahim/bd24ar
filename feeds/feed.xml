@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 15:39:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 16:37:38 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 15:39:04 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 16:37:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Dallas airport to add Islamic ablution stations]]></title>
+            <description><![CDATA[[Americas] Dallas airport to add Islamic ablution stations]]></description>
+            <link>https://bdnews24.com/world/americas/6e03a5fe2031</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/6e03a5fe2031</guid>
+            <pubDate>Fri, 14 Aug 2026 22:10:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/dallas-texas-airport-140826-01-1786723784.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flooding risk in low-lying parts of 3 districts]]></title>
+            <description><![CDATA[[Bangladesh] Flooding risk in low-lying parts of 3 districts]]></description>
+            <link>https://bdnews24.com/bangladesh/47c3a2d7b7d0</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/47c3a2d7b7d0</guid>
+            <pubDate>Fri, 14 Aug 2026 22:03:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/nilphamari-teesta-water-130726-02-1783951717.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Italy recovers stolen Renoir, Cezanne, Matisse works]]></title>
             <description><![CDATA[[Lifestyle] Italy recovers stolen Renoir, Cezanne, Matisse works]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/9d24f6d8265e</guid>
             <pubDate>Fri, 14 Aug 2026 17:41:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/rodri-140826-1786707612.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US vows more Iran pressure as 2 ships hit in Hormuz]]></title>
-            <description><![CDATA[[West Asia] US vows more Iran pressure as 2 ships hit in Hormuz]]></description>
-            <link>https://bdnews24.com/world/middle-east/699b41026405</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/699b41026405</guid>
-            <pubDate>Fri, 14 Aug 2026 17:31:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/hormuz-140826-1786707052.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine civilian deaths up in July: UN]]></title>
-            <description><![CDATA[[Europe] Ukraine civilian deaths up in July: UN]]></description>
-            <link>https://bdnews24.com/world/europe/2f84b74d25a0</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/2f84b74d25a0</guid>
-            <pubDate>Fri, 14 Aug 2026 17:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ukraine-missile-attack-140826-1786705925.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
