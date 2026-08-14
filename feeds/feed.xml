@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 17:42:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 18:37:15 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 17:42:13 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 18:37:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[France blocks social media ban for under-15s]]></title>
+            <description><![CDATA[[Technology] France blocks social media ban for under-15s]]></description>
+            <link>https://bdnews24.com/technology/0c3e6b219dde</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/0c3e6b219dde</guid>
+            <pubDate>Sat, 15 Aug 2026 00:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/france-social-media-15082026-01-1786732252.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arsenal target Community Shield eyeing strong start]]></title>
+            <description><![CDATA[[Sport] Arsenal target Community Shield eyeing strong start]]></description>
+            <link>https://bdnews24.com/sport/88e83c375226</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/88e83c375226</guid>
+            <pubDate>Sat, 15 Aug 2026 00:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/arsenal-community-shield-15082026-01-1786731081.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Taybeh’s Christians face growing settler attacks]]></title>
             <description><![CDATA[[West Asia] Taybeh’s Christians face growing settler attacks]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/852a6dc4b588</guid>
             <pubDate>Fri, 14 Aug 2026 18:47:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/indonesia-president-140826-1786711892.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Land depression weakening, cautionary signal at seaports]]></title>
-            <description><![CDATA[[Bangladesh] Land depression weakening, cautionary signal at seaports]]></description>
-            <link>https://bdnews24.com/bangladesh/3d46f10ae835</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3d46f10ae835</guid>
-            <pubDate>Fri, 14 Aug 2026 18:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/barguna-trawler-sinking-080726-01-1783512236.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US warns Iran it will step up economic pressure]]></title>
-            <description><![CDATA[[West Asia] US warns Iran it will step up economic pressure]]></description>
-            <link>https://bdnews24.com/world/middle-east/a588e3482316</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/a588e3482316</guid>
-            <pubDate>Fri, 14 Aug 2026 18:29:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-iran-pressure-140826-01-1786710467.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
