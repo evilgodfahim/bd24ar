@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – Latest News]]></title>
+        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 03:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 05:22:09 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 03:18:24 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 05:22:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
-            <link>https://bdnews24.com</link>
-            <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Fri, 14 Aug 2026 03:18:24 GMT</pubDate>
+            <title><![CDATA[Kidnapped US missionary released in Niger: NYT]]></title>
+            <description><![CDATA[[Americas] Kidnapped US missionary released in Niger: NYT]]></description>
+            <link>https://bdnews24.com/world/americas/d96509be1365</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/d96509be1365</guid>
+            <pubDate>Fri, 14 Aug 2026 11:20:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/kevin-rideout-140826-1786684773.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[7 killed, 3 trapped in north India tunnel]]></title>
+            <description><![CDATA[[Neighbours] 7 killed, 3 trapped in north India tunnel]]></description>
+            <link>https://bdnews24.com/neighbours/646046554d14</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/646046554d14</guid>
+            <pubDate>Fri, 14 Aug 2026 11:10:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/chamoli-tunnel-14082026-1786680633.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US says it can keep naval blockade on Iran 'indefinitely’]]></title>
+            <description><![CDATA[[Americas] US says it can keep naval blockade on Iran 'indefinitely’]]></description>
+            <link>https://bdnews24.com/world/americas/b96df28027ba</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/b96df28027ba</guid>
+            <pubDate>Fri, 14 Aug 2026 10:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/iran-us-blockade-140826-01-1786682379.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand pulls back support for Infantino]]></title>
+            <description><![CDATA[[Sport] New Zealand pulls back support for Infantino]]></description>
+            <link>https://bdnews24.com/sport/a831cfb77f00</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/a831cfb77f00</guid>
+            <pubDate>Fri, 14 Aug 2026 10:05:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/infantino-140826-1786680248.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US couldn't verify Israeli warnings on ‘Iran plots’]]></title>
+            <description><![CDATA[[Americas] US couldn't verify Israeli warnings on ‘Iran plots’]]></description>
+            <link>https://bdnews24.com/world/americas/0cd44a728f7b</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/0cd44a728f7b</guid>
+            <pubDate>Fri, 14 Aug 2026 09:49:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/trump-140826-1786679293.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kennedy Center board votes to inscribe Trump's name on building]]></title>
+            <description><![CDATA[[Americas] Kennedy Center board votes to inscribe Trump's name on building]]></description>
+            <link>https://bdnews24.com/world/americas/402b52fc835a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/402b52fc835a</guid>
+            <pubDate>Fri, 14 Aug 2026 09:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/kennedy-centre-140826-01-1786679088.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tanzid hits maiden Test century vs Australia]]></title>
+            <description><![CDATA[[Cricket] Tanzid hits maiden Test century vs Australia]]></description>
+            <link>https://bdnews24.com/cricket/775d684d9b5b</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/775d684d9b5b</guid>
+            <pubDate>Fri, 14 Aug 2026 09:34:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tanzid-hasan-140826-01-1786666487.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kushner may visit Israel for Gaza talks]]></title>
+            <description><![CDATA[[West Asia] Kushner may visit Israel for Gaza talks]]></description>
+            <link>https://bdnews24.com/world/middle-east/47853f61cbbc</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/47853f61cbbc</guid>
+            <pubDate>Fri, 14 Aug 2026 09:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/jared-kushner-140826-1786678268.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[4 dead as rain strands thousands at Japan airport]]></title>
+            <description><![CDATA[[Asia Pacific] 4 dead as rain strands thousands at Japan airport]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/f5baa4727957</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/f5baa4727957</guid>
+            <pubDate>Fri, 14 Aug 2026 09:09:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/japan-rain-140626-1786676887.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump will impose tariffs on drone imports: White House]]></title>
+            <description><![CDATA[[Business] Trump will impose tariffs on drone imports: White House]]></description>
+            <link>https://bdnews24.com/business/b9d96104ecc1</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/b9d96104ecc1</guid>
+            <pubDate>Fri, 14 Aug 2026 09:06:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/shipping-containers-long-beach-port-140826-01-1786676796.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PSG agree Torres deal in principle: BBC]]></title>
+            <description><![CDATA[[Sport] PSG agree Torres deal in principle: BBC]]></description>
+            <link>https://bdnews24.com/sport/2ae4e8341c9c</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/2ae4e8341c9c</guid>
+            <pubDate>Fri, 14 Aug 2026 09:03:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ferran-torres-140826-1786676530.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dollar dips in banks, stays pricey outside]]></title>
+            <description><![CDATA[[Economy] Dollar dips in banks, stays pricey outside]]></description>
+            <link>https://bdnews24.com/economy/65d5ba41c570</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/65d5ba41c570</guid>
+            <pubDate>Fri, 14 Aug 2026 01:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024December/SM/us-dollar-160322-01-1734577041.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-Pakistan minister declares allegiance to LeT founder]]></title>
+            <description><![CDATA[[World] Ex-Pakistan minister declares allegiance to LeT founder]]></description>
+            <link>https://bdnews24.com/world/08ec678600df</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/08ec678600df</guid>
+            <pubDate>Fri, 14 Aug 2026 01:42:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/pakistani-minister-1786650063.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yamaha riders clean Cox’s Bazar beach]]></title>
+            <description><![CDATA[[Environment] Yamaha riders clean Cox’s Bazar beach]]></description>
+            <link>https://bdnews24.com/environment/53853cb2b113</link>
+            <guid isPermaLink="true">https://bdnews24.com/environment/53853cb2b113</guid>
+            <pubDate>Fri, 14 Aug 2026 00:33:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/yrc-photo-1786645937.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[FBI hunts Bangladeshi doctor for ‘rape’]]></title>
+            <description><![CDATA[[Bangladesh] FBI hunts Bangladeshi doctor for ‘rape’]]></description>
+            <link>https://bdnews24.com/bangladesh/96a81f96abc9</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/96a81f96abc9</guid>
+            <pubDate>Fri, 14 Aug 2026 00:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bangladeshi-doctor-jahidul-islam-13082026-1786644041.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[UN warns of AQIS network-building in Bangladesh]]></title>
+            <description><![CDATA[[Bangladesh] UN warns of AQIS network-building in Bangladesh]]></description>
+            <link>https://bdnews24.com/bangladesh/6f15eb1810f4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6f15eb1810f4</guid>
+            <pubDate>Fri, 14 Aug 2026 00:26:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/united-nations-070726-01-1783437791.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Former Nepal PM Deuba returns home: report]]></title>
+            <description><![CDATA[[South Asia] Former Nepal PM Deuba returns home: report]]></description>
+            <link>https://bdnews24.com/world/south-asia/bb49f9b5bd14</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/south-asia/bb49f9b5bd14</guid>
+            <pubDate>Thu, 13 Aug 2026 23:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/sher-bahadur-deuba-130826-01-1786637123.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka’s rivers are choking on pollution]]></title>
+            <description><![CDATA[[Environment] Dhaka’s rivers are choking on pollution]]></description>
+            <link>https://bdnews24.com/environment/9705e9e533ed</link>
+            <guid isPermaLink="true">https://bdnews24.com/environment/9705e9e533ed</guid>
+            <pubDate>Thu, 13 Aug 2026 23:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/pollution-buriganga-factory-waste-280426-028-1786637865.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Bihan’ puts women’s leadership struggles on screen]]></title>
+            <description><![CDATA[[Entertainment] ‘Bihan’ puts women’s leadership struggles on screen]]></description>
+            <link>https://bdnews24.com/entertainment/19fcecb52c76</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/19fcecb52c76</guid>
+            <pubDate>Thu, 13 Aug 2026 22:29:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/bihan-puts-women-struggles-130826-01-1786638542.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s fight against sex-trafficking loses steam]]></title>
+            <description><![CDATA[[Americas] Trump’s fight against sex-trafficking loses steam]]></description>
+            <link>https://bdnews24.com/world/americas/2c301108129c</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/2c301108129c</guid>
+            <pubDate>Thu, 13 Aug 2026 21:51:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/trump-fight-trafficking-stalls-130826-01-1786636229.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
