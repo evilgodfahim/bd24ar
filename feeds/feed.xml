@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 10:45:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 11:34:39 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 10:45:09 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 11:34:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US vows more Iran pressure as 2 ships hit in Hormuz]]></title>
+            <description><![CDATA[[West Asia] US vows more Iran pressure as 2 ships hit in Hormuz]]></description>
+            <link>https://bdnews24.com/world/middle-east/699b41026405</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/699b41026405</guid>
+            <pubDate>Fri, 14 Aug 2026 17:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/hormuz-140826-1786707052.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine civilian deaths up in July: UN]]></title>
+            <description><![CDATA[[Europe] Ukraine civilian deaths up in July: UN]]></description>
+            <link>https://bdnews24.com/world/europe/2f84b74d25a0</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/2f84b74d25a0</guid>
+            <pubDate>Fri, 14 Aug 2026 17:13:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ukraine-missile-attack-140826-1786705925.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Saudi-led maritime coalition moves to activate multinational command]]></title>
+            <description><![CDATA[[World] Saudi-led maritime coalition moves to activate multinational command]]></description>
+            <link>https://bdnews24.com/world/e99ae0c86e76</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e99ae0c86e76</guid>
+            <pubDate>Fri, 14 Aug 2026 17:03:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/saudi-led-maritime-defense-coalition-140826-01-1786703318.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[2 ships collide at Ctg Port]]></title>
             <description><![CDATA[[Bangladesh] 2 ships collide at Ctg Port]]></description>
@@ -94,7 +118,7 @@
             <link>https://bdnews24.com/bangladesh/364aa5fb3232</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/364aa5fb3232</guid>
             <pubDate>Fri, 14 Aug 2026 12:44:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ferdous-shipyard-140826-1786688393.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/summit-lng-090624-201-1786703963.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Trump sued over Truth Social paid access]]></title>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/neighbours/646046554d14</guid>
             <pubDate>Fri, 14 Aug 2026 11:10:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/chamoli-tunnel-14082026-1786680633.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US says it can keep naval blockade on Iran 'indefinitely’]]></title>
-            <description><![CDATA[[Americas] US says it can keep naval blockade on Iran 'indefinitely’]]></description>
-            <link>https://bdnews24.com/world/americas/b96df28027ba</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/b96df28027ba</guid>
-            <pubDate>Fri, 14 Aug 2026 10:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/iran-us-blockade-140826-01-1786682379.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand pulls back support for Infantino]]></title>
-            <description><![CDATA[[Sport] New Zealand pulls back support for Infantino]]></description>
-            <link>https://bdnews24.com/sport/a831cfb77f00</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/a831cfb77f00</guid>
-            <pubDate>Fri, 14 Aug 2026 10:05:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/infantino-140826-1786680248.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US couldn't verify Israeli warnings on ‘Iran plots’]]></title>
-            <description><![CDATA[[Americas] US couldn't verify Israeli warnings on ‘Iran plots’]]></description>
-            <link>https://bdnews24.com/world/americas/0cd44a728f7b</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/0cd44a728f7b</guid>
-            <pubDate>Fri, 14 Aug 2026 09:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/trump-140826-1786679293.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
