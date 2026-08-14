@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 09:48:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 10:45:09 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 09:48:55 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 10:45:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[2 ships collide at Ctg Port]]></title>
+            <description><![CDATA[[Bangladesh] 2 ships collide at Ctg Port]]></description>
+            <link>https://bdnews24.com/bangladesh/7f81e15029fd</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7f81e15029fd</guid>
+            <pubDate>Fri, 14 Aug 2026 16:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ctg-port-authority-140826-1786702362.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[4 more die of ‘measles’ in a day]]></title>
+            <description><![CDATA[[Health] 4 more die of ‘measles’ in a day]]></description>
+            <link>https://bdnews24.com/health/f17fe3838b6f</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/f17fe3838b6f</guid>
+            <pubDate>Fri, 14 Aug 2026 16:09:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/measles-patient-dncc-hospital-120526-028-1778590985.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[In South Korea, some savour last season of legal dog meat]]></title>
+            <description><![CDATA[[Asia Pacific] In South Korea, some savour last season of legal dog meat]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/cbe10c135a1e</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/cbe10c135a1e</guid>
+            <pubDate>Fri, 14 Aug 2026 15:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/skorea-dog-meat-140826-01-1786701328.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Army chief returns after UN mission tour]]></title>
             <description><![CDATA[[Bangladesh] Army chief returns after UN mission tour]]></description>
@@ -65,8 +89,8 @@
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024July/SM/home-ministry-280724-01-1722176533.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[6 workers die in Ctg shipyard 'gas leak']]></title>
-            <description><![CDATA[[Bangladesh] 6 workers die in Ctg shipyard 'gas leak']]></description>
+            <title><![CDATA[Ctg shipyard ‘gas leak’ death toll rises to 8]]></title>
+            <description><![CDATA[[Bangladesh] Ctg shipyard ‘gas leak’ death toll rises to 8]]></description>
             <link>https://bdnews24.com/bangladesh/364aa5fb3232</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/364aa5fb3232</guid>
             <pubDate>Fri, 14 Aug 2026 12:44:00 GMT</pubDate>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/americas/0cd44a728f7b</guid>
             <pubDate>Fri, 14 Aug 2026 09:49:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/trump-140826-1786679293.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kennedy Center board votes to inscribe Trump's name on building]]></title>
-            <description><![CDATA[[Americas] Kennedy Center board votes to inscribe Trump's name on building]]></description>
-            <link>https://bdnews24.com/world/americas/402b52fc835a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/402b52fc835a</guid>
-            <pubDate>Fri, 14 Aug 2026 09:45:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/kennedy-centre-140826-01-1786679088.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tanzid, Shanto put Bangladesh in command]]></title>
-            <description><![CDATA[[Cricket] Tanzid, Shanto put Bangladesh in command]]></description>
-            <link>https://bdnews24.com/cricket/775d684d9b5b</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/775d684d9b5b</guid>
-            <pubDate>Fri, 14 Aug 2026 09:34:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tanzid-hasan-140826-01-1786666487.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kushner may visit Israel for Gaza talks]]></title>
-            <description><![CDATA[[West Asia] Kushner may visit Israel for Gaza talks]]></description>
-            <link>https://bdnews24.com/world/middle-east/47853f61cbbc</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/47853f61cbbc</guid>
-            <pubDate>Fri, 14 Aug 2026 09:32:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/jared-kushner-140826-1786678268.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
