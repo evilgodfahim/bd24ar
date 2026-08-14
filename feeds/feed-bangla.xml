@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ]]></title>
-        <description><![CDATA[bangla.bdnews24.com আর্কাইভ থেকে সর্বশেষ সংবাদ]]></description>
+        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bangla.bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 12:34:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 14:07:02 GMT</lastBuildDate>
         <atom:link href="https://bangla.bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 12:34:31 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 14:07:02 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[দুর্বল হচ্ছে স্থল নিম্নচাপ, বন্দরে ৩ নম্বর সংকেত বহাল]]></title>
-            <description><![CDATA[[বাংলাদেশ] দুর্বল হচ্ছে স্থল নিম্নচাপ, বন্দরে ৩ নম্বর সংকেত বহাল]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/5efd1a898397</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/5efd1a898397</guid>
-            <pubDate>Fri, 14 Aug 2026 12:34:31 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/barguna-trawler-sinking-080726-01-1783512236.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[লোডশেডিং: গোপালগঞ্জ বিসিক শিল্পনগরীতে উৎপাদন নেমেছে অর্ধেকে]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] লোডশেডিং: গোপালগঞ্জ বিসিক শিল্পনগরীতে উৎপাদন নেমেছে অর্ধেকে]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/324efe7a42f5</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/324efe7a42f5</guid>
-            <pubDate>Fri, 14 Aug 2026 12:34:31 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/gopalganj-bisic-140826-01-1786710220.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[লাশ দাহ করতে যাচ্ছিলেন স্বজনরা, পথে সাপ দেখে শুরু হলো ‘ঝাড়ফুঁক’]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] লাশ দাহ করতে যাচ্ছিলেন স্বজনরা, পথে সাপ দেখে শুরু হলো ‘ঝাড়ফুঁক’]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/8dfc616915f4</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/8dfc616915f4</guid>
-            <pubDate>Fri, 14 Aug 2026 12:34:31 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/nilphamari-snakebite-140826-01-1786709870.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[রিবাকিনাকে হারিয়ে মৌসুমে প্রথম শিরোপা জয় শিয়াওতেকের]]></title>
-            <description><![CDATA[[খেলা] রিবাকিনাকে হারিয়ে মৌসুমে প্রথম শিরোপা জয় শিয়াওতেকের]]></description>
-            <link>https://bangla.bdnews24.com/sport/d715c955a7b9</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/d715c955a7b9</guid>
-            <pubDate>Fri, 14 Aug 2026 12:34:31 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/iga-swiatek-14086-01-1786709732.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ডারউইন টেস্ট:  বাংলাদেশের আরেকটি দাপুটে দিনে দেড়শ ছাড়াল লিড]]></title>
-            <description><![CDATA[[টিউব] ডারউইন টেস্ট:  বাংলাদেশের আরেকটি দাপুটে দিনে দেড়শ ছাড়াল লিড]]></description>
-            <link>https://bangla.bdnews24.com/tube/a863274a0192</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/a863274a0192</guid>
-            <pubDate>Fri, 14 Aug 2026 12:34:31 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/darwin-test-2-video-text-thumb-1786709334.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[পারভেজের আবার পাঁচ, আহরার-দেবাশিসের ফিফটি]]></title>
-            <description><![CDATA[[ক্রিকেট] পারভেজের আবার পাঁচ, আহরার-দেবাশিসের ফিফটি]]></description>
-            <link>https://bangla.bdnews24.com/cricket/73e5919f3972</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/cricket/73e5919f3972</guid>
-            <pubDate>Fri, 14 Aug 2026 12:34:31 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/parvej-jibon-bangladesh-140826-01-1786708849.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[বসুন্ধরা থেকে গ্রেপ্তার আওয়ামী লীগের ৫২ নেতাকর্মী কারাগারে]]></title>
-            <description><![CDATA[[বাংলাদেশ] বসুন্ধরা থেকে গ্রেপ্তার আওয়ামী লীগের ৫২ নেতাকর্মী কারাগারে]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/c845b0ed69b5</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/c845b0ed69b5</guid>
-            <pubDate>Fri, 14 Aug 2026 12:34:31 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/al-arrest-130826-1786643394.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[সুরিয়াভানশিকে থামানোর ‘মন্ত্র’ শেখালেন হারভাজান]]></title>
-            <description><![CDATA[[ক্রিকেট] সুরিয়াভানশিকে থামানোর ‘মন্ত্র’ শেখালেন হারভাজান]]></description>
-            <link>https://bangla.bdnews24.com/cricket/b5e5791f44c3</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/cricket/b5e5791f44c3</guid>
-            <pubDate>Fri, 14 Aug 2026 12:34:31 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/vaibhav-sooryavanshi-india-050726-1783243819.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[শেরপুরে নারীসহ আটক পাসপোর্ট কর্মকর্তার বিরুদ্ধে তদন্ত]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] শেরপুরে নারীসহ আটক পাসপোর্ট কর্মকর্তার বিরুদ্ধে তদন্ত]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/7b495a8c5594</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/7b495a8c5594</guid>
-            <pubDate>Fri, 14 Aug 2026 12:34:31 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/sherpur-passport-officer-140826-01-1786707604.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[দিল্লিতে হাই কোর্ট ও বিমানবন্দরসহ বিভিন্ন স্থানে বোমা হামলার হুমকি]]></title>
-            <description><![CDATA[[বিশ্ব] দিল্লিতে হাই কোর্ট ও বিমানবন্দরসহ বিভিন্ন স্থানে বোমা হামলার হুমকি]]></description>
-            <link>https://bangla.bdnews24.com/world/328fc5bc38a6</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/world/328fc5bc38a6</guid>
-            <pubDate>Fri, 14 Aug 2026 12:34:31 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/delhi-airport-140826-01-1786707503.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[বড়পুকুরিয়া তাপবিদ্যুৎ কেন্দ্রের একটি ইউনিটের উৎপাদন আবার বন্ধ]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] বড়পুকুরিয়া তাপবিদ্যুৎ কেন্দ্রের একটি ইউনিটের উৎপাদন আবার বন্ধ]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/6d316e25d607</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/6d316e25d607</guid>
-            <pubDate>Fri, 14 Aug 2026 12:34:31 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024September/SM/barapukuria-powerplant-100924-1725950627.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ঢাকা থেকে দিল্লি যাওয়ার পর আশিয়ানের নজরুলের ব্যাগে মিলল ৩১ রাউন্ড গুলি]]></title>
-            <description><![CDATA[[বাংলাদেশ] ঢাকা থেকে দিল্লি যাওয়ার পর আশিয়ানের নজরুলের ব্যাগে মিলল ৩১ রাউন্ড গুলি]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/800a3c757e59</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/800a3c757e59</guid>
-            <pubDate>Fri, 14 Aug 2026 12:34:31 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/shahjalal-airport-190726-02-1784475536.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[যশোরে পুকুরে গোসল করতে নেমে দুই বোনসহ ৩ শিশুর মৃত্যু]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] যশোরে পুকুরে গোসল করতে নেমে দুই বোনসহ ৩ শিশুর মৃত্যু]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/a10c0b21dbe1</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/a10c0b21dbe1</guid>
-            <pubDate>Fri, 14 Aug 2026 12:34:31 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/jashore-3-death-child-140826-01-1786706711.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ডিপমাইন্ড থেকে সাইন-ল্যাঙ্গুয়েজ অনুবাদ করবে পিক্সেল ফোন]]></title>
-            <description><![CDATA[[টেক] ডিপমাইন্ড থেকে সাইন-ল্যাঙ্গুয়েজ অনুবাদ করবে পিক্সেল ফোন]]></description>
-            <link>https://bangla.bdnews24.com/tech/1a004bfb348f</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/tech/1a004bfb348f</guid>
-            <pubDate>Fri, 14 Aug 2026 12:34:31 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/deepmind-google-130826-01-1786705957.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[নরসিংদীতে ট্রেনের ছাদ থেকে নামার সময় ২ বগির মাঝে পড়ে যুবক নিহত]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] নরসিংদীতে ট্রেনের ছাদ থেকে নামার সময় ২ বগির মাঝে পড়ে যুবক নিহত]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/06c103fe210e</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/06c103fe210e</guid>
-            <pubDate>Fri, 14 Aug 2026 12:34:31 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/norsingdee-death-140826-01-1786705212.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[সমানে কাজ খুঁজেছেন জয়জিৎ, পরে জানলেন ‘নিষিদ্ধ ছিলেন’]]></title>
-            <description><![CDATA[[গ্লিটজ] সমানে কাজ খুঁজেছেন জয়জিৎ, পরে জানলেন ‘নিষিদ্ধ ছিলেন’]]></description>
-            <link>https://bangla.bdnews24.com/glitz/5d130bf15c64</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/glitz/5d130bf15c64</guid>
-            <pubDate>Fri, 14 Aug 2026 12:34:31 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/joyjeet-banarjee-100726-01-1786704634.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[অস্ট্রেলিয়ার ‘বুড়ো’ দলের সমালোচনা করে পুনর্গঠনের ডাক পন্টিংয়ের]]></title>
-            <description><![CDATA[[ক্রিকেট] অস্ট্রেলিয়ার ‘বুড়ো’ দলের সমালোচনা করে পুনর্গঠনের ডাক পন্টিংয়ের]]></description>
-            <link>https://bangla.bdnews24.com/cricket/1987c7c536ed</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/cricket/1987c7c536ed</guid>
-            <pubDate>Fri, 14 Aug 2026 12:34:31 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ponting-140826-01-1786703791.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[সৌদি নেতৃত্বাধীন নতুন মেরিটাইম জোটের বহুজাতিক কমান্ড কাঠামো চালুর প্রস্তুতি]]></title>
-            <description><![CDATA[[বিশ্ব] সৌদি নেতৃত্বাধীন নতুন মেরিটাইম জোটের বহুজাতিক কমান্ড কাঠামো চালুর প্রস্তুতি]]></description>
-            <link>https://bangla.bdnews24.com/world/3b3cd7e1619d</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/world/3b3cd7e1619d</guid>
-            <pubDate>Fri, 14 Aug 2026 12:34:31 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/saudi-led-maritime-defense-coalition-140826-01-1786703318.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[জাতিসংঘ শান্তিরক্ষা মিশন সফর শেষে দেশে ফিরেছেন সেনাপ্রধান]]></title>
-            <description><![CDATA[[বাংলাদেশ] জাতিসংঘ শান্তিরক্ষা মিশন সফর শেষে দেশে ফিরেছেন সেনাপ্রধান]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/6c97e9ecc9ae</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/6c97e9ecc9ae</guid>
-            <pubDate>Fri, 14 Aug 2026 12:34:31 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/wakar-uz-zaman-140826-01-1786703196.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ঢাকার প্রতি ‘ভালোবাসা জাগাতে’ ডিএসসিসির সাইকেল শোভাযাত্রা]]></title>
-            <description><![CDATA[[বাংলাদেশ] ঢাকার প্রতি ‘ভালোবাসা জাগাতে’ ডিএসসিসির সাইকেল শোভাযাত্রা]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/6178894b720b</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/6178894b720b</guid>
-            <pubDate>Fri, 14 Aug 2026 12:34:31 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/dhaka-heritage-cycle-rally-140826-01-1786702808.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
+            <link>https://bangla.bdnews24.com</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com</guid>
+            <pubDate>Fri, 14 Aug 2026 14:07:02 GMT</pubDate>
         </item>
     </channel>
 </rss>

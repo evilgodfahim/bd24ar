@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News]]></title>
-        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
+        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 12:34:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 14:07:02 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 12:34:29 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 14:07:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[US warns Iran it will step up economic pressure]]></title>
-            <description><![CDATA[[West Asia] US warns Iran it will step up economic pressure]]></description>
-            <link>https://bdnews24.com/world/middle-east/a588e3482316</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/a588e3482316</guid>
-            <pubDate>Fri, 14 Aug 2026 18:29:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-iran-pressure-140826-01-1786710467.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Delhi court, airport get bomb threat]]></title>
-            <description><![CDATA[[Neighbours] Delhi court, airport get bomb threat]]></description>
-            <link>https://bdnews24.com/neighbours/515bce651d7e</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/515bce651d7e</guid>
-            <pubDate>Fri, 14 Aug 2026 18:19:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/delhi-airport-140826-01-1786707503.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[650,000 South Sudan refugees could lose food aid: UN]]></title>
-            <description><![CDATA[[Africa] 650,000 South Sudan refugees could lose food aid: UN]]></description>
-            <link>https://bdnews24.com/world/africa/9b7ecbc3e712</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/africa/9b7ecbc3e712</guid>
-            <pubDate>Fri, 14 Aug 2026 18:12:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/sudan-crisis-140726-01-1784046484.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bullets found in Ashiyan boss's bag in Delhi]]></title>
-            <description><![CDATA[[Bangladesh] Bullets found in Ashiyan boss's bag in Delhi]]></description>
-            <link>https://bdnews24.com/bangladesh/c7c55d68bfd0</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c7c55d68bfd0</guid>
-            <pubDate>Fri, 14 Aug 2026 18:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/shahjalal-airport-190726-02-1784475536.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Barapukuria Thermal Power Plant unit halts production]]></title>
-            <description><![CDATA[[Bangladesh] Barapukuria Thermal Power Plant unit halts production]]></description>
-            <link>https://bdnews24.com/bangladesh/3626d1d1b653</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3626d1d1b653</guid>
-            <pubDate>Fri, 14 Aug 2026 17:56:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024September/SM/barapukuria-powerplant-100924-1725950627.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Anything can happen’ over Rodri future: Maresca]]></title>
-            <description><![CDATA[[Sport] ‘Anything can happen’ over Rodri future: Maresca]]></description>
-            <link>https://bdnews24.com/sport/9d24f6d8265e</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/9d24f6d8265e</guid>
-            <pubDate>Fri, 14 Aug 2026 17:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/rodri-140826-1786707612.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US vows more Iran pressure as 2 ships hit in Hormuz]]></title>
-            <description><![CDATA[[West Asia] US vows more Iran pressure as 2 ships hit in Hormuz]]></description>
-            <link>https://bdnews24.com/world/middle-east/699b41026405</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/699b41026405</guid>
-            <pubDate>Fri, 14 Aug 2026 17:31:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/hormuz-140826-1786707052.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine civilian deaths up in July: UN]]></title>
-            <description><![CDATA[[Europe] Ukraine civilian deaths up in July: UN]]></description>
-            <link>https://bdnews24.com/world/europe/2f84b74d25a0</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/2f84b74d25a0</guid>
-            <pubDate>Fri, 14 Aug 2026 17:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ukraine-missile-attack-140826-1786705925.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saudi-led maritime coalition moves to activate multinational command]]></title>
-            <description><![CDATA[[World] Saudi-led maritime coalition moves to activate multinational command]]></description>
-            <link>https://bdnews24.com/world/e99ae0c86e76</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/e99ae0c86e76</guid>
-            <pubDate>Fri, 14 Aug 2026 17:03:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/saudi-led-maritime-defense-coalition-140826-01-1786703318.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2 ships collide at Ctg Port]]></title>
-            <description><![CDATA[[Bangladesh] 2 ships collide at Ctg Port]]></description>
-            <link>https://bdnews24.com/bangladesh/7f81e15029fd</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7f81e15029fd</guid>
-            <pubDate>Fri, 14 Aug 2026 16:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ctg-port-authority-140826-1786702362.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4 more die of ‘measles’ in a day]]></title>
-            <description><![CDATA[[Health] 4 more die of ‘measles’ in a day]]></description>
-            <link>https://bdnews24.com/health/f17fe3838b6f</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/f17fe3838b6f</guid>
-            <pubDate>Fri, 14 Aug 2026 16:09:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/measles-patient-dncc-hospital-120526-028-1778590985.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[In South Korea, some savour last season of legal dog meat]]></title>
-            <description><![CDATA[[Asia Pacific] In South Korea, some savour last season of legal dog meat]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/cbe10c135a1e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/cbe10c135a1e</guid>
-            <pubDate>Fri, 14 Aug 2026 15:56:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/skorea-dog-meat-140826-01-1786701328.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Army chief returns after UN mission tour]]></title>
-            <description><![CDATA[[Bangladesh] Army chief returns after UN mission tour]]></description>
-            <link>https://bdnews24.com/bangladesh/ae7cca5a608b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ae7cca5a608b</guid>
-            <pubDate>Fri, 14 Aug 2026 15:45:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024October/SM/wakar-uz-zaman-151024-1728964353.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prayers to mark Khaleda’s birthday Saturday]]></title>
-            <description><![CDATA[[Politics] Prayers to mark Khaleda’s birthday Saturday]]></description>
-            <link>https://bdnews24.com/politics/abd294d219fc</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/abd294d219fc</guid>
-            <pubDate>Fri, 14 Aug 2026 15:36:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025December/SM/khaleda-zia-021225-01-1767061084.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Preparations afoot for Tarique’s India visit]]></title>
-            <description><![CDATA[[Bangladesh] Preparations afoot for Tarique’s India visit]]></description>
-            <link>https://bdnews24.com/bangladesh/f39a66f55edb</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f39a66f55edb</guid>
-            <pubDate>Fri, 14 Aug 2026 15:31:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarique-modi-140826-01-1786699147.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[When will Summit's LNG terminal supply gas?]]></title>
-            <description><![CDATA[[Bangladesh] When will Summit's LNG terminal supply gas?]]></description>
-            <link>https://bdnews24.com/bangladesh/ddd730916124</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ddd730916124</guid>
-            <pubDate>Fri, 14 Aug 2026 14:26:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/summit-lng-090624-02-1786694488.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israeli settlers seize Palestinian freshwater springs]]></title>
-            <description><![CDATA[[West Asia] Israeli settlers seize Palestinian freshwater springs]]></description>
-            <link>https://bdnews24.com/world/middle-east/b51f51bfb39d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/b51f51bfb39d</guid>
-            <pubDate>Fri, 14 Aug 2026 13:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/west-banl-palestine-140826-1786693814.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chinese car sales soar overseas, lag at home]]></title>
-            <description><![CDATA[[Automobile] Chinese car sales soar overseas, lag at home]]></description>
-            <link>https://bdnews24.com/automobile/ff2e570fc108</link>
-            <guid isPermaLink="true">https://bdnews24.com/automobile/ff2e570fc108</guid>
-            <pubDate>Fri, 14 Aug 2026 13:26:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/china-car-140627-1786692305.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt retires 49 police inspectors at once]]></title>
-            <description><![CDATA[[Bangladesh] Govt retires 49 police inspectors at once]]></description>
-            <link>https://bdnews24.com/bangladesh/17c8d5de5b7a</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/17c8d5de5b7a</guid>
-            <pubDate>Fri, 14 Aug 2026 12:48:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024July/SM/home-ministry-280724-01-1722176533.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ctg shipyard ‘gas leak’ death toll rises to 8]]></title>
-            <description><![CDATA[[Bangladesh] Ctg shipyard ‘gas leak’ death toll rises to 8]]></description>
-            <link>https://bdnews24.com/bangladesh/364aa5fb3232</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/364aa5fb3232</guid>
-            <pubDate>Fri, 14 Aug 2026 12:44:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/summit-lng-090624-201-1786703963.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
+            <link>https://bdnews24.com</link>
+            <guid isPermaLink="true">https://bdnews24.com</guid>
+            <pubDate>Fri, 14 Aug 2026 14:07:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
