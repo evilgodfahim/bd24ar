@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 08:54:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 09:48:55 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 08:54:30 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 09:48:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Army chief returns after UN mission tour]]></title>
+            <description><![CDATA[[Bangladesh] Army chief returns after UN mission tour]]></description>
+            <link>https://bdnews24.com/bangladesh/ae7cca5a608b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ae7cca5a608b</guid>
+            <pubDate>Fri, 14 Aug 2026 15:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024October/SM/wakar-uz-zaman-151024-1728964353.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prayers to mark Khaleda’s birthday Saturday]]></title>
+            <description><![CDATA[[Politics] Prayers to mark Khaleda’s birthday Saturday]]></description>
+            <link>https://bdnews24.com/politics/abd294d219fc</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/abd294d219fc</guid>
+            <pubDate>Fri, 14 Aug 2026 15:36:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025December/SM/khaleda-zia-021225-01-1767061084.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Preparations afoot for Tarique’s India visit]]></title>
+            <description><![CDATA[[Bangladesh] Preparations afoot for Tarique’s India visit]]></description>
+            <link>https://bdnews24.com/bangladesh/f39a66f55edb</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f39a66f55edb</guid>
+            <pubDate>Fri, 14 Aug 2026 15:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarique-modi-140826-01-1786699147.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[When will Summit's LNG terminal supply gas?]]></title>
             <description><![CDATA[[Bangladesh] When will Summit's LNG terminal supply gas?]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/47853f61cbbc</guid>
             <pubDate>Fri, 14 Aug 2026 09:32:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/jared-kushner-140826-1786678268.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4 dead as rain strands thousands at Japan airport]]></title>
-            <description><![CDATA[[Asia Pacific] 4 dead as rain strands thousands at Japan airport]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/f5baa4727957</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/f5baa4727957</guid>
-            <pubDate>Fri, 14 Aug 2026 09:09:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/japan-rain-140626-1786676887.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump will impose tariffs on drone imports: White House]]></title>
-            <description><![CDATA[[Business] Trump will impose tariffs on drone imports: White House]]></description>
-            <link>https://bdnews24.com/business/b9d96104ecc1</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/b9d96104ecc1</guid>
-            <pubDate>Fri, 14 Aug 2026 09:06:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/shipping-containers-long-beach-port-140826-01-1786676796.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PSG agree Torres deal in principle: BBC]]></title>
-            <description><![CDATA[[Sport] PSG agree Torres deal in principle: BBC]]></description>
-            <link>https://bdnews24.com/sport/2ae4e8341c9c</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/2ae4e8341c9c</guid>
-            <pubDate>Fri, 14 Aug 2026 09:03:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ferran-torres-140826-1786676530.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
