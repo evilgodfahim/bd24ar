@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 11:08:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 12:12:40 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 11:08:08 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 12:12:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Rahul, Padikkal frustrate Sri Lanka]]></title>
+            <description><![CDATA[[Cricket] Rahul, Padikkal frustrate Sri Lanka]]></description>
+            <link>https://bdnews24.com/cricket/afa47c8b0823</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/afa47c8b0823</guid>
+            <pubDate>Sat, 15 Aug 2026 18:05:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/icc-india-srilanka-150826-01-1786795526.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israeli strikes kill 9 in south Lebanon]]></title>
+            <description><![CDATA[[West Asia] Israeli strikes kill 9 in south Lebanon]]></description>
+            <link>https://bdnews24.com/world/middle-east/53c33b1d10a4</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/53c33b1d10a4</guid>
+            <pubDate>Sat, 15 Aug 2026 18:05:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/israel-strike-lebanon-150826-1786795481.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hassle-free pension payouts for teachers: PM]]></title>
+            <description><![CDATA[[Bangladesh] Hassle-free pension payouts for teachers: PM]]></description>
+            <link>https://bdnews24.com/bangladesh/72391cf8e017</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/72391cf8e017</guid>
+            <pubDate>Sat, 15 Aug 2026 17:51:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tareque-rahman-teacher-150826-01-1786789763.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka JaSaD office under police watch]]></title>
+            <description><![CDATA[[Bangladesh] Dhaka JaSaD office under police watch]]></description>
+            <link>https://bdnews24.com/bangladesh/12914582cf1d</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/12914582cf1d</guid>
+            <pubDate>Sat, 15 Aug 2026 17:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/jasod-vaban-150826-01-1786791450.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The bridge may be broken, but life goes on]]></title>
+            <description><![CDATA[[Image] The bridge may be broken, but life goes on]]></description>
+            <link>https://bdnews24.com/media-en/image/d0fc4e79075c</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/d0fc4e79075c</guid>
+            <pubDate>Sat, 15 Aug 2026 17:15:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bamboo-bridge-kamrangirchar-140826-020-1786715196.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Xi calls for stronger disaster prevention in China]]></title>
+            <description><![CDATA[[World] Xi calls for stronger disaster prevention in China]]></description>
+            <link>https://bdnews24.com/world/792bc18d6d29</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/792bc18d6d29</guid>
+            <pubDate>Sat, 15 Aug 2026 17:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/china-floods-150826-01-1786792244.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Tension simmers at Dhanmondi 32]]></title>
             <description><![CDATA[[Image] Tension simmers at Dhanmondi 32]]></description>
@@ -57,8 +105,8 @@
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/taliban-govt-150826-01-1786787818.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[BNP adds Rizvi, Aman among four to standing committee]]></title>
-            <description><![CDATA[[Politics] BNP adds Rizvi, Aman among four to standing committee]]></description>
+            <title><![CDATA[BNP adds Rizvi, Aman among four to Standing Committee]]></title>
+            <description><![CDATA[[Politics] BNP adds Rizvi, Aman among four to Standing Committee]]></description>
             <link>https://bdnews24.com/politics/852e2ea23034</link>
             <guid isPermaLink="true">https://bdnews24.com/politics/852e2ea23034</guid>
             <pubDate>Sat, 15 Aug 2026 15:51:00 GMT</pubDate>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/5892a280a9a0</guid>
             <pubDate>Sat, 15 Aug 2026 12:58:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/gianni-infantino-150826-01-1786776986.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran defiant as Trump warns of higher gas prices]]></title>
-            <description><![CDATA[[World] Iran defiant as Trump warns of higher gas prices]]></description>
-            <link>https://bdnews24.com/world/0a9892296090</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/0a9892296090</guid>
-            <pubDate>Sat, 15 Aug 2026 12:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/donald-trump-310726-01-1785473138.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man detained, 2 beaten at Dhanmondi 32]]></title>
-            <description><![CDATA[[Bangladesh] Man detained, 2 beaten at Dhanmondi 32]]></description>
-            <link>https://bdnews24.com/bangladesh/43898231c2cc</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/43898231c2cc</guid>
-            <pubDate>Sat, 15 Aug 2026 12:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/dhanmondi-32-150826-03-1786775377.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India opt to bat first against Sri Lanka in Galle]]></title>
-            <description><![CDATA[[Sport] India opt to bat first against Sri Lanka in Galle]]></description>
-            <link>https://bdnews24.com/sport/fdabb9b62d87</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/fdabb9b62d87</guid>
-            <pubDate>Sat, 15 Aug 2026 12:17:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/india-test-150826-01-1786774640.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ex-Cambridge professor Jason Arday found dead]]></title>
-            <description><![CDATA[[World] Ex-Cambridge professor Jason Arday found dead]]></description>
-            <link>https://bdnews24.com/world/944f9fabb796</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/944f9fabb796</guid>
-            <pubDate>Sat, 15 Aug 2026 12:05:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/jason-arday-150826-1786773852.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hasan double jolts Australia]]></title>
-            <description><![CDATA[[Sport] Hasan double jolts Australia]]></description>
-            <link>https://bdnews24.com/sport/9b38d6a9491e</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/9b38d6a9491e</guid>
-            <pubDate>Sat, 15 Aug 2026 11:50:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bangladesh-150826-01-1786773079.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tigers bowled out for 426, lead by 228]]></title>
-            <description><![CDATA[[Sport] Tigers bowled out for 426, lead by 228]]></description>
-            <link>https://bdnews24.com/sport/91c168039304</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/91c168039304</guid>
-            <pubDate>Sat, 15 Aug 2026 11:35:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bangladesh-hasan-mahmud-130826-01-1786611645.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
