@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 13:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 14:09:50 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 13:20:58 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 14:09:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Repairs begin after Ctg Port collision]]></title>
+            <description><![CDATA[[Bangladesh] Repairs begin after Ctg Port collision]]></description>
+            <link>https://bdnews24.com/bangladesh/ccd57fd2cca3</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ccd57fd2cca3</guid>
+            <pubDate>Sat, 15 Aug 2026 19:53:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/chattagram-port-clash-by-two-ships-14082026-1786710796.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A city in motion: Dhaka turns 416]]></title>
+            <description><![CDATA[[Image] A city in motion: Dhaka turns 416]]></description>
+            <link>https://bdnews24.com/media-en/image/c52d15affa0b</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/c52d15affa0b</guid>
+            <pubDate>Sat, 15 Aug 2026 19:46:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/dhaka-heritage-run-150826-13-1786793374.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[5 killed, suspect dead after Michigan shooting]]></title>
+            <description><![CDATA[[Americas] 5 killed, suspect dead after Michigan shooting]]></description>
+            <link>https://bdnews24.com/world/americas/56cf6e42593e</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/56cf6e42593e</guid>
+            <pubDate>Sat, 15 Aug 2026 19:20:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/michigan-shooting-150826-01-1786796278.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Model Ridika found dead at home]]></title>
             <description><![CDATA[[Entertainment] Model Ridika found dead at home]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/2afc9c72d420</guid>
             <pubDate>Sat, 15 Aug 2026 16:44:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/52-rain-summer-rain-nayan-kumar-05072026-04-1783238624.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Buildings, cars damaged as quake hits Spain’s Granada]]></title>
-            <description><![CDATA[[World] Buildings, cars damaged as quake hits Spain’s Granada]]></description>
-            <link>https://bdnews24.com/world/860cff23c3ab</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/860cff23c3ab</guid>
-            <pubDate>Sat, 15 Aug 2026 16:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/granada-quake-150826-01-1786790313.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India food safety chief targets Eternal, Swiggy, Zepto]]></title>
-            <description><![CDATA[[Neighbours] India food safety chief targets Eternal, Swiggy, Zepto]]></description>
-            <link>https://bdnews24.com/neighbours/4b6c9ea6e35b</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/4b6c9ea6e35b</guid>
-            <pubDate>Sat, 15 Aug 2026 16:16:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/swiggy-india-150826-01-1786788839.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taliban mark 5 years in power]]></title>
-            <description><![CDATA[[World] Taliban mark 5 years in power]]></description>
-            <link>https://bdnews24.com/world/7846d9c84d22</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/7846d9c84d22</guid>
-            <pubDate>Sat, 15 Aug 2026 15:57:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/taliban-govt-150826-01-1786787818.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
