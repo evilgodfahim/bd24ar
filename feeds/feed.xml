@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 14:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 15:08:32 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 14:09:50 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 15:08:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[MP Aynul’s car attacked in Sirajganj]]></title>
+            <description><![CDATA[[Bangladesh] MP Aynul’s car attacked in Sirajganj]]></description>
+            <link>https://bdnews24.com/bangladesh/0bf7ed1ccc71</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0bf7ed1ccc71</guid>
+            <pubDate>Sat, 15 Aug 2026 21:02:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/sirajganj-mp-car-hamla-150826-01-1786804735.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gas crisis will ease within days: PM]]></title>
+            <description><![CDATA[[Bangladesh] Gas crisis will ease within days: PM]]></description>
+            <link>https://bdnews24.com/bangladesh/66083f8d3394</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/66083f8d3394</guid>
+            <pubDate>Sat, 15 Aug 2026 20:58:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/pm-tarique-rahman-15082026-1786804470.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scientists ‘accidentally’ turn lead into gold]]></title>
+            <description><![CDATA[[Science] Scientists ‘accidentally’ turn lead into gold]]></description>
+            <link>https://bdnews24.com/science/e9f86776e33f</link>
+            <guid isPermaLink="true">https://bdnews24.com/science/e9f86776e33f</guid>
+            <pubDate>Sat, 15 Aug 2026 20:42:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/gold-lead-cern-150826-1786804860.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Holiday Inn Dhaka signs MoU with UnionPay]]></title>
+            <description><![CDATA[[Business] Holiday Inn Dhaka signs MoU with UnionPay]]></description>
+            <link>https://bdnews24.com/business/e449b41e91e5</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/e449b41e91e5</guid>
+            <pubDate>Sat, 15 Aug 2026 20:19:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/holiday-inn-150826-1786803488.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Repairs begin after Ctg Port collision]]></title>
             <description><![CDATA[[Bangladesh] Repairs begin after Ctg Port collision]]></description>
@@ -97,12 +129,12 @@
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/arsenal-trio-back-150826-01-1786795964.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Rahul, Padikkal frustrate Sri Lanka]]></title>
-            <description><![CDATA[[Cricket] Rahul, Padikkal frustrate Sri Lanka]]></description>
+            <title><![CDATA[Padikkal hits maiden ton]]></title>
+            <description><![CDATA[[Cricket] Padikkal hits maiden ton]]></description>
             <link>https://bdnews24.com/cricket/afa47c8b0823</link>
             <guid isPermaLink="true">https://bdnews24.com/cricket/afa47c8b0823</guid>
             <pubDate>Sat, 15 Aug 2026 18:05:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/icc-india-srilanka-150826-01-1786795526.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/padikkal-150826-01-1786798286.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Israeli strikes kill 9 in south Lebanon]]></title>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/media-en/image/d0fc4e79075c</guid>
             <pubDate>Sat, 15 Aug 2026 17:15:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bamboo-bridge-kamrangirchar-140826-020-1786715196.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Xi calls for stronger disaster prevention in China]]></title>
-            <description><![CDATA[[World] Xi calls for stronger disaster prevention in China]]></description>
-            <link>https://bdnews24.com/world/792bc18d6d29</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/792bc18d6d29</guid>
-            <pubDate>Sat, 15 Aug 2026 17:12:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/china-floods-150826-01-1786792244.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tension simmers at Dhanmondi 32]]></title>
-            <description><![CDATA[[Image] Tension simmers at Dhanmondi 32]]></description>
-            <link>https://bdnews24.com/media-en/image/735e3c172b3a</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/735e3c172b3a</guid>
-            <pubDate>Sat, 15 Aug 2026 16:53:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/dhanmondi-32-clash-150826-04-1786779549.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[August 15, 2026]]></title>
-            <description><![CDATA[[Image] August 15, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/99564b01094d</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/99564b01094d</guid>
-            <pubDate>Sat, 15 Aug 2026 16:46:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/dhanmondi-32-security-150826-07-1786779172.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Signal 3 stays at four maritime ports despite weakening low]]></title>
-            <description><![CDATA[[Bangladesh] Signal 3 stays at four maritime ports despite weakening low]]></description>
-            <link>https://bdnews24.com/bangladesh/2afc9c72d420</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2afc9c72d420</guid>
-            <pubDate>Sat, 15 Aug 2026 16:44:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/52-rain-summer-rain-nayan-kumar-05072026-04-1783238624.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
