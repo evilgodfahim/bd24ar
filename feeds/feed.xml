@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 07:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 08:12:39 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 07:19:40 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 08:12:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Suspicious objects found hanging from Meherpur power lines]]></title>
+            <description><![CDATA[[Bangladesh] Suspicious objects found hanging from Meherpur power lines]]></description>
+            <link>https://bdnews24.com/bangladesh/184873d82c92</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/184873d82c92</guid>
+            <pubDate>Sat, 15 Aug 2026 13:51:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/meherpur-bomasodrish-150826-01-1786776298.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Crude bomb blast injures 4 children in Madaripur]]></title>
+            <description><![CDATA[[Bangladesh] Crude bomb blast injures 4 children in Madaripur]]></description>
+            <link>https://bdnews24.com/bangladesh/42f76851f8db</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/42f76851f8db</guid>
+            <pubDate>Sat, 15 Aug 2026 13:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/madaripur-boma-150826-01-1786777864.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[PM opens new 500-bed building at neuroscience hospital]]></title>
             <description><![CDATA[[Bangladesh] PM opens new 500-bed building at neuroscience hospital]]></description>
@@ -33,8 +49,8 @@
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/donald-trump-310726-01-1785473138.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Man detained at Dhanmondi 32 amid tight security]]></title>
-            <description><![CDATA[[Bangladesh] Man detained at Dhanmondi 32 amid tight security]]></description>
+            <title><![CDATA[Man detained, 2 beaten at Dhanmondi 32]]></title>
+            <description><![CDATA[[Bangladesh] Man detained, 2 beaten at Dhanmondi 32]]></description>
             <link>https://bdnews24.com/bangladesh/43898231c2cc</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/43898231c2cc</guid>
             <pubDate>Sat, 15 Aug 2026 12:39:00 GMT</pubDate>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/b207de306c66</guid>
             <pubDate>Sat, 15 Aug 2026 01:08:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/nz-infantino-15082026-01-1786734431.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arsenal ready to retain Premier League crown]]></title>
-            <description><![CDATA[[Sport] Arsenal ready to retain Premier League crown]]></description>
-            <link>https://bdnews24.com/sport/4d71197b25ee</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/4d71197b25ee</guid>
-            <pubDate>Sat, 15 Aug 2026 01:06:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/arsenal-community-shield-15082026-01-1786731081.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Maresca coy on Rodri future before Community Shield]]></title>
-            <description><![CDATA[[Sport] Maresca coy on Rodri future before Community Shield]]></description>
-            <link>https://bdnews24.com/sport/b8527c1cd9ff</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/b8527c1cd9ff</guid>
-            <pubDate>Sat, 15 Aug 2026 00:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/maresca-rodri-15082026-01-1786733271.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
