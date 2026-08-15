@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 09:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 10:09:54 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 09:13:38 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 10:09:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Taliban mark 5 years in power]]></title>
+            <description><![CDATA[[World] Taliban mark 5 years in power]]></description>
+            <link>https://bdnews24.com/world/7846d9c84d22</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/7846d9c84d22</guid>
+            <pubDate>Sat, 15 Aug 2026 15:57:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/taliban-govt-150826-01-1786787818.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BNP adds Rizvi, Aman among four to standing committee]]></title>
+            <description><![CDATA[[Politics] BNP adds Rizvi, Aman among four to standing committee]]></description>
+            <link>https://bdnews24.com/politics/852e2ea23034</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/852e2ea23034</guid>
+            <pubDate>Sat, 15 Aug 2026 15:51:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rizvi-aman-donar-jabiullah-1508-26-1786786765.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[8 involved in Uttara filling station robbery: police]]></title>
             <description><![CDATA[[Bangladesh] 8 involved in Uttara filling station robbery: police]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/business/124e00f175d2</guid>
             <pubDate>Sat, 15 Aug 2026 10:23:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/anthropic-logo-150826-01-1786767743.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Let’s work hand in hand for shared prosperity: Trivedi]]></title>
-            <description><![CDATA[[Bangladesh] Let’s work hand in hand for shared prosperity: Trivedi]]></description>
-            <link>https://bdnews24.com/bangladesh/53f225475d98</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/53f225475d98</guid>
-            <pubDate>Sat, 15 Aug 2026 09:59:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/dinesh-trivedi-150826-1786763457.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Summit resumes LNG supply as 2 terminals deliver 760mmcfd]]></title>
-            <description><![CDATA[[Business] Summit resumes LNG supply as 2 terminals deliver 760mmcfd]]></description>
-            <link>https://bdnews24.com/business/83b7d55a5c7d</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/83b7d55a5c7d</guid>
-            <pubDate>Sat, 15 Aug 2026 09:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/summit-lng-090624-02-1786694488.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
