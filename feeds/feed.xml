@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 06:16:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 07:19:40 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 06:16:19 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 07:19:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[PM opens new 500-bed building at neuroscience hospital]]></title>
+            <description><![CDATA[[Bangladesh] PM opens new 500-bed building at neuroscience hospital]]></description>
+            <link>https://bdnews24.com/bangladesh/6df32e51d9c4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6df32e51d9c4</guid>
+            <pubDate>Sat, 15 Aug 2026 13:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarique-rahman-150826-01-1786775379.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘It’s politics’: Giuliani backs Infantino]]></title>
+            <description><![CDATA[[Sport] ‘It’s politics’: Giuliani backs Infantino]]></description>
+            <link>https://bdnews24.com/sport/5892a280a9a0</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/5892a280a9a0</guid>
+            <pubDate>Sat, 15 Aug 2026 12:58:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/gianni-infantino-150826-01-1786776986.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran defiant as Trump warns of higher gas prices]]></title>
+            <description><![CDATA[[World] Iran defiant as Trump warns of higher gas prices]]></description>
+            <link>https://bdnews24.com/world/0a9892296090</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/0a9892296090</guid>
+            <pubDate>Sat, 15 Aug 2026 12:54:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/donald-trump-310726-01-1785473138.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man detained at Dhanmondi 32 amid tight security]]></title>
+            <description><![CDATA[[Bangladesh] Man detained at Dhanmondi 32 amid tight security]]></description>
+            <link>https://bdnews24.com/bangladesh/43898231c2cc</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/43898231c2cc</guid>
+            <pubDate>Sat, 15 Aug 2026 12:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/dhanmondi-32-150826-03-1786775377.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India opt to bat first against Sri Lanka in Galle]]></title>
+            <description><![CDATA[[Sport] India opt to bat first against Sri Lanka in Galle]]></description>
+            <link>https://bdnews24.com/sport/fdabb9b62d87</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/fdabb9b62d87</guid>
+            <pubDate>Sat, 15 Aug 2026 12:17:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/india-test-150826-01-1786774640.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Ex-Cambridge professor Jason Arday found dead]]></title>
             <description><![CDATA[[World] Ex-Cambridge professor Jason Arday found dead]]></description>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/b8527c1cd9ff</guid>
             <pubDate>Sat, 15 Aug 2026 00:49:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/maresca-rodri-15082026-01-1786733271.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Another Aug 15 for ‘banned’ Awami League]]></title>
-            <description><![CDATA[[Politics] Another Aug 15 for ‘banned’ Awami League]]></description>
-            <link>https://bdnews24.com/politics/97fd523634ad</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/97fd523634ad</guid>
-            <pubDate>Sat, 15 Aug 2026 00:44:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025August/SM/bangabandhu-memorial-museum-dhanmondi-32-130820-1755194527.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Militants now using remote-controlled bombs]]></title>
-            <description><![CDATA[[Bangladesh] Militants now using remote-controlled bombs]]></description>
-            <link>https://bdnews24.com/bangladesh/b36bd61d0388</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b36bd61d0388</guid>
-            <pubDate>Sat, 15 Aug 2026 00:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/saver-bomb-120826-01-1786514665.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[France blocks social media ban for under-15s]]></title>
-            <description><![CDATA[[Technology] France blocks social media ban for under-15s]]></description>
-            <link>https://bdnews24.com/technology/0c3e6b219dde</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/0c3e6b219dde</guid>
-            <pubDate>Sat, 15 Aug 2026 00:31:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/france-social-media-15082026-01-1786732252.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arsenal target Community Shield eyeing strong start]]></title>
-            <description><![CDATA[[Sport] Arsenal target Community Shield eyeing strong start]]></description>
-            <link>https://bdnews24.com/sport/88e83c375226</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/88e83c375226</guid>
-            <pubDate>Sat, 15 Aug 2026 00:12:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/arsenal-community-shield-15082026-01-1786731081.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taybeh’s Christians face growing settler attacks]]></title>
-            <description><![CDATA[[West Asia] Taybeh’s Christians face growing settler attacks]]></description>
-            <link>https://bdnews24.com/world/middle-east/8152423602fa</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/8152423602fa</guid>
-            <pubDate>Fri, 14 Aug 2026 23:16:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/soldiers-140826-01-1786718315.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
