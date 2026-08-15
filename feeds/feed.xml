@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 18:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 19:12:12 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 18:10:23 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 19:12:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Zimbabwe boat accident death toll reaches 68]]></title>
+            <description><![CDATA[[World] Zimbabwe boat accident death toll reaches 68]]></description>
+            <link>https://bdnews24.com/world/50045dd12c20</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/50045dd12c20</guid>
+            <pubDate>Sun, 16 Aug 2026 01:03:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/zimbabwe-15082026-01-1786820538.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Qusra families live under settler siege]]></title>
+            <description><![CDATA[[West Asia] Qusra families live under settler siege]]></description>
+            <link>https://bdnews24.com/world/middle-east/378cb170b168</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/378cb170b168</guid>
+            <pubDate>Sun, 16 Aug 2026 01:01:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/qusra-families-settler-siege-160826-01-1786820385.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Toxic gas still trapped in Sitakunda ship]]></title>
+            <description><![CDATA[[Bangladesh] Toxic gas still trapped in Sitakunda ship]]></description>
+            <link>https://bdnews24.com/bangladesh/ac44bc34957d</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ac44bc34957d</guid>
+            <pubDate>Sun, 16 Aug 2026 00:57:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/chattogram-rescue-operation-fire-service-150826-02-1786817168.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ecuador fishermen have nowhere to hide]]></title>
+            <description><![CDATA[[World] Ecuador fishermen have nowhere to hide]]></description>
+            <link>https://bdnews24.com/world/585fa6038256</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/585fa6038256</guid>
+            <pubDate>Sun, 16 Aug 2026 00:21:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ecuador-fishermen-15082026-01-1786817975.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh's RMG exports to EU fall hardest]]></title>
+            <description><![CDATA[[Business] Bangladesh's RMG exports to EU fall hardest]]></description>
+            <link>https://bdnews24.com/business/57b658542936</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/57b658542936</guid>
+            <pubDate>Sun, 16 Aug 2026 00:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/rmg-china-150826-1-1786817506.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Burnham urges reflection after Arday’s death]]></title>
             <description><![CDATA[[World] Burnham urges reflection after Arday’s death]]></description>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/media-en/image/c52d15affa0b</guid>
             <pubDate>Sat, 15 Aug 2026 19:46:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/dhaka-heritage-run-150826-13-1786793374.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[5 killed, suspect dead after Michigan shooting]]></title>
-            <description><![CDATA[[Americas] 5 killed, suspect dead after Michigan shooting]]></description>
-            <link>https://bdnews24.com/world/americas/56cf6e42593e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/56cf6e42593e</guid>
-            <pubDate>Sat, 15 Aug 2026 19:20:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/michigan-shooting-150826-01-1786796278.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Model Ridika found dead at home]]></title>
-            <description><![CDATA[[Entertainment] Model Ridika found dead at home]]></description>
-            <link>https://bdnews24.com/entertainment/79273e6f6c1e</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/79273e6f6c1e</guid>
-            <pubDate>Sat, 15 Aug 2026 19:06:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ridhika-ridhi-150826-01-1786796957.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles: 8 die, toll tops 900]]></title>
-            <description><![CDATA[[Health] Measles: 8 die, toll tops 900]]></description>
-            <link>https://bdnews24.com/health/616a66768f91</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/616a66768f91</guid>
-            <pubDate>Sat, 15 Aug 2026 18:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/measles-1000-1786009489.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4 injured in Narayanganj police shootout]]></title>
-            <description><![CDATA[[Bangladesh] 4 injured in Narayanganj police shootout]]></description>
-            <link>https://bdnews24.com/bangladesh/4cd54db652a0</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4cd54db652a0</guid>
-            <pubDate>Sat, 15 Aug 2026 18:47:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/narayangonj-police-clash-150826-05-1786797466.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PSG snap up Barcelona forward Torres]]></title>
-            <description><![CDATA[[Sport] PSG snap up Barcelona forward Torres]]></description>
-            <link>https://bdnews24.com/sport/b442ccc253d7</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/b442ccc253d7</guid>
-            <pubDate>Sat, 15 Aug 2026 18:40:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/psg-ferran-torres-150826-01-1786797630.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
