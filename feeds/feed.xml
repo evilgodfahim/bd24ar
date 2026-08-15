@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 15:08:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 16:09:36 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 15:08:32 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 16:09:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Gas supply rises 26% as LNG flow picks up]]></title>
+            <description><![CDATA[[Business] Gas supply rises 26% as LNG flow picks up]]></description>
+            <link>https://bdnews24.com/business/7e555641d2a2</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/7e555641d2a2</guid>
+            <pubDate>Sat, 15 Aug 2026 21:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/gas-crisis-jatrabari-130826-014-1786634840.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sitakunda shipbreaking yard shut]]></title>
+            <description><![CDATA[[Bangladesh] Sitakunda shipbreaking yard shut]]></description>
+            <link>https://bdnews24.com/bangladesh/7ce3ca0d2a97</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7ce3ca0d2a97</guid>
+            <pubDate>Sat, 15 Aug 2026 21:34:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/chattogram-the-ship-yard-140826-1786728829.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[MP Aynul’s car attacked in Sirajganj]]></title>
             <description><![CDATA[[Bangladesh] MP Aynul’s car attacked in Sirajganj]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/72391cf8e017</guid>
             <pubDate>Sat, 15 Aug 2026 17:51:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tareque-rahman-teacher-150826-01-1786789763.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka JaSaD office under police watch]]></title>
-            <description><![CDATA[[Bangladesh] Dhaka JaSaD office under police watch]]></description>
-            <link>https://bdnews24.com/bangladesh/12914582cf1d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/12914582cf1d</guid>
-            <pubDate>Sat, 15 Aug 2026 17:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/jasod-vaban-150826-01-1786791450.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The bridge may be broken, but life goes on]]></title>
-            <description><![CDATA[[Image] The bridge may be broken, but life goes on]]></description>
-            <link>https://bdnews24.com/media-en/image/d0fc4e79075c</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/d0fc4e79075c</guid>
-            <pubDate>Sat, 15 Aug 2026 17:15:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bamboo-bridge-kamrangirchar-140826-020-1786715196.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
