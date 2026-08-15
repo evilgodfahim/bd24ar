@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 17:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 18:10:23 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 17:10:20 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 18:10:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Burnham urges reflection after Arday’s death]]></title>
+            <description><![CDATA[[World] Burnham urges reflection after Arday’s death]]></description>
+            <link>https://bdnews24.com/world/a3fa7fbd8a06</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/a3fa7fbd8a06</guid>
+            <pubDate>Sat, 15 Aug 2026 23:51:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/burnham-reflection-arday-150826-01-1786816201.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jannat, Kabita lose medals in gender eligibility row]]></title>
+            <description><![CDATA[[Sport] Jannat, Kabita lose medals in gender eligibility row]]></description>
+            <link>https://bdnews24.com/sport/6e2781c9b46c</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/6e2781c9b46c</guid>
+            <pubDate>Sat, 15 Aug 2026 23:23:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/jannat-kobita-150826-01-1786809593.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[BKMEA asks to spread 2 months’ bills over a year]]></title>
             <description><![CDATA[[Business] BKMEA asks to spread 2 months’ bills over a year]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/b442ccc253d7</guid>
             <pubDate>Sat, 15 Aug 2026 18:40:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/psg-ferran-torres-150826-01-1786797630.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iraola sees Como double-header as key test]]></title>
-            <description><![CDATA[[Sport] Iraola sees Como double-header as key test]]></description>
-            <link>https://bdnews24.com/sport/407657b66bdb</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/407657b66bdb</guid>
-            <pubDate>Sat, 15 Aug 2026 18:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/iraola-como-double-header-150826-01-1786797519.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Atletico land Romero from Spurs]]></title>
-            <description><![CDATA[[Sport] Atletico land Romero from Spurs]]></description>
-            <link>https://bdnews24.com/sport/a74f53c8b30a</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/a74f53c8b30a</guid>
-            <pubDate>Sat, 15 Aug 2026 18:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/romero-joins-atleti-150826-01-1786797019.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
