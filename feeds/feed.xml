@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 16:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 17:10:20 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 16:09:36 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 17:10:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[BKMEA asks to spread 2 months’ bills over a year]]></title>
+            <description><![CDATA[[Business] BKMEA asks to spread 2 months’ bills over a year]]></description>
+            <link>https://bdnews24.com/business/fb0935941492</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/fb0935941492</guid>
+            <pubDate>Sat, 15 Aug 2026 23:06:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025May/SM/bnimg-205038-2012-09-15-1746894068.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Job test was awaiting Rana, but death came first]]></title>
+            <description><![CDATA[[Bangladesh] Job test was awaiting Rana, but death came first]]></description>
+            <link>https://bdnews24.com/bangladesh/beb19ce35d9b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/beb19ce35d9b</guid>
+            <pubDate>Sat, 15 Aug 2026 22:58:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/gaibandha-chittagong-150826-03-1786809751.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM to visit Kishoreganj Sunday]]></title>
+            <description><![CDATA[[Bangladesh] PM to visit Kishoreganj Sunday]]></description>
+            <link>https://bdnews24.com/bangladesh/c343faddb6ab</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c343faddb6ab</guid>
+            <pubDate>Sat, 15 Aug 2026 22:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026February/SM/tarique-rahaman-plan-140226-101-1771265340.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[$50mn ransom funded al Qaeda's Mali offensive: UN]]></title>
+            <description><![CDATA[[World] $50mn ransom funded al Qaeda's Mali offensive: UN]]></description>
+            <link>https://bdnews24.com/world/72f8f8055466</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/72f8f8055466</guid>
+            <pubDate>Sat, 15 Aug 2026 22:22:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/al-qaeda-15082026-01-1786810881.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[MP Amir Hamza's car attacked in Kushtia]]></title>
+            <description><![CDATA[[Politics] MP Amir Hamza's car attacked in Kushtia]]></description>
+            <link>https://bdnews24.com/politics/1ac82b8c797f</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/1ac82b8c797f</guid>
+            <pubDate>Sat, 15 Aug 2026 22:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/kushtia-clash-150826-01-1786808241.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Gas supply rises 26% as LNG flow picks up]]></title>
             <description><![CDATA[[Business] Gas supply rises 26% as LNG flow picks up]]></description>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/a74f53c8b30a</guid>
             <pubDate>Sat, 15 Aug 2026 18:30:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/romero-joins-atleti-150826-01-1786797019.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Disney unveils new ‘X-Men’ cast, ‘Frozen 3’]]></title>
-            <description><![CDATA[[Entertainment] Disney unveils new ‘X-Men’ cast, ‘Frozen 3’]]></description>
-            <link>https://bdnews24.com/entertainment/461ccc24e206</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/461ccc24e206</guid>
-            <pubDate>Sat, 15 Aug 2026 18:27:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/disneyd23-150826-1786796743.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arsenal trio back for Community Shield: Arteta]]></title>
-            <description><![CDATA[[Sport] Arsenal trio back for Community Shield: Arteta]]></description>
-            <link>https://bdnews24.com/sport/d8b6c1a70fb5</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/d8b6c1a70fb5</guid>
-            <pubDate>Sat, 15 Aug 2026 18:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/arsenal-trio-back-150826-01-1786795964.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Padikkal hits maiden ton]]></title>
-            <description><![CDATA[[Cricket] Padikkal hits maiden ton]]></description>
-            <link>https://bdnews24.com/cricket/afa47c8b0823</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/afa47c8b0823</guid>
-            <pubDate>Sat, 15 Aug 2026 18:05:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/padikkal-150826-01-1786798286.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israeli strikes kill 9 in south Lebanon]]></title>
-            <description><![CDATA[[West Asia] Israeli strikes kill 9 in south Lebanon]]></description>
-            <link>https://bdnews24.com/world/middle-east/53c33b1d10a4</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/53c33b1d10a4</guid>
-            <pubDate>Sat, 15 Aug 2026 18:05:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/israel-strike-lebanon-150826-1786795481.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hassle-free pension payouts for teachers: PM]]></title>
-            <description><![CDATA[[Bangladesh] Hassle-free pension payouts for teachers: PM]]></description>
-            <link>https://bdnews24.com/bangladesh/72391cf8e017</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/72391cf8e017</guid>
-            <pubDate>Sat, 15 Aug 2026 17:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tareque-rahman-teacher-150826-01-1786789763.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
