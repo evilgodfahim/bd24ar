@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 10:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 11:09:03 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 10:10:45 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 11:09:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[1 dead as Ukrainian drones hit Moscow]]></title>
+            <description><![CDATA[[World] 1 dead as Ukrainian drones hit Moscow]]></description>
+            <link>https://bdnews24.com/world/67c55cadc437</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/67c55cadc437</guid>
+            <pubDate>Sun, 16 Aug 2026 17:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ukraine-drone-160826-01-1786878352.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Govt moves to ease tea industry crisis]]></title>
+            <description><![CDATA[[Bangladesh] Govt moves to ease tea industry crisis]]></description>
+            <link>https://bdnews24.com/bangladesh/707b08d7e321</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/707b08d7e321</guid>
+            <pubDate>Sun, 16 Aug 2026 16:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/tea-garden-worker-190122-01-1786877284.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India targets higher cooking gas output]]></title>
+            <description><![CDATA[[Business] India targets higher cooking gas output]]></description>
+            <link>https://bdnews24.com/business/9230b45d81db</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/9230b45d81db</guid>
+            <pubDate>Sun, 16 Aug 2026 16:23:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/cylinder-india-160826-1786875677.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Police explain how ex-major Sadikul torched car while in jail]]></title>
             <description><![CDATA[[Bangladesh] Police explain how ex-major Sadikul torched car while in jail]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/1f6ca155b72c</guid>
             <pubDate>Sun, 16 Aug 2026 11:24:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bangladesh-150826-01-1786773079.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man killed with sharp weapons in Khulna over ‘B Company feud’]]></title>
-            <description><![CDATA[[Bangladesh] Man killed with sharp weapons in Khulna over ‘B Company feud’]]></description>
-            <link>https://bdnews24.com/bangladesh/0a950b53b071</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0a950b53b071</guid>
-            <pubDate>Sun, 16 Aug 2026 11:19:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/khulna-rupsa-thana-160826-01-1786854126.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Four killed as pickup overturns in Rangamati]]></title>
-            <description><![CDATA[[Bangladesh] Four killed as pickup overturns in Rangamati]]></description>
-            <link>https://bdnews24.com/bangladesh/1311b71cb267</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1311b71cb267</guid>
-            <pubDate>Sun, 16 Aug 2026 11:14:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rangamati-acc-160826-01-1786855657.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Police arrest boyfriend after death of model Ridika]]></title>
-            <description><![CDATA[[Entertainment] Police arrest boyfriend after death of model Ridika]]></description>
-            <link>https://bdnews24.com/entertainment/3b06c1d4b0de</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/3b06c1d4b0de</guid>
-            <pubDate>Sun, 16 Aug 2026 10:59:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ridhika-ridhi-160826-1786854758.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
