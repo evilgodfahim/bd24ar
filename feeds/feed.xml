@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 07:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 08:14:03 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 07:20:55 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 08:14:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[India courts to decide Hasina extradition: report]]></title>
+            <description><![CDATA[[Politics] India courts to decide Hasina extradition: report]]></description>
+            <link>https://bdnews24.com/politics/1a33cedcfa52</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/1a33cedcfa52</guid>
+            <pubDate>Sun, 16 Aug 2026 13:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024August/SM/sheikh-hasina-ex-prime-minister-140824-1723664046.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘They outplayed us in all facets’: Cummins]]></title>
+            <description><![CDATA[[Cricket] ‘They outplayed us in all facets’: Cummins]]></description>
+            <link>https://bdnews24.com/cricket/26cb1f533c25</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/26cb1f533c25</guid>
+            <pubDate>Sun, 16 Aug 2026 13:37:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/pat-cummins-australia-16082026-01-1786865780.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BNP will always work for the people: PM]]></title>
+            <description><![CDATA[[Politics] BNP will always work for the people: PM]]></description>
+            <link>https://bdnews24.com/politics/8a08009dd7e9</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/8a08009dd7e9</guid>
+            <pubDate>Sun, 16 Aug 2026 13:24:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarique-rahman-160826-03-1786864064.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Presidential election: Fakhrul, Oli’s candidacies valid]]></title>
             <description><![CDATA[[Bangladesh] Presidential election: Fakhrul, Oli’s candidacies valid]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/3fde6a07fb4f</guid>
             <pubDate>Sun, 16 Aug 2026 10:16:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/nkorea-russia-160826-01-1786853770.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[EU sends aircraft as Belgium fights record wildfire]]></title>
-            <description><![CDATA[[Europe] EU sends aircraft as Belgium fights record wildfire]]></description>
-            <link>https://bdnews24.com/world/europe/ae496e495384</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/ae496e495384</guid>
-            <pubDate>Sun, 16 Aug 2026 10:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/belgium-wildfire-160826-01-1786853521.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Must pick sides in AI race with China: US to partners]]></title>
-            <description><![CDATA[[Technology] Must pick sides in AI race with China: US to partners]]></description>
-            <link>https://bdnews24.com/technology/62ee35e82641</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/62ee35e82641</guid>
-            <pubDate>Sun, 16 Aug 2026 10:04:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-china-ai-race-160826-01-1786852972.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[6 die in Indiana after US storms]]></title>
-            <description><![CDATA[[Americas] 6 die in Indiana after US storms]]></description>
-            <link>https://bdnews24.com/world/americas/55d8aaf63e37</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/55d8aaf63e37</guid>
-            <pubDate>Sun, 16 Aug 2026 09:59:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/indiana-storm-floods-160826-01-1786852654.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
