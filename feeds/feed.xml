@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 13:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 14:11:14 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 13:22:14 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 14:11:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Dengue: 3 more die]]></title>
+            <description><![CDATA[[Health] Dengue: 3 more die]]></description>
+            <link>https://bdnews24.com/health/cc42546b920e</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/cc42546b920e</guid>
+            <pubDate>Sun, 16 Aug 2026 19:46:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/dncc-dengue-hospital-270823-1786884298.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tigers’ Australia win sends a message: Tamim]]></title>
+            <description><![CDATA[[Cricket] Tigers’ Australia win sends a message: Tamim]]></description>
+            <link>https://bdnews24.com/cricket/8eb2d7bfa7be</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/8eb2d7bfa7be</guid>
+            <pubDate>Sun, 16 Aug 2026 19:34:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tamim-iqbal-bcb-boss-160826-1786884750.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[6 more die with measles symptoms]]></title>
+            <description><![CDATA[[Health] 6 more die with measles symptoms]]></description>
+            <link>https://bdnews24.com/health/eddeb455e4f5</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/eddeb455e4f5</guid>
+            <pubDate>Sun, 16 Aug 2026 19:24:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/measles-patient-280426-020-1777390119.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[4 Antonello da Messina works stolen]]></title>
             <description><![CDATA[[World] 4 Antonello da Messina works stolen]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/17b39813b02a</guid>
             <pubDate>Sun, 16 Aug 2026 14:16:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ship-collide-160826-1786867327.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India courts to decide Hasina extradition: report]]></title>
-            <description><![CDATA[[Politics] India courts to decide Hasina extradition: report]]></description>
-            <link>https://bdnews24.com/politics/1a33cedcfa52</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/1a33cedcfa52</guid>
-            <pubDate>Sun, 16 Aug 2026 13:47:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024August/SM/sheikh-hasina-ex-prime-minister-140824-1723664046.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘They outplayed us in all facets’: Cummins]]></title>
-            <description><![CDATA[[Cricket] ‘They outplayed us in all facets’: Cummins]]></description>
-            <link>https://bdnews24.com/cricket/26cb1f533c25</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/26cb1f533c25</guid>
-            <pubDate>Sun, 16 Aug 2026 13:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/pat-cummins-australia-16082026-01-1786865780.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BNP will always work for the people: PM]]></title>
-            <description><![CDATA[[Politics] BNP will always work for the people: PM]]></description>
-            <link>https://bdnews24.com/politics/8a08009dd7e9</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/8a08009dd7e9</guid>
-            <pubDate>Sun, 16 Aug 2026 13:24:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarique-rahman-160826-03-1786864064.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
