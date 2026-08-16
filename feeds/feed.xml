@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – Latest News]]></title>
+        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 06:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 07:20:55 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 06:19:16 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 07:20:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
-            <link>https://bdnews24.com</link>
-            <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Sun, 16 Aug 2026 06:19:16 GMT</pubDate>
+            <title><![CDATA[Presidential election: Fakhrul, Oli’s candidacies valid]]></title>
+            <description><![CDATA[[Bangladesh] Presidential election: Fakhrul, Oli’s candidacies valid]]></description>
+            <link>https://bdnews24.com/bangladesh/f960f2f40d82</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f960f2f40d82</guid>
+            <pubDate>Sun, 16 Aug 2026 13:18:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/fakhrul-nomination-submit-130826-04-1786611214.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Bangladesh’s biggest win in any format’: Shanto]]></title>
+            <description><![CDATA[[Cricket] ‘Bangladesh’s biggest win in any format’: Shanto]]></description>
+            <link>https://bdnews24.com/cricket/79075da15183</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/79075da15183</guid>
+            <pubDate>Sun, 16 Aug 2026 13:14:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/najmul-hossain-shnto-300726-01-1785419047.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[12 killed in Polish bus crash in Hungary]]></title>
+            <description><![CDATA[[World] 12 killed in Polish bus crash in Hungary]]></description>
+            <link>https://bdnews24.com/world/4bb40d14fd95</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/4bb40d14fd95</guid>
+            <pubDate>Sun, 16 Aug 2026 13:02:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/hungary-accident-160826-1786863671.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Europe's heatwaves expose insurance gap]]></title>
+            <description><![CDATA[[Europe] Europe's heatwaves expose insurance gap]]></description>
+            <link>https://bdnews24.com/world/europe/57d3d0763263</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/57d3d0763263</guid>
+            <pubDate>Sun, 16 Aug 2026 13:01:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/europe-heatwave-160826-01-1786863627.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[List of Bangladesh’s landmark wins in Tests]]></title>
+            <description><![CDATA[[Cricket] List of Bangladesh’s landmark wins in Tests]]></description>
+            <link>https://bdnews24.com/cricket/94611b906f3b</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/94611b906f3b</guid>
+            <pubDate>Sun, 16 Aug 2026 12:22:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bangladesh-celebration-150826-01-1786785036.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sammilito Islami Bank launches operations]]></title>
+            <description><![CDATA[[Business] Sammilito Islami Bank launches operations]]></description>
+            <link>https://bdnews24.com/business/d494e4d8e3ba</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/d494e4d8e3ba</guid>
+            <pubDate>Sun, 16 Aug 2026 12:05:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/united-islam-bank-160826-01-1786859820.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India cuts windfall tax on fuel exports]]></title>
+            <description><![CDATA[[Business] India cuts windfall tax on fuel exports]]></description>
+            <link>https://bdnews24.com/business/b6694993aad1</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/b6694993aad1</guid>
+            <pubDate>Sun, 16 Aug 2026 11:37:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/india-petrol-pump-160826-01-1786858609.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tigers triumph over Australia in Darwin Test]]></title>
+            <description><![CDATA[[Sport] Tigers triumph over Australia in Darwin Test]]></description>
+            <link>https://bdnews24.com/sport/1f6ca155b72c</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/1f6ca155b72c</guid>
+            <pubDate>Sun, 16 Aug 2026 11:24:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bangladesh-150826-01-1786773079.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man killed with sharp weapons in Khulna over ‘B Company feud’]]></title>
+            <description><![CDATA[[Bangladesh] Man killed with sharp weapons in Khulna over ‘B Company feud’]]></description>
+            <link>https://bdnews24.com/bangladesh/0a950b53b071</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0a950b53b071</guid>
+            <pubDate>Sun, 16 Aug 2026 11:19:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/khulna-rupsa-thana-160826-01-1786854126.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Four killed as pickup overturns in Rangamati]]></title>
+            <description><![CDATA[[Bangladesh] Four killed as pickup overturns in Rangamati]]></description>
+            <link>https://bdnews24.com/bangladesh/1311b71cb267</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1311b71cb267</guid>
+            <pubDate>Sun, 16 Aug 2026 11:14:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rangamati-acc-160826-01-1786855657.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police arrest boyfriend after death of model Ridika]]></title>
+            <description><![CDATA[[Entertainment] Police arrest boyfriend after death of model Ridika]]></description>
+            <link>https://bdnews24.com/entertainment/3b06c1d4b0de</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/3b06c1d4b0de</guid>
+            <pubDate>Sun, 16 Aug 2026 10:59:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ridhika-ridhi-160826-1786854758.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australia gun buyback to start in November: Albanese]]></title>
+            <description><![CDATA[[Asia Pacific] Australia gun buyback to start in November: Albanese]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/75b9be15674b</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/75b9be15674b</guid>
+            <pubDate>Sun, 16 Aug 2026 10:54:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/australia-guncontrol-160826-01-1786855990.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-West Bengal deputy speaker Asish Banerjee found dead]]></title>
+            <description><![CDATA[[Neighbours] Ex-West Bengal deputy speaker Asish Banerjee found dead]]></description>
+            <link>https://bdnews24.com/neighbours/1c9a960b0690</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/1c9a960b0690</guid>
+            <pubDate>Sun, 16 Aug 2026 10:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ashish-matata-160826-01-1786855165.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thousands evacuate after Indonesia quake kills 51]]></title>
+            <description><![CDATA[[South-East Asia] Thousands evacuate after Indonesia quake kills 51]]></description>
+            <link>https://bdnews24.com/world/south-east-asia/6b5b1d614039</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/south-east-asia/6b5b1d614039</guid>
+            <pubDate>Sun, 16 Aug 2026 10:36:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/indonesia-quake-160826-01-1786854839.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Disney, Square Enix preview 'Kingdom Hearts 4']]></title>
+            <description><![CDATA[[Entertainment] Disney, Square Enix preview 'Kingdom Hearts 4']]></description>
+            <link>https://bdnews24.com/entertainment/77e76d1e0afe</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/77e76d1e0afe</guid>
+            <pubDate>Sun, 16 Aug 2026 10:27:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/kingdom-hearts-square-enix-160826-01-1786854328.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sevilla beat Vallecano as LaLiga gets under way]]></title>
+            <description><![CDATA[[Sport] Sevilla beat Vallecano as LaLiga gets under way]]></description>
+            <link>https://bdnews24.com/sport/de0d380c3cdb</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/de0d380c3cdb</guid>
+            <pubDate>Sun, 16 Aug 2026 10:19:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/sevilla-laliga-160826-01-1786853859.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kim, Putin reaffirm ties on Korean Liberation Day]]></title>
+            <description><![CDATA[[Asia Pacific] Kim, Putin reaffirm ties on Korean Liberation Day]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/3fde6a07fb4f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/3fde6a07fb4f</guid>
+            <pubDate>Sun, 16 Aug 2026 10:16:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/nkorea-russia-160826-01-1786853770.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[EU sends aircraft as Belgium fights record wildfire]]></title>
+            <description><![CDATA[[Europe] EU sends aircraft as Belgium fights record wildfire]]></description>
+            <link>https://bdnews24.com/world/europe/ae496e495384</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/ae496e495384</guid>
+            <pubDate>Sun, 16 Aug 2026 10:13:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/belgium-wildfire-160826-01-1786853521.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Must pick sides in AI race with China: US to partners]]></title>
+            <description><![CDATA[[Technology] Must pick sides in AI race with China: US to partners]]></description>
+            <link>https://bdnews24.com/technology/62ee35e82641</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/62ee35e82641</guid>
+            <pubDate>Sun, 16 Aug 2026 10:04:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-china-ai-race-160826-01-1786852972.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[6 die in Indiana after US storms]]></title>
+            <description><![CDATA[[Americas] 6 die in Indiana after US storms]]></description>
+            <link>https://bdnews24.com/world/americas/55d8aaf63e37</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/55d8aaf63e37</guid>
+            <pubDate>Sun, 16 Aug 2026 09:59:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/indiana-storm-floods-160826-01-1786852654.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
