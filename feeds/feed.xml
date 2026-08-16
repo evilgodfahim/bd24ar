@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 20:07:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 21:08:31 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 20:07:31 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 21:08:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Barcelona seal £65mn deal for Rodri: report]]></title>
+            <description><![CDATA[[Sport] Barcelona seal £65mn deal for Rodri: report]]></description>
+            <link>https://bdnews24.com/sport/d6b2e23aa5d2</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/d6b2e23aa5d2</guid>
+            <pubDate>Mon, 17 Aug 2026 02:58:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rodri-170826-01-1786912951.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[6 months in, how has the government fared?]]></title>
             <description><![CDATA[[Politics] 6 months in, how has the government fared?]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/health/eddeb455e4f5</guid>
             <pubDate>Sun, 16 Aug 2026 19:24:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/measles-patient-280426-020-1777390119.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4 Antonello da Messina works stolen]]></title>
-            <description><![CDATA[[World] 4 Antonello da Messina works stolen]]></description>
-            <link>https://bdnews24.com/world/312dc9301e6a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/312dc9301e6a</guid>
-            <pubDate>Sun, 16 Aug 2026 19:00:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/messina-theft-160826-01-1786885176.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
