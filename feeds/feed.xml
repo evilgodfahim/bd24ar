@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 12:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 13:22:14 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 12:13:03 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 13:22:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[4 Antonello da Messina works stolen]]></title>
+            <description><![CDATA[[World] 4 Antonello da Messina works stolen]]></description>
+            <link>https://bdnews24.com/world/312dc9301e6a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/312dc9301e6a</guid>
+            <pubDate>Sun, 16 Aug 2026 19:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/messina-theft-160826-01-1786885176.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Worker missing after falling from foreign ship]]></title>
+            <description><![CDATA[[Bangladesh] Worker missing after falling from foreign ship]]></description>
+            <link>https://bdnews24.com/bangladesh/a8b80c2c15e6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a8b80c2c15e6</guid>
+            <pubDate>Sun, 16 Aug 2026 18:16:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/lighterage-310326-01-1775013386.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[‘No bar’ to ex-major Sadik’s release]]></title>
             <description><![CDATA[[Bangladesh] ‘No bar’ to ex-major Sadik’s release]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/politics/8a08009dd7e9</guid>
             <pubDate>Sun, 16 Aug 2026 13:24:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarique-rahman-160826-03-1786864064.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Presidential election: Fakhrul, Oli’s candidacies valid]]></title>
-            <description><![CDATA[[Bangladesh] Presidential election: Fakhrul, Oli’s candidacies valid]]></description>
-            <link>https://bdnews24.com/bangladesh/f960f2f40d82</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f960f2f40d82</guid>
-            <pubDate>Sun, 16 Aug 2026 13:18:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/fakhrul-nomination-submit-130826-04-1786611214.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Bangladesh’s biggest win in any format’: Shanto]]></title>
-            <description><![CDATA[[Cricket] ‘Bangladesh’s biggest win in any format’: Shanto]]></description>
-            <link>https://bdnews24.com/cricket/79075da15183</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/79075da15183</guid>
-            <pubDate>Sun, 16 Aug 2026 13:14:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/najmul-hossain-shnto-300726-01-1785419047.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
