@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 03:37:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 04:23:18 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 03:37:25 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 04:23:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Sevilla beat Vallecano as LaLiga gets under way]]></title>
+            <description><![CDATA[[Sport] Sevilla beat Vallecano as LaLiga gets under way]]></description>
+            <link>https://bdnews24.com/sport/de0d380c3cdb</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/de0d380c3cdb</guid>
+            <pubDate>Sun, 16 Aug 2026 10:19:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/sevilla-laliga-160826-01-1786853859.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kim, Putin reaffirm ties on Korean Liberation Day]]></title>
+            <description><![CDATA[[Asia Pacific] Kim, Putin reaffirm ties on Korean Liberation Day]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/3fde6a07fb4f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/3fde6a07fb4f</guid>
+            <pubDate>Sun, 16 Aug 2026 10:16:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/nkorea-russia-160826-01-1786853770.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[EU sends aircraft as Belgium fights record wildfire]]></title>
+            <description><![CDATA[[Europe] EU sends aircraft as Belgium fights record wildfire]]></description>
+            <link>https://bdnews24.com/world/europe/ae496e495384</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/ae496e495384</guid>
+            <pubDate>Sun, 16 Aug 2026 10:13:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/belgium-wildfire-160826-01-1786853521.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Must pick sides in AI race with China: US to partners]]></title>
+            <description><![CDATA[[Technology] Must pick sides in AI race with China: US to partners]]></description>
+            <link>https://bdnews24.com/technology/62ee35e82641</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/62ee35e82641</guid>
+            <pubDate>Sun, 16 Aug 2026 10:04:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-china-ai-race-160826-01-1786852972.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[6 die in Indiana after US storms]]></title>
+            <description><![CDATA[[Americas] 6 die in Indiana after US storms]]></description>
+            <link>https://bdnews24.com/world/americas/55d8aaf63e37</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/55d8aaf63e37</guid>
+            <pubDate>Sun, 16 Aug 2026 09:59:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/indiana-storm-floods-160826-01-1786852654.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[PM heads to Kishoreganj]]></title>
+            <description><![CDATA[[Bangladesh] PM heads to Kishoreganj]]></description>
+            <link>https://bdnews24.com/bangladesh/cc0408c21a79</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cc0408c21a79</guid>
+            <pubDate>Sun, 16 Aug 2026 09:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarique-rahman-160826-01-1786852022.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump's 2024 grocery photo op haunts Republicans]]></title>
+            <description><![CDATA[[Americas] Trump's 2024 grocery photo op haunts Republicans]]></description>
+            <link>https://bdnews24.com/world/americas/6b75cbff4c0f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/6b75cbff4c0f</guid>
+            <pubDate>Sun, 16 Aug 2026 09:54:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/trump-grocery-photo-160826-01-1786852427.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Green fends off Tigers’ victory]]></title>
             <description><![CDATA[[Cricket] Green fends off Tigers’ victory]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/business/57b658542936</guid>
             <pubDate>Sun, 16 Aug 2026 00:12:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/rmg-china-150826-1-1786817506.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Burnham urges reflection after Arday’s death]]></title>
-            <description><![CDATA[[World] Burnham urges reflection after Arday’s death]]></description>
-            <link>https://bdnews24.com/world/a3fa7fbd8a06</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/a3fa7fbd8a06</guid>
-            <pubDate>Sat, 15 Aug 2026 23:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/burnham-reflection-arday-150826-01-1786816201.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jannat, Kabita lose medals in gender eligibility row]]></title>
-            <description><![CDATA[[Sport] Jannat, Kabita lose medals in gender eligibility row]]></description>
-            <link>https://bdnews24.com/sport/6e2781c9b46c</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/6e2781c9b46c</guid>
-            <pubDate>Sat, 15 Aug 2026 23:23:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/jannat-kobita-150826-01-1786809593.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BKMEA asks to spread 2 months’ bills over a year]]></title>
-            <description><![CDATA[[Business] BKMEA asks to spread 2 months’ bills over a year]]></description>
-            <link>https://bdnews24.com/business/fb0935941492</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/fb0935941492</guid>
-            <pubDate>Sat, 15 Aug 2026 23:06:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025May/SM/bnimg-205038-2012-09-15-1746894068.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Job test was awaiting Rana, but death came first]]></title>
-            <description><![CDATA[[Bangladesh] Job test was awaiting Rana, but death came first]]></description>
-            <link>https://bdnews24.com/bangladesh/beb19ce35d9b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/beb19ce35d9b</guid>
-            <pubDate>Sat, 15 Aug 2026 22:58:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/gaibandha-chittagong-150826-03-1786809751.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PM to visit Kishoreganj Sunday]]></title>
-            <description><![CDATA[[Bangladesh] PM to visit Kishoreganj Sunday]]></description>
-            <link>https://bdnews24.com/bangladesh/c343faddb6ab</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c343faddb6ab</guid>
-            <pubDate>Sat, 15 Aug 2026 22:31:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026February/SM/tarique-rahaman-plan-140226-101-1771265340.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[$50mn ransom funded al Qaeda's Mali offensive: UN]]></title>
-            <description><![CDATA[[World] $50mn ransom funded al Qaeda's Mali offensive: UN]]></description>
-            <link>https://bdnews24.com/world/72f8f8055466</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/72f8f8055466</guid>
-            <pubDate>Sat, 15 Aug 2026 22:22:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/al-qaeda-15082026-01-1786810881.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[MP Amir Hamza's car attacked in Kushtia]]></title>
-            <description><![CDATA[[Politics] MP Amir Hamza's car attacked in Kushtia]]></description>
-            <link>https://bdnews24.com/politics/1ac82b8c797f</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/1ac82b8c797f</guid>
-            <pubDate>Sat, 15 Aug 2026 22:12:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/kushtia-clash-150826-01-1786808241.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
