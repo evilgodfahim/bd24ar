@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 02:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 03:37:25 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 02:13:27 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 03:37:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Green fends off Tigers’ victory]]></title>
+            <description><![CDATA[[Cricket] Green fends off Tigers’ victory]]></description>
+            <link>https://bdnews24.com/cricket/944cbbc756c4</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/944cbbc756c4</guid>
+            <pubDate>Sun, 16 Aug 2026 09:19:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bangladesh-celebration-150826-01-1786785036.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[More bodies recovered in Colombia days after quake]]></title>
+            <description><![CDATA[[Americas] More bodies recovered in Colombia days after quake]]></description>
+            <link>https://bdnews24.com/world/americas/0ea06325e462</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/0ea06325e462</guid>
+            <pubDate>Sun, 16 Aug 2026 09:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/colombia-quake-160826-01-1786849839.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[BRAC Bank profit jumps 57% in H1]]></title>
             <description><![CDATA[[Business] BRAC Bank profit jumps 57% in H1]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/politics/1ac82b8c797f</guid>
             <pubDate>Sat, 15 Aug 2026 22:12:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/kushtia-clash-150826-01-1786808241.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gas supply rises 26% as LNG flow picks up]]></title>
-            <description><![CDATA[[Business] Gas supply rises 26% as LNG flow picks up]]></description>
-            <link>https://bdnews24.com/business/7e555641d2a2</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/7e555641d2a2</guid>
-            <pubDate>Sat, 15 Aug 2026 21:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/gas-crisis-jatrabari-130826-014-1786634840.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sitakunda shipbreaking yard shut]]></title>
-            <description><![CDATA[[Bangladesh] Sitakunda shipbreaking yard shut]]></description>
-            <link>https://bdnews24.com/bangladesh/7ce3ca0d2a97</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7ce3ca0d2a97</guid>
-            <pubDate>Sat, 15 Aug 2026 21:34:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/chattogram-the-ship-yard-140826-1786728829.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
