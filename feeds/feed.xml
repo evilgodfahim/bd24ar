@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 15:09:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 16:09:45 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 15:09:06 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 16:09:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Can Hasina still appeal? ICT prosecutor weighs in]]></title>
+            <description><![CDATA[[Bangladesh] Can Hasina still appeal? ICT prosecutor weighs in]]></description>
+            <link>https://bdnews24.com/bangladesh/5691518b8348</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5691518b8348</guid>
+            <pubDate>Sun, 16 Aug 2026 21:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025November/SM/sheikh-hasina-161125-201-1763315251.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Satellite to probe universe's first light from moon]]></title>
+            <description><![CDATA[[Science] Satellite to probe universe's first light from moon]]></description>
+            <link>https://bdnews24.com/science/022e395eec82</link>
+            <guid isPermaLink="true">https://bdnews24.com/science/022e395eec82</guid>
+            <pubDate>Sun, 16 Aug 2026 21:20:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/cosmocube-moon-160826-01-1786893630.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bomb-like objects found in Demra]]></title>
+            <description><![CDATA[[Bangladesh] Bomb-like objects found in Demra]]></description>
+            <link>https://bdnews24.com/bangladesh/002949f9b692</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/002949f9b692</guid>
+            <pubDate>Sun, 16 Aug 2026 21:19:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bomb-like-object-160826-02-1786894300.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mukhtar brace powers Nashville past Miami]]></title>
+            <description><![CDATA[[Sport] Mukhtar brace powers Nashville past Miami]]></description>
+            <link>https://bdnews24.com/sport/0201663fb024</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/0201663fb024</guid>
+            <pubDate>Sun, 16 Aug 2026 21:09:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/hany-mukhtar-160826-01-1786892947.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Where the expressway blooms]]></title>
             <description><![CDATA[[Image] Where the expressway blooms]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/82004f69870b</guid>
             <pubDate>Sun, 16 Aug 2026 17:16:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/brazil-lila-160826-01-1786878956.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[1 dead as Ukrainian drones hit Moscow]]></title>
-            <description><![CDATA[[World] 1 dead as Ukrainian drones hit Moscow]]></description>
-            <link>https://bdnews24.com/world/67c55cadc437</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/67c55cadc437</guid>
-            <pubDate>Sun, 16 Aug 2026 17:07:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ukraine-drone-160826-01-1786878352.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt moves to ease tea industry crisis]]></title>
-            <description><![CDATA[[Bangladesh] Govt moves to ease tea industry crisis]]></description>
-            <link>https://bdnews24.com/bangladesh/707b08d7e321</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/707b08d7e321</guid>
-            <pubDate>Sun, 16 Aug 2026 16:48:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/tea-garden-worker-190122-01-1786877284.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India targets higher cooking gas output]]></title>
-            <description><![CDATA[[Business] India targets higher cooking gas output]]></description>
-            <link>https://bdnews24.com/business/9230b45d81db</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/9230b45d81db</guid>
-            <pubDate>Sun, 16 Aug 2026 16:23:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/cylinder-india-160826-1786875677.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Police explain how ex-major Sadikul torched car while in jail]]></title>
-            <description><![CDATA[[Bangladesh] Police explain how ex-major Sadikul torched car while in jail]]></description>
-            <link>https://bdnews24.com/bangladesh/6db84f184d1e</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6db84f184d1e</guid>
-            <pubDate>Sun, 16 Aug 2026 15:29:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/sadiqul-haque-160826-01-1786866842.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
