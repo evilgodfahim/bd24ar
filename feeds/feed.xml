@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 17:09:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 18:10:18 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 17:09:47 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 18:10:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Ronaldo hints at football farewell]]></title>
+            <description><![CDATA[[Sport] Ronaldo hints at football farewell]]></description>
+            <link>https://bdnews24.com/sport/0c6ee582a714</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/0c6ee582a714</guid>
+            <pubDate>Sun, 16 Aug 2026 23:49:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/cristiano-ronaldo-070626-01-1783395972-1786902549.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arsenal thrash City 3-0 in Community Shield]]></title>
+            <description><![CDATA[[Sport] Arsenal thrash City 3-0 in Community Shield]]></description>
+            <link>https://bdnews24.com/sport/f7874f78ec24</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/f7874f78ec24</guid>
+            <pubDate>Sun, 16 Aug 2026 23:19:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/arsenal-city-160826-01-1786900725.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[100,000 without power in Hawaii as Lala weakens to storm]]></title>
             <description><![CDATA[[Americas] 100,000 without power in Hawaii as Lala weakens to storm]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/7bb56329a94b</guid>
             <pubDate>Sun, 16 Aug 2026 18:09:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/sadiqul-haque-160826-01-1786866842.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[New pay scale may come any time: chief secy]]></title>
-            <description><![CDATA[[Bangladesh] New pay scale may come any time: chief secy]]></description>
-            <link>https://bdnews24.com/bangladesh/4f1e66bf3d7e</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4f1e66bf3d7e</guid>
-            <pubDate>Sun, 16 Aug 2026 17:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/abdus-sattar-160826-01-1786880019.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh has investment-friendly environment: minister]]></title>
-            <description><![CDATA[[Bangladesh] Bangladesh has investment-friendly environment: minister]]></description>
-            <link>https://bdnews24.com/bangladesh/9fdd5c075286</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9fdd5c075286</guid>
-            <pubDate>Sun, 16 Aug 2026 17:53:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/sylhet-commerce-minister-030426-01-1775234105.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
