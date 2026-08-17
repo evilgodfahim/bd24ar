@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – Latest News]]></title>
+        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 02:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 03:38:10 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 02:12:28 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 03:38:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: timeout of 65000ms exceeded]]></description>
-            <link>https://bdnews24.com</link>
-            <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Mon, 17 Aug 2026 02:12:28 GMT</pubDate>
+            <title><![CDATA[Hayden Panettiere dies]]></title>
+            <description><![CDATA[[Entertainment] Hayden Panettiere dies]]></description>
+            <link>https://bdnews24.com/entertainment/bdc1581e44b4</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/bdc1581e44b4</guid>
+            <pubDate>Mon, 17 Aug 2026 09:35:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/hayden-170826-1786937610.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hormuz sees sharp fall in vessel traffic]]></title>
+            <description><![CDATA[[West Asia] Hormuz sees sharp fall in vessel traffic]]></description>
+            <link>https://bdnews24.com/world/middle-east/d20ca799089d</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/d20ca799089d</guid>
+            <pubDate>Mon, 17 Aug 2026 09:28:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/hormuz-170826-1786937264.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hunt for Indonesia quake victims ongoing on Independence Day]]></title>
+            <description><![CDATA[[South-East Asia] Hunt for Indonesia quake victims ongoing on Independence Day]]></description>
+            <link>https://bdnews24.com/world/south-east-asia/d69ed4b9ef06</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/south-east-asia/d69ed4b9ef06</guid>
+            <pubDate>Mon, 17 Aug 2026 09:25:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/indonesia-quake-victims-170826-01-1786937024.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran parliament backs tougher foreign influence law]]></title>
+            <description><![CDATA[[West Asia] Iran parliament backs tougher foreign influence law]]></description>
+            <link>https://bdnews24.com/world/middle-east/a2b55c62caf5</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/a2b55c62caf5</guid>
+            <pubDate>Mon, 17 Aug 2026 09:15:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/iran-parliament-170826-1786936436.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Congo’s deadliest Ebola outbreak claims 2,325 lives]]></title>
+            <description><![CDATA[[Health] Congo’s deadliest Ebola outbreak claims 2,325 lives]]></description>
+            <link>https://bdnews24.com/health/5254e06a0f7b</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/5254e06a0f7b</guid>
+            <pubDate>Mon, 17 Aug 2026 09:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/congo-ebola-170826-1786935887.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump orders Pentagon to cut back S Korea military exercises]]></title>
+            <description><![CDATA[[World] Trump orders Pentagon to cut back S Korea military exercises]]></description>
+            <link>https://bdnews24.com/world/8eacca77287a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/8eacca77287a</guid>
+            <pubDate>Mon, 17 Aug 2026 09:02:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-army-soldiers-170826-01-1786935652.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Barcelona seal £65mn deal for Rodri: report]]></title>
+            <description><![CDATA[[Sport] Barcelona seal £65mn deal for Rodri: report]]></description>
+            <link>https://bdnews24.com/sport/d6b2e23aa5d2</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/d6b2e23aa5d2</guid>
+            <pubDate>Mon, 17 Aug 2026 02:58:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rodri-170826-01-1786912951.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[6 months in, how has the government fared?]]></title>
+            <description><![CDATA[[Politics] 6 months in, how has the government fared?]]></description>
+            <link>https://bdnews24.com/politics/3256038a3c60</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/3256038a3c60</guid>
+            <pubDate>Mon, 17 Aug 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026February/SM/tarique-rahman-election-manifesto-060226-058-1770388921.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[S Alam power firm gets full-credit import facility]]></title>
+            <description><![CDATA[[Business] S Alam power firm gets full-credit import facility]]></description>
+            <link>https://bdnews24.com/business/9d0e9182c688</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/9d0e9182c688</guid>
+            <pubDate>Mon, 17 Aug 2026 00:53:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024August/SM/s-alam-tower-210824-01-1724214218.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ronaldo hints at football farewell]]></title>
+            <description><![CDATA[[Sport] Ronaldo hints at football farewell]]></description>
+            <link>https://bdnews24.com/sport/0c6ee582a714</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/0c6ee582a714</guid>
+            <pubDate>Sun, 16 Aug 2026 23:49:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/cristiano-ronaldo-070626-01-1783395972-1786902549.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arsenal thrash City 3-0 in Community Shield]]></title>
+            <description><![CDATA[[Sport] Arsenal thrash City 3-0 in Community Shield]]></description>
+            <link>https://bdnews24.com/sport/f7874f78ec24</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/f7874f78ec24</guid>
+            <pubDate>Sun, 16 Aug 2026 23:19:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/arsenal-city-160826-01-1786900725.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lala damages 100 homes, leaves 180,000 without power]]></title>
+            <description><![CDATA[[Americas] Lala damages 100 homes, leaves 180,000 without power]]></description>
+            <link>https://bdnews24.com/world/americas/19a47106a988</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/19a47106a988</guid>
+            <pubDate>Sun, 16 Aug 2026 22:54:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/hawaii-lala-160826-01-1786899006.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump's envoys meet mediators]]></title>
+            <description><![CDATA[[World] Trump's envoys meet mediators]]></description>
+            <link>https://bdnews24.com/world/1d9afd509bab</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/1d9afd509bab</guid>
+            <pubDate>Sun, 16 Aug 2026 22:38:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/gaza-trump-160826-01-1786898236.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[2 die as wildfires sweep Greek island]]></title>
+            <description><![CDATA[[World] 2 die as wildfires sweep Greek island]]></description>
+            <link>https://bdnews24.com/world/7d14ca9109c7</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/7d14ca9109c7</guid>
+            <pubDate>Sun, 16 Aug 2026 22:20:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/greece-wildfire-160826-01-1786897151.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Can Hasina still appeal? ICT prosecutor weighs in]]></title>
+            <description><![CDATA[[Bangladesh] Can Hasina still appeal? ICT prosecutor weighs in]]></description>
+            <link>https://bdnews24.com/bangladesh/5691518b8348</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5691518b8348</guid>
+            <pubDate>Sun, 16 Aug 2026 21:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025November/SM/sheikh-hasina-161125-201-1763315251.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Satellite to probe universe's first light from moon]]></title>
+            <description><![CDATA[[Science] Satellite to probe universe's first light from moon]]></description>
+            <link>https://bdnews24.com/science/022e395eec82</link>
+            <guid isPermaLink="true">https://bdnews24.com/science/022e395eec82</guid>
+            <pubDate>Sun, 16 Aug 2026 21:20:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/cosmocube-moon-160826-01-1786893630.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bomb-like objects found in Demra]]></title>
+            <description><![CDATA[[Bangladesh] Bomb-like objects found in Demra]]></description>
+            <link>https://bdnews24.com/bangladesh/002949f9b692</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/002949f9b692</guid>
+            <pubDate>Sun, 16 Aug 2026 21:19:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bomb-like-object-160826-02-1786894300.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mukhtar brace powers Nashville past Miami]]></title>
+            <description><![CDATA[[Sport] Mukhtar brace powers Nashville past Miami]]></description>
+            <link>https://bdnews24.com/sport/0201663fb024</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/0201663fb024</guid>
+            <pubDate>Sun, 16 Aug 2026 21:09:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/hany-mukhtar-160826-01-1786892947.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Where the expressway blooms]]></title>
+            <description><![CDATA[[Image] Where the expressway blooms]]></description>
+            <link>https://bdnews24.com/media-en/image/604d247e8585</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/604d247e8585</guid>
+            <pubDate>Sun, 16 Aug 2026 20:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mawa-expressway-flower-160826-02-1786882326.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Energy crisis may take 2 years to fix: minister]]></title>
+            <description><![CDATA[[Business] Energy crisis may take 2 years to fix: minister]]></description>
+            <link>https://bdnews24.com/business/ec754507505b</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/ec754507505b</guid>
+            <pubDate>Sun, 16 Aug 2026 20:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/amcham-luncheon-16082026-1786889522.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
