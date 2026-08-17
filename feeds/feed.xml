@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 17:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 18:19:03 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 17:15:29 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 18:19:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Neymar first off under Brazil’s anti-time wasting trial]]></title>
+            <description><![CDATA[[Sport] Neymar first off under Brazil’s anti-time wasting trial]]></description>
+            <link>https://bdnews24.com/sport/a4c2619da3b2</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/a4c2619da3b2</guid>
+            <pubDate>Tue, 18 Aug 2026 00:14:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/neymar-injury-scare-280526-01-1779968049.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dengue treated in Suhrawardy alongside ‘highly contagious’ measles]]></title>
+            <description><![CDATA[[Health] Dengue treated in Suhrawardy alongside ‘highly contagious’ measles]]></description>
+            <link>https://bdnews24.com/health/46f9e43fd6bb</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/46f9e43fd6bb</guid>
+            <pubDate>Tue, 18 Aug 2026 00:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/sahrawardi-hospital-17082026-1-1786985929.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Justice Asaduzzaman named ACC chairman]]></title>
+            <description><![CDATA[[Bangladesh] Justice Asaduzzaman named ACC chairman]]></description>
+            <link>https://bdnews24.com/bangladesh/69386ae35885</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/69386ae35885</guid>
+            <pubDate>Mon, 17 Aug 2026 23:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/akm-asaduzaman-acc-170826-1786987317.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rain aids fight against Belgium's biggest wildfire]]></title>
+            <description><![CDATA[[World] Rain aids fight against Belgium's biggest wildfire]]></description>
+            <link>https://bdnews24.com/world/b38b9acb0731</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/b38b9acb0731</guid>
+            <pubDate>Mon, 17 Aug 2026 23:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/belgium-wildfire-170826-01-1786987822.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Govt to buy 2 LNG cargoes to ease gas crisis]]></title>
             <description><![CDATA[[Business] Govt to buy 2 LNG cargoes to ease gas crisis]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/business/51ed703d9ab7</guid>
             <pubDate>Mon, 17 Aug 2026 19:37:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/cirkle-170826-01-1786965861.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2 face interrogation over Demra explosives]]></title>
-            <description><![CDATA[[Bangladesh] 2 face interrogation over Demra explosives]]></description>
-            <link>https://bdnews24.com/bangladesh/c1a8dc4c8b5d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c1a8dc4c8b5d</guid>
-            <pubDate>Mon, 17 Aug 2026 19:35:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bomb-like-object-160826-02-1786970440.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why Dipu Moni shouldn’t get bail in 5 cases, HC asks]]></title>
-            <description><![CDATA[[Bangladesh] Why Dipu Moni shouldn’t get bail in 5 cases, HC asks]]></description>
-            <link>https://bdnews24.com/bangladesh/d640454be509</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d640454be509</guid>
-            <pubDate>Mon, 17 Aug 2026 19:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024August/SM/dipu-moni-court-200824-01-1724156660.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Hamas chief who talks to Washington]]></title>
-            <description><![CDATA[[World] The Hamas chief who talks to Washington]]></description>
-            <link>https://bdnews24.com/world/b9a0dafa8d2f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/b9a0dafa8d2f</guid>
-            <pubDate>Mon, 17 Aug 2026 19:06:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/khalil-gaza-170826-01-1786971868.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[277 officers made deputy secretary]]></title>
-            <description><![CDATA[[Bangladesh] 277 officers made deputy secretary]]></description>
-            <link>https://bdnews24.com/bangladesh/cc9ad95761e6</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cc9ad95761e6</guid>
-            <pubDate>Mon, 17 Aug 2026 19:03:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ministry-pub-admin-111123-01-1786970865.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
