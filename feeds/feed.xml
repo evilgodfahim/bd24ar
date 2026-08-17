@@ -4,13 +4,37 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 11:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 12:16:41 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 11:14:05 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 12:16:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Narsingdi school asked to explain 100% GPA-5 result]]></title>
-            <description><![CDATA[[Education] Narsingdi school asked to explain 100% GPA-5 result]]></description>
+            <title><![CDATA[3 to die over Ctg driver murder]]></title>
+            <description><![CDATA[[Bangladesh] 3 to die over Ctg driver murder]]></description>
+            <link>https://bdnews24.com/bangladesh/60d18a0dc478</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/60d18a0dc478</guid>
+            <pubDate>Mon, 17 Aug 2026 17:42:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/court-building-chattogram-porir-pahar-170826-01-1786963674.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[HC plea seeks wider presidential voter base]]></title>
+            <description><![CDATA[[Bangladesh] HC plea seeks wider presidential voter base]]></description>
+            <link>https://bdnews24.com/bangladesh/adb478c60c8c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/adb478c60c8c</guid>
+            <pubDate>Mon, 17 Aug 2026 17:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/highcourt-080726-01-1783528631.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[More time needed to improve law and order: minister]]></title>
+            <description><![CDATA[[Politics] More time needed to improve law and order: minister]]></description>
+            <link>https://bdnews24.com/politics/18cb32a1845c</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/18cb32a1845c</guid>
+            <pubDate>Mon, 17 Aug 2026 17:18:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/salahuddin-ahmed-170826-1786963208.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Narsingdi school told to explain perfect score]]></title>
+            <description><![CDATA[[Education] Narsingdi school told to explain perfect score]]></description>
             <link>https://bdnews24.com/education/ea56805b5360</link>
             <guid isPermaLink="true">https://bdnews24.com/education/ea56805b5360</guid>
             <pubDate>Mon, 17 Aug 2026 17:08:00 GMT</pubDate>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/042f86b7f83e</guid>
             <pubDate>Mon, 17 Aug 2026 13:40:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mediterranean-sea-170826-1786951792.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan suspends medical studies for Afghan students: report]]></title>
-            <description><![CDATA[[Neighbours] Pakistan suspends medical studies for Afghan students: report]]></description>
-            <link>https://bdnews24.com/neighbours/c18e68eb0c44</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/c18e68eb0c44</guid>
-            <pubDate>Mon, 17 Aug 2026 13:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/afghan-students-170826-01-1786949106.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kushner to meet Netanyahu after rare Hamas talks]]></title>
-            <description><![CDATA[[World] Kushner to meet Netanyahu after rare Hamas talks]]></description>
-            <link>https://bdnews24.com/world/6d4e643ffa8e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/6d4e643ffa8e</guid>
-            <pubDate>Mon, 17 Aug 2026 13:00:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/jared-kushner-140826-1786949948.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Salman, Sanjay reunite for ‘7 Dogs’]]></title>
-            <description><![CDATA[[Film] Salman, Sanjay reunite for ‘7 Dogs’]]></description>
-            <link>https://bdnews24.com/film/670129167e14</link>
-            <guid isPermaLink="true">https://bdnews24.com/film/670129167e14</guid>
-            <pubDate>Mon, 17 Aug 2026 12:42:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/salman-sanjay-bollywood-170826-01-1786944631.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
