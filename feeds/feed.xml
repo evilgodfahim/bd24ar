@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 16:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 17:15:29 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 16:12:32 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 17:15:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Govt to buy 2 LNG cargoes to ease gas crisis]]></title>
+            <description><![CDATA[[Business] Govt to buy 2 LNG cargoes to ease gas crisis]]></description>
+            <link>https://bdnews24.com/business/1884736c6ef9</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/1884736c6ef9</guid>
+            <pubDate>Mon, 17 Aug 2026 22:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/gas-crisis-jatrabari-130826-014-1786634840.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran threatens offensive in Hormuz]]></title>
+            <description><![CDATA[[World] Iran threatens offensive in Hormuz]]></description>
+            <link>https://bdnews24.com/world/ea5faa42d104</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ea5faa42d104</guid>
+            <pubDate>Mon, 17 Aug 2026 22:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/iran-hormuz-17082026-01-1786984121.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hasina's status in India unknown: chief prosecutor]]></title>
+            <description><![CDATA[[Bangladesh] Hasina's status in India unknown: chief prosecutor]]></description>
+            <link>https://bdnews24.com/bangladesh/581509f08361</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/581509f08361</guid>
+            <pubDate>Mon, 17 Aug 2026 22:27:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2025November/SM/sheikh-hasina-161125-202-1763368762.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Israel flags in Lebanon violate UN resolution: UNIFIL]]></title>
             <description><![CDATA[[World] Israel flags in Lebanon violate UN resolution: UNIFIL]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/cc9ad95761e6</guid>
             <pubDate>Mon, 17 Aug 2026 19:03:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ministry-pub-admin-111123-01-1786970865.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Basabo digs deep, Dhaka bears the cost]]></title>
-            <description><![CDATA[[Image] Basabo digs deep, Dhaka bears the cost]]></description>
-            <link>https://bdnews24.com/media-en/image/e1248435a3be</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/e1248435a3be</guid>
-            <pubDate>Mon, 17 Aug 2026 18:52:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/khilgaon-road-digging-170826-41-1786968591.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No political repression in 6 months: Mahdi]]></title>
-            <description><![CDATA[[Bangladesh] No political repression in 6 months: Mahdi]]></description>
-            <link>https://bdnews24.com/bangladesh/82b83e763245</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/82b83e763245</guid>
-            <pubDate>Mon, 17 Aug 2026 18:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/pm-advisor-mahdi-amin-17082026-1786969042.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[August 17, 2026]]></title>
-            <description><![CDATA[[Image] August 17, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/1ecef7d35c82</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/1ecef7d35c82</guid>
-            <pubDate>Mon, 17 Aug 2026 18:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/brtc-pink-women-bus-160826-009-1786967640.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
