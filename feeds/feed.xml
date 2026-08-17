@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 04:29:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 05:24:24 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 04:29:16 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 05:24:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Pedestrian dies in Narail road accident]]></title>
+            <description><![CDATA[[Bangladesh] Pedestrian dies in Narail road accident]]></description>
+            <link>https://bdnews24.com/bangladesh/1593ad3f96b8</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1593ad3f96b8</guid>
+            <pubDate>Mon, 17 Aug 2026 11:20:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/narail-accident-170826-1786935577.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australia seek way forward after Bangladesh loss]]></title>
+            <description><![CDATA[[Cricket] Australia seek way forward after Bangladesh loss]]></description>
+            <link>https://bdnews24.com/cricket/fcfb54d39a18</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/fcfb54d39a18</guid>
+            <pubDate>Mon, 17 Aug 2026 11:06:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/pat-cummins-australia-16082026-01-1786865780.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gulf war keeps oil prices up]]></title>
+            <description><![CDATA[[Business] Gulf war keeps oil prices up]]></description>
+            <link>https://bdnews24.com/business/d6018182b294</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/d6018182b294</guid>
+            <pubDate>Mon, 17 Aug 2026 10:55:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/moscow-fuel-pump-170826-01-1786942504.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mild quake around dawn, epicentre in Narsingdi]]></title>
+            <description><![CDATA[[Bangladesh] Mild quake around dawn, epicentre in Narsingdi]]></description>
+            <link>https://bdnews24.com/bangladesh/cd0b752c9b8a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cd0b752c9b8a</guid>
+            <pubDate>Mon, 17 Aug 2026 10:52:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025February/SM/puri-earthquake-250225-01-1740456227.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Maguire hopes Rashford stays at Man Utd]]></title>
+            <description><![CDATA[[Sport] Maguire hopes Rashford stays at Man Utd]]></description>
+            <link>https://bdnews24.com/sport/fc8e95daffd2</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/fc8e95daffd2</guid>
+            <pubDate>Mon, 17 Aug 2026 10:42:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/rashford-170826-1786941749.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Disney fans go the distance for rare D23 pins]]></title>
+            <description><![CDATA[[Entertainment] Disney fans go the distance for rare D23 pins]]></description>
+            <link>https://bdnews24.com/entertainment/8148ada6f305</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/8148ada6f305</guid>
+            <pubDate>Mon, 17 Aug 2026 10:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/disneyd23-150826-1786941122.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[6 die in ‘stampede-like’ event in eastern India]]></title>
+            <description><![CDATA[[Neighbours] 6 die in ‘stampede-like’ event in eastern India]]></description>
+            <link>https://bdnews24.com/neighbours/c596dd305ed7</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/c596dd305ed7</guid>
+            <pubDate>Mon, 17 Aug 2026 10:29:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/india-temple-170826-1786940931.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[S Korea landslide kills one]]></title>
             <description><![CDATA[[Asia Pacific] S Korea landslide kills one]]></description>
@@ -62,7 +118,7 @@
             <link>https://bdnews24.com/entertainment/bdc1581e44b4</link>
             <guid isPermaLink="true">https://bdnews24.com/entertainment/bdc1581e44b4</guid>
             <pubDate>Mon, 17 Aug 2026 09:35:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/hayden1-170826-1786938764.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/hayden2-170825-1786942486.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Hormuz sees sharp fall in vessel traffic]]></title>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/d6b2e23aa5d2</guid>
             <pubDate>Mon, 17 Aug 2026 02:58:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rodri-170826-01-1786912951.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[6 months in, how has the government fared?]]></title>
-            <description><![CDATA[[Politics] 6 months in, how has the government fared?]]></description>
-            <link>https://bdnews24.com/politics/3256038a3c60</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/3256038a3c60</guid>
-            <pubDate>Mon, 17 Aug 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026February/SM/tarique-rahman-election-manifesto-060226-058-1770388921.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[S Alam power firm gets full-credit import facility]]></title>
-            <description><![CDATA[[Business] S Alam power firm gets full-credit import facility]]></description>
-            <link>https://bdnews24.com/business/9d0e9182c688</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/9d0e9182c688</guid>
-            <pubDate>Mon, 17 Aug 2026 00:53:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024August/SM/s-alam-tower-210824-01-1724214218.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ronaldo hints at football farewell]]></title>
-            <description><![CDATA[[Sport] Ronaldo hints at football farewell]]></description>
-            <link>https://bdnews24.com/sport/0c6ee582a714</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/0c6ee582a714</guid>
-            <pubDate>Sun, 16 Aug 2026 23:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/cristiano-ronaldo-070626-01-1783395972-1786902549.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arsenal thrash City 3-0 in Community Shield]]></title>
-            <description><![CDATA[[Sport] Arsenal thrash City 3-0 in Community Shield]]></description>
-            <link>https://bdnews24.com/sport/f7874f78ec24</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/f7874f78ec24</guid>
-            <pubDate>Sun, 16 Aug 2026 23:19:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/arsenal-city-160826-01-1786900725.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lala damages 100 homes, leaves 180,000 without power]]></title>
-            <description><![CDATA[[Americas] Lala damages 100 homes, leaves 180,000 without power]]></description>
-            <link>https://bdnews24.com/world/americas/19a47106a988</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/19a47106a988</guid>
-            <pubDate>Sun, 16 Aug 2026 22:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/hawaii-lala-160826-01-1786899006.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump's envoys meet mediators]]></title>
-            <description><![CDATA[[World] Trump's envoys meet mediators]]></description>
-            <link>https://bdnews24.com/world/1d9afd509bab</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/1d9afd509bab</guid>
-            <pubDate>Sun, 16 Aug 2026 22:38:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/gaza-trump-160826-01-1786898236.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2 die as wildfires sweep Greek island]]></title>
-            <description><![CDATA[[World] 2 die as wildfires sweep Greek island]]></description>
-            <link>https://bdnews24.com/world/7d14ca9109c7</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/7d14ca9109c7</guid>
-            <pubDate>Sun, 16 Aug 2026 22:20:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/greece-wildfire-160826-01-1786897151.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
