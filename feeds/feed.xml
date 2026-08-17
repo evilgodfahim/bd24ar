@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 05:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 06:27:00 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 05:24:24 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 06:27:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Hearing on Abul Kalam Azad appeal set for Aug 31]]></title>
+            <description><![CDATA[[Bangladesh] Hearing on Abul Kalam Azad appeal set for Aug 31]]></description>
+            <link>https://bdnews24.com/bangladesh/0bb32eaf0874</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0bb32eaf0874</guid>
+            <pubDate>Mon, 17 Aug 2026 12:19:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026January/SM/abul-kalam-azad-210126-007-1768998290.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[7 die in West Bengal hotel fire]]></title>
+            <description><![CDATA[[Neighbours] 7 die in West Bengal hotel fire]]></description>
+            <link>https://bdnews24.com/neighbours/595e8d296777</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/595e8d296777</guid>
+            <pubDate>Mon, 17 Aug 2026 12:01:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarapith-hotel-fire-170826-01-1786944787.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Myanmar confirms nearly 309,000 Rohingya in Bangladesh]]></title>
+            <description><![CDATA[[South Asia] Myanmar confirms nearly 309,000 Rohingya in Bangladesh]]></description>
+            <link>https://bdnews24.com/world/south-asia/35ef4ecf5ddd</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/south-asia/35ef4ecf5ddd</guid>
+            <pubDate>Mon, 17 Aug 2026 11:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/rohingya-camp-170826-01-1786945689.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Low-budget 'disaster' film becomes China's odd hit]]></title>
+            <description><![CDATA[[Entertainment] Low-budget 'disaster' film becomes China's odd hit]]></description>
+            <link>https://bdnews24.com/entertainment/cde871a2db47</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/cde871a2db47</guid>
+            <pubDate>Mon, 17 Aug 2026 11:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/nui-lai-170826-1786945183.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cautionary Signal 3 at four seaports]]></title>
+            <description><![CDATA[[Bangladesh] Cautionary Signal 3 at four seaports]]></description>
+            <link>https://bdnews24.com/bangladesh/3d69a625a5b9</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3d69a625a5b9</guid>
+            <pubDate>Mon, 17 Aug 2026 11:37:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/cyclone-midhili-171123-03-1785131287.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Pedestrian dies in Narail road accident]]></title>
             <description><![CDATA[[Bangladesh] Pedestrian dies in Narail road accident]]></description>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/d20ca799089d</guid>
             <pubDate>Mon, 17 Aug 2026 09:28:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/hormuz-170826-1786937264.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hunt for Indonesia quake victims ongoing on Independence Day]]></title>
-            <description><![CDATA[[South-East Asia] Hunt for Indonesia quake victims ongoing on Independence Day]]></description>
-            <link>https://bdnews24.com/world/south-east-asia/d69ed4b9ef06</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/south-east-asia/d69ed4b9ef06</guid>
-            <pubDate>Mon, 17 Aug 2026 09:25:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/indonesia-quake-victims-170826-01-1786937024.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran parliament backs tougher foreign influence law]]></title>
-            <description><![CDATA[[West Asia] Iran parliament backs tougher foreign influence law]]></description>
-            <link>https://bdnews24.com/world/middle-east/a2b55c62caf5</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/a2b55c62caf5</guid>
-            <pubDate>Mon, 17 Aug 2026 09:15:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/iran-parliament-170826-1786936436.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Congo’s deadliest Ebola outbreak claims 2,325 lives]]></title>
-            <description><![CDATA[[Health] Congo’s deadliest Ebola outbreak claims 2,325 lives]]></description>
-            <link>https://bdnews24.com/health/5254e06a0f7b</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/5254e06a0f7b</guid>
-            <pubDate>Mon, 17 Aug 2026 09:07:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/congo-ebola-170826-1786935887.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump orders Pentagon to cut back S Korea military exercises]]></title>
-            <description><![CDATA[[World] Trump orders Pentagon to cut back S Korea military exercises]]></description>
-            <link>https://bdnews24.com/world/8eacca77287a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/8eacca77287a</guid>
-            <pubDate>Mon, 17 Aug 2026 09:02:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-army-soldiers-170826-01-1786935652.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Barcelona seal £65mn deal for Rodri: report]]></title>
-            <description><![CDATA[[Sport] Barcelona seal £65mn deal for Rodri: report]]></description>
-            <link>https://bdnews24.com/sport/d6b2e23aa5d2</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/d6b2e23aa5d2</guid>
-            <pubDate>Mon, 17 Aug 2026 02:58:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rodri-170826-01-1786912951.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
