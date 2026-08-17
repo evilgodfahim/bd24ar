@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 19:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 20:12:41 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 19:18:57 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 20:12:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump warns Iran, threatens to bomb Oman]]></title>
+            <description><![CDATA[[World] Trump warns Iran, threatens to bomb Oman]]></description>
+            <link>https://bdnews24.com/world/c55edfbe268d</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/c55edfbe268d</guid>
+            <pubDate>Tue, 18 Aug 2026 02:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/donald-trump-180826-01-1786996652.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A Palestinian American's journey to his West Bank home]]></title>
+            <description><![CDATA[[World] A Palestinian American's journey to his West Bank home]]></description>
+            <link>https://bdnews24.com/world/e78adf2f9f26</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e78adf2f9f26</guid>
+            <pubDate>Tue, 18 Aug 2026 01:21:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/palestinian-american-18082026-01-1786994467.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[150 wells promise more gas, but is it enough?]]></title>
             <description><![CDATA[[Bangladesh] 150 wells promise more gas, but is it enough?]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/67675d17da39</guid>
             <pubDate>Mon, 17 Aug 2026 21:18:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/chattogram-expert-committee-inspection-170826-01-1786977846.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BJP replaces social media head after youth protests]]></title>
-            <description><![CDATA[[Neighbours] BJP replaces social media head after youth protests]]></description>
-            <link>https://bdnews24.com/neighbours/6baf90035889</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/6baf90035889</guid>
-            <pubDate>Mon, 17 Aug 2026 21:12:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/bjp-social-media-17082026-01-1786979451.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canada faces 50% US tariffs as talks stall]]></title>
-            <description><![CDATA[[World] Canada faces 50% US tariffs as talks stall]]></description>
-            <link>https://bdnews24.com/world/d2f3cbf9083b</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/d2f3cbf9083b</guid>
-            <pubDate>Mon, 17 Aug 2026 21:10:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/canada-us-170826-01-1786979363.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
