@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 08:28:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 09:27:21 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 08:28:07 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 09:27:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Thai gun sellers see little fix in latest crackdown]]></title>
+            <description><![CDATA[[Asia Pacific] Thai gun sellers see little fix in latest crackdown]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/4bf2cf9075f4</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/4bf2cf9075f4</guid>
+            <pubDate>Mon, 17 Aug 2026 15:15:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/thai-gun-selling-170826-1786958095.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump visa crackdown pushes tech talent home]]></title>
+            <description><![CDATA[[Technology] Trump visa crackdown pushes tech talent home]]></description>
+            <link>https://bdnews24.com/technology/ca14ecc55c47</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/ca14ecc55c47</guid>
+            <pubDate>Mon, 17 Aug 2026 14:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2025December/SM/us-state-department-logo-301125-01-1764819364.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Shah Rukh, Ajay Devgn told to drop Vimal ads]]></title>
             <description><![CDATA[[Entertainment] Shah Rukh, Ajay Devgn told to drop Vimal ads]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/cricket/fcfb54d39a18</guid>
             <pubDate>Mon, 17 Aug 2026 11:06:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/pat-cummins-australia-16082026-01-1786865780.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gulf war keeps oil prices up]]></title>
-            <description><![CDATA[[Business] Gulf war keeps oil prices up]]></description>
-            <link>https://bdnews24.com/business/d6018182b294</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/d6018182b294</guid>
-            <pubDate>Mon, 17 Aug 2026 10:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/moscow-fuel-pump-170826-01-1786942504.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mild quake around dawn, epicentre in Narsingdi]]></title>
-            <description><![CDATA[[Bangladesh] Mild quake around dawn, epicentre in Narsingdi]]></description>
-            <link>https://bdnews24.com/bangladesh/cd0b752c9b8a</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cd0b752c9b8a</guid>
-            <pubDate>Mon, 17 Aug 2026 10:52:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025February/SM/puri-earthquake-250225-01-1740456227.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
