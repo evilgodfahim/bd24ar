@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ]]></title>
+        <description><![CDATA[bangla.bdnews24.com আর্কাইভ থেকে সর্বশেষ সংবাদ]]></description>
         <link>https://bangla.bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 10:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 11:14:09 GMT</lastBuildDate>
         <atom:link href="https://bangla.bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 10:16:16 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 11:14:09 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
-            <link>https://bangla.bdnews24.com</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com</guid>
-            <pubDate>Tue, 18 Aug 2026 10:16:16 GMT</pubDate>
+            <title><![CDATA[বগুরায় নাশকতা ও বিস্ফোরক মামলায় আওয়ামী লীগ নেতা গ্রেপ্তার]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] বগুরায় নাশকতা ও বিস্ফোরক মামলায় আওয়ামী লীগ নেতা গ্রেপ্তার]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/65aeea4226b9</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/65aeea4226b9</guid>
+            <pubDate>Tue, 18 Aug 2026 11:14:09 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bogura-arrest-180826-1787051249.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[মুচলেকা দিয়ে থানা থেকে ছাড়া পেলেন হবিগঞ্জের বৈছাআ নেতা মাহদি]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] মুচলেকা দিয়ে থানা থেকে ছাড়া পেলেন হবিগঞ্জের বৈছাআ নেতা মাহদি]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/44073745bc98</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/44073745bc98</guid>
+            <pubDate>Tue, 18 Aug 2026 11:14:09 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/habiganj-mahdi-free-180826-01-1787051075.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[স্মৃতির আঙিনায় যতীন সরকার: একটি অপ্রকাশিত সাক্ষাৎকার]]></title>
+            <description><![CDATA[[মতামত] স্মৃতির আঙিনায় যতীন সরকার: একটি অপ্রকাশিত সাক্ষাৎকার]]></description>
+            <link>https://bangla.bdnews24.com/opinion/6ee322636eca</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/opinion/6ee322636eca</guid>
+            <pubDate>Tue, 18 Aug 2026 11:14:09 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/jatin-sarker-1787050762.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[রেসিপি: আইড় মাছের ভুনা ঝোল]]></title>
+            <description><![CDATA[[আহারে বাহারে] রেসিপি: আইড় মাছের ভুনা ঝোল]]></description>
+            <link>https://bangla.bdnews24.com/lifestyle/Aharebahare/43f99cef5652</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/lifestyle/Aharebahare/43f99cef5652</guid>
+            <pubDate>Tue, 18 Aug 2026 11:14:09 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/fish-recipe-180826-02-1787050892.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[স্ট্রাইকার আল আমিন ১৫ ম্যাচ নিষিদ্ধ]]></title>
+            <description><![CDATA[[খেলা] স্ট্রাইকার আল আমিন ১৫ ম্যাচ নিষিদ্ধ]]></description>
+            <link>https://bangla.bdnews24.com/sport/cab924adb65a</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/cab924adb65a</guid>
+            <pubDate>Tue, 18 Aug 2026 11:14:09 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/al-amin-180826-01-1787051312.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[গ্যাস সংকট আগের সরকারের পাপের ফল: উপদেষ্টা জাহেদ]]></title>
+            <description><![CDATA[[টিউব] গ্যাস সংকট আগের সরকারের পাপের ফল: উপদেষ্টা জাহেদ]]></description>
+            <link>https://bangla.bdnews24.com/tube/940c14023e55</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/940c14023e55</guid>
+            <pubDate>Tue, 18 Aug 2026 11:14:09 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/zahed-sot-thumb-10082026-1787050294.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[খড়মপুর মাজারের দানবাক্সে সাত দিনে মিলল ১ কোটি তিন লাখ টাকা]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] খড়মপুর মাজারের দানবাক্সে সাত দিনে মিলল ১ কোটি তিন লাখ টাকা]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/46b70c240e41</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/46b70c240e41</guid>
+            <pubDate>Tue, 18 Aug 2026 11:14:09 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/brahmanbaria-akhaura-180826-01-1787050231.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘ভাড়া বাকি’, বাংলাদেশ জাসদকে অফিস ছাড়ার নোটিস]]></title>
+            <description><![CDATA[[রাজনীতি] ‘ভাড়া বাকি’, বাংলাদেশ জাসদকে অফিস ছাড়ার নোটিস]]></description>
+            <link>https://bangla.bdnews24.com/politics/1531a16396db</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/politics/1531a16396db</guid>
+            <pubDate>Tue, 18 Aug 2026 11:14:09 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/jasod-vaban-150826-01-1786791450.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[মডেল রিধির আত্মহত্যা: প্রেমিকের জামিন শুনানি পেছাল]]></title>
+            <description><![CDATA[[বাংলাদেশ] মডেল রিধির আত্মহত্যা: প্রেমিকের জামিন শুনানি পেছাল]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/67910562491d</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/67910562491d</guid>
+            <pubDate>Tue, 18 Aug 2026 11:14:09 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ridhika-ridhi-160826-1786854758.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ইমরান খানকে কারাগার থেকে হাসপাতালে নেওয়ার নির্দেশ সুপ্রিম কোর্টের]]></title>
+            <description><![CDATA[[বিশ্ব] ইমরান খানকে কারাগার থেকে হাসপাতালে নেওয়ার নির্দেশ সুপ্রিম কোর্টের]]></description>
+            <link>https://bangla.bdnews24.com/world/1d1e061f3735</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/world/1d1e061f3735</guid>
+            <pubDate>Tue, 18 Aug 2026 11:14:09 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/imran-khan-180726-01-1787049860.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[লিভারপুলের নতুন চেহারার রক্ষণ ‘জমাট বাঁধতে সময় লাগবে’]]></title>
+            <description><![CDATA[[খেলা] লিভারপুলের নতুন চেহারার রক্ষণ ‘জমাট বাঁধতে সময় লাগবে’]]></description>
+            <link>https://bangla.bdnews24.com/sport/a5d97cddd872</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/a5d97cddd872</guid>
+            <pubDate>Tue, 18 Aug 2026 11:14:09 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/jeremy-jacquet-180826-01-1787049466.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[যেভাবে ঘুমালে মুখে বলিরেখা পড়ার সম্ভাবনা বাড়ে]]></title>
+            <description><![CDATA[[দেহঘড়ি] যেভাবে ঘুমালে মুখে বলিরেখা পড়ার সম্ভাবনা বাড়ে]]></description>
+            <link>https://bangla.bdnews24.com/lifestyle/Dehoghori/3d1d4e24ee61</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/lifestyle/Dehoghori/3d1d4e24ee61</guid>
+            <pubDate>Tue, 18 Aug 2026 11:14:09 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/man-sleeping-180826-1787049216.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[গ্যাস সংকট আগের সরকারের ‘পাপের ফল’: উপদেষ্টা জাহেদ]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] গ্যাস সংকট আগের সরকারের ‘পাপের ফল’: উপদেষ্টা জাহেদ]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/2552265529f4</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/2552265529f4</guid>
+            <pubDate>Tue, 18 Aug 2026 11:14:09 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mymensingh-jahadur-180826-01-1787048824.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[গোপালগঞ্জে ডাম্প ট্রাক ও বাসের সংঘর্ষে নিহত ৩]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] গোপালগঞ্জে ডাম্প ট্রাক ও বাসের সংঘর্ষে নিহত ৩]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/e6d52d0b61c1</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/e6d52d0b61c1</guid>
+            <pubDate>Tue, 18 Aug 2026 11:14:09 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/gopalganj-road-crash-18082026-01-1787048387.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[স্থানীয় নির্বাচন: সিইসির সঙ্গে আইজিপির অনানুষ্ঠানিক বৈঠক]]></title>
+            <description><![CDATA[[বাংলাদেশ] স্থানীয় নির্বাচন: সিইসির সঙ্গে আইজিপির অনানুষ্ঠানিক বৈঠক]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/71779ed238b8</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/71779ed238b8</guid>
+            <pubDate>Tue, 18 Aug 2026 11:14:09 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ali-hossain-fakir-180826-1787048302.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[দুদকের সহকারী ও উপ-সহকারী পরিচালক পদে ২৪ জনকে নিয়োগের নির্দেশ কেন নয়: হাই কোর্ট]]></title>
+            <description><![CDATA[[বাংলাদেশ] দুদকের সহকারী ও উপ-সহকারী পরিচালক পদে ২৪ জনকে নিয়োগের নির্দেশ কেন নয়: হাই কোর্ট]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/aafb55980bab</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/aafb55980bab</guid>
+            <pubDate>Tue, 18 Aug 2026 11:14:09 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/highcourt-080726-01-1783528631.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বাংলাদেশের বিপক্ষে হেরে দলে পরিবর্তন আনল অস্ট্রেলিয়া]]></title>
+            <description><![CDATA[[ক্রিকেট] বাংলাদেশের বিপক্ষে হেরে দলে পরিবর্তন আনল অস্ট্রেলিয়া]]></description>
+            <link>https://bangla.bdnews24.com/cricket/05d1e056ea63</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/cricket/05d1e056ea63</guid>
+            <pubDate>Tue, 18 Aug 2026 11:14:09 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/jake-weatherald-180826-01-1787047973.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ট্রাম্পের জনপ্রিয়তা নামল ৩৩ শতাংশে]]></title>
+            <description><![CDATA[[বিশ্ব] ট্রাম্পের জনপ্রিয়তা নামল ৩৩ শতাংশে]]></description>
+            <link>https://bangla.bdnews24.com/world/857d623b0048</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/world/857d623b0048</guid>
+            <pubDate>Tue, 18 Aug 2026 11:14:09 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/donald-trump-180826-01-1787047602.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[জাতীয় চক্ষু চিকিৎসা পরিকল্পনা চূড়ান্তের পথে: প্রতিমন্ত্রী মুহিত]]></title>
+            <description><![CDATA[[স্বাস্থ্য] জাতীয় চক্ষু চিকিৎসা পরিকল্পনা চূড়ান্তের পথে: প্রতিমন্ত্রী মুহিত]]></description>
+            <link>https://bangla.bdnews24.com/health/d762f7eb7dc5</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/health/d762f7eb7dc5</guid>
+            <pubDate>Tue, 18 Aug 2026 11:14:09 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ma-muhith-180826-01-1787047585.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[মঞ্চনাটক ‘তবুও জেগে উঠি’ এবার ৩ বিভাগে]]></title>
+            <description><![CDATA[[গ্লিটজ] মঞ্চনাটক ‘তবুও জেগে উঠি’ এবার ৩ বিভাগে]]></description>
+            <link>https://bangla.bdnews24.com/glitz/5b939d550812</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/glitz/5b939d550812</guid>
+            <pubDate>Tue, 18 Aug 2026 11:14:09 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tobou-jege-uthi-natok-170826-01-1787047187.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
