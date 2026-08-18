@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 13:33:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 14:20:05 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 13:33:31 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 14:20:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No fertiliser crisis in Bangladesh: minister]]></title>
+            <description><![CDATA[[Bangladesh] No fertiliser crisis in Bangladesh: minister]]></description>
+            <link>https://bdnews24.com/bangladesh/095c2acbcc1f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/095c2acbcc1f</guid>
+            <pubDate>Tue, 18 Aug 2026 20:15:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/amin-ur-rashid-180826-01-1787060169.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Refugees are Rohingya, not Bengali: Dhaka tells Myanmar]]></title>
+            <description><![CDATA[[Bangladesh] Refugees are Rohingya, not Bengali: Dhaka tells Myanmar]]></description>
+            <link>https://bdnews24.com/bangladesh/85f31b4dd117</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/85f31b4dd117</guid>
+            <pubDate>Tue, 18 Aug 2026 19:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/rohingya-camp-170826-01-1786945689.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Warner fined after drink-driving conviction]]></title>
             <description><![CDATA[[Cricket] Warner fined after drink-driving conviction]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/business/af4e69c952d1</guid>
             <pubDate>Tue, 18 Aug 2026 15:39:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/abdul-muktadir-180826-01-1787043314.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ICT seeks Interpol red notice for ex-Army chief Aziz]]></title>
-            <description><![CDATA[[Bangladesh] ICT seeks Interpol red notice for ex-Army chief Aziz]]></description>
-            <link>https://bdnews24.com/bangladesh/0535eb6f2b84</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0535eb6f2b84</guid>
-            <pubDate>Tue, 18 Aug 2026 15:32:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024May/SM/gen-aziz-ahmed-210524-04-1716293356.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI cameras go live on Dhaka-Ctg Highway]]></title>
-            <description><![CDATA[[Bangladesh] AI cameras go live on Dhaka-Ctg Highway]]></description>
-            <link>https://bdnews24.com/bangladesh/7e2420c54f99</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7e2420c54f99</guid>
-            <pubDate>Tue, 18 Aug 2026 15:14:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/narayanganj-home-minister-180826-01-1787040902.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
