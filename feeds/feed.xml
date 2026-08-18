@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 18:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 19:19:34 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 18:18:12 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 19:19:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Spurs goalie Vicario joins Juventus on loan]]></title>
+            <description><![CDATA[[Sport] Spurs goalie Vicario joins Juventus on loan]]></description>
+            <link>https://bdnews24.com/sport/8547e387649e</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/8547e387649e</guid>
+            <pubDate>Wed, 19 Aug 2026 01:02:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/spurs-vicario-19082026-01-1787079710.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vieira appointed Senegal boss]]></title>
+            <description><![CDATA[[Sport] Vieira appointed Senegal boss]]></description>
+            <link>https://bdnews24.com/sport/49bf15e7cf43</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/49bf15e7cf43</guid>
+            <pubDate>Wed, 19 Aug 2026 00:52:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/senegal-coach-19082026-01-1787079148.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India hopeful on Tarique visit: Jaiswal]]></title>
+            <description><![CDATA[[Bangladesh] India hopeful on Tarique visit: Jaiswal]]></description>
+            <link>https://bdnews24.com/bangladesh/32826b036751</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/32826b036751</guid>
+            <pubDate>Wed, 19 Aug 2026 00:35:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/randhir-jaiswal-180826-1787075832.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Holiday Inn Dhaka brings Pahari flavours to capital]]></title>
             <description><![CDATA[[Bangladesh] Holiday Inn Dhaka brings Pahari flavours to capital]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/europe/9886132ec10e</guid>
             <pubDate>Tue, 18 Aug 2026 20:48:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/andy-burnham-180826-1787064460.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Newcastle sign Dedic from Benfica]]></title>
-            <description><![CDATA[[Sport] Newcastle sign Dedic from Benfica]]></description>
-            <link>https://bdnews24.com/sport/96ee8258ba52</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/96ee8258ba52</guid>
-            <pubDate>Tue, 18 Aug 2026 20:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/newcastle-dedic-18082026-01-1787063885.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[AFC slates Qatar over Infantino letter]]></title>
-            <description><![CDATA[[Sport] AFC slates Qatar over Infantino letter]]></description>
-            <link>https://bdnews24.com/sport/79cd76fc8346</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/79cd76fc8346</guid>
-            <pubDate>Tue, 18 Aug 2026 20:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/afc-qatar-18082026-01-1787063702.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No Iran talks taking place: Trump]]></title>
-            <description><![CDATA[[World] No Iran talks taking place: Trump]]></description>
-            <link>https://bdnews24.com/world/2cfc8c638385</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/2cfc8c638385</guid>
-            <pubDate>Tue, 18 Aug 2026 20:32:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/donald-trump-110826-01-1786464937.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
