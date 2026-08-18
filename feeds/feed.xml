@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 03:33:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 04:22:41 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 03:33:48 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 04:22:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump says N Korea's Kim has responded to his overtures]]></title>
+            <description><![CDATA[[World] Trump says N Korea's Kim has responded to his overtures]]></description>
+            <link>https://bdnews24.com/world/833c7fcb25c1</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/833c7fcb25c1</guid>
+            <pubDate>Tue, 18 Aug 2026 10:19:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/s-korean-soldier-180826-01-1787026742.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Erdogan urges Trump to revive Iran talks]]></title>
+            <description><![CDATA[[World] Erdogan urges Trump to revive Iran talks]]></description>
+            <link>https://bdnews24.com/world/f6adb537cbbf</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/f6adb537cbbf</guid>
+            <pubDate>Tue, 18 Aug 2026 10:09:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/turkey-president-010726-1782885975.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[2 killed in southern Philippines school shooting]]></title>
+            <description><![CDATA[[South-East Asia] 2 killed in southern Philippines school shooting]]></description>
+            <link>https://bdnews24.com/world/south-east-asia/43f70c71290a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/south-east-asia/43f70c71290a</guid>
+            <pubDate>Tue, 18 Aug 2026 09:59:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/philipine-flag-180826-1-1787025510.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ICE plans insurance support for local immigration officers]]></title>
+            <description><![CDATA[[Americas] ICE plans insurance support for local immigration officers]]></description>
+            <link>https://bdnews24.com/world/americas/550efd7fdf0c</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/550efd7fdf0c</guid>
+            <pubDate>Tue, 18 Aug 2026 09:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ice-us-180826-1787025254.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US rules out extending ceasefire deal]]></title>
+            <description><![CDATA[[Americas] US rules out extending ceasefire deal]]></description>
+            <link>https://bdnews24.com/world/americas/85cb2cb1d768</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/85cb2cb1d768</guid>
+            <pubDate>Tue, 18 Aug 2026 09:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/strait-of-hormuz-180826-01-1787025239.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Myanmar's 'take back' offer just a 'drama': Rohingya refugees]]></title>
+            <description><![CDATA[[Bangladesh] Myanmar's 'take back' offer just a 'drama': Rohingya refugees]]></description>
+            <link>https://bdnews24.com/bangladesh/fd244bd85d14</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/fd244bd85d14</guid>
+            <pubDate>Tue, 18 Aug 2026 09:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026March/SM/rohingya-camp-160520-01-1773677247.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[US halts Big Bend border project after criticism]]></title>
             <description><![CDATA[[Americas] US halts Big Bend border project after criticism]]></description>
@@ -17,8 +65,8 @@
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-big-bend-park-180826-1787021327.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Trump approval falls to 33% : poll]]></title>
-            <description><![CDATA[[Americas] Trump approval falls to 33% : poll]]></description>
+            <title><![CDATA[Trump approval falls to 33%: poll]]></title>
+            <description><![CDATA[[Americas] Trump approval falls to 33%: poll]]></description>
             <link>https://bdnews24.com/world/americas/e83e2264f522</link>
             <guid isPermaLink="true">https://bdnews24.com/world/americas/e83e2264f522</guid>
             <pubDate>Tue, 18 Aug 2026 08:46:00 GMT</pubDate>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/69386ae35885</guid>
             <pubDate>Mon, 17 Aug 2026 23:48:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/akm-asaduzaman-acc-170826-1786987317.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rain aids fight against Belgium's biggest wildfire]]></title>
-            <description><![CDATA[[World] Rain aids fight against Belgium's biggest wildfire]]></description>
-            <link>https://bdnews24.com/world/b38b9acb0731</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/b38b9acb0731</guid>
-            <pubDate>Mon, 17 Aug 2026 23:32:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/belgium-wildfire-170826-01-1786987822.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt to buy 2 LNG cargoes to ease gas crisis]]></title>
-            <description><![CDATA[[Business] Govt to buy 2 LNG cargoes to ease gas crisis]]></description>
-            <link>https://bdnews24.com/business/1884736c6ef9</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/1884736c6ef9</guid>
-            <pubDate>Mon, 17 Aug 2026 22:48:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/gas-crisis-jatrabari-130826-014-1786634840.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran threatens offensive in Hormuz]]></title>
-            <description><![CDATA[[World] Iran threatens offensive in Hormuz]]></description>
-            <link>https://bdnews24.com/world/ea5faa42d104</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ea5faa42d104</guid>
-            <pubDate>Mon, 17 Aug 2026 22:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/iran-hormuz-17082026-01-1786984121.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hasina's status in India unknown: chief prosecutor]]></title>
-            <description><![CDATA[[Bangladesh] Hasina's status in India unknown: chief prosecutor]]></description>
-            <link>https://bdnews24.com/bangladesh/581509f08361</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/581509f08361</guid>
-            <pubDate>Mon, 17 Aug 2026 22:27:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2025November/SM/sheikh-hasina-161125-202-1763368762.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel flags in Lebanon violate UN resolution: UNIFIL]]></title>
-            <description><![CDATA[[World] Israel flags in Lebanon violate UN resolution: UNIFIL]]></description>
-            <link>https://bdnews24.com/world/6534e6b71127</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/6534e6b71127</guid>
-            <pubDate>Mon, 17 Aug 2026 22:09:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/israel-lebanon-17082026-01-1786982864.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[RAB to be replaced by SRB under draft law]]></title>
-            <description><![CDATA[[Bangladesh] RAB to be replaced by SRB under draft law]]></description>
-            <link>https://bdnews24.com/bangladesh/f50948ba1c28</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f50948ba1c28</guid>
-            <pubDate>Mon, 17 Aug 2026 22:05:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rab-dog-squad-120826-03-1786537567.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
