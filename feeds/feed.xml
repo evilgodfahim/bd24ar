@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 16:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 17:15:56 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 16:16:30 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 17:15:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[LNG supply falls, cargoes due Aug 20, 23]]></title>
+            <description><![CDATA[[Bangladesh] LNG supply falls, cargoes due Aug 20, 23]]></description>
+            <link>https://bdnews24.com/bangladesh/3746b783d5b0</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3746b783d5b0</guid>
+            <pubDate>Tue, 18 Aug 2026 23:13:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024December/SM/lng-terminal-311224-01-1735632436.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Meta goes on trial over Facebook, Instagram]]></title>
+            <description><![CDATA[[social media] Meta goes on trial over Facebook, Instagram]]></description>
+            <link>https://bdnews24.com/socialmedia/01228f868790</link>
+            <guid isPermaLink="true">https://bdnews24.com/socialmedia/01228f868790</guid>
+            <pubDate>Tue, 18 Aug 2026 22:42:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/meta-180826-1787071335.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pakistan challenges India’s Sindoor narrative]]></title>
+            <description><![CDATA[[Neighbours] Pakistan challenges India’s Sindoor narrative]]></description>
+            <link>https://bdnews24.com/neighbours/13b1ba1e15c8</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/13b1ba1e15c8</guid>
+            <pubDate>Tue, 18 Aug 2026 22:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025May/SM/operation-sindoor-100525-1746857620.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What poisoned Ferdous Steel’s ballast tank?]]></title>
+            <description><![CDATA[[Bangladesh] What poisoned Ferdous Steel’s ballast tank?]]></description>
+            <link>https://bdnews24.com/bangladesh/f9c5ce6a3939</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f9c5ce6a3939</guid>
+            <pubDate>Tue, 18 Aug 2026 22:16:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/chattogram-sample-collection-ship-180826-101-1787067927.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[400,000 seek SSC result review]]></title>
             <description><![CDATA[[Bangladesh] 400,000 seek SSC result review]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/health/22c3725bd8a0</guid>
             <pubDate>Tue, 18 Aug 2026 19:18:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/measles-patient-280426-008-1777390083.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2 valid candidates still running for president]]></title>
-            <description><![CDATA[[Bangladesh] 2 valid candidates still running for president]]></description>
-            <link>https://bdnews24.com/bangladesh/5cae37b53847</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5cae37b53847</guid>
-            <pubDate>Tue, 18 Aug 2026 19:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/president-election-180826-01-1787055843.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Overnight attack leaves 25 dead in central Nigeria]]></title>
-            <description><![CDATA[[Africa] Overnight attack leaves 25 dead in central Nigeria]]></description>
-            <link>https://bdnews24.com/world/africa/a8f66c03f245</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/africa/a8f66c03f245</guid>
-            <pubDate>Tue, 18 Aug 2026 18:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/nigeria-180826-1787057434.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PSC chief Mobasser Monem quits]]></title>
-            <description><![CDATA[[Bangladesh] PSC chief Mobasser Monem quits]]></description>
-            <link>https://bdnews24.com/bangladesh/aa98d30b921e</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/aa98d30b921e</guid>
-            <pubDate>Tue, 18 Aug 2026 18:44:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/mobasser-monem-180826-1787038878.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dengue: 3 die, 753 hospitalised]]></title>
-            <description><![CDATA[[Health] Dengue: 3 die, 753 hospitalised]]></description>
-            <link>https://bdnews24.com/health/4f6def8d1788</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/4f6def8d1788</guid>
-            <pubDate>Tue, 18 Aug 2026 18:03:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/mymensingh-dengue-death-070126-1782889285.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
