@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 11:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 12:18:48 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 11:14:08 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 12:18:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Dengue: 3 die, 753 hospitalised]]></title>
+            <description><![CDATA[[Health] Dengue: 3 die, 753 hospitalised]]></description>
+            <link>https://bdnews24.com/health/4f6def8d1788</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/4f6def8d1788</guid>
+            <pubDate>Tue, 18 Aug 2026 18:03:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/mymensingh-dengue-death-070126-1782889285.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gas crisis is ‘legacy of past government’: Zahed]]></title>
+            <description><![CDATA[[Bangladesh] Gas crisis is ‘legacy of past government’: Zahed]]></description>
+            <link>https://bdnews24.com/bangladesh/74913283f7eb</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/74913283f7eb</guid>
+            <pubDate>Tue, 18 Aug 2026 17:53:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mymensingh-jahadur-180826-01-1787048824.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh ready to fund its own growth: Khosru]]></title>
+            <description><![CDATA[[Economy] Bangladesh ready to fund its own growth: Khosru]]></description>
+            <link>https://bdnews24.com/economy/ed715172ab66</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/ed715172ab66</guid>
+            <pubDate>Tue, 18 Aug 2026 17:50:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/amir-khasru-mahmud-chowdhury-180826-01-1787052121.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[HC rejects Article 70, presidential poll challenge]]></title>
+            <description><![CDATA[[Bangladesh] HC rejects Article 70, presidential poll challenge]]></description>
+            <link>https://bdnews24.com/bangladesh/f09fb2851dd7</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f09fb2851dd7</guid>
+            <pubDate>Tue, 18 Aug 2026 17:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026May/SM/high-court-1000-1779103974.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[3 die in Gopalganj road crash]]></title>
             <description><![CDATA[[Bangladesh] 3 die in Gopalganj road crash]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/27bf0701fce6</guid>
             <pubDate>Tue, 18 Aug 2026 13:41:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/mobasser-monem-180826-1787038878.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man gets life for child abduction in Keraniganj]]></title>
-            <description><![CDATA[[Bangladesh] Man gets life for child abduction in Keraniganj]]></description>
-            <link>https://bdnews24.com/bangladesh/24539321ddf4</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/24539321ddf4</guid>
-            <pubDate>Tue, 18 Aug 2026 13:28:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/imam-hossain-180826-1787034953.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PM bats for ‘stronger’ revenue system]]></title>
-            <description><![CDATA[[Bangladesh] PM bats for ‘stronger’ revenue system]]></description>
-            <link>https://bdnews24.com/bangladesh/9c570cb9e85e</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9c570cb9e85e</guid>
-            <pubDate>Tue, 18 Aug 2026 13:05:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarique-rahman-nbr-180826-01-1787035595.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Libya releases 174 more detained Bangladeshis]]></title>
-            <description><![CDATA[[Bangladesh] Libya releases 174 more detained Bangladeshis]]></description>
-            <link>https://bdnews24.com/bangladesh/cff36a9add23</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cff36a9add23</guid>
-            <pubDate>Tue, 18 Aug 2026 12:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bangladeshi-libyan-detention-180826-01-1787034397.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump cites India in voter ID push]]></title>
-            <description><![CDATA[[World] Trump cites India in voter ID push]]></description>
-            <link>https://bdnews24.com/world/6355f49e6e69</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/6355f49e6e69</guid>
-            <pubDate>Tue, 18 Aug 2026 12:40:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/trump-180826-1787035128.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
