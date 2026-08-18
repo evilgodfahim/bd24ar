@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 19:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 20:09:33 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 19:19:34 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 20:09:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[A new fiscal year, but at what cost?]]></title>
+            <description><![CDATA[[Economy] A new fiscal year, but at what cost?]]></description>
+            <link>https://bdnews24.com/economy/3a5fbec952d0</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/3a5fbec952d0</guid>
+            <pubDate>Wed, 19 Aug 2026 01:51:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarique-rahman-budget-110626-0006-1787083355.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pakistan’s Babar to miss first England Test]]></title>
+            <description><![CDATA[[Cricket] Pakistan’s Babar to miss first England Test]]></description>
+            <link>https://bdnews24.com/cricket/a5a3e297e0b1</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/a5a3e297e0b1</guid>
+            <pubDate>Wed, 19 Aug 2026 01:29:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026March/SM/babar-azam-050326-01-1772655480.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Italy's most famous horse Varenne dies at 31]]></title>
+            <description><![CDATA[[Sport] Italy's most famous horse Varenne dies at 31]]></description>
+            <link>https://bdnews24.com/sport/cd20b4877930</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/cd20b4877930</guid>
+            <pubDate>Wed, 19 Aug 2026 01:27:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/varenne-19082026-01-1787081154.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Spurs goalie Vicario joins Juventus on loan]]></title>
             <description><![CDATA[[Sport] Spurs goalie Vicario joins Juventus on loan]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/87c21efa851d</guid>
             <pubDate>Tue, 18 Aug 2026 21:33:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/atletico-alvarez-18082026-01-1787067156.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India top court rejects plea for 'painless' execution]]></title>
-            <description><![CDATA[[Neighbours] India top court rejects plea for 'painless' execution]]></description>
-            <link>https://bdnews24.com/neighbours/3fe60d2bc133</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/3fe60d2bc133</guid>
-            <pubDate>Tue, 18 Aug 2026 21:21:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/sc-india-180826-01-1787064239.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Inter favourites to retain Serie A title]]></title>
-            <description><![CDATA[[Sport] Inter favourites to retain Serie A title]]></description>
-            <link>https://bdnews24.com/sport/a0592d3da3a7</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/a0592d3da3a7</guid>
-            <pubDate>Tue, 18 Aug 2026 21:00:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/inter-seriea-18082026-01-1787065163.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UK backs Ukraine despite Russian warning]]></title>
-            <description><![CDATA[[Europe] UK backs Ukraine despite Russian warning]]></description>
-            <link>https://bdnews24.com/world/europe/9886132ec10e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/9886132ec10e</guid>
-            <pubDate>Tue, 18 Aug 2026 20:48:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/andy-burnham-180826-1787064460.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
