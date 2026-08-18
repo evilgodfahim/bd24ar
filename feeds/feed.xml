@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 02:07:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 03:33:48 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 02:07:48 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 03:33:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US halts Big Bend border project after criticism]]></title>
+            <description><![CDATA[[Americas] US halts Big Bend border project after criticism]]></description>
+            <link>https://bdnews24.com/world/americas/d12eb27839d2</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/d12eb27839d2</guid>
+            <pubDate>Tue, 18 Aug 2026 08:50:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-big-bend-park-180826-1787021327.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump approval falls to 33% : poll]]></title>
+            <description><![CDATA[[Americas] Trump approval falls to 33% : poll]]></description>
+            <link>https://bdnews24.com/world/americas/e83e2264f522</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/e83e2264f522</guid>
+            <pubDate>Tue, 18 Aug 2026 08:46:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/donald-trump-180826-01-1787021133.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Lamour leaves FIFA after Infantino criticism]]></title>
             <description><![CDATA[[Sport] Lamour leaves FIFA after Infantino criticism]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/f50948ba1c28</guid>
             <pubDate>Mon, 17 Aug 2026 22:05:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rab-dog-squad-120826-03-1786537567.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US SC rebuffs Trump in Carroll case again]]></title>
-            <description><![CDATA[[Americas] US SC rebuffs Trump in Carroll case again]]></description>
-            <link>https://bdnews24.com/world/americas/ea363ab3e9a9</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/ea363ab3e9a9</guid>
-            <pubDate>Mon, 17 Aug 2026 21:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/caroll-trump-170826-01-1786981809.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cabinet secretary’s tenure extended by 1 year]]></title>
-            <description><![CDATA[[Bangladesh] Cabinet secretary’s tenure extended by 1 year]]></description>
-            <link>https://bdnews24.com/bangladesh/3796e7045450</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3796e7045450</guid>
-            <pubDate>Mon, 17 Aug 2026 21:42:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024December/SM/nasimul-goni-221224-01-1734879144.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
