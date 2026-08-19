@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 17:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 18:15:00 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 17:15:15 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 18:15:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[7 Bangladeshis, 2 Indians die in Kolkata fire]]></title>
+            <description><![CDATA[[Bangladesh] 7 Bangladeshis, 2 Indians die in Kolkata fire]]></description>
+            <link>https://bdnews24.com/bangladesh/6928d030f676</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6928d030f676</guid>
+            <pubDate>Thu, 20 Aug 2026 00:06:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/kolkata-hotel-fire-190826-201-1787126250.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Webb, Masters warn over Balogun fallout]]></title>
+            <description><![CDATA[[Sport] Webb, Masters warn over Balogun fallout]]></description>
+            <link>https://bdnews24.com/sport/4a8490f61ff0</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/4a8490f61ff0</guid>
+            <pubDate>Wed, 19 Aug 2026 23:36:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/folarin-balogun-050726-01-1783277133.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Infantino loses more support over COO axing]]></title>
+            <description><![CDATA[[Sport] Infantino loses more support over COO axing]]></description>
+            <link>https://bdnews24.com/sport/a65c3c2ac52f</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/a65c3c2ac52f</guid>
+            <pubDate>Wed, 19 Aug 2026 23:22:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/gianni-infantino-110826-01-1786395762.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Japan's farmers go nocturnal amid deadly heat]]></title>
             <description><![CDATA[[World] Japan's farmers go nocturnal amid deadly heat]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/health/758894e67f4f</guid>
             <pubDate>Wed, 19 Aug 2026 19:54:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/moderna-melanoma-190826-01-1787147625.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt buys 14 more LNG cargoes]]></title>
-            <description><![CDATA[[Business] Govt buys 14 more LNG cargoes]]></description>
-            <link>https://bdnews24.com/business/bea069e8ae24</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/bea069e8ae24</guid>
-            <pubDate>Wed, 19 Aug 2026 19:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/summit-lng-090624-02-1786694488.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gill backs Suthar for long India career]]></title>
-            <description><![CDATA[[Cricket] Gill backs Suthar for long India career]]></description>
-            <link>https://bdnews24.com/cricket/2954d86047e5</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/2954d86047e5</guid>
-            <pubDate>Wed, 19 Aug 2026 19:36:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/manav-sutar-celebration-india-190826-01-1787128996.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Suthar spins India to Galle win]]></title>
-            <description><![CDATA[[Cricket] Suthar spins India to Galle win]]></description>
-            <link>https://bdnews24.com/cricket/7456fc979716</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/7456fc979716</guid>
-            <pubDate>Wed, 19 Aug 2026 19:27:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/suthar-spins-galle-win-190826-01-1787146007.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
