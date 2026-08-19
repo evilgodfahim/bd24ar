@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 02:10:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 03:35:55 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 02:10:01 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 03:35:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[ESPN founder Bill Rasmussen dies]]></title>
+            <description><![CDATA[[Business] ESPN founder Bill Rasmussen dies]]></description>
+            <link>https://bdnews24.com/business/067bb3a5d4b1</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/067bb3a5d4b1</guid>
+            <pubDate>Wed, 19 Aug 2026 09:28:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bill-rasmussen-190826-01-1787109609.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US sanctions ICC president, senior trial lawyer]]></title>
+            <description><![CDATA[[World] US sanctions ICC president, senior trial lawyer]]></description>
+            <link>https://bdnews24.com/world/ad69af0bd50f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ad69af0bd50f</guid>
+            <pubDate>Wed, 19 Aug 2026 09:15:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/icc-exterior-190826-01-1787109262.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[A new fiscal year, but at what cost?]]></title>
             <description><![CDATA[[Economy] A new fiscal year, but at what cost?]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/c71321c55e82</guid>
             <pubDate>Tue, 18 Aug 2026 21:50:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ssc-result-viqarunnisa-noon-school-301221-03-1786191615.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Madonna tops Swift in VMA nominations]]></title>
-            <description><![CDATA[[Entertainment] Madonna tops Swift in VMA nominations]]></description>
-            <link>https://bdnews24.com/entertainment/09b1031f8591</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/09b1031f8591</guid>
-            <pubDate>Tue, 18 Aug 2026 21:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/madonna-180826-1787067134.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Atletico to bench Alvarez amid transfer standoff]]></title>
-            <description><![CDATA[[Sport] Atletico to bench Alvarez amid transfer standoff]]></description>
-            <link>https://bdnews24.com/sport/87c21efa851d</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/87c21efa851d</guid>
-            <pubDate>Tue, 18 Aug 2026 21:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/atletico-alvarez-18082026-01-1787067156.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
