@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 19:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 20:12:12 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 19:16:03 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 20:12:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Measles deaths raise alarm over co-infections]]></title>
+            <description><![CDATA[[Health] Measles deaths raise alarm over co-infections]]></description>
+            <link>https://bdnews24.com/health/205a6bdebede</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/205a6bdebede</guid>
+            <pubDate>Thu, 20 Aug 2026 01:29:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/measles-patient-dncc-hospital-120526-028-1778590985.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[7 Bangladeshis, 2 Indians die in Kolkata fire]]></title>
             <description><![CDATA[[Bangladesh] 7 Bangladeshis, 2 Indians die in Kolkata fire]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/3a5a3676d36a</guid>
             <pubDate>Wed, 19 Aug 2026 20:17:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/igp-prison-motaher-hossain-190826-1787146431.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Moderna shares surge on melanoma vaccine success]]></title>
-            <description><![CDATA[[Health] Moderna shares surge on melanoma vaccine success]]></description>
-            <link>https://bdnews24.com/health/758894e67f4f</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/758894e67f4f</guid>
-            <pubDate>Wed, 19 Aug 2026 19:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/moderna-melanoma-190826-01-1787147625.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
