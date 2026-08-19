@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 03:35:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 04:24:11 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 03:35:55 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 04:24:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[9 Bangladeshis killed in Kolkata hotel fire]]></title>
+            <description><![CDATA[[Neighbours] 9 Bangladeshis killed in Kolkata hotel fire]]></description>
+            <link>https://bdnews24.com/neighbours/c77b91f560ff</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/c77b91f560ff</guid>
+            <pubDate>Wed, 19 Aug 2026 09:58:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/kolkata-hotel-fire-190826-01-1787110728.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ESPN founder Bill Rasmussen dies]]></title>
             <description><![CDATA[[Business] ESPN founder Bill Rasmussen dies]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/f9c5ce6a3939</guid>
             <pubDate>Tue, 18 Aug 2026 22:16:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/chattogram-sample-collection-ship-180826-101-1787067927.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[400,000 seek SSC result review]]></title>
-            <description><![CDATA[[Bangladesh] 400,000 seek SSC result review]]></description>
-            <link>https://bdnews24.com/bangladesh/c71321c55e82</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c71321c55e82</guid>
-            <pubDate>Tue, 18 Aug 2026 21:50:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ssc-result-viqarunnisa-noon-school-301221-03-1786191615.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
