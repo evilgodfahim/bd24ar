@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ]]></title>
-        <description><![CDATA[bangla.bdnews24.com আর্কাইভ থেকে সর্বশেষ সংবাদ]]></description>
+        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bangla.bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 04:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 05:19:23 GMT</lastBuildDate>
         <atom:link href="https://bangla.bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 04:24:13 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 05:19:23 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[আমাদের বাগানে নাইট কুইনের এক রাত]]></title>
-            <description><![CDATA[[হ্যালো] আমাদের বাগানে নাইট কুইনের এক রাত]]></description>
-            <link>https://bangla.bdnews24.com/hello/aae5a9b92ad3</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/hello/aae5a9b92ad3</guid>
-            <pubDate>Wed, 19 Aug 2026 04:24:13 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/night-queen-flower-17082026-01-1787112838.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[নতুন ম্যাকওএস-এ মিলল ফোল্ডএবল আইফোনের তথ্য]]></title>
-            <description><![CDATA[[টেক] নতুন ম্যাকওএস-এ মিলল ফোল্ডএবল আইফোনের তথ্য]]></description>
-            <link>https://bangla.bdnews24.com/tech/8fd4b36ae77a</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/tech/8fd4b36ae77a</guid>
-            <pubDate>Wed, 19 Aug 2026 04:24:13 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/apple-macos-reuters-180826-01-1787112396.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[কলকাতায় হোটেলে আগুন লেগে ৯ বাংলাদেশির মৃত্যু]]></title>
-            <description><![CDATA[[বিশ্ব] কলকাতায় হোটেলে আগুন লেগে ৯ বাংলাদেশির মৃত্যু]]></description>
-            <link>https://bangla.bdnews24.com/world/81513ab29389</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/world/81513ab29389</guid>
-            <pubDate>Wed, 19 Aug 2026 04:24:13 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/kolkata-hotel-fire-190826-01-1787110728.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[তিন ডিসি ও এক বিভাগীয় কমিশনারকে ‘প্রত্যাহার’]]></title>
-            <description><![CDATA[[বাংলাদেশ] তিন ডিসি ও এক বিভাগীয় কমিশনারকে ‘প্রত্যাহার’]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/71e246a251c1</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/71e246a251c1</guid>
-            <pubDate>Wed, 19 Aug 2026 04:24:13 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ministry-190826-01-1787110250.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ইএসপিএনের প্রতিষ্ঠাতা বিল রাসমুসেন মারা গেছেন]]></title>
-            <description><![CDATA[[খেলা] ইএসপিএনের প্রতিষ্ঠাতা বিল রাসমুসেন মারা গেছেন]]></description>
-            <link>https://bangla.bdnews24.com/sport/c1ac5de02754</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/c1ac5de02754</guid>
-            <pubDate>Wed, 19 Aug 2026 04:24:13 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bill-rasmussen-190826-01-1787109609.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[চালের রেকর্ড মজুদে ‘দাম না কমলেও বাড়েনি, এটাই ভালো দিক’]]></title>
-            <description><![CDATA[[বাণিজ্য] চালের রেকর্ড মজুদে ‘দাম না কমলেও বাড়েনি, এটাই ভালো দিক’]]></description>
-            <link>https://bangla.bdnews24.com/business/da9067df14a0</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/business/da9067df14a0</guid>
-            <pubDate>Wed, 19 Aug 2026 04:24:13 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/labour-may-day-1000-1782226979.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[টিভিতে বুধবারের খেলা]]></title>
-            <description><![CDATA[[খেলা] টিভিতে বুধবারের খেলা]]></description>
-            <link>https://bangla.bdnews24.com/sport/bb50e668b5ec</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/bb50e668b5ec</guid>
-            <pubDate>Wed, 19 Aug 2026 04:24:13 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/india-190826-01-1787105697.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ছোট্ট নাশপাতি | এলিনর ফ্রান্সেস ল্যাটিমোরের ক্লাসিক | পর্ব ৩]]></title>
-            <description><![CDATA[[কিডজ] ছোট্ট নাশপাতি | এলিনর ফ্রান্সেস ল্যাটিমোরের ক্লাসিক | পর্ব ৩]]></description>
-            <link>https://bangla.bdnews24.com/kidz/c4ce33a98107</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/kidz/c4ce33a98107</guid>
-            <pubDate>Wed, 19 Aug 2026 04:24:13 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/kidz-190826-01-1787086169.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[গোলাপি বাস: নিরাপত্তা নাকি অধিকারের সংকোচন?]]></title>
-            <description><![CDATA[[মতামত] গোলাপি বাস: নিরাপত্তা নাকি অধিকারের সংকোচন?]]></description>
-            <link>https://bangla.bdnews24.com/opinion/05c6bbd948a7</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/opinion/05c6bbd948a7</guid>
-            <pubDate>Wed, 19 Aug 2026 04:24:13 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/pink-bus-1787084165.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[মোহামেডানের ডাগআউটে ভারেলা, আবাহনীর দায়িত্বে মারুফুল]]></title>
-            <description><![CDATA[[খেলা] মোহামেডানের ডাগআউটে ভারেলা, আবাহনীর দায়িত্বে মারুফুল]]></description>
-            <link>https://bangla.bdnews24.com/sport/b48ea409ef56</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/b48ea409ef56</guid>
-            <pubDate>Wed, 19 Aug 2026 04:24:13 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/varela-maruful-190816-01-1787083514.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[অর্থবছরের সময় বদলাল: সুফল মিলবে? জটিলতা কোথায়?]]></title>
-            <description><![CDATA[[অর্থনীতি] অর্থবছরের সময় বদলাল: সুফল মিলবে? জটিলতা কোথায়?]]></description>
-            <link>https://bangla.bdnews24.com/economy/9fe31f0a5097</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/economy/9fe31f0a5097</guid>
-            <pubDate>Wed, 19 Aug 2026 04:24:13 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarique-rahman-budget-110626-0006-1787083355.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[মনীষার কেবলই মনে হচ্ছিল তিনি ‘মারা যাচ্ছেন’]]></title>
-            <description><![CDATA[[গ্লিটজ] মনীষার কেবলই মনে হচ্ছিল তিনি ‘মারা যাচ্ছেন’]]></description>
-            <link>https://bangla.bdnews24.com/glitz/a6a16d689d20</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/glitz/a6a16d689d20</guid>
-            <pubDate>Wed, 19 Aug 2026 04:24:13 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/manisha-koirala-180826-01-1787081468.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[মুক্তিযোদ্ধার তালিকাভুক্তির জন্য শুনানির অপেক্ষায় ৬১৫ আবেদন]]></title>
-            <description><![CDATA[[বাংলাদেশ] মুক্তিযোদ্ধার তালিকাভুক্তির জন্য শুনানির অপেক্ষায় ৬১৫ আবেদন]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/aaa658df833d</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/aaa658df833d</guid>
-            <pubDate>Wed, 19 Aug 2026 04:24:13 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/meeting-of-the-parliamentary-committee-on-liberation-war-18082026-1787081075.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[সুবিধাবঞ্চিত শিশুদের মাঝে শিক্ষার আলো ছড়াচ্ছে ‘স্বপ্নসিঁড়ি’]]></title>
-            <description><![CDATA[[ভিডিও(হ্যালো)] সুবিধাবঞ্চিত শিশুদের মাঝে শিক্ষার আলো ছড়াচ্ছে ‘স্বপ্নসিঁড়ি’]]></description>
-            <link>https://bangla.bdnews24.com/hello/hello-video/1b25a30c69f5</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/hello/hello-video/1b25a30c69f5</guid>
-            <pubDate>Wed, 19 Aug 2026 04:24:13 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ws-rangpur-free-school-thum-1786889969.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[অতীতকে না ভুলি, তবে সামনে এগিয়ে যাই: ভারতীয় হাই কমিশনার]]></title>
-            <description><![CDATA[[বাংলাদেশ] অতীতকে না ভুলি, তবে সামনে এগিয়ে যাই: ভারতীয় হাই কমিশনার]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/92e6f12a5e70</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/92e6f12a5e70</guid>
-            <pubDate>Wed, 19 Aug 2026 04:24:13 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/dinesh-tribedi-indian-high-commissioner-180626-1787080202.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘বাল্যবিয়ে একটি অভিশাপ’]]></title>
-            <description><![CDATA[[ভিডিও(হ্যালো)] ‘বাল্যবিয়ে একটি অভিশাপ’]]></description>
-            <link>https://bangla.bdnews24.com/hello/hello-video/e58fbf5ffee6</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/hello/hello-video/e58fbf5ffee6</guid>
-            <pubDate>Wed, 19 Aug 2026 04:24:13 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ws-kaniz-fatema-interview-cm-thum-1786893429.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ইউক্রেইনে রুশ ক্ষেপণাস্ত্র হামলায় নিহত ১০]]></title>
-            <description><![CDATA[[টিউব] ইউক্রেইনে রুশ ক্ষেপণাস্ত্র হামলায় নিহত ১০]]></description>
-            <link>https://bangla.bdnews24.com/tube/158af58e28b1</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/158af58e28b1</guid>
-            <pubDate>Wed, 19 Aug 2026 04:24:13 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/kharkiv-missile-strike-thumb-1787079027.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[সারা দিন টিকে থাকার চ‍্যালেঞ্জ শাহাদাত-জাকিরদের সামনে]]></title>
-            <description><![CDATA[[ক্রিকেট] সারা দিন টিকে থাকার চ‍্যালেঞ্জ শাহাদাত-জাকিরদের সামনে]]></description>
-            <link>https://bangla.bdnews24.com/cricket/0ad3af73f2b1</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/cricket/0ad3af73f2b1</guid>
-            <pubDate>Wed, 19 Aug 2026 04:24:13 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/emerging-190826-01-1787078838.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[স্বামীর মৃত্যুতে দীপু মনির প্যারোলে মুক্তির আবেদন করা হবে]]></title>
-            <description><![CDATA[[রাজনীতি] স্বামীর মৃত্যুতে দীপু মনির প্যারোলে মুক্তির আবেদন করা হবে]]></description>
-            <link>https://bangla.bdnews24.com/politics/4367b314e682</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/politics/4367b314e682</guid>
-            <pubDate>Wed, 19 Aug 2026 04:24:13 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024August/SM/dipu-moni-court-200824-01-1724156660.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ঠাকুরগাঁওয়ে একটি বেসরকারি বিশ্ববিদ্যালয়ের অনুমোদন]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] ঠাকুরগাঁওয়ে একটি বেসরকারি বিশ্ববিদ্যালয়ের অনুমোদন]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/a807aed44aad</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/a807aed44aad</guid>
-            <pubDate>Wed, 19 Aug 2026 04:24:13 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/thakurgoan-eco-university-180826-01-1787078206.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
+            <link>https://bangla.bdnews24.com</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com</guid>
+            <pubDate>Wed, 19 Aug 2026 05:19:23 GMT</pubDate>
         </item>
     </channel>
 </rss>

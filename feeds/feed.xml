@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News]]></title>
-        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
+        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 04:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 05:19:23 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 04:24:11 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 05:19:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[9 Bangladeshis killed in Kolkata hotel fire]]></title>
-            <description><![CDATA[[Neighbours] 9 Bangladeshis killed in Kolkata hotel fire]]></description>
-            <link>https://bdnews24.com/neighbours/c77b91f560ff</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/c77b91f560ff</guid>
-            <pubDate>Wed, 19 Aug 2026 09:58:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/kolkata-hotel-fire-190826-01-1787110728.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ESPN founder Bill Rasmussen dies]]></title>
-            <description><![CDATA[[Business] ESPN founder Bill Rasmussen dies]]></description>
-            <link>https://bdnews24.com/business/067bb3a5d4b1</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/067bb3a5d4b1</guid>
-            <pubDate>Wed, 19 Aug 2026 09:28:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bill-rasmussen-190826-01-1787109609.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US sanctions ICC president, senior trial lawyer]]></title>
-            <description><![CDATA[[World] US sanctions ICC president, senior trial lawyer]]></description>
-            <link>https://bdnews24.com/world/ad69af0bd50f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ad69af0bd50f</guid>
-            <pubDate>Wed, 19 Aug 2026 09:15:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/icc-exterior-190826-01-1787109262.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[A new fiscal year, but at what cost?]]></title>
-            <description><![CDATA[[Economy] A new fiscal year, but at what cost?]]></description>
-            <link>https://bdnews24.com/economy/3a5fbec952d0</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/3a5fbec952d0</guid>
-            <pubDate>Wed, 19 Aug 2026 01:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarique-rahman-budget-110626-0006-1787083355.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan’s Babar to miss first England Test]]></title>
-            <description><![CDATA[[Cricket] Pakistan’s Babar to miss first England Test]]></description>
-            <link>https://bdnews24.com/cricket/a5a3e297e0b1</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/a5a3e297e0b1</guid>
-            <pubDate>Wed, 19 Aug 2026 01:29:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026March/SM/babar-azam-050326-01-1772655480.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Italy's most famous horse Varenne dies at 31]]></title>
-            <description><![CDATA[[Sport] Italy's most famous horse Varenne dies at 31]]></description>
-            <link>https://bdnews24.com/sport/cd20b4877930</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/cd20b4877930</guid>
-            <pubDate>Wed, 19 Aug 2026 01:27:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/varenne-19082026-01-1787081154.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spurs goalie Vicario joins Juventus on loan]]></title>
-            <description><![CDATA[[Sport] Spurs goalie Vicario joins Juventus on loan]]></description>
-            <link>https://bdnews24.com/sport/8547e387649e</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/8547e387649e</guid>
-            <pubDate>Wed, 19 Aug 2026 01:02:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/spurs-vicario-19082026-01-1787079710.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vieira appointed Senegal boss]]></title>
-            <description><![CDATA[[Sport] Vieira appointed Senegal boss]]></description>
-            <link>https://bdnews24.com/sport/49bf15e7cf43</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/49bf15e7cf43</guid>
-            <pubDate>Wed, 19 Aug 2026 00:52:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/senegal-coach-19082026-01-1787079148.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India hopeful on Tarique visit: Jaiswal]]></title>
-            <description><![CDATA[[Bangladesh] India hopeful on Tarique visit: Jaiswal]]></description>
-            <link>https://bdnews24.com/bangladesh/32826b036751</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/32826b036751</guid>
-            <pubDate>Wed, 19 Aug 2026 00:35:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/randhir-jaiswal-180826-1787075832.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Holiday Inn Dhaka brings Pahari flavours to capital]]></title>
-            <description><![CDATA[[Bangladesh] Holiday Inn Dhaka brings Pahari flavours to capital]]></description>
-            <link>https://bdnews24.com/bangladesh/1310378a2ec1</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1310378a2ec1</guid>
-            <pubDate>Wed, 19 Aug 2026 00:14:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/holiday-inn-19082026-01-1787076876.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dipu Moni's husband Tawfique Nawaz dies]]></title>
-            <description><![CDATA[[Bangladesh] Dipu Moni's husband Tawfique Nawaz dies]]></description>
-            <link>https://bdnews24.com/bangladesh/2cc6fd4cb932</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2cc6fd4cb932</guid>
-            <pubDate>Wed, 19 Aug 2026 00:12:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/dipu-moni-husband-01-1787076281.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[69 officials assigned to inspect hospitals]]></title>
-            <description><![CDATA[[Health] 69 officials assigned to inspect hospitals]]></description>
-            <link>https://bdnews24.com/health/45139969384c</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/45139969384c</guid>
-            <pubDate>Wed, 19 Aug 2026 00:10:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026March/SM/measles-patient-sonkromon-bedi-hospital-290326-040-1774790031.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Local govt polls get Tk 60bn budget: state minister]]></title>
-            <description><![CDATA[[Bangladesh] Local govt polls get Tk 60bn budget: state minister]]></description>
-            <link>https://bdnews24.com/bangladesh/fc79bdd3c3a4</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/fc79bdd3c3a4</guid>
-            <pubDate>Tue, 18 Aug 2026 23:44:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/savar-minister-shahe-alam-180826-01-1787073306.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[DMCH ENT chief attacked, hospitalised]]></title>
-            <description><![CDATA[[Bangladesh] DMCH ENT chief attacked, hospitalised]]></description>
-            <link>https://bdnews24.com/bangladesh/3418565b9ccf</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3418565b9ccf</guid>
-            <pubDate>Tue, 18 Aug 2026 23:34:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/asadur-rahman-dmc-ent-head-170626-1787072002.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mourinho formally unveiled by Madrid]]></title>
-            <description><![CDATA[[Sport] Mourinho formally unveiled by Madrid]]></description>
-            <link>https://bdnews24.com/sport/637e41b0d410</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/637e41b0d410</guid>
-            <pubDate>Tue, 18 Aug 2026 23:24:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/mourinho-madrid-18082026-01-1787073881.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shimanto Bank holds Regional Business Conference 2026]]></title>
-            <description><![CDATA[[Bangladesh] Shimanto Bank holds Regional Business Conference 2026]]></description>
-            <link>https://bdnews24.com/bangladesh/3dd5206ec968</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3dd5206ec968</guid>
-            <pubDate>Tue, 18 Aug 2026 23:22:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/shimanto-bank-18082026-01-1787073750.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[LNG supply falls, cargoes due Aug 20, 23]]></title>
-            <description><![CDATA[[Bangladesh] LNG supply falls, cargoes due Aug 20, 23]]></description>
-            <link>https://bdnews24.com/bangladesh/3746b783d5b0</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3746b783d5b0</guid>
-            <pubDate>Tue, 18 Aug 2026 23:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024December/SM/lng-terminal-311224-01-1735632436.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Meta goes on trial over Facebook, Instagram]]></title>
-            <description><![CDATA[[social media] Meta goes on trial over Facebook, Instagram]]></description>
-            <link>https://bdnews24.com/socialmedia/01228f868790</link>
-            <guid isPermaLink="true">https://bdnews24.com/socialmedia/01228f868790</guid>
-            <pubDate>Tue, 18 Aug 2026 22:42:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/meta-180826-1787071335.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan challenges India’s Sindoor narrative]]></title>
-            <description><![CDATA[[Neighbours] Pakistan challenges India’s Sindoor narrative]]></description>
-            <link>https://bdnews24.com/neighbours/13b1ba1e15c8</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/13b1ba1e15c8</guid>
-            <pubDate>Tue, 18 Aug 2026 22:31:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025May/SM/operation-sindoor-100525-1746857620.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[What poisoned Ferdous Steel’s ballast tank?]]></title>
-            <description><![CDATA[[Bangladesh] What poisoned Ferdous Steel’s ballast tank?]]></description>
-            <link>https://bdnews24.com/bangladesh/f9c5ce6a3939</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f9c5ce6a3939</guid>
-            <pubDate>Tue, 18 Aug 2026 22:16:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/chattogram-sample-collection-ship-180826-101-1787067927.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
+            <link>https://bdnews24.com</link>
+            <guid isPermaLink="true">https://bdnews24.com</guid>
+            <pubDate>Wed, 19 Aug 2026 05:19:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
