@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 07:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 08:20:55 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 07:27:54 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 08:20:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How many Bangladeshis died in the Kolkata hotel fire?]]></title>
+            <description><![CDATA[[Neighbours] How many Bangladeshis died in the Kolkata hotel fire?]]></description>
+            <link>https://bdnews24.com/neighbours/5560b112aee0</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/5560b112aee0</guid>
+            <pubDate>Wed, 19 Aug 2026 14:15:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/kolkata-hotel-fire-190826-201-1787126250.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ACC begins journey under Asaduzzaman]]></title>
+            <description><![CDATA[[Bangladesh] ACC begins journey under Asaduzzaman]]></description>
+            <link>https://bdnews24.com/bangladesh/28089bd4fa54</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/28089bd4fa54</guid>
+            <pubDate>Wed, 19 Aug 2026 13:34:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/e-k-m-asadujjaman-dudok-190826-26-1787122608.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Snakes slither into Shah Rukh’s Mannat]]></title>
             <description><![CDATA[[Entertainment] Snakes slither into Shah Rukh’s Mannat]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/cd20b4877930</guid>
             <pubDate>Wed, 19 Aug 2026 01:27:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/varenne-19082026-01-1787081154.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spurs goalie Vicario joins Juventus on loan]]></title>
-            <description><![CDATA[[Sport] Spurs goalie Vicario joins Juventus on loan]]></description>
-            <link>https://bdnews24.com/sport/8547e387649e</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/8547e387649e</guid>
-            <pubDate>Wed, 19 Aug 2026 01:02:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/spurs-vicario-19082026-01-1787079710.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vieira appointed Senegal boss]]></title>
-            <description><![CDATA[[Sport] Vieira appointed Senegal boss]]></description>
-            <link>https://bdnews24.com/sport/49bf15e7cf43</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/49bf15e7cf43</guid>
-            <pubDate>Wed, 19 Aug 2026 00:52:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/senegal-coach-19082026-01-1787079148.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
