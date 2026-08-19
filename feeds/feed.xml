@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 09:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 10:15:30 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 09:20:11 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 10:15:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bangladeshi journalist, wife and son 'killed' in Kolkata hotel fire]]></title>
+            <description><![CDATA[[Bangladesh] Bangladeshi journalist, wife and son 'killed' in Kolkata hotel fire]]></description>
+            <link>https://bdnews24.com/bangladesh/f805fda4eea4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f805fda4eea4</guid>
+            <pubDate>Wed, 19 Aug 2026 16:09:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/kolkata-hotel-fire-190826-01-1787110728.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dipu Moni gets 12-hour parole after husband’s death]]></title>
+            <description><![CDATA[[Bangladesh] Dipu Moni gets 12-hour parole after husband’s death]]></description>
+            <link>https://bdnews24.com/bangladesh/78969093d001</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/78969093d001</guid>
+            <pubDate>Wed, 19 Aug 2026 15:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025July/SM/dipumoni-arrest-160725-01-1752656288.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[No ‘magic fix’ for measles outbreak: state minister]]></title>
             <description><![CDATA[[Health] No ‘magic fix’ for measles outbreak: state minister]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/europe/9e3ccc450f2c</guid>
             <pubDate>Wed, 19 Aug 2026 10:34:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/spain-ceuta-women-190826-01-1787113993.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladeshis among 9 killed in Kolkata hotel fire]]></title>
-            <description><![CDATA[[Neighbours] Bangladeshis among 9 killed in Kolkata hotel fire]]></description>
-            <link>https://bdnews24.com/neighbours/c77b91f560ff</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/c77b91f560ff</guid>
-            <pubDate>Wed, 19 Aug 2026 09:58:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/kolkata-hotel-fire-190826-01-1787110728.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ESPN founder Bill Rasmussen dies]]></title>
-            <description><![CDATA[[Business] ESPN founder Bill Rasmussen dies]]></description>
-            <link>https://bdnews24.com/business/067bb3a5d4b1</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/067bb3a5d4b1</guid>
-            <pubDate>Wed, 19 Aug 2026 09:28:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bill-rasmussen-190826-01-1787109609.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
