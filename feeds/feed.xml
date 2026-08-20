@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 16:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 17:17:13 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 16:18:57 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 17:17:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Delhi removes Pakistan mission encroachments: report]]></title>
+            <description><![CDATA[[Neighbours] Delhi removes Pakistan mission encroachments: report]]></description>
+            <link>https://bdnews24.com/neighbours/ad3e24b7a32d</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/ad3e24b7a32d</guid>
+            <pubDate>Thu, 20 Aug 2026 22:49:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/pakistan-high-commission-new-delhi-20082026-2-1787241665.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Meta ‘ignored’ child safety risks, whistleblower testifies]]></title>
+            <description><![CDATA[[Tech] Meta ‘ignored’ child safety risks, whistleblower testifies]]></description>
+            <link>https://bdnews24.com/tech/ad78e5b3fcfe</link>
+            <guid isPermaLink="true">https://bdnews24.com/tech/ad78e5b3fcfe</guid>
+            <pubDate>Thu, 20 Aug 2026 22:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/meta-ignores-child-safety-200826-01-1787244372.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bibi Russell’s fashion journey comes full circle]]></title>
+            <description><![CDATA[[Entertainment] Bibi Russell’s fashion journey comes full circle]]></description>
+            <link>https://bdnews24.com/entertainment/de72d1441fb1</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/de72d1441fb1</guid>
+            <pubDate>Thu, 20 Aug 2026 22:23:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bibi-russell-addanama-200826-01-1787240655.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Harry, Meghan return to the press 'lion's den']]></title>
             <description><![CDATA[[World] Harry, Meghan return to the press 'lion's den']]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/e0233a70fb42</guid>
             <pubDate>Thu, 20 Aug 2026 17:33:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/disability-rights-in-focus-200826-01-1787225583.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tehran hits back at Trump's economic threat]]></title>
-            <description><![CDATA[[World] Tehran hits back at Trump's economic threat]]></description>
-            <link>https://bdnews24.com/world/e77ad619eb07</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/e77ad619eb07</guid>
-            <pubDate>Thu, 20 Aug 2026 17:22:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026March/SM/araghchi-150326-01-1773575820.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hadi murder probe report due Sept 27]]></title>
-            <description><![CDATA[[Bangladesh] Hadi murder probe report due Sept 27]]></description>
-            <link>https://bdnews24.com/bangladesh/2b50f8ac3b0f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2b50f8ac3b0f</guid>
-            <pubDate>Thu, 20 Aug 2026 17:08:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025December/SM/sharif-osman-bin-hadi-graffiti-231225-014-1766416246.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[College admission bids may open Sept 2]]></title>
-            <description><![CDATA[[Education] College admission bids may open Sept 2]]></description>
-            <link>https://bdnews24.com/education/f0c2e1a58d1e</link>
-            <guid isPermaLink="true">https://bdnews24.com/education/f0c2e1a58d1e</guid>
-            <pubDate>Thu, 20 Aug 2026 16:52:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ssc-result-vikarunnesa-school-100826-122-1786381903.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
