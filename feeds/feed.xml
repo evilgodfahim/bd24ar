@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 05:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 06:22:26 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 05:19:23 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 06:22:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Moderna-Merck breakthrough may spur cancer vaccine wave]]></title>
+            <description><![CDATA[[Health] Moderna-Merck breakthrough may spur cancer vaccine wave]]></description>
+            <link>https://bdnews24.com/health/77e8a87f1421</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/77e8a87f1421</guid>
+            <pubDate>Thu, 20 Aug 2026 12:18:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/moderna-office-200826-01-1787206674.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[China tax crackdown puts offshore trusts under scrutiny]]></title>
+            <description><![CDATA[[Asia Pacific] China tax crackdown puts offshore trusts under scrutiny]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/77122592d0e4</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/77122592d0e4</guid>
+            <pubDate>Thu, 20 Aug 2026 11:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/hongkong-cbd-200826-01-1787204406.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hotel leaseholder arrested after Kolkata fire kills 9]]></title>
+            <description><![CDATA[[Bangladesh] Hotel leaseholder arrested after Kolkata fire kills 9]]></description>
+            <link>https://bdnews24.com/bangladesh/c7ef23dc30c1</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c7ef23dc30c1</guid>
+            <pubDate>Thu, 20 Aug 2026 11:37:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/kolkata-hotel-fire-200826-1787202345.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[14 Myanmar nationals surrender in Bandarban]]></title>
+            <description><![CDATA[[Bangladesh] 14 Myanmar nationals surrender in Bandarban]]></description>
+            <link>https://bdnews24.com/bangladesh/9944062c0e4b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9944062c0e4b</guid>
+            <pubDate>Thu, 20 Aug 2026 11:26:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bandorban-surrender-200826-01-1787198573.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Robots poised for 'ChatGPT moment']]></title>
             <description><![CDATA[[Technology] Robots poised for 'ChatGPT moment']]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/4a8490f61ff0</guid>
             <pubDate>Wed, 19 Aug 2026 23:36:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/folarin-balogun-050726-01-1783277133.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Infantino loses more support over COO axing]]></title>
-            <description><![CDATA[[Sport] Infantino loses more support over COO axing]]></description>
-            <link>https://bdnews24.com/sport/a65c3c2ac52f</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/a65c3c2ac52f</guid>
-            <pubDate>Wed, 19 Aug 2026 23:22:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/gianni-infantino-110826-01-1786395762.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japan's farmers go nocturnal amid deadly heat]]></title>
-            <description><![CDATA[[World] Japan's farmers go nocturnal amid deadly heat]]></description>
-            <link>https://bdnews24.com/world/3e3d1a94a2c8</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/3e3d1a94a2c8</guid>
-            <pubDate>Wed, 19 Aug 2026 23:06:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/japan-farming-190826-01-1787159085.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iceland weighs European future]]></title>
-            <description><![CDATA[[World] Iceland weighs European future]]></description>
-            <link>https://bdnews24.com/world/8073ff9fb637</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/8073ff9fb637</guid>
-            <pubDate>Wed, 19 Aug 2026 22:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/iceland-structure-190826-01-1787158229.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fastest star ever found circles black hole]]></title>
-            <description><![CDATA[[Science] Fastest star ever found circles black hole]]></description>
-            <link>https://bdnews24.com/science/161c1551b849</link>
-            <guid isPermaLink="true">https://bdnews24.com/science/161c1551b849</guid>
-            <pubDate>Wed, 19 Aug 2026 22:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/star-milkyway-190826-01-1787157422.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
