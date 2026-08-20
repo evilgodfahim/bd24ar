@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 17:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 18:19:22 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 17:17:13 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 18:19:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[New LNG cargo due Sunday]]></title>
+            <description><![CDATA[[Business] New LNG cargo due Sunday]]></description>
+            <link>https://bdnews24.com/business/c0ec927883c9</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/c0ec927883c9</guid>
+            <pubDate>Fri, 21 Aug 2026 00:16:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/lng-cargo-terminal-200826-1787248032.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Barca bring back Cancelo for third stint]]></title>
+            <description><![CDATA[[Sport] Barca bring back Cancelo for third stint]]></description>
+            <link>https://bdnews24.com/sport/4757709515d8</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/4757709515d8</guid>
+            <pubDate>Fri, 21 Aug 2026 00:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/joao-cancelo-200826-01-1787249425.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BPL won’t take place this season: Tamim]]></title>
+            <description><![CDATA[[Cricket] BPL won’t take place this season: Tamim]]></description>
+            <link>https://bdnews24.com/cricket/85aeeda3f910</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/85aeeda3f910</guid>
+            <pubDate>Thu, 20 Aug 2026 23:53:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tamim-200826-01-1787226684.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Regional powers weigh Infantino ‘no-confidence vote’]]></title>
+            <description><![CDATA[[Sport] Regional powers weigh Infantino ‘no-confidence vote’]]></description>
+            <link>https://bdnews24.com/sport/ccf0f7ec90fc</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/ccf0f7ec90fc</guid>
+            <pubDate>Thu, 20 Aug 2026 23:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/infantino-070826-01-1786102731.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Over 250 Indians held over ‘links to Pakistan-based handler’]]></title>
+            <description><![CDATA[[Neighbours] Over 250 Indians held over ‘links to Pakistan-based handler’]]></description>
+            <link>https://bdnews24.com/neighbours/6fe9df405bd5</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/6fe9df405bd5</guid>
+            <pubDate>Thu, 20 Aug 2026 23:17:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/shahzad-bhatti-200826-01-1787245435.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Delhi removes Pakistan mission encroachments: report]]></title>
             <description><![CDATA[[Neighbours] Delhi removes Pakistan mission encroachments: report]]></description>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/politics/924981840fe4</guid>
             <pubDate>Thu, 20 Aug 2026 18:59:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ruhul-kabir-rizvi-200826-01-1787229555.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[23 held in KL sex ring targeting ‘Bangladeshis’]]></title>
-            <description><![CDATA[[Bangladesh] 23 held in KL sex ring targeting ‘Bangladeshis’]]></description>
-            <link>https://bdnews24.com/bangladesh/2a8b66d5a824</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2a8b66d5a824</guid>
-            <pubDate>Thu, 20 Aug 2026 18:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/malayshia-pic-200826-1787227332.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Venezuelans, Cubans deported to Liberia under Trump deal]]></title>
-            <description><![CDATA[[World] Venezuelans, Cubans deported to Liberia under Trump deal]]></description>
-            <link>https://bdnews24.com/world/a2efdaced473</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/a2efdaced473</guid>
-            <pubDate>Thu, 20 Aug 2026 18:05:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/deportation-trump-200826-01-1787227435.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fakhrul becomes Bangladesh's 23rd president]]></title>
-            <description><![CDATA[[Bangladesh] Fakhrul becomes Bangladesh's 23rd president]]></description>
-            <link>https://bdnews24.com/bangladesh/0bd878b2aa3e</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0bd878b2aa3e</guid>
-            <pubDate>Thu, 20 Aug 2026 17:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mirza-fakhrul-islam-alamgir-130826-03-1786620269.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sri Lanka delivers water to 72,000 amid drought]]></title>
-            <description><![CDATA[[World] Sri Lanka delivers water to 72,000 amid drought]]></description>
-            <link>https://bdnews24.com/world/3c1de463155b</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/3c1de463155b</guid>
-            <pubDate>Thu, 20 Aug 2026 17:35:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/srilanka-drought-200826-01-1787225663.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt puts disability rights in focus]]></title>
-            <description><![CDATA[[Bangladesh] Govt puts disability rights in focus]]></description>
-            <link>https://bdnews24.com/bangladesh/e0233a70fb42</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e0233a70fb42</guid>
-            <pubDate>Thu, 20 Aug 2026 17:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/disability-rights-in-focus-200826-01-1787225583.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
