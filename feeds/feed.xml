@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 02:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 03:36:01 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 02:08:57 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 03:36:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US debt crosses $40tn threshold]]></title>
+            <description><![CDATA[[Americas] US debt crosses $40tn threshold]]></description>
+            <link>https://bdnews24.com/world/americas/4dc435e92327</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/4dc435e92327</guid>
+            <pubDate>Thu, 20 Aug 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-treasury-building-200826-01-1787194758.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Measles deaths raise alarm over co-infections]]></title>
             <description><![CDATA[[Health] Measles deaths raise alarm over co-infections]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/685035f55a8a</guid>
             <pubDate>Wed, 19 Aug 2026 20:25:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/kolkata-hotel-fire-190826-205-1787147887.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prisons IG removed]]></title>
-            <description><![CDATA[[Bangladesh] Prisons IG removed]]></description>
-            <link>https://bdnews24.com/bangladesh/3a5a3676d36a</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3a5a3676d36a</guid>
-            <pubDate>Wed, 19 Aug 2026 20:17:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/igp-prison-motaher-hossain-190826-1787146431.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
