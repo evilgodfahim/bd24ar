@@ -4,10 +4,74 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 06:22:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 07:31:10 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 06:22:26 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 07:31:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[‘I will miss many things’: Fakhrul]]></title>
+            <description><![CDATA[[Politics] ‘I will miss many things’: Fakhrul]]></description>
+            <link>https://bdnews24.com/politics/04f0a2a2718c</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/04f0a2a2718c</guid>
+            <pubDate>Thu, 20 Aug 2026 13:28:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mirza-fakrul-islam-alamgir-15082026-1786792166.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russian ballistic missiles kill 12 in Kyiv]]></title>
+            <description><![CDATA[[Europe] Russian ballistic missiles kill 12 in Kyiv]]></description>
+            <link>https://bdnews24.com/world/europe/1faf744ce79b</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/1faf744ce79b</guid>
+            <pubDate>Thu, 20 Aug 2026 13:20:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/russian-missile-strike-200826-01-1787210355.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Baby Shark’ boy makes K-pop debut]]></title>
+            <description><![CDATA[[Entertainment] ‘Baby Shark’ boy makes K-pop debut]]></description>
+            <link>https://bdnews24.com/entertainment/a01bf40f4ed0</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/a01bf40f4ed0</guid>
+            <pubDate>Thu, 20 Aug 2026 13:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/babyshark-200826-1787209611.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dipu Moni bids final farewell to husband]]></title>
+            <description><![CDATA[[Image] Dipu Moni bids final farewell to husband]]></description>
+            <link>https://bdnews24.com/media-en/image/7bef7cf3409c</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/7bef7cf3409c</guid>
+            <pubDate>Thu, 20 Aug 2026 12:58:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/dipu-moni-200826-09-1787207233.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stone attacks on trains persist, still no arrests]]></title>
+            <description><![CDATA[[Bangladesh] Stone attacks on trains persist, still no arrests]]></description>
+            <link>https://bdnews24.com/bangladesh/3f67ed519163</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3f67ed519163</guid>
+            <pubDate>Thu, 20 Aug 2026 12:57:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/cumilla-trian-stone-200826-01-1787205097.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stage set for presidential election]]></title>
+            <description><![CDATA[[Politics] Stage set for presidential election]]></description>
+            <link>https://bdnews24.com/politics/78a2df15cba7</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/78a2df15cba7</guid>
+            <pubDate>Thu, 20 Aug 2026 12:54:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/president-election-200826-01-1787206637.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[August 20, 2026]]></title>
+            <description><![CDATA[[Image] August 20, 2026]]></description>
+            <link>https://bdnews24.com/media-en/image/d5a48aafcce3</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/d5a48aafcce3</guid>
+            <pubDate>Thu, 20 Aug 2026 12:50:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tawfique-nawaz-200826-01-1787204816.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oral cholera vaccination drive launched]]></title>
+            <description><![CDATA[[Bangladesh] Oral cholera vaccination drive launched]]></description>
+            <link>https://bdnews24.com/bangladesh/15afec703736</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/15afec703736</guid>
+            <pubDate>Thu, 20 Aug 2026 12:38:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/oralcholera-jab-200826-1787207918.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Moderna-Merck breakthrough may spur cancer vaccine wave]]></title>
             <description><![CDATA[[Health] Moderna-Merck breakthrough may spur cancer vaccine wave]]></description>
@@ -103,70 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/africa/e4c0ddaa2179</guid>
             <pubDate>Thu, 20 Aug 2026 10:20:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/africa-mine-200826-1787199598.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh takes visa-on-arrival process online]]></title>
-            <description><![CDATA[[Bangladesh] Bangladesh takes visa-on-arrival process online]]></description>
-            <link>https://bdnews24.com/bangladesh/127ab0e66cf7</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/127ab0e66cf7</guid>
-            <pubDate>Thu, 20 Aug 2026 10:19:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/immigration-police-200826-01-1787197379.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Messi scores first goal since father’s death]]></title>
-            <description><![CDATA[[Sport] Messi scores first goal since father’s death]]></description>
-            <link>https://bdnews24.com/sport/240369a65417</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/240369a65417</guid>
-            <pubDate>Thu, 20 Aug 2026 10:08:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/messi-200826-1787198826.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Harry, Meghan to move back to Britain: media reports]]></title>
-            <description><![CDATA[[People] Harry, Meghan to move back to Britain: media reports]]></description>
-            <link>https://bdnews24.com/people/321edf8183f3</link>
-            <guid isPermaLink="true">https://bdnews24.com/people/321edf8183f3</guid>
-            <pubDate>Thu, 20 Aug 2026 09:40:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/harry-meghan-200826-01-1787197166.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dipu Moni released on 12-hour parole]]></title>
-            <description><![CDATA[[Bangladesh] Dipu Moni released on 12-hour parole]]></description>
-            <link>https://bdnews24.com/bangladesh/950266889670</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/950266889670</guid>
-            <pubDate>Thu, 20 Aug 2026 09:36:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/dipu-moni-kolabagan-200826-1787195689.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US debt crosses $40tn threshold]]></title>
-            <description><![CDATA[[Americas] US debt crosses $40tn threshold]]></description>
-            <link>https://bdnews24.com/world/americas/4dc435e92327</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/4dc435e92327</guid>
-            <pubDate>Thu, 20 Aug 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-treasury-building-200826-01-1787194758.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Measles deaths raise alarm over co-infections]]></title>
-            <description><![CDATA[[Health] Measles deaths raise alarm over co-infections]]></description>
-            <link>https://bdnews24.com/health/205a6bdebede</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/205a6bdebede</guid>
-            <pubDate>Thu, 20 Aug 2026 01:29:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/measles-patient-dncc-hospital-120526-028-1778590985.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[7 Bangladeshis, 2 Indians die in Kolkata fire]]></title>
-            <description><![CDATA[[Bangladesh] 7 Bangladeshis, 2 Indians die in Kolkata fire]]></description>
-            <link>https://bdnews24.com/bangladesh/6928d030f676</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6928d030f676</guid>
-            <pubDate>Thu, 20 Aug 2026 00:06:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/kolkata-hotel-fire-190826-201-1787126250.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Webb, Masters warn over Balogun fallout]]></title>
-            <description><![CDATA[[Sport] Webb, Masters warn over Balogun fallout]]></description>
-            <link>https://bdnews24.com/sport/4a8490f61ff0</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/4a8490f61ff0</guid>
-            <pubDate>Wed, 19 Aug 2026 23:36:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/folarin-balogun-050726-01-1783277133.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
