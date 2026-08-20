@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 09:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 10:17:02 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 09:21:05 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 10:17:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Presidential election: Tarique votes alongside Fakhrul]]></title>
+            <description><![CDATA[[Politics] Presidential election: Tarique votes alongside Fakhrul]]></description>
+            <link>https://bdnews24.com/politics/2832e74a5fcd</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/2832e74a5fcd</guid>
+            <pubDate>Thu, 20 Aug 2026 16:10:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarique-fakhrul-200826-201-1787217250.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[N Korea fires suspected ballistic missile: Japan]]></title>
+            <description><![CDATA[[World] N Korea fires suspected ballistic missile: Japan]]></description>
+            <link>https://bdnews24.com/world/7648c81154ed</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/7648c81154ed</guid>
+            <pubDate>Thu, 20 Aug 2026 15:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/korea-japan-200826-01-1787218831.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[7 to die for Jamalpur double murder]]></title>
+            <description><![CDATA[[Bangladesh] 7 to die for Jamalpur double murder]]></description>
+            <link>https://bdnews24.com/bangladesh/abc1750648b4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/abc1750648b4</guid>
+            <pubDate>Thu, 20 Aug 2026 15:33:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/jamalpur-verdict-200826-01-1787216468.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Is Roberto Carlos now Muslim?]]></title>
             <description><![CDATA[[Sport] Is Roberto Carlos now Muslim?]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/77122592d0e4</guid>
             <pubDate>Thu, 20 Aug 2026 11:40:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/hongkong-cbd-200826-01-1787204406.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hotel leaseholder arrested after Kolkata fire kills 9]]></title>
-            <description><![CDATA[[Bangladesh] Hotel leaseholder arrested after Kolkata fire kills 9]]></description>
-            <link>https://bdnews24.com/bangladesh/c7ef23dc30c1</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c7ef23dc30c1</guid>
-            <pubDate>Thu, 20 Aug 2026 11:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/kolkata-hotel-fire-200826-1787202345.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[14 Myanmar nationals surrender in Bandarban]]></title>
-            <description><![CDATA[[Bangladesh] 14 Myanmar nationals surrender in Bandarban]]></description>
-            <link>https://bdnews24.com/bangladesh/9944062c0e4b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9944062c0e4b</guid>
-            <pubDate>Thu, 20 Aug 2026 11:26:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bandorban-surrender-200826-01-1787198573.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Robots poised for 'ChatGPT moment']]></title>
-            <description><![CDATA[[Technology] Robots poised for 'ChatGPT moment']]></description>
-            <link>https://bdnews24.com/technology/801a742a791b</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/801a742a791b</guid>
-            <pubDate>Thu, 20 Aug 2026 11:19:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/robots-200826-1787203071.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
