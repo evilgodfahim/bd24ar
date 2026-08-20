@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 08:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 09:21:05 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 08:21:53 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 09:21:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Is Roberto Carlos now Muslim?]]></title>
+            <description><![CDATA[[Sport] Is Roberto Carlos now Muslim?]]></description>
+            <link>https://bdnews24.com/sport/18cef229ac6a</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/18cef229ac6a</guid>
+            <pubDate>Thu, 20 Aug 2026 15:18:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/roberto-carlos-marriage-200826-02-1787212872.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kolkata fire: Satkhira families await return of victims’ bodies]]></title>
+            <description><![CDATA[[Bangladesh] Kolkata fire: Satkhira families await return of victims’ bodies]]></description>
+            <link>https://bdnews24.com/bangladesh/7017e6eb4935</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7017e6eb4935</guid>
+            <pubDate>Thu, 20 Aug 2026 14:51:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/satkhira-2-dead-200826-01-1787212543.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Acting speaker to swear in new president]]></title>
+            <description><![CDATA[[Bangladesh] Acting speaker to swear in new president]]></description>
+            <link>https://bdnews24.com/bangladesh/ab1dc62fb2f3</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ab1dc62fb2f3</guid>
+            <pubDate>Thu, 20 Aug 2026 14:35:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026March/SM/kaiser-kamal-290326-01-1774781190.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Bangabandhu house attack: Case sought against Yunus]]></title>
             <description><![CDATA[[Bangladesh] Bangabandhu house attack: Case sought against Yunus]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/technology/801a742a791b</guid>
             <pubDate>Thu, 20 Aug 2026 11:19:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/robots-200826-1787203071.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vietnam moves to scrap death penalty for 6 crimes]]></title>
-            <description><![CDATA[[Asia Pacific] Vietnam moves to scrap death penalty for 6 crimes]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/46142accae2a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/46142accae2a</guid>
-            <pubDate>Thu, 20 Aug 2026 11:10:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/vietnam-flag-200826-1787202535.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Don’t change discipline to reduce racial gaps: US tells schools]]></title>
-            <description><![CDATA[[Americas] Don’t change discipline to reduce racial gaps: US tells schools]]></description>
-            <link>https://bdnews24.com/world/americas/34b99940a458</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/34b99940a458</guid>
-            <pubDate>Thu, 20 Aug 2026 11:02:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-school-200826-1787202134.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel admits troops killed 5-year-old Hind Rajab in Gaza]]></title>
-            <description><![CDATA[[West Asia] Israel admits troops killed 5-year-old Hind Rajab in Gaza]]></description>
-            <link>https://bdnews24.com/world/middle-east/33210179e990</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/33210179e990</guid>
-            <pubDate>Thu, 20 Aug 2026 10:53:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/hind-rajab-gaza-child-200826-1787201585.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
