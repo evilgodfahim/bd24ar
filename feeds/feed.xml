@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 19:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 20:14:51 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 19:21:41 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 20:14:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Freed Imran Khan won't confront army chief: aide]]></title>
+            <description><![CDATA[[World] Freed Imran Khan won't confront army chief: aide]]></description>
+            <link>https://bdnews24.com/world/05a339e3048a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/05a339e3048a</guid>
+            <pubDate>Fri, 21 Aug 2026 01:50:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/imran-khan-200826-01-1787250848.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Waste station pushed through in Bhawal forest]]></title>
+            <description><![CDATA[[Bangladesh] Waste station pushed through in Bhawal forest]]></description>
+            <link>https://bdnews24.com/bangladesh/7a65693f2884</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7a65693f2884</guid>
+            <pubDate>Fri, 21 Aug 2026 01:42:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/gazipur-forest-sts-050826-01-1787252471.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Root matches Tendulkar’s Test record]]></title>
+            <description><![CDATA[[Cricket] Root matches Tendulkar’s Test record]]></description>
+            <link>https://bdnews24.com/cricket/8962fa127608</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/8962fa127608</guid>
+            <pubDate>Fri, 21 Aug 2026 01:24:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/root-sochin-200826-01-1787253802.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Arsenal kick off title defence as EPL returns]]></title>
             <description><![CDATA[[Sport] Arsenal kick off title defence as EPL returns]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/f8b9c4a9ed6d</guid>
             <pubDate>Thu, 20 Aug 2026 20:03:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/china-us-200826-01-1787234617.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yunus’s home lands on Ctg mosquito map]]></title>
-            <description><![CDATA[[Environment] Yunus’s home lands on Ctg mosquito map]]></description>
-            <link>https://bdnews24.com/environment/c71dde615576</link>
-            <guid isPermaLink="true">https://bdnews24.com/environment/c71dde615576</guid>
-            <pubDate>Thu, 20 Aug 2026 19:48:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/chattogram-dr-yunuss-family-house-200826-05-1787229895.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dengue: 1 dies, 750 hospitalised]]></title>
-            <description><![CDATA[[Health] Dengue: 1 dies, 750 hospitalised]]></description>
-            <link>https://bdnews24.com/health/5854dc88e8ae</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/5854dc88e8ae</guid>
-            <pubDate>Thu, 20 Aug 2026 19:45:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/mymensingh-dengue-death-070126-1782889285.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 more die of ‘measles’]]></title>
-            <description><![CDATA[[Health] 3 more die of ‘measles’]]></description>
-            <link>https://bdnews24.com/health/a2ef0d93853e</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/a2ef0d93853e</guid>
-            <pubDate>Thu, 20 Aug 2026 19:04:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/measles-patient-dncc-hospital-120526-037-1778585242.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
