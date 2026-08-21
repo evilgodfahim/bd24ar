@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 07:32:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 08:23:08 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 07:32:43 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 08:23:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Minister visits family of woman who died after ‘medical error’]]></title>
+            <description><![CDATA[[Bangladesh] Minister visits family of woman who died after ‘medical error’]]></description>
+            <link>https://bdnews24.com/bangladesh/64fe64a2d996</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/64fe64a2d996</guid>
+            <pubDate>Fri, 21 Aug 2026 14:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rajbari-health-minister-210826-01-1787296477.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[DMP restricts traffic around Bangabhaban]]></title>
             <description><![CDATA[[Bangladesh] DMP restricts traffic around Bangabhaban]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/africa/665a30111e09</guid>
             <pubDate>Fri, 21 Aug 2026 09:03:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/nigeria-210826-1787281378.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan ex-PM Imran Khan back in prison]]></title>
-            <description><![CDATA[[South Asia] Pakistan ex-PM Imran Khan back in prison]]></description>
-            <link>https://bdnews24.com/world/south-asia/94e42350dca6</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/south-asia/94e42350dca6</guid>
-            <pubDate>Fri, 21 Aug 2026 08:53:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/imran-khan-hospital-210826-01-1787280803.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
