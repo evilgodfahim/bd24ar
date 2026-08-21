@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ]]></title>
-        <description><![CDATA[bangla.bdnews24.com আর্কাইভ থেকে সর্বশেষ সংবাদ]]></description>
+        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bangla.bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 12:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 13:36:39 GMT</lastBuildDate>
         <atom:link href="https://bangla.bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 12:19:57 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 13:36:39 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[মন্ত্রী-প্রতিমন্ত্রী তালিকায় আসছে নতুন ৫ মুখ, একজনের পদোন্নতি]]></title>
-            <description><![CDATA[[বাংলাদেশ] মন্ত্রী-প্রতিমন্ত্রী তালিকায় আসছে নতুন ৫ মুখ, একজনের পদোন্নতি]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/33f04230051f</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/33f04230051f</guid>
-            <pubDate>Fri, 21 Aug 2026 12:19:57 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bangabhaban-oath-210826-01-1787314612.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[জিমিকে নিয়ে এশিয়ান গেমসের চূড়ান্ত দল]]></title>
-            <description><![CDATA[[খেলা] জিমিকে নিয়ে এশিয়ান গেমসের চূড়ান্ত দল]]></description>
-            <link>https://bangla.bdnews24.com/sport/751393356427</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/751393356427</guid>
-            <pubDate>Fri, 21 Aug 2026 12:19:57 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/hockey-210826-01-1787314179.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[“আমাদের কিছু করার নেই”: অপরাধীদের বারবার জামিন প্রসঙ্গে র‌্যাব কর্মকর্তা]]></title>
-            <description><![CDATA[[বাংলাদেশ] “আমাদের কিছু করার নেই”: অপরাধীদের বারবার জামিন প্রসঙ্গে র‌্যাব কর্মকর্তা]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/8923f1073f83</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/8923f1073f83</guid>
-            <pubDate>Fri, 21 Aug 2026 12:19:57 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rab2-captain-210826-1787314111.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[প্রধানমন্ত্রীর দিল্লি সফর নিয়ে এখনো সিদ্ধান্ত হয়নি: প্রেস সচিব]]></title>
-            <description><![CDATA[[বাংলাদেশ] প্রধানমন্ত্রীর দিল্লি সফর নিয়ে এখনো সিদ্ধান্ত হয়নি: প্রেস সচিব]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/4df0e016761e</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/4df0e016761e</guid>
-            <pubDate>Fri, 21 Aug 2026 12:19:57 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026February/SM/tarique-rahman-oath-prime-minister-170226-013-1771331265.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[রবি আর বাংলাদেশ, জয়ের গল্প একসাথে!]]></title>
-            <description><![CDATA[[বিজ্ঞাপন-বার্তা] রবি আর বাংলাদেশ, জয়ের গল্প একসাথে!]]></description>
-            <link>https://bangla.bdnews24.com/business-advertorial/bb92435e01ac</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/business-advertorial/bb92435e01ac</guid>
-            <pubDate>Fri, 21 Aug 2026 12:19:57 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/robi-content-210826-02-1787313567.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[যে কারণে রেয়াল মাদ্রিদ থেকে ফিওরেন্তিনায় মাস্তানতুয়োনো]]></title>
-            <description><![CDATA[[খেলা] যে কারণে রেয়াল মাদ্রিদ থেকে ফিওরেন্তিনায় মাস্তানতুয়োনো]]></description>
-            <link>https://bangla.bdnews24.com/sport/b4d9a225c914</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/b4d9a225c914</guid>
-            <pubDate>Fri, 21 Aug 2026 12:19:57 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/franco-mastantuono-200826-01-1787313333.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[গোপালগঞ্জে সবুজ পাতার ফাঁকে লাল-সাদা পদ্ম, দেখতে ভিড়]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] গোপালগঞ্জে সবুজ পাতার ফাঁকে লাল-সাদা পদ্ম, দেখতে ভিড়]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/da591bc84143</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/da591bc84143</guid>
-            <pubDate>Fri, 21 Aug 2026 12:19:57 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/gopalganj-lotas-210826-01-1787312911.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ডেঙ্গু নিয়ে হাসপাতালে আরও ৩৬৬]]></title>
-            <description><![CDATA[[স্বাস্থ্য] ডেঙ্গু নিয়ে হাসপাতালে আরও ৩৬৬]]></description>
-            <link>https://bangla.bdnews24.com/health/5d1f4a9455e0</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/health/5d1f4a9455e0</guid>
-            <pubDate>Fri, 21 Aug 2026 12:19:57 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/dengue-patient-suhrawardy-hospital-300822-04-1787145287.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[দীপু মনির প্রিজন ভ্যানের পেছনে ছোটা তরুণ কারাগারে]]></title>
-            <description><![CDATA[[বাংলাদেশ] দীপু মনির প্রিজন ভ্যানের পেছনে ছোটা তরুণ কারাগারে]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/17a6429c379c</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/17a6429c379c</guid>
-            <pubDate>Fri, 21 Aug 2026 12:19:57 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/al-rafi-prottoy-20082026-1787255169.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[জাবির জাহানারা ইমাম হলে রাত ১১টার মধ্যে প্রবেশের নির্দেশ, প্রতিবাদ]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] জাবির জাহানারা ইমাম হলে রাত ১১টার মধ্যে প্রবেশের নির্দেশ, প্রতিবাদ]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/b62928977518</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/b62928977518</guid>
-            <pubDate>Fri, 21 Aug 2026 12:19:57 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ju-jahanara-imam-hall-210826-01-1787312094.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[হামের উপসর্গ নিয়ে আরো ৩ জনের মৃত্যু]]></title>
-            <description><![CDATA[[স্বাস্থ্য] হামের উপসর্গ নিয়ে আরো ৩ জনের মৃত্যু]]></description>
-            <link>https://bangla.bdnews24.com/health/3755672ea8b8</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/health/3755672ea8b8</guid>
-            <pubDate>Fri, 21 Aug 2026 12:19:57 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/measles-patient-mgh-180726-025-1784382320.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ব্রাহ্মণবাড়িয়ায় বাড়ির পথ-টয়লেট-টিউবওয়েল ঘিরে বেড়া দেওয়ার অভিযোগ]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] ব্রাহ্মণবাড়িয়ায় বাড়ির পথ-টয়লেট-টিউবওয়েল ঘিরে বেড়া দেওয়ার অভিযোগ]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/2853cc6751c4</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/2853cc6751c4</guid>
-            <pubDate>Fri, 21 Aug 2026 12:19:57 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/brahambaria-house-block-210826-01-1787311870.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[কলকাতায় ১১ হোটেল বন্ধ ঘোষণা, ‘আতঙ্কিত’ বাংলাদেশিদের মধ্যে ফেরার তাগিদ]]></title>
-            <description><![CDATA[[প্রতিবেশী] কলকাতায় ১১ হোটেল বন্ধ ঘোষণা, ‘আতঙ্কিত’ বাংলাদেশিদের মধ্যে ফেরার তাগিদ]]></description>
-            <link>https://bangla.bdnews24.com/neighbour/d60ab915a4b1</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/neighbour/d60ab915a4b1</guid>
-            <pubDate>Fri, 21 Aug 2026 12:19:57 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bangladeshi-tourist-210826-1787311709.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ব্রাহ্মণবাড়িয়ায় মাদক নিরাময় কেন্দ্রে ‘মারধরে’ রোগীর মৃত্যু, পালিয়েছে ৪০ জন]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] ব্রাহ্মণবাড়িয়ায় মাদক নিরাময় কেন্দ্রে ‘মারধরে’ রোগীর মৃত্যু, পালিয়েছে ৪০ জন]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/01905a415253</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/01905a415253</guid>
-            <pubDate>Fri, 21 Aug 2026 12:19:57 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/brahmanbaria-escape-210826-1787311393.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[তারেক রহমান ২৩-২৫ অগাস্ট দিল্লি সফর করতে পারেন: রয়টার্সের খবর]]></title>
-            <description><![CDATA[[বাংলাদেশ] তারেক রহমান ২৩-২৫ অগাস্ট দিল্লি সফর করতে পারেন: রয়টার্সের খবর]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/eb9f60b8ff08</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/eb9f60b8ff08</guid>
-            <pubDate>Fri, 21 Aug 2026 12:19:57 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarique-modi-140826-01-1786699147.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[অ্যান্ড্রয়েডে চালু হল স্পটিফাইয়ের ‘রানিং মোড’]]></title>
-            <description><![CDATA[[টেক] অ্যান্ড্রয়েডে চালু হল স্পটিফাইয়ের ‘রানিং মোড’]]></description>
-            <link>https://bangla.bdnews24.com/tech/a5a854d9fe90</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/tech/a5a854d9fe90</guid>
-            <pubDate>Fri, 21 Aug 2026 12:19:57 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/spotify-running-mode-190826-01-1787310535.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[মন্ত্রিসভার আকার বাড়ছে: ফোন পেলেন কে কে]]></title>
-            <description><![CDATA[[বাংলাদেশ] মন্ত্রিসভার আকার বাড়ছে: ফোন পেলেন কে কে]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/2345b0a77b27</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/2345b0a77b27</guid>
-            <pubDate>Fri, 21 Aug 2026 12:19:57 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/moyeen-andaleeve-saching-lincoln-210826-01-1787309953.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[সীমান্ত সুরক্ষিত না হলে ভারত নিরাপদ থাকবে না: অমিত শাহ]]></title>
-            <description><![CDATA[[বিশ্ব] সীমান্ত সুরক্ষিত না হলে ভারত নিরাপদ থাকবে না: অমিত শাহ]]></description>
-            <link>https://bangla.bdnews24.com/world/b59b1bd7ff51</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/world/b59b1bd7ff51</guid>
-            <pubDate>Fri, 21 Aug 2026 12:19:57 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/amit-shah-210826-01-1787309685.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[চোটে ছিটকে গেলেন রিবাকিনা, এক নম্বরে টিকে গেলেন সাবালেঙ্কা]]></title>
-            <description><![CDATA[[খেলা] চোটে ছিটকে গেলেন রিবাকিনা, এক নম্বরে টিকে গেলেন সাবালেঙ্কা]]></description>
-            <link>https://bangla.bdnews24.com/sport/09d810c918de</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/09d810c918de</guid>
-            <pubDate>Fri, 21 Aug 2026 12:19:57 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/elena-rybakina-210826-01-1787309240.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[লালমনিরহাটে বিরূপ আবহাওয়ার প্রভাবে পাটে লোকসানের শঙ্কা]]></title>
-            <description><![CDATA[[টিউব] লালমনিরহাটে বিরূপ আবহাওয়ার প্রভাবে পাটে লোকসানের শঙ্কা]]></description>
-            <link>https://bangla.bdnews24.com/tube/24fd99f5a0b3</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/24fd99f5a0b3</guid>
-            <pubDate>Fri, 21 Aug 2026 12:19:57 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/lalmonirhat-jute-pkg-thumb-1787308556.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: timeout of 65000ms exceeded]]></description>
+            <link>https://bangla.bdnews24.com</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com</guid>
+            <pubDate>Fri, 21 Aug 2026 13:36:39 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News]]></title>
-        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
+        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 12:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 13:36:39 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 12:19:55 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 13:36:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[El Niño, not quake, to hit Colombia's coffee harvest]]></title>
-            <description><![CDATA[[World] El Niño, not quake, to hit Colombia's coffee harvest]]></description>
-            <link>https://bdnews24.com/world/8a29277f54ab</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/8a29277f54ab</guid>
-            <pubDate>Fri, 21 Aug 2026 18:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/colombia-coffee-210826-01-1787313592.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No decision yet on Tarique’s India visit: Dhaka]]></title>
-            <description><![CDATA[[Bangladesh] No decision yet on Tarique’s India visit: Dhaka]]></description>
-            <link>https://bdnews24.com/bangladesh/6d327209a0d4</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6d327209a0d4</guid>
-            <pubDate>Fri, 21 Aug 2026 17:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarique-modi-140826-01-1786699147.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 more with measles symptoms die]]></title>
-            <description><![CDATA[[Health] 3 more with measles symptoms die]]></description>
-            <link>https://bdnews24.com/health/de6851ed4c9a</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/de6851ed4c9a</guid>
-            <pubDate>Fri, 21 Aug 2026 17:26:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/measles-patient-dncc-hospital-200526-03-1779365946.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt views Opposition vote 'narrowly': Jamaat]]></title>
-            <description><![CDATA[[Politics] Govt views Opposition vote 'narrowly': Jamaat]]></description>
-            <link>https://bdnews24.com/politics/392593b1f809</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/392593b1f809</guid>
-            <pubDate>Fri, 21 Aug 2026 17:24:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/hamidur-rahman-azad-210826-02-1787306843.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cabinet set to expand: Who got the call?]]></title>
-            <description><![CDATA[[Bangladesh] Cabinet set to expand: Who got the call?]]></description>
-            <link>https://bdnews24.com/bangladesh/f00487071cfa</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f00487071cfa</guid>
-            <pubDate>Fri, 21 Aug 2026 17:12:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/moyeen-andaleeve-saching-lincoln-210826-01-1787309953.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US shoppers tighten budgets]]></title>
-            <description><![CDATA[[Americas] US shoppers tighten budgets]]></description>
-            <link>https://bdnews24.com/world/americas/3780b76d7991</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/3780b76d7991</guid>
-            <pubDate>Fri, 21 Aug 2026 16:59:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-mall-pennsylvania-210826-01-1787309859.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[China tax crackdown spurs review of offshore trusts]]></title>
-            <description><![CDATA[[Business] China tax crackdown spurs review of offshore trusts]]></description>
-            <link>https://bdnews24.com/business/cac3b00c5f6c</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/cac3b00c5f6c</guid>
-            <pubDate>Fri, 21 Aug 2026 16:53:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/china-offshore-210826-01-1787309499.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran vows 'devastating' response to US sanctions threat]]></title>
-            <description><![CDATA[[World] Iran vows 'devastating' response to US sanctions threat]]></description>
-            <link>https://bdnews24.com/world/6f5736a13a10</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/6f5736a13a10</guid>
-            <pubDate>Fri, 21 Aug 2026 16:53:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-iran-210826-01-1787309469.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India signals preparations for Tarique visit, then pulls notice]]></title>
-            <description><![CDATA[[Neighbours] India signals preparations for Tarique visit, then pulls notice]]></description>
-            <link>https://bdnews24.com/neighbours/8f6571311955</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/8f6571311955</guid>
-            <pubDate>Fri, 21 Aug 2026 16:48:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rashtrapati-bhavan-210826-01-1787307730.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Zuckerberg buys castle estate in Ireland]]></title>
-            <description><![CDATA[[People] Zuckerberg buys castle estate in Ireland]]></description>
-            <link>https://bdnews24.com/people/202e2a28ea3d</link>
-            <guid isPermaLink="true">https://bdnews24.com/people/202e2a28ea3d</guid>
-            <pubDate>Fri, 21 Aug 2026 16:45:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/irish-zuckerberg-castle-210826-1787309006.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Typhoon Maysak death toll rises to 159 in China]]></title>
-            <description><![CDATA[[World] Typhoon Maysak death toll rises to 159 in China]]></description>
-            <link>https://bdnews24.com/world/f05c35073780</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/f05c35073780</guid>
-            <pubDate>Fri, 21 Aug 2026 16:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/typhoon-china-210826-01-1787308865.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[China, Indonesia to deepen military, economic ties]]></title>
-            <description><![CDATA[[World] China, Indonesia to deepen military, economic ties]]></description>
-            <link>https://bdnews24.com/world/aa682840dfea</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/aa682840dfea</guid>
-            <pubDate>Fri, 21 Aug 2026 16:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/china-indonesia-210826-01-1787308608.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Girl found tied up in Khulna school bathroom]]></title>
-            <description><![CDATA[[Bangladesh] Girl found tied up in Khulna school bathroom]]></description>
-            <link>https://bdnews24.com/bangladesh/a142862063b6</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a142862063b6</guid>
-            <pubDate>Fri, 21 Aug 2026 15:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/khulna-rescue-210826-01-1787302416.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shut Firebase accounts used in scams: India tells Google]]></title>
-            <description><![CDATA[[THE LONG READ] Shut Firebase accounts used in scams: India tells Google]]></description>
-            <link>https://bdnews24.com/the-long-read/4d9099310f27</link>
-            <guid isPermaLink="true">https://bdnews24.com/the-long-read/4d9099310f27</guid>
-            <pubDate>Fri, 21 Aug 2026 15:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/google-logo-210826-1787304532.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spurs agree £75m deal for City winger Savinho: report]]></title>
-            <description><![CDATA[[SPORTS] Spurs agree £75m deal for City winger Savinho: report]]></description>
-            <link>https://bdnews24.com/stripe/sports/0ddf23035219</link>
-            <guid isPermaLink="true">https://bdnews24.com/stripe/sports/0ddf23035219</guid>
-            <pubDate>Fri, 21 Aug 2026 15:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/city-savinho-210826-1787302857.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fakhrul pays respects at graves of Zia, Khaleda before oath]]></title>
-            <description><![CDATA[[Politics] Fakhrul pays respects at graves of Zia, Khaleda before oath]]></description>
-            <link>https://bdnews24.com/politics/27a4ec539360</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/27a4ec539360</guid>
-            <pubDate>Fri, 21 Aug 2026 14:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mirza-fakhrul-islam-210826-01-1787301323.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Singapore's plan to clear forest for housing faces backlash]]></title>
-            <description><![CDATA[[South-East Asia] Singapore's plan to clear forest for housing faces backlash]]></description>
-            <link>https://bdnews24.com/world/south-east-asia/999f5b550a62</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/south-east-asia/999f5b550a62</guid>
-            <pubDate>Fri, 21 Aug 2026 14:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/singapore-forest-housing-210826-01-1787301192.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[IndiGo website faces new booking glitch]]></title>
-            <description><![CDATA[[Aviation] IndiGo website faces new booking glitch]]></description>
-            <link>https://bdnews24.com/aviation/57fd8bc6706a</link>
-            <guid isPermaLink="true">https://bdnews24.com/aviation/57fd8bc6706a</guid>
-            <pubDate>Fri, 21 Aug 2026 14:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/indigo-210826-1787300986.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Minister visits family of woman who died after ‘medical error’]]></title>
-            <description><![CDATA[[Bangladesh] Minister visits family of woman who died after ‘medical error’]]></description>
-            <link>https://bdnews24.com/bangladesh/64fe64a2d996</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/64fe64a2d996</guid>
-            <pubDate>Fri, 21 Aug 2026 14:12:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rajbari-health-minister-210826-01-1787296477.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[DMP restricts traffic around Bangabhaban]]></title>
-            <description><![CDATA[[Bangladesh] DMP restricts traffic around Bangabhaban]]></description>
-            <link>https://bdnews24.com/bangladesh/cd546bc6fbd4</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cd546bc6fbd4</guid>
-            <pubDate>Fri, 21 Aug 2026 13:17:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/banga-bhaban-security-250726-11-1784977414.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: timeout of 65000ms exceeded]]></description>
+            <link>https://bdnews24.com</link>
+            <guid isPermaLink="true">https://bdnews24.com</guid>
+            <pubDate>Fri, 21 Aug 2026 13:36:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
