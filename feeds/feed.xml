@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 16:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 17:17:16 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 16:17:17 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 17:17:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Who are Bangladesh’s new ministers and state ministers?]]></title>
+            <description><![CDATA[[Bangladesh] Who are Bangladesh’s new ministers and state ministers?]]></description>
+            <link>https://bdnews24.com/bangladesh/911fb1953ae3</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/911fb1953ae3</guid>
+            <pubDate>Fri, 21 Aug 2026 23:06:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/new-ministers-210826-01-1787324987.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Henry Kissinger's wife Nancy dies]]></title>
             <description><![CDATA[[Americas] Henry Kissinger's wife Nancy dies]]></description>
@@ -65,12 +73,12 @@
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mirza-fakhrul-islam-alamgir-130826-03-1786620269.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Several injured in sword attack at Swedish school]]></title>
-            <description><![CDATA[[World] Several injured in sword attack at Swedish school]]></description>
+            <title><![CDATA[Man armed with sword injures several at Swedish school]]></title>
+            <description><![CDATA[[World] Man armed with sword injures several at Swedish school]]></description>
             <link>https://bdnews24.com/world/493b6c65b072</link>
             <guid isPermaLink="true">https://bdnews24.com/world/493b6c65b072</guid>
             <pubDate>Fri, 21 Aug 2026 20:50:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/sword-attack-19082026-01-1787323759.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/swedish-highschool-2108260-01-1787330281.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Indian president congratulates Fakhrul, hopes to work together]]></title>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/health/de6851ed4c9a</guid>
             <pubDate>Fri, 21 Aug 2026 17:26:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/measles-patient-dncc-hospital-200526-03-1779365946.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt views Opposition vote 'narrowly': Jamaat]]></title>
-            <description><![CDATA[[Politics] Govt views Opposition vote 'narrowly': Jamaat]]></description>
-            <link>https://bdnews24.com/politics/392593b1f809</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/392593b1f809</guid>
-            <pubDate>Fri, 21 Aug 2026 17:24:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/hamidur-rahman-azad-210826-02-1787306843.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
