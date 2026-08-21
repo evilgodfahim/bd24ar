@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – Latest News]]></title>
+        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 13:36:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 14:21:55 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 13:36:39 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 14:21:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: timeout of 65000ms exceeded]]></description>
-            <link>https://bdnews24.com</link>
-            <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Fri, 21 Aug 2026 13:36:39 GMT</pubDate>
+            <title><![CDATA[4 new ministers, 2 state ministers sworn in]]></title>
+            <description><![CDATA[[Bangladesh] 4 new ministers, 2 state ministers sworn in]]></description>
+            <link>https://bdnews24.com/bangladesh/cd08b851c726</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cd08b851c726</guid>
+            <pubDate>Fri, 21 Aug 2026 20:03:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/new-ministers-oath-210826-02-1787320798.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fakhrul sworn in as 23rd president of Bangladesh]]></title>
+            <description><![CDATA[[Politics] Fakhrul sworn in as 23rd president of Bangladesh]]></description>
+            <link>https://bdnews24.com/politics/643d5bc9d898</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/643d5bc9d898</guid>
+            <pubDate>Fri, 21 Aug 2026 19:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/fakhrul-21082026-1787319709.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Congo Ebola toll tops 2,500, spreading fast: UN]]></title>
+            <description><![CDATA[[World] Congo Ebola toll tops 2,500, spreading fast: UN]]></description>
+            <link>https://bdnews24.com/world/d4b5e1fdba96</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/d4b5e1fdba96</guid>
+            <pubDate>Fri, 21 Aug 2026 19:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ebola-congo-210826-01-1787318973.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[11 Kolkata hotels closed, ‘scared’ Bangladeshis leave]]></title>
+            <description><![CDATA[[Neighbours] 11 Kolkata hotels closed, ‘scared’ Bangladeshis leave]]></description>
+            <link>https://bdnews24.com/neighbours/9baeb0b4f12e</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/9baeb0b4f12e</guid>
+            <pubDate>Fri, 21 Aug 2026 18:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bangladeshi-tourist-210826-1787311709.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI writes a third of new web content: study]]></title>
+            <description><![CDATA[[Technology] AI writes a third of new web content: study]]></description>
+            <link>https://bdnews24.com/technology/810b3c02d7c4</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/810b3c02d7c4</guid>
+            <pubDate>Fri, 21 Aug 2026 18:52:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ai-cyberspace-210826-01-1787316639.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cabinet expansion: 5 new faces, 1 elevation]]></title>
+            <description><![CDATA[[Bangladesh] Cabinet expansion: 5 new faces, 1 elevation]]></description>
+            <link>https://bdnews24.com/bangladesh/c18cda4c3098</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c18cda4c3098</guid>
+            <pubDate>Fri, 21 Aug 2026 18:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bangabhaban-oath-210826-01-1787314612.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[366 more hospitalised with dengue]]></title>
+            <description><![CDATA[[Bangladesh] 366 more hospitalised with dengue]]></description>
+            <link>https://bdnews24.com/bangladesh/db68873de6d8</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/db68873de6d8</guid>
+            <pubDate>Fri, 21 Aug 2026 18:28:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/dengue-patient-suhrawardy-hospital-300822-04-1787145287.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[El Niño, not quake, to hit Colombia's coffee harvest]]></title>
+            <description><![CDATA[[World] El Niño, not quake, to hit Colombia's coffee harvest]]></description>
+            <link>https://bdnews24.com/world/8a29277f54ab</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/8a29277f54ab</guid>
+            <pubDate>Fri, 21 Aug 2026 18:01:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/colombia-coffee-210826-01-1787313592.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[No decision yet on Tarique’s India visit: Dhaka]]></title>
+            <description><![CDATA[[Bangladesh] No decision yet on Tarique’s India visit: Dhaka]]></description>
+            <link>https://bdnews24.com/bangladesh/6d327209a0d4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6d327209a0d4</guid>
+            <pubDate>Fri, 21 Aug 2026 17:33:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarique-modi-140826-01-1786699147.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 more with measles symptoms die]]></title>
+            <description><![CDATA[[Health] 3 more with measles symptoms die]]></description>
+            <link>https://bdnews24.com/health/de6851ed4c9a</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/de6851ed4c9a</guid>
+            <pubDate>Fri, 21 Aug 2026 17:26:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/measles-patient-dncc-hospital-200526-03-1779365946.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Govt views Opposition vote 'narrowly': Jamaat]]></title>
+            <description><![CDATA[[Politics] Govt views Opposition vote 'narrowly': Jamaat]]></description>
+            <link>https://bdnews24.com/politics/392593b1f809</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/392593b1f809</guid>
+            <pubDate>Fri, 21 Aug 2026 17:24:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/hamidur-rahman-azad-210826-02-1787306843.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cabinet set to expand: Who got the call?]]></title>
+            <description><![CDATA[[Bangladesh] Cabinet set to expand: Who got the call?]]></description>
+            <link>https://bdnews24.com/bangladesh/f00487071cfa</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f00487071cfa</guid>
+            <pubDate>Fri, 21 Aug 2026 17:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/moyeen-andaleeve-saching-lincoln-210826-01-1787309953.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US shoppers tighten budgets]]></title>
+            <description><![CDATA[[Americas] US shoppers tighten budgets]]></description>
+            <link>https://bdnews24.com/world/americas/3780b76d7991</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/3780b76d7991</guid>
+            <pubDate>Fri, 21 Aug 2026 16:59:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-mall-pennsylvania-210826-01-1787309859.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[China tax crackdown spurs review of offshore trusts]]></title>
+            <description><![CDATA[[Business] China tax crackdown spurs review of offshore trusts]]></description>
+            <link>https://bdnews24.com/business/cac3b00c5f6c</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/cac3b00c5f6c</guid>
+            <pubDate>Fri, 21 Aug 2026 16:53:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/china-offshore-210826-01-1787309499.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran vows 'devastating' response to US sanctions threat]]></title>
+            <description><![CDATA[[World] Iran vows 'devastating' response to US sanctions threat]]></description>
+            <link>https://bdnews24.com/world/6f5736a13a10</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/6f5736a13a10</guid>
+            <pubDate>Fri, 21 Aug 2026 16:53:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-iran-210826-01-1787309469.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India signals preparations for Tarique visit, then pulls notice]]></title>
+            <description><![CDATA[[Neighbours] India signals preparations for Tarique visit, then pulls notice]]></description>
+            <link>https://bdnews24.com/neighbours/8f6571311955</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/8f6571311955</guid>
+            <pubDate>Fri, 21 Aug 2026 16:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rashtrapati-bhavan-210826-01-1787307730.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Zuckerberg buys castle estate in Ireland]]></title>
+            <description><![CDATA[[People] Zuckerberg buys castle estate in Ireland]]></description>
+            <link>https://bdnews24.com/people/202e2a28ea3d</link>
+            <guid isPermaLink="true">https://bdnews24.com/people/202e2a28ea3d</guid>
+            <pubDate>Fri, 21 Aug 2026 16:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/irish-zuckerberg-castle-210826-1787309006.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Typhoon Maysak death toll rises to 159 in China]]></title>
+            <description><![CDATA[[World] Typhoon Maysak death toll rises to 159 in China]]></description>
+            <link>https://bdnews24.com/world/f05c35073780</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/f05c35073780</guid>
+            <pubDate>Fri, 21 Aug 2026 16:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/typhoon-china-210826-01-1787308865.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[China, Indonesia to deepen military, economic ties]]></title>
+            <description><![CDATA[[World] China, Indonesia to deepen military, economic ties]]></description>
+            <link>https://bdnews24.com/world/aa682840dfea</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/aa682840dfea</guid>
+            <pubDate>Fri, 21 Aug 2026 16:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/china-indonesia-210826-01-1787308608.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Girl found tied up in Khulna school bathroom]]></title>
+            <description><![CDATA[[Bangladesh] Girl found tied up in Khulna school bathroom]]></description>
+            <link>https://bdnews24.com/bangladesh/a142862063b6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a142862063b6</guid>
+            <pubDate>Fri, 21 Aug 2026 15:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/khulna-rescue-210826-01-1787302416.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
