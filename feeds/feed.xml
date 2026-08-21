@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 04:25:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 05:20:59 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 04:25:47 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 05:20:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Oil set for second weekly rise]]></title>
+            <description><![CDATA[[Business] Oil set for second weekly rise]]></description>
+            <link>https://bdnews24.com/business/d63dbd6acaea</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/d63dbd6acaea</guid>
+            <pubDate>Fri, 21 Aug 2026 11:10:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/oil-pumpjack-210826-01-1787288980.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Myanmar military clears land for Russia-backed port]]></title>
             <description><![CDATA[[Neighbours] Myanmar military clears land for Russia-backed port]]></description>
@@ -89,8 +97,8 @@
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/nigeria-210826-1787281378.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Imran Khan moved to hospital after court order]]></title>
-            <description><![CDATA[[South Asia] Imran Khan moved to hospital after court order]]></description>
+            <title><![CDATA[Pakistan ex-PM Imran Khan back in prison]]></title>
+            <description><![CDATA[[South Asia] Pakistan ex-PM Imran Khan back in prison]]></description>
             <link>https://bdnews24.com/world/south-asia/94e42350dca6</link>
             <guid isPermaLink="true">https://bdnews24.com/world/south-asia/94e42350dca6</guid>
             <pubDate>Fri, 21 Aug 2026 08:53:00 GMT</pubDate>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/cricket/85aeeda3f910</guid>
             <pubDate>Thu, 20 Aug 2026 23:53:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tamim-200826-01-1787226684.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Regional powers weigh Infantino ‘no-confidence vote’]]></title>
-            <description><![CDATA[[Sport] Regional powers weigh Infantino ‘no-confidence vote’]]></description>
-            <link>https://bdnews24.com/sport/ccf0f7ec90fc</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/ccf0f7ec90fc</guid>
-            <pubDate>Thu, 20 Aug 2026 23:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/infantino-070826-01-1786102731.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
