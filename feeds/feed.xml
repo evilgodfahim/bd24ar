@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 05:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 06:22:32 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 05:20:59 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 06:22:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bangabhaban decked out for Fakhrul’s oath]]></title>
+            <description><![CDATA[[Bangladesh] Bangabhaban decked out for Fakhrul’s oath]]></description>
+            <link>https://bdnews24.com/bangladesh/f2539391f3e5</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f2539391f3e5</guid>
+            <pubDate>Fri, 21 Aug 2026 12:22:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bangabhaban-201216-01jpg-1784991149.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Walmart sales growth slowdown tests consumer resilience]]></title>
+            <description><![CDATA[[Business] Walmart sales growth slowdown tests consumer resilience]]></description>
+            <link>https://bdnews24.com/business/6967606b9056</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/6967606b9056</guid>
+            <pubDate>Fri, 21 Aug 2026 12:01:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/walmart-store-210826-01-1787292078.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Narayanganj highway blockade ends after nearly 2 hours]]></title>
+            <description><![CDATA[[Bangladesh] Narayanganj highway blockade ends after nearly 2 hours]]></description>
+            <link>https://bdnews24.com/bangladesh/58887f12577a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/58887f12577a</guid>
+            <pubDate>Fri, 21 Aug 2026 11:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/narayangonjo-road-block-210826-01-1787287582.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[China's Bilibili sets sights on the world]]></title>
+            <description><![CDATA[[Technology] China's Bilibili sets sights on the world]]></description>
+            <link>https://bdnews24.com/technology/c0d222fe9615</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/c0d222fe9615</guid>
+            <pubDate>Fri, 21 Aug 2026 11:27:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/bilibili-logo-210626-1787290054.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Oil set for second weekly rise]]></title>
             <description><![CDATA[[Business] Oil set for second weekly rise]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/cricket/8962fa127608</guid>
             <pubDate>Fri, 21 Aug 2026 01:24:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/root-sochin-200826-01-1787253802.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arsenal kick off title defence as EPL returns]]></title>
-            <description><![CDATA[[Sport] Arsenal kick off title defence as EPL returns]]></description>
-            <link>https://bdnews24.com/sport/e10cdb20b3e6</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/e10cdb20b3e6</guid>
-            <pubDate>Fri, 21 Aug 2026 00:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/mikel-arteta-210826-01-1787251142.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[New LNG cargo due Sunday]]></title>
-            <description><![CDATA[[Business] New LNG cargo due Sunday]]></description>
-            <link>https://bdnews24.com/business/c0ec927883c9</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/c0ec927883c9</guid>
-            <pubDate>Fri, 21 Aug 2026 00:16:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/lng-cargo-terminal-200826-1787248032.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Barca bring back Cancelo for third stint]]></title>
-            <description><![CDATA[[Sport] Barca bring back Cancelo for third stint]]></description>
-            <link>https://bdnews24.com/sport/4757709515d8</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/4757709515d8</guid>
-            <pubDate>Fri, 21 Aug 2026 00:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/joao-cancelo-200826-01-1787249425.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BPL won’t take place this season: Tamim]]></title>
-            <description><![CDATA[[Cricket] BPL won’t take place this season: Tamim]]></description>
-            <link>https://bdnews24.com/cricket/85aeeda3f910</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/85aeeda3f910</guid>
-            <pubDate>Thu, 20 Aug 2026 23:53:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tamim-200826-01-1787226684.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
