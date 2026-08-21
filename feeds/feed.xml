@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 11:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 12:19:55 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 11:14:52 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 12:19:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[El Niño, not quake, to hit Colombia's coffee harvest]]></title>
+            <description><![CDATA[[World] El Niño, not quake, to hit Colombia's coffee harvest]]></description>
+            <link>https://bdnews24.com/world/8a29277f54ab</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/8a29277f54ab</guid>
+            <pubDate>Fri, 21 Aug 2026 18:01:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/colombia-coffee-210826-01-1787313592.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[No decision yet on Tarique’s India visit: Dhaka]]></title>
+            <description><![CDATA[[Bangladesh] No decision yet on Tarique’s India visit: Dhaka]]></description>
+            <link>https://bdnews24.com/bangladesh/6d327209a0d4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6d327209a0d4</guid>
+            <pubDate>Fri, 21 Aug 2026 17:33:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarique-modi-140826-01-1786699147.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 more with measles symptoms die]]></title>
+            <description><![CDATA[[Health] 3 more with measles symptoms die]]></description>
+            <link>https://bdnews24.com/health/de6851ed4c9a</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/de6851ed4c9a</guid>
+            <pubDate>Fri, 21 Aug 2026 17:26:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/measles-patient-dncc-hospital-200526-03-1779365946.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Govt views Opposition vote 'narrowly': Jamaat]]></title>
+            <description><![CDATA[[Politics] Govt views Opposition vote 'narrowly': Jamaat]]></description>
+            <link>https://bdnews24.com/politics/392593b1f809</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/392593b1f809</guid>
+            <pubDate>Fri, 21 Aug 2026 17:24:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/hamidur-rahman-azad-210826-02-1787306843.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Cabinet set to expand: Who got the call?]]></title>
             <description><![CDATA[[Bangladesh] Cabinet set to expand: Who got the call?]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/cd546bc6fbd4</guid>
             <pubDate>Fri, 21 Aug 2026 13:17:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/banga-bhaban-security-250726-11-1784977414.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[8 killed in Alaska charter plane crash]]></title>
-            <description><![CDATA[[Americas] 8 killed in Alaska charter plane crash]]></description>
-            <link>https://bdnews24.com/world/americas/9e1139172735</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/9e1139172735</guid>
-            <pubDate>Fri, 21 Aug 2026 13:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ntsb-210826-1787296238.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh face ‘fired-up’ Australia in 2nd Test]]></title>
-            <description><![CDATA[[Cricket] Bangladesh face ‘fired-up’ Australia in 2nd Test]]></description>
-            <link>https://bdnews24.com/cricket/8cff42c805d7</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/8cff42c805d7</guid>
-            <pubDate>Fri, 21 Aug 2026 13:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/bangladesh-coach-210826-1787295619.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tarique walks India tightrope as Hasina row deepens: report]]></title>
-            <description><![CDATA[[South Asia] Tarique walks India tightrope as Hasina row deepens: report]]></description>
-            <link>https://bdnews24.com/world/south-asia/f496bcef9dab</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/south-asia/f496bcef9dab</guid>
-            <pubDate>Fri, 21 Aug 2026 12:44:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025December/SM/modi-tarique-311225-02-1767197880.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangabhaban decked out for Fakhrul’s oath]]></title>
-            <description><![CDATA[[Bangladesh] Bangabhaban decked out for Fakhrul’s oath]]></description>
-            <link>https://bdnews24.com/bangladesh/f2539391f3e5</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f2539391f3e5</guid>
-            <pubDate>Fri, 21 Aug 2026 12:22:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bangabhaban-201216-01jpg-1784991149.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
