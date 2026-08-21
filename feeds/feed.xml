@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 15:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 16:17:17 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 15:20:35 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 16:17:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Henry Kissinger's wife Nancy dies]]></title>
+            <description><![CDATA[[Americas] Henry Kissinger's wife Nancy dies]]></description>
+            <link>https://bdnews24.com/world/americas/4955af1977ff</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/4955af1977ff</guid>
+            <pubDate>Fri, 21 Aug 2026 22:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/kissinger-210826-1787328691.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[WC final brawl: Argentina players, staff banned for 21 days]]></title>
+            <description><![CDATA[[Sport] WC final brawl: Argentina players, staff banned for 21 days]]></description>
+            <link>https://bdnews24.com/sport/01393fead8be</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/01393fead8be</guid>
+            <pubDate>Fri, 21 Aug 2026 21:46:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/argentina-world-cup-final-violence-300726-01-1785384599.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Prince Harry, others to pay millions in failed suit]]></title>
             <description><![CDATA[[World] Prince Harry, others to pay millions in failed suit]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/politics/392593b1f809</guid>
             <pubDate>Fri, 21 Aug 2026 17:24:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/hamidur-rahman-azad-210826-02-1787306843.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cabinet set to expand: Who got the call?]]></title>
-            <description><![CDATA[[Bangladesh] Cabinet set to expand: Who got the call?]]></description>
-            <link>https://bdnews24.com/bangladesh/f00487071cfa</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f00487071cfa</guid>
-            <pubDate>Fri, 21 Aug 2026 17:12:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/moyeen-andaleeve-saching-lincoln-210826-01-1787309953.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US shoppers tighten budgets]]></title>
-            <description><![CDATA[[Americas] US shoppers tighten budgets]]></description>
-            <link>https://bdnews24.com/world/americas/3780b76d7991</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/3780b76d7991</guid>
-            <pubDate>Fri, 21 Aug 2026 16:59:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-mall-pennsylvania-210826-01-1787309859.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
