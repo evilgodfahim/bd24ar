@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 17:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 18:18:33 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 17:17:16 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 18:18:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Cabinet reshuffle: Who gets which ministry?]]></title>
+            <description><![CDATA[[Bangladesh] Cabinet reshuffle: Who gets which ministry?]]></description>
+            <link>https://bdnews24.com/bangladesh/b15e87852dd4</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b15e87852dd4</guid>
+            <pubDate>Fri, 21 Aug 2026 23:35:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/new-ministers-oath-210826-301-1787330773.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Who are Bangladesh’s new ministers and state ministers?]]></title>
             <description><![CDATA[[Bangladesh] Who are Bangladesh’s new ministers and state ministers?]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/6d327209a0d4</guid>
             <pubDate>Fri, 21 Aug 2026 17:33:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarique-modi-140826-01-1786699147.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 more with measles symptoms die]]></title>
-            <description><![CDATA[[Health] 3 more with measles symptoms die]]></description>
-            <link>https://bdnews24.com/health/de6851ed4c9a</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/de6851ed4c9a</guid>
-            <pubDate>Fri, 21 Aug 2026 17:26:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/measles-patient-dncc-hospital-200526-03-1779365946.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
