@@ -4,17 +4,33 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 18:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 19:18:10 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 18:18:33 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 19:18:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[25 agencies can send workers to Malaysia]]></title>
+            <description><![CDATA[[Bangladesh] 25 agencies can send workers to Malaysia]]></description>
+            <link>https://bdnews24.com/bangladesh/a72279095b0c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a72279095b0c</guid>
+            <pubDate>Sat, 22 Aug 2026 01:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/malaysia-150826-01-1786743954.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israel minister sees backlash for ‘viewing booth’ at hanging site]]></title>
+            <description><![CDATA[[West Asia] Israel minister sees backlash for ‘viewing booth’ at hanging site]]></description>
+            <link>https://bdnews24.com/world/middle-east/22261778602a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/22261778602a</guid>
+            <pubDate>Sat, 22 Aug 2026 00:46:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/israel-ben-gvir-220826-01-1787337957.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Cabinet reshuffle: Who gets which ministry?]]></title>
             <description><![CDATA[[Bangladesh] Cabinet reshuffle: Who gets which ministry?]]></description>
             <link>https://bdnews24.com/bangladesh/b15e87852dd4</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/b15e87852dd4</guid>
             <pubDate>Fri, 21 Aug 2026 23:35:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/new-ministers-oath-210826-301-1787330773.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/new-ministers-oath-210826-302-1787336192.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Who are Bangladesh’s new ministers and state ministers?]]></title>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/db68873de6d8</guid>
             <pubDate>Fri, 21 Aug 2026 18:28:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/dengue-patient-suhrawardy-hospital-300822-04-1787145287.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[El Niño, not quake, to hit Colombia's coffee harvest]]></title>
-            <description><![CDATA[[World] El Niño, not quake, to hit Colombia's coffee harvest]]></description>
-            <link>https://bdnews24.com/world/8a29277f54ab</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/8a29277f54ab</guid>
-            <pubDate>Fri, 21 Aug 2026 18:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/colombia-coffee-210826-01-1787313592.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No decision yet on Tarique’s India visit: Dhaka]]></title>
-            <description><![CDATA[[Bangladesh] No decision yet on Tarique’s India visit: Dhaka]]></description>
-            <link>https://bdnews24.com/bangladesh/6d327209a0d4</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6d327209a0d4</guid>
-            <pubDate>Fri, 21 Aug 2026 17:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tarique-modi-140826-01-1786699147.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
