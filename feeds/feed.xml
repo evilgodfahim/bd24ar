@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – Latest News]]></title>
+        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 02:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 03:39:35 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 02:16:05 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 03:39:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
-            <link>https://bdnews24.com</link>
-            <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Fri, 21 Aug 2026 02:16:05 GMT</pubDate>
+            <title><![CDATA[Brook puts England in command against Pakistan]]></title>
+            <description><![CDATA[[Cricket] Brook puts England in command against Pakistan]]></description>
+            <link>https://bdnews24.com/cricket/7e028deb33a6</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/7e028deb33a6</guid>
+            <pubDate>Fri, 21 Aug 2026 09:15:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/brook-eng-v-pak-210826-1787282055.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ronaldinho joins Ravenna, playing future unclear]]></title>
+            <description><![CDATA[[Sport] Ronaldinho joins Ravenna, playing future unclear]]></description>
+            <link>https://bdnews24.com/sport/d1a96c18afc0</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/d1a96c18afc0</guid>
+            <pubDate>Fri, 21 Aug 2026 09:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ronaldinho-210826-01-1787281895.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bettencourt named Cape Verde coach]]></title>
+            <description><![CDATA[[Sport] Bettencourt named Cape Verde coach]]></description>
+            <link>https://bdnews24.com/sport/4e79f2892aa9</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/4e79f2892aa9</guid>
+            <pubDate>Fri, 21 Aug 2026 09:10:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/cape-verde-new-coach-210826-1787281738.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[50 killed as overloaded boat capsizes in Nigeria]]></title>
+            <description><![CDATA[[Africa] 50 killed as overloaded boat capsizes in Nigeria]]></description>
+            <link>https://bdnews24.com/world/africa/665a30111e09</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/africa/665a30111e09</guid>
+            <pubDate>Fri, 21 Aug 2026 09:03:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/nigeria-210826-1787281378.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Imran Khan moved to hospital after court order]]></title>
+            <description><![CDATA[[South Asia] Imran Khan moved to hospital after court order]]></description>
+            <link>https://bdnews24.com/world/south-asia/94e42350dca6</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/south-asia/94e42350dca6</guid>
+            <pubDate>Fri, 21 Aug 2026 08:53:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/imran-khan-hospital-210826-01-1787280803.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US vows ‘toughest-ever sanctions’ on Iran]]></title>
+            <description><![CDATA[[West Asia] US vows ‘toughest-ever sanctions’ on Iran]]></description>
+            <link>https://bdnews24.com/world/middle-east/4a6ce1b494b5</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/4a6ce1b494b5</guid>
+            <pubDate>Fri, 21 Aug 2026 08:50:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/iran-khamenei-mural-210826-1787280541.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Freed Imran Khan won't confront army chief: aide]]></title>
+            <description><![CDATA[[World] Freed Imran Khan won't confront army chief: aide]]></description>
+            <link>https://bdnews24.com/world/05a339e3048a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/05a339e3048a</guid>
+            <pubDate>Fri, 21 Aug 2026 01:50:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/imran-khan-200826-01-1787250848.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Waste station pushed through in Bhawal forest]]></title>
+            <description><![CDATA[[Bangladesh] Waste station pushed through in Bhawal forest]]></description>
+            <link>https://bdnews24.com/bangladesh/7a65693f2884</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7a65693f2884</guid>
+            <pubDate>Fri, 21 Aug 2026 01:42:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/gazipur-forest-sts-050826-01-1787252471.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Root matches Tendulkar’s Test record]]></title>
+            <description><![CDATA[[Cricket] Root matches Tendulkar’s Test record]]></description>
+            <link>https://bdnews24.com/cricket/8962fa127608</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/8962fa127608</guid>
+            <pubDate>Fri, 21 Aug 2026 01:24:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/root-sochin-200826-01-1787253802.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arsenal kick off title defence as EPL returns]]></title>
+            <description><![CDATA[[Sport] Arsenal kick off title defence as EPL returns]]></description>
+            <link>https://bdnews24.com/sport/e10cdb20b3e6</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/e10cdb20b3e6</guid>
+            <pubDate>Fri, 21 Aug 2026 00:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/mikel-arteta-210826-01-1787251142.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[New LNG cargo due Sunday]]></title>
+            <description><![CDATA[[Business] New LNG cargo due Sunday]]></description>
+            <link>https://bdnews24.com/business/c0ec927883c9</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/c0ec927883c9</guid>
+            <pubDate>Fri, 21 Aug 2026 00:16:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/lng-cargo-terminal-200826-1787248032.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Barca bring back Cancelo for third stint]]></title>
+            <description><![CDATA[[Sport] Barca bring back Cancelo for third stint]]></description>
+            <link>https://bdnews24.com/sport/4757709515d8</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/4757709515d8</guid>
+            <pubDate>Fri, 21 Aug 2026 00:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/joao-cancelo-200826-01-1787249425.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BPL won’t take place this season: Tamim]]></title>
+            <description><![CDATA[[Cricket] BPL won’t take place this season: Tamim]]></description>
+            <link>https://bdnews24.com/cricket/85aeeda3f910</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/85aeeda3f910</guid>
+            <pubDate>Thu, 20 Aug 2026 23:53:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tamim-200826-01-1787226684.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Regional powers weigh Infantino ‘no-confidence vote’]]></title>
+            <description><![CDATA[[Sport] Regional powers weigh Infantino ‘no-confidence vote’]]></description>
+            <link>https://bdnews24.com/sport/ccf0f7ec90fc</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/ccf0f7ec90fc</guid>
+            <pubDate>Thu, 20 Aug 2026 23:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/infantino-070826-01-1786102731.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Over 250 Indians held over ‘links to Pakistan-based handler’]]></title>
+            <description><![CDATA[[Neighbours] Over 250 Indians held over ‘links to Pakistan-based handler’]]></description>
+            <link>https://bdnews24.com/neighbours/6fe9df405bd5</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/6fe9df405bd5</guid>
+            <pubDate>Thu, 20 Aug 2026 23:17:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/shahzad-bhatti-200826-01-1787245435.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Delhi removes Pakistan mission encroachments: report]]></title>
+            <description><![CDATA[[Neighbours] Delhi removes Pakistan mission encroachments: report]]></description>
+            <link>https://bdnews24.com/neighbours/ad3e24b7a32d</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/ad3e24b7a32d</guid>
+            <pubDate>Thu, 20 Aug 2026 22:49:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/pakistan-high-commission-new-delhi-20082026-2-1787241665.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Meta ‘ignored’ child safety risks, whistleblower testifies]]></title>
+            <description><![CDATA[[Tech] Meta ‘ignored’ child safety risks, whistleblower testifies]]></description>
+            <link>https://bdnews24.com/tech/ad78e5b3fcfe</link>
+            <guid isPermaLink="true">https://bdnews24.com/tech/ad78e5b3fcfe</guid>
+            <pubDate>Thu, 20 Aug 2026 22:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/meta-ignores-child-safety-200826-01-1787244372.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bibi Russell’s fashion journey comes full circle]]></title>
+            <description><![CDATA[[Entertainment] Bibi Russell’s fashion journey comes full circle]]></description>
+            <link>https://bdnews24.com/entertainment/de72d1441fb1</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/de72d1441fb1</guid>
+            <pubDate>Thu, 20 Aug 2026 22:23:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bibi-russell-addanama-200826-01-1787240655.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Harry, Meghan return to the press 'lion's den']]></title>
+            <description><![CDATA[[World] Harry, Meghan return to the press 'lion's den']]></description>
+            <link>https://bdnews24.com/world/582806f8ff83</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/582806f8ff83</guid>
+            <pubDate>Thu, 20 Aug 2026 22:03:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/harry-meghan-200826-01-1787241762.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gaza mediators condemn latest Israeli strikes]]></title>
+            <description><![CDATA[[World] Gaza mediators condemn latest Israeli strikes]]></description>
+            <link>https://bdnews24.com/world/6c5b2168897d</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/6c5b2168897d</guid>
+            <pubDate>Thu, 20 Aug 2026 21:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/gaza-strikes-200826-01-1787238683.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
