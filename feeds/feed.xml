@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News]]></title>
-        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
+        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 08:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 09:16:20 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Aug 2026 08:14:22 GMT</pubDate>
+        <pubDate>Sat, 22 Aug 2026 09:16:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Fakhrul's Thakurgaon-1 seat declared vacant]]></title>
-            <description><![CDATA[[Politics] Fakhrul's Thakurgaon-1 seat declared vacant]]></description>
-            <link>https://bdnews24.com/politics/a79f70ec5f0b</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/a79f70ec5f0b</guid>
-            <pubDate>Sat, 22 Aug 2026 14:07:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mirza-fakhrul-islam-alomgir-220826-02-1787384268.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kolkata fire: Saju's body brought home]]></title>
-            <description><![CDATA[[Bangladesh] Kolkata fire: Saju's body brought home]]></description>
-            <link>https://bdnews24.com/bangladesh/71496fb946d6</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/71496fb946d6</guid>
-            <pubDate>Sat, 22 Aug 2026 13:57:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/satkhira-deadbody-220826-01-1787381199.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Passengers smash bus windows to escape fire]]></title>
-            <description><![CDATA[[Bangladesh] Passengers smash bus windows to escape fire]]></description>
-            <link>https://bdnews24.com/bangladesh/3ea271e9b0c8</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3ea271e9b0c8</guid>
-            <pubDate>Sat, 22 Aug 2026 13:22:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/coxbazar-bus-fire-220826-01-1787377152.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coffee, croissants and Wagyu: EL Café opens in Dhanmondi]]></title>
-            <description><![CDATA[[Lifestyle] Coffee, croissants and Wagyu: EL Café opens in Dhanmondi]]></description>
-            <link>https://bdnews24.com/lifestyle/989c47c003c4</link>
-            <guid isPermaLink="true">https://bdnews24.com/lifestyle/989c47c003c4</guid>
-            <pubDate>Sat, 22 Aug 2026 13:08:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/el-cafe-dhanmondi-22082026-01-1787382497.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladeshi forced to fight in Ukraine returning from Russia]]></title>
-            <description><![CDATA[[Bangladesh] Bangladeshi forced to fight in Ukraine returning from Russia]]></description>
-            <link>https://bdnews24.com/bangladesh/ded9dd83bb35</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ded9dd83bb35</guid>
-            <pubDate>Sat, 22 Aug 2026 13:08:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rajon-hossain-220826-01-1787380007.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[TikTok reaches $400mn child privacy deal]]></title>
-            <description><![CDATA[[Technology] TikTok reaches $400mn child privacy deal]]></description>
-            <link>https://bdnews24.com/technology/bfa714b2c3af</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/bfa714b2c3af</guid>
-            <pubDate>Sat, 22 Aug 2026 12:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/tiktok-logo-220826-01-1787380685.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US court strikes down visa pause affecting Bangladesh, 74 others]]></title>
-            <description><![CDATA[[Bangladesh] US court strikes down visa pause affecting Bangladesh, 74 others]]></description>
-            <link>https://bdnews24.com/bangladesh/e4d594b3df29</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e4d594b3df29</guid>
-            <pubDate>Sat, 22 Aug 2026 12:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-state-dept-220826-01-1787380191.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heavy rain triggers floods, landslides in Khagrachhari]]></title>
-            <description><![CDATA[[Bangladesh] Heavy rain triggers floods, landslides in Khagrachhari]]></description>
-            <link>https://bdnews24.com/bangladesh/c55bc9133169</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c55bc9133169</guid>
-            <pubDate>Sat, 22 Aug 2026 12:06:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/khagrachari-rain-220826-01-1787371114.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Texas seeks federal probe of airport washing facilities]]></title>
-            <description><![CDATA[[Americas] Texas seeks federal probe of airport washing facilities]]></description>
-            <link>https://bdnews24.com/world/americas/9974582bce61</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/9974582bce61</guid>
-            <pubDate>Sat, 22 Aug 2026 11:45:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/texas-airport-220826-01-1787377431.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US hits Canadian goods with 50% tariffs]]></title>
-            <description><![CDATA[[Business] US hits Canadian goods with 50% tariffs]]></description>
-            <link>https://bdnews24.com/business/b2a27ca74fc7</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/b2a27ca74fc7</guid>
-            <pubDate>Sat, 22 Aug 2026 11:21:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-canada-220826-01-1787376033.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[New president pays tribute at Martyrs' Memorial]]></title>
-            <description><![CDATA[[Politics] New president pays tribute at Martyrs' Memorial]]></description>
-            <link>https://bdnews24.com/politics/0593f3c453d7</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/0593f3c453d7</guid>
-            <pubDate>Sat, 22 Aug 2026 11:15:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mirza-fakhrul-islam-alomgir-220826-03-1787373311.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bring the war to an end: Pezeshkian to Trump]]></title>
-            <description><![CDATA[[World] Bring the war to an end: Pezeshkian to Trump]]></description>
-            <link>https://bdnews24.com/world/7827f617bf95</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/7827f617bf95</guid>
-            <pubDate>Sat, 22 Aug 2026 10:46:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026February/SM/pezeshkian-pressure-nuclear-talks-21022026-01-1771692091.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US-Iran rhetoric hardens ahead of sanctions]]></title>
-            <description><![CDATA[[West Asia] US-Iran rhetoric hardens ahead of sanctions]]></description>
-            <link>https://bdnews24.com/world/middle-east/923ec62aaa43</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/923ec62aaa43</guid>
-            <pubDate>Sat, 22 Aug 2026 10:44:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-sailors-220826-01-1787373749.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Starc, Shoriful take six apiece on 18-wicket day]]></title>
-            <description><![CDATA[[Cricket] Starc, Shoriful take six apiece on 18-wicket day]]></description>
-            <link>https://bdnews24.com/cricket/6dd74568fbf6</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/6dd74568fbf6</guid>
-            <pubDate>Sat, 22 Aug 2026 10:06:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bangladesh-220826-01-1787377604.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rice climbs while veggies retreat]]></title>
-            <description><![CDATA[[Business] Rice climbs while veggies retreat]]></description>
-            <link>https://bdnews24.com/business/8f0b4157a8f0</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/8f0b4157a8f0</guid>
-            <pubDate>Sat, 22 Aug 2026 10:04:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/market-price-210826-01-1787342003.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[First Afghan American elected to US Congress]]></title>
-            <description><![CDATA[[World] First Afghan American elected to US Congress]]></description>
-            <link>https://bdnews24.com/world/290f4794d6d6</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/290f4794d6d6</guid>
-            <pubDate>Sat, 22 Aug 2026 09:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/aisha-wahab-220826-1787369761.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pentagon fires US military newspaper leadership]]></title>
-            <description><![CDATA[[Americas] Pentagon fires US military newspaper leadership]]></description>
-            <link>https://bdnews24.com/world/americas/525ffe4fd08a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/525ffe4fd08a</guid>
-            <pubDate>Sat, 22 Aug 2026 08:57:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026January/SM/pentagon-us-240126-02-1769262985.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tarique recasts cabinet six months on to 'send a signal']]></title>
-            <description><![CDATA[[Politics] Tarique recasts cabinet six months on to 'send a signal']]></description>
-            <link>https://bdnews24.com/politics/cde5f98e09d0</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/cde5f98e09d0</guid>
-            <pubDate>Sat, 22 Aug 2026 01:24:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/new-ministers-oath-210826-303-1787337356.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[25 agencies can send workers to Malaysia]]></title>
-            <description><![CDATA[[Bangladesh] 25 agencies can send workers to Malaysia]]></description>
-            <link>https://bdnews24.com/bangladesh/a72279095b0c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a72279095b0c</guid>
-            <pubDate>Sat, 22 Aug 2026 01:07:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/malaysia-150826-01-1786743954.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israel minister sees backlash for ‘viewing booth’ at hanging site]]></title>
-            <description><![CDATA[[West Asia] Israel minister sees backlash for ‘viewing booth’ at hanging site]]></description>
-            <link>https://bdnews24.com/world/middle-east/22261778602a</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/22261778602a</guid>
-            <pubDate>Sat, 22 Aug 2026 00:46:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/israel-ben-gvir-220826-01-1787337957.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
+            <link>https://bdnews24.com</link>
+            <guid isPermaLink="true">https://bdnews24.com</guid>
+            <pubDate>Sat, 22 Aug 2026 09:16:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
