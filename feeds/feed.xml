@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 20:09:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 21:09:40 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Aug 2026 20:09:00 GMT</pubDate>
+        <pubDate>Sat, 22 Aug 2026 21:09:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bangladeshi sailor aboard ship sunk off Odisha]]></title>
+            <description><![CDATA[[Bangladesh] Bangladeshi sailor aboard ship sunk off Odisha]]></description>
+            <link>https://bdnews24.com/bangladesh/103bed57e16c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/103bed57e16c</guid>
+            <pubDate>Sun, 23 Aug 2026 02:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ocean-winner-230826-01-1787426918.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Former West Brom midfielder Castro dies at 25]]></title>
+            <description><![CDATA[[Sport] Former West Brom midfielder Castro dies at 25]]></description>
+            <link>https://bdnews24.com/sport/9387c9e8661d</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/9387c9e8661d</guid>
+            <pubDate>Sun, 23 Aug 2026 02:08:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/west-brom-castro-230826-1787429303.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Egypt striker Abdelkarim catches Barca’s eye]]></title>
             <description><![CDATA[[Sport] Egypt striker Abdelkarim catches Barca’s eye]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/science/5cb543ce4587</guid>
             <pubDate>Sat, 22 Aug 2026 21:59:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/moon-seen-from-earth-220826-01-1787414354.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Father leaves son alone on Mount Fuji]]></title>
-            <description><![CDATA[[Asia Pacific] Father leaves son alone on Mount Fuji]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/bd01a2150c22</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/bd01a2150c22</guid>
-            <pubDate>Sat, 22 Aug 2026 21:56:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/mount-fuji-220826-1787414138.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[China goes hunting for lunar ice]]></title>
-            <description><![CDATA[[Science] China goes hunting for lunar ice]]></description>
-            <link>https://bdnews24.com/science/9242c302fcc0</link>
-            <guid isPermaLink="true">https://bdnews24.com/science/9242c302fcc0</guid>
-            <pubDate>Sat, 22 Aug 2026 21:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/moon-south-pole-220826-01-1787413672.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
