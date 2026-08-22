@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 04:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 05:15:43 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Aug 2026 04:19:59 GMT</pubDate>
+        <pubDate>Sat, 22 Aug 2026 05:15:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[New president pays tribute at Martyrs' Memorial]]></title>
+            <description><![CDATA[[Politics] New president pays tribute at Martyrs' Memorial]]></description>
+            <link>https://bdnews24.com/politics/0593f3c453d7</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/0593f3c453d7</guid>
+            <pubDate>Sat, 22 Aug 2026 11:15:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mirza-fakhrul-islam-alomgir-220826-03-1787373311.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bring the war to an end: Pezeshkian to Trump]]></title>
+            <description><![CDATA[[World] Bring the war to an end: Pezeshkian to Trump]]></description>
+            <link>https://bdnews24.com/world/7827f617bf95</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/7827f617bf95</guid>
+            <pubDate>Sat, 22 Aug 2026 10:46:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026February/SM/pezeshkian-pressure-nuclear-talks-21022026-01-1771692091.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US-Iran rhetoric hardens ahead of sanctions]]></title>
+            <description><![CDATA[[West Asia] US-Iran rhetoric hardens ahead of sanctions]]></description>
+            <link>https://bdnews24.com/world/middle-east/923ec62aaa43</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/923ec62aaa43</guid>
+            <pubDate>Sat, 22 Aug 2026 10:44:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-sailors-220826-01-1787373749.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Bangladesh skittled for 64 in Mackay Test]]></title>
             <description><![CDATA[[Cricket] Bangladesh skittled for 64 in Mackay Test]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/493b6c65b072</guid>
             <pubDate>Fri, 21 Aug 2026 20:50:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/swedish-highschool-2108260-01-1787330281.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian president congratulates Fakhrul, hopes to work together]]></title>
-            <description><![CDATA[[Neighbours] Indian president congratulates Fakhrul, hopes to work together]]></description>
-            <link>https://bdnews24.com/neighbours/e14e971ca55a</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/e14e971ca55a</guid>
-            <pubDate>Fri, 21 Aug 2026 20:35:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mirza-fakhrul-draupadi-murmur-210826-1787323207.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4 new ministers, 2 state ministers sworn in]]></title>
-            <description><![CDATA[[Bangladesh] 4 new ministers, 2 state ministers sworn in]]></description>
-            <link>https://bdnews24.com/bangladesh/cd08b851c726</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cd08b851c726</guid>
-            <pubDate>Fri, 21 Aug 2026 20:03:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/new-ministers-oath-210826-02-1787320798.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fakhrul sworn in as 23rd president of Bangladesh]]></title>
-            <description><![CDATA[[Politics] Fakhrul sworn in as 23rd president of Bangladesh]]></description>
-            <link>https://bdnews24.com/politics/643d5bc9d898</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/643d5bc9d898</guid>
-            <pubDate>Fri, 21 Aug 2026 19:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/fakhrul-21082026-1787319709.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
