@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 02:06:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 03:31:15 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Aug 2026 02:06:54 GMT</pubDate>
+        <pubDate>Sat, 22 Aug 2026 03:31:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Pentagon fires US military newspaper leadership]]></title>
+            <description><![CDATA[[Americas] Pentagon fires US military newspaper leadership]]></description>
+            <link>https://bdnews24.com/world/americas/525ffe4fd08a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/525ffe4fd08a</guid>
+            <pubDate>Sat, 22 Aug 2026 08:57:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026January/SM/pentagon-us-240126-02-1769262985.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Tarique recasts cabinet six months on to 'send a signal']]></title>
             <description><![CDATA[[Politics] Tarique recasts cabinet six months on to 'send a signal']]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/technology/810b3c02d7c4</guid>
             <pubDate>Fri, 21 Aug 2026 18:52:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ai-cyberspace-210826-01-1787316639.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cabinet expansion: 5 new faces, 1 elevation]]></title>
-            <description><![CDATA[[Bangladesh] Cabinet expansion: 5 new faces, 1 elevation]]></description>
-            <link>https://bdnews24.com/bangladesh/c18cda4c3098</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c18cda4c3098</guid>
-            <pubDate>Fri, 21 Aug 2026 18:40:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bangabhaban-oath-210826-01-1787314612.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
