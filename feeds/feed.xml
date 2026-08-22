@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 13:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 14:09:24 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Aug 2026 13:22:39 GMT</pubDate>
+        <pubDate>Sat, 22 Aug 2026 14:09:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US delegation to visit Rohingya camps]]></title>
+            <description><![CDATA[[Bangladesh] US delegation to visit Rohingya camps]]></description>
+            <link>https://bdnews24.com/bangladesh/6ee45fb9bea6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6ee45fb9bea6</guid>
+            <pubDate>Sat, 22 Aug 2026 20:04:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/rohingya-refugee-camp-140520-02-1780426774.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US congratulates President Fakhrul]]></title>
+            <description><![CDATA[[Bangladesh] US congratulates President Fakhrul]]></description>
+            <link>https://bdnews24.com/bangladesh/4c521ad95426</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4c521ad95426</guid>
+            <pubDate>Sat, 22 Aug 2026 19:50:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/fakhrul-christensen-congratulations-220826-01-1787406643.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[7 dead as wrong-way vehicle hits UK police car]]></title>
+            <description><![CDATA[[Europe] 7 dead as wrong-way vehicle hits UK police car]]></description>
+            <link>https://bdnews24.com/world/europe/b2a36d4e69e5</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/b2a36d4e69e5</guid>
+            <pubDate>Sat, 22 Aug 2026 19:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/accident-280526-1787405923.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[E-health platform set for pilot]]></title>
             <description><![CDATA[[Health] E-health platform set for pilot]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/e1245f8bc578</guid>
             <pubDate>Sat, 22 Aug 2026 16:14:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/zolani-tete-220826-01-1787393612.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Patients suffer as power cut hits Chattogram Medical]]></title>
-            <description><![CDATA[[Bangladesh] Patients suffer as power cut hits Chattogram Medical]]></description>
-            <link>https://bdnews24.com/bangladesh/86815280f641</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/86815280f641</guid>
-            <pubDate>Sat, 22 Aug 2026 15:58:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/chattogram-cmc-hospital-220826-01-1787389697.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vatican to build €100mn renewable plant]]></title>
-            <description><![CDATA[[World] Vatican to build €100mn renewable plant]]></description>
-            <link>https://bdnews24.com/world/c9bdba25b25f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/c9bdba25b25f</guid>
-            <pubDate>Sat, 22 Aug 2026 15:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/vatican-plant-220826-01-1787392261.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh team wins RoboRAVE Osaka title]]></title>
-            <description><![CDATA[[Technology] Bangladesh team wins RoboRAVE Osaka title]]></description>
-            <link>https://bdnews24.com/technology/0578f5bf362a</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/0578f5bf362a</guid>
-            <pubDate>Sat, 22 Aug 2026 15:35:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/team-atlas-220826-1-1787391317.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
