@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 03:31:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 04:19:59 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Aug 2026 03:31:15 GMT</pubDate>
+        <pubDate>Sat, 22 Aug 2026 04:19:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bangladesh skittled for 64 in Mackay Test]]></title>
+            <description><![CDATA[[Cricket] Bangladesh skittled for 64 in Mackay Test]]></description>
+            <link>https://bdnews24.com/cricket/6dd74568fbf6</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/6dd74568fbf6</guid>
+            <pubDate>Sat, 22 Aug 2026 10:06:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/toss-220826-01-1787352334.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rice climbs while veggies retreat]]></title>
+            <description><![CDATA[[Business] Rice climbs while veggies retreat]]></description>
+            <link>https://bdnews24.com/business/8f0b4157a8f0</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/8f0b4157a8f0</guid>
+            <pubDate>Sat, 22 Aug 2026 10:04:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/market-price-210826-01-1787342003.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[First Afghan American elected to US Congress]]></title>
+            <description><![CDATA[[World] First Afghan American elected to US Congress]]></description>
+            <link>https://bdnews24.com/world/290f4794d6d6</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/290f4794d6d6</guid>
+            <pubDate>Sat, 22 Aug 2026 09:37:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/aisha-wahab-220826-1787369761.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Pentagon fires US military newspaper leadership]]></title>
             <description><![CDATA[[Americas] Pentagon fires US military newspaper leadership]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/politics/643d5bc9d898</guid>
             <pubDate>Fri, 21 Aug 2026 19:41:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/fakhrul-21082026-1787319709.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Congo Ebola toll tops 2,500, spreading fast: UN]]></title>
-            <description><![CDATA[[World] Congo Ebola toll tops 2,500, spreading fast: UN]]></description>
-            <link>https://bdnews24.com/world/d4b5e1fdba96</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/d4b5e1fdba96</guid>
-            <pubDate>Fri, 21 Aug 2026 19:31:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ebola-congo-210826-01-1787318973.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[11 Kolkata hotels closed, ‘scared’ Bangladeshis leave]]></title>
-            <description><![CDATA[[Neighbours] 11 Kolkata hotels closed, ‘scared’ Bangladeshis leave]]></description>
-            <link>https://bdnews24.com/neighbours/9baeb0b4f12e</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/9baeb0b4f12e</guid>
-            <pubDate>Fri, 21 Aug 2026 18:56:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bangladeshi-tourist-210826-1787311709.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI writes a third of new web content: study]]></title>
-            <description><![CDATA[[Technology] AI writes a third of new web content: study]]></description>
-            <link>https://bdnews24.com/technology/810b3c02d7c4</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/810b3c02d7c4</guid>
-            <pubDate>Fri, 21 Aug 2026 18:52:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ai-cyberspace-210826-01-1787316639.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
