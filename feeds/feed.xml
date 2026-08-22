@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 06:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 07:21:34 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Aug 2026 06:17:38 GMT</pubDate>
+        <pubDate>Sat, 22 Aug 2026 07:21:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Coffee, croissants and Wagyu: EL Café opens in Dhanmondi]]></title>
+            <description><![CDATA[[Lifestyle] Coffee, croissants and Wagyu: EL Café opens in Dhanmondi]]></description>
+            <link>https://bdnews24.com/lifestyle/989c47c003c4</link>
+            <guid isPermaLink="true">https://bdnews24.com/lifestyle/989c47c003c4</guid>
+            <pubDate>Sat, 22 Aug 2026 13:08:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/el-cafe-dhanmondi-22082026-01-1787382497.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladeshi forced to fight in Ukraine returning from Russia]]></title>
+            <description><![CDATA[[Bangladesh] Bangladeshi forced to fight in Ukraine returning from Russia]]></description>
+            <link>https://bdnews24.com/bangladesh/ded9dd83bb35</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ded9dd83bb35</guid>
+            <pubDate>Sat, 22 Aug 2026 13:08:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rajon-hossain-220826-01-1787380007.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[TikTok reaches $400mn child privacy deal]]></title>
+            <description><![CDATA[[Technology] TikTok reaches $400mn child privacy deal]]></description>
+            <link>https://bdnews24.com/technology/bfa714b2c3af</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/bfa714b2c3af</guid>
+            <pubDate>Sat, 22 Aug 2026 12:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/tiktok-logo-220826-01-1787380685.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US court strikes down visa pause affecting Bangladesh, 74 others]]></title>
+            <description><![CDATA[[Bangladesh] US court strikes down visa pause affecting Bangladesh, 74 others]]></description>
+            <link>https://bdnews24.com/bangladesh/e4d594b3df29</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e4d594b3df29</guid>
+            <pubDate>Sat, 22 Aug 2026 12:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-state-dept-220826-01-1787380191.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Heavy rain triggers floods, landslides in Khagrachhari]]></title>
             <description><![CDATA[[Bangladesh] Heavy rain triggers floods, landslides in Khagrachhari]]></description>
@@ -57,12 +89,12 @@
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-sailors-220826-01-1787373749.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Australia 50-3 in reply to Bangladesh's 64]]></title>
-            <description><![CDATA[[Cricket] Australia 50-3 in reply to Bangladesh's 64]]></description>
+            <title><![CDATA[Shoriful five-for rattles Australia]]></title>
+            <description><![CDATA[[Cricket] Shoriful five-for rattles Australia]]></description>
             <link>https://bdnews24.com/cricket/6dd74568fbf6</link>
             <guid isPermaLink="true">https://bdnews24.com/cricket/6dd74568fbf6</guid>
             <pubDate>Sat, 22 Aug 2026 10:06:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/toss-220826-01-1787352334.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bangladesh-220826-01-1787377604.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Rice climbs while veggies retreat]]></title>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/americas/4955af1977ff</guid>
             <pubDate>Fri, 21 Aug 2026 22:11:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/kissinger-210826-1787328691.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[WC final brawl: Argentina players, staff banned for 21 days]]></title>
-            <description><![CDATA[[Sport] WC final brawl: Argentina players, staff banned for 21 days]]></description>
-            <link>https://bdnews24.com/sport/01393fead8be</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/01393fead8be</guid>
-            <pubDate>Fri, 21 Aug 2026 21:46:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/argentina-world-cup-final-violence-300726-01-1785384599.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prince Harry, others to pay millions in failed suit]]></title>
-            <description><![CDATA[[World] Prince Harry, others to pay millions in failed suit]]></description>
-            <link>https://bdnews24.com/world/9dee383449d4</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/9dee383449d4</guid>
-            <pubDate>Fri, 21 Aug 2026 21:18:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/prince-harry-210826-01-1787325363.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan president congratulates new Bangladeshi counterpart]]></title>
-            <description><![CDATA[[Bangladesh] Pakistan president congratulates new Bangladeshi counterpart]]></description>
-            <link>https://bdnews24.com/bangladesh/32722d89d003</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/32722d89d003</guid>
-            <pubDate>Fri, 21 Aug 2026 21:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/asif-ali-zardari-210826-1787324834.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Somalia child hunger crisis deepens amid aid cuts]]></title>
-            <description><![CDATA[[World] Somalia child hunger crisis deepens amid aid cuts]]></description>
-            <link>https://bdnews24.com/world/b8f284e831cf</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/b8f284e831cf</guid>
-            <pubDate>Fri, 21 Aug 2026 21:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/somalia-malnutrition-210826-01-1787324998.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
