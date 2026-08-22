@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 07:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 08:14:22 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Aug 2026 07:21:34 GMT</pubDate>
+        <pubDate>Sat, 22 Aug 2026 08:14:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Fakhrul's Thakurgaon-1 seat declared vacant]]></title>
+            <description><![CDATA[[Politics] Fakhrul's Thakurgaon-1 seat declared vacant]]></description>
+            <link>https://bdnews24.com/politics/a79f70ec5f0b</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/a79f70ec5f0b</guid>
+            <pubDate>Sat, 22 Aug 2026 14:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mirza-fakhrul-islam-alomgir-220826-02-1787384268.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kolkata fire: Saju's body brought home]]></title>
+            <description><![CDATA[[Bangladesh] Kolkata fire: Saju's body brought home]]></description>
+            <link>https://bdnews24.com/bangladesh/71496fb946d6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/71496fb946d6</guid>
+            <pubDate>Sat, 22 Aug 2026 13:57:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/satkhira-deadbody-220826-01-1787381199.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Passengers smash bus windows to escape fire]]></title>
+            <description><![CDATA[[Bangladesh] Passengers smash bus windows to escape fire]]></description>
+            <link>https://bdnews24.com/bangladesh/3ea271e9b0c8</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3ea271e9b0c8</guid>
+            <pubDate>Sat, 22 Aug 2026 13:22:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/coxbazar-bus-fire-220826-01-1787377152.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Coffee, croissants and Wagyu: EL Café opens in Dhanmondi]]></title>
             <description><![CDATA[[Lifestyle] Coffee, croissants and Wagyu: EL Café opens in Dhanmondi]]></description>
@@ -89,8 +113,8 @@
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-sailors-220826-01-1787373749.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Shoriful five-for rattles Australia]]></title>
-            <description><![CDATA[[Cricket] Shoriful five-for rattles Australia]]></description>
+            <title><![CDATA[Starc, Shoriful take six apiece on 18-wicket day]]></title>
+            <description><![CDATA[[Cricket] Starc, Shoriful take six apiece on 18-wicket day]]></description>
             <link>https://bdnews24.com/cricket/6dd74568fbf6</link>
             <guid isPermaLink="true">https://bdnews24.com/cricket/6dd74568fbf6</guid>
             <pubDate>Sat, 22 Aug 2026 10:06:00 GMT</pubDate>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/22261778602a</guid>
             <pubDate>Sat, 22 Aug 2026 00:46:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/israel-ben-gvir-220826-01-1787337957.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cabinet reshuffle: Who gets which ministry?]]></title>
-            <description><![CDATA[[Bangladesh] Cabinet reshuffle: Who gets which ministry?]]></description>
-            <link>https://bdnews24.com/bangladesh/b15e87852dd4</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b15e87852dd4</guid>
-            <pubDate>Fri, 21 Aug 2026 23:35:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/new-ministers-oath-210826-302-1787336192.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Who are Bangladesh’s new ministers and state ministers?]]></title>
-            <description><![CDATA[[Bangladesh] Who are Bangladesh’s new ministers and state ministers?]]></description>
-            <link>https://bdnews24.com/bangladesh/911fb1953ae3</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/911fb1953ae3</guid>
-            <pubDate>Fri, 21 Aug 2026 23:06:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/new-ministers-210826-01-1787324987.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Henry Kissinger's wife Nancy dies]]></title>
-            <description><![CDATA[[Americas] Henry Kissinger's wife Nancy dies]]></description>
-            <link>https://bdnews24.com/world/americas/4955af1977ff</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/4955af1977ff</guid>
-            <pubDate>Fri, 21 Aug 2026 22:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/kissinger-210826-1787328691.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
