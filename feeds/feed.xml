@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 17:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 18:10:56 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Aug 2026 17:09:58 GMT</pubDate>
+        <pubDate>Sat, 22 Aug 2026 18:10:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[48% of rural families use microcredit: study]]></title>
+            <description><![CDATA[[Economy] 48% of rural families use microcredit: study]]></description>
+            <link>https://bdnews24.com/economy/09a62786de17</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/09a62786de17</guid>
+            <pubDate>Sat, 22 Aug 2026 23:57:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/inm-study-report-publish-programme-22082026-1787415881.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[China’s robot games chart a decade of rapid advances]]></title>
+            <description><![CDATA[[Technology] China’s robot games chart a decade of rapid advances]]></description>
+            <link>https://bdnews24.com/technology/eb56b3c8bef8</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/eb56b3c8bef8</guid>
+            <pubDate>Sat, 22 Aug 2026 23:33:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/china-robot-games-220826-01-1787419929.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canada to impose retaliatory tariffs on US goods]]></title>
+            <description><![CDATA[[Business] Canada to impose retaliatory tariffs on US goods]]></description>
+            <link>https://bdnews24.com/business/aff9e00abcdc</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/aff9e00abcdc</guid>
+            <pubDate>Sat, 22 Aug 2026 23:21:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/canada-pm-220826-1787419236.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Iran rejects new US sanctions threat]]></title>
             <description><![CDATA[[West Asia] Iran rejects new US sanctions threat]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/4c521ad95426</guid>
             <pubDate>Sat, 22 Aug 2026 19:50:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/fakhrul-christensen-congratulations-220826-01-1787406643.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[7 dead as wrong-way vehicle hits UK police car]]></title>
-            <description><![CDATA[[Europe] 7 dead as wrong-way vehicle hits UK police car]]></description>
-            <link>https://bdnews24.com/world/europe/b2a36d4e69e5</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/b2a36d4e69e5</guid>
-            <pubDate>Sat, 22 Aug 2026 19:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/accident-280526-1787405923.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[E-health platform set for pilot]]></title>
-            <description><![CDATA[[Health] E-health platform set for pilot]]></description>
-            <link>https://bdnews24.com/health/cfd796f53dfb</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/cfd796f53dfb</guid>
-            <pubDate>Sat, 22 Aug 2026 19:17:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tareque-rahman-220826-01-1787402136.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Measles’ claims 2 more lives]]></title>
-            <description><![CDATA[[Health] ‘Measles’ claims 2 more lives]]></description>
-            <link>https://bdnews24.com/health/a0bd251ec84e</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/a0bd251ec84e</guid>
-            <pubDate>Sat, 22 Aug 2026 18:56:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/mymensingh-haam-110426-01-1775894732.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
