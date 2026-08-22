@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – Latest News]]></title>
+        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 16:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 17:09:58 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Aug 2026 16:09:44 GMT</pubDate>
+        <pubDate>Sat, 22 Aug 2026 17:09:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: timeout of 65000ms exceeded]]></description>
-            <link>https://bdnews24.com</link>
-            <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Sat, 22 Aug 2026 16:09:44 GMT</pubDate>
+            <title><![CDATA[Iran rejects new US sanctions threat]]></title>
+            <description><![CDATA[[West Asia] Iran rejects new US sanctions threat]]></description>
+            <link>https://bdnews24.com/world/middle-east/e790dc2e4fc8</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/e790dc2e4fc8</guid>
+            <pubDate>Sat, 22 Aug 2026 23:06:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/tehran-220826-1787418337.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rice husk, coal will fuel factories: minister]]></title>
+            <description><![CDATA[[Bangladesh] Rice husk, coal will fuel factories: minister]]></description>
+            <link>https://bdnews24.com/bangladesh/08e77aa05423</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/08e77aa05423</guid>
+            <pubDate>Sat, 22 Aug 2026 23:03:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/sylhet-minister-220826-01-1787412649.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gas crisis pushing buyers abroad: BKMEA]]></title>
+            <description><![CDATA[[Business] Gas crisis pushing buyers abroad: BKMEA]]></description>
+            <link>https://bdnews24.com/business/1eff9c5f3156</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/1eff9c5f3156</guid>
+            <pubDate>Sat, 22 Aug 2026 22:36:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/narayanganj-press-confarence-220826-01-1787413170.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kolkata hotel fire: Owner arrested after 9 die]]></title>
+            <description><![CDATA[[Bangladesh] Kolkata hotel fire: Owner arrested after 9 die]]></description>
+            <link>https://bdnews24.com/bangladesh/ab4bf81f16fd</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ab4bf81f16fd</guid>
+            <pubDate>Sat, 22 Aug 2026 22:33:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/kolkata-hotel-fire-190826-01-1787110728.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Earth microbes may survive on the Moon]]></title>
+            <description><![CDATA[[Science] Earth microbes may survive on the Moon]]></description>
+            <link>https://bdnews24.com/science/5cb543ce4587</link>
+            <guid isPermaLink="true">https://bdnews24.com/science/5cb543ce4587</guid>
+            <pubDate>Sat, 22 Aug 2026 21:59:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/moon-seen-from-earth-220826-01-1787414354.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Father leaves son alone on Mount Fuji]]></title>
+            <description><![CDATA[[Asia Pacific] Father leaves son alone on Mount Fuji]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/bd01a2150c22</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/bd01a2150c22</guid>
+            <pubDate>Sat, 22 Aug 2026 21:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/mount-fuji-220826-1787414138.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[China goes hunting for lunar ice]]></title>
+            <description><![CDATA[[Science] China goes hunting for lunar ice]]></description>
+            <link>https://bdnews24.com/science/9242c302fcc0</link>
+            <guid isPermaLink="true">https://bdnews24.com/science/9242c302fcc0</guid>
+            <pubDate>Sat, 22 Aug 2026 21:49:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/moon-south-pole-220826-01-1787413672.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Excelerate terminal resumes gas supply]]></title>
+            <description><![CDATA[[Business] Excelerate terminal resumes gas supply]]></description>
+            <link>https://bdnews24.com/business/39490de51fa9</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/39490de51fa9</guid>
+            <pubDate>Sat, 22 Aug 2026 21:24:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/lng-cargo-terminal-200826-1787248032.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[EU steps in to help Serbia tackle wildfires]]></title>
+            <description><![CDATA[[Europe] EU steps in to help Serbia tackle wildfires]]></description>
+            <link>https://bdnews24.com/world/europe/d3842452b3e4</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/d3842452b3e4</guid>
+            <pubDate>Sat, 22 Aug 2026 21:22:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/serbia-wildfire-220826-01-1787412026.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Where boats come to market]]></title>
+            <description><![CDATA[[Image] Where boats come to market]]></description>
+            <link>https://bdnews24.com/media-en/image/f93bd7d57a42</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/f93bd7d57a42</guid>
+            <pubDate>Sat, 22 Aug 2026 21:10:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/pirojpur-boat-market-220826-24-1787405356.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Minister warns action for failure to nab extortionists]]></title>
+            <description><![CDATA[[Bangladesh] Minister warns action for failure to nab extortionists]]></description>
+            <link>https://bdnews24.com/bangladesh/e4a31ddfba4a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e4a31ddfba4a</guid>
+            <pubDate>Sat, 22 Aug 2026 21:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/salahuddin-ahmad-220826-01-1787408281.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A dose of protection]]></title>
+            <description><![CDATA[[Image] A dose of protection]]></description>
+            <link>https://bdnews24.com/media-en/image/1672a4e62176</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/1672a4e62176</guid>
+            <pubDate>Sat, 22 Aug 2026 20:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/cholera-vacciner-220826-28-1787399688.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hull stun Man Utd on Premier League return]]></title>
+            <description><![CDATA[[Sport] Hull stun Man Utd on Premier League return]]></description>
+            <link>https://bdnews24.com/sport/6b5b8ae63568</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/6b5b8ae63568</guid>
+            <pubDate>Sat, 22 Aug 2026 20:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/hull-man-u-220826-1787409527.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What powers does president wield]]></title>
+            <description><![CDATA[[Bangladesh] What powers does president wield]]></description>
+            <link>https://bdnews24.com/bangladesh/a20216935527</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a20216935527</guid>
+            <pubDate>Sat, 22 Aug 2026 20:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/bangabhaban-201216-01jpg-1784991149.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Infantino urged to skip youth tournament amid FIFA crisis]]></title>
+            <description><![CDATA[[Sport] Infantino urged to skip youth tournament amid FIFA crisis]]></description>
+            <link>https://bdnews24.com/sport/ddb00c444a89</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/ddb00c444a89</guid>
+            <pubDate>Sat, 22 Aug 2026 20:09:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/infantino-220826-1787407717.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US delegation to visit Rohingya camps]]></title>
+            <description><![CDATA[[Bangladesh] US delegation to visit Rohingya camps]]></description>
+            <link>https://bdnews24.com/bangladesh/6ee45fb9bea6</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6ee45fb9bea6</guid>
+            <pubDate>Sat, 22 Aug 2026 20:04:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/rohingya-refugee-camp-140520-02-1780426774.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US congratulates President Fakhrul]]></title>
+            <description><![CDATA[[Bangladesh] US congratulates President Fakhrul]]></description>
+            <link>https://bdnews24.com/bangladesh/4c521ad95426</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4c521ad95426</guid>
+            <pubDate>Sat, 22 Aug 2026 19:50:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/fakhrul-christensen-congratulations-220826-01-1787406643.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[7 dead as wrong-way vehicle hits UK police car]]></title>
+            <description><![CDATA[[Europe] 7 dead as wrong-way vehicle hits UK police car]]></description>
+            <link>https://bdnews24.com/world/europe/b2a36d4e69e5</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/b2a36d4e69e5</guid>
+            <pubDate>Sat, 22 Aug 2026 19:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/accident-280526-1787405923.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[E-health platform set for pilot]]></title>
+            <description><![CDATA[[Health] E-health platform set for pilot]]></description>
+            <link>https://bdnews24.com/health/cfd796f53dfb</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/cfd796f53dfb</guid>
+            <pubDate>Sat, 22 Aug 2026 19:17:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/tareque-rahman-220826-01-1787402136.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Measles’ claims 2 more lives]]></title>
+            <description><![CDATA[[Health] ‘Measles’ claims 2 more lives]]></description>
+            <link>https://bdnews24.com/health/a0bd251ec84e</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/a0bd251ec84e</guid>
+            <pubDate>Sat, 22 Aug 2026 18:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/mymensingh-haam-110426-01-1775894732.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
