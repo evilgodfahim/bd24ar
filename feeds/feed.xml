@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 05:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 06:19:06 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 05:17:47 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 06:19:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[2 schoolboys injured in Noakhali gunfire]]></title>
+            <description><![CDATA[[Bangladesh] 2 schoolboys injured in Noakhali gunfire]]></description>
+            <link>https://bdnews24.com/bangladesh/f751abc3f783</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f751abc3f783</guid>
+            <pubDate>Sun, 23 Aug 2026 12:06:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/noakhali-guli-230826-01-1787459952.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ilias Ali disappearance: Air Force officer faces ICT]]></title>
+            <description><![CDATA[[Bangladesh] Ilias Ali disappearance: Air Force officer faces ICT]]></description>
+            <link>https://bdnews24.com/bangladesh/ce868861a8f3</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ce868861a8f3</guid>
+            <pubDate>Sun, 23 Aug 2026 11:35:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/saifur-rahman-230826-01-1787462828.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Quebec loses appetite for quick separation from Canada]]></title>
+            <description><![CDATA[[Americas] Quebec loses appetite for quick separation from Canada]]></description>
+            <link>https://bdnews24.com/world/americas/bd5923bb4707</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/bd5923bb4707</guid>
+            <pubDate>Sun, 23 Aug 2026 11:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/canada-quebec-230826-01-1787463131.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Can humanoid robots handle real work?]]></title>
+            <description><![CDATA[[Technology] Can humanoid robots handle real work?]]></description>
+            <link>https://bdnews24.com/technology/5f032b49fefb</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/5f032b49fefb</guid>
+            <pubDate>Sun, 23 Aug 2026 11:21:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/robot-china-230826-1787462396.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tigers routed in Mackay]]></title>
+            <description><![CDATA[[Cricket] Tigers routed in Mackay]]></description>
+            <link>https://bdnews24.com/cricket/0ca49e96feed</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/0ca49e96feed</guid>
+            <pubDate>Sun, 23 Aug 2026 11:17:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025June/SM/mushfiq-shanto-bangladesh-180625-1750224207.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Oil rises as Trump threatens sanctions on Iran partners]]></title>
             <description><![CDATA[[Business] Oil rises as Trump threatens sanctions on Iran partners]]></description>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/dbb59e0605fd</guid>
             <pubDate>Sun, 23 Aug 2026 01:46:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/banani-graveyard-200826-011-1787427219.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Inter turn on style to see off Monza]]></title>
-            <description><![CDATA[[Sport] Inter turn on style to see off Monza]]></description>
-            <link>https://bdnews24.com/sport/e6ee58b0a180</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/e6ee58b0a180</guid>
-            <pubDate>Sun, 23 Aug 2026 01:31:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/inter-football-230826-1787427056.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hull shatter United’s early optimism]]></title>
-            <description><![CDATA[[Sport] Hull shatter United’s early optimism]]></description>
-            <link>https://bdnews24.com/sport/0cc6629b0ba6</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/0cc6629b0ba6</guid>
-            <pubDate>Sun, 23 Aug 2026 00:57:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/hull-shatter-united-optimism-230826-01-1787424994.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4 found dead in Rangpur home]]></title>
-            <description><![CDATA[[Bangladesh] 4 found dead in Rangpur home]]></description>
-            <link>https://bdnews24.com/bangladesh/1b7af6ea0ce0</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1b7af6ea0ce0</guid>
-            <pubDate>Sun, 23 Aug 2026 00:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rangpur-four-deadbody-220826-01-1787424418.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Armed robbers’ storm Gazipur factory]]></title>
-            <description><![CDATA[[Bangladesh] ‘Armed robbers’ storm Gazipur factory]]></description>
-            <link>https://bdnews24.com/bangladesh/e66649598b2a</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e66649598b2a</guid>
-            <pubDate>Sun, 23 Aug 2026 00:43:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/gazipur-dakati-220826-01-1787422240.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Enrique uneasy over PSG pitch]]></title>
-            <description><![CDATA[[Sport] Enrique uneasy over PSG pitch]]></description>
-            <link>https://bdnews24.com/sport/162850a80618</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/162850a80618</guid>
-            <pubDate>Sun, 23 Aug 2026 00:24:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/enrique-uneasy-psg-pitch-230826-01-1787423074.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
