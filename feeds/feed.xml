@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 08:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 09:15:13 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 08:15:00 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 09:15:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Moyeen Khan warns of action over past corruption]]></title>
+            <description><![CDATA[[Bangladesh] Moyeen Khan warns of action over past corruption]]></description>
+            <link>https://bdnews24.com/bangladesh/77d26fa2c2cd</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/77d26fa2c2cd</guid>
+            <pubDate>Sun, 23 Aug 2026 14:37:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/abdul-moyeen-khan-230826-01-1787471925.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Minister Millat envisions dynamism in aviation, tourism sectors]]></title>
+            <description><![CDATA[[Bangladesh] Minister Millat envisions dynamism in aviation, tourism sectors]]></description>
+            <link>https://bdnews24.com/bangladesh/f0074a025159</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f0074a025159</guid>
+            <pubDate>Sun, 23 Aug 2026 14:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rashidujjaman-millat-230926-01-1787470691.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[President Mirza Fakhrul moves into Bangabhaban]]></title>
+            <description><![CDATA[[Bangladesh] President Mirza Fakhrul moves into Bangabhaban]]></description>
+            <link>https://bdnews24.com/bangladesh/f421b14a2f74</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f421b14a2f74</guid>
+            <pubDate>Sun, 23 Aug 2026 14:18:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mirza-fakhrul-islam-alomgir-230826-201-1787473047.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Bangladesh Navy chief promoted to rank of admiral]]></title>
             <description><![CDATA[[Bangladesh] Bangladesh Navy chief promoted to rank of admiral]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/53c8fdcb142b</guid>
             <pubDate>Sun, 23 Aug 2026 09:26:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/mourinho-vinicius-bullying-230826-01-1787455593.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Espi snatches last-gasp winner for Real Madrid]]></title>
-            <description><![CDATA[[Sport] Espi snatches last-gasp winner for Real Madrid]]></description>
-            <link>https://bdnews24.com/sport/680aac66b95f</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/680aac66b95f</guid>
-            <pubDate>Sun, 23 Aug 2026 09:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/laliga-real-madrid-espanyol-espi-230826-01-1787454785.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canada to retaliate for US tariffs, worsening ties]]></title>
-            <description><![CDATA[[Americas] Canada to retaliate for US tariffs, worsening ties]]></description>
-            <link>https://bdnews24.com/world/americas/7e512b850cb4</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/7e512b850cb4</guid>
-            <pubDate>Sun, 23 Aug 2026 09:03:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/canada-pm-carney-230826-01-1787454198.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh 39-3 at lunch, trail by 107 runs]]></title>
-            <description><![CDATA[[Cricket] Bangladesh 39-3 at lunch, trail by 107 runs]]></description>
-            <link>https://bdnews24.com/cricket/38647ac75905</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/38647ac75905</guid>
-            <pubDate>Sun, 23 Aug 2026 08:42:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bangladesh-230826-01-1787431924.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
