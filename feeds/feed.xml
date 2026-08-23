@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 10:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 11:10:11 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 10:11:12 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 11:10:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Ilias Ali disappearance: Air Force officer Saifur sent to jail]]></title>
+            <description><![CDATA[[Bangladesh] Ilias Ali disappearance: Air Force officer Saifur sent to jail]]></description>
+            <link>https://bdnews24.com/bangladesh/1c255b6082e1</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1c255b6082e1</guid>
+            <pubDate>Sun, 23 Aug 2026 16:53:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/saifur-rahman-230826-01-1787462828.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[DU lists 58 teachers over alleged ‘anti-state’ activities]]></title>
+            <description><![CDATA[[Bangladesh] DU lists 58 teachers over alleged ‘anti-state’ activities]]></description>
+            <link>https://bdnews24.com/bangladesh/cbc158e7e457</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cbc158e7e457</guid>
+            <pubDate>Sun, 23 Aug 2026 16:20:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/dhaka-university-kola-bhavan-01072020-01-1776766814.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Four of teacher's family killed over yaba use: police]]></title>
             <description><![CDATA[[Bangladesh] Four of teacher's family killed over yaba use: police]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/business/cb0f5d68fef4</guid>
             <pubDate>Sun, 23 Aug 2026 10:51:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/gazprom-neft-fuel-station-230826-01-1787460608.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Energy crisis threatens investment recovery]]></title>
-            <description><![CDATA[[Economy] Energy crisis threatens investment recovery]]></description>
-            <link>https://bdnews24.com/economy/0f213b06e31e</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/0f213b06e31e</guid>
-            <pubDate>Sun, 23 Aug 2026 10:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/dyeing-factory-211122-04-1787455384.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Expensive Spurs rebuild starts with familiar collapse]]></title>
-            <description><![CDATA[[Sport] Expensive Spurs rebuild starts with familiar collapse]]></description>
-            <link>https://bdnews24.com/sport/8bc156ee67ca</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/8bc156ee67ca</guid>
-            <pubDate>Sun, 23 Aug 2026 09:57:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/expensive-spurs-rebuild-230826-01-1787457417.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
