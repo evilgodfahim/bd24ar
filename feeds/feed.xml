@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 16:10:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 17:10:58 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 16:10:30 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 17:10:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Women’s voter share nears 50%, while only 2.3% of MPs: EC]]></title>
+            <description><![CDATA[[Bangladesh] Women’s voter share nears 50%, while only 2.3% of MPs: EC]]></description>
+            <link>https://bdnews24.com/bangladesh/ca0e7e5a7529</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ca0e7e5a7529</guid>
+            <pubDate>Sun, 23 Aug 2026 23:08:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/anwarul-islam-sarker-230826-01-1787500460.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A decade of China’s robot games]]></title>
+            <description><![CDATA[[Technology] A decade of China’s robot games]]></description>
+            <link>https://bdnews24.com/technology/704edeffbd6b</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/704edeffbd6b</guid>
+            <pubDate>Sun, 23 Aug 2026 22:55:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/china-robot-games-23082026-01-1787504030.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[UK aid cuts force Sundarbans project to close early: report]]></title>
             <description><![CDATA[[Bangladesh] UK aid cuts force Sundarbans project to close early: report]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/0436e42c4889</guid>
             <pubDate>Sun, 23 Aug 2026 18:25:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bd-food-safety-authority-logo-16082026-1786887423.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Leather and labour in Hazaribagh]]></title>
-            <description><![CDATA[[Image] Leather and labour in Hazaribagh]]></description>
-            <link>https://bdnews24.com/media-en/image/8eb87af5bacb</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/8eb87af5bacb</guid>
-            <pubDate>Sun, 23 Aug 2026 18:15:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/hazaribagh-tannery-230826-19-1787484152.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bihar concerns will feature in water treaty renewal: India]]></title>
-            <description><![CDATA[[Bangladesh] Bihar concerns will feature in water treaty renewal: India]]></description>
-            <link>https://bdnews24.com/bangladesh/3d68d39a6598</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3d68d39a6598</guid>
-            <pubDate>Sun, 23 Aug 2026 17:52:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024August/SM/farakka-barrage-260824-02-1724689543.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
