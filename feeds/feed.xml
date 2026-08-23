@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 04:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 05:17:47 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 04:25:00 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 05:17:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Oil rises as Trump threatens sanctions on Iran partners]]></title>
+            <description><![CDATA[[Business] Oil rises as Trump threatens sanctions on Iran partners]]></description>
+            <link>https://bdnews24.com/business/cb0f5d68fef4</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/cb0f5d68fef4</guid>
+            <pubDate>Sun, 23 Aug 2026 10:51:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/gazprom-neft-fuel-station-230826-01-1787460608.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Energy crisis threatens investment recovery]]></title>
+            <description><![CDATA[[Economy] Energy crisis threatens investment recovery]]></description>
+            <link>https://bdnews24.com/economy/0f213b06e31e</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/0f213b06e31e</guid>
+            <pubDate>Sun, 23 Aug 2026 10:37:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/dyeing-factory-211122-04-1787455384.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Expensive Spurs rebuild starts with familiar collapse]]></title>
             <description><![CDATA[[Sport] Expensive Spurs rebuild starts with familiar collapse]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/162850a80618</guid>
             <pubDate>Sun, 23 Aug 2026 00:24:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/enrique-uneasy-psg-pitch-230826-01-1787423074.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India chase series sweep in Colombo]]></title>
-            <description><![CDATA[[Cricket] India chase series sweep in Colombo]]></description>
-            <link>https://bdnews24.com/cricket/ee3d8823d647</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/ee3d8823d647</guid>
-            <pubDate>Sun, 23 Aug 2026 00:22:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/manav-sutar-celebration-india-190826-01-1787128996.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lightning kills Marma couple]]></title>
-            <description><![CDATA[[Bangladesh] Lightning kills Marma couple]]></description>
-            <link>https://bdnews24.com/bangladesh/604b90eeb614</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/604b90eeb614</guid>
-            <pubDate>Sun, 23 Aug 2026 00:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/lightning-290822-01-1787416922.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
