@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 07:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 08:15:00 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 07:23:14 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 08:15:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bangladesh Navy chief promoted to rank of admiral]]></title>
+            <description><![CDATA[[Bangladesh] Bangladesh Navy chief promoted to rank of admiral]]></description>
+            <link>https://bdnews24.com/bangladesh/10e2d8c6bca9</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/10e2d8c6bca9</guid>
+            <pubDate>Sun, 23 Aug 2026 13:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/khondkar-misbah-ul-azim-230826-1787470287.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[‘People had to think 10 times before posting on Facebook’: Andaleeve]]></title>
             <description><![CDATA[[Bangladesh] ‘People had to think 10 times before posting on Facebook’: Andaleeve]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/cricket/38647ac75905</guid>
             <pubDate>Sun, 23 Aug 2026 08:42:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bangladesh-230826-01-1787431924.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladeshi sailor aboard ship sunk off Odisha]]></title>
-            <description><![CDATA[[Bangladesh] Bangladeshi sailor aboard ship sunk off Odisha]]></description>
-            <link>https://bdnews24.com/bangladesh/103bed57e16c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/103bed57e16c</guid>
-            <pubDate>Sun, 23 Aug 2026 02:12:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ocean-winner-230826-01-1787426918.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
