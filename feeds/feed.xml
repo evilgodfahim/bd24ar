@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 03:39:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 04:25:00 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 03:39:21 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 04:25:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Expensive Spurs rebuild starts with familiar collapse]]></title>
+            <description><![CDATA[[Sport] Expensive Spurs rebuild starts with familiar collapse]]></description>
+            <link>https://bdnews24.com/sport/8bc156ee67ca</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/8bc156ee67ca</guid>
+            <pubDate>Sun, 23 Aug 2026 09:57:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/expensive-spurs-rebuild-230826-01-1787457417.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inter begin title defence with win over Mon]]></title>
+            <description><![CDATA[[Sport] Inter begin title defence with win over Mon]]></description>
+            <link>https://bdnews24.com/sport/d64c67682e3b</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/d64c67682e3b</guid>
+            <pubDate>Sun, 23 Aug 2026 09:46:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/serie-a-inter-milan-230826-01-1787456788.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indian man held with 3kg of Kush at Dhaka airport]]></title>
+            <description><![CDATA[[Bangladesh] Indian man held with 3kg of Kush at Dhaka airport]]></description>
+            <link>https://bdnews24.com/bangladesh/a75a8a39c9bb</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a75a8a39c9bb</guid>
+            <pubDate>Sun, 23 Aug 2026 09:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/kader-sheikh-230826-01-1787454996.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[USPS issues rules to tighten mail-in voting]]></title>
             <description><![CDATA[[Americas] USPS issues rules to tighten mail-in voting]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/604b90eeb614</guid>
             <pubDate>Sun, 23 Aug 2026 00:13:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/lightning-290822-01-1787416922.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[48% of rural families use microcredit: study]]></title>
-            <description><![CDATA[[Economy] 48% of rural families use microcredit: study]]></description>
-            <link>https://bdnews24.com/economy/09a62786de17</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/09a62786de17</guid>
-            <pubDate>Sat, 22 Aug 2026 23:57:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/inm-study-report-publish-programme-22082026-1787415881.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[China’s robot games chart a decade of rapid advances]]></title>
-            <description><![CDATA[[Technology] China’s robot games chart a decade of rapid advances]]></description>
-            <link>https://bdnews24.com/technology/eb56b3c8bef8</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/eb56b3c8bef8</guid>
-            <pubDate>Sat, 22 Aug 2026 23:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/china-robot-games-220826-01-1787419929.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canada to impose retaliatory tariffs on US goods]]></title>
-            <description><![CDATA[[Business] Canada to impose retaliatory tariffs on US goods]]></description>
-            <link>https://bdnews24.com/business/aff9e00abcdc</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/aff9e00abcdc</guid>
-            <pubDate>Sat, 22 Aug 2026 23:21:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/canada-pm-220826-1787419236.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
