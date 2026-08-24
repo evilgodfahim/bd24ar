@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 04:33:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 05:27:38 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 04:33:16 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 05:27:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Jubo League leader hacked to death in Bhairab]]></title>
+            <description><![CDATA[[Bangladesh] Jubo League leader hacked to death in Bhairab]]></description>
+            <link>https://bdnews24.com/bangladesh/7f8b586f7dec</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7f8b586f7dec</guid>
+            <pubDate>Mon, 24 Aug 2026 10:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/al-amin-shoikat-240826-1787544499.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oil falls as US prepares to unveil new Iran sanctions]]></title>
+            <description><![CDATA[[Business] Oil falls as US prepares to unveil new Iran sanctions]]></description>
+            <link>https://bdnews24.com/business/f955cca42e4d</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/f955cca42e4d</guid>
+            <pubDate>Mon, 24 Aug 2026 10:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/strait-of-hormuz-240826-01-1787546713.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[LPP reaffirms long-term commitment to Bangladesh garments]]></title>
+            <description><![CDATA[[Business] LPP reaffirms long-term commitment to Bangladesh garments]]></description>
+            <link>https://bdnews24.com/business/2f92d14386fa</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/2f92d14386fa</guid>
+            <pubDate>Mon, 24 Aug 2026 10:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/lpp-240826-1787546336.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Health of Norway's king deteriorates: palace]]></title>
             <description><![CDATA[[Europe] Health of Norway's king deteriorates: palace]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/6cbc732cb0ba</guid>
             <pubDate>Sun, 23 Aug 2026 23:30:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/josko-gvardiol-230826-01-1787506168.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wartime polls would 'destroy' Ukraine: Zelensky]]></title>
-            <description><![CDATA[[World] Wartime polls would 'destroy' Ukraine: Zelensky]]></description>
-            <link>https://bdnews24.com/world/eea623f0707b</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/eea623f0707b</guid>
-            <pubDate>Sun, 23 Aug 2026 23:12:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ukraine-polls-23082026-01-1787505113.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Women’s voter share nears 50%, while only 2.3% of MPs: EC]]></title>
-            <description><![CDATA[[Bangladesh] Women’s voter share nears 50%, while only 2.3% of MPs: EC]]></description>
-            <link>https://bdnews24.com/bangladesh/ca0e7e5a7529</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ca0e7e5a7529</guid>
-            <pubDate>Sun, 23 Aug 2026 23:08:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/anwarul-islam-sarker-230826-01-1787500460.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[A decade of China’s robot games]]></title>
-            <description><![CDATA[[Technology] A decade of China’s robot games]]></description>
-            <link>https://bdnews24.com/technology/704edeffbd6b</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/704edeffbd6b</guid>
-            <pubDate>Sun, 23 Aug 2026 22:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/china-robot-games-23082026-01-1787504030.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
