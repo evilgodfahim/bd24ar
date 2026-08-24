@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 07:47:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 08:33:23 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 07:47:09 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 08:33:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Two ‘confess’ to Rangpur family murders]]></title>
+            <description><![CDATA[[Bangladesh] Two ‘confess’ to Rangpur family murders]]></description>
+            <link>https://bdnews24.com/bangladesh/3c3f8e8e2f28</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3c3f8e8e2f28</guid>
+            <pubDate>Mon, 24 Aug 2026 14:23:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rongpur-murder-240826-01-1787553938.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[SpaceX rocket leaves new crater on Moon]]></title>
+            <description><![CDATA[[Science] SpaceX rocket leaves new crater on Moon]]></description>
+            <link>https://bdnews24.com/science/2003f6ea12b0</link>
+            <guid isPermaLink="true">https://bdnews24.com/science/2003f6ea12b0</guid>
+            <pubDate>Mon, 24 Aug 2026 14:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/spacex-falocon9-050826-1785905400.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Nusrat murder: Two to hang, four get life, 10 cleared]]></title>
             <description><![CDATA[[Bangladesh] Nusrat murder: Two to hang, four get life, 10 cleared]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/diaspora/82e357caff1e</guid>
             <pubDate>Mon, 24 Aug 2026 09:48:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/razu-240826-02-1787541079.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US vows 'economic D-Day']]></title>
-            <description><![CDATA[[World] US vows 'economic D-Day']]></description>
-            <link>https://bdnews24.com/world/473cbe89fe61</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/473cbe89fe61</guid>
-            <pubDate>Mon, 24 Aug 2026 09:31:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/iran-crisis-hormuz-240826-01-1787542218.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shein valued at up to $27bn in Hong Kong IPO]]></title>
-            <description><![CDATA[[Business] Shein valued at up to $27bn in Hong Kong IPO]]></description>
-            <link>https://bdnews24.com/business/11af337f5c96</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/11af337f5c96</guid>
-            <pubDate>Mon, 24 Aug 2026 08:42:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/shein-ipo-hk-240826-01-1787539237.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
