@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 17:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 18:20:42 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 17:20:17 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 18:20:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Police raid leads to ASI and 5,000 yaba]]></title>
+            <description><![CDATA[[Bangladesh] Police raid leads to ASI and 5,000 yaba]]></description>
+            <link>https://bdnews24.com/bangladesh/4849bc5172bf</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/4849bc5172bf</guid>
+            <pubDate>Mon, 24 Aug 2026 23:55:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024August/SM/thana-sabotage-070824-05-1723046033.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India seize Colombo Test after Jurel ton]]></title>
+            <description><![CDATA[[Sport] India seize Colombo Test after Jurel ton]]></description>
+            <link>https://bdnews24.com/sport/d3ef7eff42dc</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/d3ef7eff42dc</guid>
+            <pubDate>Mon, 24 Aug 2026 23:44:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/jurel-ton-24082026-01-1787593423.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[England drop fast bowler Carse after probe]]></title>
+            <description><![CDATA[[Cricket] England drop fast bowler Carse after probe]]></description>
+            <link>https://bdnews24.com/cricket/e805495587c6</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/e805495587c6</guid>
+            <pubDate>Mon, 24 Aug 2026 23:24:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/carse-24082026-01-1787592177.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[APBn to gain powers to investigate crimes]]></title>
             <description><![CDATA[[Bangladesh] APBn to gain powers to investigate crimes]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/f9a6a2f8cbc4</guid>
             <pubDate>Mon, 24 Aug 2026 18:54:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ershad-era-home-minister-dies-240826-01-1787576065.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[China defers Chang’e-7 moon mission]]></title>
-            <description><![CDATA[[Science] China defers Chang’e-7 moon mission]]></description>
-            <link>https://bdnews24.com/science/a996c1155f98</link>
-            <guid isPermaLink="true">https://bdnews24.com/science/a996c1155f98</guid>
-            <pubDate>Mon, 24 Aug 2026 18:32:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/moon-south-pole-220826-01-1787413672.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nature takes over Chattogram’s Zia Memorial Complex]]></title>
-            <description><![CDATA[[Image] Nature takes over Chattogram’s Zia Memorial Complex]]></description>
-            <link>https://bdnews24.com/media-en/image/07e6c2da19eb</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/07e6c2da19eb</guid>
-            <pubDate>Mon, 24 Aug 2026 18:26:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/zia-memorial-complex-chattogram-240826-11-1787555784.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt to buy 2 LNG cargoes at higher rates]]></title>
-            <description><![CDATA[[Bangladesh] Govt to buy 2 LNG cargoes at higher rates]]></description>
-            <link>https://bdnews24.com/bangladesh/15ad78d76f6d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/15ad78d76f6d</guid>
-            <pubDate>Mon, 24 Aug 2026 18:21:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/lng-cargo-240826-1787572757.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
