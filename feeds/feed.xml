@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 09:33:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 10:26:04 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 09:33:26 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 10:26:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Debapriya sees more anxiety than progress from BNP govt]]></title>
+            <description><![CDATA[[Economy] Debapriya sees more anxiety than progress from BNP govt]]></description>
+            <link>https://bdnews24.com/economy/1de569ab57b1</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/1de569ab57b1</guid>
+            <pubDate>Mon, 24 Aug 2026 16:23:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/bnp-240826-1787567026.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bodies of 2 missing children found in Sherpur pond]]></title>
+            <description><![CDATA[[Bangladesh] Bodies of 2 missing children found in Sherpur pond]]></description>
+            <link>https://bdnews24.com/bangladesh/a4a793d9f8fb</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a4a793d9f8fb</guid>
+            <pubDate>Mon, 24 Aug 2026 16:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/sherpur-2-child-dead-240826-01-1787558517.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Will dive into local govt polls when everyone is ready: CEC]]></title>
+            <description><![CDATA[[Bangladesh] Will dive into local govt polls when everyone is ready: CEC]]></description>
+            <link>https://bdnews24.com/bangladesh/513937ef5373</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/513937ef5373</guid>
+            <pubDate>Mon, 24 Aug 2026 15:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/nasir-uddin-240826-1787562781.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arson, bomb attacks hit Thailand’s south]]></title>
+            <description><![CDATA[[World] Arson, bomb attacks hit Thailand’s south]]></description>
+            <link>https://bdnews24.com/world/3e9bf00480f3</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/3e9bf00480f3</guid>
+            <pubDate>Mon, 24 Aug 2026 15:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/thailand-arson-240826-1787564473.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[UK's Burnham to visit Ukraine]]></title>
             <description><![CDATA[[Europe] UK's Burnham to visit Ukraine]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/europe/073dc9e1ab86</guid>
             <pubDate>Mon, 24 Aug 2026 10:15:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/russia-drones-strike-240826-01-1787544887.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Landslide at Guinea landfill kills 30: govt]]></title>
-            <description><![CDATA[[Africa] Landslide at Guinea landfill kills 30: govt]]></description>
-            <link>https://bdnews24.com/world/africa/19acd80ba8d7</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/africa/19acd80ba8d7</guid>
-            <pubDate>Mon, 24 Aug 2026 10:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/africa-guinea-landslide-240826-01-1787544636.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[N Korea preparing further Russia troop deployments: Seoul]]></title>
-            <description><![CDATA[[World] N Korea preparing further Russia troop deployments: Seoul]]></description>
-            <link>https://bdnews24.com/world/9cf0b37a2862</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/9cf0b37a2862</guid>
-            <pubDate>Mon, 24 Aug 2026 10:07:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/north-korea-russia-troops-240826-01-1787544410.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Suspect in killing of 5 in Oregon found dead]]></title>
-            <description><![CDATA[[Americas] Suspect in killing of 5 in Oregon found dead]]></description>
-            <link>https://bdnews24.com/world/americas/8ca722a02a62</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/8ca722a02a62</guid>
-            <pubDate>Mon, 24 Aug 2026 10:02:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/charles-parker-1787544115.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fewer than 20 ships transit Hormuz over weekend: data]]></title>
-            <description><![CDATA[[West Asia] Fewer than 20 ships transit Hormuz over weekend: data]]></description>
-            <link>https://bdnews24.com/world/middle-east/6dcdc9feac55</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/6dcdc9feac55</guid>
-            <pubDate>Mon, 24 Aug 2026 09:57:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/hormuz-transit-shipping-240826-01-1787543812.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
