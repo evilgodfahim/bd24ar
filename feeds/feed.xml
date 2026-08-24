@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 19:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 20:15:22 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 19:20:09 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 20:15:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US removes Syria from State Sponsor of Terrorism list]]></title>
+            <description><![CDATA[[World] US removes Syria from State Sponsor of Terrorism list]]></description>
+            <link>https://bdnews24.com/world/cd969d31edd6</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/cd969d31edd6</guid>
+            <pubDate>Tue, 25 Aug 2026 01:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/syria-us-25082026-01-1787600599.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Enrique urges players to ‘compete out of comfort zone’]]></title>
+            <description><![CDATA[[Sport] Enrique urges players to ‘compete out of comfort zone’]]></description>
+            <link>https://bdnews24.com/sport/7a6a1c489c66</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/7a6a1c489c66</guid>
+            <pubDate>Tue, 25 Aug 2026 01:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/enrique-psg-25082026-01-1787600409.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Nine years on, still no way home for Rohingya]]></title>
             <description><![CDATA[[Bangladesh] Nine years on, still no way home for Rohingya]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/070f0625fcf1</guid>
             <pubDate>Mon, 24 Aug 2026 20:33:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/nusrat-murder-protest-shahbag-19042019-0003-1787580189.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cast a net, catch a menace]]></title>
-            <description><![CDATA[[Image] Cast a net, catch a menace]]></description>
-            <link>https://bdnews24.com/media-en/image/cf0c81b27b9e</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/cf0c81b27b9e</guid>
-            <pubDate>Mon, 24 Aug 2026 20:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/sucker-fish-buriganga-240826-028-1787575117.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kuehne+Nagel mourns founder Klaus-Michael Kühne]]></title>
-            <description><![CDATA[[Sponsored] Kuehne+Nagel mourns founder Klaus-Michael Kühne]]></description>
-            <link>https://bdnews24.com/sponsored/13e0bd1dfc1f</link>
-            <guid isPermaLink="true">https://bdnews24.com/sponsored/13e0bd1dfc1f</guid>
-            <pubDate>Mon, 24 Aug 2026 20:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/kuehnenagalsponsored-240826-01-1787580546.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
