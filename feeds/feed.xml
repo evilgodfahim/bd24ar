@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 13:39:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 14:29:48 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 13:39:57 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 14:29:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Kuehne+Nagel mourns founder Klaus-Michael Kühne]]></title>
+            <description><![CDATA[[Sponsored] Kuehne+Nagel mourns founder Klaus-Michael Kühne]]></description>
+            <link>https://bdnews24.com/sponsored/13e0bd1dfc1f</link>
+            <guid isPermaLink="true">https://bdnews24.com/sponsored/13e0bd1dfc1f</guid>
+            <pubDate>Mon, 24 Aug 2026 20:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/kuehnenagalsponsored-240826-01-1787580546.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[China-Bangladesh ties pass global test: Xi]]></title>
+            <description><![CDATA[[Bangladesh] China-Bangladesh ties pass global test: Xi]]></description>
+            <link>https://bdnews24.com/bangladesh/e76a58bc3ae2</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e76a58bc3ae2</guid>
+            <pubDate>Mon, 24 Aug 2026 20:01:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mirza-fakhrul-islam-alamgir-and-xi-jinping-24082026-1787578842.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Reforms must keep 1972 Constitution: law minister]]></title>
             <description><![CDATA[[Bangladesh] Reforms must keep 1972 Constitution: law minister]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/80b919ee81f0</guid>
             <pubDate>Mon, 24 Aug 2026 16:53:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/feni-nusrat-mother-240826-01-1787566520.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[SSC exams to start in March, not January]]></title>
-            <description><![CDATA[[Education] SSC exams to start in March, not January]]></description>
-            <link>https://bdnews24.com/education/fd08e828000d</link>
-            <guid isPermaLink="true">https://bdnews24.com/education/fd08e828000d</guid>
-            <pubDate>Mon, 24 Aug 2026 16:43:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ssc-exam-motijhil-ideal-school-150922-20-1784375898.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Deposit return scheme planned for four finance companies]]></title>
-            <description><![CDATA[[Business] Deposit return scheme planned for four finance companies]]></description>
-            <link>https://bdnews24.com/business/324bcade2135</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/324bcade2135</guid>
-            <pubDate>Mon, 24 Aug 2026 16:42:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bangladesh-bank-020826-1785983591.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
