@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 20:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 21:16:52 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 20:15:22 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 21:16:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Jemima Goldsmith urges UK to act over Imran Khan]]></title>
+            <description><![CDATA[[World] Jemima Goldsmith urges UK to act over Imran Khan]]></description>
+            <link>https://bdnews24.com/world/5c20724ed23e</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/5c20724ed23e</guid>
+            <pubDate>Tue, 25 Aug 2026 02:18:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/imran-khan-with-jemima-goldsmith-120523-01-1787602346.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[US removes Syria from State Sponsor of Terrorism list]]></title>
             <description><![CDATA[[World] US removes Syria from State Sponsor of Terrorism list]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/entertainment/b11c50218f1b</guid>
             <pubDate>Mon, 24 Aug 2026 20:41:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/venice-gaza-24082026-01-1787582411.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[HC explains Nusrat murder ruling]]></title>
-            <description><![CDATA[[Bangladesh] HC explains Nusrat murder ruling]]></description>
-            <link>https://bdnews24.com/bangladesh/070f0625fcf1</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/070f0625fcf1</guid>
-            <pubDate>Mon, 24 Aug 2026 20:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/nusrat-murder-protest-shahbag-19042019-0003-1787580189.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
