@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ]]></title>
-        <description><![CDATA[bangla.bdnews24.com আর্কাইভ থেকে সর্বশেষ সংবাদ]]></description>
+        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bangla.bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 18:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 19:20:45 GMT</lastBuildDate>
         <atom:link href="https://bangla.bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 18:20:42 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 19:20:45 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[ধর্ষণের শিকার ১১ বছরের শিশুর কন্যাসন্তান : ‘ডিএনএ বলছে, সেই মাদ্রাসা শিক্ষকই বাবা’]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] ধর্ষণের শিকার ১১ বছরের শিশুর কন্যাসন্তান : ‘ডিএনএ বলছে, সেই মাদ্রাসা শিক্ষকই বাবা’]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/92d3ded21eb4</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/92d3ded21eb4</guid>
-            <pubDate>Mon, 24 Aug 2026 18:20:42 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/netrokona-rape-100526-01-1778422210.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[কৈশোরে গর্ভধারণ কেন ঝুঁকিপূর্ণ]]></title>
-            <description><![CDATA[[ভিডিও(হ্যালো)] কৈশোরে গর্ভধারণ কেন ঝুঁকিপূর্ণ]]></description>
-            <link>https://bangla.bdnews24.com/hello/hello-video/af1c88aceb87</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/hello/hello-video/af1c88aceb87</guid>
-            <pubDate>Mon, 24 Aug 2026 18:20:42 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ws-risk-of-teen-age-pregnancy-thum-1787594832.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[মানি এক্সচেঞ্জে ডলার বিক্রির সর্বোচ্চ দর ১২৬ টাকা ৫০ পয়সা]]></title>
-            <description><![CDATA[[বাণিজ্য] মানি এক্সচেঞ্জে ডলার বিক্রির সর্বোচ্চ দর ১২৬ টাকা ৫০ পয়সা]]></description>
-            <link>https://bangla.bdnews24.com/business/cbb5e2ff1eb1</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/business/cbb5e2ff1eb1</guid>
-            <pubDate>Mon, 24 Aug 2026 18:20:42 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mcab-press-conference-24082026-1787594796.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘বাস লাভার ট্যুর’: বাউলিতে সেই বাসের নিচে পড়ল তরুণ, লাশ ফেলে পালাল বন্ধুরা]]></title>
-            <description><![CDATA[[বাংলাদেশ] ‘বাস লাভার ট্যুর’: বাউলিতে সেই বাসের নিচে পড়ল তরুণ, লাশ ফেলে পালাল বন্ধুরা]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/54f5a00ff875</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/54f5a00ff875</guid>
-            <pubDate>Mon, 24 Aug 2026 18:20:42 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/dhrubojit-roy-apon-280826-1787594262.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘মা অসুস্থ, চিকিৎসা করাতে পারছি না’, টাকা না পেয়ে ব্যাংকের সামনে গ্রাহকের কান্না]]></title>
-            <description><![CDATA[[চট্টগ্রাম] ‘মা অসুস্থ, চিকিৎসা করাতে পারছি না’, টাকা না পেয়ে ব্যাংকের সামনে গ্রাহকের কান্না]]></description>
-            <link>https://bangla.bdnews24.com/ctg/de7bd950ea1b</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/ctg/de7bd950ea1b</guid>
-            <pubDate>Mon, 24 Aug 2026 18:20:42 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/chattogram-alauddin-240826-01-1787593863.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[খেলনায় সিসা: শিশু কতটা ঝুঁকিতে?]]></title>
-            <description><![CDATA[[ভিডিও(হ্যালো)] খেলনায় সিসা: শিশু কতটা ঝুঁকিতে?]]></description>
-            <link>https://bangla.bdnews24.com/hello/hello-video/a3c3affe21be</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/hello/hello-video/a3c3affe21be</guid>
-            <pubDate>Mon, 24 Aug 2026 18:20:42 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ws-lead-in-toys-thum-1787593432.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘আমার দাদা ছিলেন কৃষক, বাবা সৈনিক’, সেঞ্চুরির পর উদযাপন নিয়ে জুরেল]]></title>
-            <description><![CDATA[[ক্রিকেট] ‘আমার দাদা ছিলেন কৃষক, বাবা সৈনিক’, সেঞ্চুরির পর উদযাপন নিয়ে জুরেল]]></description>
-            <link>https://bangla.bdnews24.com/cricket/292df1d927e0</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/cricket/292df1d927e0</guid>
-            <pubDate>Mon, 24 Aug 2026 18:20:42 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/dhruv-jurel-240826-01-1787593598.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ঔপন্যাসিক বোর্হেসের উপন্যাস না-লেখার শিল্প]]></title>
-            <description><![CDATA[[আর্টস] ঔপন্যাসিক বোর্হেসের উপন্যাস না-লেখার শিল্প]]></description>
-            <link>https://bangla.bdnews24.com/arts/e9a51d224642</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/arts/e9a51d224642</guid>
-            <pubDate>Mon, 24 Aug 2026 18:20:42 GMT</pubDate>
-            <enclosure url="https://bangla.bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[গাজা থেকে ঘুড়ি ওড়ালেও মিলবে ‘কঠোর’ জবাব, হুঁশিয়ারি ইসরায়েলের]]></title>
-            <description><![CDATA[[বিশ্ব] গাজা থেকে ঘুড়ি ওড়ালেও মিলবে ‘কঠোর’ জবাব, হুঁশিয়ারি ইসরায়েলের]]></description>
-            <link>https://bangla.bdnews24.com/world/117305ebe212</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/world/117305ebe212</guid>
-            <pubDate>Mon, 24 Aug 2026 18:20:42 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/kite-drone-240826-01-1787593231.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[শিল্পকলায় ‘ক্যানভাস ২৪: মুক্তির মহাকাব্য’]]></title>
-            <description><![CDATA[[গ্লিটজ] শিল্পকলায় ‘ক্যানভাস ২৪: মুক্তির মহাকাব্য’]]></description>
-            <link>https://bangla.bdnews24.com/glitz/bc01c9b58a90</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/glitz/bc01c9b58a90</guid>
-            <pubDate>Mon, 24 Aug 2026 18:20:42 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/art-exhibition-240826-01-1787593071.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[মানবাধিকার কমিশনের খসড়া নিয়ে আরও আলোচনার দাবি ব্লাস্টের]]></title>
-            <description><![CDATA[[বাংলাদেশ] মানবাধিকার কমিশনের খসড়া নিয়ে আরও আলোচনার দাবি ব্লাস্টের]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/db558adec64d</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/db558adec64d</guid>
-            <pubDate>Mon, 24 Aug 2026 18:20:42 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/blast-240826-01-1787592761.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ইয়াবা কারবারের অভিযোগে পল্লবী থানার এএসআই গ্রেপ্তার]]></title>
-            <description><![CDATA[[বাংলাদেশ] ইয়াবা কারবারের অভিযোগে পল্লবী থানার এএসআই গ্রেপ্তার]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/de36ac8c2650</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/de36ac8c2650</guid>
-            <pubDate>Mon, 24 Aug 2026 18:20:42 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024August/SM/thana-sabotage-070824-05-1723046033.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[রাবির সেই কৃষ্ণচূড়া গাছটি ভেঙে পড়েছে, স্মৃতিকাতর শিক্ষার্থীরা]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] রাবির সেই কৃষ্ণচূড়া গাছটি ভেঙে পড়েছে, স্মৃতিকাতর শিক্ষার্থীরা]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/04bbc6d6830b</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/04bbc6d6830b</guid>
-            <pubDate>Mon, 24 Aug 2026 18:20:42 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rajshahi-university-krisnachura-240826-01-1787591904.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[দ. আফ্রিকায় ব‍্যাটিংয়ের পর বোলিংয়েও ব‍্যর্থ বাংলাদেশ ‘এ’ দল]]></title>
-            <description><![CDATA[[ক্রিকেট] দ. আফ্রিকায় ব‍্যাটিংয়ের পর বোলিংয়েও ব‍্যর্থ বাংলাদেশ ‘এ’ দল]]></description>
-            <link>https://bangla.bdnews24.com/cricket/c86e5d797573</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/cricket/c86e5d797573</guid>
-            <pubDate>Mon, 24 Aug 2026 18:20:42 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/hasan-murad-bangladesh-270426-01-1777304174.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[প্রথম বিদেশ সফরেই ইউক্রেইনে বার্নাম, পূর্ণ সমর্থনের বার্তা]]></title>
-            <description><![CDATA[[বিশ্ব] প্রথম বিদেশ সফরেই ইউক্রেইনে বার্নাম, পূর্ণ সমর্থনের বার্তা]]></description>
-            <link>https://bangla.bdnews24.com/world/b7a4755c474c</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/world/b7a4755c474c</guid>
-            <pubDate>Mon, 24 Aug 2026 18:20:42 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/burnham-zelensky-240826-01-1787590284.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ব্রাহ্মণবাড়িয়ায় ব্যাংকের ভেতর থেকে প্রায় ৮ লাখ টাকা চুরি]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] ব্রাহ্মণবাড়িয়ায় ব্যাংকের ভেতর থেকে প্রায় ৮ লাখ টাকা চুরি]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/5b640e12e0dd</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/5b640e12e0dd</guid>
-            <pubDate>Mon, 24 Aug 2026 18:20:42 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/brahmanbaria-theft-240826-01-1787590179.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[গণরুম থেকে ক্ষমতার খেলা: ‘দ্য ইউনিভার্সিটি অব চানখাঁরপুল’ ওটিটিতে]]></title>
-            <description><![CDATA[[গ্লিটজ] গণরুম থেকে ক্ষমতার খেলা: ‘দ্য ইউনিভার্সিটি অব চানখাঁরপুল’ ওটিটিতে]]></description>
-            <link>https://bangla.bdnews24.com/glitz/782f6664fe2b</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/glitz/782f6664fe2b</guid>
-            <pubDate>Mon, 24 Aug 2026 18:20:42 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/the-university-of-chankharpul-240826-02-1787589862.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[যমুনা সেতুর কাছে ট্রাক থামাতেই মিলল ৪ কোটি টাকার হেরোইন]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] যমুনা সেতুর কাছে ট্রাক থামাতেই মিলল ৪ কোটি টাকার হেরোইন]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/873c2a758c6b</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/873c2a758c6b</guid>
-            <pubDate>Mon, 24 Aug 2026 18:20:42 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/sirajganj-heroin-240826-01-1787589375.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[পাবনায় দণ্ডিত আসামিকে বিএনপির পদ দেওয়ার প্রতিবাদে ঝাড়ু মিছিল]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] পাবনায় দণ্ডিত আসামিকে বিএনপির পদ দেওয়ার প্রতিবাদে ঝাড়ু মিছিল]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/a0e3c245b098</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/a0e3c245b098</guid>
-            <pubDate>Mon, 24 Aug 2026 18:20:42 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/pabna-bnp-240826-01-1787589204.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[পটুয়াখালী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়ে র‌্যাগিং: ১৩ শিক্ষার্থীকে শাস্তি]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] পটুয়াখালী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়ে র‌্যাগিং: ১৩ শিক্ষার্থীকে শাস্তি]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/2da0a929cb01</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/2da0a929cb01</guid>
-            <pubDate>Mon, 24 Aug 2026 18:20:42 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/patuakhali-university-240826-01-1787589039.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
+            <link>https://bangla.bdnews24.com</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com</guid>
+            <pubDate>Mon, 24 Aug 2026 19:20:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
