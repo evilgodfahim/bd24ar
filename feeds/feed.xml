@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 10:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 11:16:05 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 10:26:04 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 11:16:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Nusrat murder verdict: Mother satisfied, asks for security]]></title>
+            <description><![CDATA[[Bangladesh] Nusrat murder verdict: Mother satisfied, asks for security]]></description>
+            <link>https://bdnews24.com/bangladesh/80b919ee81f0</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/80b919ee81f0</guid>
+            <pubDate>Mon, 24 Aug 2026 16:53:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/feni-nusrat-mother-240826-01-1787566520.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[SSC exams to start in March, not January]]></title>
+            <description><![CDATA[[Education] SSC exams to start in March, not January]]></description>
+            <link>https://bdnews24.com/education/fd08e828000d</link>
+            <guid isPermaLink="true">https://bdnews24.com/education/fd08e828000d</guid>
+            <pubDate>Mon, 24 Aug 2026 16:43:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/ssc-exam-motijhil-ideal-school-150922-20-1784375898.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Deposit return scheme planned for four finance companies]]></title>
+            <description><![CDATA[[Business] Deposit return scheme planned for four finance companies]]></description>
+            <link>https://bdnews24.com/business/324bcade2135</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/324bcade2135</guid>
+            <pubDate>Mon, 24 Aug 2026 16:42:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/bangladesh-bank-020826-1785983591.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Debapriya sees more anxiety than progress from BNP govt]]></title>
             <description><![CDATA[[Economy] Debapriya sees more anxiety than progress from BNP govt]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/europe/970f894f614b</guid>
             <pubDate>Mon, 24 Aug 2026 10:23:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/king-harald-240826-01-1787545372.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Barca thrash Elche to launch LaLiga title defence]]></title>
-            <description><![CDATA[[Sport] Barca thrash Elche to launch LaLiga title defence]]></description>
-            <link>https://bdnews24.com/sport/604873a7dc7a</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/604873a7dc7a</guid>
-            <pubDate>Mon, 24 Aug 2026 10:21:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/laliga-barcelona-elche-240826-01-1787545281.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Syria, Israel hold talks to ease tensions]]></title>
-            <description><![CDATA[[West Asia] Syria, Israel hold talks to ease tensions]]></description>
-            <link>https://bdnews24.com/world/middle-east/bbf425a52558</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/bbf425a52558</guid>
-            <pubDate>Mon, 24 Aug 2026 10:18:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/syria-israel-talks-240826-01-1787545103.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Drone attack kills 2 children in Russia’s Krasnodar]]></title>
-            <description><![CDATA[[Europe] Drone attack kills 2 children in Russia’s Krasnodar]]></description>
-            <link>https://bdnews24.com/world/europe/073dc9e1ab86</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/073dc9e1ab86</guid>
-            <pubDate>Mon, 24 Aug 2026 10:15:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/russia-drones-strike-240826-01-1787544887.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
