@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 08:33:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 09:33:26 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 08:33:23 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 09:33:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[UK's Burnham to visit Ukraine]]></title>
+            <description><![CDATA[[Europe] UK's Burnham to visit Ukraine]]></description>
+            <link>https://bdnews24.com/world/europe/9a4e8b804f46</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/9a4e8b804f46</guid>
+            <pubDate>Mon, 24 Aug 2026 15:19:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/andy-burnham-240826-01-1787563082.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Two ‘confess’ to Rangpur family murders]]></title>
             <description><![CDATA[[Bangladesh] Two ‘confess’ to Rangpur family murders]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/middle-east/6dcdc9feac55</guid>
             <pubDate>Mon, 24 Aug 2026 09:57:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/hormuz-transit-shipping-240826-01-1787543812.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladeshi shot dead in New York, another in hospital]]></title>
-            <description><![CDATA[[Diaspora] Bangladeshi shot dead in New York, another in hospital]]></description>
-            <link>https://bdnews24.com/diaspora/82e357caff1e</link>
-            <guid isPermaLink="true">https://bdnews24.com/diaspora/82e357caff1e</guid>
-            <pubDate>Mon, 24 Aug 2026 09:48:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/razu-240826-02-1787541079.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
