@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 17:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 18:19:58 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 17:21:08 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 18:19:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump says Hormuz has been demined]]></title>
+            <description><![CDATA[[World] Trump says Hormuz has been demined]]></description>
+            <link>https://bdnews24.com/world/ab6b862e06c9</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ab6b862e06c9</guid>
+            <pubDate>Wed, 26 Aug 2026 00:04:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/hormuz-demined-25082026-01-1787681080.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[New NASA telescope to probe dark energy, exoplanets]]></title>
+            <description><![CDATA[[Science] New NASA telescope to probe dark energy, exoplanets]]></description>
+            <link>https://bdnews24.com/science/6ded69e2a924</link>
+            <guid isPermaLink="true">https://bdnews24.com/science/6ded69e2a924</guid>
+            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/nasa-telescope-250826-01-1787680784.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Belgium hit by record salmonella outbreak]]></title>
+            <description><![CDATA[[Health] Belgium hit by record salmonella outbreak]]></description>
+            <link>https://bdnews24.com/health/9005dd27f47c</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/9005dd27f47c</guid>
+            <pubDate>Tue, 25 Aug 2026 23:34:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/salmonella-belgium-250826-01-1787679260.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[US diplomats set to return to West Asia after Iran war]]></title>
             <description><![CDATA[[World] US diplomats set to return to West Asia after Iran war]]></description>
@@ -25,8 +49,8 @@
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/china-india-25082026-01-1787676588.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Man United sign Brighton midfielder Baleba]]></title>
-            <description><![CDATA[[Sport] Man United sign Brighton midfielder Baleba]]></description>
+            <title><![CDATA[Man United sign midfielder Baleba]]></title>
+            <description><![CDATA[[Sport] Man United sign midfielder Baleba]]></description>
             <link>https://bdnews24.com/sport/b1defd6978f5</link>
             <guid isPermaLink="true">https://bdnews24.com/sport/b1defd6978f5</guid>
             <pubDate>Tue, 25 Aug 2026 22:41:00 GMT</pubDate>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/424540ea8209</guid>
             <pubDate>Tue, 25 Aug 2026 19:24:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/russia-complex-250826-01-1787664161.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rangpur killers cut power fearing CCTV capture: police]]></title>
-            <description><![CDATA[[Bangladesh] Rangpur killers cut power fearing CCTV capture: police]]></description>
-            <link>https://bdnews24.com/bangladesh/be350fa5f24a</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/be350fa5f24a</guid>
-            <pubDate>Tue, 25 Aug 2026 19:22:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rongpur-murder-240826-01-1787553938.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rohingya exodus: 9 years on]]></title>
-            <description><![CDATA[[Image] Rohingya exodus: 9 years on]]></description>
-            <link>https://bdnews24.com/media-en/image/a7d570ab66b7</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/a7d570ab66b7</guid>
-            <pubDate>Tue, 25 Aug 2026 18:52:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rohingya-refugee-9-years-250826-07-1787656113.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US military plane lands in Moscow, Kremlin unaware]]></title>
-            <description><![CDATA[[World] US military plane lands in Moscow, Kremlin unaware]]></description>
-            <link>https://bdnews24.com/world/a370c1a52835</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/a370c1a52835</guid>
-            <pubDate>Tue, 25 Aug 2026 18:48:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/us-military-aircraft-moscow-250826-01-1787659672.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
