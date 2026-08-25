@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 05:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 06:22:32 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 05:21:33 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 06:22:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Ban on rallies in parts of Dhaka for parliament session]]></title>
+            <description><![CDATA[[Bangladesh] Ban on rallies in parts of Dhaka for parliament session]]></description>
+            <link>https://bdnews24.com/bangladesh/456e4491e4ae</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/456e4491e4ae</guid>
+            <pubDate>Tue, 25 Aug 2026 12:13:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/tarique-rahman-pm-300426-004-1777565651.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sydney Sweeney brings stunt game to Tom Cruise]]></title>
+            <description><![CDATA[[Entertainment] Sydney Sweeney brings stunt game to Tom Cruise]]></description>
+            <link>https://bdnews24.com/entertainment/280dc1ab8b80</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/280dc1ab8b80</guid>
+            <pubDate>Tue, 25 Aug 2026 12:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/sydney-sweeney-250826-1787638182.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Berger Paints holds 53rd AGM]]></title>
+            <description><![CDATA[[Business] Berger Paints holds 53rd AGM]]></description>
+            <link>https://bdnews24.com/business/a1702e439a0a</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/a1702e439a0a</guid>
+            <pubDate>Tue, 25 Aug 2026 11:34:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/53rd-agm-screen-250826-1787636043.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[5 fishermen go missing after trawler sinks at sea]]></title>
+            <description><![CDATA[[Bangladesh] 5 fishermen go missing after trawler sinks at sea]]></description>
+            <link>https://bdnews24.com/bangladesh/20bebb771cf7</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/20bebb771cf7</guid>
+            <pubDate>Tue, 25 Aug 2026 11:24:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/barguna-trawler-sinks-250826-1787634245.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Big Food fights India’s health warnings]]></title>
             <description><![CDATA[[Neighbours] Big Food fights India’s health warnings]]></description>
@@ -135,38 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/americas/cc5b48700365</guid>
             <pubDate>Tue, 25 Aug 2026 09:33:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/us-supreme-court-300626-01-1782793328.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump's approval holds at record low: poll]]></title>
-            <description><![CDATA[[Americas] Trump's approval holds at record low: poll]]></description>
-            <link>https://bdnews24.com/world/americas/163579c0e3ec</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/163579c0e3ec</guid>
-            <pubDate>Tue, 25 Aug 2026 09:29:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/trump-approval-250826-01-1787628497.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US threatens Iran trade partners, delays sanctions]]></title>
-            <description><![CDATA[[Americas] US threatens Iran trade partners, delays sanctions]]></description>
-            <link>https://bdnews24.com/world/americas/c88d30f4fadc</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/c88d30f4fadc</guid>
-            <pubDate>Tue, 25 Aug 2026 09:25:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-flag-250826-1787628314.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump's Kim gambit deepens doubts over US reliability]]></title>
-            <description><![CDATA[[World] Trump's Kim gambit deepens doubts over US reliability]]></description>
-            <link>https://bdnews24.com/world/6817067b23eb</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/6817067b23eb</guid>
-            <pubDate>Tue, 25 Aug 2026 09:22:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/trump-kim-gambit-250826-01-1787628116.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Asia shares fall on tech nerves]]></title>
-            <description><![CDATA[[Business] Asia shares fall on tech nerves]]></description>
-            <link>https://bdnews24.com/business/78d1e7d594da</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/78d1e7d594da</guid>
-            <pubDate>Tue, 25 Aug 2026 09:18:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/asia-shares-stocks-250826-01-1787627916.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
