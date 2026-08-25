@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 18:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 19:20:59 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 18:19:58 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 19:20:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Dolly Parton dies at 80]]></title>
+            <description><![CDATA[[Entertainment] Dolly Parton dies at 80]]></description>
+            <link>https://bdnews24.com/entertainment/34dc04c9fb56</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/34dc04c9fb56</guid>
+            <pubDate>Wed, 26 Aug 2026 00:55:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/dolly-26082026-01-1787684090.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[SpaceX to build rocket complex in Louisiana]]></title>
+            <description><![CDATA[[Technology] SpaceX to build rocket complex in Louisiana]]></description>
+            <link>https://bdnews24.com/technology/f8e162b422ce</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/f8e162b422ce</guid>
+            <pubDate>Wed, 26 Aug 2026 00:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/spacex-25082026-01-1787683163.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Trump says Hormuz has been demined]]></title>
             <description><![CDATA[[World] Trump says Hormuz has been demined]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/ee70a25e10f7</guid>
             <pubDate>Tue, 25 Aug 2026 20:03:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/muhammad-abdul-muhit-25082026-1787665386.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Draft deal ready for Chinese fighter purchase: advisor]]></title>
-            <description><![CDATA[[Bangladesh] Draft deal ready for Chinese fighter purchase: advisor]]></description>
-            <link>https://bdnews24.com/bangladesh/c5be923a955b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c5be923a955b</guid>
-            <pubDate>Tue, 25 Aug 2026 19:28:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/fighter-jets-250826-01-1787664474.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Russian complex blaze kills 1, injures over 120]]></title>
-            <description><![CDATA[[World] Russian complex blaze kills 1, injures over 120]]></description>
-            <link>https://bdnews24.com/world/424540ea8209</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/424540ea8209</guid>
-            <pubDate>Tue, 25 Aug 2026 19:24:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/russia-complex-250826-01-1787664161.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
