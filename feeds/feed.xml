@@ -4,10 +4,50 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 04:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 05:21:33 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 04:26:17 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 05:21:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Big Food fights India’s health warnings]]></title>
+            <description><![CDATA[[Neighbours] Big Food fights India’s health warnings]]></description>
+            <link>https://bdnews24.com/neighbours/0fe048b043cb</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/0fe048b043cb</guid>
+            <pubDate>Tue, 25 Aug 2026 11:05:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/india-food-250826-1787634215.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Broken wooden bridge leaves 50,000 struggling]]></title>
+            <description><![CDATA[[Bangladesh] Broken wooden bridge leaves 50,000 struggling]]></description>
+            <link>https://bdnews24.com/bangladesh/e80356bc049e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e80356bc049e</guid>
+            <pubDate>Tue, 25 Aug 2026 10:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/narail-wooden-bridge-250826-01-1787631708.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump plans to revoke visas of foreigners seeking asylum]]></title>
+            <description><![CDATA[[Americas] Trump plans to revoke visas of foreigners seeking asylum]]></description>
+            <link>https://bdnews24.com/world/americas/aedd73aad730</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/aedd73aad730</guid>
+            <pubDate>Tue, 25 Aug 2026 10:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-state-department-250826-01-1787633220.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heatwaves send men to work in shorts]]></title>
+            <description><![CDATA[[Environment] Heatwaves send men to work in shorts]]></description>
+            <link>https://bdnews24.com/environment/6d251d6b7304</link>
+            <guid isPermaLink="true">https://bdnews24.com/environment/6d251d6b7304</guid>
+            <pubDate>Tue, 25 Aug 2026 10:43:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/men-heatwave-cloth-250826-01-1787632964.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cancer patients, relatives spend days and nights in the open air]]></title>
+            <description><![CDATA[[Health] Cancer patients, relatives spend days and nights in the open air]]></description>
+            <link>https://bdnews24.com/health/d18eb3d6ce84</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/d18eb3d6ce84</guid>
+            <pubDate>Tue, 25 Aug 2026 10:28:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/suffering-of-cancer-patients-and-relatives-24082026-1-1787626045.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Pakistan's last-ditch effort to secure Iran war truce]]></title>
             <description><![CDATA[[West Asia] Pakistan's last-ditch effort to secure Iran war truce]]></description>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/business/78d1e7d594da</guid>
             <pubDate>Tue, 25 Aug 2026 09:18:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/asia-shares-stocks-250826-01-1787627916.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[47 killed in Haiti gang raid]]></title>
-            <description><![CDATA[[World] 47 killed in Haiti gang raid]]></description>
-            <link>https://bdnews24.com/world/0b09150147e5</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/0b09150147e5</guid>
-            <pubDate>Tue, 25 Aug 2026 09:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/haiti-gang-raid-250826-1787627422.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dollar struggles for traction, markets weight Iran sanctions]]></title>
-            <description><![CDATA[[Business] Dollar struggles for traction, markets weight Iran sanctions]]></description>
-            <link>https://bdnews24.com/business/a71d15d8b7f9</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/a71d15d8b7f9</guid>
-            <pubDate>Tue, 25 Aug 2026 09:06:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/dollar-iran-sanctions-250826-01-1787627155.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran vows to retaliate after US widens sanctions]]></title>
-            <description><![CDATA[[West Asia] Iran vows to retaliate after US widens sanctions]]></description>
-            <link>https://bdnews24.com/world/middle-east/1941cdff9995</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/1941cdff9995</guid>
-            <pubDate>Tue, 25 Aug 2026 09:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/iran-us-sanctions-250826-01-1787626889.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Typhoon Saudel nears Japan, Taiwan]]></title>
-            <description><![CDATA[[Asia Pacific] Typhoon Saudel nears Japan, Taiwan]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/183e879b42a2</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/183e879b42a2</guid>
-            <pubDate>Tue, 25 Aug 2026 08:58:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/typhoon-china-250826-1787626711.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jemima Goldsmith urges UK to act over Imran Khan]]></title>
-            <description><![CDATA[[World] Jemima Goldsmith urges UK to act over Imran Khan]]></description>
-            <link>https://bdnews24.com/world/5c20724ed23e</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/5c20724ed23e</guid>
-            <pubDate>Tue, 25 Aug 2026 02:18:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/imran-khan-with-jemima-goldsmith-120523-01-1787602346.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
