@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 15:30:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 16:22:02 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 15:30:49 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 16:22:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[‘Shoot the messenger’ tactics threaten press freedom: TIB]]></title>
+            <description><![CDATA[[Bangladesh] ‘Shoot the messenger’ tactics threaten press freedom: TIB]]></description>
+            <link>https://bdnews24.com/bangladesh/8a170623bc01</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8a170623bc01</guid>
+            <pubDate>Tue, 25 Aug 2026 22:21:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026April/SM/tib-briefing-6426-1775465808.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Humaiun Kobir’s citizenship status fully legal: minister]]></title>
+            <description><![CDATA[[Bangladesh] Humaiun Kobir’s citizenship status fully legal: minister]]></description>
+            <link>https://bdnews24.com/bangladesh/3dd116fab02b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3dd116fab02b</guid>
+            <pubDate>Tue, 25 Aug 2026 21:46:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/md-asaduzzaman-250826-01-1787669043.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nigerian president acts on mass kidnapping]]></title>
+            <description><![CDATA[[World] Nigerian president acts on mass kidnapping]]></description>
+            <link>https://bdnews24.com/world/52a5093e3161</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/52a5093e3161</guid>
+            <pubDate>Tue, 25 Aug 2026 21:43:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/nigeria-president-250826-01-1787672482.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Rogers promises more after scoring on Chelsea debut]]></title>
             <description><![CDATA[[Sport] Rogers promises more after scoring on Chelsea debut]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/media-en/image/e4d467d171ea</guid>
             <pubDate>Tue, 25 Aug 2026 17:41:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/fakhrul-islam-alamgir-250826-01-1787655728.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[A climate catastrophe is coming, scientists say]]></title>
-            <description><![CDATA[[Environment] A climate catastrophe is coming, scientists say]]></description>
-            <link>https://bdnews24.com/environment/c950b4cad640</link>
-            <guid isPermaLink="true">https://bdnews24.com/environment/c950b4cad640</guid>
-            <pubDate>Tue, 25 Aug 2026 17:40:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/image1-1787657948.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 die of dengue, 907 hospital admissions]]></title>
-            <description><![CDATA[[Health] 3 die of dengue, 907 hospital admissions]]></description>
-            <link>https://bdnews24.com/health/85dbed89ae3f</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/85dbed89ae3f</guid>
-            <pubDate>Tue, 25 Aug 2026 17:34:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/dengue-mugda-hospital-091023-01-1780318177.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jamaat alliance hits the road on Sept 5]]></title>
-            <description><![CDATA[[Politics] Jamaat alliance hits the road on Sept 5]]></description>
-            <link>https://bdnews24.com/politics/9a5510411857</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/9a5510411857</guid>
-            <pubDate>Tue, 25 Aug 2026 17:29:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/mia-golam-porowar-jamaat-250826-01-1787655206.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
