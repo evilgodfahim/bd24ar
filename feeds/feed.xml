@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 10:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 11:15:19 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 10:19:14 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 11:15:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Measles: 5 more die, 91 new cases]]></title>
+            <description><![CDATA[[Health] Measles: 5 more die, 91 new cases]]></description>
+            <link>https://bdnews24.com/health/366c05043220</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/366c05043220</guid>
+            <pubDate>Tue, 25 Aug 2026 17:04:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/sylhet-measels-dead-010626-01-1780323990.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[HC questions BFIU inaction over Showkat’s UK funds]]></title>
+            <description><![CDATA[[Bangladesh] HC questions BFIU inaction over Showkat’s UK funds]]></description>
+            <link>https://bdnews24.com/bangladesh/0a33dc61c104</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0a33dc61c104</guid>
+            <pubDate>Tue, 25 Aug 2026 16:51:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/showkat-ali-chowdhury-250826-1787653993.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tornado injures dozens in southwest France]]></title>
+            <description><![CDATA[[World] Tornado injures dozens in southwest France]]></description>
+            <link>https://bdnews24.com/world/3b680e6183d7</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/3b680e6183d7</guid>
+            <pubDate>Tue, 25 Aug 2026 16:36:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/france-tornado-250826-01-1787654136.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[We see Bangladesh as a growing strategic partner: EU envoy]]></title>
             <description><![CDATA[[Bangladesh] We see Bangladesh as a growing strategic partner: EU envoy]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/neighbours/bbcfff6794cc</guid>
             <pubDate>Tue, 25 Aug 2026 12:48:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/hijabi-studetns-250826-1787640475.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Magura child rape, murder: Death reference verdict deferred]]></title>
-            <description><![CDATA[[Bangladesh] Magura child rape, murder: Death reference verdict deferred]]></description>
-            <link>https://bdnews24.com/bangladesh/72b18094e08f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/72b18094e08f</guid>
-            <pubDate>Tue, 25 Aug 2026 12:38:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/high-court-090726-1783586695.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ban on rallies in parts of Dhaka for parliament session]]></title>
-            <description><![CDATA[[Bangladesh] Ban on rallies in parts of Dhaka for parliament session]]></description>
-            <link>https://bdnews24.com/bangladesh/456e4491e4ae</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/456e4491e4ae</guid>
-            <pubDate>Tue, 25 Aug 2026 12:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/tarique-rahman-pm-300426-004-1777565651.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sydney Sweeney brings stunt game to Tom Cruise]]></title>
-            <description><![CDATA[[Entertainment] Sydney Sweeney brings stunt game to Tom Cruise]]></description>
-            <link>https://bdnews24.com/entertainment/280dc1ab8b80</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/280dc1ab8b80</guid>
-            <pubDate>Tue, 25 Aug 2026 12:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/sydney-sweeney-250826-1787638182.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
