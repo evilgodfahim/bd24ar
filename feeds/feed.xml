@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 07:35:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 08:27:01 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 07:35:19 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 08:27:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Rain likely across Bangladesh for five more days]]></title>
+            <description><![CDATA[[Bangladesh] Rain likely across Bangladesh for five more days]]></description>
+            <link>https://bdnews24.com/bangladesh/f484269674d0</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f484269674d0</guid>
+            <pubDate>Wed, 26 Aug 2026 14:09:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/rain-1000-1777366021.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[New facilities emerge near China’s Antelope Reef base]]></title>
+            <description><![CDATA[[Asia Pacific] New facilities emerge near China’s Antelope Reef base]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/070b1b73c2ac</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/070b1b73c2ac</guid>
+            <pubDate>Wed, 26 Aug 2026 14:03:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/china-mikitary-base-260826-1787731333.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flash flood hits Nepal, washing away villages]]></title>
+            <description><![CDATA[[World] Flash flood hits Nepal, washing away villages]]></description>
+            <link>https://bdnews24.com/world/865ef47b7fff</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/865ef47b7fff</guid>
+            <pubDate>Wed, 26 Aug 2026 14:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/nepal-flood-260826-1787731175.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rangpur murders: Friend says suspects used yaba at his home]]></title>
+            <description><![CDATA[[Bangladesh] Rangpur murders: Friend says suspects used yaba at his home]]></description>
+            <link>https://bdnews24.com/bangladesh/a20f63867bfd</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a20f63867bfd</guid>
+            <pubDate>Wed, 26 Aug 2026 13:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rangpur-four-deadbody-230826-02-1787476096.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US-Iran war turns into energy stalemate: Bousso]]></title>
+            <description><![CDATA[[Opinion] US-Iran war turns into energy stalemate: Bousso]]></description>
+            <link>https://bdnews24.com/opinion/ffdab0e8e95a</link>
+            <guid isPermaLink="true">https://bdnews24.com/opinion/ffdab0e8e95a</guid>
+            <pubDate>Wed, 26 Aug 2026 13:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/iran-woe-260826-01-1787729983.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bill Gates seeks Xi talks on AI risks]]></title>
+            <description><![CDATA[[Technology] Bill Gates seeks Xi talks on AI risks]]></description>
+            <link>https://bdnews24.com/technology/d7948232686c</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/d7948232686c</guid>
+            <pubDate>Wed, 26 Aug 2026 13:38:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/gates-xi-260826-1787729807.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Modi sends greetings on Eid-e-Miladunnabi]]></title>
+            <description><![CDATA[[Bangladesh] Modi sends greetings on Eid-e-Miladunnabi]]></description>
+            <link>https://bdnews24.com/bangladesh/32c3e9b7ca2b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/32c3e9b7ca2b</guid>
+            <pubDate>Wed, 26 Aug 2026 13:37:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026February/SM/narendra-modi-01022026-01-1769931396.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[What would joining the Makkah defence pact mean for Bangladesh?]]></title>
             <description><![CDATA[[Bangladesh] What would joining the Makkah defence pact mean for Bangladesh?]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/7276e178d356</guid>
             <pubDate>Wed, 26 Aug 2026 11:20:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/arsenal-community-shield-15082026-01-1786731081.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Benapole trade shut for Eid-e-Miladunnabi]]></title>
-            <description><![CDATA[[Bangladesh] Benapole trade shut for Eid-e-Miladunnabi]]></description>
-            <link>https://bdnews24.com/bangladesh/fb82f37ef19d</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/fb82f37ef19d</guid>
-            <pubDate>Wed, 26 Aug 2026 11:12:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/benapole-import-export-activities-260826-01-1787716052.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[15 infants killed in Islamabad hospital fire]]></title>
-            <description><![CDATA[[South Asia] 15 infants killed in Islamabad hospital fire]]></description>
-            <link>https://bdnews24.com/world/south-asia/a9dd2b517a47</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/south-asia/a9dd2b517a47</guid>
-            <pubDate>Wed, 26 Aug 2026 11:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/islamabad-hospital-fire-260826-1787720968.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX to build Starship rocket complex in Louisiana]]></title>
-            <description><![CDATA[[Science] SpaceX to build Starship rocket complex in Louisiana]]></description>
-            <link>https://bdnews24.com/science/471a03545660</link>
-            <guid isPermaLink="true">https://bdnews24.com/science/471a03545660</guid>
-            <pubDate>Wed, 26 Aug 2026 10:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/spacex-starship-260826-01-1787719842.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh 'humiliation' shaped Mackay pitch: Gavaskar]]></title>
-            <description><![CDATA[[Cricket] Bangladesh 'humiliation' shaped Mackay pitch: Gavaskar]]></description>
-            <link>https://bdnews24.com/cricket/ecf6881e3565</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/ecf6881e3565</guid>
-            <pubDate>Wed, 26 Aug 2026 10:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/sunil-1000-1787665937.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Australia bans fully AI-generated music from charts]]></title>
-            <description><![CDATA[[Music] Australia bans fully AI-generated music from charts]]></description>
-            <link>https://bdnews24.com/music/3620c4ac5a9a</link>
-            <guid isPermaLink="true">https://bdnews24.com/music/3620c4ac5a9a</guid>
-            <pubDate>Wed, 26 Aug 2026 10:48:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/madonna-180826-1787719615.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump sends Saudi nuclear deal to Congress]]></title>
-            <description><![CDATA[[Americas] Trump sends Saudi nuclear deal to Congress]]></description>
-            <link>https://bdnews24.com/world/americas/3ec3155cb421</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/3ec3155cb421</guid>
-            <pubDate>Wed, 26 Aug 2026 10:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/donald-trump-260826-01-1787719010.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why shipbreaking remains so deadly?]]></title>
-            <description><![CDATA[[Bangladesh] Why shipbreaking remains so deadly?]]></description>
-            <link>https://bdnews24.com/bangladesh/7d110127cb96</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7d110127cb96</guid>
-            <pubDate>Wed, 26 Aug 2026 10:35:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ctg-shipyard-021121-01-1787718858.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
