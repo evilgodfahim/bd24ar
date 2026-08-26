@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 18:31:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 21:23:03 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 18:31:39 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 21:23:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Newcastle land Gonzalez from Man City]]></title>
+            <description><![CDATA[[Sport] Newcastle land Gonzalez from Man City]]></description>
+            <link>https://bdnews24.com/sport/edc5a37da271</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/edc5a37da271</guid>
+            <pubDate>Thu, 27 Aug 2026 02:21:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/nico-gonzalez-270826-02-1787775618.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Savar-Ashulia factories reel as energy squeeze bites]]></title>
+            <description><![CDATA[[Business] Savar-Ashulia factories reel as energy squeeze bites]]></description>
+            <link>https://bdnews24.com/business/ae1ea000633f</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/ae1ea000633f</guid>
+            <pubDate>Thu, 27 Aug 2026 01:33:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/garment-factory-101120-01-1779807069.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What caused the catastrophic Nepal-Tibet border flood?]]></title>
+            <description><![CDATA[[Neighbours] What caused the catastrophic Nepal-Tibet border flood?]]></description>
+            <link>https://bdnews24.com/neighbours/d3618641a13a</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/d3618641a13a</guid>
+            <pubDate>Thu, 27 Aug 2026 00:54:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/nepal-floods-270826-02-1787772494.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[How to wake up without an alarm]]></title>
             <description><![CDATA[[Health] How to wake up without an alarm]]></description>
@@ -129,12 +153,12 @@
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/rohingya-26082026-1787755532.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Nepal-Tibet flash floods kill 95, hundreds still missing]]></title>
-            <description><![CDATA[[South Asia] Nepal-Tibet flash floods kill 95, hundreds still missing]]></description>
+            <title><![CDATA[Scores dead, hundreds missing as Nepal-Tibet border is swept away]]></title>
+            <description><![CDATA[[South Asia] Scores dead, hundreds missing as Nepal-Tibet border is swept away]]></description>
             <link>https://bdnews24.com/world/south-asia/8973b4917ccd</link>
             <guid isPermaLink="true">https://bdnews24.com/world/south-asia/8973b4917ccd</guid>
             <pubDate>Wed, 26 Aug 2026 20:35:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/nepal-flood-260826-01-1787752262.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/nepal-flood-destruction-270826-01-1787772720.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[West Nile virus kills one in the Netherlands]]></title>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/26e7d0c9c646</guid>
             <pubDate>Wed, 26 Aug 2026 18:56:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/nile-who-260826-01-1787748956.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Airbus workers strike again in Spain]]></title>
-            <description><![CDATA[[World] Airbus workers strike again in Spain]]></description>
-            <link>https://bdnews24.com/world/baafa38e8f47</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/baafa38e8f47</guid>
-            <pubDate>Wed, 26 Aug 2026 18:24:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/airbus-spain-260826-01-1787746970.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man City sign Morocco midfielder Bouaddi]]></title>
-            <description><![CDATA[[Sport] Man City sign Morocco midfielder Bouaddi]]></description>
-            <link>https://bdnews24.com/sport/2574f33b892b</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/2574f33b892b</guid>
-            <pubDate>Wed, 26 Aug 2026 18:04:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ayyoub-bouaddi-260826-01-1787745828.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Zuckerberg's plan to replace staff with AI implodes]]></title>
-            <description><![CDATA[[Technology] Zuckerberg's plan to replace staff with AI implodes]]></description>
-            <link>https://bdnews24.com/technology/06c209dcb0b5</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/06c209dcb0b5</guid>
-            <pubDate>Wed, 26 Aug 2026 17:40:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/meta-mark-260826-01-1787744348.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
