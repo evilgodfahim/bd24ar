@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 02:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 03:42:09 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 02:16:22 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 03:42:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iraq may show how US can squeeze Iran's trade partners]]></title>
+            <description><![CDATA[[West Asia] Iraq may show how US can squeeze Iran's trade partners]]></description>
+            <link>https://bdnews24.com/world/middle-east/8e232497f021</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/8e232497f021</guid>
+            <pubDate>Wed, 26 Aug 2026 09:35:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-embassy-iraq-260826-01-1787715265.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[China prepares for back-to-back storms]]></title>
+            <description><![CDATA[[Asia Pacific] China prepares for back-to-back storms]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/526aa7f1fe6c</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/526aa7f1fe6c</guid>
+            <pubDate>Wed, 26 Aug 2026 09:29:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/china-back-to-back-storms-260826-01-1787714887.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[4 killed in Caribbean vessel strike: US]]></title>
+            <description><![CDATA[[Americas] 4 killed in Caribbean vessel strike: US]]></description>
+            <link>https://bdnews24.com/world/americas/0c8bf7aba6b5</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/0c8bf7aba6b5</guid>
+            <pubDate>Wed, 26 Aug 2026 09:28:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026February/SM/us-kills-11-in-strikes-17022026-01-1771347880.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[EC aims to wrap up local polls prep in October]]></title>
+            <description><![CDATA[[Bangladesh] EC aims to wrap up local polls prep in October]]></description>
+            <link>https://bdnews24.com/bangladesh/62a7ee30d015</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/62a7ee30d015</guid>
+            <pubDate>Wed, 26 Aug 2026 09:15:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024May/SM/upazila-elections-080524-002-1716256275.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran, Oman discuss temporary Hormuz corridor]]></title>
+            <description><![CDATA[[West Asia] Iran, Oman discuss temporary Hormuz corridor]]></description>
+            <link>https://bdnews24.com/world/middle-east/528eb6a9cb48</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/528eb6a9cb48</guid>
+            <pubDate>Wed, 26 Aug 2026 09:06:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/iran-oman-260826-01-1787713523.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese firm bids to run Dhaka airport’s third terminal]]></title>
+            <description><![CDATA[[Aviation] Japanese firm bids to run Dhaka airport’s third terminal]]></description>
+            <link>https://bdnews24.com/aviation/77fcf507023f</link>
+            <guid isPermaLink="true">https://bdnews24.com/aviation/77fcf507023f</guid>
+            <pubDate>Wed, 26 Aug 2026 08:54:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/third-terminal-japan-2600826-1787712829.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Gas crisis forces 600 textile factories to halt production: BTMA]]></title>
             <description><![CDATA[[Business] Gas crisis forces 600 textile factories to halt production: BTMA]]></description>
@@ -17,8 +65,8 @@
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/garment-machines-rmg-mzo-1000-1787683623.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[At Gazi Tyres, 182 vanishes. Now families seek closure]]></title>
-            <description><![CDATA[[Bangladesh] At Gazi Tyres, 182 vanishes. Now families seek closure]]></description>
+            <title><![CDATA[At Gazi Tyres, 182 vanished. Now families seek closure]]></title>
+            <description><![CDATA[[Bangladesh] At Gazi Tyres, 182 vanished. Now families seek closure]]></description>
             <link>https://bdnews24.com/bangladesh/bb4288229b26</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/bb4288229b26</guid>
             <pubDate>Wed, 26 Aug 2026 01:40:00 GMT</pubDate>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/8a170623bc01</guid>
             <pubDate>Tue, 25 Aug 2026 22:21:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026April/SM/tib-briefing-6426-1775465808.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Humaiun Kobir’s citizenship status fully legal: minister]]></title>
-            <description><![CDATA[[Bangladesh] Humaiun Kobir’s citizenship status fully legal: minister]]></description>
-            <link>https://bdnews24.com/bangladesh/3dd116fab02b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3dd116fab02b</guid>
-            <pubDate>Tue, 25 Aug 2026 21:46:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/md-asaduzzaman-250826-01-1787669043.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nigerian president acts on mass kidnapping]]></title>
-            <description><![CDATA[[World] Nigerian president acts on mass kidnapping]]></description>
-            <link>https://bdnews24.com/world/52a5093e3161</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/52a5093e3161</guid>
-            <pubDate>Tue, 25 Aug 2026 21:43:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/nigeria-president-250826-01-1787672482.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rogers promises more after scoring on Chelsea debut]]></title>
-            <description><![CDATA[[Sport] Rogers promises more after scoring on Chelsea debut]]></description>
-            <link>https://bdnews24.com/sport/e8c55c1679ec</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/e8c55c1679ec</guid>
-            <pubDate>Tue, 25 Aug 2026 21:27:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/morgan-rogers-250826-01-1787671577.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ershad’s ex-wife Bidisha arrested in fraud case]]></title>
-            <description><![CDATA[[Bangladesh] Ershad’s ex-wife Bidisha arrested in fraud case]]></description>
-            <link>https://bdnews24.com/bangladesh/100b1cbadc75</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/100b1cbadc75</guid>
-            <pubDate>Tue, 25 Aug 2026 21:17:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/bidisha-ershad-200526-01-1779263232.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh, S Korea sign $13mn AI hub deal]]></title>
-            <description><![CDATA[[Campus] Bangladesh, S Korea sign $13mn AI hub deal]]></description>
-            <link>https://bdnews24.com/campus/65d022906ada</link>
-            <guid isPermaLink="true">https://bdnews24.com/campus/65d022906ada</guid>
-            <pubDate>Tue, 25 Aug 2026 21:10:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/koica-sk-250826-01-1787670488.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tottenham sign winger Savinho from City]]></title>
-            <description><![CDATA[[Sport] Tottenham sign winger Savinho from City]]></description>
-            <link>https://bdnews24.com/sport/7eda954a6cec</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/7eda954a6cec</guid>
-            <pubDate>Tue, 25 Aug 2026 20:50:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/winger-savinho-250826-01-1787669291.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
