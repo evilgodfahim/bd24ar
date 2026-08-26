@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 12:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 13:43:14 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 12:23:05 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 13:43:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[West Nile virus kills one in the Netherlands]]></title>
+            <description><![CDATA[[World] West Nile virus kills one in the Netherlands]]></description>
+            <link>https://bdnews24.com/world/26e7d0c9c646</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/26e7d0c9c646</guid>
+            <pubDate>Wed, 26 Aug 2026 18:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/nile-who-260826-01-1787748956.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Airbus workers strike again in Spain]]></title>
+            <description><![CDATA[[World] Airbus workers strike again in Spain]]></description>
+            <link>https://bdnews24.com/world/baafa38e8f47</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/baafa38e8f47</guid>
+            <pubDate>Wed, 26 Aug 2026 18:24:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/airbus-spain-260826-01-1787746970.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Man City sign Morocco midfielder Bouaddi]]></title>
             <description><![CDATA[[Sport] Man City sign Morocco midfielder Bouaddi]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/8e32c596f4e9</guid>
             <pubDate>Wed, 26 Aug 2026 15:05:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/messi-neymar-030324-01-1787735095.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Biman passenger dies after falling ill mid-flight]]></title>
-            <description><![CDATA[[Bangladesh] Biman passenger dies after falling ill mid-flight]]></description>
-            <link>https://bdnews24.com/bangladesh/dd3d9afb7502</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/dd3d9afb7502</guid>
-            <pubDate>Wed, 26 Aug 2026 14:27:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2025January/SM/biman-bangladesh-airlines-boeing-787-er-s2-ahm-021019-001-1737928256.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rain likely across Bangladesh for five more days]]></title>
-            <description><![CDATA[[Bangladesh] Rain likely across Bangladesh for five more days]]></description>
-            <link>https://bdnews24.com/bangladesh/f484269674d0</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f484269674d0</guid>
-            <pubDate>Wed, 26 Aug 2026 14:09:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/rain-1000-1777366021.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
