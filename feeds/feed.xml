@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 08:27:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 09:28:00 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 08:27:01 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 09:28:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Salahuddin vows ‘people-friendly' police force]]></title>
+            <description><![CDATA[[Bangladesh] Salahuddin vows ‘people-friendly' police force]]></description>
+            <link>https://bdnews24.com/bangladesh/388f911bfd04</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/388f911bfd04</guid>
+            <pubDate>Wed, 26 Aug 2026 15:08:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/salahuddin-ahmon-home-minter-260726-01-1785051513.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Neymar-Messi reunion could turn MLS into ‘circus’: Rossi]]></title>
+            <description><![CDATA[[Sport] Neymar-Messi reunion could turn MLS into ‘circus’: Rossi]]></description>
+            <link>https://bdnews24.com/sport/8e32c596f4e9</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/8e32c596f4e9</guid>
+            <pubDate>Wed, 26 Aug 2026 15:05:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/messi-neymar-030324-01-1787735095.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Biman passenger dies after falling ill mid-flight]]></title>
+            <description><![CDATA[[Bangladesh] Biman passenger dies after falling ill mid-flight]]></description>
+            <link>https://bdnews24.com/bangladesh/dd3d9afb7502</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/dd3d9afb7502</guid>
+            <pubDate>Wed, 26 Aug 2026 14:27:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2025January/SM/biman-bangladesh-airlines-boeing-787-er-s2-ahm-021019-001-1737928256.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Rain likely across Bangladesh for five more days]]></title>
             <description><![CDATA[[Bangladesh] Rain likely across Bangladesh for five more days]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/europe/796e80befdfb</guid>
             <pubDate>Wed, 26 Aug 2026 11:47:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/russia-amur-260826-1787723159.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mamdani opposes NYC event featuring RSS chief]]></title>
-            <description><![CDATA[[World] Mamdani opposes NYC event featuring RSS chief]]></description>
-            <link>https://bdnews24.com/world/8da6b096ebc6</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/8da6b096ebc6</guid>
-            <pubDate>Wed, 26 Aug 2026 11:40:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/rsschief-260826-1787722754.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Investment Bangladesh chief Ashik gets state minister status]]></title>
-            <description><![CDATA[[Business] Investment Bangladesh chief Ashik gets state minister status]]></description>
-            <link>https://bdnews24.com/business/e8129b6cbf51</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/e8129b6cbf51</guid>
-            <pubDate>Wed, 26 Aug 2026 11:25:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/ashiq-chowdhury-260826-01-1787721536.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arsenal dominate PFA best XI]]></title>
-            <description><![CDATA[[Sport] Arsenal dominate PFA best XI]]></description>
-            <link>https://bdnews24.com/sport/7276e178d356</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/7276e178d356</guid>
-            <pubDate>Wed, 26 Aug 2026 11:20:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/arsenal-community-shield-15082026-01-1786731081.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
