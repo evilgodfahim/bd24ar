@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 16:07:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 18:31:39 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 16:07:29 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 18:31:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How to wake up without an alarm]]></title>
+            <description><![CDATA[[Health] How to wake up without an alarm]]></description>
+            <link>https://bdnews24.com/health/309aa9f26772</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/309aa9f26772</guid>
+            <pubDate>Thu, 27 Aug 2026 00:04:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/sleeping-140526-1778759676.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rocky Horror star Tim Curry dead at 80]]></title>
+            <description><![CDATA[[Entertainment] Rocky Horror star Tim Curry dead at 80]]></description>
+            <link>https://bdnews24.com/entertainment/ec86741e21a3</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/ec86741e21a3</guid>
+            <pubDate>Wed, 26 Aug 2026 23:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/tim-curry-260826-01-1787766286.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Apple to launch new iPhone Sept 9]]></title>
+            <description><![CDATA[[Technology] Apple to launch new iPhone Sept 9]]></description>
+            <link>https://bdnews24.com/technology/a3d936597916</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/a3d936597916</guid>
+            <pubDate>Wed, 26 Aug 2026 23:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/new-iphone-26082026-01-1787765409.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Glacier collapse blamed for Nepal flood]]></title>
+            <description><![CDATA[[World] Glacier collapse blamed for Nepal flood]]></description>
+            <link>https://bdnews24.com/world/db02f56941aa</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/db02f56941aa</guid>
+            <pubDate>Wed, 26 Aug 2026 23:23:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/glacier-nepal-260826-01-1787764939.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump: 'Time to teach Canada you can't do this anymore']]></title>
+            <description><![CDATA[[Business] Trump: 'Time to teach Canada you can't do this anymore']]></description>
+            <link>https://bdnews24.com/business/ab881d6d9c3b</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/ab881d6d9c3b</guid>
+            <pubDate>Wed, 26 Aug 2026 23:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/trump-canada-26082026-01-1787763967.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US: Chinese hackers hit US agencies, NASA, Fed]]></title>
+            <description><![CDATA[[World] US: Chinese hackers hit US agencies, NASA, Fed]]></description>
+            <link>https://bdnews24.com/world/e43e8a54d50f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/e43e8a54d50f</guid>
+            <pubDate>Wed, 26 Aug 2026 22:44:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/china-us-200826-01-1787762653.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mango tree saves Nepali man from flash floods]]></title>
+            <description><![CDATA[[World] Mango tree saves Nepali man from flash floods]]></description>
+            <link>https://bdnews24.com/world/3869a4d77638</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/3869a4d77638</guid>
+            <pubDate>Wed, 26 Aug 2026 22:14:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/nepal-survive-26082026-01-1787760749.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[India close in on Sri Lanka win]]></title>
             <description><![CDATA[[Sport] India close in on Sri Lanka win]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/technology/06c209dcb0b5</guid>
             <pubDate>Wed, 26 Aug 2026 17:40:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/meta-mark-260826-01-1787744348.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dengue hospitalisations surge past 16,000 in August]]></title>
-            <description><![CDATA[[Health] Dengue hospitalisations surge past 16,000 in August]]></description>
-            <link>https://bdnews24.com/health/58a8345143e1</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/58a8345143e1</guid>
-            <pubDate>Wed, 26 Aug 2026 17:32:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024September/SM/dengue-mugda-medical-college-hospital-180924-020-1726659090.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BSTI orders recall of Bombay Sweets spices, Baghabari Ghee]]></title>
-            <description><![CDATA[[Bangladesh] BSTI orders recall of Bombay Sweets spices, Baghabari Ghee]]></description>
-            <link>https://bdnews24.com/bangladesh/923d76e1dd14</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/923d76e1dd14</guid>
-            <pubDate>Wed, 26 Aug 2026 17:27:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/bombay-sweets-bsti-260826-1787743586.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[7 more die with measles symptoms as toll tops 850]]></title>
-            <description><![CDATA[[Health] 7 more die with measles symptoms as toll tops 850]]></description>
-            <link>https://bdnews24.com/health/a9d6dd1e1932</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/a9d6dd1e1932</guid>
-            <pubDate>Wed, 26 Aug 2026 17:23:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/measles-patient-280426-008-1777390083.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran blacklists Indian, Pakistani ships over Hormuz rules]]></title>
-            <description><![CDATA[[West Asia] Iran blacklists Indian, Pakistani ships over Hormuz rules]]></description>
-            <link>https://bdnews24.com/world/middle-east/f5d4d3fcb303</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/f5d4d3fcb303</guid>
-            <pubDate>Wed, 26 Aug 2026 17:14:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/iran-blacklists-ships-hormuz-26082026-01-1787742794.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[5 die in airstrikes on Myanmar school]]></title>
-            <description><![CDATA[[Neighbours] 5 die in airstrikes on Myanmar school]]></description>
-            <link>https://bdnews24.com/neighbours/7af93199f94b</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/7af93199f94b</guid>
-            <pubDate>Wed, 26 Aug 2026 17:10:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/rohingya-refugees-300726-01-1785390683.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tate brothers rented supercars to project image of wealth: lawyers]]></title>
-            <description><![CDATA[[Entertainment] Tate brothers rented supercars to project image of wealth: lawyers]]></description>
-            <link>https://bdnews24.com/entertainment/bdc11987703b</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/bdc11987703b</guid>
-            <pubDate>Wed, 26 Aug 2026 17:06:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/tate-brothers-supercars-26082026-01-1787742258.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[105 Indians missing in Nepal flood]]></title>
-            <description><![CDATA[[Neighbours] 105 Indians missing in Nepal flood]]></description>
-            <link>https://bdnews24.com/neighbours/d2920692363b</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/d2920692363b</guid>
-            <pubDate>Wed, 26 Aug 2026 16:58:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/neapl-flash-floods-260826-1787741833.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
