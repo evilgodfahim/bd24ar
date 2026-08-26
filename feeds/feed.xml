@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News]]></title>
-        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
+        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 04:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 05:22:18 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 04:27:41 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 05:22:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Man Utd’s Fernandes wins PFA Player of the Year]]></title>
-            <description><![CDATA[[Sport] Man Utd’s Fernandes wins PFA Player of the Year]]></description>
-            <link>https://bdnews24.com/sport/a07a4ba8c75d</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/a07a4ba8c75d</guid>
-            <pubDate>Wed, 26 Aug 2026 10:21:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/bruno-fernandes-260826-1787718033.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bhutan king meets Bangladesh president in Dhaka]]></title>
-            <description><![CDATA[[Bangladesh] Bhutan king meets Bangladesh president in Dhaka]]></description>
-            <link>https://bdnews24.com/bangladesh/a96ce9774d2f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a96ce9774d2f</guid>
-            <pubDate>Wed, 26 Aug 2026 10:16:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/jigme-khesar-namgyel-wangchuck-260826-01-1787716293.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Meta, US states discuss settling teen social media harm case: report]]></title>
-            <description><![CDATA[[social media] Meta, US states discuss settling teen social media harm case: report]]></description>
-            <link>https://bdnews24.com/socialmedia/dc059a5a6816</link>
-            <guid isPermaLink="true">https://bdnews24.com/socialmedia/dc059a5a6816</guid>
-            <pubDate>Wed, 26 Aug 2026 10:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026June/SM/meta-logo-030626-01-1780498950.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US spy chief visits Russia for meetings: media]]></title>
-            <description><![CDATA[[World] US spy chief visits Russia for meetings: media]]></description>
-            <link>https://bdnews24.com/world/ca95c097b101</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/ca95c097b101</guid>
-            <pubDate>Wed, 26 Aug 2026 09:59:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-russia-cia-260826-01-1787716724.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US puts visa appointments on hold worldwide]]></title>
-            <description><![CDATA[[Americas] US puts visa appointments on hold worldwide]]></description>
-            <link>https://bdnews24.com/world/americas/61c7cd44b940</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/61c7cd44b940</guid>
-            <pubDate>Wed, 26 Aug 2026 09:58:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-visa-application-1787716667.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[NBR strains to collect Tk 6tn in revenue]]></title>
-            <description><![CDATA[[Economy] NBR strains to collect Tk 6tn in revenue]]></description>
-            <link>https://bdnews24.com/economy/26c998a668a7</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/26c998a668a7</guid>
-            <pubDate>Wed, 26 Aug 2026 09:57:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/national-board-of-revenue-250826-01-1787680417.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Reactions to the death of Dolly Parton]]></title>
-            <description><![CDATA[[Music] Reactions to the death of Dolly Parton]]></description>
-            <link>https://bdnews24.com/music/5ca2a9be6383</link>
-            <guid isPermaLink="true">https://bdnews24.com/music/5ca2a9be6383</guid>
-            <pubDate>Wed, 26 Aug 2026 09:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/dolly-parton-death-reactions-260826-01-1787716336.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Asian stocks hesitant before Nvidia earnings]]></title>
-            <description><![CDATA[[Business] Asian stocks hesitant before Nvidia earnings]]></description>
-            <link>https://bdnews24.com/business/c59027995db5</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/c59027995db5</guid>
-            <pubDate>Wed, 26 Aug 2026 09:50:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/asia-stocks-hesitancy-260826-01-1787716125.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Darline Graham wins GOP runoff in boost for Trump]]></title>
-            <description><![CDATA[[Americas] Darline Graham wins GOP runoff in boost for Trump]]></description>
-            <link>https://bdnews24.com/world/americas/9013aefc0ca2</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/9013aefc0ca2</guid>
-            <pubDate>Wed, 26 Aug 2026 09:46:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/darline-senate-2600826-01-1787715954.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iraq may show how US can squeeze Iran's trade partners]]></title>
-            <description><![CDATA[[West Asia] Iraq may show how US can squeeze Iran's trade partners]]></description>
-            <link>https://bdnews24.com/world/middle-east/8e232497f021</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/8e232497f021</guid>
-            <pubDate>Wed, 26 Aug 2026 09:35:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/us-embassy-iraq-260826-01-1787715265.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[China prepares for back-to-back storms]]></title>
-            <description><![CDATA[[Asia Pacific] China prepares for back-to-back storms]]></description>
-            <link>https://bdnews24.com/world/asia-pacific/526aa7f1fe6c</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/526aa7f1fe6c</guid>
-            <pubDate>Wed, 26 Aug 2026 09:29:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/china-back-to-back-storms-260826-01-1787714887.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4 killed in Caribbean vessel strike: US]]></title>
-            <description><![CDATA[[Americas] 4 killed in Caribbean vessel strike: US]]></description>
-            <link>https://bdnews24.com/world/americas/0c8bf7aba6b5</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/0c8bf7aba6b5</guid>
-            <pubDate>Wed, 26 Aug 2026 09:28:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026February/SM/us-kills-11-in-strikes-17022026-01-1771347880.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[EC aims to wrap up local polls prep in October]]></title>
-            <description><![CDATA[[Bangladesh] EC aims to wrap up local polls prep in October]]></description>
-            <link>https://bdnews24.com/bangladesh/62a7ee30d015</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/62a7ee30d015</guid>
-            <pubDate>Wed, 26 Aug 2026 09:15:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024May/SM/upazila-elections-080524-002-1716256275.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran, Oman discuss temporary Hormuz corridor]]></title>
-            <description><![CDATA[[West Asia] Iran, Oman discuss temporary Hormuz corridor]]></description>
-            <link>https://bdnews24.com/world/middle-east/528eb6a9cb48</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/528eb6a9cb48</guid>
-            <pubDate>Wed, 26 Aug 2026 09:06:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/iran-oman-260826-01-1787713523.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japanese firm bids to run Dhaka airport’s third terminal]]></title>
-            <description><![CDATA[[Aviation] Japanese firm bids to run Dhaka airport’s third terminal]]></description>
-            <link>https://bdnews24.com/aviation/77fcf507023f</link>
-            <guid isPermaLink="true">https://bdnews24.com/aviation/77fcf507023f</guid>
-            <pubDate>Wed, 26 Aug 2026 08:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/third-terminal-japan-2600826-1787712829.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gas crisis forces 600 textile factories to halt production: BTMA]]></title>
-            <description><![CDATA[[Business] Gas crisis forces 600 textile factories to halt production: BTMA]]></description>
-            <link>https://bdnews24.com/business/44a464a96a39</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/44a464a96a39</guid>
-            <pubDate>Wed, 26 Aug 2026 01:42:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/garment-machines-rmg-mzo-1000-1787683623.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[At Gazi Tyres, 182 vanished. Now families seek closure]]></title>
-            <description><![CDATA[[Bangladesh] At Gazi Tyres, 182 vanished. Now families seek closure]]></description>
-            <link>https://bdnews24.com/bangladesh/bb4288229b26</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/bb4288229b26</guid>
-            <pubDate>Wed, 26 Aug 2026 01:40:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/nrayangonj-gazi-tyre-250826-01-1787686393.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s Iran gamble ‘laid bare’]]></title>
-            <description><![CDATA[[West Asia] Trump’s Iran gamble ‘laid bare’]]></description>
-            <link>https://bdnews24.com/world/middle-east/1e686b9e5277</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/1e686b9e5277</guid>
-            <pubDate>Wed, 26 Aug 2026 01:21:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/trump-gamble-26082026-01-1787685641.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dolly Parton dies at 80]]></title>
-            <description><![CDATA[[Entertainment] Dolly Parton dies at 80]]></description>
-            <link>https://bdnews24.com/entertainment/34dc04c9fb56</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/34dc04c9fb56</guid>
-            <pubDate>Wed, 26 Aug 2026 00:55:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/dolly-26082026-01-1787684090.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX to build rocket complex in Louisiana]]></title>
-            <description><![CDATA[[Technology] SpaceX to build rocket complex in Louisiana]]></description>
-            <link>https://bdnews24.com/technology/f8e162b422ce</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/f8e162b422ce</guid>
-            <pubDate>Wed, 26 Aug 2026 00:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/spacex-25082026-01-1787683163.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
+            <link>https://bdnews24.com</link>
+            <guid isPermaLink="true">https://bdnews24.com</guid>
+            <pubDate>Wed, 26 Aug 2026 05:22:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
