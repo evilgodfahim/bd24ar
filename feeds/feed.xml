@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – Latest News]]></title>
+        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 28 Aug 2026 07:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2026 19:40:46 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 28 Aug 2026 07:18:24 GMT</pubDate>
+        <pubDate>Fri, 28 Aug 2026 19:40:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
-            <link>https://bdnews24.com</link>
-            <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Fri, 28 Aug 2026 07:18:24 GMT</pubDate>
+            <title><![CDATA[India ‘closely’ following Bangladesh response on Makkah pact]]></title>
+            <description><![CDATA[[Bangladesh] India ‘closely’ following Bangladesh response on Makkah pact]]></description>
+            <link>https://bdnews24.com/bangladesh/875cb9f13377</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/875cb9f13377</guid>
+            <pubDate>Sat, 29 Aug 2026 01:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/randhir-jaiswal-280826-01-1787943741.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mauritius diplomat becomes OIC secretary-general]]></title>
+            <description><![CDATA[[World] Mauritius diplomat becomes OIC secretary-general]]></description>
+            <link>https://bdnews24.com/world/ab37df9b31e1</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/ab37df9b31e1</guid>
+            <pubDate>Sat, 29 Aug 2026 00:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/oic-secretary-general-290826-01-1787942882.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[England bowl out Pakistan for 110 to seize Lord's Test]]></title>
+            <description><![CDATA[[Cricket] England bowl out Pakistan for 110 to seize Lord's Test]]></description>
+            <link>https://bdnews24.com/cricket/b03f48944fe6</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/b03f48944fe6</guid>
+            <pubDate>Sat, 29 Aug 2026 00:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/engalnd-290826-01-1787941831.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thousands march in Washington over voting, civil rights]]></title>
+            <description><![CDATA[[World] Thousands march in Washington over voting, civil rights]]></description>
+            <link>https://bdnews24.com/world/be7661acbf9f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/be7661acbf9f</guid>
+            <pubDate>Sat, 29 Aug 2026 00:43:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/washington-march-29082026-01-1787942569.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brentford sign Diouf from West Ham]]></title>
+            <description><![CDATA[[Sport] Brentford sign Diouf from West Ham]]></description>
+            <link>https://bdnews24.com/sport/6a701f4cde0c</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/6a701f4cde0c</guid>
+            <pubDate>Sat, 29 Aug 2026 00:41:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/brentford-diouf-28082026-01-1787942447.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flood toll nears 600, Nepal and China resume rescue efforts]]></title>
+            <description><![CDATA[[Neighbours] Flood toll nears 600, Nepal and China resume rescue efforts]]></description>
+            <link>https://bdnews24.com/neighbours/59e434d58138</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/59e434d58138</guid>
+            <pubDate>Sat, 29 Aug 2026 00:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/tibet-flood-landslide-290826-01-1787942314.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Baleba out with ankle injury: Carrick]]></title>
+            <description><![CDATA[[Sport] Baleba out with ankle injury: Carrick]]></description>
+            <link>https://bdnews24.com/sport/d1e1e5f0129c</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/d1e1e5f0129c</guid>
+            <pubDate>Sat, 29 Aug 2026 00:33:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/baleba-injury-28082026-01-1787941713.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bogura small factories engineer a cleaner future]]></title>
+            <description><![CDATA[[Bangladesh] Bogura small factories engineer a cleaner future]]></description>
+            <link>https://bdnews24.com/bangladesh/e3e234c60bd7</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e3e234c60bd7</guid>
+            <pubDate>Sat, 29 Aug 2026 00:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/light-engineering-bogura-260826-01-1787940421.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[6 consequences after 6 months of Iran war]]></title>
+            <description><![CDATA[[West Asia] 6 consequences after 6 months of Iran war]]></description>
+            <link>https://bdnews24.com/world/middle-east/be95e3dc6c50</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/be95e3dc6c50</guid>
+            <pubDate>Fri, 28 Aug 2026 23:58:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/iran-flag-280826-01-1787927170.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[De Zerbi given tools to dream]]></title>
+            <description><![CDATA[[Sport] De Zerbi given tools to dream]]></description>
+            <link>https://bdnews24.com/sport/40c3f81ac594</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/40c3f81ac594</guid>
+            <pubDate>Fri, 28 Aug 2026 23:55:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/dezerbi-28082026-01-1787939674.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Shein had to make peace with China to go public]]></title>
+            <description><![CDATA[[Business] How Shein had to make peace with China to go public]]></description>
+            <link>https://bdnews24.com/business/aed65ee4c25d</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/aed65ee4c25d</guid>
+            <pubDate>Fri, 28 Aug 2026 23:36:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/shein-28082026-01-1787938560.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US seeks to restrict internships for international students]]></title>
+            <description><![CDATA[[Americas] US seeks to restrict internships for international students]]></description>
+            <link>https://bdnews24.com/world/americas/2533ae6e171f</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/2533ae6e171f</guid>
+            <pubDate>Fri, 28 Aug 2026 23:23:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/trump-280826-1787937725.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Preacher Farooqi murder trial remains out of reach]]></title>
+            <description><![CDATA[[Bangladesh] Preacher Farooqi murder trial remains out of reach]]></description>
+            <link>https://bdnews24.com/bangladesh/692215c9eb9b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/692215c9eb9b</guid>
+            <pubDate>Fri, 28 Aug 2026 23:20:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/nurul-islam-farooqi-1787937436.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rangpur murders: ‘Joy Bangla’ slogan sparks quarrel at protest]]></title>
+            <description><![CDATA[[Bangladesh] Rangpur murders: ‘Joy Bangla’ slogan sparks quarrel at protest]]></description>
+            <link>https://bdnews24.com/bangladesh/f4f6b773681b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f4f6b773681b</guid>
+            <pubDate>Fri, 28 Aug 2026 23:04:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/dhanmondi-gonopoti-murder-protest-280826-01-1787933507.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flour, oil, sugar add to grocery woes]]></title>
+            <description><![CDATA[[Business] Flour, oil, sugar add to grocery woes]]></description>
+            <link>https://bdnews24.com/business/f016b1fa9fdb</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/f016b1fa9fdb</guid>
+            <pubDate>Fri, 28 Aug 2026 22:34:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/sugar-kawran-bazar-041122-01-1781170246.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Malaysia clears 312 recruiting agencies]]></title>
+            <description><![CDATA[[Bangladesh] Malaysia clears 312 recruiting agencies]]></description>
+            <link>https://bdnews24.com/bangladesh/a060ef418c52</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a060ef418c52</guid>
+            <pubDate>Fri, 28 Aug 2026 21:16:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/malaysia-150826-01-1786743954.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka celebrates 416th anniversary]]></title>
+            <description><![CDATA[[Image] Dhaka celebrates 416th anniversary]]></description>
+            <link>https://bdnews24.com/media-en/image/0f525976f42b</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/0f525976f42b</guid>
+            <pubDate>Fri, 28 Aug 2026 21:02:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/dhaka-day-procession-280826-08-1787925386.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stench overtakes Hatirjheel Lake]]></title>
+            <description><![CDATA[[Image] Stench overtakes Hatirjheel Lake]]></description>
+            <link>https://bdnews24.com/media-en/image/fc3961abeae6</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/fc3961abeae6</guid>
+            <pubDate>Fri, 28 Aug 2026 20:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/pollution-hatirjheel-lake-280826-100-1787924788.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[August 28, 2026]]></title>
+            <description><![CDATA[[Image] August 28, 2026]]></description>
+            <link>https://bdnews24.com/media-en/image/948920845482</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/image/948920845482</guid>
+            <pubDate>Fri, 28 Aug 2026 20:37:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/protest-280826-002-1787924137.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 cars seized for ‘duty evasion’, owners claim ‘father’s gift’]]></title>
+            <description><![CDATA[[Bangladesh] 3 cars seized for ‘duty evasion’, owners claim ‘father’s gift’]]></description>
+            <link>https://bdnews24.com/bangladesh/0c5aac3da51b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0c5aac3da51b</guid>
+            <pubDate>Fri, 28 Aug 2026 20:30:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/coxs-bazar-customs-280826-01-1787921660.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
