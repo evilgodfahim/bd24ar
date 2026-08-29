@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 29 Aug 2026 17:57:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 20:15:04 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 29 Aug 2026 17:57:32 GMT</pubDate>
+        <pubDate>Sat, 29 Aug 2026 20:15:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[NGO funds flow in as laid-off workers wait]]></title>
+            <description><![CDATA[[Bangladesh] NGO funds flow in as laid-off workers wait]]></description>
+            <link>https://bdnews24.com/bangladesh/547b742658b1</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/547b742658b1</guid>
+            <pubDate>Sun, 30 Aug 2026 01:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ngo-worker-060826-1788032332.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lawrence fifty pushes England towards Pakistan victory]]></title>
+            <description><![CDATA[[Cricket] Lawrence fifty pushes England towards Pakistan victory]]></description>
+            <link>https://bdnews24.com/cricket/365d605c04c2</link>
+            <guid isPermaLink="true">https://bdnews24.com/cricket/365d605c04c2</guid>
+            <pubDate>Sun, 30 Aug 2026 01:13:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/dan-lawrence-290826-01-1788027177.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[250 disappearances to be tried as one crime: ICT]]></title>
+            <description><![CDATA[[Bangladesh] 250 disappearances to be tried as one crime: ICT]]></description>
+            <link>https://bdnews24.com/bangladesh/45ef727cc9ed</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/45ef727cc9ed</guid>
+            <pubDate>Sun, 30 Aug 2026 00:57:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/disappearance-30082026-01-1788029775.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Kaptai dam gates opened to ease water pressure]]></title>
             <description><![CDATA[[Bangladesh] Kaptai dam gates opened to ease water pressure]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/health/4da466976c0f</guid>
             <pubDate>Sat, 29 Aug 2026 21:03:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/stem-cell-therapy-replace-transplant-290826-01-1788015744.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Leao bids emotional farewell to Milan]]></title>
-            <description><![CDATA[[Sport] Leao bids emotional farewell to Milan]]></description>
-            <link>https://bdnews24.com/sport/9cd84c8e389f</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/9cd84c8e389f</guid>
-            <pubDate>Sat, 29 Aug 2026 21:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/leao-milan-29082026-01-1788015652.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shibir backs ‘reform’, not ban, on campus politics]]></title>
-            <description><![CDATA[[Campus] Shibir backs ‘reform’, not ban, on campus politics]]></description>
-            <link>https://bdnews24.com/campus/6cb3e221844d</link>
-            <guid isPermaLink="true">https://bdnews24.com/campus/6cb3e221844d</guid>
-            <pubDate>Sat, 29 Aug 2026 20:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/nurul-islam-saddam-290826-1788009800.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jamaat, BNP supporters clash at Pallabi Bihari camp]]></title>
-            <description><![CDATA[[Bangladesh] Jamaat, BNP supporters clash at Pallabi Bihari camp]]></description>
-            <link>https://bdnews24.com/bangladesh/8522d35b8a24</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8522d35b8a24</guid>
-            <pubDate>Sat, 29 Aug 2026 20:07:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/pallabi-bihari-camp-290826-01-1788010097.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
