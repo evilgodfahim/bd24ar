@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 28 Aug 2026 19:40:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 02:30:56 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 28 Aug 2026 19:40:46 GMT</pubDate>
+        <pubDate>Sat, 29 Aug 2026 02:30:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[9/11 shouldn’t be called ‘terrorist attacks’: CBC]]></title>
+            <description><![CDATA[[Media] 9/11 shouldn’t be called ‘terrorist attacks’: CBC]]></description>
+            <link>https://bdnews24.com/media-en/3439fe402ed4</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/3439fe402ed4</guid>
+            <pubDate>Sat, 29 Aug 2026 02:02:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/import/media/2021/09/11/visitors-110921-02.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[India ‘closely’ following Bangladesh response on Makkah pact]]></title>
             <description><![CDATA[[Bangladesh] India ‘closely’ following Bangladesh response on Makkah pact]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/media-en/image/948920845482</guid>
             <pubDate>Fri, 28 Aug 2026 20:37:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/protest-280826-002-1787924137.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 cars seized for ‘duty evasion’, owners claim ‘father’s gift’]]></title>
-            <description><![CDATA[[Bangladesh] 3 cars seized for ‘duty evasion’, owners claim ‘father’s gift’]]></description>
-            <link>https://bdnews24.com/bangladesh/0c5aac3da51b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0c5aac3da51b</guid>
-            <pubDate>Fri, 28 Aug 2026 20:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/coxs-bazar-customs-280826-01-1787921660.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
