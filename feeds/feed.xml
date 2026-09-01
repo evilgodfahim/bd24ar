@@ -4,10 +4,122 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 01 Sep 2026 17:01:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 20:13:18 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 01 Sep 2026 17:01:21 GMT</pubDate>
+        <pubDate>Tue, 01 Sep 2026 20:13:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Purbachal depot sits empty as buses clog Mohakhali]]></title>
+            <description><![CDATA[[Bangladesh] Purbachal depot sits empty as buses clog Mohakhali]]></description>
+            <link>https://bdnews24.com/bangladesh/ccfba2900305</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ccfba2900305</guid>
+            <pubDate>Wed, 02 Sep 2026 01:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/purbachal-bus-depot-310826-01-1788291078.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is BTV changing its iconic red-green logo?]]></title>
+            <description><![CDATA[[Entertainment] Is BTV changing its iconic red-green logo?]]></description>
+            <link>https://bdnews24.com/entertainment/bcb9703a05a1</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/bcb9703a05a1</guid>
+            <pubDate>Wed, 02 Sep 2026 01:05:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/btv-logo-news-010926-01-1788275810.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[AIUB hosts three-day animation, digital art exhibition]]></title>
+            <description><![CDATA[[Campus] AIUB hosts three-day animation, digital art exhibition]]></description>
+            <link>https://bdnews24.com/campus/b0138986455c</link>
+            <guid isPermaLink="true">https://bdnews24.com/campus/b0138986455c</guid>
+            <pubDate>Wed, 02 Sep 2026 01:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/aiub-020926-1788289227.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Imran Rahman joins IUB as business school dean]]></title>
+            <description><![CDATA[[Campus] Imran Rahman joins IUB as business school dean]]></description>
+            <link>https://bdnews24.com/campus/21a99459a629</link>
+            <guid isPermaLink="true">https://bdnews24.com/campus/21a99459a629</guid>
+            <pubDate>Wed, 02 Sep 2026 00:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/imran-rahman-iub-020926-1788288020.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pakistan crops Modi out of SCO photo]]></title>
+            <description><![CDATA[[Neighbours] Pakistan crops Modi out of SCO photo]]></description>
+            <link>https://bdnews24.com/neighbours/741e237151ed</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/741e237151ed</guid>
+            <pubDate>Wed, 02 Sep 2026 00:37:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/pakistan-pmo-seo-010926-1788287821.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Minister Tuku hospitalised]]></title>
+            <description><![CDATA[[Bangladesh] Minister Tuku hospitalised]]></description>
+            <link>https://bdnews24.com/bangladesh/cc9659329d63</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cc9659329d63</guid>
+            <pubDate>Wed, 02 Sep 2026 00:34:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/iqbal-hasan-mahmud-tuku-010926-01-1788285542.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BNP leader among 650 who join Jamaat]]></title>
+            <description><![CDATA[[Bangladesh] BNP leader among 650 who join Jamaat]]></description>
+            <link>https://bdnews24.com/bangladesh/733f74edf5c8</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/733f74edf5c8</guid>
+            <pubDate>Wed, 02 Sep 2026 00:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/jamayat-islami-new-entry-010926-01-1788282824.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US strikes Iran again near Hormuz]]></title>
+            <description><![CDATA[[West Asia] US strikes Iran again near Hormuz]]></description>
+            <link>https://bdnews24.com/world/middle-east/544cc1a4346a</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/544cc1a4346a</guid>
+            <pubDate>Wed, 02 Sep 2026 00:05:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/iran-010926-1788285847.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[MPs push back against AL complaints at IPU]]></title>
+            <description><![CDATA[[Politics] MPs push back against AL complaints at IPU]]></description>
+            <link>https://bdnews24.com/politics/947b13729480</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/947b13729480</guid>
+            <pubDate>Tue, 01 Sep 2026 23:44:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/nurul-islam-moni-010926-01-1788281337.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sooryavanshi in India squad for Afghanistan T20s]]></title>
+            <description><![CDATA[[Sport] Sooryavanshi in India squad for Afghanistan T20s]]></description>
+            <link>https://bdnews24.com/sport/57ca7d64f9fc</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/57ca7d64f9fc</guid>
+            <pubDate>Tue, 01 Sep 2026 23:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/sooryavanshi-01092026-01-1788284369.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[UN cuts West Bank food aid by half]]></title>
+            <description><![CDATA[[World] UN cuts West Bank food aid by half]]></description>
+            <link>https://bdnews24.com/world/6dbebc7f093d</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/6dbebc7f093d</guid>
+            <pubDate>Tue, 01 Sep 2026 23:37:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/west-bank-aid-01092026-01-1788284208.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Antonio Rudiger calls time on Germany career]]></title>
+            <description><![CDATA[[Sport] Antonio Rudiger calls time on Germany career]]></description>
+            <link>https://bdnews24.com/sport/75f7961aa9f4</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/75f7961aa9f4</guid>
+            <pubDate>Tue, 01 Sep 2026 23:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/antonio-rudiger-010926-01-1788283864.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Himalayas face severe glacial flood risks: UN]]></title>
+            <description><![CDATA[[World] Himalayas face severe glacial flood risks: UN]]></description>
+            <link>https://bdnews24.com/world/1815149b7026</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/1815149b7026</guid>
+            <pubDate>Tue, 01 Sep 2026 23:22:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/himalayas-01092026-01-1788283319.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[IPU chief to report Bangladesh ‘disappearances, abuses’]]></title>
+            <description><![CDATA[[Bangladesh] IPU chief to report Bangladesh ‘disappearances, abuses’]]></description>
+            <link>https://bdnews24.com/bangladesh/d94a328dd862</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d94a328dd862</guid>
+            <pubDate>Tue, 01 Sep 2026 23:19:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/ipu-prasident-meeting-010926-01-1788277579.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Man City agree record deal for Fernandez: report]]></title>
             <description><![CDATA[[Sport] Man City agree record deal for Fernandez: report]]></description>
@@ -55,118 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/73063fc78083</guid>
             <pubDate>Tue, 01 Sep 2026 22:30:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/madaripur-hand-grened-010926-01-1788273507.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Exports rise 13% in August amid gas crisis]]></title>
-            <description><![CDATA[[Economy] Exports rise 13% in August amid gas crisis]]></description>
-            <link>https://bdnews24.com/economy/f30d98bdd6f9</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/f30d98bdd6f9</guid>
-            <pubDate>Tue, 01 Sep 2026 22:29:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024July/SM/chittagong-port-050422-01-1719857833.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jury deadlocked in Lindsay Clancy murder trial]]></title>
-            <description><![CDATA[[World] Jury deadlocked in Lindsay Clancy murder trial]]></description>
-            <link>https://bdnews24.com/world/4a1b7d6c0782</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/4a1b7d6c0782</guid>
-            <pubDate>Tue, 01 Sep 2026 22:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/lindsay-clancy-010926-01-1788278412.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US lifts immigrant visa pause on Bangladesh]]></title>
-            <description><![CDATA[[Bangladesh] US lifts immigrant visa pause on Bangladesh]]></description>
-            <link>https://bdnews24.com/bangladesh/36fe687c47aa</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/36fe687c47aa</guid>
-            <pubDate>Tue, 01 Sep 2026 22:00:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026January/SM/us-state-department-logo-070126-01-1767758865.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Newcastle sign Fernandez-Pardo from Lille]]></title>
-            <description><![CDATA[[Sport] Newcastle sign Fernandez-Pardo from Lille]]></description>
-            <link>https://bdnews24.com/sport/75668730f84f</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/75668730f84f</guid>
-            <pubDate>Tue, 01 Sep 2026 21:57:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/newcastle-fernandez-01092026-01-1788278167.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[TIB urges asset disclosure by govt staff for new pay scale]]></title>
-            <description><![CDATA[[Bangladesh] TIB urges asset disclosure by govt staff for new pay scale]]></description>
-            <link>https://bdnews24.com/bangladesh/91bc57a8f22c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/91bc57a8f22c</guid>
-            <pubDate>Tue, 01 Sep 2026 21:43:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/tib-100-1780586636.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[August sees 22.50% remittance growth]]></title>
-            <description><![CDATA[[Economy] August sees 22.50% remittance growth]]></description>
-            <link>https://bdnews24.com/economy/a85bfb10980a</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/a85bfb10980a</guid>
-            <pubDate>Tue, 01 Sep 2026 21:36:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025June/SM/dollar-remittence-290625-01-1751202760.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sundarbans reopens after 3 months]]></title>
-            <description><![CDATA[[Bangladesh] Sundarbans reopens after 3 months]]></description>
-            <link>https://bdnews24.com/bangladesh/ae9f4ae8f4cc</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ae9f4ae8f4cc</guid>
-            <pubDate>Tue, 01 Sep 2026 21:24:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/satkhira-sundarban-010926-01-1788270730.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4 more luxury cars caught smuggled as ‘used parts’]]></title>
-            <description><![CDATA[[Bangladesh] 4 more luxury cars caught smuggled as ‘used parts’]]></description>
-            <link>https://bdnews24.com/bangladesh/c50e9b546d7a</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c50e9b546d7a</guid>
-            <pubDate>Tue, 01 Sep 2026 21:10:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/chattogram-seized-consignment-010926-02-1788273148.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[174 Bangladeshis return from Libyan detention centre]]></title>
-            <description><![CDATA[[Bangladesh] 174 Bangladeshis return from Libyan detention centre]]></description>
-            <link>https://bdnews24.com/bangladesh/e49a397635d3</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e49a397635d3</guid>
-            <pubDate>Tue, 01 Sep 2026 20:59:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/bangladeshi-back-from-libya-010926-1788270818.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cook hands Apple to Ternus, but AI race looms]]></title>
-            <description><![CDATA[[Technology] Cook hands Apple to Ternus, but AI race looms]]></description>
-            <link>https://bdnews24.com/technology/41fee99431ef</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/41fee99431ef</guid>
-            <pubDate>Tue, 01 Sep 2026 20:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/timcook-johnternus-010926-01-1788273531.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spain's heat blamed for over 2,000 deaths]]></title>
-            <description><![CDATA[[World] Spain's heat blamed for over 2,000 deaths]]></description>
-            <link>https://bdnews24.com/world/cdaf0d65922f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/cdaf0d65922f</guid>
-            <pubDate>Tue, 01 Sep 2026 20:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/spain-heat-010826-01-1788273623.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No turnover tax up to Tk 20mn per annum]]></title>
-            <description><![CDATA[[Economy] No turnover tax up to Tk 20mn per annum]]></description>
-            <link>https://bdnews24.com/economy/b7dc65745108</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/b7dc65745108</guid>
-            <pubDate>Tue, 01 Sep 2026 20:22:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/national-board-of-revenue-250826-03-1787680438.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tulip ‘flat graft’ indictment hearing deferred again]]></title>
-            <description><![CDATA[[Bangladesh] Tulip ‘flat graft’ indictment hearing deferred again]]></description>
-            <link>https://bdnews24.com/bangladesh/e2c1683293c0</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e2c1683293c0</guid>
-            <pubDate>Tue, 01 Sep 2026 20:19:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025July/SM/tulip-siddiq-tax-return-180725-01-1753039066.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[DU female students’ hall entry time extended]]></title>
-            <description><![CDATA[[Campus] DU female students’ hall entry time extended]]></description>
-            <link>https://bdnews24.com/campus/1714e847c826</link>
-            <guid isPermaLink="true">https://bdnews24.com/campus/1714e847c826</guid>
-            <pubDate>Tue, 01 Sep 2026 20:19:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/kuet-maitree-hall-du-09052026-1778330278.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
