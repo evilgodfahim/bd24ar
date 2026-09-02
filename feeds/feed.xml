@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – Latest News]]></title>
+        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 02 Sep 2026 00:38:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 05:10:52 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 02 Sep 2026 00:38:07 GMT</pubDate>
+        <pubDate>Wed, 02 Sep 2026 05:10:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
-            <link>https://bdnews24.com</link>
-            <guid isPermaLink="true">https://bdnews24.com</guid>
-            <pubDate>Wed, 02 Sep 2026 00:38:07 GMT</pubDate>
+            <title><![CDATA[Premier League transfer spending reaches new high]]></title>
+            <description><![CDATA[[Sport] Premier League transfer spending reaches new high]]></description>
+            <link>https://bdnews24.com/sport/1655f5a3f8dc</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/1655f5a3f8dc</guid>
+            <pubDate>Wed, 02 Sep 2026 10:54:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/barcola-tonali-morgan-ndiaye-020926-1788324829.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Your personal data may be for sale: report]]></title>
+            <description><![CDATA[[Technology] Your personal data may be for sale: report]]></description>
+            <link>https://bdnews24.com/technology/11e9b33fd355</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/11e9b33fd355</guid>
+            <pubDate>Wed, 02 Sep 2026 10:49:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/dadasecurity-20926-1788324452.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BofA VP killed in Times Square stabbing]]></title>
+            <description><![CDATA[[Americas] BofA VP killed in Times Square stabbing]]></description>
+            <link>https://bdnews24.com/world/americas/9bdfdbbd8aa2</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/9bdfdbbd8aa2</guid>
+            <pubDate>Wed, 02 Sep 2026 10:37:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/ny-times-square-killing-020926-01-1788323791.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Apple changes Lake Ontario to ‘Lake America’ on Maps]]></title>
+            <description><![CDATA[[Technology] Apple changes Lake Ontario to ‘Lake America’ on Maps]]></description>
+            <link>https://bdnews24.com/technology/29953a9d2f03</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/29953a9d2f03</guid>
+            <pubDate>Wed, 02 Sep 2026 10:35:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/lake-ontario-020926-01-1788323707.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bond selloff deepens as inflation, oil prices jolt markets]]></title>
+            <description><![CDATA[[Business] Bond selloff deepens as inflation, oil prices jolt markets]]></description>
+            <link>https://bdnews24.com/business/e30cbe94c3c0</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/e30cbe94c3c0</guid>
+            <pubDate>Wed, 02 Sep 2026 10:34:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/bonds-inflation-oil-020926-01-1788323664.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hormuz traffic stays below 10-day average]]></title>
+            <description><![CDATA[[World] Hormuz traffic stays below 10-day average]]></description>
+            <link>https://bdnews24.com/world/201960b1d5f1</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/201960b1d5f1</guid>
+            <pubDate>Wed, 02 Sep 2026 10:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/hormuz-shipping-traffic-020926-01-1788323511.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Defendant pleads not guilty of Charlie Kirk murder]]></title>
+            <description><![CDATA[[Americas] Defendant pleads not guilty of Charlie Kirk murder]]></description>
+            <link>https://bdnews24.com/world/americas/d82271c61234</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/d82271c61234</guid>
+            <pubDate>Wed, 02 Sep 2026 10:16:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/charlie-kirk-murder-case-020926-01-1788322572.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[UN faces contentious Iran nuclear vote]]></title>
+            <description><![CDATA[[World] UN faces contentious Iran nuclear vote]]></description>
+            <link>https://bdnews24.com/world/9d9a822c6068</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/9d9a822c6068</guid>
+            <pubDate>Wed, 02 Sep 2026 10:13:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/iran-missiles-170726-01-1784262582.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russia sees ‘no grounds’ for resuming Black Sea grain deal]]></title>
+            <description><![CDATA[[Europe] Russia sees ‘no grounds’ for resuming Black Sea grain deal]]></description>
+            <link>https://bdnews24.com/world/europe/d3fb361dfa9d</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/d3fb361dfa9d</guid>
+            <pubDate>Wed, 02 Sep 2026 10:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/ukraine-farmers-130826-01-1786614244.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man City sign Fernandez from Chelsea]]></title>
+            <description><![CDATA[[Sport] Man City sign Fernandez from Chelsea]]></description>
+            <link>https://bdnews24.com/sport/cdef8538e10c</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/cdef8538e10c</guid>
+            <pubDate>Wed, 02 Sep 2026 10:04:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/enzo-020926-1788321845.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Asian markets tumble as US-Iran fighting lifts oil, yields]]></title>
+            <description><![CDATA[[Business] Asian markets tumble as US-Iran fighting lifts oil, yields]]></description>
+            <link>https://bdnews24.com/business/81e9f23d12d1</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/81e9f23d12d1</guid>
+            <pubDate>Wed, 02 Sep 2026 10:02:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/sharemarket-20926-1788321730.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Chad Powers’ season two raises stakes]]></title>
+            <description><![CDATA[[Entertainment] ‘Chad Powers’ season two raises stakes]]></description>
+            <link>https://bdnews24.com/entertainment/a02bccfe5863</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/a02bccfe5863</guid>
+            <pubDate>Wed, 02 Sep 2026 09:57:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/glen-powell-020926-01-1788321394.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US carrier arrives in Thailand after 200 days at sea]]></title>
+            <description><![CDATA[[Americas] US carrier arrives in Thailand after 200 days at sea]]></description>
+            <link>https://bdnews24.com/world/americas/17d68da43b12</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/17d68da43b12</guid>
+            <pubDate>Wed, 02 Sep 2026 09:49:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/us-carrier-020926-01-1788320858.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tucson shooting being probed as gay hate crime]]></title>
+            <description><![CDATA[[Americas] Tucson shooting being probed as gay hate crime]]></description>
+            <link>https://bdnews24.com/world/americas/84cbbd840e49</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/84cbbd840e49</guid>
+            <pubDate>Wed, 02 Sep 2026 09:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/arizona-1788320695.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[5,000 accounts compromised in hack: Dropbox]]></title>
+            <description><![CDATA[[Technology] 5,000 accounts compromised in hack: Dropbox]]></description>
+            <link>https://bdnews24.com/technology/080ac6285938</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/080ac6285938</guid>
+            <pubDate>Wed, 02 Sep 2026 09:42:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/dropbox-logo-020926-1788320563.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[US, Iran exchange attacks as war lull appears over]]></title>
+            <description><![CDATA[[World] US, Iran exchange attacks as war lull appears over]]></description>
+            <link>https://bdnews24.com/world/1378a10e635c</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/1378a10e635c</guid>
+            <pubDate>Wed, 02 Sep 2026 09:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/us-iran-strikes-war-020926-01-1788320416.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bidisha Ershad's bail hearing Wednesday]]></title>
+            <description><![CDATA[[Bangladesh] Bidisha Ershad's bail hearing Wednesday]]></description>
+            <link>https://bdnews24.com/bangladesh/861b9121e089</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/861b9121e089</guid>
+            <pubDate>Wed, 02 Sep 2026 09:25:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/bidisha-ershad-200526-01-1779263232.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[10 madrasa students, teachers accused of raping child]]></title>
+            <description><![CDATA[[Bangladesh] 10 madrasa students, teachers accused of raping child]]></description>
+            <link>https://bdnews24.com/bangladesh/f47bdce5146c</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/f47bdce5146c</guid>
+            <pubDate>Wed, 02 Sep 2026 09:10:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026April/SM/child-rape-100426-01-1775926710.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Xi lands in Egypt]]></title>
+            <description><![CDATA[[West Asia] Xi lands in Egypt]]></description>
+            <link>https://bdnews24.com/world/middle-east/e0d773885d70</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/e0d773885d70</guid>
+            <pubDate>Wed, 02 Sep 2026 09:08:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/xi-sisi-020926-01-1788318488.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Purbachal depot sits empty as buses clog Mohakhali]]></title>
+            <description><![CDATA[[Bangladesh] Purbachal depot sits empty as buses clog Mohakhali]]></description>
+            <link>https://bdnews24.com/bangladesh/ccfba2900305</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ccfba2900305</guid>
+            <pubDate>Wed, 02 Sep 2026 01:39:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/purbachal-bus-depot-310826-01-1788291078.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
