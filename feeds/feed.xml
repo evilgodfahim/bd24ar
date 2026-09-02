@@ -4,10 +4,74 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 02 Sep 2026 18:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 21:24:08 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 02 Sep 2026 18:11:01 GMT</pubDate>
+        <pubDate>Wed, 02 Sep 2026 21:24:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Nepal floods halt power exports to Bangladesh]]></title>
+            <description><![CDATA[[World] Nepal floods halt power exports to Bangladesh]]></description>
+            <link>https://bdnews24.com/world/eb63ae9751a9</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/eb63ae9751a9</guid>
+            <pubDate>Thu, 03 Sep 2026 02:20:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/nepal-electrical-sub-station-020926-1788373687.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka streets turn hunting ground for muggers]]></title>
+            <description><![CDATA[[Bangladesh] Dhaka streets turn hunting ground for muggers]]></description>
+            <link>https://bdnews24.com/bangladesh/5bc34992bc04</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5bc34992bc04</guid>
+            <pubDate>Thu, 03 Sep 2026 02:05:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/snatching-photo-by-chatgpt-31082026-1788378298.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Exports to India rise amid ‘hostile’ relations]]></title>
+            <description><![CDATA[[Business] Exports to India rise amid ‘hostile’ relations]]></description>
+            <link>https://bdnews24.com/business/e31ef33d0314</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/e31ef33d0314</guid>
+            <pubDate>Thu, 03 Sep 2026 01:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024July/SM/chittagong-port-050422-01-1719857833.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India to host inaugural Women’s Champions Trophy]]></title>
+            <description><![CDATA[[Sport] India to host inaugural Women’s Champions Trophy]]></description>
+            <link>https://bdnews24.com/sport/6d7bbb2a564a</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/6d7bbb2a564a</guid>
+            <pubDate>Thu, 03 Sep 2026 01:21:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025September/SM/icc-230925-01-1758650188.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[New study rewrites the story of Moon's birth]]></title>
+            <description><![CDATA[[Science] New study rewrites the story of Moon's birth]]></description>
+            <link>https://bdnews24.com/science/dbb8fe0416ae</link>
+            <guid isPermaLink="true">https://bdnews24.com/science/dbb8fe0416ae</guid>
+            <pubDate>Thu, 03 Sep 2026 01:06:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/moon-formation-030926-01-1788375890.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nepal to rebuild early-warning system after deadly flood]]></title>
+            <description><![CDATA[[World] Nepal to rebuild early-warning system after deadly flood]]></description>
+            <link>https://bdnews24.com/world/1bc3f499ce34</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/1bc3f499ce34</guid>
+            <pubDate>Thu, 03 Sep 2026 00:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/nepal-warning-02092026-01-1788375285.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[NYC to ban AI for students under 14: report]]></title>
+            <description><![CDATA[[Technology] NYC to ban AI for students under 14: report]]></description>
+            <link>https://bdnews24.com/technology/bc0481476c65</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/bc0481476c65</guid>
+            <pubDate>Thu, 03 Sep 2026 00:52:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/ai-letters-020926-01-1788374975.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mirza Abbas returns home]]></title>
+            <description><![CDATA[[Bangladesh] Mirza Abbas returns home]]></description>
+            <link>https://bdnews24.com/bangladesh/ce1d5bff300e</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ce1d5bff300e</guid>
+            <pubDate>Thu, 03 Sep 2026 00:31:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/mirza-abbas-airport-020926-01-1788368745.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Canadians pull away from US as rift grows]]></title>
             <description><![CDATA[[World] Canadians pull away from US as rift grows]]></description>
@@ -103,70 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/technology/8320d4dcf0c6</guid>
             <pubDate>Wed, 02 Sep 2026 21:20:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/anthropic-claude-020926-01-1788362331.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Rare all-female spacewalk’]]></title>
-            <description><![CDATA[[Science] ‘Rare all-female spacewalk’]]></description>
-            <link>https://bdnews24.com/science/e1214cd89d12</link>
-            <guid isPermaLink="true">https://bdnews24.com/science/e1214cd89d12</guid>
-            <pubDate>Wed, 02 Sep 2026 21:17:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/spacewalk-02092026-01-1788362225.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US pounds Iran, Tehran retaliates in major exchange]]></title>
-            <description><![CDATA[[World] US pounds Iran, Tehran retaliates in major exchange]]></description>
-            <link>https://bdnews24.com/world/24df6ab2cf9f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/24df6ab2cf9f</guid>
-            <pubDate>Wed, 02 Sep 2026 20:53:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/iran-us-020926-01-1788360737.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The eternal wait for gas at CNG stations]]></title>
-            <description><![CDATA[[Image] The eternal wait for gas at CNG stations]]></description>
-            <link>https://bdnews24.com/media-en/image/c63a47fb49e4</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/c63a47fb49e4</guid>
-            <pubDate>Wed, 02 Sep 2026 20:53:00 GMT</pubDate>
-            <enclosure url="https://bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No bandwidth shortage: BSCPLC]]></title>
-            <description><![CDATA[[Business] No bandwidth shortage: BSCPLC]]></description>
-            <link>https://bdnews24.com/business/522c63a77fe9</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/522c63a77fe9</guid>
-            <pubDate>Wed, 02 Sep 2026 20:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025March/SM/internet-broadband-pic-1742723163.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[September 2, 2026]]></title>
-            <description><![CDATA[[Image] September 2, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/8ae38dd1e3dc</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/8ae38dd1e3dc</guid>
-            <pubDate>Wed, 02 Sep 2026 20:37:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/buriganga-river-fishing-020926-09-1788350021.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Congo’s Ebola outbreak kills over 3,000]]></title>
-            <description><![CDATA[[World] Congo’s Ebola outbreak kills over 3,000]]></description>
-            <link>https://bdnews24.com/world/cb8b81e8f3e1</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/cb8b81e8f3e1</guid>
-            <pubDate>Wed, 02 Sep 2026 20:32:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/congo-ebola-020926-01-1788359445.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tonu murder: Interpol issues red notices for 2 ex-soldiers]]></title>
-            <description><![CDATA[[Bangladesh] Tonu murder: Interpol issues red notices for 2 ex-soldiers]]></description>
-            <link>https://bdnews24.com/bangladesh/8e4cd0c9361c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8e4cd0c9361c</guid>
-            <pubDate>Wed, 02 Sep 2026 20:26:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/sohagi-jahan-tanu-080526-01-1779085702.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Journalist Rupa hospitalised]]></title>
-            <description><![CDATA[[Bangladesh] Journalist Rupa hospitalised]]></description>
-            <link>https://bdnews24.com/bangladesh/e027c591711f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/e027c591711f</guid>
-            <pubDate>Wed, 02 Sep 2026 20:12:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/farzana-rupa-020926-01-1788356139.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
