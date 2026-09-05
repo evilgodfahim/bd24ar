@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 05 Sep 2026 18:38:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Sep 2026 20:46:29 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 05 Sep 2026 18:38:09 GMT</pubDate>
+        <pubDate>Sat, 05 Sep 2026 20:46:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[When the kitchen becomes a heat trap]]></title>
+            <description><![CDATA[[Bangladesh] When the kitchen becomes a heat trap]]></description>
+            <link>https://bdnews24.com/bangladesh/d42ee1cdd3a1</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d42ee1cdd3a1</guid>
+            <pubDate>Sun, 06 Sep 2026 02:01:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/housekeeper-kamlapur-260426-017-1788637454.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Policeman beaten to death in Aminbazar]]></title>
+            <description><![CDATA[[Bangladesh] Policeman beaten to death in Aminbazar]]></description>
+            <link>https://bdnews24.com/bangladesh/c5fea2b71447</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/c5fea2b71447</guid>
+            <pubDate>Sun, 06 Sep 2026 01:52:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/altaf-hossain-police-sb-050926-01-1788638059.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Housewife shot through window in Darussalam]]></title>
+            <description><![CDATA[[Bangladesh] Housewife shot through window in Darussalam]]></description>
+            <link>https://bdnews24.com/bangladesh/6b1bb7ac3f4b</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6b1bb7ac3f4b</guid>
+            <pubDate>Sun, 06 Sep 2026 01:29:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/woman-shot-darus-salam-050926-1788636237.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shopkeeper shot in Kadamtali]]></title>
+            <description><![CDATA[[Bangladesh] Shopkeeper shot in Kadamtali]]></description>
+            <link>https://bdnews24.com/bangladesh/eb34945d36ec</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/eb34945d36ec</guid>
+            <pubDate>Sun, 06 Sep 2026 01:15:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/business-man-shot-050926-1788634074.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Enrique unconcerned by PSG's poor start]]></title>
+            <description><![CDATA[[Sport] Enrique unconcerned by PSG's poor start]]></description>
+            <link>https://bdnews24.com/sport/c30354b2aa67</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/c30354b2aa67</guid>
+            <pubDate>Sun, 06 Sep 2026 01:06:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/enrique-06092026-01-1788635134.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Modric to play for Croatia in Nations League]]></title>
+            <description><![CDATA[[Sport] Modric to play for Croatia in Nations League]]></description>
+            <link>https://bdnews24.com/sport/dfe81b034631</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/dfe81b034631</guid>
+            <pubDate>Sun, 06 Sep 2026 00:56:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/modric-06092026-01-1788634440.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police claim to solve mystery of body on Dhaka expressway]]></title>
+            <description><![CDATA[[Bangladesh] Police claim to solve mystery of body on Dhaka expressway]]></description>
+            <link>https://bdnews24.com/bangladesh/0595ca8267ac</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0595ca8267ac</guid>
+            <pubDate>Sun, 06 Sep 2026 00:50:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/expressway-deadbody-ismail-hossain-050926-01-1788603435.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Manager rues Bournemouth's unwanted PL record]]></title>
             <description><![CDATA[[Sport] Manager rues Bournemouth's unwanted PL record]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/entertainment/b17bc0b58fd6</guid>
             <pubDate>Sat, 05 Sep 2026 21:29:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/pattinson-hansen-050926-01-1788622065.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ex-shareholders can’t regain control of troubled banks: committee]]></title>
-            <description><![CDATA[[Business] Ex-shareholders can’t regain control of troubled banks: committee]]></description>
-            <link>https://bdnews24.com/business/f0fd470648a7</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/f0fd470648a7</guid>
-            <pubDate>Sat, 05 Sep 2026 20:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026March/SM/bb-protest-050526-01-1772698487.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Families of missing Tibet pilgrims demand answers]]></title>
-            <description><![CDATA[[World] Families of missing Tibet pilgrims demand answers]]></description>
-            <link>https://bdnews24.com/world/b4ce199c5470</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/b4ce199c5470</guid>
-            <pubDate>Sat, 05 Sep 2026 20:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/missing-tibet-05092026-01-1788619597.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Death in purse snatching: 3 suspects in jail after remand]]></title>
-            <description><![CDATA[[Bangladesh] Death in purse snatching: 3 suspects in jail after remand]]></description>
-            <link>https://bdnews24.com/bangladesh/cb09f31c07cb</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cb09f31c07cb</guid>
-            <pubDate>Sat, 05 Sep 2026 20:47:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/ranjila-arrest-jail-050926-01-1788616835.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How escalating attacks are upending life in Kyiv]]></title>
-            <description><![CDATA[[World] How escalating attacks are upending life in Kyiv]]></description>
-            <link>https://bdnews24.com/world/afcd70aedbff</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/afcd70aedbff</guid>
-            <pubDate>Sat, 05 Sep 2026 20:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/kyiv-attacks-05092026-01-1788619077.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Some parties trying to create unrest over existing problems: PM]]></title>
-            <description><![CDATA[[Politics] Some parties trying to create unrest over existing problems: PM]]></description>
-            <link>https://bdnews24.com/politics/e6be689d9c82</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/e6be689d9c82</guid>
-            <pubDate>Sat, 05 Sep 2026 20:25:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/tarique-rahman-050926-02-1788614133.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Paris Hilton on ADHD: 'There's nothing wrong with you']]></title>
-            <description><![CDATA[[Health] Paris Hilton on ADHD: 'There's nothing wrong with you']]></description>
-            <link>https://bdnews24.com/health/c2a4edd246ab</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/c2a4edd246ab</guid>
-            <pubDate>Sat, 05 Sep 2026 20:16:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/hilton-adhd-050926-01-1788617728.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chinese man found dead in Uttara hotel room]]></title>
-            <description><![CDATA[[Bangladesh] Chinese man found dead in Uttara hotel room]]></description>
-            <link>https://bdnews24.com/bangladesh/55453ed8206e</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/55453ed8206e</guid>
-            <pubDate>Sat, 05 Sep 2026 20:12:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/uttara-west-thana-240424-1jpg-1788614776.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
