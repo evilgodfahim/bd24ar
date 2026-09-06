@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 06 Sep 2026 18:42:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 20:54:09 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 06 Sep 2026 18:42:15 GMT</pubDate>
+        <pubDate>Sun, 06 Sep 2026 20:54:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[One dies, another injured in Dhaka shooting]]></title>
+            <description><![CDATA[[Bangladesh] One dies, another injured in Dhaka shooting]]></description>
+            <link>https://bdnews24.com/bangladesh/2d75cc08041f</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2d75cc08041f</guid>
+            <pubDate>Mon, 07 Sep 2026 02:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/shot-death-murder-060926-1788721912.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka spends billions, but rainwater still has nowhere to go]]></title>
+            <description><![CDATA[[Bangladesh] Dhaka spends billions, but rainwater still has nowhere to go]]></description>
+            <link>https://bdnews24.com/bangladesh/48c8f1bbe24a</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/48c8f1bbe24a</guid>
+            <pubDate>Mon, 07 Sep 2026 01:46:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dhanmondi-lake-waterlogging-130726-017-1783954198.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arsenal outclass Chelsea in comeback win]]></title>
+            <description><![CDATA[[Sport] Arsenal outclass Chelsea in comeback win]]></description>
+            <link>https://bdnews24.com/sport/9e029d90ef27</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/9e029d90ef27</guid>
+            <pubDate>Mon, 07 Sep 2026 01:18:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/arsenal-chelsea-070926-01-1788722227.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh apparel exports to US slide 11%]]></title>
+            <description><![CDATA[[Business] Bangladesh apparel exports to US slide 11%]]></description>
+            <link>https://bdnews24.com/business/6ffacd742ef9</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/6ffacd742ef9</guid>
+            <pubDate>Mon, 07 Sep 2026 01:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/kepz-2-290726-1785346996.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israeli strike kills two in Gaza]]></title>
+            <description><![CDATA[[World] Israeli strike kills two in Gaza]]></description>
+            <link>https://bdnews24.com/world/72d74ff6e167</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/72d74ff6e167</guid>
+            <pubDate>Mon, 07 Sep 2026 00:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/gaza-strike-07092026-01-1788720456.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[HC rejects challenge to Mostaqur’s appointment]]></title>
+            <description><![CDATA[[Bangladesh] HC rejects challenge to Mostaqur’s appointment]]></description>
+            <link>https://bdnews24.com/bangladesh/3ba78872f021</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3ba78872f021</guid>
+            <pubDate>Mon, 07 Sep 2026 00:46:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/highcourt-080726-01-1783528631.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fermin shines as Barcelona thump Valencia]]></title>
+            <description><![CDATA[[Sport] Fermin shines as Barcelona thump Valencia]]></description>
+            <link>https://bdnews24.com/sport/bc596ceaf34b</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/bc596ceaf34b</guid>
+            <pubDate>Mon, 07 Sep 2026 00:44:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/fermin-lopez-060926-01-1788720222.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[California's ‘forgotten’ chapter under Tsarist Russia]]></title>
             <description><![CDATA[[World] California's ‘forgotten’ chapter under Tsarist Russia]]></description>
@@ -111,62 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/8730ecdbbe0e</guid>
             <pubDate>Sun, 06 Sep 2026 21:06:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/kushner-witkoff-060926-01-1788707157.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran vows economic action, warns of 'painful' response]]></title>
-            <description><![CDATA[[World] Iran vows economic action, warns of 'painful' response]]></description>
-            <link>https://bdnews24.com/world/e34fe6329a5b</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/e34fe6329a5b</guid>
-            <pubDate>Sun, 06 Sep 2026 21:06:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/iran-economic-action-06092026-01-1788707093.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nepali woman found alive during family's mourning rites]]></title>
-            <description><![CDATA[[Neighbours] Nepali woman found alive during family's mourning rites]]></description>
-            <link>https://bdnews24.com/neighbours/b77da9971c30</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/b77da9971c30</guid>
-            <pubDate>Sun, 06 Sep 2026 20:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/chandika-kumari-060926-01-1788706187.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bank apps to offer loans up to Tk 10,000]]></title>
-            <description><![CDATA[[Business] Bank apps to offer loans up to Tk 10,000]]></description>
-            <link>https://bdnews24.com/business/60bc6d4e7f37</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/60bc6d4e7f37</guid>
-            <pubDate>Sun, 06 Sep 2026 20:49:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/e-payment-credit-060926-01-1788700174.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Savar police officer killed after ‘protesting assault’]]></title>
-            <description><![CDATA[[Bangladesh] Savar police officer killed after ‘protesting assault’]]></description>
-            <link>https://bdnews24.com/bangladesh/ff0d86604e0b</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ff0d86604e0b</guid>
-            <pubDate>Sun, 06 Sep 2026 20:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/altaf-hossain-police-sb-050926-01-1788638059.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Who will be the next 007? Casting nears its end]]></title>
-            <description><![CDATA[[Entertainment] Who will be the next 007? Casting nears its end]]></description>
-            <link>https://bdnews24.com/entertainment/352a72d4d3ec</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/352a72d4d3ec</guid>
-            <pubDate>Sun, 06 Sep 2026 20:27:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/jamesbond-1788704857.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ACC checks assets of ex-army chief Aziz, wife]]></title>
-            <description><![CDATA[[Bangladesh] ACC checks assets of ex-army chief Aziz, wife]]></description>
-            <link>https://bdnews24.com/bangladesh/2f12306a5714</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/2f12306a5714</guid>
-            <pubDate>Sun, 06 Sep 2026 20:21:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024May/SM/gen-aziz-ahmed-210524-04-1716293356.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dengue: 4 more die as hospitalisations peak]]></title>
-            <description><![CDATA[[Health] Dengue: 4 more die as hospitalisations peak]]></description>
-            <link>https://bdnews24.com/health/6274d3355427</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/6274d3355427</guid>
-            <pubDate>Sun, 06 Sep 2026 20:10:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dengue-mugda-hospital-091023-01-1784643445.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
