@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Sep 2026 20:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Sep 2026 23:06:23 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 07 Sep 2026 20:13:25 GMT</pubDate>
+        <pubDate>Mon, 07 Sep 2026 23:06:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Protest over sidelining of female staff shuts Eiffel Tower]]></title>
+            <description><![CDATA[[World] Protest over sidelining of female staff shuts Eiffel Tower]]></description>
+            <link>https://bdnews24.com/world/7e95ccf5b46b</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/7e95ccf5b46b</guid>
+            <pubDate>Tue, 08 Sep 2026 03:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/eiffel-tower-1788814288.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Solar imports get 6-month tax relief]]></title>
+            <description><![CDATA[[Bangladesh] Solar imports get 6-month tax relief]]></description>
+            <link>https://bdnews24.com/bangladesh/626f63215141</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/626f63215141</guid>
+            <pubDate>Tue, 08 Sep 2026 02:44:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/tarique-rahman-cabinet-070926-1788807588.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[North Korea, Russia open their first road bridge]]></title>
             <description><![CDATA[[World] North Korea, Russia open their first road bridge]]></description>
@@ -151,22 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/world/americas/81c2df3c2e8f</guid>
             <pubDate>Mon, 07 Sep 2026 20:39:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/trump-newmexico-07092026-01-1788791901.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mourinho keeps Champions League pressure at bay]]></title>
-            <description><![CDATA[[Sport] Mourinho keeps Champions League pressure at bay]]></description>
-            <link>https://bdnews24.com/sport/75a68d0213f6</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/75a68d0213f6</guid>
-            <pubDate>Mon, 07 Sep 2026 20:33:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/real-madrid-mourinho-cl-pressure-070826-01-1788791545.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Inflation hits 10-month low at 8.26%]]></title>
-            <description><![CDATA[[Economy] Inflation hits 10-month low at 8.26%]]></description>
-            <link>https://bdnews24.com/economy/19dc4aba1243</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/19dc4aba1243</guid>
-            <pubDate>Mon, 07 Sep 2026 20:16:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/dhaka-weekly-market-rate-25-06-2026-1-1782406990.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
