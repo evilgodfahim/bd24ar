@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – Latest News]]></title>
-        <description><![CDATA[Latest news from bdnews24.com archive]]></description>
+        <title><![CDATA[bdnews24.com – Latest News (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Sep 2026 10:51:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Sep 2026 16:10:07 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 07 Sep 2026 10:51:27 GMT</pubDate>
+        <pubDate>Mon, 07 Sep 2026 16:10:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[SUB law department launches 4-day Law Fest]]></title>
-            <description><![CDATA[[Campus] SUB law department launches 4-day Law Fest]]></description>
-            <link>https://bdnews24.com/campus/a1557acc44a7</link>
-            <guid isPermaLink="true">https://bdnews24.com/campus/a1557acc44a7</guid>
-            <pubDate>Mon, 07 Sep 2026 16:42:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/image-7-1788777645.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Think you know what the world looks like? Look again]]></title>
-            <description><![CDATA[[World] Think you know what the world looks like? Look again]]></description>
-            <link>https://bdnews24.com/world/19ce0fc381c8</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/19ce0fc381c8</guid>
-            <pubDate>Mon, 07 Sep 2026 16:32:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/world-extented-map-05092026-1788587912.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Huawei launches foldable smartphone, rivals to follow]]></title>
-            <description><![CDATA[[Technology] Huawei launches foldable smartphone, rivals to follow]]></description>
-            <link>https://bdnews24.com/technology/d1309525a2b5</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/d1309525a2b5</guid>
-            <pubDate>Mon, 07 Sep 2026 16:26:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/huawei-foldable-070926-01-1788776711.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka, Delhi share same dreams, values: Trivedi]]></title>
-            <description><![CDATA[[Bangladesh] Dhaka, Delhi share same dreams, values: Trivedi]]></description>
-            <link>https://bdnews24.com/bangladesh/23aace12ea8c</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/23aace12ea8c</guid>
-            <pubDate>Mon, 07 Sep 2026 16:26:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/indian-high-commissioner-070926-1788776258.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thousands attend funeral of war criminal Ratko Mladic]]></title>
-            <description><![CDATA[[World] Thousands attend funeral of war criminal Ratko Mladic]]></description>
-            <link>https://bdnews24.com/world/c5b0557da386</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/c5b0557da386</guid>
-            <pubDate>Mon, 07 Sep 2026 16:23:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/servia-mladic-070926-01-1788776570.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man remanded over bid to enter PM security cordon]]></title>
-            <description><![CDATA[[Bangladesh] Man remanded over bid to enter PM security cordon]]></description>
-            <link>https://bdnews24.com/bangladesh/0520b5067d60</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/0520b5067d60</guid>
-            <pubDate>Mon, 07 Sep 2026 16:02:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/muhibullah-mubin-070926-01-1788773360.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Singapore high ministers' salaries face parliamentary scrutiny]]></title>
-            <description><![CDATA[[World] Singapore high ministers' salaries face parliamentary scrutiny]]></description>
-            <link>https://bdnews24.com/world/6e56eeadf3f8</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/6e56eeadf3f8</guid>
-            <pubDate>Mon, 07 Sep 2026 15:59:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/singapore-ministers-070926-01-1788775131.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump goes full AI on Truth Social]]></title>
-            <description><![CDATA[[Americas] Trump goes full AI on Truth Social]]></description>
-            <link>https://bdnews24.com/world/americas/c2e3c4043d31</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/c2e3c4043d31</guid>
-            <pubDate>Mon, 07 Sep 2026 15:57:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/trump-ai-photo-070926-01-1788774345.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Move to amend tribunal rules on seizing Hasina’s property]]></title>
-            <description><![CDATA[[Bangladesh] Move to amend tribunal rules on seizing Hasina’s property]]></description>
-            <link>https://bdnews24.com/bangladesh/aa0779726713</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/aa0779726713</guid>
-            <pubDate>Mon, 07 Sep 2026 15:44:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sheikh-hasina-tribunal-graphics-140726-01-1784050552.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Transfer of primary school teachers suspended: Bobby Hajjaj]]></title>
-            <description><![CDATA[[Bangladesh] Transfer of primary school teachers suspended: Bobby Hajjaj]]></description>
-            <link>https://bdnews24.com/bangladesh/ec263019b462</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/ec263019b462</guid>
-            <pubDate>Mon, 07 Sep 2026 15:28:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/bobby-hajjaj-140626-1781433585.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Legal notice questions Biman’s $3.7bn Boeing deal]]></title>
-            <description><![CDATA[[Business] Legal notice questions Biman’s $3.7bn Boeing deal]]></description>
-            <link>https://bdnews24.com/business/cc4001832368</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/cc4001832368</guid>
-            <pubDate>Mon, 07 Sep 2026 15:13:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/biman-and-boeing-agreement-300426-02-1777626630.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Energy minister returns home from hospital]]></title>
-            <description><![CDATA[[Bangladesh] Energy minister returns home from hospital]]></description>
-            <link>https://bdnews24.com/bangladesh/cd7a79a42a54</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/cd7a79a42a54</guid>
-            <pubDate>Mon, 07 Sep 2026 15:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/tuku-return-home-070926-01-1788768901.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[All union councils in an Upazila to vote together: EC]]></title>
-            <description><![CDATA[[Bangladesh] All union councils in an Upazila to vote together: EC]]></description>
-            <link>https://bdnews24.com/bangladesh/171ca9ebfc03</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/171ca9ebfc03</guid>
-            <pubDate>Mon, 07 Sep 2026 15:09:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/akhter-ahmed-070926-01-1788770835.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Teacher gets life imprisonment in madrasa student rape case]]></title>
-            <description><![CDATA[[Bangladesh] Teacher gets life imprisonment in madrasa student rape case]]></description>
-            <link>https://bdnews24.com/bangladesh/1dfab4e3bb1f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/1dfab4e3bb1f</guid>
-            <pubDate>Mon, 07 Sep 2026 15:04:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/narail-verdict-070926-1788769389.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fakhrul calls for politics of harmony, not revenge]]></title>
-            <description><![CDATA[[Bangladesh] Fakhrul calls for politics of harmony, not revenge]]></description>
-            <link>https://bdnews24.com/bangladesh/afde0bd27400</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/afde0bd27400</guid>
-            <pubDate>Mon, 07 Sep 2026 14:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/thakurgaon-president-070926-02-1788766695.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran to announce new restricted zone in Gulf]]></title>
-            <description><![CDATA[[West Asia] Iran to announce new restricted zone in Gulf]]></description>
-            <link>https://bdnews24.com/world/middle-east/993ef606cfad</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/993ef606cfad</guid>
-            <pubDate>Mon, 07 Sep 2026 14:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/hormuz-070926-2-1788770254.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[September 7, 2026]]></title>
-            <description><![CDATA[[Image] September 7, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/75b0333fcb69</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/75b0333fcb69</guid>
-            <pubDate>Mon, 07 Sep 2026 14:24:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/asian-elephant-rangamati-070926-01-1788769403.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aminbazar lynching: Policeman was not the target, RAB says]]></title>
-            <description><![CDATA[[Bangladesh] Aminbazar lynching: Policeman was not the target, RAB says]]></description>
-            <link>https://bdnews24.com/bangladesh/9bd62bb337e8</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/9bd62bb337e8</guid>
-            <pubDate>Mon, 07 Sep 2026 14:10:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/sb-police-killing-rab-070926-01-1788767936.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[11 climbers killed in Russia avalanche]]></title>
-            <description><![CDATA[[World] 11 climbers killed in Russia avalanche]]></description>
-            <link>https://bdnews24.com/world/79ac3292e652</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/79ac3292e652</guid>
-            <pubDate>Mon, 07 Sep 2026 13:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/russia-emergency-070926-1788767612.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[China’s humanoid robots eye the battlefield]]></title>
-            <description><![CDATA[[Science] China’s humanoid robots eye the battlefield]]></description>
-            <link>https://bdnews24.com/science/e5a04e3130b0</link>
-            <guid isPermaLink="true">https://bdnews24.com/science/e5a04e3130b0</guid>
-            <pubDate>Mon, 07 Sep 2026 13:45:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/china-robots-070926-1788766995.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: timeout of 65000ms exceeded]]></description>
+            <link>https://bdnews24.com</link>
+            <guid isPermaLink="true">https://bdnews24.com</guid>
+            <pubDate>Mon, 07 Sep 2026 16:10:07 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ]]></title>
-        <description><![CDATA[bangla.bdnews24.com আর্কাইভ থেকে সর্বশেষ সংবাদ]]></description>
+        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bangla.bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Sep 2026 10:51:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Sep 2026 16:10:07 GMT</lastBuildDate>
         <atom:link href="https://bangla.bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 07 Sep 2026 10:51:30 GMT</pubDate>
+        <pubDate>Mon, 07 Sep 2026 16:10:07 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[গণপতি চক্রবর্তী পরিবারের চার হত্যার বিচার দাবিতে রংপুরে বিক্ষোভ]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] গণপতি চক্রবর্তী পরিবারের চার হত্যার বিচার দাবিতে রংপুরে বিক্ষোভ]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/1dc3724d323e</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/1dc3724d323e</guid>
-            <pubDate>Mon, 07 Sep 2026 10:51:30 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/rongpur-protest-070926-01-1788778211.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[সাইফুর রহমানের মৃত্যুতে ষড়যন্ত্র আছে কিনা, খুঁজে দেখা দরকার: রিজভী]]></title>
-            <description><![CDATA[[রাজনীতি] সাইফুর রহমানের মৃত্যুতে ষড়যন্ত্র আছে কিনা, খুঁজে দেখা দরকার: রিজভী]]></description>
-            <link>https://bangla.bdnews24.com/politics/9d04167e2159</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/politics/9d04167e2159</guid>
-            <pubDate>Mon, 07 Sep 2026 10:51:30 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/ruhul-kabir-rizvi-at-press-club-07092026-1788778094.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[সম্পর্কে হারিয়ে যাওয়া উষ্ণতা ফেরাতে চাইলে]]></title>
-            <description><![CDATA[[সম্পর্ক] সম্পর্কে হারিয়ে যাওয়া উষ্ণতা ফেরাতে চাইলে]]></description>
-            <link>https://bangla.bdnews24.com/lifestyle/relationship/ed2fa8fab5c3</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/lifestyle/relationship/ed2fa8fab5c3</guid>
-            <pubDate>Mon, 07 Sep 2026 10:51:30 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/couple-make-heart-shape-070926-1788777387.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[দক্ষিণ লেবাননে ইসরায়েলি বিমান হামলায় নিহত অন্তত ১১]]></title>
-            <description><![CDATA[[বিশ্ব] দক্ষিণ লেবাননে ইসরায়েলি বিমান হামলায় নিহত অন্তত ১১]]></description>
-            <link>https://bangla.bdnews24.com/world/e598a30f92e7</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/world/e598a30f92e7</guid>
-            <pubDate>Mon, 07 Sep 2026 10:51:30 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/southern-lebanon-070926-01-1788777433.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[নতুন ফোল্ডএবল: হুয়াওয়ে লড়বে শাওমি, অ্যাপলের সঙ্গে]]></title>
-            <description><![CDATA[[টেক] নতুন ফোল্ডএবল: হুয়াওয়ে লড়বে শাওমি, অ্যাপলের সঙ্গে]]></description>
-            <link>https://bangla.bdnews24.com/tech/f06d50052b8b</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/tech/f06d50052b8b</guid>
-            <pubDate>Mon, 07 Sep 2026 10:51:30 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/huawei-foldable-phone-070926-01-1788777381.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[আর্সেনালকে গত মৌসুমের চেয়েও উঁচুতে দেখছেন আর্তেতা]]></title>
-            <description><![CDATA[[খেলা] আর্সেনালকে গত মৌসুমের চেয়েও উঁচুতে দেখছেন আর্তেতা]]></description>
-            <link>https://bangla.bdnews24.com/sport/b98ec91293a5</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/b98ec91293a5</guid>
-            <pubDate>Mon, 07 Sep 2026 10:51:30 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/arteta-070926-01-1788777426.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[দিনাজপুর সীমান্তে ‘পুশ ইনের’ চেষ্টা, বিজিবি ও গ্রামবাসীর বাধায় ব্যর্থ]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] দিনাজপুর সীমান্তে ‘পুশ ইনের’ চেষ্টা, বিজিবি ও গ্রামবাসীর বাধায় ব্যর্থ]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/278f23312b9d</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/278f23312b9d</guid>
-            <pubDate>Mon, 07 Sep 2026 10:51:30 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/dinajpur-birampur-070926-01-1788777260.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[রংপুরে শতাধিক মেয়েশিশু পেল শিক্ষা উপকরণ]]></title>
-            <description><![CDATA[[ভিডিও(হ্যালো)] রংপুরে শতাধিক মেয়েশিশু পেল শিক্ষা উপকরণ]]></description>
-            <link>https://bangla.bdnews24.com/hello/hello-video/ba8cb8be4044</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/hello/hello-video/ba8cb8be4044</guid>
-            <pubDate>Mon, 07 Sep 2026 10:51:30 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/hello-thumbnail-1788777093.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[গ্যাস সরবরাহ স্বাভাবিক হবে ‘কয়েকদিনের মধ্যে’: তিতুমীর]]></title>
-            <description><![CDATA[[বাংলাদেশ] গ্যাস সরবরাহ স্বাভাবিক হবে ‘কয়েকদিনের মধ্যে’: তিতুমীর]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/bc8d8a787b41</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/bc8d8a787b41</guid>
-            <pubDate>Mon, 07 Sep 2026 10:51:30 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025June/SM/chattagram-gas-crisis-200625-01-1750407687.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[আমরা আত্মবিশ্বাসী, সঠিক সময়ে সব আয়োজন হবে: প্রধানমন্ত্রীর ভারত সফর নিয়ে দীনেশ ত্রিবেদী]]></title>
-            <description><![CDATA[[বাংলাদেশ] আমরা আত্মবিশ্বাসী, সঠিক সময়ে সব আয়োজন হবে: প্রধানমন্ত্রীর ভারত সফর নিয়ে দীনেশ ত্রিবেদী]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/2fe726f8f859</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/2fe726f8f859</guid>
-            <pubDate>Mon, 07 Sep 2026 10:51:30 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/indian-high-commissioner-070926-1788776258.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[মাঝ পদ্মায় স্রোতে ভেসে দেড় কিলোমিটার দূরে ফেরি, ৪ ঘণ্টা পর উদ্ধার]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] মাঝ পদ্মায় স্রোতে ভেসে দেড় কিলোমিটার দূরে ফেরি, ৪ ঘণ্টা পর উদ্ধার]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/e640bc2af7d6</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/e640bc2af7d6</guid>
-            <pubDate>Mon, 07 Sep 2026 10:51:30 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/rajbari-paturia-ferri-070926-01-1788776092.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[স্বজনদের খোঁজ না পেয়ে নেপালে বিক্ষোভ]]></title>
-            <description><![CDATA[[টিউব] স্বজনদের খোঁজ না পেয়ে নেপালে বিক্ষোভ]]></description>
-            <link>https://bangla.bdnews24.com/tube/f750dbc67176</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/f750dbc67176</guid>
-            <pubDate>Mon, 07 Sep 2026 10:51:30 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/nepals-missing-rally-video-text-thumb-07092026-1788776092.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[মাগুরায় অবৈধ সার মজুতের অভিযোগে ২ ব্যক্তি গ্রেপ্তার]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] মাগুরায় অবৈধ সার মজুতের অভিযোগে ২ ব্যক্তি গ্রেপ্তার]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/557596394eb8</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/557596394eb8</guid>
-            <pubDate>Mon, 07 Sep 2026 10:51:30 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/magura-man-arrest-070926-01-1788775947.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ছেলে- মেয়েকে দেখতে হবে ‘সমান চোখে’: মাহদী আমিন]]></title>
-            <description><![CDATA[[বাংলাদেশ] ছেলে- মেয়েকে দেখতে হবে ‘সমান চোখে’: মাহদী আমিন]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/e2cb4635e27c</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/e2cb4635e27c</guid>
-            <pubDate>Mon, 07 Sep 2026 10:51:30 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/mahadi-amin-070926-01-1788775947.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ইরানের সঙ্গে পারমাণবিক চুক্তি নাও হতে পারে: মার্কিন জ্বালানিমন্ত্রী]]></title>
-            <description><![CDATA[[বিশ্ব] ইরানের সঙ্গে পারমাণবিক চুক্তি নাও হতে পারে: মার্কিন জ্বালানিমন্ত্রী]]></description>
-            <link>https://bangla.bdnews24.com/world/655de7b02dff</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/world/655de7b02dff</guid>
-            <pubDate>Mon, 07 Sep 2026 10:51:30 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/chris-wright-070926-01-1788775699.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[শেখ হাসিনার সম্পত্তি বাজেয়াপ্ত করার প্রক্রিয়া ঠিক করতে বিধি সংশোধনের উদ্যোগ]]></title>
-            <description><![CDATA[[বাংলাদেশ] শেখ হাসিনার সম্পত্তি বাজেয়াপ্ত করার প্রক্রিয়া ঠিক করতে বিধি সংশোধনের উদ্যোগ]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/aa5b2bb6528b</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/aa5b2bb6528b</guid>
-            <pubDate>Mon, 07 Sep 2026 10:51:30 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/sheikh-hasina-tribunal-graphics-140726-01-1784050552.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘প্রায় নিখুঁত’ ম্যাচের পরও দলকে উন্নতির ডাক ফ্লিকের]]></title>
-            <description><![CDATA[[খেলা] ‘প্রায় নিখুঁত’ ম্যাচের পরও দলকে উন্নতির ডাক ফ্লিকের]]></description>
-            <link>https://bangla.bdnews24.com/sport/cd6399a2310e</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/cd6399a2310e</guid>
-            <pubDate>Mon, 07 Sep 2026 10:51:30 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/flick-070926-01-1788775119.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[জয়পুরহাটে জমির বিরোধে ‘ভাইদের পিটুনিতে’ আহত নারীর মৃত্যু]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] জয়পুরহাটে জমির বিরোধে ‘ভাইদের পিটুনিতে’ আহত নারীর মৃত্যু]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/f6cbf06049ae</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/f6cbf06049ae</guid>
-            <pubDate>Mon, 07 Sep 2026 10:51:30 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/joypurhat-sister-070926-01-1788774994.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[আগ্নেয়গিরির উদ্গিরণ, ইন্দোনেশিয়ার ৭ বিমানবন্দর বন্ধ]]></title>
-            <description><![CDATA[[টিউব] আগ্নেয়গিরির উদ্গিরণ, ইন্দোনেশিয়ার ৭ বিমানবন্দর বন্ধ]]></description>
-            <link>https://bangla.bdnews24.com/tube/e106c10f9233</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/e106c10f9233</guid>
-            <pubDate>Mon, 07 Sep 2026 10:51:30 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/indonesia-flight-cancel-video-text-thumb-1788774740.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[এনসিপি ‘জাপার মত’ পোষা বিরোধী দল হবে না: সারজিস আলম]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] এনসিপি ‘জাপার মত’ পোষা বিরোধী দল হবে না: সারজিস আলম]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/6c48f78f659a</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/6c48f78f659a</guid>
-            <pubDate>Mon, 07 Sep 2026 10:51:30 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/pirojpur-sarjis-alam-070926-01-1788774497.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: timeout of 65000ms exceeded]]></description>
+            <link>https://bangla.bdnews24.com</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com</guid>
+            <pubDate>Mon, 07 Sep 2026 16:10:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
