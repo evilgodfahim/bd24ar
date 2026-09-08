@@ -4,169 +4,169 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Sep 2026 01:39:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 06:37:18 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 Sep 2026 01:39:32 GMT</pubDate>
+        <pubDate>Tue, 08 Sep 2026 06:37:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Protest over sidelining of female staff shuts Eiffel Tower]]></title>
-            <description><![CDATA[[World] Protest over sidelining of female staff shuts Eiffel Tower]]></description>
-            <link>https://bdnews24.com/world/7e95ccf5b46b</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/7e95ccf5b46b</guid>
-            <pubDate>Tue, 08 Sep 2026 03:12:00 GMT</pubDate>
+            <title><![CDATA[Inflation eases, but wage growth slows further]]></title>
+            <description><![CDATA[[Economy] Inflation eases, but wage growth slows further]]></description>
+            <link>https://bdnews24.com/economy/987593d159c4</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/987593d159c4</guid>
+            <pubDate>Tue, 08 Sep 2026 12:17:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/labour-day-chattogram-300426-05-1788845416.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Harry, Meghan to remain non-working royals: King Charles]]></title>
+            <description><![CDATA[[People] Harry, Meghan to remain non-working royals: King Charles]]></description>
+            <link>https://bdnews24.com/people/fbce22c1103e</link>
+            <guid isPermaLink="true">https://bdnews24.com/people/fbce22c1103e</guid>
+            <pubDate>Tue, 08 Sep 2026 11:58:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/harry-meghan-200826-01-1787197166.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘The Family Man’ Season 4 : Manoj Bajpayee on what’s next]]></title>
+            <description><![CDATA[[Entertainment] ‘The Family Man’ Season 4 : Manoj Bajpayee on what’s next]]></description>
+            <link>https://bdnews24.com/entertainment/e42dc66c5445</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/e42dc66c5445</guid>
+            <pubDate>Tue, 08 Sep 2026 11:53:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/manoj-bajpayee-080926-01-1788846755.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh eyes ‘new chapter’ in Malaysia ties]]></title>
+            <description><![CDATA[[Bangladesh] Bangladesh eyes ‘new chapter’ in Malaysia ties]]></description>
+            <link>https://bdnews24.com/bangladesh/84b460aa65bf</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/84b460aa65bf</guid>
+            <pubDate>Tue, 08 Sep 2026 11:50:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/abdul-moyeen-khan-080926-01-1788843212.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[India's toughest-ever food safety push]]></title>
+            <description><![CDATA[[Neighbours] India's toughest-ever food safety push]]></description>
+            <link>https://bdnews24.com/neighbours/d416060874fe</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/d416060874fe</guid>
+            <pubDate>Tue, 08 Sep 2026 11:13:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/india-food-080926-01-1788844203.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indonesia reopens Jakarta airport]]></title>
+            <description><![CDATA[[South-East Asia] Indonesia reopens Jakarta airport]]></description>
+            <link>https://bdnews24.com/world/south-east-asia/c201bfc54459</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/south-east-asia/c201bfc54459</guid>
+            <pubDate>Tue, 08 Sep 2026 11:10:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/indonesia-airport-volcano-080926-01-1788844218.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘73 injured’ in Houthi attacks on Saudi]]></title>
+            <description><![CDATA[[West Asia] ‘73 injured’ in Houthi attacks on Saudi]]></description>
+            <link>https://bdnews24.com/world/middle-east/5bd7f0dab914</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/5bd7f0dab914</guid>
+            <pubDate>Tue, 08 Sep 2026 11:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/houthi-attack-080926-1788844029.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Investigators recover black boxes from Miami cargo plane crash]]></title>
+            <description><![CDATA[[Americas] Investigators recover black boxes from Miami cargo plane crash]]></description>
+            <link>https://bdnews24.com/world/americas/b54112a487fd</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/b54112a487fd</guid>
+            <pubDate>Tue, 08 Sep 2026 11:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/miami-plane-crash-080926-01-1788843599.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canada’s new US tariffs take effect]]></title>
+            <description><![CDATA[[Business] Canada’s new US tariffs take effect]]></description>
+            <link>https://bdnews24.com/business/58ea493c4ab5</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/58ea493c4ab5</guid>
+            <pubDate>Tue, 08 Sep 2026 10:47:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/canada-pm-220826-1787419236.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kore-eda makes live-action debut with Fujimoto manga]]></title>
+            <description><![CDATA[[Entertainment] Kore-eda makes live-action debut with Fujimoto manga]]></description>
+            <link>https://bdnews24.com/entertainment/6cbb47b97c08</link>
+            <guid isPermaLink="true">https://bdnews24.com/entertainment/6cbb47b97c08</guid>
+            <pubDate>Tue, 08 Sep 2026 10:43:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/look-back-cast-080926-1788842540.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Actress Badhon ‘harassed’ in Italy]]></title>
+            <description><![CDATA[[Diaspora] Actress Badhon ‘harassed’ in Italy]]></description>
+            <link>https://bdnews24.com/diaspora/67cfc680caab</link>
+            <guid isPermaLink="true">https://bdnews24.com/diaspora/67cfc680caab</guid>
+            <pubDate>Tue, 08 Sep 2026 10:17:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/italy-080926-01-1788815421.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Migrants anxious after eastern Germany far-right triumph]]></title>
+            <description><![CDATA[[Europe] Migrants anxious after eastern Germany far-right triumph]]></description>
+            <link>https://bdnews24.com/world/europe/6faafdca83ca</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/6faafdca83ca</guid>
+            <pubDate>Tue, 08 Sep 2026 10:11:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/ulrich-siegmund-080926-01-1788840605.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Burnham, Trump discuss Ukraine peace efforts]]></title>
+            <description><![CDATA[[World] Burnham, Trump discuss Ukraine peace efforts]]></description>
+            <link>https://bdnews24.com/world/06af4c5467b6</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/06af4c5467b6</guid>
+            <pubDate>Tue, 08 Sep 2026 10:09:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/trump-burnham-080926-1788840520.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Exports to India rise despite diplomatic strain]]></title>
+            <description><![CDATA[[Business] Exports to India rise despite diplomatic strain]]></description>
+            <link>https://bdnews24.com/business/ab887e4f2f96</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/ab887e4f2f96</guid>
+            <pubDate>Tue, 08 Sep 2026 10:03:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025May/SM/benapole-port-180525-01-1747577448.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Asia stocks waver amid yen surge, Iran warnings]]></title>
+            <description><![CDATA[[Business] Asia stocks waver amid yen surge, Iran warnings]]></description>
+            <link>https://bdnews24.com/business/031893d5f601</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/031893d5f601</guid>
+            <pubDate>Tue, 08 Sep 2026 09:45:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/tokyo-stock-market-080926-01-1788839112.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Paris probes Eiffel Tower row over treatment of female staff]]></title>
+            <description><![CDATA[[World] Paris probes Eiffel Tower row over treatment of female staff]]></description>
+            <link>https://bdnews24.com/world/0ac910f10688</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/0ac910f10688</guid>
+            <pubDate>Tue, 08 Sep 2026 09:39:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/eiffel-tower-1788814288.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Solar imports get 6-month tax relief]]></title>
-            <description><![CDATA[[Bangladesh] Solar imports get 6-month tax relief]]></description>
-            <link>https://bdnews24.com/bangladesh/626f63215141</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/626f63215141</guid>
-            <pubDate>Tue, 08 Sep 2026 02:44:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/tarique-rahman-cabinet-070926-1788807588.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Iran threatens US with ‘economic warfare’, missiles]]></title>
+            <description><![CDATA[[West Asia] Iran threatens US with ‘economic warfare’, missiles]]></description>
+            <link>https://bdnews24.com/world/middle-east/4dbf27fb9577</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/4dbf27fb9577</guid>
+            <pubDate>Tue, 08 Sep 2026 09:36:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/iran-crisis-hormuz-080926-01-1788838499.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[North Korea, Russia open their first road bridge]]></title>
-            <description><![CDATA[[World] North Korea, Russia open their first road bridge]]></description>
-            <link>https://bdnews24.com/world/d6f116925f24</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/d6f116925f24</guid>
-            <pubDate>Tue, 08 Sep 2026 01:32:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/korea-russia-bridge-080926-01-1788809509.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Bolivia confirms 9 deaths in military base blast]]></title>
+            <description><![CDATA[[Americas] Bolivia confirms 9 deaths in military base blast]]></description>
+            <link>https://bdnews24.com/world/americas/55a8ae9a9545</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/55a8ae9a9545</guid>
+            <pubDate>Tue, 08 Sep 2026 09:32:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/bolivia-military-blast-080926-01-1788838303.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[The kush trail running through Bangladesh]]></title>
-            <description><![CDATA[[Bangladesh] The kush trail running through Bangladesh]]></description>
-            <link>https://bdnews24.com/bangladesh/8a2d5e666537</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/8a2d5e666537</guid>
-            <pubDate>Tue, 08 Sep 2026 01:23:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/kush-070926-101-1788808738.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Russian missiles hit Kyiv as US envoys leave]]></title>
+            <description><![CDATA[[Europe] Russian missiles hit Kyiv as US envoys leave]]></description>
+            <link>https://bdnews24.com/world/europe/1cd02c54944b</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/1cd02c54944b</guid>
+            <pubDate>Tue, 08 Sep 2026 09:29:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/kyiv-russia-attack-080926-01-1788838117.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Dhaka’s battery rickshaws to get QR codes: minister]]></title>
-            <description><![CDATA[[Bangladesh] Dhaka’s battery rickshaws to get QR codes: minister]]></description>
-            <link>https://bdnews24.com/bangladesh/5e698ef0ea87</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5e698ef0ea87</guid>
-            <pubDate>Tue, 08 Sep 2026 01:14:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/battery-rickshaw-highway-040926-042-1788527205.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dolly Parton’s sister slates AI tributes]]></title>
-            <description><![CDATA[[Entertainment] Dolly Parton’s sister slates AI tributes]]></description>
-            <link>https://bdnews24.com/entertainment/2d26e2eabd38</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/2d26e2eabd38</guid>
-            <pubDate>Tue, 08 Sep 2026 01:10:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/dolly-parton-murial-01-08092026-1788808208.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bavuma named SA ODI captain]]></title>
-            <description><![CDATA[[Cricket] Bavuma named SA ODI captain]]></description>
-            <link>https://bdnews24.com/cricket/d7050dc16232</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/d7050dc16232</guid>
-            <pubDate>Tue, 08 Sep 2026 00:58:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/temba-bavuma-080926-01-1788807474.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indonesia's microplastic problem fuels growing threat]]></title>
-            <description><![CDATA[[Health] Indonesia's microplastic problem fuels growing threat]]></description>
-            <link>https://bdnews24.com/health/5530f81791e7</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/5530f81791e7</guid>
-            <pubDate>Tue, 08 Sep 2026 00:16:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/microplastic-indonesia-07092026-01-1788804903.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[What property does Sheikh Hasina own?]]></title>
-            <description><![CDATA[[Bangladesh] What property does Sheikh Hasina own?]]></description>
-            <link>https://bdnews24.com/bangladesh/142f1faf3063</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/142f1faf3063</guid>
-            <pubDate>Tue, 08 Sep 2026 00:09:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/hasina-land-070926-01-1788798589.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Israeli Gaza rubble clearance could erase evidence, UN expert warns]]></title>
-            <description><![CDATA[[World] Israeli Gaza rubble clearance could erase evidence, UN expert warns]]></description>
-            <link>https://bdnews24.com/world/f2d51f4c607d</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/f2d51f4c607d</guid>
-            <pubDate>Mon, 07 Sep 2026 23:43:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/gaza-rubble-01-070926-1788802916.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Belgium pull Infantino backing over Balogun red-card feud]]></title>
-            <description><![CDATA[[Sport] Belgium pull Infantino backing over Balogun red-card feud]]></description>
-            <link>https://bdnews24.com/sport/c739f376ae10</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/c739f376ae10</guid>
-            <pubDate>Mon, 07 Sep 2026 23:22:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026July/SM/folarin-balogun-050726-01-1783277133.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India to join 2027 SAF Games in Pakistan after 23 years: report]]></title>
-            <description><![CDATA[[Sport] India to join 2027 SAF Games in Pakistan after 23 years: report]]></description>
-            <link>https://bdnews24.com/sport/e7ed356a0726</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/e7ed356a0726</guid>
-            <pubDate>Mon, 07 Sep 2026 22:50:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026January/SM/sa-games-280126-01-1769612947.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nepal mourns hundreds as flood search continues]]></title>
-            <description><![CDATA[[World] Nepal mourns hundreds as flood search continues]]></description>
-            <link>https://bdnews24.com/world/a33a5dfa5081</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/a33a5dfa5081</guid>
-            <pubDate>Mon, 07 Sep 2026 22:48:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/nepal-national-mourning-day-07092026-1788799671.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pattinson dazzles in Venice's ‘darkest film of the year’]]></title>
-            <description><![CDATA[[Entertainment] Pattinson dazzles in Venice's ‘darkest film of the year’]]></description>
-            <link>https://bdnews24.com/entertainment/426135197dfe</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/426135197dfe</guid>
-            <pubDate>Mon, 07 Sep 2026 22:36:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/pattinson-primetime-070926-01-1788798968.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[US presses Bangladesh for transparent LNG terminal bids]]></title>
-            <description><![CDATA[[Business] US presses Bangladesh for transparent LNG terminal bids]]></description>
-            <link>https://bdnews24.com/business/2e73126d1dd4</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/2e73126d1dd4</guid>
-            <pubDate>Mon, 07 Sep 2026 22:17:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/us-ambassador-070926-1788791446.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Microplastics found in higher levels in lung cancer patients]]></title>
-            <description><![CDATA[[Health] Microplastics found in higher levels in lung cancer patients]]></description>
-            <link>https://bdnews24.com/health/33cdffbd10f3</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/33cdffbd10f3</guid>
-            <pubDate>Mon, 07 Sep 2026 21:57:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/microplastics-research-070926-01-1788796422.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gulf cannot ‘rely’ on US only for security: Qatar]]></title>
-            <description><![CDATA[[West Asia] Gulf cannot ‘rely’ on US only for security: Qatar]]></description>
-            <link>https://bdnews24.com/world/middle-east/c80b0e8d7466</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/c80b0e8d7466</guid>
-            <pubDate>Mon, 07 Sep 2026 21:36:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/doha-us-flags-on-boats-070926-01-1788793717.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The dark side of Mindfulness]]></title>
-            <description><![CDATA[[Health] The dark side of Mindfulness]]></description>
-            <link>https://bdnews24.com/health/5d1bbbcabe9b</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/5d1bbbcabe9b</guid>
-            <pubDate>Mon, 07 Sep 2026 21:22:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/mindfulness-07092026-01-1788794482.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Italy logs hottest summer in over 75 years]]></title>
-            <description><![CDATA[[Environment] Italy logs hottest summer in over 75 years]]></description>
-            <link>https://bdnews24.com/environment/415a4ec431aa</link>
-            <guid isPermaLink="true">https://bdnews24.com/environment/415a4ec431aa</guid>
-            <pubDate>Mon, 07 Sep 2026 20:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/italy-summer-07092026-01-1788792545.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s New Mexico rename idea draws flak]]></title>
-            <description><![CDATA[[Americas] Trump’s New Mexico rename idea draws flak]]></description>
-            <link>https://bdnews24.com/world/americas/81c2df3c2e8f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/americas/81c2df3c2e8f</guid>
-            <pubDate>Mon, 07 Sep 2026 20:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/trump-newmexico-07092026-01-1788791901.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Hormuz traffic slows after Iran threatens retaliation]]></title>
+            <description><![CDATA[[West Asia] Hormuz traffic slows after Iran threatens retaliation]]></description>
+            <link>https://bdnews24.com/world/middle-east/912dc1b3bd50</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/912dc1b3bd50</guid>
+            <pubDate>Tue, 08 Sep 2026 09:25:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/hormuz-traffic-iran-080926-01-1788837904.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
