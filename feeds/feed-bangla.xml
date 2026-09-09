@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ]]></title>
+        <description><![CDATA[bangla.bdnews24.com আর্কাইভ থেকে সর্বশেষ সংবাদ]]></description>
         <link>https://bangla.bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Sep 2026 22:05:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2026 00:46:44 GMT</lastBuildDate>
         <atom:link href="https://bangla.bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 Sep 2026 22:05:58 GMT</pubDate>
+        <pubDate>Wed, 09 Sep 2026 00:46:44 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
-            <link>https://bangla.bdnews24.com</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com</guid>
-            <pubDate>Tue, 08 Sep 2026 22:05:58 GMT</pubDate>
+            <title><![CDATA[হলান্ডের জোড়া গোলে জয়ে শুরু সিটির]]></title>
+            <description><![CDATA[[খেলা] হলান্ডের জোড়া গোলে জয়ে শুরু সিটির]]></description>
+            <link>https://bangla.bdnews24.com/sport/9619d32311b3</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/9619d32311b3</guid>
+            <pubDate>Wed, 09 Sep 2026 00:46:44 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/manchester-city-090926-01-1788901148.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ইন্টারের ঝড় সামলে রেয়াল মাদ্রিদের উল্লাস]]></title>
+            <description><![CDATA[[খেলা] ইন্টারের ঝড় সামলে রেয়াল মাদ্রিদের উল্লাস]]></description>
+            <link>https://bangla.bdnews24.com/sport/82607ed8f6b5</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/82607ed8f6b5</guid>
+            <pubDate>Wed, 09 Sep 2026 00:46:44 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/mbappe-goal-090926-01-1788900957.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[পশ্চিম তীরে ইসরায়েলের অভিযান, অবরুদ্ধ বাসিন্দারা]]></title>
+            <description><![CDATA[[টিউব] পশ্চিম তীরে ইসরায়েলের অভিযান, অবরুদ্ধ বাসিন্দারা]]></description>
+            <link>https://bangla.bdnews24.com/tube/171b67e84ba9</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/171b67e84ba9</guid>
+            <pubDate>Wed, 09 Sep 2026 00:46:44 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/israeli-raid-video-text-thumb-1788896922.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বারডেম হাসপাতালের ছাদ থেকে লাফিয়ে ‘আত্মহত্যা’]]></title>
+            <description><![CDATA[[বাংলাদেশ] বারডেম হাসপাতালের ছাদ থেকে লাফিয়ে ‘আত্মহত্যা’]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/1a3711e4ceed</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/1a3711e4ceed</guid>
+            <pubDate>Wed, 09 Sep 2026 00:46:44 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/sultan-russel-080926-01-1788896702.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বুড়িগঙ্গা-তুরাগের দুই শতাধিক বর্জ্য উৎসমুখ বন্ধ হবে তো?]]></title>
+            <description><![CDATA[[বাংলাদেশ] বুড়িগঙ্গা-তুরাগের দুই শতাধিক বর্জ্য উৎসমুখ বন্ধ হবে তো?]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/a7656f331e79</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/a7656f331e79</guid>
+            <pubDate>Wed, 09 Sep 2026 00:46:44 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/pollution-buriganga-factory-waste-280426-028-1786637865.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[হরমুজে ‘অত্যাধুনিক’ মার্কিন সাবমেরিন আটকের দাবি ইরানের]]></title>
+            <description><![CDATA[[বিশ্ব] হরমুজে ‘অত্যাধুনিক’ মার্কিন সাবমেরিন আটকের দাবি ইরানের]]></description>
+            <link>https://bangla.bdnews24.com/world/c069423bbbba</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/world/c069423bbbba</guid>
+            <pubDate>Wed, 09 Sep 2026 00:46:44 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/hormuz-strait-120726-1783833239.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[কিছু বেসরকারি বিশ্ববিদ্যালয়ে পিএইচডির সুযোগ দেওয়া হবে: ইউজিসি চেয়ারম্যান]]></title>
+            <description><![CDATA[[টিউব] কিছু বেসরকারি বিশ্ববিদ্যালয়ে পিএইচডির সুযোগ দেওয়া হবে: ইউজিসি চেয়ারম্যান]]></description>
+            <link>https://bangla.bdnews24.com/tube/c574e64cc369</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/c574e64cc369</guid>
+            <pubDate>Wed, 09 Sep 2026 00:46:44 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/uap-research-award-video-text-thumb-1788895303.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[নোয়াখালীতে ছাত্রীকে ধর্ষণের অভিযোগে মাদ্রাসা শিক্ষককে পিটুনি]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] নোয়াখালীতে ছাত্রীকে ধর্ষণের অভিযোগে মাদ্রাসা শিক্ষককে পিটুনি]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/f010e84fb5f2</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/f010e84fb5f2</guid>
+            <pubDate>Wed, 09 Sep 2026 00:46:44 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/noakhali-madrasa-teacher-080926-01-1788895049.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ওয়াহ্‌বি কোচ থাকলে মরক্কোর হয়ে খেলবেন না আমরাবাত]]></title>
+            <description><![CDATA[[খেলা] ওয়াহ্‌বি কোচ থাকলে মরক্কোর হয়ে খেলবেন না আমরাবাত]]></description>
+            <link>https://bangla.bdnews24.com/sport/489688b385de</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/489688b385de</guid>
+            <pubDate>Wed, 09 Sep 2026 00:46:44 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/sofyan-amrabat-090926-01-1788894812.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[গাজী নজরুল এমপি আছেন, এমপি নেই]]></title>
+            <description><![CDATA[[মতামত] গাজী নজরুল এমপি আছেন, এমপি নেই]]></description>
+            <link>https://bangla.bdnews24.com/opinion/9d66deedb4f8</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/opinion/9d66deedb4f8</guid>
+            <pubDate>Wed, 09 Sep 2026 00:46:44 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/satkhira-mp-nazrul-210726-01-1784622633.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[জাতিসংঘ সাধারণ পরিষদের সভাপতির দায়িত্ব নিলেন খলিলুর]]></title>
+            <description><![CDATA[[টিউব] জাতিসংঘ সাধারণ পরিষদের সভাপতির দায়িত্ব নিলেন খলিলুর]]></description>
+            <link>https://bangla.bdnews24.com/tube/60d71e4d3505</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/60d71e4d3505</guid>
+            <pubDate>Wed, 09 Sep 2026 00:46:44 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/khalilur-unga-president-video-text-thumb-1788894402.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[সরকারি চাকরির মৌখিক পরীক্ষায় নম্বর বাড়ানোর প্রতিবাদে ডাকসুর বিক্ষোভ]]></title>
+            <description><![CDATA[[ক্যাম্পাস] সরকারি চাকরির মৌখিক পরীক্ষায় নম্বর বাড়ানোর প্রতিবাদে ডাকসুর বিক্ষোভ]]></description>
+            <link>https://bangla.bdnews24.com/campus/ec87b557a364</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/campus/ec87b557a364</guid>
+            <pubDate>Wed, 09 Sep 2026 00:46:44 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/ducsu-protest-080926-01-1788893664.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[সাতকানিয়ায় ছুরিকাঘাতে যুবক খুন, গ্রেপ্তার ১]]></title>
+            <description><![CDATA[[চট্টগ্রাম] সাতকানিয়ায় ছুরিকাঘাতে যুবক খুন, গ্রেপ্তার ১]]></description>
+            <link>https://bangla.bdnews24.com/ctg/a11eefef3b14</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/ctg/a11eefef3b14</guid>
+            <pubDate>Wed, 09 Sep 2026 00:46:44 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/hamim-murder-chattagram-080926-01-1788893510.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[১২ ব্রিটিশ এমপির প্রবেশে নিষেধাজ্ঞা দিল ইসরায়েল]]></title>
+            <description><![CDATA[[বিশ্ব] ১২ ব্রিটিশ এমপির প্রবেশে নিষেধাজ্ঞা দিল ইসরায়েল]]></description>
+            <link>https://bangla.bdnews24.com/world/43362df34cea</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/world/43362df34cea</guid>
+            <pubDate>Wed, 09 Sep 2026 00:46:44 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/gideon-saar-80926-01-1788893337.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[নেপালের সুড়ঙ্গে জল-কাদা আর অন্ধকারে ৯ দিন কীভাবে বেঁচে ছিলেন দুই শ্রমিক?]]></title>
+            <description><![CDATA[[বিশ্ব] নেপালের সুড়ঙ্গে জল-কাদা আর অন্ধকারে ৯ দিন কীভাবে বেঁচে ছিলেন দুই শ্রমিক?]]></description>
+            <link>https://bangla.bdnews24.com/world/1ca5fb0a0973</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/world/1ca5fb0a0973</guid>
+            <pubDate>Wed, 09 Sep 2026 00:46:44 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/survivor-kabir-maharjan-080926-101-1788892745.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[অগাস্টেও পিএমআই কমেছে]]></title>
+            <description><![CDATA[[অর্থনীতি] অগাস্টেও পিএমআই কমেছে]]></description>
+            <link>https://bangla.bdnews24.com/economy/aedc58a641a4</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/economy/aedc58a641a4</guid>
+            <pubDate>Wed, 09 Sep 2026 00:46:44 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/day-labour-090321-04-1788892354.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ব্যানার লাগাতে গিয়ে বিদ্যুতায়িত হয়ে চবি শিক্ষার্থীর মৃত্যু]]></title>
+            <description><![CDATA[[ক্যাম্পাস] ব্যানার লাগাতে গিয়ে বিদ্যুতায়িত হয়ে চবি শিক্ষার্থীর মৃত্যু]]></description>
+            <link>https://bangla.bdnews24.com/campus/409747285f48</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/campus/409747285f48</guid>
+            <pubDate>Wed, 09 Sep 2026 00:46:44 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/cu-ariful-islam-090826-01-1788892192.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[সর্বোচ্চ বেতন পাওয়া বিশ্বনেতার বেতন বাড়ছে ১১ লাখ ডলার]]></title>
+            <description><![CDATA[[বিশ্ব] সর্বোচ্চ বেতন পাওয়া বিশ্বনেতার বেতন বাড়ছে ১১ লাখ ডলার]]></description>
+            <link>https://bangla.bdnews24.com/world/e7aa3b637c07</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/world/e7aa3b637c07</guid>
+            <pubDate>Wed, 09 Sep 2026 00:46:44 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/lawrence-wong-080926-0111-1788891336.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বৈশ্বিক সব সমস্যার সমাধান হয়ত হবে না, তবে চেষ্টা চালাব: খলিলুর রহমান]]></title>
+            <description><![CDATA[[বাংলাদেশ] বৈশ্বিক সব সমস্যার সমাধান হয়ত হবে না, তবে চেষ্টা চালাব: খলিলুর রহমান]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/97074dc82a0a</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/97074dc82a0a</guid>
+            <pubDate>Wed, 09 Sep 2026 00:46:44 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/khalilur-rahman-080926-01-1788885231.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বাঁধনের ওপর হামলা: পাশে আছে দূতাবাস, পুলিশের তদন্ত শুরু]]></title>
+            <description><![CDATA[[প্রবাস] বাঁধনের ওপর হামলা: পাশে আছে দূতাবাস, পুলিশের তদন্ত শুরু]]></description>
+            <link>https://bangla.bdnews24.com/probash/839154ca7f34</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/probash/839154ca7f34</guid>
+            <pubDate>Wed, 09 Sep 2026 00:46:44 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/azmeri-haque-badhon-080926-01-1788875664.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
