@@ -4,17 +4,57 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 09 Sep 2026 18:04:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2026 21:18:54 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 09 Sep 2026 18:04:40 GMT</pubDate>
+        <pubDate>Wed, 09 Sep 2026 21:18:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Apple unveils iPhone 18 Pro as foldable looms]]></title>
-            <description><![CDATA[[Technology] Apple unveils iPhone 18 Pro as foldable looms]]></description>
+            <title><![CDATA[Google outlays $15bn for AI, Finnish nuclear power]]></title>
+            <description><![CDATA[[Technology] Google outlays $15bn for AI, Finnish nuclear power]]></description>
+            <link>https://bdnews24.com/technology/721336d1fed5</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/721336d1fed5</guid>
+            <pubDate>Thu, 10 Sep 2026 03:04:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/google-logo-100926-01-1788987832.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Saima Wazed resigns as WHO regional head]]></title>
+            <description><![CDATA[[Bangladesh] Saima Wazed resigns as WHO regional head]]></description>
+            <link>https://bdnews24.com/bangladesh/a9585cdfabca</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/a9585cdfabca</guid>
+            <pubDate>Thu, 10 Sep 2026 02:37:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026August/SM/25-saima-wazed-putul-amo-110816-0011-1787237715.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Barca thrash Feyenoord; Demirovic hits hat-trick]]></title>
+            <description><![CDATA[[Sport] Barca thrash Feyenoord; Demirovic hits hat-trick]]></description>
+            <link>https://bdnews24.com/sport/951eb250c5a4</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/951eb250c5a4</guid>
+            <pubDate>Thu, 10 Sep 2026 02:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/barcelona-100926-01-1788979317.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The children measles campaign leaves behind]]></title>
+            <description><![CDATA[[Health] The children measles campaign leaves behind]]></description>
+            <link>https://bdnews24.com/health/4d6796f5b7eb</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/4d6796f5b7eb</guid>
+            <pubDate>Thu, 10 Sep 2026 01:49:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/measles-child-hospital-280526-04-1779988095.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Root backs Pietersen England return]]></title>
+            <description><![CDATA[[Sport] Root backs Pietersen England return]]></description>
+            <link>https://bdnews24.com/sport/fa876bf974dc</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/fa876bf974dc</guid>
+            <pubDate>Thu, 10 Sep 2026 00:12:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/joe-root-090926-01-1788977474.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Apple debuts foldable iPhone Duo]]></title>
+            <description><![CDATA[[Technology] Apple debuts foldable iPhone Duo]]></description>
             <link>https://bdnews24.com/technology/b2662c12c305</link>
             <guid isPermaLink="true">https://bdnews24.com/technology/b2662c12c305</guid>
             <pubDate>Wed, 09 Sep 2026 23:45:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/20260909102857-jpg-1788976412.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/apple-duo-090926-01-1788978810.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Xiaomi launches Redmi Note 17 Series in Bangladesh]]></title>
@@ -127,46 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/business/11c5a84fe7dd</guid>
             <pubDate>Wed, 09 Sep 2026 19:34:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/cargo-170626-1781685390.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mamdani releases records on 9/11 toxic air: report]]></title>
-            <description><![CDATA[[World] Mamdani releases records on 9/11 toxic air: report]]></description>
-            <link>https://bdnews24.com/world/f05f35601ec9</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/f05f35601ec9</guid>
-            <pubDate>Wed, 09 Sep 2026 19:30:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/mamdani-090926-01-1788957995.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dengue: 3 die, 1,463 hospitalised]]></title>
-            <description><![CDATA[[Health] Dengue: 3 die, 1,463 hospitalised]]></description>
-            <link>https://bdnews24.com/health/3e67890c71e4</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/3e67890c71e4</guid>
-            <pubDate>Wed, 09 Sep 2026 19:28:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dengue-patient-shaheed-suhrawardy-medical-college270723-25-1783598154.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil surges past $100 as war stokes supply fear]]></title>
-            <description><![CDATA[[West Asia] Oil surges past $100 as war stokes supply fear]]></description>
-            <link>https://bdnews24.com/world/middle-east/60aa5b8ffbc4</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/middle-east/60aa5b8ffbc4</guid>
-            <pubDate>Wed, 09 Sep 2026 19:23:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/oil-prices-090926-01-1788960092.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Henry backs Mbappé for 2026 Ballon d’Or: report]]></title>
-            <description><![CDATA[[Sport] Henry backs Mbappé for 2026 Ballon d’Or: report]]></description>
-            <link>https://bdnews24.com/sport/710dbb6c7c64</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/710dbb6c7c64</guid>
-            <pubDate>Wed, 09 Sep 2026 19:03:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/mbappe-ballon-dor-henry-090926-01-1788958983.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lightning ignites gas riser at minister’s home]]></title>
-            <description><![CDATA[[Bangladesh] Lightning ignites gas riser at minister’s home]]></description>
-            <link>https://bdnews24.com/bangladesh/baaa3a467e85</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/baaa3a467e85</guid>
-            <pubDate>Wed, 09 Sep 2026 18:54:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/sirajganj-fire-090926-01-1788956315.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
