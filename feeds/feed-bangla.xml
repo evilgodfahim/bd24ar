@@ -1,172 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ]]></title>
-        <description><![CDATA[bangla.bdnews24.com আর্কাইভ থেকে সর্বশেষ সংবাদ]]></description>
+        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://bangla.bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Sep 2026 06:44:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2026 11:55:29 GMT</lastBuildDate>
         <atom:link href="https://bangla.bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 Sep 2026 06:44:05 GMT</pubDate>
+        <pubDate>Thu, 10 Sep 2026 11:55:29 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[মোড়ে দাঁড়িয়ে থাকা মানুষ]]></title>
-            <description><![CDATA[[আর্টস] মোড়ে দাঁড়িয়ে থাকা মানুষ]]></description>
-            <link>https://bangla.bdnews24.com/arts/87c3f782031e</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/arts/87c3f782031e</guid>
-            <pubDate>Thu, 10 Sep 2026 06:44:05 GMT</pubDate>
-            <enclosure url="https://bangla.bdnews24.com/frontend/assets/images/common/thumb.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[বাবার লাশ দেখতে বাড়ি ফেরার পথে ট্রাকচাপায় ছেলের মৃত্যু]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] বাবার লাশ দেখতে বাড়ি ফেরার পথে ট্রাকচাপায় ছেলের মৃত্যু]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/22fe54bd2087</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/22fe54bd2087</guid>
-            <pubDate>Thu, 10 Sep 2026 06:44:05 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/kushtia-accident-100926-1789021857.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ঠাকুরগাঁও-১ আসনে উপনির্বাচন ২৯ অক্টোবর]]></title>
-            <description><![CDATA[[বাংলাদেশ] ঠাকুরগাঁও-১ আসনে উপনির্বাচন ২৯ অক্টোবর]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/5f2eccf0c6ec</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/5f2eccf0c6ec</guid>
-            <pubDate>Thu, 10 Sep 2026 06:44:05 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/akther-ahmed-100926-1789021695.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ঢাবির অবসরপ্রাপ্ত অধ্যাপক সিরাজুল হকের মৃত্যু]]></title>
-            <description><![CDATA[[ক্যাম্পাস] ঢাবির অবসরপ্রাপ্ত অধ্যাপক সিরাজুল হকের মৃত্যু]]></description>
-            <link>https://bangla.bdnews24.com/campus/77ec96fff858</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/campus/77ec96fff858</guid>
-            <pubDate>Thu, 10 Sep 2026 06:44:05 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/sirajul-haque-100926-01-1789021134.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[১০ সেপ্টেম্বর ২০২৬]]></title>
-            <description><![CDATA[[ছবি] ১০ সেপ্টেম্বর ২০২৬]]></description>
-            <link>https://bangla.bdnews24.com/media_bn/image/39f72cf2a263</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/media_bn/image/39f72cf2a263</guid>
-            <pubDate>Thu, 10 Sep 2026 06:44:05 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/mohakhali-bat-fire-100926-02-1789020491.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[রোহিঙ্গা সংকট বাংলাদেশ তৈরি করেনি, একা এর সমাধানও সম্ভব নয়: প্রতিমন্ত্রী হুমায়ুন]]></title>
-            <description><![CDATA[[বাংলাদেশ] রোহিঙ্গা সংকট বাংলাদেশ তৈরি করেনি, একা এর সমাধানও সম্ভব নয়: প্রতিমন্ত্রী হুমায়ুন]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/edb6bb0c6a4e</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/edb6bb0c6a4e</guid>
-            <pubDate>Thu, 10 Sep 2026 06:44:05 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/humayun-kabir-100926-01-1789020345.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[নিউ জিল্যান্ডে দেশের প্রথম আবাসিক হাই কমিশনারের পরিচয়পত্র পেশ]]></title>
-            <description><![CDATA[[প্রবাস] নিউ জিল্যান্ডে দেশের প্রথম আবাসিক হাই কমিশনারের পরিচয়পত্র পেশ]]></description>
-            <link>https://bangla.bdnews24.com/probash/0be28da0976d</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/probash/0be28da0976d</guid>
-            <pubDate>Thu, 10 Sep 2026 06:44:05 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/new-zealand-100926-01-1789019700.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[গা-ছমছমে আবহে এল অল্টম্যান বায়োপিকের প্রথম ট্রেইলার]]></title>
-            <description><![CDATA[[টেক] গা-ছমছমে আবহে এল অল্টম্যান বায়োপিকের প্রথম ট্রেইলার]]></description>
-            <link>https://bangla.bdnews24.com/tech/0e9d3e6deb58</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/tech/0e9d3e6deb58</guid>
-            <pubDate>Thu, 10 Sep 2026 06:44:05 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/sam-altman-biopic-090926-01-1789019383.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[৪৭ বছর বয়সে ৫ উইকেট, চিরসবুজ তাহিরের বিশ্বরেকর্ড]]></title>
-            <description><![CDATA[[ক্রিকেট] ৪৭ বছর বয়সে ৫ উইকেট, চিরসবুজ তাহিরের বিশ্বরেকর্ড]]></description>
-            <link>https://bangla.bdnews24.com/cricket/58dced8b467b</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/cricket/58dced8b467b</guid>
-            <pubDate>Thu, 10 Sep 2026 06:44:05 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/imran-tahir-celebration-100926-1789018466.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[মহাখালীতে ভবনের আগুন নিয়ন্ত্রণে]]></title>
-            <description><![CDATA[[বাংলাদেশ] মহাখালীতে ভবনের আগুন নিয়ন্ত্রণে]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/eb2b9b148d94</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/eb2b9b148d94</guid>
-            <pubDate>Thu, 10 Sep 2026 06:44:05 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/mohakhali-fire-100926-01-1789018357.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ইরানকে সতর্ক করে হুতিদের লাগাম টেনে ধরতে বলল পাকিস্তান]]></title>
-            <description><![CDATA[[বিশ্ব] ইরানকে সতর্ক করে হুতিদের লাগাম টেনে ধরতে বলল পাকিস্তান]]></description>
-            <link>https://bangla.bdnews24.com/world/f1e77465cf50</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/world/f1e77465cf50</guid>
-            <pubDate>Thu, 10 Sep 2026 06:44:05 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/houthi-attacks-100926-01-1789017843.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ধানমন্ডিতে এপেক্সের বিক্রয়কেন্দ্রে আগুন]]></title>
-            <description><![CDATA[[বাংলাদেশ] ধানমন্ডিতে এপেক্সের বিক্রয়কেন্দ্রে আগুন]]></description>
-            <link>https://bangla.bdnews24.com/bangladesh/00e0e5a8c5a9</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/00e0e5a8c5a9</guid>
-            <pubDate>Thu, 10 Sep 2026 06:44:05 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/apex-dhanmobdi-fire-100926-01-1789017428.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[বন্যার চোখরাঙানি: নদী সাঁতরে সমতলে গবাদিপশু]]></title>
-            <description><![CDATA[[ছবির গল্প] বন্যার চোখরাঙানি: নদী সাঁতরে সমতলে গবাদিপশু]]></description>
-            <link>https://bangla.bdnews24.com/photostory/b1f5ebf182d7</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/photostory/b1f5ebf182d7</guid>
-            <pubDate>Thu, 10 Sep 2026 06:44:05 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/cattle-padma-riverbed-090926-06-1789017233.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[পাসপোর্টের সমান স্মার্টফোন ‘আইফোন ডুও’]]></title>
-            <description><![CDATA[[টিউব] পাসপোর্টের সমান স্মার্টফোন ‘আইফোন ডুও’]]></description>
-            <link>https://bangla.bdnews24.com/tube/8abc4cd13eea</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/8abc4cd13eea</guid>
-            <pubDate>Thu, 10 Sep 2026 06:44:05 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/iphone-duo-hd-thumb-1789014736.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ওটিটিতে ‘বাড়ির নাম শাহানা’]]></title>
-            <description><![CDATA[[গ্লিটজ] ওটিটিতে ‘বাড়ির নাম শাহানা’]]></description>
-            <link>https://bangla.bdnews24.com/glitz/cdf29c152439</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/glitz/cdf29c152439</guid>
-            <pubDate>Thu, 10 Sep 2026 06:44:05 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025August/SM/barir-nam-shahana-230825-01-1756012628.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[সিপিএল অভিষেকে মিরাজের দুর্দান্ত বোলিং, তাহির বললেন, ‘বিশ্বমানের স্পিনার’]]></title>
-            <description><![CDATA[[ক্রিকেট] সিপিএল অভিষেকে মিরাজের দুর্দান্ত বোলিং, তাহির বললেন, ‘বিশ্বমানের স্পিনার’]]></description>
-            <link>https://bangla.bdnews24.com/cricket/729ad274fd1a</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/cricket/729ad274fd1a</guid>
-            <pubDate>Thu, 10 Sep 2026 06:44:05 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/mehedy-hasan-miraz-cpl-100926-1789014534.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[খুলনায় চারটি মোটরসাইকেলে এসে যুবককে কুপিয়ে হত্যা]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] খুলনায় চারটি মোটরসাইকেলে এসে যুবককে কুপিয়ে হত্যা]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/2800c070e808</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/2800c070e808</guid>
-            <pubDate>Thu, 10 Sep 2026 06:44:05 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/khulna-murder-100926-01-1789013545.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[র‍্যামের আকাশচুম্বী দামের পেছনে কারণ কী?]]></title>
-            <description><![CDATA[[টেক] র‍্যামের আকাশচুম্বী দামের পেছনে কারণ কী?]]></description>
-            <link>https://bangla.bdnews24.com/tech/4e05b647c131</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/tech/4e05b647c131</guid>
-            <pubDate>Thu, 10 Sep 2026 06:44:05 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/ram-prices-high-090926-01-1789013027.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[টেকনাফে ছুরিকাঘাতে নৈশপ্রহরী নিহত, আহত ৫]]></title>
-            <description><![CDATA[[সমগ্র বাংলাদেশ] টেকনাফে ছুরিকাঘাতে নৈশপ্রহরী নিহত, আহত ৫]]></description>
-            <link>https://bangla.bdnews24.com/samagrabangladesh/ee17d26f1bfc</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/ee17d26f1bfc</guid>
-            <pubDate>Thu, 10 Sep 2026 06:44:05 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/teknaf-murder-100926-01-1789012196.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ফিলিপিন্সে ফেরিতে আগুনে ৫ মৃত্যু, নিখোঁজ ৮০]]></title>
-            <description><![CDATA[[বিশ্ব] ফিলিপিন্সে ফেরিতে আগুনে ৫ মৃত্যু, নিখোঁজ ৮০]]></description>
-            <link>https://bangla.bdnews24.com/world/630fcf3d4469</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com/world/630fcf3d4469</guid>
-            <pubDate>Thu, 10 Sep 2026 06:44:05 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/philippines-ferry-fire-100926-01-1789010115.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
+            <link>https://bangla.bdnews24.com</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com</guid>
+            <pubDate>Thu, 10 Sep 2026 11:55:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
