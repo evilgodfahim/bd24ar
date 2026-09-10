@@ -1,19 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[bdnews24.com – সর্বশেষ বাংলা সংবাদ]]></title>
+        <description><![CDATA[bangla.bdnews24.com আর্কাইভ থেকে সর্বশেষ সংবাদ]]></description>
         <link>https://bangla.bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Sep 2026 11:55:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2026 15:19:23 GMT</lastBuildDate>
         <atom:link href="https://bangla.bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 Sep 2026 11:55:29 GMT</pubDate>
+        <pubDate>Thu, 10 Sep 2026 15:19:23 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping: Request failed with status code 500]]></description>
-            <link>https://bangla.bdnews24.com</link>
-            <guid isPermaLink="true">https://bangla.bdnews24.com</guid>
-            <pubDate>Thu, 10 Sep 2026 11:55:29 GMT</pubDate>
+            <title><![CDATA[ভারতের তামিলনাড়ুর ক্যাম্প থেকে ফিরলেন নারীসহ ৪৭ জন]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] ভারতের তামিলনাড়ুর ক্যাম্প থেকে ফিরলেন নারীসহ ৪৭ জন]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/0ee8e9f05e67</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/0ee8e9f05e67</guid>
+            <pubDate>Thu, 10 Sep 2026 15:19:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/benapol-port-100926-01-1789053297.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘৩৪ বছরের একজন দলের ভবিষ্যৎ নয়’ সিলভার সমালোচনায় আনচেলত্তি জবাব]]></title>
+            <description><![CDATA[[খেলা] ‘৩৪ বছরের একজন দলের ভবিষ্যৎ নয়’ সিলভার সমালোচনায় আনচেলত্তি জবাব]]></description>
+            <link>https://bangla.bdnews24.com/sport/061bbeae6516</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/sport/061bbeae6516</guid>
+            <pubDate>Thu, 10 Sep 2026 15:19:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/ancelotti-100926-01-1789052848.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বাকস্বাধীনতা যেন ‘বাকশালীনতার’ সীমা লঙ্ঘন না করে: সংসদে প্রধানমন্ত্রী]]></title>
+            <description><![CDATA[[রাজনীতি] বাকস্বাধীনতা যেন ‘বাকশালীনতার’ সীমা লঙ্ঘন না করে: সংসদে প্রধানমন্ত্রী]]></description>
+            <link>https://bangla.bdnews24.com/politics/69efd1ab5e24</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/politics/69efd1ab5e24</guid>
+            <pubDate>Thu, 10 Sep 2026 15:19:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/tareque-rahman-020926-1788350518.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ঢাকায় শুক্রবার পর্দা উঠছে কবীর-লালন ভাবসংগীত উৎসবের]]></title>
+            <description><![CDATA[[গ্লিটজ] ঢাকায় শুক্রবার পর্দা উঠছে কবীর-লালন ভাবসংগীত উৎসবের]]></description>
+            <link>https://bangla.bdnews24.com/glitz/a8444f92d3de</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/glitz/a8444f92d3de</guid>
+            <pubDate>Thu, 10 Sep 2026 15:19:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/kabir-lalon-vab-utsob-110926-01-1789052497.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[গরু চুরির অভিযোগে শালিসে তিনজনকে নির্যাতন, চোখে-মুখে চুন]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] গরু চুরির অভিযোগে শালিসে তিনজনকে নির্যাতন, চোখে-মুখে চুন]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/a2ddf9e08363</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/a2ddf9e08363</guid>
+            <pubDate>Thu, 10 Sep 2026 15:19:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/sunamganj-theft-lynching-100926-01-1789052007.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ঢাকার জলাবদ্ধতা নিরসন ব্যবস্থা অপ্রতুল, সংসদে স্বীকার করলেন মঈন খান]]></title>
+            <description><![CDATA[[রাজনীতি] ঢাকার জলাবদ্ধতা নিরসন ব্যবস্থা অপ্রতুল, সংসদে স্বীকার করলেন মঈন খান]]></description>
+            <link>https://bangla.bdnews24.com/politics/f8885e174ae9</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/politics/f8885e174ae9</guid>
+            <pubDate>Thu, 10 Sep 2026 15:19:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/abdul-moeen-khan-100926-01-1789051858.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ধর্ম পরিচয়ের সংকটে আটকে আছে যুবকের শেষকৃত্য, লাশ হিমঘরে]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] ধর্ম পরিচয়ের সংকটে আটকে আছে যুবকের শেষকৃত্য, লাশ হিমঘরে]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/c632dc41cd6b</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/c632dc41cd6b</guid>
+            <pubDate>Thu, 10 Sep 2026 15:19:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/narayanganj-billa-100926-01-1789051768.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[সরকার ৬ মাসে কোনো সমস্যা সমাধান করতে পারেনি: জাপা মহাসচিব]]></title>
+            <description><![CDATA[[টিউব] সরকার ৬ মাসে কোনো সমস্যা সমাধান করতে পারেনি: জাপা মহাসচিব]]></description>
+            <link>https://bangla.bdnews24.com/tube/26a7fea8f2e5</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/tube/26a7fea8f2e5</guid>
+            <pubDate>Thu, 10 Sep 2026 15:19:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/sunamgaj-shamim-thumb-10092026-1789051713.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[চবির সোহরাওয়ার্দী হলের প্রাধ্যক্ষের দায়িত্বে ইসমাইল চৌধুরী]]></title>
+            <description><![CDATA[[ক্যাম্পাস] চবির সোহরাওয়ার্দী হলের প্রাধ্যক্ষের দায়িত্বে ইসমাইল চৌধুরী]]></description>
+            <link>https://bangla.bdnews24.com/campus/55773e4e4c08</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/campus/55773e4e4c08</guid>
+            <pubDate>Thu, 10 Sep 2026 15:19:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/cu-sahrawardi-hall-provost-ismail-choudhuri-10092026-1789051589.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ছাত্রদল নেতার বাসায় মিলল ৭০ বোতল বিদেশি মদ, বহিষ্কার]]></title>
+            <description><![CDATA[[চট্টগ্রাম] ছাত্রদল নেতার বাসায় মিলল ৭০ বোতল বিদেশি মদ, বহিষ্কার]]></description>
+            <link>https://bangla.bdnews24.com/ctg/750362f53252</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/ctg/750362f53252</guid>
+            <pubDate>Thu, 10 Sep 2026 15:19:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/chattogram-alcohol-arrest-100926-1789051198.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[বিরোধী দলীয় নেতার সঙ্গে নেপালের রাষ্ট্রদূতের সাক্ষাৎ]]></title>
+            <description><![CDATA[[বাংলাদেশ] বিরোধী দলীয় নেতার সঙ্গে নেপালের রাষ্ট্রদূতের সাক্ষাৎ]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/ac9ea406137b</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/ac9ea406137b</guid>
+            <pubDate>Thu, 10 Sep 2026 15:19:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/shafiqur-rahman-100926-01-1789050886.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[হুতিদের দখলে ইয়েমেনের মোখা বন্দর, বাব আল-মান্দেবও কব্জার পথে]]></title>
+            <description><![CDATA[[বিশ্ব] হুতিদের দখলে ইয়েমেনের মোখা বন্দর, বাব আল-মান্দেবও কব্জার পথে]]></description>
+            <link>https://bangla.bdnews24.com/world/c134566bcb55</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/world/c134566bcb55</guid>
+            <pubDate>Thu, 10 Sep 2026 15:19:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/houthi-attack-energy-crunch-100926-01-1789045083.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ওয়ালটনের উৎপাদন কার্যক্রম ঘুরে দেখলেন সমাজকল্যাণমন্ত্রী]]></title>
+            <description><![CDATA[[করপোরেট] ওয়ালটনের উৎপাদন কার্যক্রম ঘুরে দেখলেন সমাজকল্যাণমন্ত্রী]]></description>
+            <link>https://bangla.bdnews24.com/corporate/a2c6f993aef7</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/corporate/a2c6f993aef7</guid>
+            <pubDate>Thu, 10 Sep 2026 15:19:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/walton-100926-01-1789050381.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘পাহাড়ে গেলে স্বাস্থ্য ভালো হয়, সেজন্যই পাহাড়ে দিয়েছে’]]></title>
+            <description><![CDATA[[বাংলাদেশ] ‘পাহাড়ে গেলে স্বাস্থ্য ভালো হয়, সেজন্যই পাহাড়ে দিয়েছে’]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/4061474e305c</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/4061474e305c</guid>
+            <pubDate>Thu, 10 Sep 2026 15:19:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026June/SM/hafiz-uddin-ahmed-210626-1782039195.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[গণপতি পরিবার হত্যা: বিচার বিভাগীয় তদন্ত চেয়ে রিট মামলার শুনানি ৮ সপ্তাহ মুলতবি]]></title>
+            <description><![CDATA[[বাংলাদেশ] গণপতি পরিবার হত্যা: বিচার বিভাগীয় তদন্ত চেয়ে রিট মামলার শুনানি ৮ সপ্তাহ মুলতবি]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/c58d0b4e358a</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/c58d0b4e358a</guid>
+            <pubDate>Thu, 10 Sep 2026 15:19:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026August/SM/rangpur-four-deadbody-220826-01-1787424418.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[এসবি সদস্যকে হত্যা: ৩ আসামির স্বীকারোক্তি, দুজন পাঁচদিনের রিমান্ডে]]></title>
+            <description><![CDATA[[বাংলাদেশ] এসবি সদস্যকে হত্যা: ৩ আসামির স্বীকারোক্তি, দুজন পাঁচদিনের রিমান্ডে]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/41051309fb39</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/41051309fb39</guid>
+            <pubDate>Thu, 10 Sep 2026 15:19:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/altaf-hossain-police-sb-050926-01-1788638059.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[রাজশাহীতে জুয়েলার্সের দোকানে চুরি: আড়াই মাস পর ২৬ ভরি স্বর্ণসহ গ্রেপ্তার ৮]]></title>
+            <description><![CDATA[[সমগ্র বাংলাদেশ] রাজশাহীতে জুয়েলার্সের দোকানে চুরি: আড়াই মাস পর ২৬ ভরি স্বর্ণসহ গ্রেপ্তার ৮]]></description>
+            <link>https://bangla.bdnews24.com/samagrabangladesh/7f650205af3f</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/samagrabangladesh/7f650205af3f</guid>
+            <pubDate>Thu, 10 Sep 2026 15:19:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/rajshahi-arrest-100926-01-1789049130.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[আড্ডানামা-৬: গীতিআরা সাফিয়া চৌধুরী]]></title>
+            <description><![CDATA[[গ্লিটজ] আড্ডানামা-৬: গীতিআরা সাফিয়া চৌধুরী]]></description>
+            <link>https://bangla.bdnews24.com/glitz/a5b9e84aa841</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/glitz/a5b9e84aa841</guid>
+            <pubDate>Thu, 10 Sep 2026 15:19:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/geeteara-main-episode-thumb-1-1789049168.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[দোলাইরপাড়ে শিশু অপহরণ: গৃহশিক্ষকের ‘স্বীকারোক্তি’]]></title>
+            <description><![CDATA[[বাংলাদেশ] দোলাইরপাড়ে শিশু অপহরণ: গৃহশিক্ষকের ‘স্বীকারোক্তি’]]></description>
+            <link>https://bangla.bdnews24.com/bangladesh/e7dc5f34facf</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/bangladesh/e7dc5f34facf</guid>
+            <pubDate>Thu, 10 Sep 2026 15:19:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/abduction-case-arrest-zobayer-100926-01-1789048972.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[যেভাবে বুঝবেন তোয়ালের আয়ু শেষ]]></title>
+            <description><![CDATA[[জেনে রাখুন] যেভাবে বুঝবেন তোয়ালের আয়ু শেষ]]></description>
+            <link>https://bangla.bdnews24.com/lifestyle/Jenerakun/d994ec713277</link>
+            <guid isPermaLink="true">https://bangla.bdnews24.com/lifestyle/Jenerakun/d994ec713277</guid>
+            <pubDate>Thu, 10 Sep 2026 15:19:23 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/towel-100926-1789048779.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
