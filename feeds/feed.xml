@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 Sep 2026 16:42:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Sep 2026 19:02:08 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 13 Sep 2026 16:42:06 GMT</pubDate>
+        <pubDate>Sun, 13 Sep 2026 19:02:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Ministry asks NBR to suspend yarn curbs]]></title>
+            <description><![CDATA[[Business] Ministry asks NBR to suspend yarn curbs]]></description>
+            <link>https://bdnews24.com/business/506597d8be53</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/506597d8be53</guid>
+            <pubDate>Mon, 14 Sep 2026 00:05:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2025April/SM/yarn-180425-02-1745004933.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[One dead, 30 missing after Vanuatu ferry sinks]]></title>
+            <description><![CDATA[[World] One dead, 30 missing after Vanuatu ferry sinks]]></description>
+            <link>https://bdnews24.com/world/b5121130630d</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/b5121130630d</guid>
+            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/vanuatu-ferry-130926-01-1789322379.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Adani unit resumes, Rampal outage pushes power crunch]]></title>
+            <description><![CDATA[[Bangladesh] Adani unit resumes, Rampal outage pushes power crunch]]></description>
+            <link>https://bdnews24.com/bangladesh/827fe7acd814</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/827fe7acd814</guid>
+            <pubDate>Sun, 13 Sep 2026 23:58:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2024November/SM/adani-22112024-01-1-1732301855.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Haaland delivers as 10-man City edge United]]></title>
+            <description><![CDATA[[Sport] Haaland delivers as 10-man City edge United]]></description>
+            <link>https://bdnews24.com/sport/717d65dd507a</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/717d65dd507a</guid>
+            <pubDate>Sun, 13 Sep 2026 23:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/haaland-city-edge-united-130926-01-1789321639.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jinnah finds a place, Mujib fades at DUCSU]]></title>
+            <description><![CDATA[[Bangladesh] Jinnah finds a place, Mujib fades at DUCSU]]></description>
+            <link>https://bdnews24.com/bangladesh/87c72484be01</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/87c72484be01</guid>
+            <pubDate>Sun, 13 Sep 2026 23:04:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/muhammad-ali-jinnah-130926-01-1789315755.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yamal double helps Barcelona beat Levante]]></title>
+            <description><![CDATA[[Sport] Yamal double helps Barcelona beat Levante]]></description>
+            <link>https://bdnews24.com/sport/44b816139535</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/44b816139535</guid>
+            <pubDate>Sun, 13 Sep 2026 22:42:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/barca-laliga-130926-01-1789317697.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Trump says US could stay in Iran, keep its oil]]></title>
             <description><![CDATA[[World] Trump says US could stay in Iran, keep its oil]]></description>
@@ -119,54 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/campus/bed78efe50c0</guid>
             <pubDate>Sun, 13 Sep 2026 19:41:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/iub-orientation-130926-01-1789306708.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[South Africa sweep ODI series]]></title>
-            <description><![CDATA[[Sport] South Africa sweep ODI series]]></description>
-            <link>https://bdnews24.com/sport/cc76672a5ebd</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/cc76672a5ebd</guid>
-            <pubDate>Sun, 13 Sep 2026 19:39:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026February/SM/sa-semis-t20-wc-26022026-01-1772120528.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Derailed cargo train snaps Dhaka-Mymensingh rail link]]></title>
-            <description><![CDATA[[Bangladesh] Derailed cargo train snaps Dhaka-Mymensingh rail link]]></description>
-            <link>https://bdnews24.com/bangladesh/b12ff979bf0a</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/b12ff979bf0a</guid>
-            <pubDate>Sun, 13 Sep 2026 19:24:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/mymensingh-train-130926-01-1789303247.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[IUB welcomes over 1,100 new students at Autumn 2026 orientation]]></title>
-            <description><![CDATA[[Campus] IUB welcomes over 1,100 new students at Autumn 2026 orientation]]></description>
-            <link>https://bdnews24.com/campus/4f81f0e5ab51</link>
-            <guid isPermaLink="true">https://bdnews24.com/campus/4f81f0e5ab51</guid>
-            <pubDate>Sun, 13 Sep 2026 19:16:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/iub-orientation-130926-01-1789305296.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Joy Bangla’ march lands 9 in jail]]></title>
-            <description><![CDATA[[Bangladesh] ‘Joy Bangla’ march lands 9 in jail]]></description>
-            <link>https://bdnews24.com/bangladesh/6b1700ac4000</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/6b1700ac4000</guid>
-            <pubDate>Sun, 13 Sep 2026 19:11:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/gulshan-al-protest-110926-01-1789115962.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dengue: 6 more die]]></title>
-            <description><![CDATA[[Health] Dengue: 6 more die]]></description>
-            <link>https://bdnews24.com/health/590aa10e79ee</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/590aa10e79ee</guid>
-            <pubDate>Sun, 13 Sep 2026 19:01:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026July/SM/dengue-patient-shaheed-suhrawardy-medical-college270723-25-1783598154.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[September 13, 2026]]></title>
-            <description><![CDATA[[Image] September 13, 2026]]></description>
-            <link>https://bdnews24.com/media-en/image/cd3f89d85fba</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/cd3f89d85fba</guid>
-            <pubDate>Sun, 13 Sep 2026 18:51:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/jute-washing-bhanga-130926-02-1789300319.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
