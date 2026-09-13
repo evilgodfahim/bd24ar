@@ -4,10 +4,34 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 Sep 2026 19:02:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Sep 2026 21:51:31 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 13 Sep 2026 19:02:08 GMT</pubDate>
+        <pubDate>Sun, 13 Sep 2026 21:51:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Boris Johnson train narrowly misses Russian strike]]></title>
+            <description><![CDATA[[World] Boris Johnson train narrowly misses Russian strike]]></description>
+            <link>https://bdnews24.com/world/6de337e2a5b7</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/6de337e2a5b7</guid>
+            <pubDate>Mon, 14 Sep 2026 02:26:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/boris-jhonson-130926-01-1789325557.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[UAE to bar ex-IGP Benazir’s onward travel: official]]></title>
+            <description><![CDATA[[Bangladesh] UAE to bar ex-IGP Benazir’s onward travel: official]]></description>
+            <link>https://bdnews24.com/bangladesh/d1108920ce21</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d1108920ce21</guid>
+            <pubDate>Mon, 14 Sep 2026 01:58:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2024June/SM/benjir-ahmed-300624-1719746516.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Apparel factories can't pay $6.6bn alone to go greener: Cascale]]></title>
+            <description><![CDATA[[Bangladesh] Apparel factories can't pay $6.6bn alone to go greener: Cascale]]></description>
+            <link>https://bdnews24.com/bangladesh/d79f72435271</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/d79f72435271</guid>
+            <pubDate>Mon, 14 Sep 2026 01:48:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/joyce-tsoi-12092026-1789328475.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Ministry asks NBR to suspend yarn curbs]]></title>
             <description><![CDATA[[Business] Ministry asks NBR to suspend yarn curbs]]></description>
@@ -143,30 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/153a6ba1798d</guid>
             <pubDate>Sun, 13 Sep 2026 19:57:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/lamine-yamal-unstoppable-130926-01-1789307785.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Waiting for the gas to flow]]></title>
-            <description><![CDATA[[Image] Waiting for the gas to flow]]></description>
-            <link>https://bdnews24.com/media-en/image/97d0d70337f6</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/image/97d0d70337f6</guid>
-            <pubDate>Sun, 13 Sep 2026 19:56:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/gas-crisis-cng-filling-station-moghbazar-130926-021-1789301954.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCP names Asif Mahmud, Patwary for Dhaka city polls]]></title>
-            <description><![CDATA[[Politics] NCP names Asif Mahmud, Patwary for Dhaka city polls]]></description>
-            <link>https://bdnews24.com/politics/7551ffd0c728</link>
-            <guid isPermaLink="true">https://bdnews24.com/politics/7551ffd0c728</guid>
-            <pubDate>Sun, 13 Sep 2026 19:46:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/asif-mahmud-nasiruddin-parwari-070926-1788797110.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[IUB welcomes over 1,100 new students at Autumn 2026 orientation]]></title>
-            <description><![CDATA[[Campus] IUB welcomes over 1,100 new students at Autumn 2026 orientation]]></description>
-            <link>https://bdnews24.com/campus/bed78efe50c0</link>
-            <guid isPermaLink="true">https://bdnews24.com/campus/bed78efe50c0</guid>
-            <pubDate>Sun, 13 Sep 2026 19:41:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/iub-orientation-130926-01-1789306708.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
