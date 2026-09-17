@@ -4,10 +4,82 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 17 Sep 2026 02:00:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Sep 2026 07:12:51 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 17 Sep 2026 02:00:06 GMT</pubDate>
+        <pubDate>Thu, 17 Sep 2026 07:12:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Climate change likely triggered Nepal glacier collapse: scientists]]></title>
+            <description><![CDATA[[Environment] Climate change likely triggered Nepal glacier collapse: scientists]]></description>
+            <link>https://bdnews24.com/environment/66e4c8a37f1c</link>
+            <guid isPermaLink="true">https://bdnews24.com/environment/66e4c8a37f1c</guid>
+            <pubDate>Thu, 17 Sep 2026 10:22:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/nepal-floods-170926-01-1789618881.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump lashes out at Fed after rate hike]]></title>
+            <description><![CDATA[[Americas] Trump lashes out at Fed after rate hike]]></description>
+            <link>https://bdnews24.com/world/americas/0282f4ef6d02</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/0282f4ef6d02</guid>
+            <pubDate>Thu, 17 Sep 2026 10:19:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/trump-fed-170926-1789618704.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh loses ground in Europe’s garment market]]></title>
+            <description><![CDATA[[Business] Bangladesh loses ground in Europe’s garment market]]></description>
+            <link>https://bdnews24.com/business/e2bbcb13b6bd</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/e2bbcb13b6bd</guid>
+            <pubDate>Thu, 17 Sep 2026 10:07:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026May/SM/made-in-bangladesh-160223-01-1778580090.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Meta eyes camera-free smart glasses for fall launch]]></title>
+            <description><![CDATA[[Technology] Meta eyes camera-free smart glasses for fall launch]]></description>
+            <link>https://bdnews24.com/technology/b8eaa77cb7d7</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/b8eaa77cb7d7</guid>
+            <pubDate>Thu, 17 Sep 2026 10:02:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/meta-smart-glass-170926-1789617687.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shares tick higher as Fed hikes rates]]></title>
+            <description><![CDATA[[Business] Shares tick higher as Fed hikes rates]]></description>
+            <link>https://bdnews24.com/business/c00f6ad4d763</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/c00f6ad4d763</guid>
+            <pubDate>Thu, 17 Sep 2026 09:59:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/nyse-fed-rate-170926-1789617430.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fed raises rates in search of 'timelier' drop in inflation]]></title>
+            <description><![CDATA[[Economy] Fed raises rates in search of 'timelier' drop in inflation]]></description>
+            <link>https://bdnews24.com/economy/4bc0f429e893</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/4bc0f429e893</guid>
+            <pubDate>Thu, 17 Sep 2026 09:40:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/kevin-warsh-170926-01-1789616349.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ed Sheeran's openers quit tour after Macklemore controversy]]></title>
+            <description><![CDATA[[Music] Ed Sheeran's openers quit tour after Macklemore controversy]]></description>
+            <link>https://bdnews24.com/music/05ab14528b41</link>
+            <guid isPermaLink="true">https://bdnews24.com/music/05ab14528b41</guid>
+            <pubDate>Thu, 17 Sep 2026 09:38:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/ed-sheeran-170926-1789616227.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran war ‘hopefully towards end’: Trump]]></title>
+            <description><![CDATA[[World] Iran war ‘hopefully towards end’: Trump]]></description>
+            <link>https://bdnews24.com/world/9ccf6189d9aa</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/9ccf6189d9aa</guid>
+            <pubDate>Thu, 17 Sep 2026 09:28:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/trump-iran-war-170926-1789615679.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australia to bar foreign students from bringing partners]]></title>
+            <description><![CDATA[[Asia Pacific] Australia to bar foreign students from bringing partners]]></description>
+            <link>https://bdnews24.com/world/asia-pacific/3ad9fc5c1630</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/asia-pacific/3ad9fc5c1630</guid>
+            <pubDate>Thu, 17 Sep 2026 09:02:00 GMT</pubDate>
+            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/australia-opera-house-170926-01-1789614014.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Karwan Bazar move revives after 20 years]]></title>
             <description><![CDATA[[Bangladesh] Karwan Bazar move revives after 20 years]]></description>
@@ -95,78 +167,6 @@
             <guid isPermaLink="true">https://bdnews24.com/sport/f7a4aceb90d0</guid>
             <pubDate>Wed, 16 Sep 2026 21:43:00 GMT</pubDate>
             <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/enzo-maresca-160926-01-1789573298.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gulshan DC transferred after AL flash march]]></title>
-            <description><![CDATA[[Bangladesh] Gulshan DC transferred after AL flash march]]></description>
-            <link>https://bdnews24.com/bangladesh/7739dc9b0053</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7739dc9b0053</guid>
-            <pubDate>Wed, 16 Sep 2026 21:35:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/dc-gulshan-dmp-police-office160926-1789567864.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Real defend Mbappe, Vinicius Ceuta message]]></title>
-            <description><![CDATA[[Sport] Real defend Mbappe, Vinicius Ceuta message]]></description>
-            <link>https://bdnews24.com/sport/3c4476f69d9b</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/3c4476f69d9b</guid>
-            <pubDate>Wed, 16 Sep 2026 21:18:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/kylian-mbappe-160926-01-1789571689.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dengue: 7 die, another 1,753 hospitalised]]></title>
-            <description><![CDATA[[Health] Dengue: 7 die, another 1,753 hospitalised]]></description>
-            <link>https://bdnews24.com/health/a7ffdac9df6b</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/a7ffdac9df6b</guid>
-            <pubDate>Wed, 16 Sep 2026 21:16:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/dengue-patient-310726-01-1785500738-1789566047.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[FIFA Council to review shelved investment plan]]></title>
-            <description><![CDATA[[Sport] FIFA Council to review shelved investment plan]]></description>
-            <link>https://bdnews24.com/sport/eb6fe37b3092</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/eb6fe37b3092</guid>
-            <pubDate>Wed, 16 Sep 2026 20:38:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/fifa-160926-01-1789569202.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh approves Tk 125bn fuel import from China, Indonesia]]></title>
-            <description><![CDATA[[Business] Bangladesh approves Tk 125bn fuel import from China, Indonesia]]></description>
-            <link>https://bdnews24.com/business/877ef5d96cba</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/877ef5d96cba</guid>
-            <pubDate>Wed, 16 Sep 2026 20:10:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/bpc-fatullah-depot-180825-1789567663.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt to take over ‘Abahani field’]]></title>
-            <description><![CDATA[[Bangladesh] Govt to take over ‘Abahani field’]]></description>
-            <link>https://bdnews24.com/bangladesh/3323514cb47f</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/3323514cb47f</guid>
-            <pubDate>Wed, 16 Sep 2026 20:08:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews/import/bangla/imgAll/2026September/SM/abahani-160926-01-1789560957.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bonnie Greer, voice of British cultural life, dies at 77]]></title>
-            <description><![CDATA[[Entertainment] Bonnie Greer, voice of British cultural life, dies at 77]]></description>
-            <link>https://bdnews24.com/entertainment/038a23df9f0f</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/038a23df9f0f</guid>
-            <pubDate>Wed, 16 Sep 2026 19:40:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/bonnie-greer-160926-01-1789565952.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[WB names Nobel laureate Kremer as next chief economist]]></title>
-            <description><![CDATA[[Economy] WB names Nobel laureate Kremer as next chief economist]]></description>
-            <link>https://bdnews24.com/economy/f580ab366aaf</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/f580ab366aaf</guid>
-            <pubDate>Wed, 16 Sep 2026 19:23:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/wb-kremer-16092026-01-1789564929.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UN urges AI slowdown as US, China reject safety fears]]></title>
-            <description><![CDATA[[Technology] UN urges AI slowdown as US, China reject safety fears]]></description>
-            <link>https://bdnews24.com/technology/844b5b228382</link>
-            <guid isPermaLink="true">https://bdnews24.com/technology/844b5b228382</guid>
-            <pubDate>Wed, 16 Sep 2026 19:12:00 GMT</pubDate>
-            <enclosure url="https://media-stg.assettype.com/bdnews-english/import/english/imgAll/2026September/SM/ai-developement-150926-01-1789564093.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
