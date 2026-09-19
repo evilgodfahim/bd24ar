@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Sep 2026 19:40:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Sep 2026 21:50:35 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 19 Sep 2026 19:40:16 GMT</pubDate>
+        <pubDate>Sat, 19 Sep 2026 21:50:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Martinez rescues Inter in Roma thriller]]></title>
+            <description><![CDATA[[Sport] Martinez rescues Inter in Roma thriller]]></description>
+            <link>https://bdnews24.com/sport/7kxkm4gg24</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/7kxkm4gg24</guid>
+            <pubDate>Sun, 20 Sep 2026 01:34:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/2026-09-19/o2dpd1nr/martinez-rescues-Inter-200926-01.jpg?w=300" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[Men's Y chromosome loss may warn of cancer: study]]></title>
             <description><![CDATA[[Science] Men's Y chromosome loss may warn of cancer: study]]></description>
@@ -70,7 +78,7 @@
             <link>https://bdnews24.com/bangladesh/v36u2y5qut</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/v36u2y5qut</guid>
             <pubDate>Sat, 19 Sep 2026 23:42:00 GMT</pubDate>
-            <enclosure url="https://media.assettype.com/bdnews24-english/2026-09-19/r5bmfns3/south-keraniganj-pickup-fire-190926-01.jpg?w=300" length="0" type="false"/>
+            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Iran lays out terms for ending war with US]]></title>
@@ -94,14 +102,6 @@
             <link>https://bdnews24.com/bangladesh/b083deqchk</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/b083deqchk</guid>
             <pubDate>Sat, 19 Sep 2026 22:50:00 GMT</pubDate>
-            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[White House denies access to CNN, MS NOW and Politico]]></title>
-            <description><![CDATA[[World] White House denies access to CNN, MS NOW and Politico]]></description>
-            <link>https://bdnews24.com/world/c49y1mhg6f</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/c49y1mhg6f</guid>
-            <pubDate>Sat, 19 Sep 2026 22:38:00 GMT</pubDate>
             <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
