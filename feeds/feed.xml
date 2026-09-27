@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 27 Sep 2026 18:42:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Sep 2026 21:41:53 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 27 Sep 2026 18:42:59 GMT</pubDate>
+        <pubDate>Sun, 27 Sep 2026 21:41:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bangladesh’s aviation hub dream hits turbulence]]></title>
+            <description><![CDATA[[Aviation] Bangladesh’s aviation hub dream hits turbulence]]></description>
+            <link>https://bdnews24.com/aviation/z7y98q24ps</link>
+            <guid isPermaLink="true">https://bdnews24.com/aviation/z7y98q24ps</guid>
+            <pubDate>Mon, 28 Sep 2026 01:32:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/2026-09-27/ksgz0w1n/aviation-hub-cartoon-170926-01.jpg?w=300" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh drives India’s August tourist surge]]></title>
+            <description><![CDATA[[Neighbours] Bangladesh drives India’s August tourist surge]]></description>
+            <link>https://bdnews24.com/neighbours/77lzjlq70w</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/77lzjlq70w</guid>
+            <pubDate>Mon, 28 Sep 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/2026-09-27/podz6uo7/taj-mahal-270926.jpg?w=300" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[England thrash Sri Lanka by 223 runs]]></title>
             <description><![CDATA[[Cricket] England thrash Sri Lanka by 223 runs]]></description>
@@ -62,7 +78,7 @@
             <link>https://bdnews24.com/business/0spp74kskt</link>
             <guid isPermaLink="true">https://bdnews24.com/business/0spp74kskt</guid>
             <pubDate>Sun, 27 Sep 2026 23:12:00 GMT</pubDate>
-            <enclosure url="https://media.assettype.com/bdnews24-english/2026-09-21/uwg0df5r/bangladesh-bank-1000.jpg?w=300" length="0" type="false"/>
+            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Tamim’s cricket reset goes beyond the boundary]]></title>
@@ -70,7 +86,7 @@
             <link>https://bdnews24.com/cricket/jrk7df1y5s</link>
             <guid isPermaLink="true">https://bdnews24.com/cricket/jrk7df1y5s</guid>
             <pubDate>Sun, 27 Sep 2026 23:08:00 GMT</pubDate>
-            <enclosure url="https://media.assettype.com/bdnews24-english/2026-09-27/v95nvk5b/Tamim-iqbal-bangladesh-270926-01.jpg?w=300" length="0" type="false"/>
+            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[3 sent to jail over New Gini Properties vandalism, looting]]></title>
@@ -86,22 +102,6 @@
             <link>https://bdnews24.com/bangladesh/w5tu2jjm33</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/w5tu2jjm33</guid>
             <pubDate>Sun, 27 Sep 2026 21:43:00 GMT</pubDate>
-            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Armani brings shimmer to new collection]]></title>
-            <description><![CDATA[[Fashion] Armani brings shimmer to new collection]]></description>
-            <link>https://bdnews24.com/Fashion/8zfi2eyoz3</link>
-            <guid isPermaLink="true">https://bdnews24.com/Fashion/8zfi2eyoz3</guid>
-            <pubDate>Sun, 27 Sep 2026 21:23:00 GMT</pubDate>
-            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Isak leaves Sweden camp for injury]]></title>
-            <description><![CDATA[[Sport] Isak leaves Sweden camp for injury]]></description>
-            <link>https://bdnews24.com/sport/i91f48pnqy</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/i91f48pnqy</guid>
-            <pubDate>Sun, 27 Sep 2026 21:19:00 GMT</pubDate>
             <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
