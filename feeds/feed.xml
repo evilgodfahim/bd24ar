@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 30 Sep 2026 19:41:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 23:15:39 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 30 Sep 2026 19:41:33 GMT</pubDate>
+        <pubDate>Wed, 30 Sep 2026 23:15:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Ronaldo quits Portugal camp as coach confirms rift]]></title>
+            <description><![CDATA[[Sport] Ronaldo quits Portugal camp as coach confirms rift]]></description>
+            <link>https://bdnews24.com/sport/az8f1d1s57</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/az8f1d1s57</guid>
+            <pubDate>Thu, 01 Oct 2026 01:43:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/2026-09-30/5b7kr0cx/ronaldo-011026-01.jpg?w=300" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[Pay hikes may fuel inflation: BB]]></title>
             <description><![CDATA[[Economy] Pay hikes may fuel inflation: BB]]></description>
@@ -70,7 +78,7 @@
             <link>https://bdnews24.com/bangladesh/qlwehch4o0</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/qlwehch4o0</guid>
             <pubDate>Wed, 30 Sep 2026 23:14:00 GMT</pubDate>
-            <enclosure url="https://media.assettype.com/bdnews24-english/2026-09-21/k31wglqs/masumbillah21092601.jpg?w=300" length="0" type="false"/>
+            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Cute AI mascots: smart design or dangerous trick?]]></title>
@@ -94,14 +102,6 @@
             <link>https://bdnews24.com/business/f3ub8nrf1p</link>
             <guid isPermaLink="true">https://bdnews24.com/business/f3ub8nrf1p</guid>
             <pubDate>Wed, 30 Sep 2026 22:27:00 GMT</pubDate>
-            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[We will get through this together: Guardiola]]></title>
-            <description><![CDATA[[Sport] We will get through this together: Guardiola]]></description>
-            <link>https://bdnews24.com/sport/gi2z2b0031</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/gi2z2b0031</guid>
-            <pubDate>Wed, 30 Sep 2026 21:25:00 GMT</pubDate>
             <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
