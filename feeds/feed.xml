@@ -4,10 +4,42 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 02 Oct 2026 19:36:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Oct 2026 23:20:54 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 02 Oct 2026 19:36:25 GMT</pubDate>
+        <pubDate>Fri, 02 Oct 2026 23:20:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Farewell to a pioneer]]></title>
+            <description><![CDATA[[Media] Farewell to a pioneer]]></description>
+            <link>https://bdnews24.com/media-en/6tfqh7xv5u</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/6tfqh7xv5u</guid>
+            <pubDate>Sat, 03 Oct 2026 02:55:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-02/qs01dhid/toufique-imrose-khalidi-10.jpg?w=300" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[‘We are indebted to him’: former colleagues mourn Khalidi]]></title>
+            <description><![CDATA[[Bangladesh] ‘We are indebted to him’: former colleagues mourn Khalidi]]></description>
+            <link>https://bdnews24.com/bangladesh/qzrj3xv5oe</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/qzrj3xv5oe</guid>
+            <pubDate>Sat, 03 Oct 2026 02:05:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-02/2jvxa3zn/toufique-imrose-khalidi-at-bdnews24-family-day-02102026.jpg?w=300" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Khalidi’s departure leaves a massive void’]]></title>
+            <description><![CDATA[[Bangladesh] ‘Khalidi’s departure leaves a massive void’]]></description>
+            <link>https://bdnews24.com/bangladesh/5pmezlkybz</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/5pmezlkybz</guid>
+            <pubDate>Sat, 03 Oct 2026 01:56:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-02/lsthtr6x/toufique-imrose-khalidi-231025-029.jpg?w=300" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[Khalidi’s journalism will inspire generations: RAC]]></title>
+            <description><![CDATA[[Media] Khalidi’s journalism will inspire generations: RAC]]></description>
+            <link>https://bdnews24.com/media-en/8a0axbfdv7</link>
+            <guid isPermaLink="true">https://bdnews24.com/media-en/8a0axbfdv7</guid>
+            <pubDate>Sat, 03 Oct 2026 01:28:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-02/gzywevpj/toufique-imrose-khalidi-231025-030.jpg?w=300" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[Buckingham Place: King Charles will not shy away from slavery issue]]></title>
             <description><![CDATA[[World] Buckingham Place: King Charles will not shy away from slavery issue]]></description>
@@ -46,7 +78,7 @@
             <link>https://bdnews24.com/science/dk0fclg9s6</link>
             <guid isPermaLink="true">https://bdnews24.com/science/dk0fclg9s6</guid>
             <pubDate>Sat, 03 Oct 2026 00:22:00 GMT</pubDate>
-            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-02/iyajh1hj/alien-saturn-021026-01.jpg?w=300" length="0" type="false"/>
+            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Protests in France turn violent as police clash with students]]></title>
@@ -54,7 +86,7 @@
             <link>https://bdnews24.com/world/o1hfj2d6mv</link>
             <guid isPermaLink="true">https://bdnews24.com/world/o1hfj2d6mv</guid>
             <pubDate>Sat, 03 Oct 2026 00:02:00 GMT</pubDate>
-            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-02/pny2f927/protest-france-01-02102026.jpg?w=300" length="0" type="false"/>
+            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Cornell confronts campus culture after rape allegations]]></title>
@@ -62,7 +94,7 @@
             <link>https://bdnews24.com/world/frynv3ndig</link>
             <guid isPermaLink="true">https://bdnews24.com/world/frynv3ndig</guid>
             <pubDate>Fri, 02 Oct 2026 23:49:00 GMT</pubDate>
-            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-02/t8tl4d54/cornell-campus-021026-01.jpg?w=300" length="0" type="false"/>
+            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[‘Experienced, dedicated, visionary’: Online Editors Forum on Khalidi]]></title>
@@ -70,38 +102,6 @@
             <link>https://bdnews24.com/media-en/2p78hey6nf</link>
             <guid isPermaLink="true">https://bdnews24.com/media-en/2p78hey6nf</guid>
             <pubDate>Fri, 02 Oct 2026 23:43:00 GMT</pubDate>
-            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-02/q6grh8fx/TIK-Panjabi.jpg?w=300" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[SRF praises Khalidi’s legacy in online journalism]]></title>
-            <description><![CDATA[[Media] SRF praises Khalidi’s legacy in online journalism]]></description>
-            <link>https://bdnews24.com/media-en/z6it7awsa9</link>
-            <guid isPermaLink="true">https://bdnews24.com/media-en/z6it7awsa9</guid>
-            <pubDate>Fri, 02 Oct 2026 23:38:00 GMT</pubDate>
-            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[For Toufique, with a broken heart]]></title>
-            <description><![CDATA[[Opinion] For Toufique, with a broken heart]]></description>
-            <link>https://bdnews24.com/opinion/6g8r3iwhzj</link>
-            <guid isPermaLink="true">https://bdnews24.com/opinion/6g8r3iwhzj</guid>
-            <pubDate>Fri, 02 Oct 2026 23:22:00 GMT</pubDate>
-            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Torres withdrawn from Spain squad, Espi called up]]></title>
-            <description><![CDATA[[Sport] Torres withdrawn from Spain squad, Espi called up]]></description>
-            <link>https://bdnews24.com/sport/od1cqtea86</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/od1cqtea86</guid>
-            <pubDate>Fri, 02 Oct 2026 23:00:00 GMT</pubDate>
-            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[New York governor thrashes handling of Cornell rape case]]></title>
-            <description><![CDATA[[World] New York governor thrashes handling of Cornell rape case]]></description>
-            <link>https://bdnews24.com/world/x45qpr7ve4</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/x45qpr7ve4</guid>
-            <pubDate>Fri, 02 Oct 2026 22:52:00 GMT</pubDate>
             <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
