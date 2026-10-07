@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Oct 2026 21:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Oct 2026 01:04:33 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 06 Oct 2026 21:20:06 GMT</pubDate>
+        <pubDate>Wed, 07 Oct 2026 01:04:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Police fire teargas as France school protests erupt]]></title>
+            <description><![CDATA[[World] Police fire teargas as France school protests erupt]]></description>
+            <link>https://bdnews24.com/world/f5zh1iljgk</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/f5zh1iljgk</guid>
+            <pubDate>Wed, 07 Oct 2026 03:28:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-06/owne0jqw/police-france-01-06102026.jpg?w=300" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[Plague, pneumonia and a dead lab worker]]></title>
+            <description><![CDATA[[Health] Plague, pneumonia and a dead lab worker]]></description>
+            <link>https://bdnews24.com/health/ran8didyif</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/ran8didyif</guid>
+            <pubDate>Wed, 07 Oct 2026 03:24:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-06/stoaqzm7/neumonia.jpg?w=300" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[Paramount, Warner Bros merge in $110bn deal]]></title>
             <description><![CDATA[[Entertainment] Paramount, Warner Bros merge in $110bn deal]]></description>
@@ -62,7 +78,7 @@
             <link>https://bdnews24.com/bangladesh/mdn5s98nt1</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/mdn5s98nt1</guid>
             <pubDate>Wed, 07 Oct 2026 02:22:00 GMT</pubDate>
-            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-06/b8l63owe/pabna-jamuna-230524-01.jpg?w=300" length="0" type="false"/>
+            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Bangladesh trade gap jumps 29% as fuel costs surge]]></title>
@@ -70,7 +86,7 @@
             <link>https://bdnews24.com/business/6nb3tsekep</link>
             <guid isPermaLink="true">https://bdnews24.com/business/6nb3tsekep</guid>
             <pubDate>Wed, 07 Oct 2026 01:49:00 GMT</pubDate>
-            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-06/4olh5569/malaysia-ship-aliya-chittagong.jpg?w=300" length="0" type="false"/>
+            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Chinese doctors shrink  fetal lung tumour without surgery in world first]]></title>
@@ -86,22 +102,6 @@
             <link>https://bdnews24.com/sport/trhvmnbohd</link>
             <guid isPermaLink="true">https://bdnews24.com/sport/trhvmnbohd</guid>
             <pubDate>Wed, 07 Oct 2026 01:27:00 GMT</pubDate>
-            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India court eases ‘energy drink’ label ban]]></title>
-            <description><![CDATA[[Neighbours] India court eases ‘energy drink’ label ban]]></description>
-            <link>https://bdnews24.com/neighbours/6on3ofqjwb</link>
-            <guid isPermaLink="true">https://bdnews24.com/neighbours/6on3ofqjwb</guid>
-            <pubDate>Wed, 07 Oct 2026 00:02:00 GMT</pubDate>
-            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[10 Bangladesh officials head to Delhi for trade talks]]></title>
-            <description><![CDATA[[Bangladesh] 10 Bangladesh officials head to Delhi for trade talks]]></description>
-            <link>https://bdnews24.com/bangladesh/j892b68ep7</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/j892b68ep7</guid>
-            <pubDate>Tue, 06 Oct 2026 23:24:00 GMT</pubDate>
             <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
