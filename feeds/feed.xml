@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Oct 2026 19:55:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2026 23:16:07 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 11 Oct 2026 19:55:22 GMT</pubDate>
+        <pubDate>Sun, 11 Oct 2026 23:16:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Foreign debt hits record $115bn]]></title>
+            <description><![CDATA[[Economy] Foreign debt hits record $115bn]]></description>
+            <link>https://bdnews24.com/economy/gcvg77ywac</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/gcvg77ywac</guid>
+            <pubDate>Mon, 12 Oct 2026 02:04:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-11/bfws3hwi/dollar-rate-exchange-140523.jpg?w=300" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[Net FDI rises 12.78% in April-June]]></title>
+            <description><![CDATA[[Business] Net FDI rises 12.78% in April-June]]></description>
+            <link>https://bdnews24.com/business/41gyo6uzzz</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/41gyo6uzzz</guid>
+            <pubDate>Mon, 12 Oct 2026 02:00:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-11/2wnyfujb/leathertech_expo_221124_020_1732273770.jpg?w=300" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[Trump's diesel deal may be illegal: US senator]]></title>
             <description><![CDATA[[World] Trump's diesel deal may be illegal: US senator]]></description>
@@ -62,7 +78,7 @@
             <link>https://bdnews24.com/health/8zrlsy3wsl</link>
             <guid isPermaLink="true">https://bdnews24.com/health/8zrlsy3wsl</guid>
             <pubDate>Sun, 11 Oct 2026 23:13:00 GMT</pubDate>
-            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-11/6p01jvdc/5-meds-01-11102026.jpg?w=300" length="0" type="false"/>
+            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Saudi reports injuries in new Riyadh airport strike]]></title>
@@ -70,7 +86,7 @@
             <link>https://bdnews24.com/world/oqqy8ibkdz</link>
             <guid isPermaLink="true">https://bdnews24.com/world/oqqy8ibkdz</guid>
             <pubDate>Sun, 11 Oct 2026 22:49:00 GMT</pubDate>
-            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-11/b8ajasb5/riyadh-airport-111026-01.jpg?w=300" length="0" type="false"/>
+            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[PM urges govt servants to safeguard public funds]]></title>
@@ -86,22 +102,6 @@
             <link>https://bdnews24.com/world/ki02k582ya</link>
             <guid isPermaLink="true">https://bdnews24.com/world/ki02k582ya</guid>
             <pubDate>Sun, 11 Oct 2026 21:21:00 GMT</pubDate>
-            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[NZ pick Allen, Ferguson, Seifert for India ODIs, Ravindra back]]></title>
-            <description><![CDATA[[Cricket] NZ pick Allen, Ferguson, Seifert for India ODIs, Ravindra back]]></description>
-            <link>https://bdnews24.com/cricket/9uc8mkhlbz</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/9uc8mkhlbz</guid>
-            <pubDate>Sun, 11 Oct 2026 21:13:00 GMT</pubDate>
-            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Zelensky sets conditions to end attacks on Russian oil refineries]]></title>
-            <description><![CDATA[[World] Zelensky sets conditions to end attacks on Russian oil refineries]]></description>
-            <link>https://bdnews24.com/world/mdmvxtnf62</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/mdmvxtnf62</guid>
-            <pubDate>Sun, 11 Oct 2026 20:42:00 GMT</pubDate>
             <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
