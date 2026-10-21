@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Oct 2026 19:43:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 22:50:36 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 21 Oct 2026 19:43:08 GMT</pubDate>
+        <pubDate>Wed, 21 Oct 2026 22:50:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[UN urges drastic emissions cuts to limit global warming]]></title>
+            <description><![CDATA[[Environment] UN urges drastic emissions cuts to limit global warming]]></description>
+            <link>https://bdnews24.com/environment/3pyhu5978v</link>
+            <guid isPermaLink="true">https://bdnews24.com/environment/3pyhu5978v</guid>
+            <pubDate>Thu, 22 Oct 2026 01:31:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-21/05c8o61f/unep-22102026-01.jpg?w=300" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[EC seeks way out of EVM burden]]></title>
             <description><![CDATA[[Bangladesh] EC seeks way out of EVM burden]]></description>
@@ -70,7 +78,7 @@
             <link>https://bdnews24.com/bangladesh/4u3ug8pu8j</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/4u3ug8pu8j</guid>
             <pubDate>Wed, 21 Oct 2026 23:28:00 GMT</pubDate>
-            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-21/930oj0zm/narsingdi-fire-211026-01.jpg?w=300" length="0" type="false"/>
+            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[‘Michael’s voice must be heard’: Jaafar Jackson on biopic sequel]]></title>
@@ -94,14 +102,6 @@
             <link>https://bdnews24.com/health/uklb4kqds2</link>
             <guid isPermaLink="true">https://bdnews24.com/health/uklb4kqds2</guid>
             <pubDate>Wed, 21 Oct 2026 22:19:00 GMT</pubDate>
-            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sajek travel suspended again after blockade call]]></title>
-            <description><![CDATA[[Travel & Tourism] Sajek travel suspended again after blockade call]]></description>
-            <link>https://bdnews24.com/travelandtourism/8cuf9snph6</link>
-            <guid isPermaLink="true">https://bdnews24.com/travelandtourism/8cuf9snph6</guid>
-            <pubDate>Wed, 21 Oct 2026 21:59:00 GMT</pubDate>
             <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
