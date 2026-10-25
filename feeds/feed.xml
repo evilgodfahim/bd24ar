@@ -4,10 +4,58 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Oct 2026 17:55:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 20:03:56 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 25 Oct 2026 17:55:23 GMT</pubDate>
+        <pubDate>Sun, 25 Oct 2026 20:03:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Development spending hits historic low]]></title>
+            <description><![CDATA[[Economy] Development spending hits historic low]]></description>
+            <link>https://bdnews24.com/economy/szwno0037x</link>
+            <guid isPermaLink="true">https://bdnews24.com/economy/szwno0037x</guid>
+            <pubDate>Mon, 26 Oct 2026 01:14:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-25/dfnw2we2/01workerssafety051214.jpg?w=300" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[Albania's Tirana sees fresh protests despite curbs]]></title>
+            <description><![CDATA[[Europe] Albania's Tirana sees fresh protests despite curbs]]></description>
+            <link>https://bdnews24.com/world/europe/4dhktbqgc7</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/4dhktbqgc7</guid>
+            <pubDate>Mon, 26 Oct 2026 01:08:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-25/4zpzxubw/albania-01-25102026.jpg?w=300" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[e-GP ‘not mandatory’ for special solar power projects]]></title>
+            <description><![CDATA[[Business] e-GP ‘not mandatory’ for special solar power projects]]></description>
+            <link>https://bdnews24.com/business/0647i9imks</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/0647i9imks</guid>
+            <pubDate>Mon, 26 Oct 2026 01:04:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-25/e7ii9q1a/bangladesh-solar-power-251026.jpg?w=300" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[PM heads to Tokyo for 4-day visit]]></title>
+            <description><![CDATA[[Bangladesh] PM heads to Tokyo for 4-day visit]]></description>
+            <link>https://bdnews24.com/bangladesh/fnnta9joul</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/fnnta9joul</guid>
+            <pubDate>Mon, 26 Oct 2026 00:59:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-25/17darwl3/tarique-rahman-japan-261026.jpg?w=300" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[Sri Lanka aids 40 Iranian sailors]]></title>
+            <description><![CDATA[[Neighbours] Sri Lanka aids 40 Iranian sailors]]></description>
+            <link>https://bdnews24.com/neighbours/7y1jsjsu4w</link>
+            <guid isPermaLink="true">https://bdnews24.com/neighbours/7y1jsjsu4w</guid>
+            <pubDate>Mon, 26 Oct 2026 00:34:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-25/hpgb4lpr/sri-lanka-25102026.JPG?w=300" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[From ledger books to AI: Pubali Bank’s transformation]]></title>
+            <description><![CDATA[[Business] From ledger books to AI: Pubali Bank’s transformation]]></description>
+            <link>https://bdnews24.com/business/j4j32jupsr</link>
+            <guid isPermaLink="true">https://bdnews24.com/business/j4j32jupsr</guid>
+            <pubDate>Mon, 26 Oct 2026 00:27:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-25/2uaelvfq/mohammad-ali-pubali-bank-md-chinwag-251026-03.jpg?w=300" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[Sugar intake may worsen antibiotic-related gut damage: study]]></title>
             <description><![CDATA[[Health] Sugar intake may worsen antibiotic-related gut damage: study]]></description>
@@ -30,7 +78,7 @@
             <link>https://bdnews24.com/sport/9855s5is3o</link>
             <guid isPermaLink="true">https://bdnews24.com/sport/9855s5is3o</guid>
             <pubDate>Sun, 25 Oct 2026 23:05:00 GMT</pubDate>
-            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-11/8tepn91g/australia_111026_01.jpg?w=300" length="0" type="false"/>
+            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[AI chatbots pose mental health risks: report]]></title>
@@ -38,7 +86,7 @@
             <link>https://bdnews24.com/technology/38eg15x5d7</link>
             <guid isPermaLink="true">https://bdnews24.com/technology/38eg15x5d7</guid>
             <pubDate>Sun, 25 Oct 2026 23:03:00 GMT</pubDate>
-            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-25/0focabmv/ai-01-25102026.jpg?w=300" length="0" type="false"/>
+            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[CUET protesters ready to return to classrooms]]></title>
@@ -46,7 +94,7 @@
             <link>https://bdnews24.com/campus/3dg0n0p21r</link>
             <guid isPermaLink="true">https://bdnews24.com/campus/3dg0n0p21r</guid>
             <pubDate>Sun, 25 Oct 2026 22:46:00 GMT</pubDate>
-            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-21/cgwpzcbj/chottogram-students-red-card-260926-01.jpg?w=300" length="0" type="false"/>
+            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Liverpool win at home, more misery for Carrick’s United]]></title>
@@ -54,54 +102,6 @@
             <link>https://bdnews24.com/sport/nyly4lwjq1</link>
             <guid isPermaLink="true">https://bdnews24.com/sport/nyly4lwjq1</guid>
             <pubDate>Sun, 25 Oct 2026 22:43:00 GMT</pubDate>
-            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-25/g7yskdyu/liverpool-win-251026-01.jpg?w=300" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[Carrick benches United captain Fernandes]]></title>
-            <description><![CDATA[[Sport] Carrick benches United captain Fernandes]]></description>
-            <link>https://bdnews24.com/sport/qw0lmzn7zl</link>
-            <guid isPermaLink="true">https://bdnews24.com/sport/qw0lmzn7zl</guid>
-            <pubDate>Sun, 25 Oct 2026 22:30:00 GMT</pubDate>
-            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-25/glgggjeg/bruno-fernandes-251026-01.jpg?w=300" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[DGFI members among 6 arrested over ‘kidnapping’]]></title>
-            <description><![CDATA[[Bangladesh] DGFI members among 6 arrested over ‘kidnapping’]]></description>
-            <link>https://bdnews24.com/bangladesh/r3pt70zhtw</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/r3pt70zhtw</guid>
-            <pubDate>Sun, 25 Oct 2026 22:18:00 GMT</pubDate>
-            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-25/kumrketp/mohammadpur-police-station-1753642406.jpg?w=300" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[Humaiun to lead Bangladesh delegation at CHOGM]]></title>
-            <description><![CDATA[[Bangladesh] Humaiun to lead Bangladesh delegation at CHOGM]]></description>
-            <link>https://bdnews24.com/bangladesh/and3dg0gzm</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/and3dg0gzm</guid>
-            <pubDate>Sun, 25 Oct 2026 21:34:00 GMT</pubDate>
-            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Portugal police clear housing protest camp, 25 held]]></title>
-            <description><![CDATA[[World] Portugal police clear housing protest camp, 25 held]]></description>
-            <link>https://bdnews24.com/world/29wr0sqgg8</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/29wr0sqgg8</guid>
-            <pubDate>Sun, 25 Oct 2026 21:19:00 GMT</pubDate>
-            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[French protest groups plan new rallies for Oct 31]]></title>
-            <description><![CDATA[[Europe] French protest groups plan new rallies for Oct 31]]></description>
-            <link>https://bdnews24.com/world/europe/1i20diy3s3</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/europe/1i20diy3s3</guid>
-            <pubDate>Sun, 25 Oct 2026 21:11:00 GMT</pubDate>
-            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Obama hits out at Trump while campaigning for Democrats]]></title>
-            <description><![CDATA[[World] Obama hits out at Trump while campaigning for Democrats]]></description>
-            <link>https://bdnews24.com/world/5vz7zdd9z6</link>
-            <guid isPermaLink="true">https://bdnews24.com/world/5vz7zdd9z6</guid>
-            <pubDate>Sun, 25 Oct 2026 21:00:00 GMT</pubDate>
             <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
