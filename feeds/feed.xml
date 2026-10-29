@@ -4,10 +4,18 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Oct 2026 23:42:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 03:05:05 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 28 Oct 2026 23:42:38 GMT</pubDate>
+        <pubDate>Thu, 29 Oct 2026 03:05:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Thakurgaon-1 by-poll voting starts]]></title>
+            <description><![CDATA[[Bangladesh] Thakurgaon-1 by-poll voting starts]]></description>
+            <link>https://bdnews24.com/bangladesh/kmst7z94ht</link>
+            <guid isPermaLink="true">https://bdnews24.com/bangladesh/kmst7z94ht</guid>
+            <pubDate>Thu, 29 Oct 2026 08:51:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-29/db7ynztk/thakurgaon-election-291026-02.jpg?w=300" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[Two-game ban for Neymar after mouth-covering clash]]></title>
             <description><![CDATA[[Sport] Two-game ban for Neymar after mouth-covering clash]]></description>
@@ -70,7 +78,7 @@
             <link>https://bdnews24.com/neighbours/z2akjty24m</link>
             <guid isPermaLink="true">https://bdnews24.com/neighbours/z2akjty24m</guid>
             <pubDate>Wed, 28 Oct 2026 23:53:00 GMT</pubDate>
-            <enclosure url="https://media.assettype.com/bdnews24-english/2026-10-28/l4t4uip3/sco-281026-01.jpg?w=300" length="0" type="false"/>
+            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[India vows to hear media concerns over privacy law]]></title>
@@ -94,14 +102,6 @@
             <link>https://bdnews24.com/sport/vbqgi3qglf</link>
             <guid isPermaLink="true">https://bdnews24.com/sport/vbqgi3qglf</guid>
             <pubDate>Wed, 28 Oct 2026 23:28:00 GMT</pubDate>
-            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Inglis, Carey put Australia in control]]></title>
-            <description><![CDATA[[Cricket] Inglis, Carey put Australia in control]]></description>
-            <link>https://bdnews24.com/cricket/iq2dzqp5pp</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/iq2dzqp5pp</guid>
-            <pubDate>Wed, 28 Oct 2026 22:32:00 GMT</pubDate>
             <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
