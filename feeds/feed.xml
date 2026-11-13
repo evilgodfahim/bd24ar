@@ -4,10 +4,66 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Nov 2026 18:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 23:58:24 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Nov 2026 18:11:49 GMT</pubDate>
+        <pubDate>Fri, 13 Nov 2026 23:58:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Jubo Dal leader hands ex-BCL leader to police]]></title>
+            <description><![CDATA[[Politics] Jubo Dal leader hands ex-BCL leader to police]]></description>
+            <link>https://bdnews24.com/politics/utb29g6nzf</link>
+            <guid isPermaLink="true">https://bdnews24.com/politics/utb29g6nzf</guid>
+            <pubDate>Sat, 14 Nov 2026 02:05:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/2026-11-13/tchuhhvm/mohiuddin-ahmed-13112026.jpg?w=300" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[World entering ‘age of electricity’: IEA chief]]></title>
+            <description><![CDATA[[Technology] World entering ‘age of electricity’: IEA chief]]></description>
+            <link>https://bdnews24.com/technology/li549mxzcg</link>
+            <guid isPermaLink="true">https://bdnews24.com/technology/li549mxzcg</guid>
+            <pubDate>Sat, 14 Nov 2026 01:48:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/2026-11-13/32g2fctq/world-electricity-141126-01.jpg?w=300" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[Ronaldinho targets one last goal in Ravenna return]]></title>
+            <description><![CDATA[[Sport] Ronaldinho targets one last goal in Ravenna return]]></description>
+            <link>https://bdnews24.com/sport/n7vaijay1u</link>
+            <guid isPermaLink="true">https://bdnews24.com/sport/n7vaijay1u</guid>
+            <pubDate>Sat, 14 Nov 2026 01:31:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/import/bdnews-english/import/english/imgAll/2026August/ronaldinho-210826-01-1787281895.jpg?w=300" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[Without action, diabetes could spiral into escalating costs]]></title>
+            <description><![CDATA[[Health] Without action, diabetes could spiral into escalating costs]]></description>
+            <link>https://bdnews24.com/health/kpo1artv0j</link>
+            <guid isPermaLink="true">https://bdnews24.com/health/kpo1artv0j</guid>
+            <pubDate>Sat, 14 Nov 2026 01:24:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/2026-11-13/uz3pc445/exercise-ramna-park-101126-55.jpg?w=300" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[EU picks 5-nation group to speak at Ukraine peace talks]]></title>
+            <description><![CDATA[[Europe] EU picks 5-nation group to speak at Ukraine peace talks]]></description>
+            <link>https://bdnews24.com/world/europe/hbfq0c62hq</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/europe/hbfq0c62hq</guid>
+            <pubDate>Sat, 14 Nov 2026 01:04:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/2026-11-13/fivzm238/eu-leaders-141126.jpg?w=300" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[74 militants killed in 10 days: Pakistan]]></title>
+            <description><![CDATA[[World] 74 militants killed in 10 days: Pakistan]]></description>
+            <link>https://bdnews24.com/world/gn3k4px3jh</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/gn3k4px3jh</guid>
+            <pubDate>Sat, 14 Nov 2026 00:48:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/import/english/imgAll/2026February/army-soldiers-010226-01-1769892001.jpg?w=300" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[ICC closes part of Afghanistan probe involving US troops]]></title>
+            <description><![CDATA[[World] ICC closes part of Afghanistan probe involving US troops]]></description>
+            <link>https://bdnews24.com/world/dlitj2g048</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/dlitj2g048</guid>
+            <pubDate>Sat, 14 Nov 2026 00:28:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/import/bdnews-english/import/english/imgAll/2026July/icc-leave-mali-02072026-01-1783009381.jpg?w=300" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[Father, twin daughters found dead in Banshkhali]]></title>
             <description><![CDATA[[Bangladesh] Father, twin daughters found dead in Banshkhali]]></description>
@@ -22,7 +78,7 @@
             <link>https://bdnews24.com/cricket/nigcbqz1pl</link>
             <guid isPermaLink="true">https://bdnews24.com/cricket/nigcbqz1pl</guid>
             <pubDate>Sat, 14 Nov 2026 00:06:00 GMT</pubDate>
-            <enclosure url="https://media.assettype.com/bdnews24-english/2026-11-13/wwdftf50/gautam_tilak_131126_01.jpg?w=300" length="0" type="false"/>
+            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Wall St slides as Nvidia overhang weighs on tech]]></title>
@@ -30,7 +86,7 @@
             <link>https://bdnews24.com/business/ho6zlbn4lu</link>
             <guid isPermaLink="true">https://bdnews24.com/business/ho6zlbn4lu</guid>
             <pubDate>Fri, 13 Nov 2026 23:56:00 GMT</pubDate>
-            <enclosure url="https://media.assettype.com/bdnews24-english/2026-11-13/co0iam1d/nvidia-huang-131126.jpg?w=300" length="0" type="false"/>
+            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[UK probe allegations against children's author Walliams]]></title>
@@ -38,7 +94,7 @@
             <link>https://bdnews24.com/entertainment/dixzvby0z1</link>
             <guid isPermaLink="true">https://bdnews24.com/entertainment/dixzvby0z1</guid>
             <pubDate>Fri, 13 Nov 2026 23:47:00 GMT</pubDate>
-            <enclosure url="https://media.assettype.com/bdnews24-english/2026-11-13/4ni4rnho/david-walliams-131126.jpg?w=300" length="0" type="false"/>
+            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Nvidia approached Arm CEO Haas to succeed Huang: FT]]></title>
@@ -46,62 +102,6 @@
             <link>https://bdnews24.com/business/52plepsznm</link>
             <guid isPermaLink="true">https://bdnews24.com/business/52plepsznm</guid>
             <pubDate>Fri, 13 Nov 2026 23:31:00 GMT</pubDate>
-            <enclosure url="https://media.assettype.com/bdnews24-english/2026-11-13/pk0i1bnk/nvidia-haas-131126.jpg?w=300" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[Fire at MP Nusrat’s home ‘not caused by short circuit’]]></title>
-            <description><![CDATA[[Bangladesh] Fire at MP Nusrat’s home ‘not caused by short circuit’]]></description>
-            <link>https://bdnews24.com/bangladesh/7ergnk42dk</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/7ergnk42dk</guid>
-            <pubDate>Fri, 13 Nov 2026 22:09:00 GMT</pubDate>
-            <enclosure url="https://media.assettype.com/bdnews24-english/2026-11-13/3rjjsi7w/kushtia_mp_nusrat_131126_01.jpg?w=300" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[UN chief urges drastic emissions cuts]]></title>
-            <description><![CDATA[[Environment] UN chief urges drastic emissions cuts]]></description>
-            <link>https://bdnews24.com/environment/ifnvcq9pu9</link>
-            <guid isPermaLink="true">https://bdnews24.com/environment/ifnvcq9pu9</guid>
-            <pubDate>Fri, 13 Nov 2026 21:53:00 GMT</pubDate>
-            <enclosure url="https://media.assettype.com/bdnews24-english/2026-11-13/lufb24yy/fossil-fuel-131126-01.jpg?w=300" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[Saqib's 7-for headlines rain-hit Rawalpindi draw]]></title>
-            <description><![CDATA[[Cricket] Saqib's 7-for headlines rain-hit Rawalpindi draw]]></description>
-            <link>https://bdnews24.com/cricket/96315cjlpx</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/96315cjlpx</guid>
-            <pubDate>Fri, 13 Nov 2026 21:39:00 GMT</pubDate>
-            <enclosure url="https://media.assettype.com/bdnews24-english/2026-11-12/jx01ilcz/pakistan_121126_01.jpg?w=300" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[Germany set for near-record new borrowing in 2027]]></title>
-            <description><![CDATA[[Economy] Germany set for near-record new borrowing in 2027]]></description>
-            <link>https://bdnews24.com/economy/yb1xxiq56n</link>
-            <guid isPermaLink="true">https://bdnews24.com/economy/yb1xxiq56n</guid>
-            <pubDate>Fri, 13 Nov 2026 21:33:00 GMT</pubDate>
-            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beardman's dream debut sinks England]]></title>
-            <description><![CDATA[[Cricket] Beardman's dream debut sinks England]]></description>
-            <link>https://bdnews24.com/cricket/sg86bokzdw</link>
-            <guid isPermaLink="true">https://bdnews24.com/cricket/sg86bokzdw</guid>
-            <pubDate>Fri, 13 Nov 2026 21:30:00 GMT</pubDate>
-            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India ‘hints at two conditions’ for Hasina return: report]]></title>
-            <description><![CDATA[[Bangladesh] India ‘hints at two conditions’ for Hasina return: report]]></description>
-            <link>https://bdnews24.com/bangladesh/13wpqcjpcx</link>
-            <guid isPermaLink="true">https://bdnews24.com/bangladesh/13wpqcjpcx</guid>
-            <pubDate>Fri, 13 Nov 2026 21:04:00 GMT</pubDate>
-            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[New blood-brain barrier finding may help tackle Alzheimer's]]></title>
-            <description><![CDATA[[Health] New blood-brain barrier finding may help tackle Alzheimer's]]></description>
-            <link>https://bdnews24.com/health/19mltdkld4</link>
-            <guid isPermaLink="true">https://bdnews24.com/health/19mltdkld4</guid>
-            <pubDate>Fri, 13 Nov 2026 20:45:00 GMT</pubDate>
             <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
