@@ -4,10 +4,26 @@
         <description><![CDATA[Latest news from bdnews24.com archive]]></description>
         <link>https://bdnews24.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Nov 2026 23:58:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Nov 2026 04:41:18 GMT</lastBuildDate>
         <atom:link href="https://bdnews24.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Nov 2026 23:58:24 GMT</pubDate>
+        <pubDate>Sat, 14 Nov 2026 04:41:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump official seeks $50bn for air traffic control]]></title>
+            <description><![CDATA[[Americas] Trump official seeks $50bn for air traffic control]]></description>
+            <link>https://bdnews24.com/world/americas/g5okk3e20z</link>
+            <guid isPermaLink="true">https://bdnews24.com/world/americas/g5okk3e20z</guid>
+            <pubDate>Sat, 14 Nov 2026 10:02:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/2026-11-14/hujncowh/us-air-traffic-fund-141126-01.jpg?w=300" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[US flights to resume after air traffic failure]]></title>
+            <description><![CDATA[[Aviation] US flights to resume after air traffic failure]]></description>
+            <link>https://bdnews24.com/aviation/7qkm472krw</link>
+            <guid isPermaLink="true">https://bdnews24.com/aviation/7qkm472krw</guid>
+            <pubDate>Sat, 14 Nov 2026 09:25:00 GMT</pubDate>
+            <enclosure url="https://media.assettype.com/bdnews24-english/2026-11-14/mogcjasy/us-air-traffic-failure-141126-01.jpg?w=300" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[Jubo Dal leader hands ex-BCL leader to police]]></title>
             <description><![CDATA[[Politics] Jubo Dal leader hands ex-BCL leader to police]]></description>
@@ -62,7 +78,7 @@
             <link>https://bdnews24.com/world/dlitj2g048</link>
             <guid isPermaLink="true">https://bdnews24.com/world/dlitj2g048</guid>
             <pubDate>Sat, 14 Nov 2026 00:28:00 GMT</pubDate>
-            <enclosure url="https://media.assettype.com/bdnews24-english/import/bdnews-english/import/english/imgAll/2026July/icc-leave-mali-02072026-01-1783009381.jpg?w=300" length="0" type="false"/>
+            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Father, twin daughters found dead in Banshkhali]]></title>
@@ -70,7 +86,7 @@
             <link>https://bdnews24.com/bangladesh/z96vumcvk2</link>
             <guid isPermaLink="true">https://bdnews24.com/bangladesh/z96vumcvk2</guid>
             <pubDate>Sat, 14 Nov 2026 00:08:00 GMT</pubDate>
-            <enclosure url="https://media.assettype.com/bdnews24-english/2026-11-13/jmgakx6n/chattogram_medical_060426_01_1775493016.jpg?w=300" length="0" type="false"/>
+            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[India's batting frailties trouble Gambhir ahead of WC]]></title>
@@ -86,22 +102,6 @@
             <link>https://bdnews24.com/business/ho6zlbn4lu</link>
             <guid isPermaLink="true">https://bdnews24.com/business/ho6zlbn4lu</guid>
             <pubDate>Fri, 13 Nov 2026 23:56:00 GMT</pubDate>
-            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[UK probe allegations against children's author Walliams]]></title>
-            <description><![CDATA[[Entertainment] UK probe allegations against children's author Walliams]]></description>
-            <link>https://bdnews24.com/entertainment/dixzvby0z1</link>
-            <guid isPermaLink="true">https://bdnews24.com/entertainment/dixzvby0z1</guid>
-            <pubDate>Fri, 13 Nov 2026 23:47:00 GMT</pubDate>
-            <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nvidia approached Arm CEO Haas to succeed Huang: FT]]></title>
-            <description><![CDATA[[Business] Nvidia approached Arm CEO Haas to succeed Huang: FT]]></description>
-            <link>https://bdnews24.com/business/52plepsznm</link>
-            <guid isPermaLink="true">https://bdnews24.com/business/52plepsznm</guid>
-            <pubDate>Fri, 13 Nov 2026 23:31:00 GMT</pubDate>
             <enclosure url="https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
